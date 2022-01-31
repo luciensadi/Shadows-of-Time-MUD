@@ -911,7 +911,7 @@ AEDIT (aedit_builder)
 
     name[0] = UPPER (name[0]);
 
-    if (strstr (pArea->builders, name) != '\0')
+    if (strstr (pArea->builders, name))
     {
         pArea->builders = string_replace (pArea->builders, name, "\0");
         pArea->builders = string_unpad (pArea->builders);
@@ -927,7 +927,7 @@ AEDIT (aedit_builder)
     else
     {
         buf[0] = '\0';
-        if (strstr (pArea->builders, "None") != '\0')
+        if (strstr (pArea->builders, "None"))
         {
             pArea->builders = string_replace (pArea->builders, "None", "\0");
             pArea->builders = string_unpad (pArea->builders);

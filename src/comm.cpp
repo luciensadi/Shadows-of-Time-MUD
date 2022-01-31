@@ -1326,11 +1326,10 @@ void init_descriptor (int control)
       char buf[MSL];
     #endif
     int desc;
-    size_t size;
 
-    size = sizeof (sock);
-    getsockname (control, (struct sockaddr *) &sock, &size);
-    if ((desc = accept (control, (struct sockaddr *) &sock, &size)) < 0)
+    size_t size = sizeof (sock);
+    getsockname (control, (struct sockaddr *) &sock, (socklen_t*)&size);
+    if ((desc = accept (control, (struct sockaddr *) &sock, (socklen_t*)&size)) < 0)
     {
         perror ("New_descriptor: accept");
         return;
@@ -1363,7 +1362,7 @@ void init_descriptor (int control)
     dnew->outbuf = (char *) alloc_mem (dnew->outsize);
 
     size = sizeof (sock);
-    if (getpeername (desc, (struct sockaddr *) &sock, &size) < 0)
+    if (getpeername (desc, (struct sockaddr *) &sock, (socklen_t*)&size) < 0)
     {
         perror ("New_descriptor: getpeername");
         #ifdef THREADED_DNS
@@ -4608,12 +4607,12 @@ int colour (char type, CHAR_DATA * ch, char *string)
 {
     PC_DATA *col;
     char code[20];
-    char *p = '\0';
+    char *p = NULL;
 
     if (ch && IS_NPC (ch) && ch->desc->original == ch->desc->character)
         return (0);
 
-    if (type == '\0')
+    if (!type)
     {
       return 0;
     }

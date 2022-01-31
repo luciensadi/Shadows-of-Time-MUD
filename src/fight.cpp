@@ -3437,7 +3437,7 @@ void make_corpse (CHAR_DATA * ch, CHAR_DATA * killer)
         corpse = create_object (get_obj_index (OBJ_VNUM_CORPSE_PC), 0);
         corpse->timer = number_range (25, 40);
         corpse->owner = str_dup (ch->name);
-	if (ch->pcdata->lastKilled != '\0')
+	if (ch->pcdata->lastKilled && *(ch->pcdata->lastKilled))
 	{
 	  corpse->lastKilled = str_dup (ch->pcdata->lastKilled);
 	  

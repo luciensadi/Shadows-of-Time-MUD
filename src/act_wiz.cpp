@@ -1032,13 +1032,13 @@ void do_resetpassword( CHAR_DATA *ch, char *argument )
 
     victim = get_char_world(ch, arg1);
 
-    if (  ( ch->pcdata->pwd != '\0' )
+    if (  ( ch->pcdata->pwd && *(ch->pcdata->pwd) )
     && ( arg1[0] == '\0' || arg2[0] == '\0')  )
     {
         send_to_char( "Syntax: password <char> <new>.\n\r", ch );
         return;
     }
-    if( victim == '\0' )
+    if( victim )
     {
 		send_to_char( "That person isn't here, they have to be here to reset pwd's.\n\r", ch);
 	 	return;
@@ -7627,7 +7627,7 @@ void do_grant(CHAR_DATA *ch, char *argument)
 
   buf[0] = '\0';
 
-  if (victim->pcdata->granted != '\0')
+  if (victim->pcdata->granted && *(victim->pcdata->granted))
   {
     strcat( buf, victim->pcdata->granted );
     strcat( buf, " ");

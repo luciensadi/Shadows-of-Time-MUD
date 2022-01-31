@@ -541,11 +541,15 @@ void boot_db ()
         for (;;)
         {
             int version = 0;
-            strcpy (strArea, fread_word (fpList));
-            if (strArea[0] == '$')
+            char read_word[1000];
+            strcpy(read_word, fread_word(fpList));
+            snprintf(strArea, sizeof(strArea), "../area/%s", read_word);
+            if (read_word[0] == '$') {
+                strcpy(strArea, "$");
                 break;
+            }
 
-            if (strArea[0] == '-')
+            if (read_word[0] == '-')
             {
                 fpArea = stdin;
             }
@@ -2363,6 +2367,7 @@ void fix_exits (void)
             }                    /* for */
 
             fexit = FALSE;
+            fBootDb = FALSE;
             for (door = 0; door <= 5; door++)
             {
                 if ((pexit = pRoomIndex->exit[door]) != NULL)
@@ -2377,6 +2382,7 @@ void fix_exits (void)
                     }
                 }
             }
+            fBootDb = TRUE;
             if (!fexit)
                 SET_BIT (pRoomIndex->room_flags, ROOM_NO_MOB);
         }

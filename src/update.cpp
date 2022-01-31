@@ -1946,7 +1946,7 @@ void update_handler (void)
     {
         pulse_dtrap     = PULSE_DEATHTRAP;
         dtrap_update     ( );
-        check_all_games();
+        //check_all_games();
     }
 
 	if (--pulse_mobhunt <= 0)

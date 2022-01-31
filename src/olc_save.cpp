@@ -64,7 +64,7 @@ char *fix_string (const char *str)
     int o;
 
     if (str == NULL)
-        return '\0';
+        return NULL;
 
     for (o = i = 0; str[i + o] != '\0'; i++)
     {

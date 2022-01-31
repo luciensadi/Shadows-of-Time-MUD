@@ -57,7 +57,8 @@ void ispell_init()
     ispell_pid = fork();
     if (ispell_pid < 0)
     {
-        char *errmsg = '\0';
+	char errmsg_buf[1024];
+        char *errmsg = errmsg_buf;
         sprintf(errmsg, "ispell_init: fork: %s", strerror(errno));
         bug(errmsg, 0);
     }

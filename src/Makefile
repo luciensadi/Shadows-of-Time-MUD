@@ -2,7 +2,7 @@ CC      = gcc
 CPP     = g++
 PROF    = -O -g -ggdb
 NOCRYPT =
-COMMON_FLAGS = -DPLAYER_DIR="\"$(pwd)/../player/\"" -DLOG_PK_DIR="\"$(pwd)/../log/pk/\"" -DLOG_RP_DIR="\"$(pwd)/../log/rp/\"" -DLOG_IMM_DIR="\"$(pwd)/../log/imm/\"" -DNULL_FILE="\"/dev/null\"" -DACCOUNT_DIR="\"$(pwd)/../data/roster/\"" -DTEMP_FILE="\"tmpfile.txt\"" -DROSTER_DIR="\"$(pwd)/../data/roster/\"" -DDATA_DIR="\"$(pwd)/../data/\""
+# COMMON_FLAGS = -DPLAYER_DIR="\"$(pwd)/../player/\"" -DLOG_PK_DIR="\"$(pwd)/../log/pk/\"" -DLOG_RP_DIR="\"$(pwd)/../log/rp/\"" -DLOG_IMM_DIR="\"$(pwd)/../log/imm/\"" -DNULL_FILE="\"/dev/null\"" -DACCOUNT_DIR="\"$(pwd)/../data/roster/\"" -DTEMP_FILE="\"tmpfile.txt\"" -DROSTER_DIR="\"$(pwd)/../data/roster/\"" -DDATA_DIR="\"$(pwd)/../data/\""
 C_FLAGS =  $(PROF) $(NOCRYPT) -D__USE_UNIX98 -DMCCP -DDNS_SLAVE -DBSD $(COMMON_FLAGS)
 CXX_FLAGS =  $(PROF) $(NOCRYPT) -D__USE_UNIX98 -DMCCP -DDNS_SLAVE -DBSD $(COMMON_FLAGS)
 L_FLAGS =  $(PROF) -pthread -lz -L/usr/lib/mysql

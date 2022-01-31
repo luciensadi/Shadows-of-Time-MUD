@@ -137,7 +137,7 @@ void	vinterpret( CHAR_DATA *ch, char *argument, ... );
 #define MPROGS_INSTALLED
 			// comment out if you do not have Ivan's (or compatible) mob programs
 
-#define DOUBLE_LOGGING
+// #define DOUBLE_LOGGING
 			// I have stdout redirected to a log file and stderr writing normally
 			// to the console. (That helps with debugging.) All log strings are 
 			// sent once to each stream if DOUBLE_LOGGING is defined, otherwise
