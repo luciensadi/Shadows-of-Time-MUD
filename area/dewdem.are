@@ -1,0 +1,364 @@
+#AREADATA
+Name Dewalt Demo~
+Builders Dewalt~
+VNUMs 16402 16502
+Credits Dewalt - Demo Area~
+Security 10
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#16402
+A curious little boy~
+A curious boy~
+A curious boy peers at you under big eye lashes.
+~
+He seems to have a question to ask of you, but isn't sure whether to do it or not.
+~
+unique~
+0 0
+A 336 0 0 0 -1  1000 0
+30 0 1d2+1 1d1+1 1d1+1 none
+-9 -9 -9 0
+0 BCD 0 0
+stand stand male  5
+V ABCDEFGHIJK small unknown
+M ACT 16402 looks at you~
+M GIVE 16405 teddy~
+M SPEECH 16403 yes~
+#16498
+Bob~
+Bob~
+Bob is standing here, tits and all.
+~
+Bob has bitch-tits.
+~
+unique~
+0 0
+ABRT 256 32768 0 0 -1  0 0
+300 500 50000d1+10000 9000d1+100 10d10+500 smash
+-100 -100 -100 -100
+ACEFH ABQTab HK I
+stand stand none 0
+AHMV ABCDEFGHIJK huge unknown
+#16499
+Something Beautiful~
+Something Beautiful~
+Something beautiful stands here...waiting to be destroyed.
+~
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+320 600 75000d1+1 24464d1+200 15d15+600 flame
+-150 -150 -150 -150
+CFHK ABQab HIK Y
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#16500
+Jack's Clogged Colon~
+Jack's Clogged Colon~
+Jack's Clogged Colon sits here...being nasty and such.
+~
+~
+unique~
+0 0
+AB 256 32832 0 0 -1  0 0
+350 750 100000d1+1 -31072d1+1 50d50+1 slime
+-200 -200 -200 -200
+ACFHK HIK 0 J
+stand stand none 0
+S F medium unknown
+#16501
+Lou~
+Lou~
+Lou is standing here, wondering...Who the fuck are you?
+~
+~
+unique~
+0 0
+AB 1280 32832 0 0 -1  0 0
+400 850 200000d1+1 10000d1+1 50d65+1 none
+-300 -300 -300 -300
+ACFHJ 0 HIK 0
+stand stand none 0
+HMV ABCEIJ huge unknown
+#16502
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#16402
+A metal folding chair~
+a metal folding chair rests here.~
+A simple grey colored folding chair.~
+unknown~
+furniture IOTU A
+0
+A FHJKPQ EHK CFG CFG
+1 0 0 P
+ T 0 none~
+#16403
+An Army sleeping cot~
+an Army sleeping cot sits here.~
+A cot commonly issued to US Army servicemembers sits here.~
+unknown~
+furniture IOT A
+0
+A FHJKPQ EHK EIJKN EIJKN
+10 10 0 P
+ T 0 none~
+#16404
+horse hide~
+a horse hide~
+The hide of a horse lies here.~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 10 0 P
+ T 0 none~
+#16498
+Bob's Bitch Tits~
+`$Bob`!'`$s `%B`5i`%t`5c`%h `#T`^i`#t`!s`7~
+A pair of Bob's huge saggy man-boobs.~
+flesh~
+armor ABIad AD
+0
+BCEF BCEF BCEF BCEF 0
+110 20 100000 P
+A
+19 10
+A
+18 10
+A
+20 -11
+ T 0 none~
+#16499
+Bob's Brains~
+`$Bob`!'`$s `3B`#r`3a`#i`2n`3s`7~
+A pile of brains sits here.~
+brains~
+armor ABIad AO
+0
+BCEF BCEF BCEF BCEF 0
+110 10 100000 P
+A
+13 75
+A
+19 3
+A
+18 3
+A
+12 50
+ T 0 none~
+#16500
+Lou's Face~
+`!L`8o`!u`7'`!s `@F`2ac`3e`7~
+(no description)~
+flesh~
+armor ABIad AR
+0
+AG AG AG AG 0
+150 30 100000 P
+A
+19 10
+A
+18 10
+A
+17 -30
+A
+13 20
+A
+12 20
+A
+20 -4
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#16402
+Dewalt's Quarters~
+This is where Dewalt hangs out in his spare time.  On the wall you notice
+a large picture of a sunset in Bagdad with an American soldier turned facing
+it.  The only furniture adorning the room is a metal folding chair and a
+collapsable Army sleeping cot.  Both appear to have a lot of hours on them. 
+Above the cot, on the wall, is a picture of a beautiful woman smiling into
+the camera.  
+~
+0 407379972 0
+S
+#16498
+Door Number 1~
+~
+0 0 0
+D1
+~
+~
+0 0 16499
+S
+#16499
+Door Number 2~
+~
+0 0 0
+D1
+~
+~
+0 0 16500
+S
+#16500
+Door Number 3~
+~
+0 0 0
+D1
+~
+~
+0 0 16501
+S
+#16501
+Lou's Room~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 16498 spec_breath_gas
+M 16499 spec_breath_any
+S
+
+
+
+#RESETS
+O 0 16402 0 16402 0 100 A metal folding chair rests here. loaded to Dewalt's Quarters
+O 0 16403 0 16402 0 100 An army sleeping cot sits here. loaded to Dewalt's Quarters
+M 0 16498 1 16498 1 100 Load Bob
+M 0 16499 1 16499 1 100 Load Something Beautiful
+M 0 16500 1 16500 1 100 Load Jack's Clogged Colon
+M 0 16501 1 16501 1 100 Load Lou
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#16402
+if !hasquest $n 15
+mob addquest $n 15
+tell $n Hey..stranger, some meen man took my teddy bare. He was a big guy just...sowth of heer. I sumone cawl him Merik or sumthin.
+tell $n Could you get it back for me please?
+end
+~
+#16403
+if hasquest $n 15
+tell $n Thank you! Bring my teddy back! PLEASE!
+end
+~
+#16404
+if hasquest $n 15
+say AHHHHHHHHH! I wanted to give this to MY son! *cries in agony as he falls to the ground*
+mob completequest step $n 15 1
+mob oload 16402
+end
+~
+#16405
+if hasquest $n 15
+emote beams a big smile at you.
+tell $n Thank you sooo much.
+mob updatequeststatus $n 15 completed
+end
+~
+#16406
+if !hasquest $n 16
+say Hey there, stranger. Would you like to earn an extra gold piece or two?
+end
+~
+#16407
+if !hasquest $n 16
+mob addquest $n 16
+say Good..good. I am, as you know, a worker of the hides of beasts.
+say As of late, I am running low on good stock of hides.
+say I've heard of herds of mad cows and some sane horses that might be just what I need.
+say If you would go and return with the hides of a horse and a mad cow, I'll be a happy woman.
+say So, will you do it?
+end
+~
+#16408
+if hasquest $n 16
+say Thank you. Bring me the mad cow hide first, and then the horse hide.
+end
+~
+#16409
+if hasquest $n 16
+say Thanks a load, kind stranger!
+say Now just get me that other hide!
+mob completequeststep 2
+end
+~
+#16410
+if hasquest $n 16
+emote lets out a huge sigh of relief.
+say You don't know how much I appreciate this.
+say As I said, here you go!
+give 50 gold $n
+mob completequeststep $n 15 4
+mob updatequeststatus $n 16 complete
+bow
+end;
+~
+#16412
+if hasquest $n 16
+emote calms in a moment of temporary sanity...then, smiles as you split it open.
+mob completequeststep $n 16 1
+end
+~
+#16414
+mob oload 16403
+end
+~
+#16415
+mob purge hide
+end
+~
+#16416
+mob load 16404
+end
+~
+#16417
+mob purge hide
+end
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

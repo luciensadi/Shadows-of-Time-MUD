@@ -1,0 +1,659 @@
+#AREADATA
+Name The Mill Maze Filler~
+Builders Allen~
+VNUMs 19950 19974
+Credits `4[`*Middle`4]`* Allen      The Mill2~
+Security 10
+Flags CE
+Version 4
+End
+
+
+
+#MOBILES
+#19951
+toy~
+toy~
+Toy
+~
+~
+illian~
+0 0
+A 2 0 0 1 -1  0 0
+2 200 1d1+5 0d0+0 0d0+0 slice
+10 10 10 10
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#19954
+Trolloc A~
+A Trolloc~
+A huge trolloc rushes fourth from the woods directly at you!
+~
+~
+troll~
+0 0
+AFGTUWZ 272 1104 129 512 -1  0 0
+200 300 9000d1+0 0d0+0 2d200+0 beating
+0 0 0 0
+DFK ABab CE K
+stand stand male  0
+ABHMV ABCDEFGHIJKUV huge unknown
+F res B
+F vul H
+#0
+
+
+
+#OBJECTS
+#19951
+stone legplates of honor~
+`*Stone Legplates of Honor~
+A pair of very old stone legplates rest here.~
+stone~
+armor JK AF
+0
+ACDF ACDF ACDF ACDF 0
+150 150 100 P
+A
+17 -20
+A
+20 -10
+A
+19 10
+A
+18 10
+ T 0 none~
+#19952
+soft cowskin boots~
+`*Soft Cowskin Boots~
+Some leather boots lay here.~
+leather~
+armor GJK AG
+0
+ACDF ACDF ACDF ACDF 0
+150 50 1 P
+A
+13 100
+A
+12 40
+A
+20 -10
+ T 0 none~
+#19953
+stained ashandarei~
+`*A Stained Ashandarei~
+A short spear stained with blood is left here.~
+wood~
+weapon HKa AN
+0
+spear 4 37 slice DH
+150 20 0 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+17 -10
+ T 0 none~
+#19955
+shawl nine moons shoulder quest~
+`*(`4L`8acquered`*) `4A Sh`8a`4wl `2b`4earin`8g `$T`4he E`8m`4blem `2of `4Th`8e `$N`4in`$e `8Moo`4n`4s`*~
+A Satin cloth of blue, green and black lays here.~
+satin~
+armor JKd AS
+0
+ABCEF ABCEF ABCEF ABCEF 0
+150 200 0 P
+A
+13 80
+A
+20 -5
+A
+17 -10
+A
+19 10
+A
+18 10
+ T 0 none~
+#19960
+the first half of the medallion~
+the first half of the medallion~
+This is it!  Take this back to the wizard asap!~
+unknown~
+trash ABCGa A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#19961
+the second half of the medallion~
+the second half of the medallion~
+This is it!  Take this back to the wizard asap!~
+unknown~
+trash ABCGa A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#19962
+quest portal~
+portal~
+A dark shimmering hole in space has opened here~
+unknown~
+portal 0 0
+0
+0 0 0 BCDFGHIKLO 0
+0 0 0 P
+ T 0 none~
+#19974
+a window to pella~
+a window to pella~
+Type 'enter' to get out.~
+unknown~
+window 0 0
+0
+BCDFGHIJL 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#19950
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19951
+D3
+~
+~
+0 0 12918
+S
+#19951
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 19952
+D2
+~
+~
+0 0 19950
+S
+#19952
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19953
+D3
+~
+~
+0 0 19951
+S
+#19953
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 19954
+D2
+~
+~
+0 0 19952
+S
+#19954
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D2
+~
+~
+0 0 19955
+D3
+~
+~
+0 0 19953
+S
+#19955
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19954
+D3
+~
+~
+0 0 19956
+S
+#19956
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 19955
+D2
+~
+~
+0 0 19957
+S
+#19957
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19956
+D2
+~
+~
+0 0 19958
+S
+#19958
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19957
+D1
+~
+~
+0 0 23965
+D2
+~
+~
+0 0 19959
+S
+#19959
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19958
+D3
+~
+~
+0 0 19960
+S
+#19960
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 19959
+D2
+~
+~
+0 0 19961
+S
+#19961
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19960
+D2
+~
+~
+0 0 19962
+S
+#19962
+The Westren Woods~
+Spellup here, nothing is going to hurt you The fog and mist roll slowly,
+following no set pattern or path.  The air is as the air of the night, cool,
+heavy with moisture.  The trees are all bare, devoid of leaves.  Twigs snap
+under the weight of your feet as they press down on them while you walk. 
+The sense that these woods have been dead for some time prevales and seems
+quiet apparent.  
+~
+0 138412036 3
+D0
+~
+~
+0 0 19961
+D2
+~
+~
+0 0 19963
+M 600 H 600
+S
+#19963
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19962
+D1
+~
+~
+0 0 19964
+S
+#19964
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D2
+~
+~
+0 0 19965
+D3
+~
+~
+0 0 19963
+S
+#19965
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19964
+D1
+~
+~
+0 0 19966
+S
+#19966
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D2
+~
+~
+0 0 19967
+D3
+~
+~
+0 0 19965
+S
+#19967
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19966
+D1
+~
+~
+0 0 19968
+S
+#19968
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D2
+~
+~
+0 0 19969
+D3
+~
+~
+0 0 19967
+S
+#19969
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19968
+D1
+~
+~
+0 0 19970
+S
+#19970
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 19971
+D3
+~
+~
+0 0 19969
+S
+#19971
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19972
+D3
+~
+~
+0 0 19970
+S
+#19972
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 19974
+D2
+~
+~
+0 0 19971
+D3
+~
+~
+0 0 19973
+S
+#19973
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 19972
+D3
+~
+~
+0 0 23998
+S
+#19974
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 23981
+D2
+~
+~
+0 0 19972
+M 500 H 500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 3603 20 19950 20 100 Load imp
+M 0 3612 1 19951 1 100 Load `*Draghkar
+M 0 19954 10 19954 10 100 Load A Trolloc
+M 0 3603 20 19970 20 100 Load imp
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,179 @@
+#AREADATA
+Name Whitebridge~
+Builders None~
+VNUMs 15500 15519
+Credits [Demiscus]~
+Security 10
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#15500
+a smoking pipe~
+a smoking pipe~
+A small pipe is here.~
+unknown~
+pipetabac 0 A
+0
+BEF BEF 0 0 0
+0 0 3000 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#15500
+Northern Pass~
+Whitebridge continues to the Northern Edge beyond the Northern Chamber. 
+Market Street continues to the east and west.  The road is packed with
+shoppers, workers and tradesfolk.  
+~
+0 0 0
+D0
+~
+~
+0 0 15501
+D2
+~
+~
+0 0 15506
+S
+#15501
+A Town Square~
+Bustling activity can be heard from the city city northward, while
+strange bubbling sounds can be heard southward.  The gases from the swamp to
+the south slowly creep over the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 15502
+D2
+~
+~
+0 0 15500
+S
+#15502
+Market Street~
+Whitebridge continues to the Northern Edge beyond the Northern Chamber. 
+Market Street continues to the east and west.  The road is packed with
+shoppers, workers and tradesfolk.  
+~
+0 0 0
+D0
+~
+~
+0 0 15503
+D2
+~
+~
+0 0 15501
+S
+#15503
+Busy Street~
+The road seems to be getting busier Northwards.  Whitebridge continues to
+the Northern Edge beyond the Northern Chamber.  Market Street continues to
+the east and west.  The road is packed with shoppers, workers and
+tradesfolk.  
+~
+0 0 0
+D0
+~
+~
+0 0 15504
+D2
+~
+~
+0 0 15502
+S
+#15504
+Dusty Street~
+Bustling activity can be heard from the city city northward, while
+strange bubbling sounds can be heard southward.  The gases from the swamp to
+the south slowly creep over the path.  Strange people can be seen around.  A
+few whitecloaks patrol the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 15505
+D2
+~
+~
+0 0 15503
+S
+#15505
+Approaching the Northern Gates~
+A few guards are around patrolling the area, some can be seen to the
+North.  The exit at the Northern gates can be seen to the North.  To the
+south, there are several outstretched shops.  
+~
+0 0 0
+D0
+~
+~
+0 0 3262
+D2
+~
+~
+0 0 15504
+S
+#15506
+The Northern Chamber~
+Several men and women are gathered within this peaceful healing chamber. 
+The walls are made of a beautiful obsidian colored marble, and the floor is
+covered with soft bearskin rugs.  The chamber is engulfed with peaceful, and
+soothing music.  Towards the center of the chamber, are a set of marble
+stairs that lead down to a fairly large room below.  To the north is arched
+doorway that leads into a fairly large room, filled with both men and women.
+~
+0 0 0
+D0
+~
+~
+0 0 15500
+D2
+~
+~
+0 0 3054
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

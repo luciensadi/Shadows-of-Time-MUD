@@ -1,0 +1,1027 @@
+#AREADATA
+Name quest coupon area~
+Builders Dreyus~
+VNUMs 19701 19850
+Credits Quest Eq Coupon Area~
+Security 10
+Flags CF
+Version 4
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#19701
+black boots~
+`8Bl`&a`8ck B`7o`&o`7t`8s `$I`4nscr`8i`4bed `1W`!i`1th `$A `2G`@ree`2n `1D`!r`8ag`!o`1n `@I`8ns`@i`8gn`@i`8a`*~
+A pair of black boots is here, waiting for their owner.~
+unknown~
+armor ad AG
+0
+BCEF BCEF BCEF ACEF 0
+150 0 0 P
+A
+19 10
+A
+18 10
+A
+20 -10
+A
+13 55
+ T 0 none~
+#19702
+high inquisitor spaulder~
+`#G`3o`#ld`3e`#n `8Sp`*au`8ld`*e`8rs `7of the `#H`&igh `#I`&nquisitor`7~
+Golden shoulder plates lie on the floor~
+unknown~
+armor Aad AS
+0
+BDF BDF BDF BDF 0
+110 50 50000 P
+A
+13 57
+A
+19 10
+A
+18 10
+ T 0 none~
+#19703
+aiel shoulder plate~
+`8Aiel Shoulder Plate`7~
+`8Aiel Shoulder Plate`7~
+unknown~
+armor ad AS
+0
+BCEF BCEF BCEF BCEF 0
+150 40 50000 P
+A
+18 11
+A
+19 11
+A
+20 -11
+A
+13 75
+A
+14 -100
+ T 0 none~
+#19704
+shower shoes~
+`8De`&m`8andred's `&C`7r`8a`7c`&k `$H`4ous`$e `@S`2h`@o`2w`@e`2r `!S`1hoe`!s`*~
+The shower shoes of a crack addicted immortal are here.~
+unknown~
+armor JKad AG
+A
+BCEF BCEF BCEF BCEF 0
+150 30 45000 P
+A
+18 11
+A
+19 11
+A
+20 -11
+A
+13 25
+A
+12 25
+A
+4 -3
+A
+5 -3
+A
+13 30
+ T 0 none~
+#19705
+face hacker~
+`$D`1iem's `!F`4rown `#F`3r`#o`3m`5 A `*H`8a`&ck`8e`*r~
+The frown of Diem is here, frowning down upon thee.~
+unknown~
+armor JKad AR
+A
+BCEF BCEF BCEF BCEF 0
+150 10 49000 P
+A
+20 -11
+A
+13 100
+A
+19 6
+A
+18 6
+A
+4 -3
+A
+5 -3
+A
+12 30
+ T 0 none~
+#19706
+ear muff~
+`&L`4ynn's `#E`3a`#r `!M`1uff`&s`*~
+Here are a pair of ear muffs made from the inner thighs of a beautiful impelmentor.~
+unknown~
+armor JKad AE
+A
+BCEF BCEF BCEF BCEF 0
+150 40 67000 P
+A
+19 11
+A
+18 11
+A
+20 -11
+A
+13 50
+A
+4 -3
+A
+5 -3
+A
+13 30
+ T 0 none~
+#19707
+light flashlight~
+`8As`$m`4o`&d`$e`4u`8s's `&F`7l`&a`7s`&h`7l`&i`7g`&h`7t `!t`1o `#F`3ind `%H`5is `@W`2ay `!B`1ack`*~
+A flashlight owned by Asmodeus seems to have been left here.~
+unknown~
+light JKad A
+A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+150 50 74000 P
+A
+13 100
+A
+12 100
+A
+4 -3
+A
+5 -3
+A
+18 5
+A
+19 4
+ T 0 none~
+#19708
+cloak~
+`8N`7ow `8Y`7ou `!S`1ee `#M`3e, `8N`7ow `8Y`7ou `!D`1on't `&C`7l`8o`7a`&k `3o`#f `$C`4a`1m`!m`$a`4e`!d`1r`4o`$s`*~
+A shifting cloak of an immortal is here, hiding whenever you try to look at it.~
+unknown~
+armor JKad AK
+A
+BCEF BCEF BCEF BCEF 0
+150 90 45000 P
+A
+20 -11
+A
+18 11
+A
+19 11
+A
+13 50
+A
+4 -3
+A
+5 -3
+A
+13 30
+ T 0 none~
+#19709
+light~
+`8L`7i`&g`7h`8t `!o`1f `$S`8h`7a`&i'`7t`8a`$n`*~
+Light of Shai'tan is here, glowing darkly.~
+unknown~
+light JKad A
+J
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+150 40 75000 P
+A
+19 11
+A
+18 11
+A
+20 -11
+A
+13 50
+A
+4 -3
+A
+5 -3
+A
+13 30
+ T 0 none~
+#19710
+shorts pants~
+`$S`4horts `8o`&f `!R`1o`!l`1l`!a`1n`!d,`& C`7u`&z `?A`?r`?i`?a`?n`?n`?a `#w`3ears `8t`7h`&e `$Pants`*~
+These shorts are from Rolland, as Arianna doesn't allow him to wear pants.~
+unknown~
+armor JKad AL
+A
+BCEF BCEF BCEF BCEF 0
+150 30 75552 P
+A
+14 -60
+A
+18 11
+A
+19 11
+A
+20 -11
+A
+13 80
+A
+4 -3
+A
+5 -3
+A
+12 30
+ T 0 none~
+#19711
+dagger~
+`8C`&u`8e`&n`8d`&i`8l`7l`8a`&r `!D`1agger `4o`$f `8R`7ed`&empt`7io`8n`*~
+A dagger made from cuendillar is here, glowing softly.~
+unknown~
+weapon JKad AN
+0
+sword 76 1 slash ACE
+150 50 97000 P
+A
+19 10
+A
+18 10
+A
+4 -3
+A
+5 -3
+A
+13 100
+A
+12 27
+ T 0 none~
+#19712
+hands happiness~
+`#S`3e`#l`3l`#e`3r`#s' `$R`4ubber `@W`2rapped `!H`1ands `8o`*f `^H`6a`^p`6p`^i`6n`^e`6s`^s`*~
+Here are some rubber wrapped hands of a happy immortal.~
+unknown~
+armor JKad AH
+A
+BCEF BCEF BCEF BCEF 0
+150 50 86322 P
+A
+13 90
+A
+20 -11
+A
+19 7
+A
+18 7
+A
+4 -3
+A
+5 -3
+A
+12 30
+ T 0 none~
+#19713
+italian gold necklace~
+`&I`#t`*a`&l`7i`#a`&n `#G`3o`#l`3d Ne`#c`3kla`#c`3e`*~
+A necklace made from Italian gold is here.~
+unknown~
+armor d AC
+0
+BDF BDF BDF BDF 0
+110 0 0 P
+A
+5 -3
+A
+4 -3
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+17 -5
+A
+13 41
+ T 0 none~
+#19714
+emblem dark star~
+`8The `&Em`7bl`8em `3o`#f `3t`#h`3e `8D`3a`#r`8k S`#t`3a`8r`*~
+The mark of the terrifying Demon of Dark Star is here, etched upon a shield.~
+unknown~
+armor JKad AJ
+0
+BCEF BCEF BCEF BCEF 0
+150 80 98000 P
+A
+20 -11
+S 'detect hidden'   0  20  -1  25   0          6
+S 'detect invis'   0  20  -1  25   0          4
+A
+13 95
+A
+3 -3
+A
+4 -3
+A
+5 -3
+A
+19 11
+A
+14 -100
+A
+18 11
+ T 0 none~
+#19715
+hands~
+`8H`7a`&n`7d`8s `!o`1f `$S`8h`7a`&i'`7t`8a`$n`*~
+The mythical hands of the Great Lord of the Dark is here.~
+unknown~
+armor JKad AHJ
+J
+BCEF BCEF BCEF BCEF 0
+150 50 13453 P
+A
+5 -3
+A
+3 -3
+A
+4 -3
+A
+19 11
+A
+18 11
+A
+13 100
+A
+20 -11
+A
+14 -10
+ T 0 none~
+#19716
+arms melchior~
+`$T`4h`$e `%I`5n`%c`5r`%e`5d`%i`5b`%l`5y `!N`1o`!n`1e`!x`1i`!s`1t`!a`1n`!t `@A`2r`@m`2s `#o`3f `&M`8el`7ch`8io`&r`*~
+Some very flimsy arms of an immortal are here, flailing about wildly.~
+unknown~
+armor JKad AI
+0
+BCEF BCEF BCEF BCEF 0
+150 0 0 P
+A
+5 -3
+A
+3 -3
+A
+4 -3
+A
+18 11
+A
+19 11
+A
+20 -11
+A
+13 100
+A
+14 -10
+ T 0 none~
+#19717
+bottled whines~
+`!B`&o`1t`8t`1l`&e`!d `#u`3p `8Wh`&in`8es `2o`@f `^t`6h`^e `&P`4l`$a`4y`$e`&r `!B`$a`&s`8e`*~
+The pathetic whines of the player base can be seen here bottled up into a large flagon.~
+unknown~
+weapon HJKad AN
+A
+dagger 76 1 stab ABC
+150 0 0 P
+A
+5 -3
+A
+4 -3
+A
+3 -3
+A
+18 11
+A
+19 11
+A
+13 100
+A
+20 -11
+A
+14 -30
+ T 0 none~
+#19718
+helmet~
+`8H`7e`&lm`7e`8t `!o`1f `$S`8h`7a`&i'`7t`8a`$n`*~
+The mythical helmet of the Great Lord of the Dark is here.~
+unknown~
+armor JKad AE
+J
+BCEF BCEF BCEF BCEF 0
+150 0 0 P
+A
+5 -3
+A
+4 -3
+A
+3 -3
+A
+18 11
+A
+19 11
+A
+20 -11
+A
+13 100
+A
+14 -10
+ T 0 none~
+#19719
+boots~
+boot~
+Boot~
+unknown~
+armor JKad AG
+0
+BCEF BCEF BCEF BCEF 0
+150 50 45000 P
+A
+5 -3
+A
+4 -3
+A
+3 -3
+A
+18 11
+A
+19 11
+A
+20 -11
+A
+14 -100
+A
+13 100
+A
+12 45
+ T 0 none~
+#19720
+ring~
+`8R`7i`&n`8g `!o`1f `$S`8h`7a`&i'`7t`8a`$n`*~
+The ring of the Great Lord of the Dark is here.~
+unknown~
+armor JKad AB
+J
+BCEF BCEF BCEF BCEF 0
+150 10 56002 P
+A
+5 -3
+A
+4 -3
+A
+3 -3
+A
+18 11
+A
+19 11
+A
+20 -11
+A
+13 100
+A
+14 -10
+ T 0 none~
+#19721
+tattered leather bandolier lysander~
+`8(`3Tat`8te`3r`1e`3d`8) `*a `3Le`1a`3ther `3B`1a`3nd`2ol`3ier`*~
+A leather bandolier is lying here~
+unknown~
+armor d AL
+0
+BDF BDF BDF BDF 0
+110 100 0 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 17
+ T 0 none~
+#19722
+greaves destruction~
+`&T`8a`&i`8n`&t`8-`1E`!t`8ch`!e`1d `&G`8reaves `1of `8De`*st`&ructi`8on`*~
+Some greaves that have been tainted are here.~
+unknown~
+armor Kad AF
+0
+ACDF ACDF ACDF ACDF 0
+110 30 0 P
+A
+19 10
+A
+18 10
+A
+2 3
+A
+13 52
+A
+4 -1
+ T 0 none~
+#19723
+boots~
+`8B`*o`&o`*t`8s `!o`1f `$S`8h`*a`&t'`8a`$n`*~
+Some boots of the Great Lord of the Dark are here.~
+unknown~
+armor JKad AG
+J
+BCEF BCEF BCEF BCEF 0
+150 40 12321 P
+A
+14 -10
+A
+13 100
+A
+20 -11
+A
+19 11
+A
+18 11
+A
+3 -3
+A
+4 -3
+A
+5 -3
+ T 0 none~
+#19724
+steel toe boots~
+`$T`6h`$e `$W`6o`$rn `$O`6u`$t `8S`7t`&e`7e`8l T`7o`8e `3B`#o`3o`#t`3s `$o`6f `$t`6h`$e `1D`8e`3d`1m`8a`3n`*~
+An old pair of boots lay stinking here.~
+unknown~
+armor JKad AG
+0
+BCEF BCEF BCEF BCEF 0
+150 40 23498 P
+A
+19 11
+A
+20 -11
+A
+18 11
+A
+5 -3
+A
+4 -3
+A
+14 -100
+A
+13 100
+A
+17 -20
+ T 0 none~
+#19725
+power wrought stilletto~
+`!P`1o`!w`1e`!r `8W`7ro`&u`7gh`8t `$S`4ti`&ll`4e`$to`*~
+A stilletto made from cuendillar is here.~
+unknown~
+weapon JKad AN
+C
+dagger 76 1 pierce CDG
+150 40 0 P
+A
+13 37
+A
+20 -11
+A
+18 11
+A
+19 11
+ T 0 none~
+#19726
+callandor sword~
+`&(Crystal) `#C`3a`#l`3l`#a`3n`#d`3o`#r`*~
+`&(`@H`2umming`&)`* The Sword that Cannot be Touched is here.~
+unknown~
+weapon HJKZad AN
+K
+sword 76 1 slice ACG
+150 0 0 P
+A
+20 -11
+A
+12 50
+A
+13 50
+A
+19 11
+A
+18 11
+A
+14 -125
+ T 0 none~
+#19727
+blade assassin~
+`8B`7l`&a`7d`8e `2of the `4A`$ss`4a`$ss`4i`$n`*~
+A saber made of light is here, on the floor.~
+unknown~
+weapon ABd AN
+0
+sword 75 1 slash ACG
+110 0 0 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+12 7
+ T 0 none~
+#19728
+sleeves~
+`8S`7le`&ev`7e`8s `!o`1f `$S`8h`7a`&t'`8a`$n`*~
+Some sleeves, forged by the Dark One Himself, lay on the floor.~
+unknown~
+armor JKad AI
+J
+BCEF BCEF BCEF BCEF 0
+150 40 213412 P
+A
+14 -10
+A
+3 -3
+A
+4 -3
+A
+5 -3
+A
+20 -11
+A
+13 100
+A
+18 11
+A
+19 11
+ T 0 none~
+#19729
+castor shell rifle~
+`8Ca`7st`&or `3S`8h`#e`8l`3l `&R`7if`8le`*~
+Perfection at its finest, Ruger's high caliber rifle lays here at rest.~
+unknown~
+weapon HJKad AN
+A
+spear 4 37 blast CEG
+150 50 245125 P
+A
+19 11
+A
+18 11
+A
+20 -11
+A
+9 -50
+A
+14 -84
+A
+13 75
+ T 0 none~
+#19730
+golden halo~
+`&A `#G`3o`#ld`3e`#n `&H`^a`&lo`*~
+A large ring of gold lies here, shining brightly.~
+unknown~
+armor JKad AE
+AB
+BCEF BCEF BCEF BCEF 0
+150 40 124354 P
+A
+12 45
+S 'armor'   0  80  -1  25   0         67
+S 'shield'   0  80  -1  25   0         68
+A
+3 -3
+A
+4 -3
+A
+5 -3
+A
+20 -11
+A
+18 11
+A
+19 11
+ T 0 none~
+#19731
+green cloak~
+`7(`4W`$a`4v`$i`4n`$g`7) `@D`2ark `@G`2reen `8C`7loak`*~
+(no description)~
+unknown~
+armor JKad AK
+0
+BCEF BCEF BCEF BCEF 0
+150 40 252793 P
+A
+14 -10
+A
+20 -11
+A
+3 -3
+A
+4 -3
+A
+5 -3
+A
+13 100
+A
+19 11
+A
+18 11
+ T 0 none~
+#19732
+sword baphomat~
+`8T`7he `&S`8w`&o`8r`&d `$c`3a`4l`3l`4e`3d `!B`1a`!p`1h`!o`1m`!a`1t`*~
+A weapon forged from pure evil floats here trying to reave your soul.~
+unknown~
+weapon HJKad AN
+0
+sword 76 1 prick CEG
+150 80 230872 P
+A
+14 -84
+A
+13 75
+A
+20 -11
+A
+19 11
+A
+18 11
+ T 0 none~
+#19733
+helmet dark star~
+`8The `&He`7lm`8et `3o`#f `3t`#h`3e `8D`3a`#r`8k `8S`#t`3a`8r`*~
+The mark of the terrifying Demon of Dark Star is here, etched upon a helm.~
+unknown~
+armor JKad AE
+A
+BCEF BCEF BCEF BCEF 0
+150 50 297237 P
+A
+19 11
+A
+18 11
+A
+20 -11
+S 'haste'   0  80  -1  25   0         22
+A
+5 -3
+A
+4 -3
+A
+3 -3
+S 'sneak'   0  80  -1  25   0         16
+A
+14 90
+ T 0 none~
+#19734
+floating flame~
+`7A `8S`&ma`7l`8l `7Floating `1F`!lame`*~
+A very small floating flame is here.~
+unknown~
+light JKad AO
+K
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+150 0 0 P
+A
+13 55
+A
+18 11
+A
+19 11
+S 'detect invis'   0  80  -1  25   0          4
+S 'detect hidden'   0  80  -1  25   0          6
+ T 0 none~
+#19735
+Morbid dagger of absolute power~
+`&(`8M`1or`8b`*i`8d`&) `8D`#a`8gge`8r `4of `&A`8bs`*ol`8ute `!P`1o`!w`1e`!r`*~
+A dagger of absolute power is lying here~
+unknown~
+weapon JKYd AN
+F
+dagger 76 1 acbite CEG
+150 20 5000 P
+A
+18 11
+A
+19 11
+A
+12 -40
+A
+14 -26
+A
+20 -11
+A
+17 -50
+A
+13 21
+ T 0 none~
+#19736
+savior dark star~
+`8The `&Sa`7vi`8or `3o`#f `3t`#h`3e `8D`3a`#r`8k `8S`#t`3a`8r`*~
+A icon of the Savior of the Dark Star is here.~
+unknown~
+armor JKad AO
+0
+BCEF BCEF BCEF BCEF 0
+150 0 0 P
+A
+19 11
+A
+18 11
+A
+20 -11
+A
+13 100
+A
+4 -3
+A
+5 -3
+A
+3 -3
+A
+14 -10
+ T 0 none~
+#19737
+shield~
+`8S`7h`&ie`7l`8d `!o`1f `$S`8h`7a`&i'`7t`8a`$n`*~
+The shield of the Great Lord is here, to be worn only by the chosen.~
+unknown~
+armor JKad AJ
+J
+BCEF BCEF BCEF BCEF 0
+150 50 239048 P
+A
+18 11
+A
+19 11
+A
+20 -11
+A
+5 -3
+A
+4 -3
+A
+3 -3
+A
+13 100
+A
+14 -10
+ T 0 none~
+#19738
+faceplate~
+`8F`7ac`&epl`7at`8e `!o`1f `$S`8h`7a`&i'`7t`8a`$n`*~
+A Faceplate of the Great Lord is here.~
+unknown~
+armor JKad AR
+J
+BCEF BCEF BCEF BCEF 0
+150 30 234524 P
+A
+14 -10
+A
+3 -3
+A
+4 -3
+A
+5 -3
+A
+13 100
+A
+20 -11
+A
+19 11
+A
+18 11
+ T 0 none~
+#19739
+orb~
+`&T`7h`8e `&O`#r`3b `8of `&M`!a`1g`&n`#i`3f`&c`^i`6e`4n`$c`@e`*~
+A magnificient orb is here, glowing brightly.~
+unknown~
+armor ad AO
+0
+BDF BDF BDF BDF 0
+110 50 24512 P
+A
+5 -3
+A
+4 -3
+A
+13 100
+A
+18 5
+A
+19 5
+A
+20 -9
+A
+14 -14
+ T 0 none~
+#19740
+black hellfire~
+`8Bl`&a`8ck H`7el`&lf`7ir`8e `$G`4low`8i`4ng `1W`!i`1th `$T`4h`$e `2G`@ree`1n `1D`!r`8ago`!n'`1s `@S`8p`@i`8r`@i`8t`*~
+`8Bl`&a`8ck `8H`*el`&lf`7ir`8e`* lies here, radiating with the power of the `2G`@ree`2n `1D`!r`8ag`!o`1n`*~
+unknown~
+weapon HJKLad AN
+0
+sword 76 1 grep CEG
+150 50 0 P
+A
+12 -11
+A
+13 100
+A
+20 -11
+A
+19 11
+A
+18 11
+A
+3 -3
+A
+5 -3
+A
+4 -3
+ T 0 none~
+#19741
+the demiscus gigantic wang~
+the Giant Wang of Demiscus~
+A Giant wang of demiscus is here.~
+unknown~
+weapon JKLad AN
+0
+sword 76 1 explosion CEG
+150 0 0 P
+A
+5 -3
+A
+2 -3
+A
+13 100
+A
+17 -30
+A
+20 -11
+A
+14 -50
+A
+18 11
+A
+19 11
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#19701
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

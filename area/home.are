@@ -1,0 +1,1434 @@
+#AREADATA
+Name Homestead~
+Builders Balwen Demandred~
+VNUMs 19851 19949
+Credits `4[`7 None `4]`7 Balwen    Balwen's Area~
+Security 10
+Flags CE
+Version 4
+End
+
+
+
+#MOBILES
+#19851
+Wuss~
+Wuss Trainer~
+A Wuss Trainer stands here ready to heal you.
+~
+~
+unique~
+0 0
+AJKab 256 0 0 0 -1  0 0
+0 0 10d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+#19852
+Deckard Dwar~
+Deckard Dwar~
+An Old Man is Resting here
+~
+~
+andor~
+0 0
+ABGc 336 0 0 0 -1  1000 0
+100 1 1000d1+0 10d10+10 10d10+10 pound
+-10 -10 -10 -10
+0 CD L 0
+rest stand male  100
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 19852 100~
+#19854
+Flying Skeleton~
+A Flying Skeleton~
+A skeleton with giant wings is hovering here
+~
+~
+kandor~
+0 0
+AGOc 80 8208 0 0 -1  -1000 0
+170 150 20d20+6100 20000d1+90 1d50+40 stab
+-5 -5 -5 -15
+AFG ABQRZ HIb EJN
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#19858
+Zombie~
+A Zombie~
+A Zombie stumbles about here
+~
+~
+andor~
+0 0
+AGc 80 0 0 0 -1  -1000 0
+170 150 20d20+6100 10d10+9000 50d1+33 grep
+0 0 0 0
+ADK ABQ Mb HJN
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#19864
+Lazarus~
+Lazarus~
+The Arch Bishop lazarus levitates  here, chanting in an ancient tongue
+~
+~
+shienar~
+0 0
+ABFc 464 80 0 0 -1  -1000 0
+166 150 10000d1+500 30000d1+0 1d54+44 magic
+-25 -25 -25 -50
+AFHK ABMNQ HIJOb E
+stand stand male  20000
+AHMV ABCDEFGHIJK medium unknown
+#19876
+Appirtion~
+An Appirition~
+A Ghostly Appirition is floating around here
+~
+~
+aiel~
+0 0
+AGOc 80 32 0 0 -1  -1000 0
+170 150 20d20+6100 10000d1+1000 50d1+35 wrath
+-10 -10 -10 -5
+AFK ABQR Dab IJNP
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#19894
+The Butcher~
+The Butcher~
+The Butcher is waiting here
+~
+~
+troll~
+0 0
+ABF 272 64 0 0 -1  -1000 0
+165 300 10000d1+960 0d0+0 1d53+43 chop
+-35 -35 -35 -60
+ACHKO ABMOQ Ca IN
+stand stand none 20000
+ABHMV ABCDEFGHIJKUV large unknown
+F off D
+F res BE
+F vul HK
+M GRALL 19894 100~
+#19897
+Giant Spider~
+A Giant Spider~
+A Giant Spider is creeping around the room
+~
+~
+centipede~
+0 0
+ACGTc 80 66 0 0 -1  -1000 0
+170 105 10000d1+100 50d50+90 50d1+38 acbite
+-11 -11 -11 -11
+FHIKO ABKLT E JN
+stand stand none 10000
+ABGO ACK medium unknown
+F res FI
+F vul E
+#19912
+Anthrax~
+Anthrax~
+The Spider Queen hisses at you
+~
+~
+centipede~
+0 0
+ABDGR 340 64 0 0 -1  -1000 0
+165 200 10000d1+1950 50d50+10 55d1+35 bite
+-27 -27 -27 -27
+AFHIK ABKL E JN
+stand stand none 10000
+ABGO ACK giant unknown
+F res FI
+F vul E
+#0
+
+
+
+#OBJECTS
+#19851
+Throne~
+`&B`8a`*l`&w`*e`8n`*'`&s`* Throne of the `#Wuss`*~
+`&B`8a`*l`&w`*e`8n`*'`&s`* Throne of the `#Wuss`*~
+unknown~
+furniture 0 0
+0
+A 0 DG FHJKPQ FHJKPQ
+0 0 0 P
+ T 0 none~
+#19864
+Staff of Necromancy~
+the Staff of Necromancy~
+A dark looking staff is lying here~
+unknown~
+weapon ABHY AN
+0
+staff 70 1 blast CEG
+103 260 100 P
+A
+12 10
+A
+20 -8
+A
+4 -2
+A
+18 6
+A
+19 6
+A
+13 16
+ T 0 none~
+#19894
+Butchers Axe~
+the Butchers Hand Axe~
+A Hand Axe is lying here drenced in blood~
+unknown~
+weapon ABY AN
+0
+axe 65 1 cleave CDH
+96 200 1000 P
+A
+12 3
+A
+20 -4
+A
+13 30
+A
+19 6
+A
+18 6
+ T 0 none~
+#19895
+Merkaba's Big Wheel~
+`$M`4erkaba'`$s B`4i`$g W`4hee`$l`*~
+`*~
+unknown~
+furniture 0 0
+0
+B BDFH EHL 0 0
+75 500 10000 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#19851
+`&B`8a`*l`&w`*e`8n`*'`&s`* Wuss Training Facility~
+Welcome to Balwens `#Wuss`* Training Facility.  If you are here, must be a big Wuss, and
+just need some guidance so you know how to take a beating like a true `#Wuss `*would!
+ 
+ 
+In the Background you see various `#Wuss`* Trainees hanging by their arms from the 
+ceiling as much larger, bruitish people use them as a punching bag.  You listen as screams
+and girlish squeels come from about the room as you hear the cracking of ribs and the 
+sound of air being let out of lungs.  `#Balwen`* watches his trainees from a distance with a a 
+grimmace along with a nodding approval.  On the Walls of the room you see displayed the
+`#Wussies Wall of Shame`* with a picture of every graduate wearing a shirt with a big `#W`* 
+printed on it on the front.
+~
+0 138421252 0
+D5
+~
+~
+0 0 11
+S
+#19852
+Before the Cathedral~
+Before you towers an ancient cathedral.  Crumbling and withering like a
+petal of a dying rose, it looks as though it could collapse at any second.
+This structure is not Ogier built, and its stone is ever blackening with the
+Taint of an evil that took it over so long ago.  As you draw near you feel a
+chill in your bones and the air suddenly becomes cold and your breath is
+seen in a cloud before you.  You step forward and the doors creek open,
+beckoning you to enter.
+~
+0 1028 0
+D0
+~
+~
+0 0 19853
+D2
+~
+~
+0 0 7674
+S
+#19853
+Entrance to the Cathedral~
+Within the blackened stone of the cathedral all light from the outside is
+cut off.  There is no natural light in this place but as you look about you
+can see a grey-ish aura about you, leaving objects at a distance blurred. 
+You stand in the doorway of the structure and its walls seem to close in
+around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 19854
+D1
+~
+~
+0 0 19887
+D2
+~
+~
+0 0 19852
+D3
+~
+~
+0 0 19869
+S
+#19854
+The Procession~
+Once crimson carpet stretches from the entrance to the altar at the head
+of the room.  It is now crumbling like much of the cathedral but is now
+nearly black in color.  Scattered bones and skull fragments lay about the
+carpet, and a full skeleton sits upright against a pew next to the isle.
+~
+0 0 0
+D0
+~
+~
+0 0 19858
+D1
+~
+~
+0 0 19855
+D2
+~
+~
+0 0 19853
+D3
+~
+~
+0 0 19856
+S
+#19855
+Back Pew~
+In between the pews, you find tattered pieces of ledjure unmoved over the
+centuries.  A skull sitting here and there, pieces of clothing, all coated
+with dust.  Among the various rows of pews skeletons sit as if they hadnt
+moved since the breaking of the world...  Content and unknowing of the taint
+around them.  
+~
+0 0 0
+D0
+~
+~
+0 0 19859
+D3
+~
+~
+0 0 19854
+S
+#19856
+Back Pew~
+In between the pews, you find tattered pieces of ledjure unmoved over the
+centuries.  A skull sitting here and there, pieces of clothing, all coated
+with dust.  Among the various rows of pews skeletons sit as if they hadnt
+moved since the breaking of the world...  Content and unknowing of the taint
+around them.  
+~
+0 0 0
+D0
+~
+~
+0 0 19857
+D1
+~
+~
+0 0 19854
+S
+#19857
+Central Pew~
+In between the pews, you find tattered pieces of ledjure unmoved over the
+centuries.  A skull sitting here and there, pieces of clothing, all coated
+with dust.  Among the various rows of pews skeletons sit as if they hadnt
+moved since the breaking of the world...  Content and unknowing of the taint
+around them.  
+~
+0 0 0
+D0
+~
+~
+0 0 19862
+D1
+~
+~
+0 0 19858
+D2
+~
+~
+0 0 19856
+S
+#19858
+Further down the Procession~
+Once crimson carpet stretches from the entrance to the altar at the head
+of the room.  It is now crumbling like much of the cathedral but is now
+nearly black in color.  Scattered bones and skull fragments lay about the
+carpet, and a full skeleton sits upright against a pew next to the isle.  
+~
+0 0 0
+D0
+~
+~
+0 0 19861
+D1
+~
+~
+0 0 19859
+D2
+~
+~
+0 0 19854
+D3
+~
+~
+0 0 19857
+S
+#19859
+Central Pew~
+In between the pews, you find tattered pieces of ledjure unmoved over the
+centuries.  A skull sitting here and there, pieces of clothing, all coated
+with dust.  Among the various rows of pews skeletons sit as if they hadnt
+moved since the breaking of the world...  Content and unknowing of the taint
+around them.  
+~
+0 0 0
+D0
+~
+~
+0 0 19860
+D2
+~
+~
+0 0 19855
+D3
+~
+~
+0 0 19858
+S
+#19860
+Front Pew~
+In between the pews, you find tattered pieces of ledjure unmoved over the
+centuries.  A skull sitting here and there, pieces of clothing, all coated
+with dust.  Among the various rows of pews skeletons sit as if they hadnt
+moved since the breaking of the world...  Content and unknowing of the taint
+around them.  
+~
+0 0 0
+D0
+~
+~
+0 0 19865
+D2
+~
+~
+0 0 19859
+D3
+~
+~
+0 0 19861
+S
+#19861
+Before the Altar~
+Once crimson carpet stretches from the entrance to the altar at the head
+of the room.  It is now crumbling like much of the cathedral but is now
+nearly black in color.  Scattered bones and skull fragments lay about the
+carpet, and a full skeleton sits upright against a pew next to the isle.  
+~
+0 0 0
+D1
+~
+~
+0 0 19860
+D2
+~
+~
+0 0 19858
+D3
+~
+~
+0 0 19862
+S
+#19862
+Front Pew~
+In between the pews, you find tattered pieces of ledjure unmoved over the
+centuries.  A skull sitting here and there, pieces of clothing, all coated
+with dust.  Among the various rows of pews skeletons sit as if they hadnt
+moved since the breaking of the world...  Content and unknowing of the taint
+around them.  
+~
+0 0 0
+D0
+~
+~
+0 0 19863
+D1
+~
+~
+0 0 19861
+D2
+~
+~
+0 0 19857
+S
+#19863
+Beside the Altar~
+Beside the altar sits an exquisite gold table with a large silver bowl
+built into it.  It is a coffer, still full of gold coins and jewels ready
+for the taking.  For some reason, they still remain, left from the thousands
+of years since the breaking of the world.  
+~
+0 0 0
+D0
+~
+~
+0 0 19868
+D2
+~
+~
+0 0 19862
+S
+#19864
+The Altar~
+The altar is illuminated by a red glow as the candles atop it burn with a
+black, lightless flame.  The Arch Bishop Lazarus stands here chanting and
+praying, levitating above the ground.  His voice rises and falls, but soon
+is loud enough that it could bring the cathedral down onto itself.  His eyes
+light up with a flame as the undead begin to crowd into the area, hungry for
+flesh.  
+~
+0 205520900 0
+D0
+~
+~
+0 0 19867
+S
+#19865
+Beside the Altar~
+Near the altar stands an ancient statue of the Arch Bishop Lazarus. 
+Holding up to the sky a book of his faith, giving hommage to the creator. 
+Carved intricately below him are seeted children and beggars, clinging to
+his robes, worshiping his greatness.  
+~
+0 0 0
+D0
+~
+~
+0 0 19866
+D2
+~
+~
+0 0 19860
+S
+#19866
+The Back of the Cathedral~
+On the back wall of the cathedral banners are strung about displaying the
+noble houses of those who used to attend the church.  Golden cups and
+platters sit on a table beside the wall.  All covered with dust, but some
+still containing a red liquid.  
+~
+0 0 0
+D2
+~
+~
+0 0 19865
+D3
+~
+~
+0 0 19867
+S
+#19867
+Behind the Altar~
+Behind the altar an extremely large pane of stained glass seems to remain
+intact.  Even though there is no natural light, the picture seems to be
+glowing as though it would on a bright summer day.  Depicted in the glass
+mural a figure is a hanging from the bell tower of this very cathedral, as a
+figure shrouded in darkness looks on.  
+~
+0 0 0
+D1
+~
+~
+0 0 19866
+D2
+~
+~
+0 0 19864
+D3
+~
+~
+0 0 19868
+S
+#19868
+The Back of the Cathedral~
+On the back wall of the cathedral banners are strung about displaying the
+noble houses of those who used to attend the church.  Golden cups and
+platters sit on a table beside the wall.  All covered with dust, but some
+still containing a red liquid.  
+~
+0 0 0
+D1
+~
+~
+0 0 19867
+D2
+~
+~
+0 0 19863
+S
+#19869
+A dusty Hallway~
+Thru the dusty hallway the air seems as thick as mud.  The taint swirls
+within blowing dust about making your vision nearly useless.  Although you
+can see the dust, the hall is completely silent except for the sound of your
+own footsteps on the cumbling stone below you.  
+~
+0 0 0
+D1
+~
+~
+0 0 19853
+D3
+~
+~
+0 0 19870
+S
+#19870
+A bend in the Dusty Hallway.~
+Thru the dusty hallway the air seems as thick as mud.  The taint swirls
+within blowing dust about making your vision nearly useless.  Although you
+can see the dust, the hall is completely silent except for the sound of your
+own footsteps on the cumbling stone below you.  
+~
+0 0 0
+D0
+~
+~
+0 0 19871
+D1
+~
+~
+0 0 19869
+S
+#19871
+Within the Dusty Hallway~
+Thru the dusty hallway the air seems as thick as mud.  The taint swirls
+within blowing dust about making your vision nearly useless.  Although you
+can see the dust, the hall is completely silent except for the sound of your
+own footsteps on the cumbling stone below you.  
+~
+0 0 0
+D0
+~
+~
+0 0 19872
+D2
+~
+~
+0 0 19870
+S
+#19872
+Within the Dusty Hallway~
+Thru the dusty hallway the air seems as thick as mud.  The taint swirls
+within blowing dust about making your vision nearly useless.  Although you
+can see the dust, the hall is completely silent except for the sound of your
+own footsteps on the cumbling stone below you.  
+~
+0 0 0
+D0
+~
+~
+0 0 19873
+D2
+~
+~
+0 0 19871
+S
+#19873
+Within the Dusty Hallway~
+Thru the dusty hallway the air seems as thick as mud.  The taint swirls
+within blowing dust about making your vision nearly useless.  Although you
+can see the dust, the hall is completely silent except for the sound of your
+own footsteps on the cumbling stone below you.  
+~
+0 0 0
+D0
+~
+~
+0 0 19874
+D2
+~
+~
+0 0 19872
+S
+#19874
+End of the Dusty Hallway~
+Thru the dusty hallway the air seems as thick as mud.  The taint swirls
+within blowing dust about making your vision nearly useless.  Although you
+can see the dust, the hall is completely silent except for the sound of your
+own footsteps on the cumbling stone below you.  
+~
+0 0 0
+D0
+~
+~
+0 0 19875
+D2
+~
+~
+0 0 19873
+S
+#19875
+Stairway to the Balcony~
+The stairs before you lead up to the balcony.  Shuffling can be heard
+thru the floorboards above along with a slight moaning.  Footsteps are
+visible in the dust upon the stairs, but they are of no human form.  
+~
+0 0 0
+D2
+~
+~
+0 0 19874
+D4
+~
+~
+0 0 19876
+S
+#19876
+Stairwell before the Balcony~
+In the stairs before the balcony you can better hear the shuffling of
+feet you could hear from below.  The footsteps are still visible in the dust
+upon the stairs and floor, but nothing can yet be seen.  The moaning seems
+to be voices, but nothing can be made out.  
+~
+0 0 0
+D2
+~
+~
+0 0 19877
+D5
+~
+~
+0 0 19875
+S
+#19877
+Before the Balcony~
+Shuffling can be heard still on the balcony but the footsteps gradually
+fade out of existance, leading nowhere.  The floorboards creek below your
+feet.  And the stench of rotton flesh is now apparent within the balcony.  
+~
+0 0 0
+D0
+~
+~
+0 0 19876
+D2
+~
+~
+0 0 19878
+S
+#19878
+The Balcony~
+Shuffling can be heard still on the balcony but the footsteps gradually
+fade out of existance, leading nowhere.  The floorboards creek below your
+feet.  And the stench of rotton flesh is now apparent within the balcony.  
+~
+0 0 0
+D0
+~
+~
+0 0 19877
+D2
+~
+~
+0 0 19879
+S
+#19879
+The Balcony~
+Shuffling can be heard still on the balcony but the footsteps gradually
+fade out of existance, leading nowhere.  The floorboards creek below your
+feet.  And the stench of rotton flesh is now apparent within the balcony.  
+~
+0 0 0
+D0
+~
+~
+0 0 19878
+D2
+~
+~
+0 0 19880
+S
+#19880
+The Balcony~
+Shuffling can be heard still on the balcony but the footsteps gradually
+fade out of existance, leading nowhere.  The floorboards creek below your
+feet.  And the stench of rotton flesh is now apparent within the balcony.  
+~
+0 0 0
+D0
+~
+~
+0 0 19879
+D2
+~
+~
+0 0 19881
+S
+#19881
+The corner of the Balcony~
+Shuffling can be heard still on the balcony but the footsteps gradually
+fade out of existance, leading nowhere.  The floorboards creek below your
+feet.  And the stench of rotton flesh is now apparent within the balcony.  
+~
+0 0 0
+D0
+~
+~
+0 0 19880
+D1
+~
+~
+0 0 19882
+S
+#19882
+On the Balcony~
+Shuffling can be heard still on the balcony but the footsteps gradually
+fade out of existance, leading nowhere.  The floorboards creek below your
+feet.  And the stench of rotton flesh is now apparent within the balcony.  
+~
+0 0 0
+D1
+~
+~
+0 0 19883
+D3
+~
+~
+0 0 19881
+S
+#19883
+On the Balcony~
+Shuffling can be heard still on the balcony but the footsteps gradually
+fade out of existance, leading nowhere.  The floorboards creek below your
+feet.  And the stench of rotton flesh is now apparent within the balcony.  
+~
+0 0 0
+D1
+~
+~
+0 0 19884
+D3
+~
+~
+0 0 19882
+S
+#19884
+On the Balcony~
+Shuffling can be heard still on the balcony but the footsteps gradually
+fade out of existance, leading nowhere.  The floorboards creek below your
+feet.  And the stench of rotton flesh is now apparent within the balcony.  
+~
+0 0 0
+D1
+~
+~
+0 0 19885
+D3
+~
+~
+0 0 19883
+S
+#19885
+The corner of the Balcony~
+Shuffling can be heard still on the balcony but the footsteps gradually
+fade out of existance, leading nowhere.  The floorboards creek below your
+feet.  And the stench of rotton flesh is now apparent within the balcony.  
+~
+0 0 0
+D0
+~
+~
+0 0 19886
+D3
+~
+~
+0 0 19884
+S
+#19886
+End of the Balcony~
+Shuffling can be heard still on the balcony but the footsteps gradually
+fade out of existance, leading nowhere.  The floorboards creek below your
+feet.  And the stench of rotton flesh is now apparent within the balcony.  
+~
+0 0 0
+D2
+~
+~
+0 0 19885
+S
+#19887
+Dank Corridor~
+As you walk thru this corridor, you can still feel the chill of the air,
+and a dampness around you that you cannot explain.  There is dust on the
+walls yet it feels as if a fog is rolling over your body, leaving droplets
+of water on your forehead.  You can feel the floor below you crumble and
+crack with every step as you continue on your way.  Portraits of bishops
+line the wall as you walk past.
+~
+0 0 0
+D1
+~
+~
+0 0 19888
+D3
+~
+~
+0 0 19853
+S
+#19888
+Dank Corridor~
+As you walk thru this corridor, you can still feel the chill of the air,
+and a dampness around you that you cannot explain.  There is dust on the
+walls yet it feels as if a fog is rolling over your body, leaving droplets
+of water on your forehead.  You can feel the floor below you crumble and
+crack with every step as you continue on your way.  Portraits of bishops
+past line the wall as you walk past.  
+~
+0 0 0
+D1
+~
+~
+0 0 19889
+D3
+~
+~
+0 0 19887
+S
+#19889
+Bend in the Dank Corridor~
+Suddenly you come to a bend in the corridor which briefly leaves you
+stunned.  You hear roaring laughter comming from the direction in which you
+are travelling.  Your hand goes for the hilt of your weapon as the laughter
+subsides.  You cautiously look behind you then forward again continuing
+on...  Curious of the source of the chaotic noise.  
+~
+0 0 0
+D0
+~
+~
+0 0 19890
+D3
+~
+~
+0 0 19888
+S
+#19890
+Through the Dank Corridor~
+As you walk thru this corridor, you can still feel the chill of the air,
+and a dampness around you that you cannot explain.  There is dust on the
+walls yet it feels as if a fog is rolling over your body, leaving droplets
+of water on your forehead.  You can feel the floor below you crumble and
+crack with every step as you continue on your way.  Portraits of bishops
+past line the wall as you walk past.  
+~
+0 0 0
+D0
+~
+~
+0 0 19891
+D2
+~
+~
+0 0 19889
+S
+#19891
+End of the Dank Corridor~
+You come to the end of the corridor to a door that is open about half
+way.  The candle light pouring out blinds you for an instand before your
+eyes can adjust.  You wonder how there could be light in a place abandoned
+so long ago.  Drawing your weapon you push the door open with a creek and
+once again laughter arrupts from beyond, along with the scream of something
+you cannot comprehend.  
+~
+0 0 0
+D0
+~
+~
+0 0 19892
+D2
+~
+~
+0 0 19890
+S
+#19892
+The Bishop's Chamber~
+As you enter the lighted room you see blood scrolled on the wall to your
+right in an ancient tongue.  Although it is thousands of years old, it still
+gleems like new.  You hear a grunt and laughter from the room beyond as you
+walk across the dust coated floor.
+~
+0 0 0
+D0
+~
+~
+0 0 19894
+D2
+~
+~
+0 0 19891
+D3
+~
+~
+0 0 19895
+S
+#19893
+~
+~
+0 0 0
+D2
+~
+~
+0 0 19892
+S
+#19894
+The Kitchen~
+Upon entering the kitchen, you notice a hulk of a figure that somewhat
+resembles a trolloc with horns donning its head and the snout of a wild
+boar.  Blood and filth covers the figure, and the room as silver platters
+lay about the room filled with body parts.
+~
+0 205520900 0
+D2
+~
+~
+0 0 19892
+D3
+~
+~
+0 0 19896
+S
+#19895
+Lazarus' Sleeping Camber~
+In the sleeping chamber you can still see the unmoved belongings of the
+Arch Bishop Lazarus.  It was said that the Bishop was a personal servant of
+the Dark One before the breaking of the world.  You look around the room and
+see silken robes and bedsheets unwrinkled and oddly enough, un-touched by
+the dust and blackness of the rest of the structure.  The air still has the
+sweet smell of the Bishops untouched perfumes laden on the counter-top
+across the room.  
+~
+0 0 0
+D1
+~
+~
+0 0 19892
+S
+#19896
+Entrance to the Bell Tower~
+A grey light fills the staircase slightly illuminating the stairs
+directing up to the belltower.  Above can be heard the blowing and howling
+of a chill wind, and the bell gongs as a gust rocks its stillness.  Spider
+webs don the stairway, and pieces of the staircase are missing.  Tred
+carefully!  
+~
+0 0 0
+D1
+~
+~
+0 0 19894
+D4
+~
+~
+0 0 19897
+S
+#19897
+Stairway up the Bell Tower~
+Within the belltower stairs creek and it feels as if the wind will topple
+the tall structure on top of you.  Spiders creep across their webs looking
+for something to sink their fangs into, and the howling wind blows the bell
+at the top back and forth causing a quiet gong above you.  
+~
+0 0 0
+D2
+~
+~
+0 0 19898
+D5
+~
+~
+0 0 19896
+S
+#19898
+Stairway up the Bell Tower~
+Within the belltower stairs creek and it feels as if the wind will topple
+the tall structure on top of you.  Spiders creep across their webs looking
+for something to sink their fangs into, and the howling wind blows the bell
+at the top back and forth causing a quiet gong above you.  
+~
+0 0 0
+D0
+~
+~
+0 0 19897
+D1
+~
+~
+0 0 19899
+S
+#19899
+Stairway up the Bell Tower~
+Within the belltower stairs creek and it feels as if the wind will topple
+the tall structure on top of you.  Spiders creep across their webs looking
+for something to sink their fangs into, and the howling wind blows the bell
+at the top back and forth causing a quiet gong above you.  
+~
+0 0 0
+D0
+~
+~
+0 0 19900
+D3
+~
+~
+0 0 19898
+S
+#19900
+Stairway up the Bell Tower~
+Within the belltower stairs creek and it feels as if the wind will topple
+the tall structure on top of you.  Spiders creep across their webs looking
+for something to sink their fangs into, and the howling wind blows the bell
+at the top back and forth causing a quiet gong above you.  
+~
+0 0 0
+D2
+~
+~
+0 0 19899
+D4
+~
+~
+0 0 19901
+S
+#19901
+Stairway up the Bell Tower~
+Within the belltower stairs creek and it feels as if the wind will topple
+the tall structure on top of you.  Spiders creep across their webs looking
+for something to sink their fangs into, and the howling wind blows the bell
+at the top back and forth causing a quiet gong above you.  
+~
+0 0 0
+D3
+~
+~
+0 0 19902
+D5
+~
+~
+0 0 19900
+S
+#19902
+Stairway up the Bell Tower~
+Within the belltower stairs creek and it feels as if the wind will topple
+the tall structure on top of you.  Spiders creep across their webs looking
+for something to sink their fangs into, and the howling wind blows the bell
+at the top back and forth causing a quiet gong above you.  
+~
+0 0 0
+D1
+~
+~
+0 0 19901
+D2
+~
+~
+0 0 19903
+S
+#19903
+Stairway up the Bell Tower~
+Within the belltower stairs creek and it feels as if the wind will topple
+the tall structure on top of you.  Spiders creep across their webs looking
+for something to sink their fangs into, and the howling wind blows the bell
+at the top back and forth causing a quiet gong above you.  
+~
+0 0 0
+D0
+~
+~
+0 0 19902
+D1
+~
+~
+0 0 19904
+S
+#19904
+Stairway up the Bell Tower~
+Within the belltower stairs creek and it feels as if the wind will topple
+the tall structure on top of you.  Spiders creep across their webs looking
+for something to sink their fangs into, and the howling wind blows the bell
+at the top back and forth causing a quiet gong above you.  
+~
+0 0 0
+D3
+~
+~
+0 0 19903
+D4
+~
+~
+0 0 19905
+S
+#19905
+Nearing the top of the Bell Tower~
+Farther up the belltower the air becomes cold and damp.  The stairs
+become slippery and gaining a sure foot on them becomes more difficult.  The
+spider webs drip with moisture and you can now hear the creeking of the
+giant bell swinging back and forth with the wind above you.  
+~
+0 0 0
+D0
+~
+~
+0 0 19906
+D5
+~
+~
+0 0 19904
+S
+#19906
+Nearing the top of the Bell Tower~
+Farther up the belltower the air becomes cold and damp.  The stairs
+become slippery and gaining a sure foot on them becomes more difficult.  The
+spider webs drip with moisture and you can now hear the creeking of the
+giant bell swinging back and forth with the wind above you.  
+~
+0 0 0
+D2
+~
+~
+0 0 19905
+D3
+~
+~
+0 0 19907
+S
+#19907
+Nearing the top of the Bell Tower~
+Farther up the belltower the air becomes cold and damp.  The stairs
+become slippery and gaining a sure foot on them becomes more difficult.  The
+spider webs drip with moisture and you can now hear the creeking of the
+giant bell swinging back and forth with the wind above you.  
+~
+0 0 0
+D1
+~
+~
+0 0 19906
+D2
+~
+~
+0 0 19908
+S
+#19908
+Nearing the top of the Bell Tower~
+Farther up the belltower the air becomes cold and damp.  The stairs
+become slippery and gaining a sure foot on them becomes more difficult.  The
+spider webs drip with moisture and you can now hear the creeking of the
+giant bell swinging back and forth with the wind above you.  
+~
+0 0 0
+D0
+~
+~
+0 0 19907
+D4
+~
+~
+0 0 19910
+S
+#19910
+Top of the Staircase~
+At the top of the belltower a giagantic bell swings and creeks as the air
+pushes it from side to side.  The floor is wet and the air is cold.  All
+around hundreds of spiders seem to be moving back and forth searching for
+the next meal.  Above the giant bell appears to be a nest of sorts.  
+~
+0 0 0
+D0
+~
+~
+0 0 19913
+D1
+~
+~
+0 0 19911
+D5
+~
+~
+0 0 19908
+S
+#19911
+Top of the Bell Tower~
+At the top of the belltower a giagantic bell swings and creeks as the air
+pushes it from side to side.  The floor is wet and the air is cold.  All
+around hundreds of spiders seem to be moving back and forth searching for
+the next meal.  Above the giant bell appears to be a nest of sorts.  
+~
+0 0 0
+D0
+~
+~
+0 0 19912
+D3
+~
+~
+0 0 19910
+S
+#19912
+Top of the Bell Tower~
+At the top of the belltower a giagantic bell swings and creeks as the air
+pushes it from side to side.  The floor is wet and the air is cold.  All
+around hundreds of spiders seem to be moving back and forth searching for
+the next meal.  Above the giant bell appears to be a nest of sorts.  
+~
+0 4194304 0
+D2
+~
+~
+0 0 19911
+D3
+~
+~
+0 0 19913
+S
+#19913
+Top of the Bell Tower~
+At the top of the belltower a giagantic bell swings and creeks as the air
+pushes it from side to side.  The floor is wet and the air is cold.  All
+around hundreds of spiders seem to be moving back and forth searching for
+the next meal.  Above the giant bell appears to be a nest of sorts.  
+~
+0 0 0
+D1
+~
+~
+0 0 19912
+D2
+~
+~
+0 0 19910
+S
+#0
+
+
+
+#SPECIALS
+M 19851 spec_questmaster
+M 19864 spec_breath_any_but_acid
+M 19894 spec_poison
+M 19897 spec_poison
+M 19912 spec_breath_any_but_acid
+S
+
+
+
+#RESETS
+O 0 19851 0 19851 0 100 `&b`8a`*l`&w`*e`8n`*'`&s`* throne of the `#wuss`* loaded to `&B`8a`*l`&w`*e`8n`*'`&s`* Wuss Training Facility
+M 0 19851 1 19851 1 100 Load Wuss Trainer
+M 0 19852 1 19852 1 100 Load Deckard Dwar
+M 0 19854 30 19853 2 100 Load A Flying Skeleton
+M 0 19854 30 19854 2 100 Load A Flying Skeleton
+M 0 19858 28 19854 2 100 Load A Zombie
+M 0 19858 28 19855 2 100 Load A Zombie
+M 0 19858 28 19856 2 100 Load A Zombie
+M 0 19858 28 19857 2 100 Load A Zombie
+M 0 19858 28 19858 2 100 Load A Zombie
+M 0 19858 28 19859 2 100 Load A Zombie
+M 0 19858 28 19860 2 100 Load A Zombie
+M 0 19858 28 19861 2 100 Load A Zombie
+M 0 19858 28 19862 2 100 Load A Zombie
+M 0 19858 28 19863 2 100 Load A Zombie
+M 0 19864 1 19864 1 100 Load Lazarus
+E 0 19864 0 17 0 100 The staff of necromancy is loaded wielded of Lazarus
+M 0 19858 28 19865 2 100 Load A Zombie
+M 0 19858 28 19866 2 100 Load A Zombie
+M 0 19858 28 19867 2 100 Load A Zombie
+M 0 19858 28 19868 2 100 Load A Zombie
+M 0 19854 30 19869 2 100 Load A Flying Skeleton
+M 0 19854 30 19870 2 100 Load A Flying Skeleton
+M 0 19854 30 19871 2 100 Load A Flying Skeleton
+M 0 19854 30 19872 2 100 Load A Flying Skeleton
+M 0 19854 30 19873 2 100 Load A Flying Skeleton
+M 0 19854 30 19874 2 100 Load A Flying Skeleton
+M 0 19854 30 19875 2 100 Load A Flying Skeleton
+M 0 19876 24 19876 3 100 Load An Appirition
+M 0 19876 22 19877 2 100 Load An Appirition
+M 0 19876 22 19878 2 100 Load An Appirition
+M 0 19876 22 19879 2 100 Load An Appirition
+M 0 19876 22 19880 2 100 Load An Appirition
+M 0 19876 22 19881 2 100 Load An Appirition
+M 0 19876 22 19882 2 100 Load An Appirition
+M 0 19876 22 19883 2 100 Load An Appirition
+M 0 19876 22 19884 2 100 Load An Appirition
+M 0 19876 22 19885 2 100 Load An Appirition
+M 0 19876 22 19886 2 100 Load An Appirition
+M 0 19876 24 19886 3 100 Load An Appirition
+M 0 19854 30 19887 2 100 Load A Flying Skeleton
+M 0 19854 30 19888 2 100 Load A Flying Skeleton
+M 0 19854 30 19889 2 100 Load A Flying Skeleton
+M 0 19854 30 19890 2 100 Load A Flying Skeleton
+M 0 19854 30 19891 2 100 Load A Flying Skeleton
+M 0 19854 30 19892 2 100 Load A Flying Skeleton
+M 0 19894 1 19894 1 100 Load The Butcher
+E 0 19894 0 17 0 100 The butchers hand axe is loaded wielded of The Butcher
+M 0 19897 40 19897 4 100 Load A Giant Spider
+M 0 19897 40 19897 4 100 Load A Giant Spider
+M 0 19897 40 19898 4 100 Load A Giant Spider
+M 0 19897 40 19899 4 100 Load A Giant Spider
+M 0 19897 40 19900 4 100 Load A Giant Spider
+M 0 19897 40 19901 4 100 Load A Giant Spider
+M 0 19897 40 19902 4 100 Load A Giant Spider
+M 0 19897 40 19902 4 100 Load A Giant Spider
+M 0 19897 40 19903 4 100 Load A Giant Spider
+M 0 19897 40 19904 4 100 Load A Giant Spider
+M 0 19897 40 19905 4 100 Load A Giant Spider
+M 0 19897 40 19906 4 100 Load A Giant Spider
+M 0 19897 40 19907 4 100 Load A Giant Spider
+M 0 19897 40 19908 4 100 Load A Giant Spider
+M 0 19897 40 19910 4 100 Load A Giant Spider
+M 0 19897 40 19911 4 100 Load A Giant Spider
+M 0 19912 1 19912 1 100 Load Anthrax
+M 0 19897 40 19913 4 100 Load A Giant Spider
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#19852
+say Beware of what lies inside ...Great evil lurks
+~
+#19894
+say Ahhhh, fresh meat.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

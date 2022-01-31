@@ -1,0 +1,5591 @@
+#AREADATA
+Name Merenia~
+Builders None~
+VNUMs 24601 25200
+Credits `4[`7 Hard `4]`7 Jas/Voosh Cairhien~
+Security 10
+Flags F
+Version 4
+End
+
+
+
+#MOBILES
+#24601
+Cairhien Guard~
+a Cairhien Guard~
+A Cairhien Guard stands here, making sure no one gets into the city unnoticed.
+~
+Staring at you blankly, he doesn't appear to be too friendly.  He scans
+around looking for any slight notions of disruption of the peaceful order
+held within the walls.  
+~
+cairhien~
+0 0
+ABGT 16720 2048 0 0 -1  1000 0
+150 130 15000d1+1000 0d0+0 10d1+120 slash
+-50 -50 -50 -50
+CDEFHKU 0 CD 0
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+#24602
+evil man obliqueness~
+Evil Man of Obliqueness~
+Something stirs within the shadows, letting off an evil chuckle.
+~
+This man is completely pale from dwelling in the darkness for so long. 
+His hands are bony and fingers long.  His eyes are completely white and
+mouth stained with dried blood.  
+~
+cairhien~
+0 0
+ABFTe 49408 64 128 0 -1  -1000 0
+800 800 60000d1+5500 15000d1+1000 10d1+790 wrath
+-160 -160 -160 -160
+CDEFHK ADEQb CHIJK Na
+stand stand male  20000
+AGHMV ABCDEFGHIJK medium unknown
+#24603
+shadow beast~
+a shadow beast~
+A shadow stirs, slowly consuming any visible light that is left.
+~
+Darkness grows as does the awkward shadow that covers the ground.  It
+slowly begins to expand and move slowly, absorbing anything around it.  A
+faint sound can be heard from within, such as the voices of those it has
+touched.  
+~
+unique~
+17 23
+ABGe 49232 1088 32768 0 -1  0 0
+200 150 9000d1+400 0d0+0 10d1+140 none
+-50 -50 -50 -50
+0 ABEG CD 0
+stand stand none 0
+0 0 medium unknown
+M ACT 24602 looks at you.~
+M GRALL 24601 100~
+#24604
+reaper demonic~
+a statue of the Demonic Reaper~
+A statue of a cloaked figure is here, wielding a scythe in its hand.
+~
+~
+unique~
+0 0
+ABGe 80 1024 32768 4096 -1  -1000 0
+700 700 20000d1+4000 0d0+0 10d1+690 suction
+-200 -200 -200 -200
+CDFGK ABb CD JKa
+stand stand none 50000
+0 0 medium unknown
+M ACT 24604 nods.~
+#24860
+The Blue Watcher~
+the Blue Watcher~
+The Blue Watcher is standing here, watching the capture point area.
+~
+This man is simple looking, and is covered in shining steel blue armor,
+his gaze quickly sweeps over you - as he scans the area.  
+~
+unique~
+0 0
+ABKZ 1360 64 0 0 -1  -1000 0
+700 200 500d500+1000 0d0+0 500d500+100 slash
+-200 -200 -200 -200
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+M ACT 24860 drops a `!red flag`7.~
+#24861
+watcher~
+the Red Watcher~
+The Red Watcher is standing here, watching the capture point area.
+~
+The man you're looking at his cloaked in armor made of leather, that has
+been dyed red.  His gaze slowly sweeps over you as he continues to scan the
+room.  
+~
+unique~
+0 0
+ABKZ 1360 64 0 0 -1  1000 0
+700 200 400d400+100 0d0+0 500d500+100 slash
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+M ACT 24861 drops a `$blue flag`7.~
+#24862
+watcher~
+the Blue Flag Watcher~
+The Blue Flag Watcher is standing here, watching the blue flag closely.
+~
+The man you're looking at is cloaked in blue robes, and has a very solemn
+look upon his face.  His gaze never once lifting from the flag.  
+~
+unique~
+0 0
+ABKZ 1360 64 0 0 -1  -1000 0
+700 200 500d500+1000 0d0+0 500d500+100 slash
+-200 -200 -200 -200
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+M ACT 24862 gets a `$blue flag`7.~
+#24863
+red flag watcher~
+the Red Flag Watcher~
+The Red Flag Watcher is standing here, watching the red flag closely.
+~
+~
+unique~
+0 0
+ABKZ 1360 0 0 0 -1  0 0
+100 0 10d1+100 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M ACT 24863 gets a `!red flag`7.~
+#24864
+no name~
+The Red Guard~
+The Red Guard, is standing here guarding the doorway to the north.
+~
+This guard is covered in shining red steel armor.  He is a very large
+man, and is blocking the doorway.  
+~
+unique~
+0 0
+ABZ 256 0 0 0 -1  -1000 0
+700 200 500d500+1000 0d0+0 400d400+100 slash
+-200 -200 -200 -200
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+M SPEECH 24864 devastate~
+#24865
+guard~
+An ancient guard~
+An old, and ancient guard stands here near the entrance to the room.
+~
+This is an old, and ancient looking guard.  He is cloaked in old tattered
+armor that is covered with dents, and dried blood.  
+~
+unique~
+0 0
+ABZ 0 0 0 0 -1  -1000 0
+700 0 100d100+100 0d0+0 100d100+100 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M SPEECH 24865 out~
+#24866
+guard~
+A Blue Guard~
+A large man covered in Blue Armor, is standing here guarding the doorway.
+~
+The man you're gazing at is covered in shining blue steel armor, and has
+a very vicious look upon his face.  
+~
+unique~
+0 0
+ABZ 256 0 0 0 -1  -1000 0
+700 0 500d500+1000 0d0+0 500d500+100 slash
+-100 -100 -100 -100
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M SPEECH 24866 conquer~
+#24867
+guardian~
+An old ancient guardian~
+An old ancient guardian is standing here, peering around the room.
+~
+This man is covered in old, blue steel armor - that is covered in dents,
+and dried blood.  It is obvious his days of battle are long gone.  
+~
+unique~
+0 0
+ABZ 256 0 0 0 -1  0 0
+700 100 100d100+100 0d0+0 100d100+100 none
+-10 -10 -10 -10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M SPEECH 24867 out~
+#24868
+booming voice~
+A loud booming voice~
+A loud booming voice is echoing here.
+~
+~
+unique~
+0 0
+AZ 256 0 0 0 -1  0 0
+700 200 500d500+1000 0d0+0 500d500+100 slash
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+#24869
+red team medic~
+`!Red Team `&Medic`7~
+The Red Team Medic is here, healing his team members.
+~
+~
+unique~
+0 0
+ABa 0 0 0 0 -1  0 0
+100 0 10d1+100 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+M ACT 24869 otells you 'summon me'~
+#24880
+old strange man cloaked~
+a strange, old man~
+A cloaked figure is here, speaking in tongues to himself.
+~
+A strange, old man stands before you peering at you with a sharp stare. 
+He is surrounded with a thick, black cloak that extends to his feet.  He
+jerks every once in a while, but is able to maintain his calm.  His speech
+is slurred a bit and cannot be understood.  
+~
+unique~
+13 23
+ABGe 336 1024 32768 0 -1  -1000 0
+700 500 20000d1+4000 0d0+0 10d1+490 none
+-200 -200 -200 -200
+CDFHK ABb CD 0
+stand stand male  10000
+0 0 medium unknown
+M ACT 24880 nods.~
+#24881
+demon shadow statue~
+a statue of the Shadow Demon~
+A crumbling statue stands erect and towering above the entire keep.
+~
+The eyes have faded a bit, leaving on a small trace of detail.  It poses
+an awkward postition yet makes an attempt to pose as a threat.  Small pieces
+are missing due to its age.  Occasionally small dust and debris trickle down
+the statue, as it continues to fall apart.  
+~
+wyvern~
+0 0
+ABGZe 0 1088 32768 4096 -1  0 0
+675 450 15000d1+4000 0d0+0 10d1+440 charge
+-180 -180 -180 -180
+CFH ABLb D JKSa
+stand stand none 10000
+ABGZ ACDEFHJKQVX medium unknown
+M GRALL 24603 100~
+#0
+
+
+
+#OBJECTS
+#24601
+shocklance~
+a shocklance~
+A shocklance lies here, looking deadly.~
+unknown~
+weapon AB AN
+0
+spear 65 1 thrust CEG
+95 150 30000 P
+A
+18 7
+A
+19 7
+A
+17 -25
+ T 0 none~
+#24602
+spike-backed scales darkness~
+`7Spike-backed Scales of Darkness~
+Scales lined with spikes lay here, giving off a dark presence.~
+unknown~
+armor ABEJL AM
+0
+ABF ABF ABF ABF 0
+110 100 1000 P
+A
+20 -5
+A
+13 60
+A
+19 7
+A
+18 7
+ T 0 none~
+#24603
+dark scarf obliqueness~
+`7Dark Scarf of Obliqueness~
+A crumpled up scarf is laying here, giving off an evil glow.~
+unknown~
+armor ABEJL AC
+0
+ABF ABF ABF ABF 0
+110 100 1000 P
+A
+20 -5
+A
+13 50
+A
+18 8
+A
+19 8
+ T 0 none~
+#24604
+black-curved blade obliqueness~
+a Black Curved Blade of Obliqueness~
+A wicked looking blade is here, blending into it's surroundings.~
+unknown~
+weapon LM AN
+0
+sword 75 1 slice CEG
+110 200 1000 P
+A
+18 10
+A
+19 10
+A
+17 -20
+ T 0 none~
+#24605
+red gem apathy~
+`7Red Gem of Apathy~
+A strange gem is here.~
+unknown~
+armor ABLM AB
+0
+ABF ABF ABF ABF 0
+110 100 1000 P
+A
+18 9
+A
+19 9
+A
+20 -10
+A
+17 -8
+ T 0 none~
+#24606
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#24860
+medikit white box red cross~
+a white box with a red-cross on it~
+A simple looking white box with a large red-cross painted on it is here.~
+unknown~
+potion P AO
+0
+1 'heal' 'cure blindness' 'cure poison' 'reserved'
+1 0 0 P
+ T 0 none~
+#24861
+medikit white box red cross~
+a white box with a red-cross on it~
+A simple looking white box with a large red-cross painted on it is here.~
+unknown~
+potion P AO
+0
+1 'heal' 'cure blindness' 'cure poison' 'reserved'
+1 0 0 P
+ T 0 none~
+#24862
+medikit white box red cross~
+a white box with a red-cross on it~
+A simple looking white box with a large red-cross painted on it is here.~
+unknown~
+potion P AO
+0
+1 'heal' 'cure blindness' 'cure poison' 'reserved'
+1 0 0 P
+ T 0 none~
+#24863
+medikit white box red cross~
+a white box with a red-cross on it~
+A simple looking white box with a large red-cross painted on it is here.~
+unknown~
+potion P AO
+0
+1 'heal' 'cure blindness' 'cure poison' 'reserved'
+1 0 0 P
+ T 0 none~
+#24864
+red flag~
+a `!red flag`7~
+A large `!Red Flag `7with a skull emblem on it is here.~
+unknown~
+treasure AOR APQ
+0
+0 0 0 0 0
+1 0 0 P
+ T 0 none~
+#24865
+blue flag~
+a `$blue flag`7~
+A large `$Blue Flag `7with a mountain emblem on it is here.~
+unknown~
+treasure AOR APQ
+0
+0 0 0 0 0
+1 0 0 P
+ T 0 none~
+#24866
+distorted passageway~
+a distorted passageway~
+There seems to be some sort of distortion of time and space here.~
+unknown~
+portal 0 0
+0
+0 0 0 BDEFGINO 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#24601
+The Road to Cairhien~
+~
+0 0 8
+D0
+~
+~
+0 0 24602
+S
+#24602
+The Road to Cairhien~
+~
+0 0 8
+D0
+~
+~
+0 0 24603
+D2
+~
+~
+0 0 24601
+S
+#24603
+The Road to Cairhien~
+~
+0 0 8
+D0
+~
+~
+0 0 24604
+D2
+~
+~
+0 0 24602
+S
+#24604
+The Road to Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24605
+D2
+~
+~
+0 0 24603
+S
+#24605
+The Road to Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24606
+D2
+~
+~
+0 0 24604
+S
+#24606
+The Road to Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24607
+D2
+~
+~
+0 0 24605
+S
+#24607
+The Road to Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24608
+D2
+~
+~
+0 0 24606
+S
+#24608
+The Road to Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24610
+D2
+~
+~
+0 0 24607
+S
+#24609
+The Road to Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24611
+D2
+~
+~
+0 0 24610
+S
+#24610
+The Road to Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24609
+D2
+~
+~
+0 0 24608
+S
+#24611
+The Road to Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24612
+D2
+~
+~
+0 0 24609
+S
+#24612
+The Road to Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24613
+D2
+~
+~
+0 0 24611
+S
+#24613
+The Road to Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24614
+D2
+~
+~
+0 0 24612
+S
+#24614
+The Road to Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24615
+D2
+~
+~
+0 0 24613
+S
+#24615
+The Southern Entrance of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24783
+D1
+~
+~
+0 0 24616
+D2
+~
+~
+0 0 24614
+D3
+~
+~
+0 0 24626
+S
+#24616
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24617
+D3
+~
+~
+0 0 24615
+S
+#24617
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24618
+D3
+~
+~
+0 0 24616
+S
+#24618
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24619
+D3
+~
+~
+0 0 24617
+S
+#24619
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24620
+D3
+~
+~
+0 0 24618
+S
+#24620
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24621
+D3
+~
+~
+0 0 24619
+S
+#24621
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24622
+D3
+~
+~
+0 0 24620
+S
+#24622
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24623
+D3
+~
+~
+0 0 24621
+S
+#24623
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24624
+D3
+~
+~
+0 0 24622
+S
+#24624
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24625
+D3
+~
+~
+0 0 24623
+S
+#24625
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24636
+D3
+~
+~
+0 0 24624
+S
+#24626
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24615
+D3
+~
+~
+0 0 24627
+S
+#24627
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24626
+D3
+~
+~
+0 0 24628
+S
+#24628
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24627
+D3
+~
+~
+0 0 24629
+S
+#24629
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24628
+D3
+~
+~
+0 0 24630
+S
+#24630
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24629
+D3
+~
+~
+0 0 24631
+S
+#24631
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24630
+D3
+~
+~
+0 0 24632
+S
+#24632
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24631
+D3
+~
+~
+0 0 24633
+S
+#24633
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24632
+D3
+~
+~
+0 0 24634
+S
+#24634
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24633
+D3
+~
+~
+0 0 24635
+S
+#24635
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24634
+D3
+~
+~
+0 0 24646
+S
+#24636
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24637
+D3
+~
+~
+0 0 24625
+S
+#24637
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24638
+D3
+~
+~
+0 0 24636
+S
+#24638
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24639
+D3
+~
+~
+0 0 24637
+S
+#24639
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24640
+D3
+~
+~
+0 0 24638
+S
+#24640
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24641
+D3
+~
+~
+0 0 24639
+S
+#24641
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24642
+D3
+~
+~
+0 0 24640
+S
+#24642
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24643
+D3
+~
+~
+0 0 24641
+S
+#24643
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24644
+D3
+~
+~
+0 0 24642
+S
+#24644
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24645
+D3
+~
+~
+0 0 24643
+S
+#24645
+South-eastern corner of the wall~
+~
+0 0 0
+D0
+~
+~
+0 0 24776
+D3
+~
+~
+0 0 24644
+S
+#24646
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24635
+D3
+~
+~
+0 0 24647
+S
+#24647
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24646
+D3
+~
+~
+0 0 24648
+S
+#24648
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24647
+D3
+~
+~
+0 0 24649
+S
+#24649
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24648
+D3
+~
+~
+0 0 24650
+S
+#24650
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24649
+D3
+~
+~
+0 0 24651
+S
+#24651
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24650
+D3
+~
+~
+0 0 24652
+S
+#24652
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24651
+D3
+~
+~
+0 0 24653
+S
+#24653
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24652
+D3
+~
+~
+0 0 24654
+S
+#24654
+Southern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24653
+D3
+~
+~
+0 0 24655
+S
+#24655
+Southwestern Corner of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24656
+D1
+~
+~
+0 0 24654
+S
+#24656
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24657
+D2
+~
+~
+0 0 24655
+S
+#24657
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24658
+D2
+~
+~
+0 0 24656
+S
+#24658
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24659
+D2
+~
+~
+0 0 24657
+S
+#24659
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24660
+D2
+~
+~
+0 0 24658
+S
+#24660
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24661
+D2
+~
+~
+0 0 24659
+S
+#24661
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24662
+D2
+~
+~
+0 0 24660
+S
+#24662
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24663
+D2
+~
+~
+0 0 24661
+S
+#24663
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24664
+D2
+~
+~
+0 0 24662
+S
+#24664
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24665
+D2
+~
+~
+0 0 24663
+S
+#24665
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24666
+D2
+~
+~
+0 0 24664
+S
+#24666
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24667
+D2
+~
+~
+0 0 24665
+S
+#24667
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24668
+D2
+~
+~
+0 0 24666
+S
+#24668
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24669
+D2
+~
+~
+0 0 24667
+S
+#24669
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24670
+D2
+~
+~
+0 0 24668
+S
+#24670
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24671
+D2
+~
+~
+0 0 24669
+S
+#24671
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24672
+D2
+~
+~
+0 0 24670
+S
+#24672
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24673
+D2
+~
+~
+0 0 24671
+S
+#24673
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24674
+D2
+~
+~
+0 0 24672
+S
+#24674
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24675
+D2
+~
+~
+0 0 24673
+S
+#24675
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24676
+D2
+~
+~
+0 0 24674
+S
+#24676
+The Western Entrance of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24677
+D1
+~
+~
+0 0 24859
+D2
+~
+~
+0 0 24675
+D3
+~
+~
+0 0 24778
+S
+#24677
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24678
+D2
+~
+~
+0 0 24676
+S
+#24678
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24679
+D2
+~
+~
+0 0 24677
+S
+#24679
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24680
+D2
+~
+~
+0 0 24678
+S
+#24680
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24681
+D2
+~
+~
+0 0 24679
+S
+#24681
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24682
+D2
+~
+~
+0 0 24680
+S
+#24682
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24683
+D2
+~
+~
+0 0 24681
+S
+#24683
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24684
+D2
+~
+~
+0 0 24682
+S
+#24684
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24685
+D2
+~
+~
+0 0 24683
+S
+#24685
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24686
+D2
+~
+~
+0 0 24684
+S
+#24686
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24687
+D2
+~
+~
+0 0 24685
+S
+#24687
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24688
+D2
+~
+~
+0 0 24686
+S
+#24688
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24689
+D2
+~
+~
+0 0 24687
+S
+#24689
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24690
+D2
+~
+~
+0 0 24688
+S
+#24690
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24691
+D2
+~
+~
+0 0 24689
+S
+#24691
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24692
+D2
+~
+~
+0 0 24690
+S
+#24692
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24693
+D2
+~
+~
+0 0 24691
+S
+#24693
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24694
+D2
+~
+~
+0 0 24692
+S
+#24694
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24695
+D2
+~
+~
+0 0 24693
+S
+#24695
+Western Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24696
+D2
+~
+~
+0 0 24694
+S
+#24696
+North-western corner of the wall~
+~
+0 0 0
+D1
+~
+~
+0 0 24697
+D2
+~
+~
+0 0 24695
+S
+#24697
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24698
+D3
+~
+~
+0 0 24696
+S
+#24698
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24699
+D3
+~
+~
+0 0 24697
+S
+#24699
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24700
+D3
+~
+~
+0 0 24698
+S
+#24700
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24701
+D3
+~
+~
+0 0 24699
+S
+#24701
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24702
+D3
+~
+~
+0 0 24700
+S
+#24702
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24703
+D3
+~
+~
+0 0 24701
+S
+#24703
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24704
+D3
+~
+~
+0 0 24702
+S
+#24704
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24705
+D3
+~
+~
+0 0 24703
+S
+#24705
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24706
+D3
+~
+~
+0 0 24704
+S
+#24706
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24707
+D3
+~
+~
+0 0 24705
+S
+#24707
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24708
+D3
+~
+~
+0 0 24706
+S
+#24708
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24709
+D3
+~
+~
+0 0 24707
+S
+#24709
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24710
+D3
+~
+~
+0 0 24708
+S
+#24710
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24711
+D3
+~
+~
+0 0 24709
+S
+#24711
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24712
+D3
+~
+~
+0 0 24710
+S
+#24712
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24713
+D3
+~
+~
+0 0 24711
+S
+#24713
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24714
+D3
+~
+~
+0 0 24712
+S
+#24714
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24715
+D3
+~
+~
+0 0 24713
+S
+#24715
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24716
+D3
+~
+~
+0 0 24714
+S
+#24716
+The Northern Entrance of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24717
+D2
+~
+~
+0 0 24821
+D3
+~
+~
+0 0 24715
+S
+#24717
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24718
+D3
+~
+~
+0 0 24716
+S
+#24718
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24719
+D3
+~
+~
+0 0 24717
+S
+#24719
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24720
+D3
+~
+~
+0 0 24718
+S
+#24720
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24721
+D3
+~
+~
+0 0 24719
+S
+#24721
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24722
+D3
+~
+~
+0 0 24720
+S
+#24722
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24723
+D3
+~
+~
+0 0 24721
+S
+#24723
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24724
+D3
+~
+~
+0 0 24722
+S
+#24724
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24725
+D3
+~
+~
+0 0 24723
+S
+#24725
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24726
+D3
+~
+~
+0 0 24724
+S
+#24726
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24727
+D3
+~
+~
+0 0 24725
+S
+#24727
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24728
+D3
+~
+~
+0 0 24726
+S
+#24728
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24729
+D3
+~
+~
+0 0 24727
+S
+#24729
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24730
+D3
+~
+~
+0 0 24728
+S
+#24730
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24731
+D3
+~
+~
+0 0 24729
+S
+#24731
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24732
+D3
+~
+~
+0 0 24730
+S
+#24732
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24734
+D3
+~
+~
+0 0 24731
+S
+#24734
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24735
+D3
+~
+~
+0 0 24732
+S
+#24735
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24736
+D3
+~
+~
+0 0 24734
+S
+#24736
+Northern Wall of Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24737
+D3
+~
+~
+0 0 24735
+S
+#24737
+North-eastern corner of the wall~
+~
+0 0 0
+D2
+~
+~
+0 0 24738
+D3
+~
+~
+0 0 24736
+S
+#24738
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24737
+D2
+~
+~
+0 0 24739
+S
+#24739
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24738
+D2
+~
+~
+0 0 24740
+S
+#24740
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24739
+D2
+~
+~
+0 0 24741
+S
+#24741
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24740
+D2
+~
+~
+0 0 24742
+S
+#24742
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24741
+D2
+~
+~
+0 0 24743
+S
+#24743
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24742
+D2
+~
+~
+0 0 24744
+S
+#24744
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24743
+D2
+~
+~
+0 0 24745
+S
+#24745
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24744
+D2
+~
+~
+0 0 24746
+S
+#24746
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24745
+D2
+~
+~
+0 0 24747
+S
+#24747
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24746
+D2
+~
+~
+0 0 24748
+S
+#24748
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24747
+D2
+~
+~
+0 0 24749
+S
+#24749
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24748
+D2
+~
+~
+0 0 24750
+S
+#24750
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24749
+D2
+~
+~
+0 0 24751
+S
+#24751
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24750
+D2
+~
+~
+0 0 24752
+S
+#24752
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24751
+D2
+~
+~
+0 0 24753
+S
+#24753
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24752
+D2
+~
+~
+0 0 24754
+S
+#24754
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24753
+D2
+~
+~
+0 0 24755
+S
+#24755
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24754
+D2
+~
+~
+0 0 24756
+S
+#24756
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24755
+D2
+~
+~
+0 0 24757
+S
+#24757
+The Eastern Entrance of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24756
+D2
+~
+~
+0 0 24758
+D3
+~
+~
+0 0 24840
+S
+#24758
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24757
+D2
+~
+~
+0 0 24759
+S
+#24759
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24758
+D2
+~
+~
+0 0 24760
+S
+#24760
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24759
+D2
+~
+~
+0 0 24761
+S
+#24761
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24760
+D2
+~
+~
+0 0 24762
+S
+#24762
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24761
+D2
+~
+~
+0 0 24763
+S
+#24763
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24762
+D2
+~
+~
+0 0 24764
+S
+#24764
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24763
+D2
+~
+~
+0 0 24765
+S
+#24765
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24764
+D2
+~
+~
+0 0 24766
+S
+#24766
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24765
+D2
+~
+~
+0 0 24767
+S
+#24767
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24766
+D2
+~
+~
+0 0 24768
+S
+#24768
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24767
+D2
+~
+~
+0 0 24769
+S
+#24769
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24768
+D2
+~
+~
+0 0 24770
+S
+#24770
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24769
+D2
+~
+~
+0 0 24771
+S
+#24771
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24770
+D2
+~
+~
+0 0 24772
+S
+#24772
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24771
+D2
+~
+~
+0 0 24773
+S
+#24773
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24772
+D2
+~
+~
+0 0 24774
+S
+#24774
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24773
+D2
+~
+~
+0 0 24775
+S
+#24775
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24774
+D2
+~
+~
+0 0 24776
+S
+#24776
+Eastern Wall of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24775
+D2
+~
+~
+0 0 24645
+S
+#24778
+Bay Road~
+~
+0 0 0
+D1
+~
+~
+0 0 24676
+D3
+~
+~
+0 0 24779
+S
+#24779
+Bay Road~
+~
+0 0 0
+D1
+~
+~
+0 0 24778
+D3
+~
+~
+0 0 24780
+S
+#24780
+Bay Road~
+~
+0 0 0
+D1
+~
+~
+0 0 24779
+D3
+~
+~
+0 0 24781
+S
+#24781
+Bay Road~
+~
+0 0 0
+D1
+~
+~
+0 0 24780
+D3
+~
+~
+0 0 24782
+S
+#24782
+Cairhien Port~
+~
+0 0 0
+D1
+~
+~
+0 0 24781
+S
+#24783
+Inside the Southern Gates of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24784
+D1
+~
+~
+0 0 24860
+D2
+~
+~
+0 0 24615
+S
+#24784
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24785
+D2
+~
+~
+0 0 24783
+S
+#24785
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24786
+D2
+~
+~
+0 0 24784
+S
+#24786
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24787
+D2
+~
+~
+0 0 24785
+S
+#24787
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24788
+D2
+~
+~
+0 0 24786
+S
+#24788
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24789
+D2
+~
+~
+0 0 24787
+S
+#24789
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24790
+D2
+~
+~
+0 0 24788
+S
+#24790
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24791
+D2
+~
+~
+0 0 24789
+S
+#24791
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24792
+D2
+~
+~
+0 0 24790
+S
+#24792
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24793
+D2
+~
+~
+0 0 24791
+S
+#24793
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24794
+D2
+~
+~
+0 0 24792
+S
+#24794
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24795
+D2
+~
+~
+0 0 24793
+S
+#24795
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24796
+D2
+~
+~
+0 0 24794
+S
+#24796
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24797
+D2
+~
+~
+0 0 24795
+S
+#24797
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24798
+D2
+~
+~
+0 0 24796
+S
+#24798
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24799
+D2
+~
+~
+0 0 24797
+S
+#24799
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24800
+D2
+~
+~
+0 0 24798
+S
+#24800
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24801
+D2
+~
+~
+0 0 24799
+S
+#24801
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24802
+D2
+~
+~
+0 0 24800
+S
+#24802
+Central Square of Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24803
+D1
+~
+~
+0 0 24822
+D2
+~
+~
+0 0 24801
+D3
+~
+~
+0 0 24841
+S
+#24803
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24804
+D2
+~
+~
+0 0 24802
+S
+#24804
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24805
+D2
+~
+~
+0 0 24803
+S
+#24805
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24806
+D2
+~
+~
+0 0 24804
+S
+#24806
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24807
+D2
+~
+~
+0 0 24805
+S
+#24807
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24808
+D2
+~
+~
+0 0 24806
+S
+#24808
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24809
+D2
+~
+~
+0 0 24807
+S
+#24809
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24810
+D2
+~
+~
+0 0 24808
+S
+#24810
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24811
+D2
+~
+~
+0 0 24809
+S
+#24811
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24812
+D2
+~
+~
+0 0 24810
+S
+#24812
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24813
+D2
+~
+~
+0 0 24811
+S
+#24813
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24814
+D2
+~
+~
+0 0 24812
+S
+#24814
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24815
+D2
+~
+~
+0 0 24813
+S
+#24815
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24816
+D2
+~
+~
+0 0 24814
+S
+#24816
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24817
+D2
+~
+~
+0 0 24815
+S
+#24817
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24818
+D2
+~
+~
+0 0 24816
+S
+#24818
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24819
+D2
+~
+~
+0 0 24817
+S
+#24819
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24820
+D2
+~
+~
+0 0 24818
+S
+#24820
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24821
+D2
+~
+~
+0 0 24819
+S
+#24821
+A Main Road in Cairhien~
+~
+0 0 0
+D0
+~
+~
+0 0 24716
+D2
+~
+~
+0 0 24820
+S
+#24822
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24823
+D3
+~
+~
+0 0 24802
+S
+#24823
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24824
+D3
+~
+~
+0 0 24822
+S
+#24824
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24825
+D3
+~
+~
+0 0 24823
+S
+#24825
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24826
+D3
+~
+~
+0 0 24824
+S
+#24826
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24827
+D3
+~
+~
+0 0 24825
+S
+#24827
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24828
+D3
+~
+~
+0 0 24826
+S
+#24828
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24829
+D3
+~
+~
+0 0 24827
+S
+#24829
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24830
+D3
+~
+~
+0 0 24828
+S
+#24830
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24831
+D3
+~
+~
+0 0 24829
+S
+#24831
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24832
+D3
+~
+~
+0 0 24830
+S
+#24832
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24833
+D3
+~
+~
+0 0 24831
+S
+#24833
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24834
+D3
+~
+~
+0 0 24832
+S
+#24834
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24835
+D3
+~
+~
+0 0 24833
+S
+#24835
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24836
+D3
+~
+~
+0 0 24834
+S
+#24836
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24837
+D3
+~
+~
+0 0 24835
+S
+#24837
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24838
+D3
+~
+~
+0 0 24836
+S
+#24838
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24839
+D3
+~
+~
+0 0 24837
+S
+#24839
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24840
+D3
+~
+~
+0 0 24838
+S
+#24840
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24757
+D3
+~
+~
+0 0 24839
+S
+#24841
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24802
+D3
+~
+~
+0 0 24842
+S
+#24842
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24841
+D3
+~
+~
+0 0 24843
+S
+#24843
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24842
+D3
+~
+~
+0 0 24844
+S
+#24844
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24843
+D3
+~
+~
+0 0 24845
+S
+#24845
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24844
+D3
+~
+~
+0 0 24846
+S
+#24846
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24845
+D3
+~
+~
+0 0 24847
+S
+#24847
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24846
+D3
+~
+~
+0 0 24848
+S
+#24848
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24847
+D3
+~
+~
+0 0 24849
+S
+#24849
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24848
+D3
+~
+~
+0 0 24850
+S
+#24850
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24849
+D3
+~
+~
+0 0 24851
+S
+#24851
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24850
+D3
+~
+~
+0 0 24852
+S
+#24852
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24851
+D3
+~
+~
+0 0 24853
+S
+#24853
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24852
+D3
+~
+~
+0 0 24854
+S
+#24854
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24853
+D3
+~
+~
+0 0 24855
+S
+#24855
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24854
+D3
+~
+~
+0 0 24856
+S
+#24856
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24855
+D3
+~
+~
+0 0 24857
+S
+#24857
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24856
+D3
+~
+~
+0 0 24858
+S
+#24858
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24857
+D3
+~
+~
+0 0 24859
+S
+#24859
+A Main Road in Cairhien~
+~
+0 0 0
+D1
+~
+~
+0 0 24858
+D3
+~
+~
+0 0 24676
+S
+#24860
+Streets of Cairhien~
+~
+0 6292484 0
+D1
+~
+~
+0 0 24861
+D3
+~
+~
+0 0 24783
+M 500 H 500
+S
+#24861
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24862
+D3
+~
+~
+0 0 24860
+S
+#24862
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24863
+D3
+~
+~
+0 0 24861
+S
+#24863
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24864
+D3
+~
+~
+0 0 24862
+S
+#24864
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24865
+D3
+~
+~
+0 0 24863
+S
+#24865
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24866
+D3
+~
+~
+0 0 24864
+S
+#24866
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24867
+D3
+~
+~
+0 0 24865
+S
+#24867
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24868
+D3
+~
+~
+0 0 24866
+S
+#24868
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24869
+D3
+~
+~
+0 0 24867
+S
+#24869
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24870
+D3
+~
+~
+0 0 24868
+S
+#24870
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24871
+D3
+~
+~
+0 0 24869
+S
+#24871
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24872
+D3
+~
+~
+0 0 24870
+S
+#24872
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24873
+D3
+~
+~
+0 0 24871
+S
+#24873
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24874
+D3
+~
+~
+0 0 24872
+S
+#24874
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24875
+D3
+~
+~
+0 0 24873
+S
+#24875
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24876
+D3
+~
+~
+0 0 24874
+S
+#24876
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24877
+D3
+~
+~
+0 0 24875
+S
+#24877
+Streets of Cairhien~
+~
+0 4194308 0
+D1
+~
+~
+0 0 24878
+D3
+~
+~
+0 0 24876
+S
+#24878
+Southeast Corner of Cairhien~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24879
+D3
+~
+~
+0 0 24877
+S
+#24879
+Along the Eastern Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24880
+D2
+~
+~
+0 0 24878
+S
+#24880
+Along the Eastern Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24881
+D2
+~
+~
+0 0 24879
+S
+#24881
+Along the Eastern Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24882
+D2
+~
+~
+0 0 24880
+S
+#24882
+Along the Eastern Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24883
+D2
+~
+~
+0 0 24881
+S
+#24883
+Along the Eastern Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24884
+D2
+~
+~
+0 0 24882
+S
+#24884
+Along the Eastern Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24885
+D2
+~
+~
+0 0 24883
+S
+#24885
+Along the Eastern Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24886
+D2
+~
+~
+0 0 24884
+S
+#24886
+Further Along the Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24887
+D2
+~
+~
+0 0 24885
+S
+#24887
+Further Along the Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24888
+D2
+~
+~
+0 0 24886
+S
+#24888
+Along the Eastern Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24889
+D2
+~
+~
+0 0 24887
+S
+#24889
+Along the Eastern Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24890
+D2
+~
+~
+0 0 24888
+S
+#24890
+Along the Eastern Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24891
+D2
+~
+~
+0 0 24889
+S
+#24891
+Along the Eastern Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24892
+D2
+~
+~
+0 0 24890
+S
+#24892
+Along the Eastern Wall~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24893
+D2
+~
+~
+0 0 24891
+S
+#24893
+Along the Eastern Wall~
+~
+0 4194308 0
+D2
+~
+~
+0 0 24892
+S
+#24894
+The Keep Gates~
+~
+0 4194308 0
+D2
+~
+~
+0 0 24895
+S
+#24895
+A Narrow Walkway~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24894
+D5
+~
+~
+0 0 24896
+S
+#24896
+A Flight of Stairs~
+~
+0 4194308 0
+D4
+~
+~
+0 0 24895
+D5
+~
+~
+0 0 24897
+S
+#24897
+A Flight of Stairs~
+~
+0 4194308 0
+D4
+~
+~
+0 0 24896
+D5
+~
+~
+0 0 24898
+S
+#24898
+Base of the Stairs~
+~
+0 4194308 0
+D2
+~
+~
+0 0 24899
+S
+#24899
+The Keep Grounds~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24898
+D2
+~
+~
+0 0 24900
+S
+#24900
+Within The Keep~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24899
+D1
+~
+~
+0 0 24901
+D2
+~
+~
+0 0 24936
+D3
+~
+~
+0 0 24906
+S
+#24901
+Along The Northern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24902
+D3
+~
+~
+0 0 24900
+S
+#24902
+Along The Northern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24903
+D3
+~
+~
+0 0 24901
+S
+#24903
+Along The Northern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24904
+D3
+~
+~
+0 0 24902
+S
+#24904
+Along The Northern Wall~
+~
+0 138420229 0
+D1
+~
+~
+0 0 24905
+D3
+~
+~
+0 0 24903
+S
+#24905
+Northeast Corner Of The Keep~
+~
+0 138420229 0
+D2
+~
+~
+0 0 24935
+D3
+~
+~
+0 0 24904
+S
+#24906
+Along The Northern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24900
+D3
+~
+~
+0 0 24907
+S
+#24907
+Along The Northern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24906
+D3
+~
+~
+0 0 24908
+S
+#24908
+Along The Northern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24907
+D3
+~
+~
+0 0 24909
+S
+#24909
+Along The Northern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24908
+D3
+~
+~
+0 0 24910
+S
+#24910
+Northwest Corner Of The Keep~
+~
+0 138420229 0
+D1
+~
+~
+0 0 24909
+D2
+~
+~
+0 0 24911
+S
+#24911
+Along the Western Wall~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24910
+D2
+~
+~
+0 0 24912
+S
+#24912
+Along the Western Wall~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24911
+D2
+~
+~
+0 0 24913
+S
+#24913
+Along the Western Wall~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24912
+D2
+~
+~
+0 0 24914
+S
+#24914
+Along the Western Wall~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24913
+D2
+~
+~
+0 0 24915
+S
+#24915
+Along the Western Wall~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24914
+D1
+~
+~
+0 0 24948
+D2
+~
+~
+0 0 24916
+S
+#24916
+Southwest Corner of the Keep~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24915
+D1
+~
+~
+0 0 24917
+S
+#24917
+Southern Wall of the Keep~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24918
+D3
+~
+~
+0 0 24916
+S
+#24918
+Along the Southern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24919
+D3
+~
+~
+0 0 24917
+S
+#24919
+Along the Southern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24920
+D3
+~
+~
+0 0 24918
+S
+#24920
+Along the Southern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24921
+D3
+~
+~
+0 0 24919
+S
+#24921
+Before the Stepping Stones Within the Keep~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24944
+D1
+~
+~
+0 0 24922
+D3
+~
+~
+0 0 24920
+D4
+~
+~
+0 0 24953
+S
+#24922
+Along the Southern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24923
+D3
+~
+~
+0 0 24921
+S
+#24923
+Along the Southern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24924
+D3
+~
+~
+0 0 24922
+S
+#24924
+Along the Southern Wall~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24925
+D3
+~
+~
+0 0 24923
+S
+#24925
+Southern Wall of the Keep~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24926
+D3
+~
+~
+0 0 24924
+S
+#24926
+Southeast Corner of the Keep~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24927
+D3
+~
+~
+0 0 24925
+S
+#24927
+Eastern Wall of the Keep~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24928
+D2
+~
+~
+0 0 24926
+S
+#24928
+Along the Eastern Wall~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24929
+D2
+~
+~
+0 0 24927
+S
+#24929
+Along the Eastern Wall~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24930
+D2
+~
+~
+0 0 24928
+S
+#24930
+Along the Eastern Wall~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24931
+D2
+~
+~
+0 0 24929
+S
+#24931
+Along the Eastern Wall~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24932
+D2
+~
+~
+0 0 24930
+D3
+~
+~
+0 0 24952
+S
+#24932
+Along the Eastern Wall~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24933
+D2
+~
+~
+0 0 24931
+S
+#24933
+Along the Eastern Wall~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24934
+D2
+~
+~
+0 0 24932
+S
+#24934
+Along the Eastern Wall~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24935
+D2
+~
+~
+0 0 24933
+S
+#24935
+Eastern Wall of the Keep~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24905
+D2
+~
+~
+0 0 24934
+S
+#24936
+Along a Crumbled Path~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24900
+D2
+~
+~
+0 0 24937
+S
+#24937
+Near the Rubble~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24936
+D2
+~
+~
+0 0 24938
+S
+#24938
+Amongst the Broken Shambles~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24937
+D2
+~
+~
+0 0 24939
+S
+#24939
+Near the Center of the Keep~
+~
+0 4194308 0
+D0
+~
+~
+0 0 24938
+D2
+~
+~
+0 0 24940
+S
+#24940
+Center of the Keep~
+~
+0 138420229 0
+D0
+~
+~
+0 0 24939
+D1
+~
+~
+0 0 24949
+D2
+~
+~
+0 0 24941
+D3
+~
+~
+0 0 24945
+S
+#24941
+Near the Center of the Keep~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24940
+D2
+~
+~
+0 0 24942
+S
+#24942
+Further Down the Crumbled Path~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24941
+D2
+~
+~
+0 0 24943
+S
+#24943
+Near Statues of the Deceased~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24942
+D2
+~
+~
+0 0 24944
+S
+#24944
+Along a Crumbled Path~
+~
+0 138420228 0
+D0
+~
+~
+0 0 24943
+D2
+~
+~
+0 0 24921
+S
+#24945
+Near the Center of the Keep~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24940
+D3
+~
+~
+0 0 24946
+S
+#24946
+Along a Broken Sidewalk~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24945
+D3
+~
+~
+0 0 24947
+S
+#24947
+Near a Fallen Statue~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24946
+D3
+~
+~
+0 0 24948
+S
+#24948
+Patch of Faded Grass~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24947
+D3
+~
+~
+0 0 24915
+S
+#24949
+Near the Center of the Keep~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24950
+D3
+~
+~
+0 0 24940
+S
+#24950
+Near a Stone Figure~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24951
+D3
+~
+~
+0 0 24949
+S
+#24951
+Broken Stone Walkway~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24952
+D3
+~
+~
+0 0 24950
+S
+#24952
+A Graveled Path~
+~
+0 138420228 0
+D1
+~
+~
+0 0 24931
+D3
+~
+~
+0 0 24951
+S
+#24953
+On the Stepping Stones~
+~
+0 138420228 0
+D4
+~
+~
+0 0 24954
+D5
+~
+~
+0 0 24921
+S
+#24954
+A Perfect Circle~
+A platform takes the shape of a perfect circle, with weird symbols
+enscribed on it.  In the very center resides an evil looking statue,
+towering over everything.  A closer look at the statue presents a faded
+message.  
+~
+0 138420228 0
+E
+faded~
+A simple agreement leads to fortune, but with a price.  It is best to
+scream for help to share these riches.  
+~
+D5
+~
+~
+0 0 24953
+S
+#24955
+A Dim Crevice~
+~
+0 138420229 0
+D0
+~
+~
+0 0 24956
+S
+#24956
+A Dark Passageway~
+~
+0 138420229 0
+D0
+~
+~
+0 0 24957
+D2
+~
+~
+0 0 24955
+S
+#24957
+Columns of Fate~
+A damp smell fills the room, making it almost unbearable to be here. 
+Shuffling of some sort can be heard.  Something alive seems to have a
+presence within the area.  Two giant columns stand erect, partially worn but
+sturdy just as when they were first constructed.  Tiny encryptions line the
+columns, starting from the top and spiraling downward as they near the base.
+~
+0 138420229 0
+D0
+~
+~
+3 0 24958
+D2
+~
+~
+0 0 24956
+S
+#24958
+Circle of Darkness~
+Faint laughs and growls can be heard here.  Darkness overwhelms anything
+and everything that it finds.  Spontaneous images of children being
+slaughtered, beaten, and even consumed by a living flame flash within the
+darkness.  Scratching noises and shrill screams break silence for a few
+moments, then nothing.  
+~
+0 138420229 0
+D2
+~
+~
+3 0 24957
+S
+#24959
+(rename)~
+~
+0 4194308 0
+S
+#24960
+(rename)~
+~
+0 4194308 0
+S
+#24961
+(rename)~
+~
+0 4194308 0
+S
+#24962
+(rename)~
+~
+0 4194308 0
+S
+#24963
+(rename)~
+~
+0 4194308 0
+S
+#24964
+(rename)~
+~
+0 4194308 0
+S
+#24965
+(rename)~
+~
+0 4194308 0
+S
+#24966
+(rename)~
+~
+0 4194308 0
+S
+#24967
+(rename)~
+~
+0 4194308 0
+S
+#24968
+(rename)~
+~
+0 4194308 0
+S
+#24969
+(rename)~
+~
+0 4194308 0
+S
+#24970
+(rename)~
+~
+0 4194308 0
+S
+#24971
+(rename)~
+~
+0 4194308 0
+S
+#24972
+(rename)~
+~
+0 6292484 0
+M 500 H 500
+S
+#24973
+(rename)~
+~
+0 4194308 0
+S
+#24974
+(rename)~
+~
+0 4194308 0
+S
+#24975
+(rename)~
+~
+0 4194308 0
+S
+#24990
+(rename)~
+~
+0 4194308 0
+S
+#24991
+(rename)~
+~
+0 4194308 0
+S
+#24992
+(rename)~
+~
+0 4194308 0
+S
+#24993
+(rename)~
+~
+0 4194308 0
+S
+#24994
+(rename)~
+~
+0 4194308 0
+S
+#24995
+(rename)~
+~
+0 4194308 0
+S
+#24996
+(rename)~
+~
+0 4194308 0
+S
+#24997
+(rename)~
+~
+0 4194308 0
+S
+#24998
+(rename)~
+~
+0 4194308 0
+S
+#24999
+(rename)~
+~
+0 4194308 0
+S
+#25000
+(rename)~
+~
+0 4194308 0
+S
+#25001
+(rename)~
+~
+0 4 0
+S
+#25002
+(rename)~
+~
+0 4 0
+S
+#25003
+(rename)~
+~
+0 4 0
+S
+#25004
+(rename)~
+~
+0 4194308 0
+S
+#25005
+(rename)~
+~
+0 4194308 0
+S
+#25006
+(rename)~
+~
+0 4194308 0
+S
+#25007
+(rename)~
+~
+0 4194308 0
+S
+#25008
+(rename)~
+~
+0 4194308 0
+S
+#25009
+(rename)~
+~
+0 4194308 0
+S
+#25010
+(rename)~
+~
+0 4194308 0
+S
+#25011
+(rename)~
+~
+0 4194308 0
+S
+#25012
+(rename)~
+~
+0 4194308 0
+S
+#25013
+(rename)~
+~
+0 4194308 0
+S
+#25014
+(rename)~
+~
+0 4194308 0
+S
+#25015
+(rename)~
+~
+0 4194308 0
+S
+#25016
+(rename)~
+~
+0 4194308 0
+S
+#25017
+(rename)~
+~
+0 4194308 0
+S
+#25018
+(rename)~
+~
+0 4194308 0
+S
+#25019
+(rename)~
+~
+0 4194308 0
+S
+#25020
+(rename)~
+~
+0 4194308 0
+S
+#25021
+(rename)~
+~
+0 4194308 0
+S
+#25022
+(rename)~
+~
+0 4194308 0
+S
+#25023
+(rename)~
+~
+0 4194308 0
+S
+#25024
+(rename)~
+~
+0 4194308 0
+S
+#25025
+(rename)~
+~
+0 4194308 0
+S
+#25026
+(rename)~
+~
+0 4194308 0
+S
+#25027
+(rename)~
+~
+0 4194308 0
+S
+#25028
+(rename)~
+~
+0 4194308 0
+S
+#25029
+(rename)~
+~
+0 4 0
+S
+#25030
+(rename)~
+~
+0 4 0
+S
+#25031
+(rename)~
+~
+0 4 0
+S
+#25032
+(rename)~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 24601 spec_guard
+M 24602 spec_breath_any_but_acid
+M 24604 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 24957 0 1
+D 0 24958 2 1
+M 0 24601 20 24615 2 100 Load a Cairhien Guard
+E 0 24601 0 17 0 100 A shocklance is loaded wielded of a Cairhien Guard
+M 0 24601 20 24615 2 100 Load a Cairhien Guard
+E 0 24601 0 17 0 100 A shocklance is loaded wielded of a Cairhien Guard
+M 0 24880 1 24898 1 100 Load a strange, old man
+M 0 24603 6 24905 1 100 Load a shadow beast
+M 0 24603 6 24910 1 100 Load a shadow beast
+M 0 24603 6 24915 1 100 Load a shadow beast
+M 0 24603 6 24916 1 100 Load a shadow beast
+M 0 24603 6 24926 1 100 Load a shadow beast
+M 0 24603 6 24931 1 100 Load a shadow beast
+M 0 24881 1 24940 1 100 Load a statue of the Shadow Demon
+M 0 24604 1 24954 1 100 Load a statue of the Demonic Reaper
+O 0 24866 0 24955 0 100 A distorted passageway loaded to A Dim Crevice
+M 0 24602 1 24958 1 100 Load Evil Man of Obliqueness
+E 0 24605 0 1 0 100 `7red gem of apathy is loaded on the left finger of Evil Man of Obliqueness
+E 0 24605 0 2 0 100 `7red gem of apathy is loaded on the right finger of Evil Man of Obliqueness
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#24601
+mob delay 2
+mob echo A wave of darkness begins to slowly consume you.
+break
+~
+#24602
+mob echo A shadow swells and suddenly leaps at you!
+mob kill $n
+break
+~
+#24603
+mob delay 2
+mob echo A sharp gaze pierces your back.
+mob delay 3
+if level $n >=66 && <=77
+mob delay 2
+mob echo Pieces of the statue fall to the ground as it suddenly comes alive!
+mob kill $n
+else
+mob echo A faint growl fills the keep.
+break
+endif
+~
+#24604
+if level $n < 66
+echo Something whispers, '`%..You are not ready yet..`y'.
+else
+echo A faint cackle explodes within the keep.
+mob delay 2
+mob at $n mob echo A swirl of darkness suddenly swallows you into the ground.
+mob transfer $n 24955
+~
+#24605
+mob at $n mob echo An eery mist fills the ground, consuming you all together.
+mob delay 2
+mob transfer $n 24954
+mob echo A loud laughter roars, filling the keep with pure chaos.
+~
+#24860
+mob zecho `!The Blue Team has captured the Red Flag!`7
+get flag
+mob goto 24990
+drop flag
+mob zecho `!The Red Flag has returned to the Red Flag Room!`7
+mob goto 24868
+break
+~
+#24861
+mob zecho `!The Red Team has captured the Blue Flag!`7
+get flag
+mob goto 24914
+drop flag
+mob zecho `!The Blue Flag has returned to the Blue Flag Room!`7
+mob goto 24991
+break
+~
+#24862
+mob zecho `!$n has just picked up the Blue Flag!`7
+break
+~
+#24863
+mob zecho `!$n has picked up the Red Flag!`7
+break
+~
+#24864
+nod
+mob transfer $n 24972
+break
+~
+#24865
+nod
+mob transfer $n 24971
+break
+~
+#24866
+nod
+mob transfer $n 24860
+break
+~
+#24867
+nod
+mob transfer $n 24861
+break
+~
+#24869
+mob transfer $n 24860
+break
+~
+#24880
+mob delay 1
+emote utters words that cannot be comprehended.
+mob transfer $n 24897
+mob at $n mob echo Lightning flashes and a gust of wind follows as the old man splits the air and pushes you through.
+break
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

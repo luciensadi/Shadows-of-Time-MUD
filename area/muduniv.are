@@ -1,0 +1,1579 @@
+#AREADATA
+Name Mud University~
+Builders None~
+VNUMs 200 299
+Credits `4[`7Newbie`4]`7 Camm      Mud University~
+Security 10
+Flags F
+Version 4
+End
+
+
+
+#MOBILES
+#200
+man mean large gordon~
+Gordon~
+A large man growls at you and blocks the entrance of the Mud University.
+~
+He is large and well muscled.  His eyes are unrelentless as he glares at
+you.  Light gleams off his armor and weapons as if they were crafted just
+yesterday.  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+0 -5 1d1+0 1d1+99 1d1+0 pound
+30 30 30 30
+0 A 0 0
+stand stand male  110
+M ABCDEFGHJK large unknown
+M GRALL 200 100~
+#201
+Daikor~
+Daikor~
+Daikor stands here ready to do business.
+~
+This man is a tanned skin tone and wears tight fitting black clothing. 
+His hooded cloak is drapped back and reveals more of his features to you
+than before.  He appears to be a strong and very capable person.  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+0 0 1d1+99 1d1+99 1d1+0 none
+0 0 0 0
+0 DT 0 0
+stand stand none 10000
+M ABCDEFGHIJK medium unknown
+M GRALL 3006 100~
+#202
+Daikor~
+Daikor~
+A suspicious man lurks in the shadows here.
+~
+This man lurks in the shadows of the Common Square.  He looks at you and
+scratches his chin as if pondering something.  
+~
+unique~
+0 0
+ABd 4 3 0 0 -1  0 0
+0 0 1d1+99 1d1+99 1d1+1 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+M ABCDEFGHIJK medium unknown
+M SPEECH 3004 no~
+M SPEECH 3003 business~
+M SPEECH 3003 yes~
+M GRALL 3002 15~
+#209
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#200
+sign~
+a sign 'Work in Progress'~
+A large white sign says 'WORK IN PROGRESS'~
+wood~
+trash O 0
+0
+0 0 0 0 0
+0 100 0 P
+E
+sign work progress~
+This area is a work in progress.  Please come again.  
+~
+ T 0 none~
+#201
+newbie chain leather gloves~
+a set of chain and leather gloves~
+A set of leather gloves reinforced with chianmail lie here forgotten.~
+steel~
+armor IU AH
+0
+AC AC AC AC 0
+0 40 300 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+chain leather gloves~
+This pair of gloves are extremely well made to withstand a lot of wear
+and tear.  The inner glove is made of the sheep leather while the outter
+composed of chain.  
+~
+ T 0 none~
+#202
+newbie bronze ring band~
+a bronze band~
+Light twinkles of a bronze band hiding beside a stone.~
+bronze~
+armor U AB
+0
+AC AC AC AC 0
+0 10 200 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+bronze ring band~
+This bronze ring is plain and simple.  The only distinguishing marks are
+several runes that line the innerside of the ring.  
+~
+ T 0 none~
+#203
+newbie steel bracer~
+a steel bracer~
+Light gleams off the unmarred surface of a steel bracer that lies before you.~
+steel~
+armor U AM
+0
+AC AC AC AC 0
+0 20 260 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+steel bracer~
+This bracer looks strong and able to withstand strong blows.  It is made
+of hard leather, reinforced with chain and plate.  Several unrecognizable
+runes line one edge of the steel plates.  
+~
+ T 0 none~
+#204
+newbie gold clasp~
+a gold clasp~
+A gold clasp shaped much like a rose lies here forgotten.~
+gold~
+armor U AC
+0
+AC AC AC AC 0
+0 10 360 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+gold clasp~
+The gold clasp is remarkably well-crafted.  The details etched into the
+rose pedals are so fine that it makes the gold representation look the the
+real thing.  
+~
+ T 0 none~
+#205
+newbie golden orb light~
+a golden orb of light~
+A golden orb of light floats wround aimlessly.~
+gold~
+light I A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 9 330 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+orb golden light~
+This golden orb of light glows warmly.  This light never flickers nor
+does it cease to cause spiritual contentment with its warming rays.  
+~
+E
+steel breast plate gold~
+The outter layer of this breast plate is fashioned in a way to suit the
+current trends.  It is made of steel and decorated with a gold trim along
+its outer edges.  
+~
+ T 0 none~
+#206
+newbie steel helm gold~
+a steel helm trimmed with gold~
+A steel helm trimmed with gold lies here to it's side.~
+steel~
+armor IU AE
+0
+AC AC AC AC 0
+0 60 230 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+steel helm gold~
+The outter layer of this helm is fashioned in a way to suit the current
+trends.  It is made of steel and decorated with a gold trim along its outer
+edges.  
+~
+ T 0 none~
+#207
+newbie steel leg plates gold~
+a set of gold trimmed steel leg plates~
+A set of steel leg plates trimmed with gold lies here.~
+steel~
+armor IU AF
+0
+AC AC AC AC 0
+0 90 330 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+steel leg plates~
+The outter layer of these leg plates is fashioned in a way to suit the
+current trends.  It is made of steel and decorated with a gold trim along
+its outer edges.  
+~
+ T 0 none~
+#208
+newbie steel arm plates gold~
+a set of gold trimmed steel arm plates~
+Gordon~
+steel~
+armor IU AI
+0
+AC AC AC AC 0
+0 90 330 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+steel arm gold~
+The outter layer of these arm plates is fashioned in a way to suit the
+current trends.  It is made of steel and decorated with a gold trim along
+its outer edges.  
+~
+ T 0 none~
+#209
+newbie steel breast plate gold~
+a gold trimmed steel breast plate~
+A large hollow steel gold trimmed breast plate lies here.~
+steel~
+armor IU AD
+0
+AC AC AC AC 0
+0 200 520 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+steel breast plate gold~
+The outter layer of this breast plate is fashioned in a way to suit the
+current trends.  It is made of steel and decorated with a gold trim along
+its outer edges.  
+~
+ T 0 none~
+#210
+newbie soft leather boots~
+a pair of soft leather boots~
+A pair of soft leather boots lie here ... waiting to be stolen!~
+leather~
+armor IU AG
+0
+AC AC AC AC 0
+0 20 120 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+soft leather boots~
+Although this boot is made of soft leather which is in itself good on a
+traveller's feet The fur lined insole makes these boots into a pair of
+angels.  
+~
+ T 0 none~
+#211
+newbie brown cloak~
+a thin brown cloak~
+A pile of brown cloth lies here.~
+cloth~
+armor IU AK
+0
+AC AC AC AC 0
+0 10 120 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+brown cloak~
+A think brown colored cloak looks as though it will warm any weary
+traveler through their travels.  It is made of think wool and has a pullover
+hood.  
+~
+ T 0 none~
+#212
+newbie mud university diploma scroll red ribbon~
+a Mud University diploma~
+A scroll rolled up neatly and tied with a red ribbon lies here.~
+paper~
+trash I AO
+0
+0 0 0 0 0
+0 1 0 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+mud university diploma scroll red ribbon~
+Congradulations!
+You are now a certified Lowbie!
+~
+ T 0 none~
+#213
+newbie steel longsword~
+a steel longsword~
+A steel longsword stands embedded into the ground.~
+steel~
+weapon I AN
+0
+sword 1 46 none 0
+0 150 1230 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+steel longsword~
+The longsword is well-balanced and well-crafted.  It was made to serve
+one purpose only.  To serve its' bearer.  
+~
+ T 0 none~
+#214
+newbie steel dagger~
+a steel dagger~
+A steel dagger lies here beckoning you.~
+steel~
+weapon I AN
+0
+dagger 1 46 none 0
+0 30 1230 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+steel dagger~
+The dagger is well-balanced and well-crafted.  It was made to serve one
+purpose only.  To serve its' bearer.  
+~
+ T 0 none~
+#215
+newbie steel mace~
+a steel-headed mace~
+A steel-headed mace lies here beckoning you.~
+steel~
+weapon I AN
+0
+mace 1 46 none 0
+0 90 1230 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+steel headed mace~
+The steel-headed mace is well-balanced and well-crafted.  It was made to
+serve one purpose only.  To serve its' bearer.  
+~
+ T 0 none~
+#216
+newbie canteen silver~
+a silver canteen~
+A old banged up canteen sits here forgotten.~
+silver~
+drink I A
+0
+1000 1000 'lemonade' 0 0
+0 20 30 P
+E
+canteen~
+This canteen appears to have seen a lot of service in its day.  Tarnish
+has begun to set in its dented surface but it may yet have several years of
+service left within it.  
+~
+ T 0 none~
+#217
+newbie steel shield small~
+a small steel shield~
+A small round steel shield lies flat on the ground.~
+steel~
+armor U AJ
+0
+AC AC AC AC 0
+0 50 1220 P
+A
+14 20
+A
+19 2
+A
+18 2
+E
+newbie steel shield small~
+This shield is made of a strong sturdy steel.  It appears to have seen
+little use in its time.  
+~
+ T 0 none~
+#218
+newbie quiver~
+a sturdy leather quiver~
+A sturdy leather quiver lies here.~
+unknown~
+quiver 0 AS
+0
+50 50 0 219 0
+0 100 600 P
+A
+14 20
+A
+19 2
+A
+18 2
+ T 0 none~
+#219
+arrow~
+a golden-tipped arrow~
+A arrow with a gold tip lies here.~
+unknown~
+arrow 0 AO
+0
+0 1 46 0 0
+0 0 10 P
+ T 0 none~
+#220
+newbie wooden bow~
+a sturdy wooden bow~
+A sturdy wooden bow stands here.~
+unknown~
+weapon I AN
+0
+bow 1 46 none 0
+0 100 400 P
+A
+14 20
+A
+19 2
+A
+18 2
+ T 0 none~
+#221
+oak staff newbie~
+an oak staff~
+An oak staff is here beckoning An oak staff is here beckoning you~
+wood~
+weapon I AN
+0
+staff 1 46 none 0
+0 90 1230 P
+A
+14 20
+A
+19 2
+A
+18 2
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#200
+The Mud University~
+A large unremarkable building stands here beside the prestigious Mud
+School.  Nothing draws your attention.  It appears to be just another
+rectangular building with windows gracing the walls and a door at the
+center.  Paved cobble stone steps lead up to an a set of oak doors of the
+Mud University to the east.  
+~
+0 131072 1
+D1
+~
+~
+1 0 201
+D3
+~
+~
+0 0 3700
+S
+#201
+A Large Hallway~
+~
+0 131080 0
+D1
+~
+~
+0 0 202
+D3
+~
+~
+1 0 200
+S
+#202
+A Large Hallway~
+~
+0 131080 0
+D0
+~
+~
+1 0 209
+D1
+~
+~
+0 0 203
+D2
+~
+~
+1 0 205
+D3
+~
+~
+0 0 201
+S
+#203
+A Large Hallway~
+~
+0 131080 0
+D1
+~
+~
+0 0 204
+D3
+~
+~
+0 0 202
+S
+#204
+A Large Hallway~
+~
+0 131080 0
+D0
+~
+~
+0 0 217
+D1
+~
+~
+1 0 225
+D2
+~
+~
+0 0 213
+D3
+~
+~
+0 0 203
+D4
+~
+~
+0 0 231
+S
+#205
+A Practice Room~
+~
+0 131080 0
+D0
+~
+~
+1 0 202
+D2
+~
+~
+0 0 206
+D3
+~
+~
+0 0 207
+S
+#206
+A Practice Room~
+~
+0 131080 0
+D0
+~
+~
+0 0 205
+D3
+~
+~
+0 0 208
+S
+#207
+A Practice Room~
+~
+0 131080 0
+D1
+~
+~
+0 0 205
+D2
+~
+~
+0 0 208
+S
+#208
+A Practice Room~
+~
+0 131080 0
+D0
+~
+~
+0 0 207
+D1
+~
+~
+0 0 206
+S
+#209
+A Training Room~
+~
+0 131080 0
+D0
+~
+~
+0 0 210
+D2
+~
+~
+1 0 202
+D3
+~
+~
+0 0 211
+S
+#210
+A Training Room~
+~
+0 131080 0
+D2
+~
+~
+0 0 209
+D3
+~
+~
+0 0 212
+S
+#211
+A Training Room~
+~
+0 131080 0
+D0
+~
+~
+0 0 212
+D1
+~
+~
+0 0 209
+S
+#212
+A Training Room~
+~
+0 131080 0
+D1
+~
+~
+0 0 210
+D2
+~
+~
+0 0 211
+S
+#213
+A Small Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 204
+D2
+~
+~
+0 0 214
+S
+#214
+A Small Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 213
+D1
+~
+~
+1 0 229
+D3
+~
+~
+1 0 215
+S
+#215
+Headmaster's Room~
+~
+0 0 0
+D0
+~
+~
+0 0 216
+D1
+~
+~
+1 0 214
+S
+#216
+Headmaster's Room~
+~
+0 0 0
+D2
+~
+~
+0 0 215
+S
+#217
+A Small Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 218
+D2
+~
+~
+0 0 204
+D3
+~
+~
+1 0 220
+S
+#218
+A Small Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 221
+D2
+~
+~
+0 0 217
+D3
+~
+~
+1 0 219
+S
+#219
+A Elegant Bedchamber~
+~
+0 0 0
+D1
+~
+~
+1 0 218
+S
+#220
+A Elaborate Bedchamber~
+~
+0 0 0
+D1
+~
+~
+1 0 217
+S
+#221
+Servants' Chambers~
+~
+0 0 0
+D1
+~
+~
+0 0 222
+D3
+~
+~
+0 0 218
+S
+#222
+Servants' Chambers~
+~
+0 0 0
+D2
+~
+~
+0 0 223
+D3
+~
+~
+0 0 221
+S
+#223
+A Large Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 222
+D1
+~
+~
+1 0 258
+D3
+~
+~
+0 0 224
+S
+#224
+A Large Kitchen~
+~
+0 0 0
+D1
+~
+~
+0 0 223
+D2
+~
+~
+1 0 225
+S
+#225
+Dinning Hall~
+~
+0 0 0
+D0
+~
+~
+1 0 224
+D1
+~
+~
+0 0 226
+D2
+~
+~
+0 0 227
+D3
+~
+~
+1 0 204
+S
+#226
+Dinning Hall~
+~
+0 0 0
+D1
+~
+~
+1 0 262
+D2
+~
+~
+0 0 228
+D3
+~
+~
+0 0 225
+S
+#227
+Dinning Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 225
+D1
+~
+~
+0 0 228
+S
+#228
+Dinning Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 226
+D3
+~
+~
+0 0 227
+S
+#229
+A Storage Room~
+~
+0 0 0
+D1
+~
+~
+0 0 230
+D3
+~
+~
+1 0 214
+S
+#230
+A Storage Room~
+~
+0 0 0
+D3
+~
+~
+0 0 229
+S
+#231
+Top of the Stairs~
+~
+0 0 0
+D0
+~
+~
+1 0 249
+D1
+~
+~
+0 0 251
+D2
+~
+~
+1 0 247
+D3
+~
+~
+0 0 232
+D5
+~
+~
+0 0 204
+S
+#232
+Large Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 231
+D3
+~
+~
+0 0 233
+S
+#233
+Large Hallway~
+~
+0 0 0
+D0
+~
+~
+1 0 235
+D1
+~
+~
+0 0 232
+D2
+~
+~
+1 0 241
+D3
+~
+~
+0 0 234
+S
+#234
+Large Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 233
+S
+#235
+Dorm Room~
+~
+0 0 0
+D0
+~
+~
+0 0 236
+D1
+~
+~
+0 0 237
+D2
+~
+~
+1 0 233
+D3
+~
+~
+0 0 239
+S
+#236
+Dorm Room~
+~
+0 0 0
+D1
+~
+~
+0 0 238
+D2
+~
+~
+0 0 235
+D3
+~
+~
+0 0 240
+S
+#237
+Dorm Room~
+~
+0 0 0
+D0
+~
+~
+0 0 238
+D3
+~
+~
+0 0 235
+S
+#238
+Dorm Room~
+~
+0 0 0
+D1
+~
+~
+0 0 236
+D2
+~
+~
+0 0 237
+D3
+~
+~
+0 0 236
+S
+#239
+Dorm Room~
+~
+0 0 0
+D0
+~
+~
+0 0 240
+D1
+~
+~
+0 0 235
+S
+#240
+Dorm Room~
+~
+0 0 0
+D1
+~
+~
+0 0 236
+D2
+~
+~
+0 0 239
+S
+#241
+Library~
+~
+0 0 0
+D0
+~
+~
+1 0 233
+D1
+~
+~
+0 0 245
+D2
+~
+~
+0 0 242
+D3
+~
+~
+0 0 243
+S
+#242
+Library~
+~
+0 0 0
+D0
+~
+~
+0 0 241
+D1
+~
+~
+0 0 246
+D3
+~
+~
+0 0 244
+S
+#243
+Library~
+~
+0 0 0
+D1
+~
+~
+0 0 241
+D2
+~
+~
+0 0 244
+S
+#244
+Library~
+~
+0 0 0
+D0
+~
+~
+0 0 243
+D1
+~
+~
+0 0 242
+S
+#245
+Library~
+~
+0 0 0
+D2
+~
+~
+0 0 246
+D3
+~
+~
+0 0 241
+S
+#246
+Library~
+~
+0 0 0
+D0
+~
+~
+0 0 245
+D3
+~
+~
+0 0 242
+S
+#247
+tempname bathroom~
+~
+0 0 0
+D0
+~
+~
+1 0 231
+D2
+~
+~
+0 0 248
+S
+#248
+tempname bathroom~
+~
+0 0 0
+D0
+~
+~
+0 0 247
+S
+#249
+tempname bathroom~
+~
+0 0 0
+D0
+~
+~
+0 0 250
+D2
+~
+~
+1 0 231
+S
+#250
+tempname bathroom~
+~
+0 0 0
+D2
+~
+~
+0 0 249
+S
+#251
+Large Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 257
+D1
+~
+~
+0 0 252
+D3
+~
+~
+0 0 231
+S
+#252
+Large Hallway~
+~
+0 0 0
+D2
+~
+~
+1 0 253
+D3
+~
+~
+0 0 251
+S
+#253
+Sleeping Quarters~
+~
+0 0 0
+D0
+~
+~
+1 0 252
+D2
+~
+~
+0 0 254
+D3
+~
+~
+0 0 255
+S
+#254
+Sleeping Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 253
+D3
+~
+~
+0 0 256
+S
+#255
+Sleeping Quarters~
+~
+0 0 0
+D1
+~
+~
+0 0 253
+D2
+~
+~
+0 0 256
+S
+#256
+Sleeping Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 255
+D1
+~
+~
+0 0 254
+S
+#257
+Storage Room~
+~
+0 0 0
+D2
+~
+~
+0 0 251
+S
+#258
+Beside a Garden~
+~
+0 0 0
+D1
+~
+~
+0 0 259
+D2
+~
+~
+0 0 262
+D3
+~
+~
+1 0 223
+S
+#259
+A Short Garden Path~
+~
+0 0 0
+D0
+~
+~
+0 0 260
+D2
+~
+~
+0 0 261
+D3
+~
+~
+0 0 258
+S
+#260
+A Short Garden Path~
+~
+0 0 0
+D1
+~
+~
+1 0 264
+D2
+~
+~
+0 0 259
+S
+#261
+A Small Garden~
+~
+0 0 0
+D0
+~
+~
+0 0 259
+D2
+~
+~
+0 0 263
+D3
+~
+~
+0 0 262
+S
+#262
+A Small Garden~
+~
+0 0 0
+D0
+~
+~
+0 0 258
+D1
+~
+~
+0 0 261
+D3
+~
+~
+1 0 226
+S
+#263
+A Small Garden~
+place fountain here
+~
+0 0 0
+D0
+~
+~
+0 0 261
+S
+#264
+A Smithy Shop~
+~
+0 0 0
+D3
+~
+~
+1 0 260
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 200 1 2
+D 0 201 3 2
+D 0 202 0 1
+D 0 202 2 1
+D 0 204 1 1
+D 0 205 0 1
+D 0 209 2 1
+D 0 214 1 1
+D 0 214 3 1
+D 0 215 1 1
+D 0 217 3 1
+D 0 218 3 1
+D 0 219 1 1
+D 0 220 1 1
+D 0 223 1 1
+D 0 224 2 1
+D 0 225 0 1
+D 0 225 3 1
+D 0 226 1 1
+D 0 229 3 1
+D 0 231 0 1
+D 0 231 2 1
+D 0 233 0 1
+D 0 233 2 1
+D 0 235 2 1
+D 0 241 0 1
+D 0 247 0 1
+D 0 249 2 1
+D 0 252 2 1
+D 0 253 0 1
+D 0 258 3 1
+D 0 260 1 1
+D 0 262 3 1
+D 0 264 3 1
+M 0 200 1 200 1 100 Load Gordon
+G 0 201 0 0 0 100 A set of chain and leather gloves is given to Gordon
+E 0 202 0 1 0 100 A bronze band is loaded on the left finger of Gordon
+E 0 202 0 2 0 100 A bronze band is loaded on the right finger of Gordon
+E 0 203 0 14 0 100 A steel bracer is loaded on belt of Gordon
+E 0 203 0 15 0 100 A steel bracer is loaded on the left wrist of Gordon
+G 0 204 0 0 0 100 A gold clasp is given to Gordon
+G 0 204 0 0 0 100 A gold clasp is given to Gordon
+E 0 205 0 0 0 100 A golden orb of light is loaded as a light of Gordon
+E 0 206 0 6 0 100 A steel helm trimmed with gold is loaded over the head of Gordon
+E 0 207 0 7 0 100 A set of gold trimmed steel leg plates is loaded on the legs of Gordon
+E 0 208 0 10 0 100 A set of gold trimmed steel arm plates is loaded on the arms of Gordon
+E 0 209 0 5 0 100 A gold trimmed steel breast plate is loaded on the body of Gordon
+E 0 210 0 8 0 100 A pair of soft leather boots is loaded on the feet of Gordon
+E 0 211 0 12 0 100 A thin brown cloak is loaded about the shoulders of Gordon
+E 0 212 0 18 0 100 A mud university diploma is loaded none of Gordon
+G 0 213 0 0 0 100 A steel longsword is given to Gordon
+G 0 214 0 0 0 100 A steel dagger is given to Gordon
+G 0 215 0 0 0 100 A steel-headed mace is given to Gordon
+G 0 216 0 0 0 100 A silver canteen is given to Gordon
+G 0 1345 0 0 0 100 A leather backpack is given to Gordon
+G 0 9543 0 0 0 100 Some iron rations is given to Gordon
+G 0 9543 0 0 0 100 Some iron rations is given to Gordon
+G 0 9543 0 0 0 100 Some iron rations is given to Gordon
+E 0 217 0 11 0 100 A small steel shield is loaded as a shield of Gordon
+E 0 218 0 21 0 100 A sturdy leather quiver is loaded on the face of Gordon
+G 0 220 0 0 0 100 A sturdy wooden bow is given to Gordon
+G 0 221 0 0 0 100 An oak staff is given to Gordon
+S
+
+
+
+#SHOPS
+201 9 5 33 10 0 300 30 0 23
+0
+
+
+
+#MOBPROGS
+#200
+if ispc $n
+if isimmort $n
+cower
+say Please don't hurt me... I won't hurt the newbies ever again...
+else
+if sex $n < 2
+glare $n
+say You shall not pass me BOY!!!
+else
+smile $n
+say Go home child. This is not the place for you.
+endif
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

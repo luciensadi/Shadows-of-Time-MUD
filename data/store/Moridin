@@ -1,0 +1,208 @@
+#STOREOBJ
+Vnum 3388
+Owner Moridin~
+Guild 0
+Coffer 0
+Keeper Shopkeep~
+KeeperVnum 10
+LPaid 1165158879
+#ITEM
+Cost 2000
+#O
+Vnum 24431
+ID 3387455
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 2000
+End
+
+#ITEM
+Cost 65
+#O
+Vnum 9336
+ID 3338129
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 2000
+#O
+Vnum 30005
+ID 3351749
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 2000
+End
+
+#ITEM
+Cost 76
+#O
+Vnum 21234
+ID 3348306
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 76
+#O
+Vnum 21203
+ID 3348304
+Enchants 0
+PK 0
+Nest 0
+Name a Color-Shifting Cloak~
+ShD  a `?C`?o`?l`?o`?r`?-`?S`?h`?i`?f`?t`?i`?n`?g `&C`7loa`&k`7~
+Desc A `?C`?o`?l`?o`?r`?-`?S`?h`?i`?f`?t`?i`?n`?g `&C`7loa`&k`7 from the Age of Legends lies here.~
+Wear -1
+Cost 30000
+End
+
+#ITEM
+Cost 100
+#O
+Vnum 4326
+ID 3337756
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 10000
+End
+
+#ITEM
+Cost 50
+#O
+Vnum 17040
+ID 3337594
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 400
+#O
+Vnum 20134
+ID 3338140
+Enchants 0
+PK 0
+Nest 0
+ExtF 536870915
+Wear -1
+Cost 0
+End
+
+#SOLD
+Name medallion of the Dead~
+Cost 400
+#SOLD
+Name ring of the Dead~
+Cost 400
+#SOLD
+Name a Pitch Black Combat Plate~
+Cost 250
+#SOLD
+Name the Belt of Fire~
+Cost 65
+#SOLD
+Name black Spider Wristguard~
+Cost 250
+#SOLD
+Name a Pitch Black Combat Plate~
+Cost 400
+#SOLD
+Name pitch Black Leg Plates~
+Cost 400
+#SOLD
+Name (Black Aura) A Pitch Black Cloak~
+Cost 400
+#SOLD
+Name black Spider Wristguard~
+Cost 400
+#SOLD
+Name a Pitch Black Combat Helmet~
+Cost 500
+#SOLD
+Name (Spiked) Pitch Black Arm Plates~
+Cost 500
+#SOLD
+Name a black veil~
+Cost 500
+#SOLD
+Name a Firey Neckplate~
+Cost 50
+#SOLD
+Name a Firey Orb~
+Cost 50
+#SOLD
+Name a Firey Neckplate~
+Cost 50
+#SOLD
+Name a Fire Ring~
+Cost 50
+#SOLD
+Name a Fire Ring~
+Cost 50
+#SOLD
+Name a Face Plate of Fire~
+Cost 50
+#SOLD
+Name forearm Plates of Fire~
+Cost 50
+#SOLD
+Name forearm Plates of Fire~
+Cost 50
+#SOLD
+Name the Belt of Fire~
+Cost 50
+#SOLD
+Name whisps of Fire~
+Cost 50
+#SOLD
+Name the Shield of Fire~
+Cost 50
+#SOLD
+Name arm Plates of Fire~
+Cost 50
+#SOLD
+Name the Gauntlets of Fire~
+Cost 50
+#SOLD
+Name boots of Fire~
+Cost 50
+#SOLD
+Name leg Plates of Fire~
+Cost 50
+#SOLD
+Name a Helmet of Fire~
+Cost 50
+#SOLD
+Name the Shield of Fire~
+Cost 65
+#SOLD
+Name an Aura of Flame~
+Cost 50
+#SOLD
+Name a Breastplate of Fire~
+Cost 65
+#SOLD
+Name the Gauntlets of Fire~
+Cost 65
+#SOLD
+Name arm Plates of Fire~
+Cost 65
+#End

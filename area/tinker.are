@@ -1,0 +1,1101 @@
+#AREADATA
+Name Tinker Guild Area~
+Builders None~
+VNUMs 7551 7600
+Credits `4[`2GUILD `4]`7 Saradin   Tinker Safe~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#7551
+Phillip Malloy~
+Phillip~
+The healer's assistant is here, tending the wounded.
+~
+Before you stands a young man, garbed in robes of screaming colors.  He
+moves about this room and the next, mixing herbs and changing dressings on
+his patients.  
+~
+unique~
+0 0
+ABa 0 0 0 0 -1  1000 0
+100 100 1000d1+0 12d12+1000 6d10+99 none
+-10 -10 -10 -10
+0 CD 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#7552
+Tinker Man~
+A Tinker~
+A young man gently asks for your weapon as he welcomes you.
+~
+~
+aiel~
+0 0
+ABZe 256 80 0 0 -1  1000 0
+25 20 20d10+350 0d0+0 6d4+10 none
+-7 -7 -7 -7
+CEHN 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#7586
+mastiff~
+A menacing mastiff~
+An extremely large dog is here, baring his teeth.
+~
+~
+unique~
+0 0
+ABTe 50512 9280 129 36864 -1  0 0
+150 600 35000d1+0 15000d1+0 400d1+200 bite
+-160 -160 -160 -160
+DFHIK ABLQb CD 0
+stand stand none 0
+0 0 medium unknown
+M ACT 7587 pat~
+#7587
+pile firewood~
+A pile of firewood~
+A pile of enchanted firewood is here, dancing in the air.
+~
+~
+unique~
+0 0
+ABZe 256 80 0 0 -1  0 0
+60 125 25000d1+5000 0d0+0 1d1+1 pound
+-4 -4 -4 -4
+FH ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+#7588
+pile leaves~
+A pile of leaves~
+A pile of leaves is here, gently stirring in the gentle breeze.
+~
+~
+unique~
+0 0
+ABZe 0 64 0 0 -1  0 0
+40 125 10000d1+10000 1d1+1 0d0+0 none
+0 0 0 0
+HU ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+#7597
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#7599
+pony~
+my little pony~
+My little pony is here
+~
+~
+tear~
+0 0
+A 0 0 0 0 -1  0 0
+500 0 1d1+1 1d1+1 1d1+1 bite
+60 60 60 60
+0 0 0 CD
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#7600
+Uno~
+Uno~
+Uno
+~
+~
+tear~
+0 0
+A 0 0 0 0 -1  -1000 0
+500 -1 1d1+1 0d0+0 1d1+1 none
+-10 -10 -10 -10
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 7599 pony~
+M SPEECH 7600 cow~
+#0
+
+
+
+#OBJECTS
+#7551
+Hammock~
+a woven hammock~
+A woven net of hemp swings lazily in the corner.~
+woven hemp~
+furniture 0 0
+0
+B EGHIJK FIL CE CE
+0 0 0 P
+ T 0 none~
+#7552
+cot~
+an empty cot~
+Several cots are set up here, some occupied by resting patients.~
+wooden~
+furniture 0 0
+0
+CE DHIJM EHK CE CE
+0 0 0 P
+ T 0 none~
+#7553
+cupboard~
+a hand-carved cupboard~
+`*~
+wood~
+container 0 0
+0
+200 AC 0 50 25
+0 0 0 P
+ T 0 none~
+#7554
+pot~
+a large pot~
+A large cast-iron pot is here, promising a delightful meal.~
+cast-iron~
+container 0 A
+0
+20 0 0 10 15
+0 0 0 P
+ T 0 none~
+#7555
+spice~
+some spices~
+Various spices line the racks of this clever cupboard.~
+unknown~
+food 0 A
+0
+B A 0 A 0
+0 0 0 P
+ T 0 none~
+#7556
+cheese~
+a wedge of cheese~
+A luscious slice of creamy perfection, promising the precise balance sharp and mild.~
+creamy goodness~
+food 0 A
+0
+C BC 0 0 0
+0 0 0 P
+ T 0 none~
+#7557
+bandages~
+a roll of clean bandage~
+A length of bandage, freshly cleaned, dried, and tightly rolled for storage.~
+unknown~
+trash 0 AD
+0
+0 0 0 0 0
+0 0 0 P
+S 'bandage'   0  20   4  25   0         78
+ T 0 none~
+#7588
+Tinker Key~
+`*A key to the Game Room~
+A brightly colored key is here.~
+unknown~
+key ABHUa A
+0
+0 0 0 0 0
+40 0 0 P
+ T 0 none~
+#7589
+carpet roll~
+`*A Carpet Roll~
+A roll of carpet is here, waiting to be sit upon.~
+silk~
+furniture 0 P
+0
+AC DHIJM BEHK DEFG BCEH
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#7551
+Entrance to the Tinker Camp~
+You have come to the Entrance of one of the Tinker Camps. Brightly
+colored wagons line the pathes and people are everywhere. Two men stand by
+the entrance and ask that you give them your weapons to hold for you while
+your inside the camp.
+~
+0 0 3
+D0
+~
+~
+0 0 7561
+D2
+~
+~
+0 0 7570
+S
+#7552
+The Clearing of the Leaf~
+You have run into another clearing in the camp.  Small oak benches go
+back in what seems to be rows from a center bench, that is painted red. 
+This is the Clearing of the Leaf, as Tinkers call it.  It is where any
+Tinker, man, woman, boy or girl, can come and learn the Way of the Leaf.  
+~
+0 0 2
+D2
+~
+~
+0 0 7571
+S
+#7553
+The Festival Clearing~
+This is where during holidays, the Tinkers come to play music and dance.
+Its a fairly large clearing with soft grass covering all of the ground. Many
+festivals of music and dance have taken place here and many more will
+follow.
+~
+0 0 2
+D1
+~
+~
+0 0 7568
+D2
+~
+~
+3 0 7566
+D3
+~
+~
+3 0 7572
+S
+#7554
+The Colorific Drink Stand~
+Along the wooded path, you have come upon a drink stand. A single Tinker
+stands behind the bar and offers a variety of drinks. Even the drink stand
+is colorful and seemingly full of life
+~
+0 0 3
+D0
+~
+~
+0 0 7556
+S
+#7555
+Dirt Path in Tinker Camp~
+Around the northern edge of the Tinker Camp, the woods seem to be growing
+thicker.  There are more trees and less space.  Still, all the colors of the
+wagons can be easily seen from your viewpoint.  A few Tinkers can be found
+wandering this part of camp, most are at the Mahdi, or the Meeting wagon.  
+~
+0 0 3
+D1
+~
+~
+0 0 7564
+D3
+~
+~
+0 0 7561
+S
+#7556
+A Small Clearing Before the Bonfire~
+A small space within the circle of wagons, here are scattered logs, large
+enough to sit on, as well as the remains of extinguished cook fires in stone
+circles.  The activity of the camp goes on, young tinkers moving about on
+chores, or pausing for games of stones in the shade cast by the colorful
+wains.  
+~
+0 0 0
+D1
+~
+~
+3 0 7596
+D2
+~
+~
+0 0 7554
+D3
+~
+~
+0 0 7568
+S
+#7557
+Northeast Corner of the Tinker Camp~
+~
+0 0 3
+D2
+~
+~
+0 0 7559
+D3
+~
+~
+0 0 7563
+S
+#7558
+Dark Wooded Trail~
+The small dirt trail continues towards the south.  Hardly anything is
+visible because of the thickness of the trees in this part of the forest. 
+However, a tiny bit of music can be heard, no doubt coming from the Bonfire.
+~
+0 4 0
+S
+#7559
+Far East Side of Camp~
+~
+0 0 3
+D0
+~
+~
+0 0 7557
+D2
+~
+~
+0 0 7562
+S
+#7560
+Along the Outer Edge~
+You are on the same trail that loops around the whole Tinker Camp.  Here
+it leads towards one of the small clearings or groves of the camp.  Looking
+off towards the south, smoke can be seen rising above a few trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 7575
+D2
+~
+~
+0 0 7565
+S
+#7561
+A Small Peaceful Clearing~
+Just inside the makeshift entrance to the tinker camp, there is a cleared
+patch of ground.  The absence of heavy undergrowth makes it possible to
+glimpse brightly colored wagons through the trees.  People move about,
+dressed in simply cut, but brilliantly colored clothing.  They smile and
+greet each other, often stopping in knots to exchange friendly chatter.  
+~
+0 0 2
+D1
+~
+~
+0 0 7555
+D2
+~
+~
+0 0 7551
+D3
+~
+~
+0 0 7571
+S
+#7562
+Along the Outer Edge~
+~
+0 0 3
+D0
+~
+~
+0 0 7559
+D2
+~
+~
+0 0 7567
+D3
+~
+~
+3 0 7569
+S
+#7563
+Small Dirt Path~
+A huge bonfire can be seen to the south as well as a few of the reknown
+colorful Tinker wagons.  Several Tinkers bussle past you on their way to do
+something about the camp.  It seems that not one Tinker in the entire camp
+had nothing to do.  
+~
+0 0 3
+D1
+~
+~
+0 0 7557
+D3
+~
+~
+0 0 7595
+S
+#7564
+Along the Outer Edge~
+~
+0 0 3
+D1
+~
+~
+0 0 7567
+D3
+~
+~
+0 0 7555
+S
+#7565
+Along the Outer Edge~
+~
+0 1 3
+D0
+~
+~
+0 0 7560
+D3
+~
+~
+0 0 7573
+S
+#7566
+Inside the Chandler's Wagon~
+The collision of color in this wagon is rivaled only by the intense blend
+of fragrance in the air.  Sweet smells of lavendar and honey mix with the
+tang of eucalyptus and the spice of jasmine.  Cooling wax candles line the
+shelves, with bubbling pots on small shielded flames promising more to come.
+Wrapped cakes of scented soaps are stacked neatly in vibrant packages, ready
+for sale to waiting customers.  A simple divider consisting of a matched
+pair of vibrant drapery separates the work area from the living space.  
+~
+0 1 3
+D0
+~
+~
+3 0 7553
+S
+#7567
+Southeast Corner of Camp~
+On the southeastern side of the camp, there are still a few scattered
+wagons.  A few Tinkers still walk the streets but most are off on the west
+side of camp.  The type of trees on this part of camp seem to be mostly oak
+with a few maples thrown in between.  
+ 
+~
+0 0 3
+D0
+~
+~
+0 0 7562
+D3
+~
+~
+0 0 7564
+S
+#7568
+Bonfire~
+Before you stands at least a hundred foot bonfire.  Huge logs or should i
+say trees, make up ninety-nine percent of the Bonfire while a few piles of
+grass placed throughtout it to help start the burning make up the other one
+percent.  Many benches surround the Bonfire and a few wagons are fairly
+close by.  
+~
+0 0 3
+D0
+~
+~
+0 0 7593
+D1
+~
+~
+0 0 7556
+D2
+~
+~
+3 0 7591
+D3
+~
+~
+0 0 7553
+S
+#7569
+Inside a Wagon~
+~
+0 0 3
+D1
+~
+~
+3 0 7562
+S
+#7570
+Along the Path~
+Trees lining the narrow path thin, and underfoot, the trail shows signs
+of recent travel.  Where the ground is soft, there is evidence of what can
+only be wagon ruts.  The sound of voices echoes through the trees, and
+lights up ahead indicate a settlement isn't far away.  
+~
+0 0 3
+D0
+~
+~
+0 0 7551
+D2
+~
+~
+0 0 7574
+S
+#7571
+A Small Wooded Path~
+You are on one of the small paths leading to one of the wagons in the
+camp. The wagon ahead from the outside looks to be one of the smaller ones,
+but also one of the most colorful.
+~
+0 0 3
+D0
+~
+~
+0 0 7552
+D1
+~
+~
+0 0 7561
+D3
+~
+~
+0 0 7578
+S
+#7572
+Inside one of the  Wagons~
+Inside one of the brighter wagons of the camp, small colorful peices of
+furniture are seen. A single rocking chair, a few small chests full of
+colorful clothing, and a small table take up the majority of the room in the
+wagon. None the less, even the inside of the wagon is colorful. Once again,
+reds, yellows, and oranges are the predominant colors.
+~
+0 8 0
+D1
+~
+~
+3 0 7553
+S
+#7573
+On the Bank of the Creek~
+On this side of the encampment, a small creek runs next to the path. The
+creek is calm and peaceful and provides pleasant scenery to the colorful
+camp.
+~
+0 0 3
+D1
+~
+~
+0 0 7565
+D2
+~
+~
+0 0 7576
+S
+#7574
+A Path in the Forest~
+Underfoot, a path breaks from the trees and shrubs.  Broken branches
+indicate the passage of something large through the area.  The forest is
+quiet, sounds are screened off by the remaining thick undergrowth.  
+~
+0 0 3
+D0
+~
+~
+0 0 7570
+D3
+~
+~
+0 0 6126
+S
+#7575
+Campfire~
+A small campfire is here surrounded by oak logs which have been converted
+into benches. At nights many of the Tinkers in the camp come here to dance,
+listen to music, and to talk.
+~
+0 0 3
+D1
+~
+~
+3 0 7580
+D3
+~
+~
+0 0 7560
+S
+#7576
+Along the Outer Edge~
+~
+0 1 3
+D0
+~
+~
+0 0 7573
+D2
+~
+~
+0 0 7577
+S
+#7577
+The Southwest Corner of the Camp~
+After coming out of a dark wooded path, you find yourself in the middle
+of a small beautiful grove.  A creek, probably the same one from the other
+side of the camp runs through one side of the grove.  Soft green grass
+covers the ground.  Many different birds sing their songs from among the
+trees surrounding the grove making it a very peaceful spot.  
+~
+0 0 2
+D0
+~
+~
+0 0 7576
+D1
+~
+~
+0 0 7578
+S
+#7578
+Along a Faint Trail~
+~
+0 1 3
+D1
+~
+~
+0 0 7571
+D3
+~
+~
+0 0 7577
+S
+#7579
+The Meeting Wagon~
+Inside of an enormous wagon a huge oak table sits. Twenty bright red,
+orange, and yellow chairs surround the plain oak table. This table looks old
+and fragile, no doubt having been used for many meetings over quite a few
+years.
+~
+0 4195328 0
+D3
+~
+~
+3 0 7578
+S
+#7580
+Inside the Largest Wagon~
+Inside the biggest wagon in the camp, you can see that it is a wagon for
+the local healer.  It has a sheet hanging from the top of the wagon
+seperating the two sides.  On this side, there a few chairs and a small
+bench.  Shelves and cabinets lining the walls serve as storage for such
+things as bandages and herbs to speed recovery.  Muffled moans sometimes
+filter over from behind the bright partition.
+~
+0 0 0
+D1
+~
+~
+0 0 7581
+D3
+~
+~
+3 0 7575
+S
+#7581
+Tinker's Store~
+Tinker's store is waiting to be decorated and filled.~
+0 1032 0
+D1
+~
+~
+3 0 7593
+D3
+~
+~
+0 0 7580
+D4
+The outline of a closed hatch can be seen here, the colorful paint around
+it showing signs of frequent use.  
+~
+~
+1 0 7582
+M 150 H 150
+S
+#7582
+Inside the Tree House~
+Inside of the treehouse built for the children, it is as brighly colored
+as the camp below. Reds, yellows, and oranges provide much of the color with
+a few dots of green and purple. A ladder continues up but it is off-limits
+for all children. It is used as a way to warn of any upcoming trouble.
+~
+0 8 0
+D0
+~
+~
+0 0 7583
+D2
+~
+~
+0 0 7585
+D3
+~
+~
+0 0 7586
+D4
+~
+~
+0 0 7587
+D5
+~
+~
+1 0 7581
+S
+#7583
+The play room of the Tree House~
+Inside the playroom of the tree hourse toys are everywhere. Colors,
+books, and small figurines cover the floor of the room.
+~
+0 8 0
+D2
+~
+~
+0 0 7582
+S
+#7584
+Out on a Limb~
+Out on one of the large limbs of the oak, you can see the whole camp.
+Wagons are everywhere. Colors aren't missing in the least bit either. A few
+people can be made out bit details aren't visible. There are still probably
+only seventy-five feet between the limb and the forest floor.
+~
+0 138413060 3
+D3
+~
+~
+0 0 7599
+S
+#7585
+The Learning Room~
+One of the elder Tinkers is here at all times educating the young on the
+Ways of the Leaf. Besides educating, stories are told here during the
+evening. Bright vivid pictures are plastered in the youths brains of
+dragons, knights, and other creatures of the outside world.
+~
+0 8 0
+D0
+~
+~
+0 0 7582
+S
+#7586
+On a bridge between the Two Tree Houses~
+A stury wooden bridge lies before you. On the other side is another
+Treehouse. The other is for teenagers, and youth coming into their
+adulthood.
+~
+0 0 3
+D1
+~
+~
+0 0 7582
+D3
+~
+~
+0 0 7589
+S
+#7587
+Atop the Great Oak~
+On top of the Great Oak, you can see all around you for miles. The
+forests ends a few miles to the west, and rolling plains with a few hills
+surround most of the forest. Below, only a few houses are visible, and above
+the clouds seem not to far off.
+~
+0 138412036 3
+D4
+~
+~
+4 7588 7599
+D5
+~
+~
+0 0 7582
+S
+#7588
+Inside the Upcoming Adults Tree House~
+Inside the only room of the young adults tree house room is limited. The
+tree lacks necessary branches for expansion, so they live with what they've
+got. The lack of room is made up for in the amount of color in a single
+room. It could probably light up the blackest of nights with a single candle
+barely burning.
+~
+0 8 0
+D1
+~
+~
+0 0 7589
+S
+#7589
+On the wooden bridge~
+On what seems to be a sturdy bridge you can spot the whole village below,
+and another treehouse about forty feet ahead.
+~
+0 0 3
+D1
+~
+~
+0 0 7586
+D3
+~
+~
+0 0 7588
+S
+#7590
+Game Room~
+In this room you see scattered about the floor many games.  Some seem
+quite complex, while you still see a few games of Snakes and Foxes lying
+about also.  There seems to be some enchanted objects also floating about
+the room 
+~
+0 138412032 3
+D1
+~
+~
+0 0 7599
+S
+#7591
+Inside a Wagon~
+~
+0 0 0
+D0
+~
+~
+3 0 7568
+S
+#7592
+Inside a Brightly Colored Wagon~
+Cheerful and full of color, the inside of this wagon has everything to
+make a home truly feel like home.  In the corner to the right of the door is
+a small area for storing cooking supplies, though most of the actual cooking
+is done outdoors.  Along the wall on the other side of the room is strung a
+hammock built for two, with cupboards and closets cleverly built into the
+walls themselves.  Within these tidy storage places, is hidden everything
+that one could think of to make the travelling life comfortable.  
+~
+0 4 0
+S
+#7593
+Between Wagons~
+In this narrow space between two large wagons, the ground is
+well-trampled, obvious signs of frequent travel.  Steps to the east and west
+lead to the colorful doors of two different wains, to the west is obviously
+the largest wagon in the camp, dwarfing all the others under the spread
+boughs of a huge oak tree.  
+~
+0 0 3
+D1
+~
+~
+3 0 7594
+D2
+~
+~
+0 0 7568
+D3
+~
+~
+3 0 7581
+S
+#7594
+The Cooking Wagon~
+Inside this wagon is enough space for several people at once to clean and
+prepare foods for the entire camp.  In times of festival or celebration,
+this wagon is used by all the cooks, to come together for the good of the
+entire troupe.  At other times, one or two cooks may be found here, adding
+spices to prepared foods, or rolling out dough for the day's bread.  Pots,
+pans, knives and utensils line the walls, securely fastened there by clever
+straps.  Cupboards set into the walls store all manner of spices and
+seasonings that make each meal a delight for these traveling people.  
+~
+0 0 0
+D1
+~
+~
+3 0 7595
+D3
+~
+~
+3 0 7593
+S
+#7595
+Between the Wagons~
+To the west and south are the folding steps that lead into the wagons
+there.  Large wooden wheels with steel bracings can be glimpsed through the
+bushes underfoot.  The trappings for hooking the traces for beasts of burden
+are evident in the rings attached to the outsides of the wagons, but the
+beasts themselves are sheltering elsewhere in the encampment.  
+~
+0 0 0
+D1
+~
+~
+0 0 7563
+D2
+~
+~
+3 0 7596
+D3
+~
+~
+3 0 7594
+S
+#7596
+The Mahdi's Wagon~
+A simple wagon, though large enough for a family as well as regular
+visitors.  The walls are hung with brilliant drapes, adding a soft look to
+the hand-carved wooden cabinets and shelving.  A comfortable hammock
+swinging in one corner adds to the short traveling chairs and the pullout
+bed for places to rest while here.  
+~
+0 4195328 0
+D0
+~
+~
+3 0 7595
+D3
+~
+~
+3 0 7556
+S
+#7599
+Game Room~
+In this room you see scattered about the floor many games.  Some seem
+quite complex, while you still see a few games of Snakes and Foxes lying
+about also.  There seems to be some enchanted objects also floating about
+the room.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 7584
+D3
+~
+~
+0 0 7590
+D5
+~
+~
+4 7588 7587
+S
+#7600
+`1S`!aradins `$B`4uilding `7S`&anctum`7 - mines not yours so stay out~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 7553 2 1
+D 0 7553 3 1
+D 0 7556 1 1
+D 0 7562 3 1
+D 0 7566 0 1
+D 0 7568 2 1
+D 0 7569 1 1
+D 0 7572 1 1
+D 0 7575 1 1
+D 0 7579 3 1
+D 0 7580 3 1
+D 0 7581 1 1
+D 0 7581 4 1
+D 0 7582 5 1
+D 0 7587 4 2
+D 0 7591 0 1
+D 0 7593 1 1
+D 0 7593 3 1
+D 0 7594 1 1
+D 0 7594 3 1
+D 0 7595 2 1
+D 0 7595 3 1
+D 0 7596 0 1
+D 0 7596 3 1
+D 0 7599 5 2
+M 0 7552 4 7551 2 100 Load A Tinker
+O 0 4205 0 7579 0 100 Wooden table loaded to The Meeting Wagon
+O 0 7553 0 7580 0 100 A hand-carved cupboard loaded to Inside the Largest Wagon
+P 0 7557 3 7553 1 100 A roll of clean bandage put inside a roll of clean bandage
+M 0 7551 30 7581 1 100 Load Phillip
+O 0 7552 0 7581 0 100 An empty cot loaded to Tinker's Store
+M 0 2415 1 7584 1 100 Load Jimmy Joe Bob
+M 0 7586 1 7587 1 100 Load A menacing mastiff
+E 0 7588 0 19 0 100 `*a key to the game room is loaded held in the hands of A menacing mastiff
+O 0 7551 0 7592 0 100 A woven hammock loaded to Inside a Brightly Colored Wagon
+M 0 705 1 7593 1 100 Load Lumber Jack
+E 0 709 0 14 0 100 A piece of flint and steel is loaded on belt of Lumber Jack
+E 0 708 0 14 0 100 Wood is loaded on belt of Lumber Jack
+E 0 715 0 14 0 100 A lump of coal is loaded on belt of Lumber Jack
+O 0 7553 0 7594 0 100 A hand-carved cupboard loaded to The Cooking Wagon
+O 0 7554 0 7594 0 100 A large pot loaded to The Cooking Wagon
+P 0 7556 30 7553 3 100 A wedge of cheese put inside a wedge of cheese
+P 0 7555 6 7553 2 100 Some spices put inside some spices
+O 0 7551 0 7596 0 100 A woven hammock loaded to The Mahdi's Wagon
+O 0 7553 0 7596 0 100 A hand-carved cupboard loaded to The Mahdi's Wagon
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#7587
+if clan $n tinker
+lick $n
+mob transfer $n 7599
+end
+else
+emote growls menacingly at $n
+emote makes you think it might be best to leave in the next few seconds.
+mob delay 5
+kill $n
+stop
+~
+#7588
+if clan $n shaido
+say We don't care for your type of dancing here.
+kill $n
+else
+peer $n
+break
+~
+#7599
+mob mload 7599
+mob mload 7599
+~
+#7600
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

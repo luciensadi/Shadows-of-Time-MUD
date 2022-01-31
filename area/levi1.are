@@ -1,0 +1,417 @@
+#AREADATA
+Name levi1~
+Builders None~
+VNUMs 19975 19999
+Credits Levi's First Attempt~
+Security 10
+Flags CE
+Version 4
+End
+
+
+
+#MOBILES
+#19975
+solitary~
+A solitary prisoner~
+A solitary prisoner grins at you through a dead man's lips.
+~
+From his lack of teeth and very evident rib cage, its safe to assume that
+he's been in here for a long time. He reeks of death, and the presence of
+bones makes you wonder if he has always been alone...
+~
+unique~
+0 0
+ABGJKUab 336 1026 0 0 -1  0 0
+0 0 1000d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDEFGHIKLMNOPQRTXYZab 0 0
+stand stand none 0
+0 0 medium unknown
+M GRALL 19975 100~
+M GIVE 19976 tooth~
+M GIVE 19976 tooth~
+#19976
+no name~
+A scorpion centarion.~
+A scorpion decorated in iron plate mail is before you, pincers snapping furiously.
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+10 0 3d22+96 10d10+100 2d5+5 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#19983
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#19998
+statue Archimedes1~
+`*Statue of Archimedes~
+The Statue of Archimedes is here, his smile as warm in stone as in life.
+~
+Though it is but stone and mortar, only the absence of color seems to take
+away from the life this statue's namesake had shown. His garments, dark from
+the dust of the road rather than bright and colorful likes his fellows, still
+seem to ripple in the slight breeze of the room. His knap sack, even in stone
+seeming to bulge at the seams, is missing the black raven that once perched on
+it. Maybe it means the raven is still out there somewhere...
+~
+kandor~
+0 0
+ABTWZe 80 64 16513 33280 -1  0 0
+400 500 39000d1+0 20000d1+0 3d250+0 grep
+-150 -150 -150 -150
+FHK ABZb CDG 0
+stand stand male  1
+AHMV ABCDEFGHIJK large unknown
+#19999
+Banus~
+Banus~
+Banus
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#19975
+tooth key~
+the "Tooth" Key~
+A small piece of metal, shaped like a tooth, lies here.~
+unknown~
+key APTUa A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#19976
+cabinet~
+a Lapiz Lazuli Cabinet~
+This cabinet's blue hues seem completely out of place in this prison.~
+unknown~
+container DT 0
+0
+0 ACD 19977 0 0
+0 0 0 P
+ T 0 none~
+#19977
+azure key~
+the "Azure" Key~
+A small piece of down, almost insubstantial, is here.~
+unknown~
+key PTU 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#19978
+bone key~
+the "Bone" Key~
+A piece of bone is here, shaped a bit like a key~
+unknown~
+key PTU 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#19979
+farmer plowshare~
+the "Plowshare"~
+A plowshare is here, worn from use.~
+unknown~
+key PTU 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#19980
+Sword~
+the "Sword"~
+A sword is here, worn with use.~
+unknown~
+key P AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#19986
+cloud~
+a floating cloud~
+Floating with the greatest ease, this cloud seems to hold something inside.~
+unknown~
+container T 0
+0
+0 AC 0 0 0
+0 0 0 P
+ T 0 none~
+#19999
+emblem dark star~
+`8The `&Em`7bl`8em `3o`#f `3t`#h`3e `8D`#a`8rk `8St`#a`8r`7~
+The mark of the terrifying Demon of Dark Star is here, etched upon a shield.~
+unknown~
+armor JKad AJ
+0
+BCEF BCEF BCEF BCEF 0
+150 0 0 P
+A
+13 95
+S 'detect hidden'   0  80  -1  25   0          6
+S 'detect invis'   0  80  -1  25   0          4
+A
+3 -3
+A
+4 -3
+A
+5 -3
+A
+19 11
+A
+20 -11
+A
+14 -100
+A
+18 11
+A
+9 -30
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#19975
+The Center of the Cube~
+The polished walls of the room almost seem to reflect your image, though
+its obvious that the faces you see aren't your own. On either side of you
+is a circular portal, large enough for you to pass through. You cannot,
+however, see whats on the other side. Your thoughts seem to echo through
+this room, and the utter silence is almost enough to drive you insane all
+by itself.
+~
+0 474489869 0
+D1
+~
+~
+0 0 19977
+D3
+~
+~
+0 0 19976
+S
+#19976
+The First.~
+The portal you stepped through barely gives you time to clear it before it
+closes behind you. Small holes along the base of the walls show where life
+might have once passed through this room, if you call small mice and bugs
+life. Bones are scattered about the room, though only humans bones that are
+obviously too large to fit into those holes. Maybe life goes on in here
+afterall...
+~
+0 474488841 0
+D2
+~
+~
+0 0 19978
+D5
+~
+~
+1 0 19999
+S
+#19977
+Round One.~
+You barely manage to pull your foot through in time before the portal snaps
+closed behind you. Around you, it seems the room is a arena. Chains cross
+each other to bar you from passing by them, though the total lack of light
+on the other side of that chain wall kills any urge you have of breaking
+through. The rickety bridge that is your only foothold holds your weight, a
+miracle in a time when you could use one. Your opponent awaits your move.
+~
+0 474488841 0
+D5
+~
+~
+1 0 19999
+S
+#19978
+The Second.~
+Quite unlike the last room, this room lacks any bones laying around. You
+can't decide if this is good or not. The portal to the east is barred by
+a huge metal grate, and in the center is a small hole. A keyhole, you can
+guess, though the shape does nothing to tell what sort of key. Regardless,
+you've decided you want out and no simple door is going to stop you.
+~
+0 474488841 0
+D1
+~
+~
+4 19975 19979
+D5
+~
+~
+1 0 19999
+S
+#19979
+The Third.~
+If the last room was a little different, this room is completely out of
+place. The light blue walls, decorated with teddy bears and kittens, is
+more like something from a child's bedroom than a prison. The furniture
+out of place as well... this room contains a single cabinet, the same
+shade of blue as the rest of the room. The cabinet's door is locked.
+~
+0 474488841 0
+D2
+~
+~
+0 0 19980
+D5
+~
+~
+1 0 19999
+S
+#19980
+The Fourth~
+This is more of what you'd expect from this prison...  The entire floor
+is littered with bones.  Big bones, small bones...  Animal bones...  Human
+bones...  Maybe you were better off in the blue bedroom.  Still, an exit has
+to be ahead somewhere, so you decide to press on.  
+~
+0 474488841 0
+D3
+~
+~
+0 0 19981
+D5
+~
+~
+1 0 19999
+S
+#19981
+The Fifth.~
+Just what you needed, more blue. The walls and the floor are in a light sky blue, while the rest
+of the walls and ceiling are a white. A fluffy, cloudlike white. So white and cloudlike, in fact,
+you barely notice the fact that one of those clouds is real. Along the bottom of the cloud is a
+little pullstring... you wonder... if... nah... it couldn't be...
+~
+0 474488841 0
+D3
+~
+~
+0 0 19982
+D5
+~
+~
+1 0 19999
+S
+#19982
+The Sixth.~
+Well now this is interesting... more arm and leg bones cover the floor of this room, but something
+is different... an end has been whittled away on every single bone. It doesn't take a genius to
+discover why, though... the portal to the next room is locked. None of the bones in the room look
+like they fit, but someone had to have gotten through this door. You study the floor before the door
+and it appears the the floor has been scraped from where the door has passed before. Thats some hope,
+at least.
+~
+0 474488841 0
+D0
+~
+~
+1 19978 19983
+S
+#19983
+~
+~
+0 4 0
+S
+#19999
+The Reset Button.~
+As seems to be the norm around here, the portal is gone the moment you are
+through it. The room is covered in writing, most of it along the lines of
+"wrong way" and "back to start". For once, you can see what the next room
+has in store for you, and you don't like it. Its the room you started in,
+along with the only other prisoner alive in here.
+~
+0 474488845 0
+D5
+~
+~
+0 0 19975
+S
+#0
+
+
+
+#SPECIALS
+M 19998 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 19976 5 1
+D 0 19977 5 1
+D 0 19978 1 2
+D 0 19978 5 1
+D 0 19979 5 1
+D 0 19980 5 1
+D 0 19981 5 1
+D 0 19982 0 2
+M 0 19975 1 19975 1 100 Load A solitary prisoner
+E 0 19980 0 19 0 100 The "sword" is loaded held in the hands of A solitary prisoner
+O 0 19975 0 19976 0 100 The "tooth" key loaded to The First.
+M 0 19976 1 19977 1 100 Load A scorpion centarion.
+O 0 19976 0 19979 0 100 A lapiz lazuli cabinet loaded to The Third.
+P 0 19979 1 19976 1 100 The "plowshare" put inside the "Plowshare"
+O 0 19978 0 19980 0 100 The "bone" key loaded to The Fourth
+O 0 19986 0 19981 0 100 A floating cloud loaded to The Fifth.
+P 0 19977 1 19986 1 100 The "azure" key put inside the "Azure" Key
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#19975
+say I'll trade you a tooth for a toothpick.
+pmote grins mischieviously.
+~
+#19976
+remove sword
+drop sword
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

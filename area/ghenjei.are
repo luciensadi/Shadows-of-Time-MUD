@@ -1,0 +1,3239 @@
+#AREADATA
+Name Tower of Ghenjei~
+Builders None~
+VNUMs 20401 20600
+Credits `4[`7 Hard `4]`7 Jasin     Tower of Ghenjei~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#20401
+tall pale man snake snake-like~
+a snake-like man~
+A tall, pale man wrapped in yellow cloth is here, awaiting you.
+~
+Tall, barefoot, and wound in yellow cloth, this creature isn't human. 
+Too thin for it's height, with a narrow elongated face, its skin resembles a
+snake's scales.  Its eyes are just black pupils inside vertical slits, and
+its hair is straight and black.  He smiles at you oddly.  
+~
+unique~
+0 0
+ABK 49488 2128 0 0 -1  0 0
+300 300 39000d1+1000 29000d1+1000 1d1+350 claw
+-100 -100 -100 -100
+ACHU 0 CDHIJK Q
+stand stand none 0
+0 0 medium unknown
+M ACT 20402 now follows you.~
+M ACT 20401 has arrived through a twisted red doorway.~
+#20402
+aelfinn council member~
+an Aelfinn Council Member~
+An Aelfinn Council Member sits cross-legged atop a pedestal here.
+~
+Wrapped in red cloth, this figure has a definate feminine look to it.  
+~
+unique~
+0 0
+ABT 1360 64 128 40960 -1  0 0
+140 170 14000d1+1000 9000d1+1000 10d1+220 none
+-80 -80 -80 -90
+ADER A HIJK LQ
+stand stand female 0
+0 0 medium unknown
+M DEATH 20431 100~
+#20403
+aelfinn council member~
+an Aelfinn Council Member~
+An Aelfinn Council Member sits cross-legged atop a pedestal here.
+~
+The Aelfinn Council Member stares back at you.  
+~
+unique~
+0 0
+ABT 336 64 128 40960 -1  0 0
+140 170 14000d1+1000 9000d1+1000 10d1+220 none
+-80 -80 -80 -90
+AER 0 HIJK LQ
+stand stand male  0
+0 0 medium unknown
+M DEATH 20432 100~
+#20404
+aelfinn council member~
+an Aelfinn Council Member~
+An Aelfinn Council Member sits cross-legged atop a pedestal here.
+~
+Wrapped in red cloth, this figure has a definate feminine look to it.  
+~
+unique~
+0 0
+ABT 336 64 128 40960 -1  0 0
+140 170 14000d1+1000 9000d1+1000 10d1+220 none
+-80 -80 -80 -90
+ADER 0 HIJK LQ
+stand stand female 0
+0 0 medium unknown
+M DEATH 20433 100~
+M HPCNT 20434 10~
+#20405
+eelfinn council member~
+an Eelfinn Council Member~
+An Eelfinn Council Member stands atop a pedestal here.
+~
+~
+unique~
+0 0
+ABe 336 2128 0 0 -1  0 0
+140 170 29000d1+1000 9000d1+1000 10d1+220 wrath
+-80 -80 -80 -80
+ADEU AD HIJK LQ
+stand stand female 0
+0 0 medium unknown
+#20406
+eelfinn council member~
+an Eelfinn Council Member~
+An Eelfinn Council Member stands atop a pedestal here.
+~
+~
+unique~
+0 0
+ABe 336 2128 0 0 -1  0 0
+140 170 29000d1+1000 9000d1+1000 10d1+220 wrath
+-80 -80 -80 -80
+ADEU AD HIJK LQ
+stand stand female 0
+0 0 medium unknown
+#20407
+fox-faced man fox faced~
+a fox-faced man~
+A fox-faced man is here, waiting for you.
+~
+This man is tall and sinewy, with shoulders too wide for his waste, and
+skin as white as paper.  His eyes are big and almost colorless, set deep in
+a narrow jawed face.  
+~
+unique~
+0 0
+ABK 49488 2128 0 0 -1  0 0
+300 300 39000d1+1000 29000d1+1000 1d1+350 claw
+-100 -100 -100 -100
+ACHU Z CDHIJK Q
+stand stand none 0
+0 0 medium unknown
+M ACT 20418 now follows you.~
+M ACT 20417 has arrived through a twisted red doorway.~
+#20408
+trapped aes sedai~
+an insane Aes Sedai~
+An Aes Sedai stands here, insane from being trapped for so long.
+~
+The ageless face mark this woman as Aes Sedai, yet her eyes are filled
+with insanity.  
+~
+kandor~
+0 0
+ABFTe 49408 2128 0 0 -1  0 0
+140 140 25000d1+1000 2000d1+500 1d1+250 magic
+-100 -100 -100 -100
+AFHKNO 0 CHIJK Q
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20409
+captured gholam~
+a captured Gholam~
+A Gholam is here, enraged at being held captive.
+~
+Looks like a normal man.
+~
+unique~
+0 0
+ABFTe 49408 34896 0 0 -1  0 0
+140 120 28000d1+1000 19000d1+1000 1d1+220 wrath
+-80 -80 -80 -80
+ACFHKO D CHIJK Q
+stand stand male  0
+0 0 huge unknown
+#20410
+captured myrddraal~
+a captured Myrddraal~
+A fierce Myrddraal is here, enraged at being held captive.
+~
+~
+unique~
+0 0
+ABFTe 336 34896 0 0 -1  0 0
+140 140 25000d1+1000 2000d1+500 0d0+0 none
+-100 -100 -100 -100
+CFGHK 0 CHIJK LQ
+stand stand male  0
+0 0 medium unknown
+#20600
+Crazed Asha'man~
+`*Crazed Asha'man~
+A male channeler is here, mad from the taint.
+~
+~
+unique~
+0 0
+ABZe 336 2128 0 32768 -1  0 0
+200 170 29000d1+1000 9000d1+1000 5d100+50 wrath
+-120 -120 -120 -120
+AEFHK AB DHIJK 0
+stand stand female 1
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#20401
+redstone twisted doorway~
+a twisted red doorway~
+A redstone doorway is here, twisted in a way that is hard for the eye to follow.~
+redstone~
+portal O 0
+0
+0 0 0 BEFHIJKLO 0
+0 0 0 P
+ T 0 none~
+#20402
+redstone twisted doorway~
+a twisted red doorway~
+A redstone doorway is here, twisted in a way that is hard for the eye to follow.~
+unknown~
+portal O 0
+0
+0 0 0 AEFHIJKLO 0
+0 0 0 P
+ T 0 none~
+#20403
+stone of divine knowledge~
+the Stone of Divine Knowledge~
+A small smooth stone lies here, holding infinite secrets.~
+unknown~
+armor A AO
+0
+ABF ABF ABF ABF 0
+110 50 10000 P
+A
+18 8
+A
+19 8
+A
+13 35
+A
+20 -5
+ T 0 none~
+#20404
+council robe~
+a Council Robe~
+A robe of divine wisdom lies here.~
+unknown~
+armor AB AK
+0
+ABF ABF ABF ABF 0
+110 0 10000 P
+A
+20 -5
+A
+13 45
+A
+19 7
+A
+18 7
+ T 0 none~
+#20405
+gloves of divinity~
+`7Gloves of Divinity~
+A pair of gloves lie here, looking ancient.~
+unknown~
+armor A AH
+0
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+20 -4
+A
+19 7
+A
+18 7
+A
+13 50
+ T 0 none~
+#20406
+twisted red doorway~
+a twisted red doorway~
+A redstone doorway is here, twisted in a way that is hard for the eye to follow.~
+redstone~
+portal OYa 0
+0
+0 0 0 ABFGHIJKLO 0
+0 0 0 P
+ T 0 none~
+#20407
+twisted red doorway~
+a twisted red doorway~
+A redstone doorway is here, twisted in a way that is hard for the eye to follow.~
+unknown~
+portal O 0
+0
+0 0 0 BFGHIJKLO 0
+0 0 0 P
+ T 0 none~
+#20408
+divine wisdom~
+`7Divine Wisdom~
+An aura of divine wisdom is here, giving off an eerie light.~
+unknown~
+light A A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 20 1000 P
+A
+20 -5
+A
+19 3
+A
+18 3
+A
+13 85
+ T 0 none~
+#20409
+foxhead medallion~
+a Foxhead Medallion~
+A silver medallion of a fox's head lies here.~
+unknown~
+armor AB AC
+0
+ABF ABF ABF ABF 0
+110 50 100000 P
+A
+13 20
+A
+20 -5
+A
+19 6
+A
+18 6
+A
+17 -25
+ T 0 none~
+#20410
+belt pale leather~
+a pale leather belt~
+A belt made of some sort of pale leather lies here.~
+unknown~
+armor AB AL
+0
+ABF ABF ABF ABF 0
+110 0 1000 P
+A
+12 35
+A
+19 3
+A
+18 3
+A
+13 75
+ T 0 none~
+#20411
+bronze blade~
+a bronze blade~
+A bronze blade lies here, looking dangerous.~
+bronze~
+weapon ABa AN
+0
+dagger 75 1 wrath CDE
+110 150 0 P
+A
+19 6
+A
+18 6
+A
+13 50
+ T 0 none~
+#20412
+large golden chest~
+a large `#golden `7chest~
+A large golden chest lies here, shining brilliantly.~
+unknown~
+container T A
+0
+1 A 0 200 200
+1 0 0 P
+ T 0 none~
+#20413
+ancient ashandarei~
+an ancient ashandarei~
+A black metal staff with a spear at the tip lies here.~
+unknown~
+weapon ABTYa AN
+0
+spear 75 1 slice EGH
+110 150 10000 P
+A
+13 70
+A
+20 -5
+ T 0 none~
+#20414
+pile gold coins~
+2000 gold coins~
+A pile of gold coins lie here.~
+gold~
+money Ya A
+0
+BDEFGH 0 0 0 0
+0 0 1000000 P
+ T 0 none~
+#20415
+ancient sword~
+an Ancient Sword~
+A sword from the Age of Legends lies here.~
+unknown~
+weapon ABYa AN
+0
+sword 75 1 slash CDG
+110 300 10000 P
+A
+17 -10
+A
+20 -5
+A
+19 8
+A
+18 8
+ T 0 none~
+#20416
+long silver chest~
+a large `&silver `7chest~
+A large silver chest lies here, holding secrets from the Age of Legends.~
+unknown~
+container 0 A
+0
+1 ACD 0 200 200
+1 400 0 P
+ T 0 none~
+#20417
+ancient jewel~
+an ancient jewel~
+A jewel from the Age of Legends lies here.~
+unknown~
+treasure Ya A
+0
+0 0 0 0 0
+75 20 10000 P
+ T 0 none~
+#20418
+pool one power~
+a Pool of the One Power~
+A pool of the One Power lies here.~
+unknown~
+armor AYa AQ
+0
+ABF ABF ABF ABF 0
+110 0 1000 P
+A
+13 20
+A
+20 -6
+A
+12 80
+ T 0 none~
+#20419
+golden arrow~
+a golden arrow~
+A golden arrow lies here, shining brightly.~
+unknown~
+arrow 0 AOP
+0
+0 13 9 0 AEGH
+110 10 3000 P
+A
+19 10
+A
+18 10
+ T 0 none~
+#20420
+legendary bow~
+a Legendary Bow~
+A legendary bow lies here.~
+unknown~
+weapon ABYa AN
+0
+bow 75 1 thwack ACE
+110 300 3000 P
+A
+19 5
+A
+18 5
+A
+20 -5
+A
+13 35
+ T 0 none~
+#20421
+aura invulnerability~
+an Aura of Invulnerability~
+The power of being invulnerable lies here.~
+unknown~
+armor AY AQ
+0
+ABF ABF ABF ABF 0
+110 0 1000 P
+A
+13 80
+A
+20 -5
+A
+17 -25
+ T 0 none~
+#20422
+bomb bag~
+a bomb bag~
+I bag~
+unknown~
+armor e AL
+0
+0 0 0 0 0
+75 20 0 P
+ T 0 none~
+#20423
+tainted shawl~
+a Tainted Shawl~
+A once fine shawl of an Aes Sedai lies here, now tainted with evil.~
+unknown~
+weapon AB AK
+0
+exotic 0 0 none 0
+110 0 1000 P
+A
+20 -5
+A
+17 -30
+A
+13 70
+ T 0 none~
+#20424
+death black fade's cloak~
+a Death Black Fade's Cloak~
+A cloak as black as death lies here.~
+unknown~
+armor Y AD
+0
+ABF ABF ABF ABF 0
+110 20 100 P
+A
+13 40
+A
+20 -8
+A
+18 6
+A
+19 6
+ T 0 none~
+#20433
+amulet knowlage~
+`*The Amulet of Knowlage~
+An amulet is tied to a thin gold chain, laying here waiting to be noticed.~
+unknown~
+trash ACG A
+0
+0 0 0 0 0
+75 30 200 P
+ T 0 none~
+#20451
+grail eternity~
+a grail of eternity~
+A fine golden grail lies here.~
+unknown~
+drink HTYa AP
+0
+1000000000 1000000000 'blood' 0 0
+110 10 100 P
+ T 0 none~
+#20452
+birgitte quiver~
+(Legendary) Birgitte's Quiver~
+The quiver of the Legendary Birgitte lies here.~
+unknown~
+quiver ABYa AS
+0
+300 600 0 20419 0
+110 50 100 P
+A
+20 -9
+A
+19 9
+A
+18 9
+ T 0 none~
+#20453
+test~
+feafe?~
+Feafe~
+unknown~
+armor 0 AI
+0
+0 0 0 0 0
+1 0 0 P
+A
+5 -18
+A
+2 -18
+ T 0 none~
+#20600
+Aegis Fang hammer~
+`*Aegis Fang~
+A carved stone hammer with a dark, think wooden handle rest's here looking heavey.~
+stone~
+weapon ABCJKT AN
+B
+mace 8 18 pound CG
+150 150 10000 P
+A
+17 -33
+A
+19 3
+A
+18 3
+A
+12 38
+A
+14 -100
+S 'bless'   0  80  -1  25   0         70
+S 'frenzy'   0  80  -1  25   0         71
+A
+20 -10
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#20480
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20481
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20482
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4 0
+S
+#20483
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20484
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20485
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20486
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20487
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20488
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20489
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20490
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20491
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20492
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20493
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge 
+~
+0 4718604 0
+S
+#20494
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20495
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20496
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20497
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20498
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20499
+Before a Five-Sided Doorway~
+The five-sided doorway before you is like the others you have seen. 
+Inside, there are infinite possibilities.  
+~
+0 4718600 0
+D2
+~
+~
+0 0 20500
+S
+#20500
+A Star-Shaped Chamber~
+You are standing in another star-shaped chamber, not as large as the one
+with columns.  An eight sided star with a glassy black pedestal standing at
+the edge of each point, like a two-span slice out of one of those columns. 
+Glowing yellow strips run up the sharp edges of the room and pedestals, and
+the unpleasant smell is stronger here, like a wild animal's lair.  
+~
+0 71827464 0
+D0
+~
+~
+0 0 20499
+S
+#20501
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20502
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20454
+D2
+~
+~
+0 0 20503
+D3
+~
+~
+0 0 20514
+S
+#20503
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20502
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20504
+D3
+~
+~
+0 0 20514
+S
+#20504
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20503
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20505
+S
+#20505
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20504
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20506
+S
+#20506
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20505
+D2
+~
+~
+0 0 20507
+D3
+~
+~
+0 0 20514
+S
+#20507
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20506
+D1
+~
+~
+0 0 20508
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20514
+S
+#20508
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20509
+D3
+~
+~
+0 0 20507
+S
+#20509
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20508
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20514
+D4
+~
+~
+0 0 20528
+S
+#20510
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20511
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20512
+A Round Room~
+Taking a wrong turn in the hallway, you find yourself in a circular room
+with spiraling tiles similiar to the first chamber.  Spinning around, the
+entrance is gone, and nothing but walls surround you.  
+~
+0 4194316 0
+S
+#20513
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20514
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.  
+~
+0 4718597 0
+S
+#20515
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.  
+~
+0 4718597 0
+S
+#20516
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.  
+~
+0 4718605 0
+S
+#20517
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.  
+~
+0 4718605 0
+S
+#20518
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.  
+~
+0 4718605 0
+S
+#20519
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.  
+~
+0 4718605 0
+S
+#20520
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718597 0
+S
+#20521
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718596 0
+S
+#20522
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20523
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20524
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20525
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20526
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20527
+Into the Halls~
+~
+0 4718604 0
+S
+#20528
+A Round Room~
+Taking a wrong turn in the hallway, you find yourself in a circular room
+with spiraling tiles similiar to the first chamber.  
+~
+0 4718605 0
+S
+#20529
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20530
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20531
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20532
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718596 0
+S
+#20533
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20534
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.  
+~
+0 4718604 0
+S
+#20535
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20536
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20537
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20538
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20539
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20540
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20541
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20542
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20543
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20544
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20545
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20546
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20547
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.
+~
+0 4718604 0
+S
+#20548
+Into the Halls~
+You've taken a wrong turn, and find yourself enclosed by walls.  
+~
+0 4718597 0
+S
+#20549
+Into the Halls~
+You've entered a chamber inhabited by some sort of beast.  He doesn't
+look happy about your intrusion.  
+~
+0 4718604 0
+S
+#20550
+Chamber of the Council~
+You've entered another round room, with spiraling floor tiles in red and
+white under a domed ceiling.  There are no columns here, only three chick
+coiled pedestals around the heart of the floor's spirals.  Three figures
+similiar to the guide sit cross-legged atop the three pedestals, staring at
+you.  
+~
+0 71827464 0
+D2
+~
+~
+0 0 20449
+S
+#20551
+A Round Room~
+You've taken a wrong turn, and find yourself in a circular room with no
+exit.  As you stumble about in the darkness, you suddenly realize you are
+not alone.  
+~
+0 4194317 0
+S
+#20552
+A Round Room~
+You've taken a wrong turn and find yourself in a circular room with no
+exit.  After stumbling around in the darkness, you realize there's something
+else in here.  
+~
+0 4194317 0
+S
+#20553
+Into the halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+ 
+~
+0 138936329 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20475
+D3
+~
+~
+0 0 20514
+D4
+~
+~
+0 0 20554
+S
+#20554
+A Round Room~
+You've taken a wrong turn, and find yourself in a circular room with no
+exit.  As you stumble about in the darkness, you suddenly realize you are
+not alone.  
+ 
+~
+0 138936333 0
+S
+#20401
+The Great Holding~
+As you enter this massive room, you look around in the darkness and
+notice hundreds of items and artifacts scattered about the room.  From the
+looks of things, there hasn't been a maid down here in ages, as with every
+step you take, dust flies up and spreads out.  Some of the items are held in
+boxes or covered in rags, whereas others are simply left out in the open. 
+It would take quite a while to sift through the entire holding.  
+~
+0 12 0
+D4
+~
+~
+0 0 5819
+S
+#20402
+The Center of a Round Hall~
+You seem to be stepping through a wall of brilliant white light, blinding
+you, and a roaring filling your ears.  The sensation only lasts a moment,
+then you find yourself standing in the center of a round hall with a ceiling
+so high it's lost in the shadows, surrounded by strange yellow columns
+snaking into the gloom.  A soft light comes from the glowing spheres atop
+coiled stands of some white metal.  The floor tiles spiral out in white and
+yellow stripes from the twisted red doorway, and a heavy, dry and disgusting
+smell hangs in the air.  
+~
+0 138937352 0
+D0
+~
+~
+0 0 20403
+S
+#20403
+Into the Halls~
+As you begin to navigate through the halls, not a straight line can be
+seen anywhere besides the floor.  The ceiling is arched, and the walls are
+bowed out.  The halls are continously curved, doorways rounded, and the
+windows are perfect circles.  There are no paintings anywhere to be seen,
+only patterns and curves.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20404
+D2
+~
+~
+0 0 20402
+S
+#20404
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20405
+D2
+~
+~
+0 0 20403
+S
+#20405
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718600 0
+D1
+~
+~
+0 0 20426
+D2
+~
+~
+0 0 20404
+D3
+~
+~
+0 0 20406
+S
+#20406
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20520
+D1
+~
+~
+0 0 20405
+D2
+~
+~
+0 0 20407
+D3
+~
+~
+0 0 20520
+S
+#20407
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20406
+D1
+~
+~
+0 0 20520
+D2
+~
+~
+0 0 20408
+D3
+~
+~
+0 0 20520
+S
+#20408
+Into the Halls~
+Continuing through the halls, the walk seems interminable.  Through a
+circular window, three tall silvery spires can be seen curving in towards
+each other, so that they aim at one spot.  A few feet away, another window
+displays the trees outside again, rather than the spires.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20407
+D1
+~
+~
+0 0 20520
+D2
+~
+~
+0 0 20409
+D3
+~
+~
+0 0 20520
+S
+#20409
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20408
+D1
+~
+~
+0 0 20410
+D2
+~
+~
+0 0 20520
+D3
+~
+~
+0 0 20520
+S
+#20410
+Into the Halls~
+Continuing through the halls, the walk seems interminable.  Through a
+circular window, three tall silvery spires can be seen curving in towards
+each other, so that they aim at one spot.  A few feet away, another window
+displays the trees outside again, rather than the spires.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20411
+D1
+~
+~
+0 0 20520
+D2
+~
+~
+0 0 20520
+D3
+~
+~
+0 0 20409
+S
+#20411
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20412
+D1
+~
+~
+0 0 20520
+D2
+~
+~
+0 0 20410
+D3
+~
+~
+0 0 20520
+S
+#20412
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20520
+D1
+~
+~
+0 0 20520
+D2
+~
+~
+0 0 20411
+D3
+~
+~
+0 0 20413
+S
+#20413
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20520
+D1
+~
+~
+0 0 20412
+D2
+~
+~
+0 0 20414
+D3
+~
+~
+0 0 20520
+S
+#20414
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20413
+D1
+~
+~
+0 0 20520
+D2
+~
+~
+0 0 20415
+D3
+~
+~
+0 0 20520
+S
+#20415
+Into the Halls~
+Peering out one of the round windows, other trees like huge fans of lacy
+leaves tower into a cloudless sky.  Despite the lack of clouds, there is a
+dim, overcast light.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20414
+D1
+~
+~
+0 0 20520
+D2
+~
+~
+0 0 20520
+D3
+~
+~
+0 0 20416
+S
+#20416
+Into the Halls~
+Peering out one of the round windows, other trees like huge fans of lacy
+leaves tower into a cloudless sky.  Despite the lack of clouds, there is a
+dim, overcast light.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20520
+D1
+~
+~
+0 0 20415
+D2
+~
+~
+0 0 20417
+D3
+~
+~
+0 0 20520
+S
+#20417
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20416
+D1
+~
+~
+0 0 20520
+D2
+~
+~
+0 0 20520
+D3
+~
+~
+0 0 20418
+S
+#20418
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20520
+D1
+~
+~
+0 0 20417
+D2
+~
+~
+0 0 20419
+D3
+~
+~
+0 0 20520
+S
+#20419
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20418
+D1
+~
+~
+0 0 20420
+D2
+~
+~
+0 0 20520
+D3
+~
+~
+0 0 20520
+S
+#20420
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20421
+D1
+~
+~
+0 0 20520
+D2
+~
+~
+0 0 20520
+D3
+~
+~
+0 0 20419
+S
+#20421
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20520
+D1
+~
+~
+0 0 20520
+D2
+~
+~
+0 0 20420
+D3
+~
+~
+0 0 20422
+S
+#20422
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20520
+D1
+~
+~
+0 0 20421
+D2
+~
+~
+0 0 20423
+D3
+~
+~
+0 0 20520
+S
+#20423
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20422
+D1
+~
+~
+0 0 20424
+D2
+~
+~
+0 0 20520
+D3
+~
+~
+0 0 20520
+S
+#20424
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20520
+D1
+~
+~
+0 0 20425
+D2
+~
+~
+0 0 20520
+D3
+~
+~
+0 0 20423
+S
+#20425
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20520
+D1
+~
+~
+0 0 20449
+D2
+~
+~
+0 0 20520
+D3
+~
+~
+0 0 20424
+S
+#20426
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718601 0
+D1
+~
+~
+0 0 20427
+D3
+~
+~
+0 0 20405
+S
+#20427
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20428
+D3
+~
+~
+0 0 20426
+S
+#20428
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20429
+D2
+~
+~
+0 0 20427
+S
+#20429
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20430
+D1
+~
+~
+0 0 20431
+D2
+~
+~
+0 0 20515
+D3
+~
+~
+0 0 20428
+S
+#20430
+Into the Halls~
+You've taken a wrong turn, and suddenly are enclosed by walls.  
+~
+0 4718597 0
+S
+#20431
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20520
+D1
+~
+~
+0 0 20516
+D2
+~
+~
+0 0 20433
+D3
+~
+~
+0 0 20429
+D4
+~
+~
+0 0 20551
+S
+#20432
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20433
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 1 0
+D0
+~
+~
+0 0 20431
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20514
+D4
+~
+~
+0 0 20552
+S
+#20434
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20435
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20436
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20437
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20438
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20439
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20440
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20441
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20442
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20443
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20444
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge 
+~
+0 4718604 0
+S
+#20445
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20446
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20447
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20448
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20449
+Before a Round Doorway~
+The rounded doorway before you is twice as large as any you've ever seen
+before.  Inside lie the answers to your questions.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20550
+S
+#20450
+A Storage Room~
+Here in a storage room under the White Tower, there are hundreds of items
+lying about the room, collecting dust.  As it turns out, Aes Sedai aren't as
+high and proper as they claim to be.  This place looks like a pigsty,
+actually.  
+~
+0 9 0
+D4
+~
+~
+0 0 30624
+S
+#20451
+A Star-Shaped Chamber~
+Blinding white light and a roar so vast it annihilates sound consumes
+you, but only for a moment as you find yourself in the middle of a huge
+star-shaped chamber.  A forest of thick columns crowds the room, each deeply
+fluted with eight ridges, the sharp edges yellow and glowing softly for
+light.  Glossy black except for the glowing bits, they rise from a dull
+white floor into a murky gloom far overhead where even the yellow stripes
+fade away.  The columns and floor almost look like glass, covered in dust,
+and a musty smell fills the air.  
+~
+0 138413068 0
+D2
+~
+~
+0 0 20452
+S
+#20452
+Into the Halls~
+As you begin to navigate through the halls, not a straight line can be
+seen anywhere besides the floor.  The ceiling is arched, and the walls are
+bowed out.  The halls are continously curved, doorways rounded, and the
+windows are perfect circles.  There are no paintings anywhere to be seen,
+only patterns and curves.  
+~
+0 4718600 0
+D0
+~
+~
+0 0 20451
+D2
+~
+~
+0 0 20453
+S
+#20453
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20452
+D2
+~
+~
+0 0 20454
+S
+#20454
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20453
+D1
+~
+~
+0 0 20455
+D3
+~
+~
+0 0 20502
+S
+#20455
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20456
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20454
+S
+#20456
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20457
+D3
+~
+~
+0 0 20455
+S
+#20457
+Into the Halls~
+Continuing through the halls, the walk seems interminable.  Through a
+circular window, three tall silvery spires can be seen curving in towards
+each other, so that they aim at one spot.  A few feet away, another window
+displays the trees outside again, rather than the spires.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20456
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20458
+S
+#20458
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20459
+D1
+~
+~
+0 0 20457
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20514
+S
+#20459
+Into the Halls~
+Continuing through the halls, the walk seems interminable.  Through a
+circular window, three tall silvery spires can be seen curving in towards
+each other, so that they aim at one spot.  A few feet away, another window
+displays the trees outside again, rather than the spires.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20458
+D3
+~
+~
+0 0 20460
+S
+#20460
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20459
+D2
+~
+~
+0 0 20461
+D3
+~
+~
+0 0 20514
+S
+#20461
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20460
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20462
+S
+#20462
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20461
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20463
+S
+#20463
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20462
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20464
+S
+#20464
+Into the Halls~
+Peering out one of the round windows, other trees like huge fans of lacy
+leaves tower into a cloudless sky.  Despite the lack of clouds, there is a
+dim, overcast light.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20465
+D1
+~
+~
+0 0 20463
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20514
+D4
+~
+~
+0 0 20512
+S
+#20465
+Into the Halls~
+Peering out one of the round windows, other trees like huge fans of lacy
+leaves tower into a cloudless sky.  Despite the lack of clouds, there is a
+dim, overcast light.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20466
+D2
+~
+~
+0 0 20464
+D3
+~
+~
+0 0 20514
+S
+#20466
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20467
+D3
+~
+~
+0 0 20465
+S
+#20467
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20466
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20468
+S
+#20468
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20467
+D2
+~
+~
+0 0 20469
+D3
+~
+~
+0 0 20514
+S
+#20469
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20468
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20470
+D3
+~
+~
+0 0 20514
+S
+#20470
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20469
+D1
+~
+~
+0 0 20471
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20514
+S
+#20471
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20472
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20470
+S
+#20472
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20471
+D3
+~
+~
+0 0 20473
+S
+#20473
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20474
+D1
+~
+~
+0 0 20472
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20514
+S
+#20474
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20475
+D2
+~
+~
+0 0 20473
+D3
+~
+~
+0 0 20514
+S
+#20475
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718601 0
+D0
+~
+~
+0 0 20553
+D1
+~
+~
+0 0 20499
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20474
+S
+#20476
+Into the Halls~
+Continuing through the halls, the walk seems never ending.  You seem to
+be passing by the same windows time and time again, looking out to see the
+same things.  
+~
+0 4718604 0
+S
+#20477
+Into the Halls~
+Further into the labyrinth of halls, you begin to wonder if you're going
+in circles.  More than once there's been the same markings in different
+places.  Looking through the round windows, tall whispy trees can be seen
+towering into the sky, with a huge umbrella of drooping limbs at the top.  
+~
+0 4718604 0
+S
+#20478
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#20479
+Into the Halls~
+Every now and then a flicker of movement can be seen in the distance, but
+no one is ever there.  The halls seem to stretch on forever, and seem to be
+leading to the same place over and over again.  
+~
+0 4718604 0
+S
+#0
+
+
+
+#SPECIALS
+M 20600 spec_breath_any_but_acid
+M 20402 spec_breath_lightning
+M 20403 spec_cast_mage
+M 20404 spec_breath_gas
+M 20405 spec_cast_cleric
+M 20406 spec_cast_cleric
+M 20408 spec_breath_any_but_acid
+M 20409 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 20405 4 20500 4 100 Load an Eelfinn Council Member
+E 0 20408 0 0 0 100 `7divine wisdom is loaded as a light of an Eelfinn Council Member
+M 0 20405 4 20500 4 100 Load an Eelfinn Council Member
+M 0 20405 4 20500 4 100 Load an Eelfinn Council Member
+M 0 20405 4 20500 4 100 Load an Eelfinn Council Member
+E 0 20409 0 3 0 100 A foxhead medallion is loaded around the neck (1) of an Eelfinn Council Member
+M 0 20406 4 20500 4 100 Load an Eelfinn Council Member
+E 0 20410 0 13 0 100 A pale leather belt is loaded around the waist of an Eelfinn Council Member
+M 0 20406 4 20500 4 100 Load an Eelfinn Council Member
+M 0 20406 4 20500 4 100 Load an Eelfinn Council Member
+M 0 20406 4 20500 4 100 Load an Eelfinn Council Member
+E 0 20411 0 17 0 100 A bronze blade is loaded wielded of an Eelfinn Council Member
+O 0 20412 0 20512 0 100 A large `#golden `7chest loaded to A Round Room
+P 0 20420 1 20412 1 100 A legendary bow put inside a Legendary Bow
+P 0 20452 1 20412 1 100 (legendary) birgitte's quiver put inside (Legendary) Birgitte's Quiver
+P 0 20451 1 20412 1 100 A grail of eternity put inside a grail of eternity
+O 0 20416 0 20528 0 100 A large `&silver `7chest loaded to A Round Room
+P 0 20417 1 20416 1 100 An ancient jewel put inside an ancient jewel
+P 0 20415 1 20416 1 100 An ancient sword put inside an Ancient Sword
+P 0 20418 1 20416 1 100 A pool of the one power put inside a Pool of the One Power
+M 0 20409 1 20549 1 100 Load a captured Gholam
+E 0 20421 0 20 0 100 An aura of invulnerability is loaded floating nearby of a captured Gholam
+M 0 20402 1 20550 1 100 Load an Aelfinn Council Member
+E 0 20403 0 19 0 100 The stone of divine knowledge is loaded held in the hands of an Aelfinn Council Member
+M 0 20403 1 20550 1 100 Load an Aelfinn Council Member
+E 0 20405 0 9 0 100 `7gloves of divinity is loaded on the hands of an Aelfinn Council Member
+M 0 20404 1 20550 1 100 Load an Aelfinn Council Member
+E 0 20404 0 12 0 100 A council robe is loaded about the shoulders of an Aelfinn Council Member
+M 0 20408 1 20551 1 100 Load an insane Aes Sedai
+E 0 20423 0 12 0 100 A tainted shawl is loaded about the shoulders of an insane Aes Sedai
+M 0 20410 1 20552 1 100 Load a captured Myrddraal
+E 0 20424 0 5 0 100 A death black fade's cloak is loaded on the body of a captured Myrddraal
+M 0 20600 10 20554 1 100 Load `*Crazed Asha'man
+E 0 20600 0 17 0 100 `*aegis fang is loaded wielded of `*Crazed Asha'man
+O 0 20401 0 20401 0 100 A twisted red doorway loaded to The Great Holding
+O 0 20402 0 20402 0 100 A twisted red doorway loaded to The Center of a Round Hall
+M 0 20401 1 20402 1 100 Load a snake-like man
+O 0 20406 0 20450 0 100 A twisted red doorway loaded to A Storage Room
+M 0 20407 1 20451 1 100 Load a fox-faced man
+O 0 20407 0 20451 0 100 A twisted red doorway loaded to A Star-Shaped Chamber
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#20401
+if isonquest $n 11
+say A long time, yet the seekers have come again for answers. The questioners come once more.
+emote starts to turn around then stops suddenly
+mob delay 1
+say Wait, I sence danger...
+mob delay 1
+emote turns and looks towrads you, his gaze pierceing your very soul.
+mob delay 1
+say Nye, Nye! You have come to do bad things!  Protect I must!
+kill $n
+end
+else
+mob delay 2
+say A long time, yet the seekers have come again for answers. The questioners come once more.
+mob delay 1
+say According to the agreement, come. Follow.
+mob delay 1
+beckon $n
+endif
+~
+#20402
+if ispc $n
+emote flashes you a toothy grin.
+n
+n
+n
+w
+mob delay 1
+s
+s
+s
+e
+mob delay 1
+n
+n
+w
+s
+mob delay 1
+s
+w
+s
+w
+mob delay 1
+s
+e
+n
+w
+mob delay 1
+s
+e
+e
+e
+mob delay 1
+say Here.
+emote gestures towards the round doorway.
+say Here your answers may be found. Enter. Enter, and ask.
+mob goto 20402
+endif
+~
+#20403
+emote gives you a toothy grin.
+mob delay 2 20404
+~
+#20404
+n
+n
+e
+e
+emote looks back to make sure you are following.
+mob delay 2 20405
+~
+#20405
+s
+w
+n
+n
+emote looks back to make sure you are following.
+mob delay 2 20406
+~
+#20406
+w
+w
+w
+s
+emote looks back to make sure you are following.
+mob delay 2 20407
+~
+#20407
+w
+n
+n
+e
+emote looks back to make sure you are following.
+mob delay 2 20408
+~
+#20408
+s
+e
+e
+n
+emote looks back to make sure you are following.
+mob delay 2 20409
+~
+#20409
+w
+w
+n
+n
+emote looks back to make sure you are following.
+mob delay 2 20410
+~
+#20410
+n
+n
+n
+w
+emote looks back to make sure you are following.
+mob delay 2 20411
+~
+#20411
+s
+s
+e
+n
+emote looks back to make sure you are following.
+mob delay 2 20412
+~
+#20412
+e
+e
+e
+s
+emote looks back to make sure you are following.
+mob delay 2 20413
+~
+#20413
+s
+w
+w
+n
+emote looks back to make sure you are following.
+mob delay 2 20414
+~
+#20414
+n
+n
+e
+e
+emote looks back to make sure you are following.
+mob delay 2 20415
+~
+#20415
+s
+s
+e
+say Here.
+emote gestures towards the round doorway.
+say Here your answers may be found. Enter. Enter, and ask.
+mob goto 20402
+break
+~
+#20416
+mob delay 1 20417
+~
+#20417
+if ispc $n
+if hasquest $n 11
+say I am sorry $n, but this path you must take alone.
+else 
+say A very long time.
+emote leans towards you, inhaling deeply.
+say Come, I will take you where you may find what you need. Come.
+emote backs away, gesturing with both hands for you to follow.
+endif
+~
+#20418
+if ispc $n
+if hasquest $n 11
+say I am sorry $n, but this path you must take alone.
+else
+emote grins at you and adjusts his silver-studded straps.
+s
+s
+s
+mob delay 1
+e
+e
+s
+w
+mob delay 1
+n
+w
+s
+w
+mob delay 1
+w
+w
+n
+e
+mob delay 1
+s
+w
+s
+s
+mob delay 1
+e
+n
+w
+n
+e
+e
+mob goto 20451
+endif
+endif
+~
+#20419
+s
+s
+s
+e
+emote looks over his shoulder at you.
+mob delay 2 20420
+~
+#20420
+n
+w
+w
+n
+emote looks over his shoulder at you.
+mob delay 2 20421
+~
+#20421
+n
+e
+s
+s
+emote looks over his shoulder at you.
+mob delay 2 20422
+~
+#20422
+w
+s
+s
+e
+emote looks over his shoulder at you.
+mob delay 2 20423
+~
+#20423
+e
+n
+n
+e
+emote looks over his shoulder at you.
+mob delay 2 20424
+~
+#20424
+e
+s
+e
+e
+emote looks over his shoulder at you.
+mob delay 2 20425
+~
+#20425
+s
+w
+w
+n
+emote looks over his shoulder at you.
+mob delay 2 20426
+~
+#20426
+n
+e
+s
+s
+emote looks over his shoulder at you.
+mob delay 2 20427
+~
+#20427
+e
+n
+n
+w
+emote looks over his shoulder at you.
+mob delay 2 20428
+~
+#20428
+s
+s
+s
+s
+emote looks over his shoulder at you.
+mob delay 2 20429
+~
+#20429
+e
+n
+n
+e
+emote looks over his shoulder at you.
+mob delay 2 20430
+~
+#20430
+e
+n
+e
+s
+mob goto 20451
+break
+~
+#20431
+~
+#20432
+~
+#20433
+~
+#20434
+~
+#20600
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

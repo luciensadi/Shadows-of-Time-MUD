@@ -1,0 +1,9 @@
+Day 337
+CMaxPlayers 14
+CLogins 52
+CNewbies 10
+CHeros 0
+TMaxPlayers 95
+TNewbies 7148
+TLogins 249524
+THeros 62 

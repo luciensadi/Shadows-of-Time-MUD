@@ -1,0 +1,2709 @@
+#AREADATA
+Name Tar Valon~
+Builders None~
+VNUMs 14165 15100
+Credits `4[`7 High `4]`7 Ishamael  Tar Valon~
+Security 10
+Flags F
+Version 4
+End
+
+
+
+#MOBILES
+#14165
+guard~
+A Tar Valon gate guard~
+A guard stands watch over the Tar Valon gate.
+~
+Ever alert for signs of trouble, this guard watches citizens and
+travellers as they pass through the gates of the city of Tar Valon.  
+~
+cairhien~
+0 0
+ABT 0 64 0 0 -1  1000 0
+30 50 10d61+416 0d0+0 5d6+15 slash
+-50 -50 -50 -50
+CDEFRTU C C D
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#14166
+sedai~
+An Aes Sedai~
+A striking woman stands here, seemingly ageless.
+~
+What is initially striking about this woman isn't immediately clear. 
+While far from unattractive, her physical beauty isn't what makes her stand
+out.  She seems to carry herself with a nearly regal air.  Looking closer at
+the woman's face you realize you have no way to estimate her age.  Her face
+is smooth yet far from inexperienced.  Her eyes especially show an
+intelligence and readiness that belies any sense of youth.  
+~
+illian~
+0 0
+AR 0 0 0 0 -1  1000 0
+20 20 7d40+200 10d10+200 4d5+10 punch
+-2 -2 -2 -2
+0 D 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#14167
+warder~
+The warder~
+A large man eyes the surroundings warily, every movement fluid.
+~
+Though his gait at first glance seems too graceful for a warrior, his
+eyes speak of a cat's ready posture to pounce.  Those dark eyes never pause,
+measuring and calculating every stray movement.  
+~
+cairhien~
+0 0
+AT 256 64 0 0 -1  1000 0
+50 50 10d169+920 0d0+0 5d10+25 slash
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#14168
+guard~
+A tower gateguard~
+A guard stands here monitoring the people entering the Tower grounds.
+~
+This slender young man is well trained, standing as still as a statue
+with eyes that dart back and forth cataloging every passerby.  He has a long
+narraw face and touches of a beard around his chin.  
+~
+cairhien~
+0 0
+ABT 256 0 0 0 -1  1000 0
+30 50 10d61+416 0d0+0 5d6+15 punch
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#14169
+woman~
+The mysterious lady~
+A woman of self-possessed arrogance stares beyong you with cold indifference.
+~
+A golden ring, in the ominous form of a serpent biting its own tail,
+glints from a slender finger of this well-dressed lady before you.  Her
+lofty manner well suits a face which decidedly sustains an ageless quality. 
+Unsettling and dark eyes knife into your soul, into the very deep zone of
+comfort that every man keeps hidden from his neighbor, sparkling with a
+secret delight at your discomfort.  
+~
+illian~
+0 0
+AR 256 64 0 0 -1  1000 0
+30 50 10d61+416 50d50+100 5d6+15 punch
+-50 -50 -50 -50
+0 D 0 C
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#14170
+calm woman~
+a calm woman~
+A calm woman bathed in serenity seems to attract your attention.
+~
+The smooth face of the woman before you defies your best attempts to
+label her with any particular age.  Inner strength and confidence reign in
+her every action.  
+~
+illian~
+0 0
+AR 256 64 0 0 -1  1000 0
+30 30 10d61+416 30d10+100 5d6+15 punch
+-50 -50 -50 -50
+0 D 0 C
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#14171
+tense warder~
+a tense warder~
+A warder stands nearby, calm yet poised to leap into battle.
+~
+Battle scars and worry lines edge a once-handsome face.  His tall, wiry
+build suggests a whipcord strength owned by those few who highly dedicate
+themselves to physical training.  
+~
+cairhien~
+0 0
+AT 256 0 0 0 -1  1000 0
+30 100 10d70+416 0d0+0 5d7+16 slash
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#14172
+city signmaker~
+the signmaker~
+The city signmaker stands here ready to post a notice.
+~
+This large man carries a bundle of stakes and boards, ready to place a
+sign wherever one is needed.  
+~
+andor~
+0 0
+A 0 0 0 0 -1  1000 0
+1 2 1d2+6 0d0+0 1d2+0 punch
+0 0 0 0
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#14173
+Horglock~
+Horglock, the immense and massive trolloc~
+Horglock, the immense and massive trolloc is standing here.
+~
+You're looking at a massive trolloc, two large tusks jut from his lower
+jaw, his eyes are crimson with fury.  A strange puss oozes from his mouth,
+his skin is leather in texture, and his size is massive.  
+~
+troll~
+0 0
+AFT 256 2112 0 32772 -1  -1000 0
+700 200 300d300+1000 700d9000+100 75d75+100 punch
+-300 -300 -300 -300
+ADFJKOR E BDE HK
+stand stand male  0
+ABHMV ABCDEFGHIJKUV giant unknown
+#14174
+knight~
+A convoy of soldiers~
+A convoy of soldiers, is here riding their warhorses.
+~
+You're looking at several hundred men, who are all mounted on warhorses,
+and wielding viciously sharp blades.  
+~
+cairhien~
+0 0
+AT 256 64 0 0 -1  1000 0
+200 400 500d500+1000 200d500+10 250d250+300 slash
+-300 -400 -400 -400
+ACDFJKO 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#14180
+stray cat~
+A stray cat~
+A stray cat is scavenging for food.
+~
+~
+unique~
+0 0
+ACGT 0 0 0 0 -1  -1000 0
+25 30 40d10+5 20d10+50 2d10+5 none
+-10 -10 -10 -7
+FH 0 B HJ
+stand stand female 100
+G ACDEJKQU medium unknown
+#14181
+well groomed dog~
+A well-groomed dog~
+A well-groomed dog scampers by.
+~
+~
+dog~
+0 0
+ACGT 0 0 0 0 -1  0 0
+34 30 40d20+5 20d10+30 4d10+20 none
+-12 -12 -11 -8
+FHM 0 OR HJ
+stand stand male  100
+AGV ACDEFHJKQUV large unknown
+#0
+
+
+
+#OBJECTS
+#14165
+sword~
+a crimson iron sword~
+A crimson iron sword is here.~
+iron~
+weapon A AN
+0
+sword 35 1 slash C
+30 10 0 P
+A
+19 5
+A
+18 5
+ T 0 none~
+#14166
+ring~
+a great serpent ring~
+A great serpent ring is here.~
+unknown~
+armor AB AB
+0
+AC AC AC AC 0
+30 0 0 P
+A
+18 3
+A
+19 3
+ T 0 none~
+#14283
+throne~
+a throne of blood-soaked bone~
+A throne of blood-soaked bone, is sitting here in the middle of the room.~
+unknown~
+furniture 0 0
+0
+A 0 DG 0 0
+0 0 0 P
+O ACT 14283 sit~
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#15099
+White Bridge meets Caemlyn Road~
+The road ends abruptly near the bank of the river Arinelle.  On the far
+bank of the river you can see a small city.  Looming up in front of you is
+the majestic White Bridge, spanning the river and setting down in the middle
+of the city.  There appears to be no way to cross the river other than the
+enormous and translucent bridge.  
+~
+0 524288 0
+D3
+~
+~
+0 0 6000
+D4
+~
+~
+0 0 15100
+S
+#15100
+Foot of The White Bridge~
+This is the western foot of the miraculous White Bridge.  It stretchs
+over the river to the east, and the eastern end sets down in the middle of
+the city body of Whitebridge.  The Caemlyn Road connects to the very foot of
+the bridge and stretches away to the west.  
+~
+0 524288 0
+D4
+~
+~
+0 0 3407
+D5
+~
+~
+0 0 15099
+S
+#14165
+Market Street~
+Stone-paved streets guide the traffic of Tar Valon between the red and
+brown brick houses and shops of this small village.  Squadrons of soldiers
+file through town periodically from Tar Valon, and the market throng divide
+around them as if marching men were obstructions they were long used to.  
+~
+0 0 1
+D0
+~
+~
+0 0 14169
+D1
+~
+~
+0 0 14167
+D2
+~
+~
+0 0 14166
+D3
+~
+~
+0 0 14168
+S
+#14166
+Thoroughfare of Alindaer~
+Fields of varying crops have been planted on both sides of the road,
+where the brush and timberline have been cleared back severel feet for the
+hamlet just to the north.  Towering piles of hay and roving watchdogs rest
+around the perimeter, while farmboys playing small hand-carved flutes frolic
+happily amongst them.  
+~
+0 0 8
+D0
+~
+~
+0 0 14165
+S
+#14167
+Village of Alindaer~
+A few men and women carrying trays of fruit try to interest passing
+soldiers and travellers in wrinkled apples and pears from winter cellars. 
+Most of what you survey is hardly worth a copper, but the weary harvest this
+harsh weather reaps leaves them little choice.  
+~
+0 1048576 1
+E
+sign~
+You may check your BALANCE, make a DEPOSIT, or WITHDRAW during all bank
+hours.  
+~
+D3
+~
+~
+0 0 14165
+S
+#14168
+Village of Alindaer~
+Here you find a peaceful haven away from the steady flow of mule-driven
+wagons, travellers and marching patrols.  According to the townsfolk, the
+village of Alindaer has lain beside the river almost as long as Tar Valon
+has occupied its island.  Yet, its been completely sacked and put to the
+torch on many occassions during various wars against the Aes Sedai.  
+~
+0 0 0
+E
+sign~
+Asaf's Steak House is open for business from 8 to 12 in the morning and 1
+to 7 in the afternoon.  
+~
+D1
+~
+~
+0 0 14165
+S
+#14169
+Thoroughfare of Alindaer~
+Small red brick houses are built all along the road right up to the
+river's edge, where, to the north, fishing boats are tethered to a small
+network of piers.  A pleasant breeze rolls in from the water.  
+~
+0 0 0
+D0
+~
+~
+0 0 14170
+D2
+~
+~
+0 0 14165
+S
+#14170
+Thoroughfare of Alindaer~
+To the north-east, the foot of a white bridge stretches over the east
+side of River Erinin and arches straight to the walls that surround the
+island of Tar Valon, The tops of the high walls of gleaming white,
+silver-streaked stone look down on the bridge's height.  At intervals, guard
+towers interrupt the walls, their massive footings washed by the river.  
+~
+0 0 0
+D0
+~
+~
+0 0 14171
+D2
+~
+~
+0 0 14169
+S
+#14171
+Foot of the Bridge~
+Often a place thronging with crowds, the bridge begins a long arch over
+the half mile or more of the River Erinin.  Guards posted at the foot
+carefully check everyone who wants to cross.  
+~
+0 0 0
+D1
+~
+~
+0 0 14172
+D2
+~
+~
+0 0 14170
+S
+#14172
+Bridge Over the Alindrelle~
+Striking, the bridge is an architectural wonder.  The openwork walls look
+intricate enough to tax the best craftswoman at her lace-frame.  It hardly
+seems that such could have been done with stone, or that it could stand even
+its own weight.  
+~
+0 0 0
+D1
+~
+~
+0 0 14173
+D3
+~
+~
+0 0 14171
+S
+#14173
+Bridge Over the Alindrelle~
+The river rolls, strong and steady, fifty or more paces below, and for
+all its half mile length the bridge flows unsupported from riverbank to
+island.  The bridge has room and some to spare for ten men to walk abreast. 
+A tall, bronze-clad gate stands between the bridge and Tar Valon to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 14174
+D3
+~
+~
+0 0 14172
+S
+#14174
+Gate to Alindaer~
+The busiest gate in the city rises in the wall here, allowing passage of
+most of the trade from Caemlyn.  The White Cliffs of Tar Valon rise above
+the worn stones of the road down Air Avenue to the east.  Stunningly, the
+White Tower looms past them in the horizon.  
+~
+0 0 0
+D0
+~
+~
+0 0 14275
+D1
+~
+~
+0 0 14175
+D2
+~
+~
+0 0 14193
+D3
+~
+~
+0 0 14173
+S
+#14175
+Air Avenue~
+The buildings lining this street seem to have been designed to look
+windswept, portrayed as though wind is to be funneled between them.  As a
+result, even in perfect stillness a sense of movement fills the air, and a
+rustle of air can almost be heard.  To the west lies Alindear Gate and,
+beyond that, the Dragonmount rises in the distance.  
+~
+0 0 0
+D1
+~
+~
+0 0 14176
+D3
+~
+~
+0 0 14174
+S
+#14176
+Air Avenue~
+Along this avenue, the buildings become grand and spacious.  Their white
+rooftops are curved and rounded, giving them the appearance of clouds.  The
+road widens up a bit and the buildings seem to lean back a little so that
+the open sky can fall down on the avenue.  Running north and south, Merchant
+Street intersects with Air Avenue.  
+~
+0 0 0
+D0
+~
+~
+0 0 14281
+D1
+~
+~
+0 0 14177
+D2
+~
+~
+0 0 14196
+D3
+~
+~
+0 0 14175
+S
+#14177
+Air Avenue~
+Here, along Air Avenue, one can view the White Cliffs of Tar Valon.  The
+buildings along this avenue are superbly crafted and intricately decorated. 
+From the Alindear Gate, one could almost mistake them for real cliffs.  The
+avenue ends to the east at Tower Square but continues along to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 14178
+D3
+~
+~
+0 0 14176
+S
+#14178
+Tower Square~
+At this corner of the square, the dazzling buildings of Tar Valon
+surround the square.  In the center of the square is the White Tower, walled
+off from the rest of the city.  To the south Air Avenue flows into the
+square from Alindaer Gate in the southwest section of the city.  The square
+continues to the north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 14179
+D1
+~
+~
+0 0 14185
+D2
+~
+~
+0 0 14177
+S
+#14179
+Tower Square~
+Here the Tower Square faces the western section of the city.  The White
+Tower rises up from the center of the walled off square.  To the west
+Westside Avenue heads towards Darien Gate.  To the east lies the western
+gate into the tower grounds.  The square continues to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 14180
+D1
+~
+~
+0 0 14233
+D2
+~
+~
+0 0 14178
+D3
+~
+~
+0 0 14277
+S
+#14180
+Tower Square~
+This is the north,west corner of the square.  In the center of the square
+is the White Tower, walled off from the rest of the city.  To the north
+Water Avenue leads to the Jualdhe Gate.  The square continues to the east
+and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 14266
+D1
+~
+~
+0 0 14181
+D2
+~
+~
+0 0 14179
+S
+#14181
+Tower Square~
+You are standing in the northern section of a vast square.  In the center
+of the square is the great tower which is walled off from the rest of Tar
+Valon.  To the north a large boulevard opens up leading to the Northharbor. 
+To the south you see the northern gate into the tower grounds.  The square
+continues to the east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 14263
+D1
+~
+~
+0 0 14182
+D2
+~
+~
+0 0 14238
+D3
+~
+~
+0 0 14180
+S
+#14182
+Tower Square~
+Here at the northeast corner of the Tower Square, the great city rises up
+all around.  In the center of the square is the White Tower, walled off from
+the rest of the city.  To the north Earth Avenue leads off to the Luagde
+Gate.  The square continues west and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 14243
+D2
+~
+~
+0 0 14183
+D3
+~
+~
+0 0 14181
+S
+#14183
+Tower Square~
+This side of the square faces the eastern section of Tar Valon.  In the
+walled off square is the White Tower, overlooking the whole city.  Great
+avenues converge on the square from the north and south while Eastside
+Avenue heads directly east towards Daghain Gate.  To the west lies the
+eastern gate into the tower grounds.  The square continues to the north and
+south.  
+~
+0 0 0
+D0
+~
+~
+0 0 14182
+D1
+~
+~
+0 0 14216
+D2
+~
+~
+0 0 14184
+D3
+~
+~
+0 0 14223
+S
+#14184
+Tower Square~
+Here the city sprawls forth from the square.  Fire Avenue blazes its way
+from the south towards this southeast corner of the square.  Looking down
+along Fire Avenue, the Osenrein Gate is visible in the horizon.  The walled
+off tower lies in the center of the Tower Square.  The square continues to
+the north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 14183
+D2
+~
+~
+0 0 14199
+D3
+~
+~
+0 0 14185
+S
+#14185
+Tower Square~
+This side of the square is the southern section of the Tower Square.  In
+the center is the walled off White Tower.  To the south a large boulevard
+opens up leading to the Southharbor.  To the north you see the southern gate
+of the tower grounds.  The square continues east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 14229
+D1
+~
+~
+0 0 14184
+D2
+~
+~
+0 0 14186
+D3
+~
+~
+0 0 14178
+S
+#14186
+South Harbor Boulevard~
+Here, Southharbor Boulevard starts out of Tower Square and heads south to
+the harbor.  To the south, you see a crowd of people milling around a large
+square.  Farther south, you can make out the many ships docked in the harbor
+and, beyond that, the River Erinin.  
+~
+0 0 0
+D0
+~
+~
+0 0 14185
+D2
+~
+~
+0 0 14187
+S
+#14187
+Merchant Square~
+Perhaps the most crowded place in all of Tar Valon, the square is packed
+with people shopping along Merchant Square.  In the square is a fountain,
+which some people lean against to rest or merely watch all that is
+surrounding them.  The White Tower lies a bit to the north, but people take
+no more notice of it than the other buildings along the road.  
+~
+0 0 0
+D0
+~
+~
+0 0 14186
+D1
+~
+~
+0 0 14201
+D2
+~
+~
+0 0 14188
+D3
+~
+~
+0 0 14196
+S
+#14188
+South Harbor Boulevard~
+Heading south of Merchant Square, the great paving squares of the
+boulevard slowly turn into cobblestone.  South of here is the man-made part
+of the city.  Some parts were completed two thousand years after the Ogier
+left.  The cobblestone road leads south toward the harbor.  The rabble and
+ruckus of an inn beckons one from the east.  There is a bank to the west,
+newly-built 
+~
+0 0 0
+D0
+~
+~
+0 0 14187
+D2
+~
+~
+0 0 14189
+S
+#14189
+South Harbor Boulevard~
+The difference between the Ogier craftmanship and the human workmanship
+becomes apparent heading south towards the harbor.  The human builders tried
+to duplicate the Ogier work.  The buildings are extravagent, but to the
+point of being gaudy, however.  A small alley leads off to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 14188
+D2
+~
+~
+0 0 14190
+S
+#14190
+South Harbor Boulevard~
+To the south the boulevard ends in an arch, which leads into Southharbor.
+The cobblestone road, rare in this Ogier made city, is the result of man's
+failure to reconstruct large paving squares.  The street continues to the
+north, heading, like most roads, towards the tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 14189
+D2
+~
+~
+0 0 14191
+S
+#14191
+South Harbor~
+A large wharf surrounds the harbor, which leads into the River Erinin to
+the south.  Two large gatehouses at the end of the Shining Walls guard the
+mouth of the harbor.  Off to the east and west, dock workers move busily
+around on the wharf, while a large boulevard leads north towards the White
+Tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 14190
+D1
+~
+~
+0 0 14195
+D3
+~
+~
+0 0 14192
+S
+#14192
+Southern Wharf~
+Ships line the wood and stone length of the harbor, homes for their
+sailors, often seen scurrying around loading and unloading treasures from
+their travels.  While this dock would be considered clean by the standards
+of most ports, it is obviously considered seedy by the citizens of Tar
+Valon, and at night is less than well lit.  
+~
+0 0 0
+D0
+~
+~
+0 0 14194
+D1
+~
+~
+0 0 14191
+S
+#14193
+Alindrelle Way~
+A warmth seems to emanate from the bright white walls along the street,
+reflecting whatever light is present several times.  Between the rising
+buildings, the street heads south towards Southharbor while, to the north,
+the way flows into an intersection where a bronze-clad gate allows access to
+and from the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 14174
+D2
+~
+~
+0 0 14194
+S
+#14194
+Alindrelle Way~
+Waves of light dance off the buildings along the road, making them seem
+almost waterlike, as light glints off a river at midday.  Looking south, the
+side of a large wharf can be seen, obviously Southharbor.  Several large
+ships can be seen docked to the wharf.  In the other direction, the street
+runs along the walls to the western gates and North Harbor.  
+~
+0 0 0
+D0
+~
+~
+0 0 14193
+D2
+~
+~
+0 0 14192
+S
+#14195
+Southern Warf~
+Dock workers scurry around, unloading and loading ships from Tear and
+other cities down river.  While most cities would consider the wharf very
+clean, for Tar Valon, it is considered a bit seedy.  At night, this part of
+the city is one of the few places that is not very well lit, thus attracting
+unsavory characters.  Nevertheless, people say the Aes Sedai take care of
+those who break the law.  
+~
+0 0 0
+D0
+~
+~
+0 0 14205
+D3
+~
+~
+0 0 14191
+S
+#14196
+Merchant Street~
+During the day, crowds of people walk this street, browsing through the
+multitude of goods offered.  To the east you see Merchant Square and people
+milling around its fountain.  Farther to the north, past the intersection,
+you see more shops.  The savory smell of baked goods wafts up from the
+south, while to the west you see a busy general store.  
+~
+0 0 1
+D0
+~
+~
+0 0 14176
+D1
+~
+~
+0 0 14187
+D2
+~
+~
+0 0 14197
+D3
+~
+~
+0 0 14198
+S
+#14197
+First Stop Bakery~
+The smell of freshly baked bread is overwhelming in here.  Looking around
+you see many other baked goods, all looking very delicious.  A counter
+stands in front of the back wall with a small sign on it.  
+~
+0 8 1
+D0
+~
+~
+0 0 14196
+S
+#14198
+The Traveler's Shop~
+The general store is small and cramped.  Shelves, loaded with numerous
+types of equipment, fill the room.  Because Tar Valon is a city of many
+nationalities, one can find almost any kind of equipment desired in this
+very shop.  Gear offered here ranges from the most basic necessities to more
+complex and exotic offerings.  Behind the counter, a small stairway leads up
+to the owner's living quarters.  
+~
+0 8 1
+D1
+~
+~
+0 0 14196
+S
+#14199
+Fire Avenue~
+The buildings along this road rise up together on both sides.  They are
+built close together and carvings of flames adorn their walls with each
+rooftop resembles the tip of a flame.  The actual road itself appears as if
+it were parting a gigantic fire through its center.  The White Tower looms
+over this road from the west as the road blazes its way towards the Osenrein
+Gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 14184
+D1
+~
+~
+0 0 14200
+S
+#14200
+Fire Avenue~
+This area exudes the magnificent skill of the Ogier masons.  The stone
+edifices appear to be both on fire and made of fire.  Buildings seem to be
+pushed up by pillars resembling curling bonfires.  The roofs curl around and
+about like wisps of smoke.  The fountains, also carved to resemble flames,
+spout up cool clear water, ironically.  Looking westwards, one can see the
+White Tower.  And from the north and south, Merchant Street runs past like a
+wind blowing through a fire.  
+~
+0 0 0
+D0
+~
+~
+0 0 14219
+D1
+~
+~
+0 0 14202
+D2
+~
+~
+0 0 14201
+D3
+~
+~
+0 0 14199
+S
+#14201
+Merchant Street~
+During the day, crowds of people walk this street browsing through the
+multitude of goods offered.  To the west you see Merchant Square and people
+sitting and milling around its fountain.  Farther to the north, past the
+intersection, you see more shops.  To the south, many shiny breastplates and
+other shiny equipment are displayed in front of a shop.  
+~
+0 0 0
+D0
+~
+~
+0 0 14200
+D2
+~
+~
+0 0 14221
+D3
+~
+~
+0 0 14187
+S
+#14202
+Fire Avenue~
+The buildings lining this avenue have a strange luster about them. 
+During the day light and heat from the sun seems to reflect off the gleaming
+faces of the buildings creating the illusion that the avenue, itself, is on
+fire.  And at night light that escapes from the grand windows facing the
+road bounces back and forth along the avenue illuminating all nooks and
+corners.  Lampposts also line the sides of the road making the way seem
+bright even on the darkest night.  The bright lights dim a little to the
+east indicating the Gate to Osenrein while the illuminated way continues
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 14203
+D3
+~
+~
+0 0 14200
+S
+#14203
+Gate to Osenrein~
+You are standing before the bronze-clad gates guarding the bridge to
+Osenrein.  To the north and south along the inside of the white walls is the
+Osendrelle Way.  To the west is Fire Avenue which leads directly to the
+White Tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 14206
+D2
+~
+~
+0 0 14204
+D3
+~
+~
+0 0 14202
+S
+#14204
+Osendrelle Way~
+The walls along this street seem to glow with their own inner light.  You
+realize how reflective these white walls are as you eyes narrow at their
+brightness.  The way continues south towards Southharbor while to the north,
+the way flows into an intersection where a bronze-clad gate allows entry
+into this mystical city.  
+~
+0 0 0
+D0
+~
+~
+0 0 14203
+D2
+~
+~
+0 0 14205
+S
+#14205
+Osendrelle Way~
+Here, along the beautiful white walls, the buildings mimick the flowing
+water on the other side.  Looking south, you see the side of a large wharf,
+which must be Southharbor, with large ships docked to it.  To the north, the
+street runs along the walls leading to all the eastern gates of the city
+and, eventually, North Harbor.  
+~
+0 0 0
+D0
+~
+~
+0 0 14204
+D2
+~
+~
+0 0 14195
+S
+#14206
+Osendrelle Way~
+Here, along the beautiful white walls, the buildings mimick the flowing
+water on the other side.  To the south, the street opens up in front of the
+Gate to Osenrein.  It also continues north, shifting slightly eastwards
+along the gleaming white walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 14207
+D2
+~
+~
+0 0 14203
+S
+#14207
+Osendrelle Way~
+The lower half of the White Walls here gives the impression of being
+underwater.  You can almost see a fish or two darting from one shadow to
+another along the wall.  The way continues to the south, while to the north,
+it spills out in front of the Daghain Gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 14208
+D2
+~
+~
+0 0 14206
+S
+#14208
+Gate to Daghain~
+You are standing before the bronze-clad gates guarding the bridge to
+Daghain.  To the north and south and along the inside of the white walls is
+the Osendrelle Way.  To the west is Eastside Avenue, leading directly to the
+White Tower.  To the east, the bridge spans the Erinin and leads to Fal
+Dara's Tar Valon Road.  
+~
+0 0 0
+D0
+~
+~
+0 0 14249
+D1
+~
+~
+0 0 14209
+D2
+~
+~
+0 0 14207
+D3
+~
+~
+0 0 14218
+S
+#14209
+Bridge Across the Erinin~
+The bridge arches one hundred feet above the surface of the River Erinin.
+It is made of a white stone that looks as slick as glass, yet feels as hard
+as tempered steel.  The lacy forms of the railings and supports make the
+bridge look like it would collapse under its own weight, let alone the
+weight of riders and wagons.  To the west is the Daghain Gate to the famed
+city of Tar Valon.  
+~
+0 0 0
+D1
+~
+~
+0 0 14210
+D3
+~
+~
+0 0 14208
+S
+#14210
+Bridge Across the Erinin~
+The bridge arches over the flowing current of the River Erinin a hundred
+feet down.  The power formed, pure white stone shimmers like the Shining
+Walls of Tar Valon themselves, and its lacy form looks like it would shatter
+under its own weight.  The bridge seems to be made entirely of one piece,
+with absolutely no seams to be seen anywhere.  
+~
+0 0 0
+D1
+~
+~
+0 0 14211
+D3
+~
+~
+0 0 14209
+S
+#14211
+The Foot of a Bridge~
+This road is about a hundred feet wide and is paved with cobble stones. 
+Buildings made of wood and stone seem insignificant beside the pure white
+bridge that arches west toward the famed Shining Walls of Tar Valon.  Some
+of the buildings have signs haging over the doors that indicate what kind of
+business it houses.  
+~
+0 0 0
+D0
+~
+~
+0 0 14212
+D3
+~
+~
+0 0 14210
+S
+#14212
+Road Through Daghain~
+The Tar Valon Road runs right through this large square going north to
+the Borderlands and south to the city itself.  Except for the side street
+and road entrances the square is totally surrounded by buildings, most of
+which are shops.  
+~
+0 0 0
+D0
+~
+~
+0 0 14213
+D1
+~
+~
+0 0 14215
+D2
+~
+~
+0 0 14211
+S
+#14213
+Road Through the Village~
+Wood and stone buildings of every size run along either side of the road
+as well as down every small side street.  Most of the roofs are tile, but a
+few scattered buildings with thatch can be seen over the tops of the others.
+Some of the buildings along the road have signs over the main entrance,
+proclaiming their wares and services.  
+~
+0 0 0
+D0
+~
+~
+0 0 14214
+D2
+~
+~
+0 0 14212
+S
+#14214
+The Tar Valon Road~
+This wide road is unpaved, but the dirt has been compacted over years of
+use by wagons, carriages, and carts as well as countless travelers.  There
+is a trench on either side of the road to prevent most wild animals from
+wandering onto this major artery.  
+~
+0 0 0
+D2
+~
+~
+0 0 14213
+S
+#14215
+The Daghain Traveller~
+This tavern is covered with dirt and grime brought in by the travelers
+that frequently pass through the village.  The tables and chairs look
+rickety and are covered with gouges and knife marks.  Shelves behind the
+dark, wooden bar and its stools contain all kinds of drinks.  
+~
+0 0 0
+D3
+~
+~
+0 0 14212
+S
+#14216
+Eastside Avenue~
+Here, the avenue is just east of the great Tower Square.  The tower walls
+rise up only to be surpassed by the White Tower, itself.  Looking east, the
+avenue runs forth, eventually meeting Serpent Street and Merchant Street in
+the distance.  The Gate of Daghain can be seen in the horizon, indicating
+the eastern border of Tar Valon.  
+~
+0 0 0
+D1
+~
+~
+0 0 14217
+D3
+~
+~
+0 0 14183
+S
+#14217
+Eastside Avenue~
+This bustling way leads east from Tower Square.  From it one can see the
+great White Tower looming up over all of Tar Valon.  Further along
+eastwards, two roads converge from the north and south to meet this avenue
+just before the Gate of Daghain.  
+~
+0 0 0
+D1
+~
+~
+0 0 14218
+D3
+~
+~
+0 0 14216
+S
+#14218
+Eastside Intersection~
+Here, directly west of the eastern gate of Tar Valon, three great roads
+converge.  Serpent Street winds down from the north while Merchant Street
+makes its wayup from the south.  From Tower Square, the heart of Tar Valon,
+Eastside Avenue heads east to meet both streets just before the eastern
+gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 14222
+D1
+~
+~
+0 0 14208
+D2
+~
+~
+0 0 14219
+D3
+~
+~
+0 0 14217
+S
+#14219
+Merchant Street~
+Shops line the sides of this part of the street which connects Eastside
+Intersection and Fire Avenue.  During the day, this lane is crowded with all
+sorts of vendors and their customers.  Farther to the south, past the Fire
+Avenue intersection, you can see more shops.  The glint of blades hanging in
+the window of a shop to the west catches your eye.  
+~
+0 0 0
+D0
+~
+~
+0 0 14218
+D2
+~
+~
+0 0 14200
+D3
+~
+~
+0 0 14220
+S
+#14220
+The Blade Shoppe~
+This shop sports many fine weapons.  Razor sharp blades of every shape
+and style gleam and shine, boasting the amazing craftsmanship that wrought
+them.  Weapons range from plain quality blades to exotic imported blades,
+beautifully adorned.  You notice the wonderous glances of many passersby to
+the east along Merchant Street, as they stare at the many magnificent
+weapons.  
+~
+0 0 0
+D1
+~
+~
+0 0 14219
+S
+#14221
+Cyril's Fine Armor~
+Lining the walls are racks and racks of various types of armour.  Shiny
+breastplates of many different metals hang off the walls.  Several types of
+chain mail with different types of chain links twinkle from the racks. 
+Gauntlets, shields, and helmets adorn the rest of the shop.  It looks like
+there are also other incompleted armours being custom altered for discerning
+clients.  To the north, those done with their business exit out the doorway.
+~
+0 0 0
+D0
+~
+~
+0 0 14201
+S
+#14222
+Serpent Street~
+Looking down this street, the reasoning behind its name becomes quite
+apparent.  Carved onto most, if not all of the buildings and doors, are
+snakes of all sorts.  Great coiled serpents serve as pillars supporting
+numerous scale tiled roofs while other ones, bronze colored, serve as
+steadfast door handles.  Earth Avenue crosses to the north while Eastside
+Avenue intersects to the south.  Serpent Street continues, making a big arc
+thorugh the northern half of Tar Valon.  A strong pungent medicinal scent
+wafts by from the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 14242
+D2
+~
+~
+0 0 14218
+D3
+~
+~
+0 0 14241
+S
+#14223
+The Eastern Gate~
+The gateway is arched at the top and is about twenty feet high by twenty
+feet wide.  The gates themselves are iron and have been polished to shine
+with extraordinary luster.  Brackets are attached to the walls on each side
+of the gateway to support the enormous crossbar.  Arrow slits halfway up the
+wall provide excellent positions to shoot from in case the Shining Walls are
+breached and the White Tower itself falls under attack.  
+~
+0 0 0
+D1
+~
+~
+0 0 14183
+D2
+~
+~
+0 0 14225
+D3
+~
+~
+0 0 14224
+S
+#14224
+A Path Leading to the Tower~
+Small pieces of white, translucent rock blanket the wide path and sparkle
+when struck by light.  Trees growing in small thickets around the Tower
+grounds create a vibrant rainbow of colors.  Some of the trees have white
+benches beneath their foliage.  The White Tower, bordered by short shrubs,
+rises eighty spans to the west.  Wide, arched stairs lead to the Tower's
+enormous doors.  
+~
+0 0 0
+D0
+~
+~
+0 0 14240
+D1
+~
+~
+0 0 14223
+D2
+~
+~
+0 0 14226
+D3
+~
+~
+0 0 30009
+S
+#14225
+A Guardhouse~
+Narrow wooden beds with the few belongings each soldier brought with them
+on duty, line all the walls of this star-shaped guardhouse.  Numerous weapon
+racks occupy the center of the building where they are within easy reach in
+case of emergencies.  Large tables with plates, forks, and spoons as well as
+puzzles are located around the racks.  
+~
+0 0 0
+D0
+~
+~
+0 0 14223
+S
+#14226
+A Path Around the Tower~
+Bone white gravel covers the path and shimmers even with the smallest
+amount of light.  Thickets of leatherleaf, paperback, and pine are scattered
+around the path and short bushes and shrubs butt against the Tower and the
+guard wall.  Some of the trees have a small white bench beneath their
+filiage.  
+~
+0 0 0
+D0
+~
+~
+0 0 14224
+D2
+~
+~
+0 0 14227
+S
+#14227
+Bend in the Path~
+The path enters a thicket and the foliage of the trees shade the path
+from the sky.  Here, the path resembles a countryside road with the trees
+growing on either side and short vegetation growing at the base of their
+trunks.  Fallen leaves cover the path, leaving only patches of the white
+gravel visible.  The path bends around the Tower to the north and to the
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 14226
+D3
+~
+~
+0 0 14228
+S
+#14228
+A Small Path~
+The White Tower looms to the north, rising over eighty spans into the
+sky.  Trees and bushes, both short and tall, are sprinkled around the path
+and throughout the Tower grounds.  The path is covered by pieces of small
+white gravel and bordered by white bricks.  White steps, at least a pace
+deep and slightly arched in the middle, lead up to the White Tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 30627
+D1
+~
+~
+0 0 14227
+D2
+~
+~
+0 0 14229
+D3
+~
+~
+0 0 14231
+S
+#14229
+Tarlomen's Gate~
+The tall gateway pierces the tall white wall to the south with its iron
+bound gates standing open to allow people to enter in and out under the eyes
+of the guards.  The gates have been polished to a point where the gates
+shine with a luster that a Tinker would find satisfactory.  Arrow slits dot
+the the walls on either side of the gates about ten feet from the ground.  A
+star-shaped guardhouse rises from the ground in the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 14228
+D1
+~
+~
+0 0 14230
+D2
+~
+~
+0 0 14185
+S
+#14230
+A Guardhouse~
+The simple beds lining the walls of the star-shaped guardhouse are
+accompanied by small tables that house the meager belongings of each guard. 
+The beds lie unmade, awaiting the return of their owners when the gates to
+the Tower close.  Racks containing different arrays of arms and armor are
+located in the center of the barracks.  
+~
+0 0 0
+D3
+~
+~
+0 0 14229
+S
+#14231
+Bend in the Path~
+The graveled path meanders its way around the corner of the Tower going
+north and east.  Thickets of leatherleaf, oak, and paperback are scattered
+around the ten pace wide walkway.  Fruit trees and flowers grow in paved
+gardens nearest to the White Tower itself.  Small fountains located around
+the Tower's gardens create a sound similar to a running brook.  
+~
+0 0 0
+D0
+~
+~
+0 0 14232
+D1
+~
+~
+0 0 14228
+S
+#14232
+A Graveled Path~
+The gravel covered path is at least forty feet wide and is lined with
+pruned trees and shrubs that make it look more like a lord's park then the
+center of a large city.  The trees are filled with singing birds and
+butterflies flutter around the short shrubs.  Benches lining the path and
+scattered throughout the trees provide resting places for the weary.  Wide
+steps to the east lead up to the western entrance hall of the White Tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 14235
+D1
+~
+~
+0 0 30028
+D2
+~
+~
+0 0 14231
+D3
+~
+~
+0 0 14233
+S
+#14233
+The West Gate~
+The gateway, about twenty feet high, is wide enough to have fifteen men
+abreast ride through.  Huge iron bound gates, both twenty feet high stand
+wide open and a huge crossbar leans against the wall.  A graveled path
+leading from the gate to the White Tower is lined with enough trees to make
+the Tower grounds look like a park.  
+~
+0 0 0
+D1
+~
+~
+0 0 14232
+D2
+~
+~
+0 0 14234
+D3
+~
+~
+0 0 14179
+S
+#14234
+A Guardhouse~
+This guardhouse resembling a six-pointed star lying on its side can
+easily house twenty soldiers and their armor.  Rows of double decked beds
+with each soldier's belongings next to them line the walls of the barracks. 
+Racks for weapons are located in the center of the guardhouse for easy
+access.  The walls and ceiling are made of marble and are as white as the
+White Tower itself.  
+~
+0 0 0
+D0
+~
+~
+0 0 14233
+S
+#14235
+The Warders Practice Yard~
+The ground here has been cleared of all vegetation and the earth has been
+compacted to provide good footing for the warders and their students to
+practice on.  The tall trees surrounding the clearing provide shade for the
+men practicing.  Racks are scattered across the clearing and along the
+walls.  The teachers often watch their students duel each other with wooden
+practice swords.  
+~
+0 0 0
+D0
+~
+~
+0 0 14236
+D2
+~
+~
+0 0 14232
+S
+#14236
+A Bend in the Path~
+White benches border the path to either side and lawns of green grass
+surround each bench.  The White Tower rises over eighty spans in the air to
+the southeast, dwarfing everthing in the vicinity.  Short shrubs butting up
+against the sides of the Tower have been pruned to resemble miniature trees.
+The white gravel path turns east and south.  
+~
+0 0 0
+D1
+~
+~
+0 0 14237
+D2
+~
+~
+0 0 14235
+S
+#14237
+A Graveled Path~
+Much of the ground is covered by leatherleaf, paperback and elms.  A
+twisting gravel path winds its way through and around the manicured trees
+and bushes.  The sides of the path are lined with marble that make the edges
+glow and sparkle when seen from different angles.  White benches that border
+the path camouflage with the pure white of the Tower and the outside walls. 
+~
+0 0 0
+D0
+~
+~
+0 0 14238
+D1
+~
+~
+0 0 14240
+D2
+~
+~
+0 0 30019
+D3
+~
+~
+0 0 14236
+S
+#14238
+The North Gate~
+The large gateway provides plenty of room for large wagons and carriages
+to come in and out of the White Tower grounds.  Arrow slits are located
+higher on the walls to allow archers to shoot down into enemy ranks should
+they breach the Shining Walls of Tar Valon.  A large barricade lies to the
+side of the gates for easy placement in case of emergencies.  
+~
+0 0 0
+D0
+~
+~
+0 0 14181
+D2
+~
+~
+0 0 14237
+D3
+~
+~
+0 0 14239
+S
+#14239
+A Guardhouse~
+This barracks, in the shape of a six-pointed star lying on its side, was
+made to house an entire company of guards.  Simple beds lining the walls
+take up most of the space, while racks of weapons take up most of the rest. 
+Small tables beside each bed provide places for the guards to put the few
+belongings they bring with them when on duty.  
+~
+0 0 0
+D1
+~
+~
+0 0 14238
+S
+#14240
+Bend in the Graveled Path~
+The gravel path itself is about forty feet wide, but no trees grow within
+ten feet of either edge to increase the open feeling.  The gravel covering
+the path is some sort of white stone with a translucent quality that makes
+the path seem to glow.  The trees growing to either side of the path are
+quite tall, some reaching thirty paces up and are covered with diverse
+colors of leaves.  The path bends to the west and to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 14224
+D3
+~
+~
+0 0 14237
+S
+#14241
+Gudha's Herbs~
+The store is very clean neat.  Shelves line the walls filled with jars of
+various herbs and roots.  A table along the western wall, next to a small
+side door, serves as a counter.  Sounds of traffic drift in from the main
+doorway.  
+~
+0 0 0
+D1
+~
+~
+0 0 14222
+S
+#14242
+Earth Avenue~
+Entering this section of the avenue, the style of the masonry changes. 
+The whole look of the avenue takes on a mountainous look.  Rooftops become
+pointed to resemble peaks while window balconies jut out, reminiscent of
+sharp cliffs.  Serpent Street intersects from the north and south cutting
+through the line of peaked rooftops like a sharp ravine.  
+~
+0 0 0
+D0
+~
+~
+0 0 14246
+D1
+~
+~
+0 0 14247
+D2
+~
+~
+0 0 14222
+D3
+~
+~
+0 0 14243
+S
+#14243
+Earth Avenue~
+One of the fabled lanes of Tar Valon, this avenue makes its way from
+Tower Square to the northeast section of the city.  Skillfully constructed
+long ago by Ogier stonemasons, this part of the avenue has been built to the
+theme of a forested valley.  Tall pillars akin to great wooded tree trunks
+support overhanging roofs while flowing fountains adorn them.  Numerous
+statues and carvings of bears, deer, and squirrels abound throughout the
+area.  To the south Earth Avenue ends in Tower Square but to the east, the
+avenue continues.  A magnificent lodge branches up and out to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 14244
+D1
+~
+~
+0 0 14242
+D2
+~
+~
+0 0 14182
+S
+#14244
+The Bean Tree Inn~
+You are standing in the main foyer of one of the finest inns in Tar
+Valon.  Along the southern wall, a circle of very comfortable looking chairs
+surround a fireplace.  A counter in front of the eastern wall stands vacant
+with a small sign on top of it.  The low rumble of conversation can be heard
+from the common room to the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 14243
+D3
+~
+~
+0 0 14245
+S
+#14245
+Common Room~
+The room is large, having two fires going at either side of the room. 
+Most of the tables are occupied by customers, though there are a few open
+here and there.  Carvings along the wall depict scenes of peaceful woods. 
+Your mouth begins to water at the sight and smell of some dishes being
+served here.  This, supposedly, is one of the best places to eat in Tar
+Valon.  People can be seen coming in and out to the east and the main foyer
+of the Bean Tree Inn.  
+~
+0 0 0
+D1
+~
+~
+0 0 14244
+S
+#14246
+Serpent Street~
+Along this portion of the street, snake figures are etched to almost
+every building and door.  Scenes depicting snakes wiggling, coiling, and
+striking are carved onto walls of buildings.  The street is even paved with
+many flat stones, reminding one of the scaly backside of a great serpent. 
+The street continues west while on the south, Earth Avenue can be seen
+passing through.  
+~
+0 0 0
+D2
+~
+~
+0 0 14242
+D3
+~
+~
+0 0 14262
+S
+#14247
+Earth Avenue~
+The avenue blossoms with the wonderous Ogier craftsmanship.  The
+buildings are rounded to imitate gently rolling hills while fountains and
+shallow pools lie among them reminding the observer of quiet lakes and
+ponds.  The Laugde Gate stands just to the east while Earth Avenue continues
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 14248
+D3
+~
+~
+0 0 14242
+S
+#14248
+Gate To Luagde~
+You are standing before the bronze-clad gates guarding the bridge to
+Luagde.  To the north and south, along the inside of the white walls, is the
+Osendrelle Way.  To the west is Earth Avenue, heading towards the White
+Tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 14251
+D2
+~
+~
+0 0 14250
+D3
+~
+~
+0 0 14247
+S
+#14249
+Osendrelle Way~
+The lower half of the White Walls here gives the impression of being
+underwater.  You can almost see a fish or two darting from one shadow to
+another along the wall.  The way continues to the north, while to the south,
+it spills out in front of the Daghain Gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 14250
+D2
+~
+~
+0 0 14208
+S
+#14250
+Osendrelle Way~
+Here, along the beautiful white walls, the buildings mimick the flowing
+water on the other side.  To the north, the street opens up in front of the
+Gate to Luagde.  It also continues south, shifting slightly eastward along
+the gleaming white walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 14248
+D2
+~
+~
+0 0 14249
+S
+#14251
+Osendrelle Way~
+The walls along this street seem to glow with their own inner light.  You
+realize how reflective these white walls are as your eyes narrow at their
+brightness.  The way continues north towards North Harbor while to the
+south, the way flows into an intersection where a bronze-clad gate allows
+entry into this mystical city.  
+~
+0 0 0
+D0
+~
+~
+0 0 14252
+D2
+~
+~
+0 0 14248
+S
+#14252
+Osendrelle Way~
+Here, along the beautiful white walls, the buildings mimick the flowing
+water on the other side.  Looking north, you see the side of a large wharf,
+which must be Northharbor, with large ships docked to it.  To the south, the
+street runs along the walls leading to all the eastern gates of the city
+and, eventually, South Harbor.  
+~
+0 0 0
+D0
+~
+~
+0 0 14253
+D2
+~
+~
+0 0 14251
+S
+#14253
+Northern Wharf~
+Here many ships are sitting at their berths waiting for cargo to be
+changed.  All the ships are quiet as most of the crews are probably on leave
+exploring other parts of the city.  To the south you see the Osendrelle Way
+running along the outer wall.  To the west is the center of Northharbor
+where stairs can be seen leading up from the dock.  The harbor gatehouse is
+to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 14254
+D2
+~
+~
+0 0 14252
+D3
+~
+~
+0 0 14255
+S
+#14254
+North-Eastern Gatehouse~
+There is a clear view of the surrounding areas which stretch from the
+northern horizon down to the eastern horizon.  Below to the west, activity
+among the docked vessels in the Northharbor can be seen.  Looking to the
+east, this vantage point offers an unobstructed view of the roadway leading
+to the Gate of Daghain.  An inclined walkway leads southward, slowly
+descending to the street level of the city.  
+~
+0 0 0
+D2
+~
+~
+0 0 14253
+S
+#14255
+North Harbor~
+Along the edge of the dock, near the wharf, the harbor seems to hum with
+life.  Dock workers move busily off to the east and west, loading and
+unloading ships.  To the south, broad stairs lead up away from the docks
+towards the city and the White Tower, whose shadow seems to engulf the whole
+city.  
+~
+0 0 0
+D1
+~
+~
+0 0 14253
+D2
+~
+~
+0 0 14258
+D3
+~
+~
+0 0 14256
+S
+#14256
+Northern Wharf~
+Here many ships are sitting at their berths, awaiting cargo to be
+exchanged.  All the ships are quiet as most of the crews are probably on
+leave exploring other parts of the city.  To the south you see the
+Alindrelle Way running along the outer wall.  To the east is the center of
+Northharbor where stairs can be seen leading up from the dock.  The harbor
+gatehouse is to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 14257
+D1
+~
+~
+0 0 14255
+D2
+~
+~
+0 0 14264
+S
+#14257
+North-Western Gatehouse~
+From here all the lands to the north and west sprawl out into the
+horizon.  All the commerce and traffic coming from and going to the north
+via the river can be monitored from this elevated watching post.  Likewise
+all the business and all the travelers entering or leaving via the Gate of
+Jualdhe are monitored.  Looking to the south, there is a long inclined
+walkway that leads up to this gatehouse.  
+~
+0 0 0
+D0
+~
+~
+0 0 36831
+D2
+~
+~
+0 0 14256
+S
+#14258
+North Harbor Boulevard~
+You're standing north of the docks.  The road leads south, towards the
+White Tower.  The stonework along the street is stunning, causing even the
+most experienced traveler to become a slack jawed tourist.  
+~
+0 0 0
+D0
+~
+~
+0 0 14255
+D2
+~
+~
+0 0 14259
+S
+#14259
+North Harbor Boulevard~
+Here, the boulevard continues towards the harbor in the north and the
+Tower in the south.  The stonework along the road is done in a bas-relief to
+give the impression of huge ships lining the street.  A sign hangs over the
+shop to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 14258
+D1
+~
+~
+0 0 14260
+D2
+~
+~
+0 0 14261
+S
+#14260
+Erol's Fine Tailoring~
+This clothier boasts some of the finest garments and attire in the area. 
+Racks of imported shirts, intricately sewn and stitched, fill the room. 
+Leather jackets, shirts, and other fine apparel hang along the walls.  The
+bustling sounds of Northharbor Street can be heard from the doorway to the
+west.  
+~
+0 0 0
+D3
+~
+~
+0 0 14259
+S
+#14261
+North Harbor Boulevard~
+The buildings rise majestically along the street, channeling the road
+toward the White Tower.  To the north you can still see the Northharbor and
+its gates opening to the River Erinin.  To the south the road opens up to a
+large square designed around a large fountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 14259
+D2
+~
+~
+0 0 14262
+S
+#14262
+Serpent Square~
+A huge fountain dominates the middle of the square.  From the center of
+the fountain, a great coiled serpent spouts water up from its open mouth. 
+The water spreads out to form a translucent plume.  Northharbor Boulevard
+runs north and south while Serpent Street spreads east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 14261
+D1
+~
+~
+0 0 14246
+D2
+~
+~
+0 0 14263
+D3
+~
+~
+0 0 14268
+S
+#14263
+North Harbor Boulevard~
+Here North Harbor Boulevard starts out of Tower Square and heads north to
+the harbor.  To the south you see a fountain in the middle of a large
+square.  Farther south, you can make out many ships docked in the harbor. 
+Beyond the harbor, the River Erinin flows down into the horizon.  
+~
+0 0 0
+D0
+~
+~
+0 0 14262
+D2
+~
+~
+0 0 14181
+S
+#14264
+Alindrelle Way~
+Here, along the beautiful white walls, the buildings mimick the flowing
+water on the other side.  Looking north, you see the side of a large wharf,
+which must be Northharbor, with large ships docked to it.  To the south, the
+street runs along the walls leading to all the western gates of the city
+and, eventually, South Harbor.  
+~
+0 0 0
+D0
+~
+~
+0 0 14256
+D2
+~
+~
+0 0 14265
+S
+#14265
+Alindrelle Way~
+The walls along this street seem to glow with their own inner light.  You
+realize how reflective these white walls are as your eyes narrow at their
+brightness.  The way continues north towards Northharbor while to the south,
+the way flows into an intersection where a bronze-clad gate allows entry
+into this mystical city.  
+~
+0 0 0
+D0
+~
+~
+0 0 14264
+D2
+~
+~
+0 0 14271
+S
+#14266
+Water Avenue~
+The street looks like it flows toward the tower.  The masonry gives the
+impression of waves, slowly rolling down.  The avenue opens up to Tower
+Square to the south, or you could go against the tide and head west.  
+~
+0 0 0
+D2
+~
+~
+0 0 14180
+D3
+~
+~
+0 0 14267
+S
+#14267
+Water Avenue~
+Here at the intersection of Water Avenue and Serpent Street, a huge shell
+is carved into the center of the street.  As you look around you realize
+that the whole intersection has been shaped to look like the bottom of the
+ocean.  A huge etching of a sea serpent on the intersection appears to
+writhe its way north.  
+~
+0 0 0
+D0
+~
+~
+0 0 14268
+D1
+~
+~
+0 0 14266
+D2
+~
+~
+0 0 14280
+D3
+~
+~
+0 0 14270
+S
+#14268
+Serpent Street~
+Along this portion of the street, snake figures are etched to almost
+every building and door.  Scenes depicting snakes wiggling, coiling, and
+striking are carved onto walls of buildings.  Even the street, itself, is
+paved with many flat stones, reminding one of the scaly backside of a great
+serpent.  The street continues east while in the south, Water Avenue can be
+seen flowing through.  
+~
+0 0 0
+D0
+~
+~
+0 0 14269
+D1
+~
+~
+0 0 14262
+D2
+~
+~
+0 0 14267
+S
+#14269
+City Guardhouse~
+This seems to be a fairly spartan headquarters.  Near the entrance a
+wooden desk, presumably for the secretary, is covered with papers of various
+sorts.  Further inside, a few bunks can be seen in the corners while a large
+table stands at the center of the room.  Cards and a few chips lie on the
+table, forgotten for the moment.  A large metal door stands securely against
+the eastern wall.  
+~
+0 0 0
+D2
+~
+~
+0 0 14268
+S
+#14270
+Water Avenue~
+Here just east of the Jualdhe Gate lies Water Avenue.  The buildings are
+carved into the form of waves, which cascade down the street towards the
+White Tower in the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 14267
+D3
+~
+~
+0 0 14271
+S
+#14271
+Gate to Jualdhe~
+You are standing before the bronze-clad gates guarding the bridge to
+Jualdhe.  To the north and south, along the inside of the white walls, is
+the Alindrelle Way.  To the east is Water Avenue, heading towards the White
+Tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 14265
+D2
+~
+~
+0 0 14272
+S
+#14272
+Alindrelle Way~
+The walls of the buildings seem to minic the graceful waves of the water
+flowing on the other side.  To the north, the street opens up in from of the
+Gate to Dualdhe.  The street also continues south, shifting slightly
+westward along the gleaming white walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 14271
+D2
+~
+~
+0 0 14273
+S
+#14273
+Alindrelle Way~
+The lower half of the White Walls here gives the impression of being
+underwater.  You can almost see a fish or two darting from one shadow to
+another along the wall.  The way continues to the north, while to the south,
+it spills out in front of the Darein Gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 14272
+D2
+~
+~
+0 0 14274
+S
+#14274
+Gate to Darein~
+You are standing before the bronze-clad gates guarding the bridge to
+Darein.  To the north and south and along the inside of the white walls is
+the Alindrelle Way.  To the east is Westside Avenue, leading directly to the
+White Tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 14273
+D1
+~
+~
+0 0 14279
+D2
+~
+~
+0 0 14276
+S
+#14275
+Alindrelle Way~
+The waves wash peacefully alone the white walls, soft reflections dancing
+upon the buildings along the road.  To the south, the street opens up in
+front of the Gate to Alindaer.  The street alos continues north, shifting
+slightly westwards along the gleaming white walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 14276
+D2
+~
+~
+0 0 14174
+S
+#14276
+Alindrelle Way~
+A sense of distance is formed by the interaction of light upon the White
+Walls here.  It seems almost as though the world has been cut off in favor
+of an underwater swim, complete with darting fish.  The way continues to the
+south, while to the north it spills out in front of the Darein Gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 14274
+D2
+~
+~
+0 0 14275
+S
+#14277
+Westside Avenue~
+Here, the avenue is just west of the great Tower Square.  The tower walls
+rise up only to be surpassed by the White Tower itself.  Looking west the
+avenue runs forth, eventually meeting Serpent Street and Merchant Street in
+the distance.  The Gate of Darien can be seen in the horizon, indicating the
+western border of Tar Valon.  
+~
+0 0 0
+D1
+~
+~
+0 0 14179
+D3
+~
+~
+0 0 14278
+S
+#14278
+Westside Avenue~
+This bustling way leads west from Tower Square.  From it one can see the
+great White Tower looming up over all of Tar Valon.  Further along
+westwards, two roads converge from the north and south to meet this avenue
+just before the Gate of Darien.  Stamping and neighing sounds emanate from
+the Westside Stables to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 14277
+D3
+~
+~
+0 0 14279
+S
+#14279
+Westside Intersection~
+Here, directly east of the western gate of Tar Valon, three great roads
+converge.  Serpent Street winds down from the north while Merchant Street
+makes its way up from the south.  From Tower Square, the heart of Tar Valon,
+Westside Avenue heads west to meet both streets just before the western
+gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 14280
+D1
+~
+~
+0 0 14278
+D2
+~
+~
+0 0 14281
+D3
+~
+~
+0 0 14274
+S
+#14280
+Serpent Street~
+Looking down this street, the reasoning behind its name becomes quite
+apparent.  Carved onto most, if not all, of the buildings and doors are
+snakes of all sorts.  Great coiled serpents serve as pillars supporting
+numerous scaly tiled roofs, while other ones, bronze colored, serve as
+steadfast door handles.  Water Avenue crosses to the north while Westside
+Avenue intersects to the south.  Serpent Street continues, making a big arc
+through the northern half of Tar Valon.  
+~
+0 0 0
+D0
+~
+~
+0 0 14267
+D2
+~
+~
+0 0 14279
+S
+#14281
+Merchant Street~
+Shops line the sides of this street which connects Westside Intersection
+to Air Avenue.  During the day, vendors and their buyers crowd this route,
+doing brisk business and fast sales.  Farther to the south, past the
+intersection with Air Avenue, even more shops can be seen.  A pet store lies
+to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 14279
+D1
+~
+~
+0 0 14282
+D2
+~
+~
+0 0 14176
+S
+#14282
+Equine Emporium~
+The bustling sounds of Merchant Street can be heard coming from the west.
+To the east lie the stables where the fine horses that can be purchased here
+are stabled.  An array of supplies and leather goods lie on shelves which
+line the front of this shop.  
+~
+0 0 0
+D3
+~
+~
+0 0 14281
+S
+#14283
+The Room of The Unholy Rapture~
+Gigantic stone walls engulf you, from all sides of this very strange and
+mysterious room.  The floor is made of what appears to be grey marble, the
+room is very plain all except for a throne which sits in the middle of it -
+almost inviting you to sit in it.  There is a very faint smell lingering in
+the air, you cant really place it but it seems to be a mixture between
+rotting corpses, and possibly large amounts of blood.  
+~
+0 136324100 0
+S
+#0
+
+
+
+#SPECIALS
+M 14180 spec_fido
+M 14181 spec_janitor
+S
+
+
+
+#RESETS
+M 0 14165 20 14174 4 100 Load A Tar Valon gate guard
+E 0 14165 0 17 0 100 A crimson iron sword is loaded wielded of A Tar Valon gate guard
+M 0 14165 20 14174 4 100 Load A Tar Valon gate guard
+E 0 14165 0 17 0 100 A crimson iron sword is loaded wielded of A Tar Valon gate guard
+M 0 14165 20 14174 4 100 Load A Tar Valon gate guard
+E 0 14165 0 17 0 100 A crimson iron sword is loaded wielded of A Tar Valon gate guard
+M 0 14165 20 14174 4 100 Load A Tar Valon gate guard
+E 0 14165 0 17 0 100 A crimson iron sword is loaded wielded of A Tar Valon gate guard
+M 0 14172 1 14177 1 100 Load the signmaker
+M 0 14166 50 14178 2 100 Load An Aes Sedai
+M 0 14166 50 14180 2 100 Load An Aes Sedai
+M 0 14167 50 14181 3 100 Load The warder
+M 0 14166 50 14184 2 100 Load An Aes Sedai
+M 0 14165 20 14211 4 100 Load A Tar Valon gate guard
+E 0 14165 0 17 0 100 A crimson iron sword is loaded wielded of A Tar Valon gate guard
+M 0 14165 20 14211 4 100 Load A Tar Valon gate guard
+E 0 14165 0 17 0 100 A crimson iron sword is loaded wielded of A Tar Valon gate guard
+M 0 14165 20 14211 4 100 Load A Tar Valon gate guard
+E 0 14165 0 17 0 100 A crimson iron sword is loaded wielded of A Tar Valon gate guard
+M 0 14165 20 14211 4 100 Load A Tar Valon gate guard
+E 0 14165 0 17 0 100 A crimson iron sword is loaded wielded of A Tar Valon gate guard
+M 0 14180 4 14212 2 100 Load A stray cat
+M 0 14181 5 14213 2 100 Load A well-groomed dog
+M 0 14180 5 14214 1 100 Load A stray cat
+M 0 14169 30 14216 2 100 Load The mysterious lady
+E 0 14166 0 2 0 100 A great serpent ring is loaded on the right finger of The mysterious lady
+M 0 14166 50 14217 2 100 Load An Aes Sedai
+M 0 14168 30 14223 4 100 Load A tower gateguard
+M 0 14170 30 14224 2 100 Load a calm woman
+M 0 14167 50 14225 4 100 Load The warder
+M 0 14167 50 14227 2 100 Load The warder
+M 0 14168 30 14229 4 100 Load A tower gateguard
+M 0 14167 50 14230 4 100 Load The warder
+M 0 14170 30 14231 4 100 Load a calm woman
+M 0 14170 30 14232 2 100 Load a calm woman
+M 0 14168 30 14233 4 100 Load A tower gateguard
+M 0 14167 50 14234 4 100 Load The warder
+M 0 14171 30 14236 4 100 Load a tense warder
+M 0 14168 30 14238 4 100 Load A tower gateguard
+M 0 14167 50 14239 4 100 Load The warder
+M 0 14169 30 14240 2 100 Load The mysterious lady
+E 0 14166 0 1 0 100 A great serpent ring is loaded on the left finger of The mysterious lady
+M 0 14170 30 14278 2 100 Load a calm woman
+M 0 14169 30 14278 2 100 Load The mysterious lady
+O 0 14283 0 14283 0 100 A throne of blood-soaked bone loaded to The Room of The Unholy Rapture
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#14181
+~
+#14609
+if hasquest $n 16
+say Thanks a load, kind stranger!
+say Now just get me that other hide!
+mob updatequeststep 2
+end
+~
+#0
+
+#OBJPROGS
+#14283
+~
+#14284
+obj echo WORKS!!!
+obj echoat $q You sit down.
+obj echoaround $q $q sat on the throne.
+obj forget $q
+~
+#0
+
+#ROOMPROGS
+#14283
+room damage all lethal
+break
+~
+#0
+
+#$

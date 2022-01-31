@@ -1,0 +1,607 @@
+#AREADATA
+Name Caemlyn~
+Builders Unlinked Ishamael~
+VNUMs 14165 15100
+Credits { ??? } Thom    Caemlyn~
+Security 7
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#14165
+Market Street~
+Stone-paved streets guide the traffic of Tar Valon between the red and
+brown brick houses and shops of this small village.  Squadrons of soldiers
+file through town periodically from Tar Valon, and the market throng divide
+around them as if marching men were obstructions they were long used to.  
+~
+0 0 1
+D0
+~
+~
+0 0 14169
+D1
+~
+~
+0 0 14167
+D2
+~
+~
+0 0 14166
+D3
+~
+~
+0 0 14168
+S
+#14166
+Thoroughfare of Alindaer~
+Fields of varying crops have been planted on both sides of the road,
+where the brush and timberline have been cleared back severel feet for the
+hamlet just to the north.  Towering piles of hay and roving watchdogs rest
+around the perimeter, while farmboys playing small hand-carved flutes frolic
+happily amongst them.  
+~
+0 0 8
+D0
+~
+~
+0 0 14165
+S
+#14167
+Village of Alindaer~
+A few men and women carrying trays of fruit try to interest passing
+soldiers and travellers in wrinkled apples and pears from winter cellars. 
+Most of what you survey is hardly worth a copper, but the weary harvest this
+harsh weather reaps leaves them little choice.  
+~
+0 1048576 1
+E
+sign~
+You may check your BALANCE, make a DEPOSIT, or WITHDRAW during all bank
+hours.  
+~
+D3
+~
+~
+0 0 14165
+S
+#14168
+Village of Alindaer~
+Here you find a peaceful haven away from the steady flow of mule-driven
+wagons, travellers and marching patrols.  According to the townsfolk, the
+village of Alindaer has lain beside the river almost as long as Tar Valon
+has occupied its island.  Yet, its been completely sacked and put to the
+torch on many occassions during various wars against the Aes Sedai.  
+~
+0 0 0
+E
+sign~
+Asaf's Steak House is open for business from 8 to 12 in the morning and 1
+to 7 in the afternoon.  
+~
+D1
+~
+~
+0 0 14165
+S
+#14169
+Thoroughfare of Alindaer~
+Small red brick houses are built all along the road right up to the
+river's edge, where, to the north, fishing boats are tethered to a small
+network of piers.  A pleasant breeze rolls in from the water.  
+~
+0 0 0
+D0
+~
+~
+0 0 14170
+D2
+~
+~
+0 0 14165
+S
+#14170
+Thoroughfare of Alindaer~
+To the north-east, the foot of a white bridge stretches over the east
+side of River Erinin and arches straight to the walls that surround the
+island of Tar Valon, The tops of the high walls of gleaming white,
+silver-streaked stone look down on the bridge's height.  At intervals, guard
+towers interrupt the walls, their massive footings washed by the river.  
+~
+0 0 0
+D0
+~
+~
+0 0 14171
+D2
+~
+~
+0 0 14169
+S
+#14171
+Foot of the Bridge~
+Often a place thronging with crowds, the bridge begins a long arch over
+the half mile or more of the River Erinin.  Guards posted at the foot
+carefully check everyone who wants to cross.  
+~
+0 0 0
+D1
+~
+~
+0 0 14172
+D2
+~
+~
+0 0 14170
+S
+#14172
+Bridge Over the Alindrelle~
+Striking, the bridge is an architectural wonder.  The openwork walls look
+intricate enough to tax the best craftswoman at her lace-frame.  It hardly
+seems that such could have been done with stone, or that it could stand even
+its own weight.  
+~
+0 0 0
+D1
+~
+~
+0 0 14173
+D3
+~
+~
+0 0 14171
+S
+#14173
+Bridge Over the Alindrelle~
+The river rolls, strong and steady, fifty or more paces below, and for
+all its half mile length the bridge flows unsupported from riverbank to
+island.  The bridge has room and some to spare for ten men to walk abreast. 
+A tall, bronze-clad gate stands between the bridge and Tar Valon to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 14174
+D3
+~
+~
+0 0 14172
+S
+#14174
+Gate to Alindaer~
+The busiest gate in the city rises in the wall here, allowing passage of
+most of the trade from Caemlyn.  The White Cliffs of Tar Valon rise above
+the worn stones of the road down Air Avenue to the east.  Stunningly, the
+White Tower looms past them in the horizon.  
+~
+0 0 0
+D1
+~
+~
+0 0 14175
+D2
+~
+~
+0 0 14193
+D3
+~
+~
+0 0 14173
+S
+#14175
+Air Avenue~
+The buildings lining this street seem to have been designed to look
+windswept, portrayed as though wind is to be funneled between them.  As a
+result, even in perfect stillness a sense of movement fills the air, and a
+rustle of air can almost be heard.  To the west lies Alindear Gate and,
+beyond that, the Dragonmount rises in the distance.  
+~
+0 0 0
+D1
+~
+~
+0 0 14176
+D3
+~
+~
+0 0 14174
+S
+#14176
+Air Avenue~
+Along this avenue, the buildings become grand and spacious.  Their white
+rooftops are curved and rounded, giving them the appearance of clouds.  The
+road widens up a bit and the buildings seem to lean back a little so that
+the open sky can fall down on the avenue.  Running north and south, Merchant
+Street intersects with Air Avenue.  
+~
+0 0 0
+D1
+~
+~
+0 0 14177
+D3
+~
+~
+0 0 14175
+S
+#14177
+Air Avenue~
+Here, along Air Avenue, one can view the White Cliffs of Tar Valon.  The
+buildings along this avenue are superbly crafted and intricately decorated. 
+From the Alindear Gate, one could almost mistake them for real cliffs.  The
+avenue ends to the east at Tower Square but continues along to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 14178
+D3
+~
+~
+0 0 14176
+S
+#14178
+Tower Square~
+At this corner of the square, the dazzling buildings of Tar Valon
+surround the square.  In the center of the square is the White Tower, walled
+off from the rest of the city.  To the south Air Avenue flows into the
+square from Alindaer Gate in the southwest section of the city.  The square
+continues to the north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 14179
+D1
+~
+~
+0 0 14185
+D2
+~
+~
+0 0 14177
+S
+#14179
+Tower Square~
+Here the Tower Square faces the western section of the city.  The White
+Tower rises up from the center of the walled off square.  To the west
+Westside Avenue heads towards Darien Gate.  To the east lies the western
+gate into the tower grounds.  The square continues to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 14180
+D2
+~
+~
+0 0 14178
+S
+#14180
+Tower Square~
+This is the north,west corner of the square.  In the center of the square
+is the White Tower, walled off from the rest of the city.  To the north
+Water Avenue leads to the Jualdhe Gate.  The square continues to the east
+and south.  
+~
+0 0 0
+D1
+~
+~
+0 0 14181
+D2
+~
+~
+0 0 14179
+S
+#14181
+Tower Square~
+You are standing in the northern section of a vast square.  In the center
+of the square is the great tower which is walled off from the rest of Tar
+Valon.  To the north a large boulevard opens up leading to the Northharbor. 
+To the south you see the northern gate into the tower grounds.  The square
+continues to the east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 14182
+D3
+~
+~
+0 0 14180
+S
+#14182
+Tower Square~
+Here at the northeast corner of the Tower Square, the great city rises up
+all around.  In the center of the square is the White Tower, walled off from
+the rest of the city.  To the north Earth Avenue leads off to the Luagde
+Gate.  The square continues west and south.  
+~
+0 0 0
+D2
+~
+~
+0 0 14183
+D3
+~
+~
+0 0 14181
+S
+#14183
+Tower Square~
+This side of the square faces the eastern section of Tar Valon.  In the
+walled off square is the White Tower, overlooking the whole city.  Great
+avenues converge on the square from the north and south while Eastside
+Avenue heads directly east towards Daghain Gate.  To the west lies the
+eastern gate into the tower grounds.  The square continues to the north and
+south.  
+~
+0 0 0
+D0
+~
+~
+0 0 14182
+D2
+~
+~
+0 0 14184
+S
+#14184
+Tower Square~
+Here the city sprawls forth from the square.  Fire Avenue blazes its way
+from the south towards this southeast corner of the square.  Looking down
+along Fire Avenue, the Osenrein Gate is visible in the horizon.  The walled
+off tower lies in the center of the Tower Square.  The square continues to
+the north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 14183
+D3
+~
+~
+0 0 14185
+S
+#14185
+Tower Square~
+This side of the square is the southern section of the Tower Square.  In
+the center is the walled off White Tower.  To the south a large boulevard
+opens up leading to the Southharbor.  To the north you see the southern gate
+of the tower grounds.  The square continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 14184
+D2
+~
+~
+0 0 14186
+D3
+~
+~
+0 0 14178
+S
+#14186
+South Harbor Boulevard~
+Here, Southharbor Boulevard starts out of Tower Square and heads south to
+the harbor.  To the south, you see a crowd of people milling around a large
+square.  Farther south, you can make out the many ships docked in the harbor
+and, beyond that, the River Erinin.  
+~
+0 0 0
+D0
+~
+~
+0 0 14185
+D2
+~
+~
+0 0 14187
+S
+#14187
+Merchant Square~
+Perhaps the most crowded place in all of Tar Valon, the square is packed
+with people shopping along Merchant Square.  In the square is a fountain,
+which some people lean against to rest or merely watch all that is
+surrounding them.  The White Tower lies a bit to the north, but people take
+no more notice of it than the other buildings along the road.  
+~
+0 0 0
+D0
+~
+~
+0 0 14186
+D2
+~
+~
+0 0 14188
+S
+#14188
+South Harbor Boulevard~
+Heading south of Merchant Square, the great paving squares of the
+boulevard slowly turn into cobblestone.  South of here is the man-made part
+of the city.  Some parts were completed two thousand years after the Ogier
+left.  The cobblestone road leads south toward the harbor.  The rabble and
+ruckus of an inn beckons one from the east.  There is a bank to the west,
+newly-built 
+~
+0 0 0
+D0
+~
+~
+0 0 14187
+D2
+~
+~
+0 0 14189
+S
+#14189
+South Harbor Boulevard~
+The difference between the Ogier craftmanship and the human workmanship
+becomes apparent heading south towards the harbor.  The human builders tried
+to duplicate the Ogier work.  The buildings are extravagent, but to the
+point of being gaudy, however.  A small alley leads off to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 14188
+D2
+~
+~
+0 0 14190
+S
+#14190
+South Harbor Boulevard~
+To the south the boulevard ends in an arch, which leads into Southharbor.
+The cobblestone road, rare in this Ogier made city, is the result of man's
+failure to reconstruct large paving squares.  The street continues to the
+north, heading, like most roads, towards the tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 14189
+D2
+~
+~
+0 0 14191
+S
+#14191
+South Harbor~
+A large wharf surrounds the harbor, which leads into the River Erinin to
+the south.  Two large gatehouses at the end of the Shining Walls guard the
+mouth of the harbor.  Off to the east and west, dock workers move busily
+around on the wharf, while a large boulevard leads north towards the White
+Tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 14190
+D1
+~
+~
+0 0 14195
+D3
+~
+~
+0 0 14192
+S
+#14192
+Southern Wharf~
+Ships line the wood and stone length of the harbor, homes for their
+sailors, often seen scurrying around loading and unloading treasures from
+their travels.  While this dock would be considered clean by the standards
+of most ports, it is obviously considered seedy by the citizens of Tar
+Valon, and at night is less than well lit.  
+~
+0 0 0
+D0
+~
+~
+0 0 14194
+D1
+~
+~
+0 0 14191
+S
+#14193
+Alindrelle Way~
+A warmth seems to emanate from the bright white walls along the street,
+reflecting whatever light is present several times.  Between the rising
+buildings, the street heads south towards Southharbor while, to the north,
+the way flows into an intersection where a bronze-clad gate allows access to
+and from the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 14174
+D2
+~
+~
+0 0 14194
+S
+#14194
+Alindrelle Way~
+Waves of light dance off the buildings along the road, making them seem
+almost waterlike, as light glints off a river at midday.  Looking south, the
+side of a large wharf can be seen, obviously Southharbor.  Several large
+ships can be seen docked to the wharf.  In the other direction, the street
+runs along the walls to the western gates and North Harbor.  
+~
+0 0 0
+D0
+~
+~
+0 0 14193
+D2
+~
+~
+0 0 14192
+S
+#14195
+Southern Warf~
+Dock workers scurry around, unloading and loading ships from Tear and
+other cities down river.  While most cities would consider the wharf very
+clean, for Tar Valon, it is considered a bit seedy.  At night, this part of
+the city is one of the few places that is not very well lit, thus attracting
+unsavory characters.  Nevertheless, people say the Aes Sedai take care of
+those who break the law.  
+~
+0 0 0
+D3
+~
+~
+0 0 14191
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

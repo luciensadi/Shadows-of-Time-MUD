@@ -1,0 +1,2833 @@
+#AREADATA
+Name Ishamael's Quest Area~
+Builders None~
+VNUMs 2001 2200
+Credits `4[`7 None `4]`7 Brona     Test Area~
+Security 10
+Flags F
+Version 4
+End
+
+
+
+#MOBILES
+#2001
+jesus~
+Jesus~
+Jesus is here.
+~
+The man standing here, with a `8black`* mask over his face, is ready and
+willing to throw the switch.  One word from Brona, is all it takes.  
+~
+unique~
+0 0
+ABGJKabde 0 0 0 32768 -1  0 0
+350 0 10d10+40000 200d20+2 0d0+0 none
+0 0 0 0
+0 BCDa 0 0
+stand stand none 0
+V ACDEGHIJK giant unknown
+#2002
+lesser wolf~
+Lesser Wolf~
+A lesser wolf appears to be indifferent.
+~
+~
+wolf~
+0 0
+ABTUZe 320 64 0 1 -1  0 0
+1 1000 1d1+31999 0d0+0 0d0+0 none
+0 0 0 0
+FHR CDE 0 0
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+M ACT 2001 disarms~
+#2003
+greater wolf~
+A greater wolf~
+A greater wolf is here.
+~
+~
+aiel~
+0 0
+ABTZe 320 1104 0 32769 -1  0 0
+60 800 25000d1+3000 30000d5+5000 1d1+0 none
+-4 -4 -4 -4
+FHU CD 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#2004
+accepted sister of the tower~
+Accepted sister of the Tower~
+A sister to the Accepted of the White Tower is here.
+~
+~
+wolf~
+0 0
+ABTUZe 320 80 0 1 -1  0 0
+1 1000 1d1+31999 0d0+0 0d0+0 none
+0 0 0 0
+FHR CDE 0 0
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+#2005
+Aes Sedai sister of the Tower~
+Sister Aes Sedai~
+An Aes Sedai sister is here training.
+~
+~
+aiel~
+0 0
+ABTe 320 1104 0 32769 -1  0 0
+60 800 25000d1+3000 30000d5+5000 1d1+0 none
+-4 -4 -4 -4
+FHU CD 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#2006
+sitter of the ajahs~
+A Sitter of the Ajahs~
+A Sitter of the Ajahs is here to train with the Amyrlin.
+~
+~
+aiel~
+0 0
+ABJKTZabde 336 1104 0 1 -1  0 0
+200 800 25000d1+3000 0d0+0 1d1+0 none
+-4 -4 -4 -4
+FHU CD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#2007
+Amyrlin Guard~
+Amyrlin guard~
+The Amyrlin guard is here.
+~
+~
+unique~
+0 0
+ABTZe 49488 80 0 32896 -1  -1000 0
+300 128 20000d1+0 9000d1+0 100d1+150 none
+-120 -120 -120 -120
+CDEFHKO ABFPTXb CDFIJ a
+stand stand male  400
+G ACDEJKLQUV medium unknown
+M ACT 2006 smile~
+M ACT 2002 peer~
+#2060
+Mighty Mouse~
+Mighty Mouse~
+Mighty Mouse is here.
+~
+~
+unique~
+0 0
+ABFGYZe 336 1088 1 8193 -1  1000 0
+100 150 25000d1+1 15000d1+1 250d1+1 none
+-100 -100 -100 -100
+AFHKO AB KLXYZb 0
+stand stand none 1
+GHV ACDEFHJKQU small unknown
+#2061
+liono~
+liono~
+Liono is here.
+~
+~
+unique~
+0 0
+ABFGYe 256 1088 0 5 -1  1000 0
+105 160 25000d1+3000 10000d1+1 250d1+1 none
+-120 -120 -120 -120
+EGHKN AILPb BNYa 0
+stand stand none 1
+CGHV ABCDEFGHIJK medium unknown
+#2062
+he-man~
+he-man~
+He-man is here.
+~
+~
+unique~
+0 0
+ABFGY 256 1088 17408 3 -1  1000 0
+110 170 25000d1+5000 15000d1+500 250d2+1 none
+-125 -125 -125 -125
+CDFJK MOPQT CD J
+stand stand none 2
+HMV ABCDEFGHIJK medium unknown
+#2063
+Ultra Magnus~
+Ultra Magnus~
+Ultra Magnus is here.
+~
+~
+unique~
+0 0
+ABFGY 256 0 1 32769 -1  1000 0
+115 175 38000d1+1 15000d1+1 250d2+25 none
+-130 -130 -130 -140
+AFHK ABOb EFGJ 0
+stand stand none 2
+CHZ ABCDEFGHIJKUVX medium unknown
+#2064
+papa smurf~
+Papa Smurf~
+Papa Smurf is here.
+~
+~
+unique~
+0 0
+ABFGY 256 64 128 1 -1  1000 0
+120 180 40000d1+1 20000d1+1 250d2+20 none
+-120 -120 -120 -140
+AEFHJK AB FGHJK 0
+stand stand none 0
+HV ABCDEFGHIJK medium unknown
+#2065
+G.I. Joe~
+G.I. Joe~
+G.I. Joe is here.
+~
+~
+unique~
+0 0
+ABFGY 256 64 16384 32771 -1  1000 0
+125 185 45000d1+1 15000d1+500 250d1+50 none
+-120 -120 -120 -135
+FHK ABGQZab CNO 0
+stand stand none 0
+CHV ABCEFGHK large unknown
+#2066
+Master Splinter~
+Master Splinter~
+Master Splinter is here.
+~
+~
+bat~
+0 0
+ABFGY 336 8256 16513 5 -1  1000 0
+125 190 50000d1+1 10000d1+1 250d2+1 none
+-130 -130 -130 -130
+DFHKNO ABEP CDb LS
+stand stand none 0
+ACGHV ACDEFHJK medium unknown
+F par P
+#2067
+Bugs Bunny~
+Bugs Bunny~
+Bugs Bunny is here.
+~
+~
+rabbit~
+0 0
+ABFGY 336 1024 16512 1025 -1  1000 0
+120 190 75000d1+1 10000d1+5000 200d1+50 none
+0 0 0 0
+ABFGHK ABEM C 0
+stand stand none 10
+AGHV ACDEFHJK medium unknown
+#2068
+Xavier~
+xavier~
+Xavier is here.
+~
+~
+damane~
+0 0
+ABFGYe 49488 10304 16384 8 -1  1000 0
+130 205 100000d1+1 30000d1+1 250d2+1 none
+-200 -200 -200 -210
+FGHJKO AB CDb 0
+stand stand none 500
+AGHV ACDEFJKQV large unknown
+#2126
+Oil Can Harry~
+Oil Can Harry~
+Oil Can Harry is here.
+~
+~
+unique~
+0 0
+ABFGYZe 336 1088 1 8193 -1  -1000 0
+100 150 25000d1+1 15000d1+1 250d1+1 none
+-100 -100 -100 -100
+AFHKO AB KLXYZb 0
+stand stand none 1
+GHV ACDEFHJKQU small unknown
+#2127
+Murma~
+murma~
+Murma is here.
+~
+~
+unique~
+0 0
+ABFGYe 256 1088 0 5 -1  -1000 0
+105 160 25000d1+3000 10000d1+1 250d1+1 none
+-120 -120 -120 -120
+EGHKN AILPb BNYa 0
+stand stand none 1
+CGHV ABCDEFGHIJK medium unknown
+#2128
+Skeletor~
+skeletor~
+Skeletor is here.
+~
+~
+unique~
+0 0
+ABFGY 256 1088 17408 3 -1  1000 0
+110 170 25000d1+5000 15000d1+500 250d2+1 none
+-125 -125 -125 -125
+CDFJK MOPQT CD J
+stand stand none 2
+HMV ABCDEFGHIJK medium unknown
+#2129
+megatron~
+megatron~
+Megatron is here.
+~
+~
+unique~
+0 0
+ABFGY 256 0 1 32769 -1  -1000 0
+115 175 38000d1+1 15000d1+1 250d2+25 none
+-130 -130 -130 -140
+AFHK ABOb EFGJ 0
+stand stand none 2
+CHZ ABCDEFGHIJKUVX medium unknown
+#2130
+gargamel~
+gargamel~
+Gargamel is here.
+~
+~
+unique~
+0 0
+ABFGY 256 64 128 1 -1  -1000 0
+120 180 40000d1+1 20000d1+1 250d2+20 none
+-120 -120 -120 -140
+AEFHJK AB FGHJK 0
+stand stand none 0
+HV ABCDEFGHIJK medium unknown
+#2131
+Cobra Commander~
+Cobra Commander~
+Cobra Commander is here
+~
+~
+unique~
+0 0
+ABFGY 336 64 16384 32771 -1  -1000 0
+125 185 45000d1+1 15000d1+500 250d1+50 none
+-120 -120 -120 -135
+FHK ABGQZab CNO 0
+stand stand none 0
+CHV ABCEFGHK large unknown
+#2132
+shredder~
+shredder~
+Shredder is here.
+~
+~
+bat~
+0 0
+ABFGY 336 8256 16513 5 -1  -1000 0
+125 190 50000d1+1 10000d1+1 250d2+1 none
+-130 -130 -130 -130
+DFHKNO ABEP CDb LS
+stand stand none 0
+ACGHV ACDEFHJK medium unknown
+F par P
+#2133
+Yosemite Sam~
+Yosemite Sam~
+Yosemite Sam is here.
+~
+~
+rabbit~
+0 0
+ABFGY 336 1024 16512 1025 -1  -1000 0
+120 190 75000d1+1 10000d1+5000 200d1+50 none
+0 0 0 0
+ABFGHK ABEM C 0
+stand stand none 10
+AGHV ACDEFHJK medium unknown
+#2134
+Magneto~
+Magneto~
+Magneto is here.
+~
+~
+damane~
+0 0
+ABFGYe 49488 10304 16384 9 -1  -1000 0
+130 205 100000d1+1 30000d1+1 250d2+1 none
+-200 -200 -200 -210
+FGHJKO AB CDb 0
+stand stand none 500
+AGHV ACDEFJKQV large unknown
+#2135
+good statue brona~
+good statue brona~
+A GOOD statue of Brona.
+~
+~
+unique~
+0 0
+ABGae 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#2136
+evil statue brona~
+evil statue brona~
+An EVIL statue of Brona
+~
+~
+unique~
+0 0
+ABGae 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#2001
+fountain~
+fountain~
+An ash covered fountain gushes forth here.~
+wood~
+fountain 0 0
+0
+-100 -100 'blood' 0 0
+0 0 0 P
+ T 0 none~
+#2002
+sparkling wand~
+a sparkling wand~
+A sparkling wand is here.~
+unknown~
+wand ABILTa AO
+0
+110 30 30 'call lightning' 20
+75 10 200 P
+ T 0 none~
+#2003
+brona builder badge~
+brona's Builder Badge~
+A badge showing that the wearer has been given clearance to build on Shadows of Time.~
+unknown~
+armor AOTd AD
+0
+CEFGHI CEFGHI CEFGHI CEFGHI 0
+110 150 100000 P
+A
+18 130
+A
+19 130
+A
+20 -100
+A
+13 2000
+A
+12 2000
+ T 0 none~
+#2004
+healer key~
+key to Healer in Brona's Room~
+A key lies here that looks like it might fit a door.~
+unknown~
+key TU 0
+0
+0 0 0 0 0
+150 10 0 P
+A
+20 -10
+A
+20 -10
+ T 0 none~
+#2005
+amyrlin's training key~
+amyrlin's training key~
+A nondescript key glows pink here.~
+gold~
+key 0 AO
+0
+0 0 0 0 0
+70 0 0 P
+A
+12 100
+ T 0 none~
+#2006
+shimmering gateway~
+a shimmering gateway~
+A shimmering gateway hovers above the ground, never wavering.~
+unknown~
+portal AB 0
+0
+0 0 0 EFHILN 0
+77 0 0 P
+ T 0 none~
+#2007
+keeper's key~
+keeper's room key~
+A nondescript key glows pink here.~
+gold~
+key 0 AO
+0
+0 0 0 0 0
+70 0 0 P
+A
+12 100
+ T 0 none~
+#2008
+legend boot blue guard~
+`&(`1Legendary`&) `$B`8lue `$G`8uard `$B`8oots`*~
+A Legendary Object is lying here~
+unknown~
+armor GHIYd AG
+0
+ACEF CEF CEF BCEF 0
+150 100 5000 P
+A
+18 15
+A
+19 15
+A
+20 -10
+A
+17 -10
+ T 0 none~
+#2009
+legend shield red guard~
+`&(`$Legendary`&) `!R`8ed `!G`8uard `!S`8hield`*~
+A Legendary Object is lying here~
+unknown~
+armor GIYd AJ
+0
+ABEF ABEF CEF BCEF 0
+150 100 5000 P
+A
+20 -10
+A
+18 15
+A
+19 15
+A
+17 -10
+ T 0 none~
+#2010
+smoking roach clip~
+`!(`8Smoking`!) `!R`*oach `!C`*lip`*~
+A small alligator looking clip lies here with a butt of a joint in it.~
+unknown~
+armor Yd AO
+0
+BDF BDF BDF BDF 0
+110 0 30000 P
+A
+18 10
+A
+19 10
+A
+20 -5
+A
+20 -5
+A
+14 -40
+A
+13 35
+ T 0 none~
+#2011
+smoking gas mask~
+`!(`8Smoking`!) `@G`2as `@M`2ask`*~
+A mask is smoking here.~
+unknown~
+armor Yad AR
+0
+BDF BDF BDF BDF 0
+110 30 0 P
+A
+18 8
+A
+19 8
+A
+20 -8
+A
+13 48
+ T 0 none~
+#2012
+lenna kiwi~
+`&(`5Luscious`&) `2K`@i`2w`@i`*~
+A luscious green fruit lies here.~
+unknown~
+pill 0 A
+0
+75 'heal' 'heal' 'bless' 'reserved'
+25 0 0 P
+ T 0 none~
+#2013
+legend shield blue guard~
+`&(`!Legendary`&) `$B`8lue `$G`8uard `$S`8hield`*~
+A Legendary Object is lying here~
+unknown~
+armor GIYd AJ
+0
+CEF ACEF CEF BCEF 0
+150 100 5000 P
+A
+20 -10
+A
+18 15
+A
+19 15
+A
+17 -10
+ T 0 none~
+#2014
+enchanted keyring lords~
+`&(`6Enchanted`&) `!K`8eyring `!o`8f `!t`8he `!L`8ords`*~
+A strange, glowing keyring lies here.~
+unknown~
+keyring ABTYad AU
+0
+500 0 0 0 0
+150 10 0 P
+A
+14 -15
+A
+13 75
+A
+17 -40
+A
+18 4
+A
+19 4
+A
+20 -4
+ T 0 none~
+#2015
+wolfsbane~
+wolfsbane~
+Wolfsbane is nearby.~
+unknown~
+weapon HMNZ AN
+0
+exotic 0 0 none 0
+1 100 0 P
+A
+19 -3
+ T 0 none~
+#2016
+legend shield red guard~
+`&(`1Legendary`&) `!R`8ed `!G`8uard `!S`8hield`*~
+A Legendary Object is lying here~
+unknown~
+armor GIYd AJ
+0
+BEF BEF BEF BEF 0
+150 100 5000 P
+A
+17 -2
+A
+13 120
+A
+12 40
+A
+20 -10
+ T 0 none~
+#2017
+legend elite red guard tattoo~
+`&(`$Legendary`&) `!E`8lite `!R`8ed `!G`8uard`* tattoo~
+A Legendary Object is lying here~
+unknown~
+armor GIYd AM
+0
+ABEF ABEF ABEF ABEF 0
+150 100 5000 P
+A
+12 35
+A
+20 -12
+A
+13 120
+ T 0 none~
+#2018
+legend elite blue guard tattoo~
+`&(`!Legendary`&) `$E`8lite `$B`8lue `$G`8uard`* tattoo~
+A Legendary Object is lying here~
+unknown~
+armor GIYd AM
+0
+CEF ACEF CEF BCEF 0
+150 100 5000 P
+A
+20 -10
+A
+18 15
+A
+19 15
+A
+17 -10
+ T 0 none~
+#2020
+quest locker~
+quest locker~
+The quest locker is filled with prizes.~
+unknown~
+container HTYZa 0
+0
+1000 ABCD 2021 100000000 200
+150 0 0 P
+ T 0 none~
+#2021
+quest locker key~
+quest locker key~
+The quest locker key is here.~
+unknown~
+key Td AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#2060
+good portal~
+good portal~
+GOOD mob portal~
+unknown~
+portal 0 0
+0
+0 0 0 CDL 0
+0 0 0 P
+ T 0 none~
+#2121
+evil portal~
+evil portal~
+EVIL mob portal~
+unknown~
+portal 0 0
+0
+0 0 0 ADGL 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#2050
+null~
+~
+0 146817024 0
+S
+#2051
+Mob Room~
+~
+0 0 0
+S
+#2060
+Cartoon Land Entrance (good)~
+The room you have just entered is like nothing you have ever seen.  The
+walls are swirling with color and the faces of your childhood.  Scooby Doo
+swirls by follwed by Shaggy and the Mystery Machine.  You hear some insane
+laughing in the background that resembles Woody Woodpecker, and an
+overwhelming aroma of a skunk, as Pepe Le Pew dances across the room before
+you.  You are in Cartoon Land!  But forewarned travellers, this place is not
+like anything you have experienced before, and these strange, yet wonderous
+cartoons do not take kindly to humans tredding within the animated world
+they call home!  
+~
+0 0 0
+D2
+~
+~
+0 0 2061
+S
+#2061
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2060
+D1
+~
+~
+0 0 2062
+D2
+~
+~
+0 0 2064
+D3
+~
+~
+0 0 2063
+S
+#2062
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2061
+S
+#2063
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2061
+S
+#2064
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2061
+D2
+~
+~
+0 0 2065
+S
+#2065
+Mighty Mouse~
+~
+0 0 0
+D0
+~
+~
+0 0 2064
+D2
+~
+~
+0 0 2066
+S
+#2066
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2065
+D2
+~
+~
+0 0 2067
+S
+#2067
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2066
+D1
+~
+~
+0 0 2069
+D2
+~
+~
+0 0 2070
+D3
+~
+~
+0 0 2068
+S
+#2068
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2067
+S
+#2069
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2067
+S
+#2070
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2067
+D2
+~
+~
+0 0 2071
+S
+#2071
+Liono~
+~
+0 0 0
+D0
+~
+~
+0 0 2070
+D2
+~
+~
+0 0 2072
+S
+#2072
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2071
+D2
+~
+~
+0 0 2073
+S
+#2073
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2072
+D1
+~
+~
+0 0 2075
+D2
+~
+~
+0 0 2076
+D3
+~
+~
+0 0 2074
+S
+#2074
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2073
+M 1000 H 1000
+S
+#2075
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2073
+M 1000 H 1000
+S
+#2076
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2073
+D2
+~
+~
+0 0 2077
+S
+#2077
+He-Man~
+~
+0 0 0
+D0
+~
+~
+0 0 2076
+D2
+~
+~
+0 0 2078
+S
+#2078
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2077
+D2
+~
+~
+0 0 2079
+S
+#2079
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2078
+D1
+~
+~
+0 0 2081
+D2
+~
+~
+0 0 2082
+D3
+~
+~
+0 0 2080
+S
+#2080
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2079
+S
+#2081
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2079
+S
+#2082
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2079
+D2
+~
+~
+0 0 2083
+S
+#2083
+Ultra Magnus~
+~
+0 0 0
+D0
+~
+~
+0 0 2082
+D2
+~
+~
+0 0 2084
+S
+#2084
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2083
+D2
+~
+~
+0 0 2085
+S
+#2085
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2084
+D1
+~
+~
+0 0 2086
+D2
+~
+~
+0 0 2088
+D3
+~
+~
+0 0 2087
+S
+#2086
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2085
+M 2000 H 2000
+S
+#2087
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2085
+M 2000 H 2000
+S
+#2088
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2085
+D2
+~
+~
+0 0 2089
+S
+#2089
+Papa Smurf~
+~
+0 0 0
+D0
+~
+~
+0 0 2088
+D2
+~
+~
+0 0 2090
+S
+#2090
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2089
+D2
+~
+~
+0 0 2091
+S
+#2091
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2090
+D1
+~
+~
+0 0 2093
+D2
+~
+~
+0 0 2094
+D3
+~
+~
+0 0 2092
+S
+#2092
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2091
+M 1000 H 1000
+S
+#2093
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2091
+M 1000 H 1000
+S
+#2094
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2091
+D2
+~
+~
+0 0 2095
+S
+#2095
+G.I. Joe~
+~
+0 0 0
+D0
+~
+~
+0 0 2094
+D2
+~
+~
+0 0 2096
+S
+#2096
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2095
+D2
+~
+~
+0 0 2097
+S
+#2097
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2096
+D1
+~
+~
+0 0 2098
+D2
+~
+~
+0 0 2100
+D3
+~
+~
+0 0 2099
+S
+#2098
+Cartoon Land~
+~
+0 0 0
+D3
+~
+~
+0 0 2097
+S
+#2099
+Cartoon Land~
+~
+0 0 0
+D1
+~
+~
+0 0 2097
+S
+#2100
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2097
+D2
+~
+~
+0 0 2101
+S
+#2101
+Master Splinter~
+~
+0 0 0
+D0
+~
+~
+0 0 2100
+D2
+~
+~
+0 0 2102
+S
+#2102
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2101
+D2
+~
+~
+0 0 2103
+S
+#2103
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2102
+D1
+~
+~
+0 0 2104
+D2
+~
+~
+0 0 2106
+D3
+~
+~
+0 0 2105
+S
+#2104
+Cartoon Land~
+~
+0 0 0
+D3
+~
+~
+0 0 2103
+S
+#2105
+Cartoon Land~
+~
+0 0 0
+D1
+~
+~
+0 0 2103
+S
+#2106
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2103
+D2
+~
+~
+0 0 2107
+S
+#2107
+Bugs Bunny~
+~
+0 0 0
+D0
+~
+~
+0 0 2106
+D2
+~
+~
+0 0 2108
+S
+#2108
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2107
+D2
+~
+~
+0 0 2109
+S
+#2109
+Cartoon Land Approaching the Boss~
+~
+0 0 0
+D0
+~
+~
+0 0 2108
+D1
+~
+~
+0 0 2110
+D2
+~
+~
+0 0 2112
+D3
+~
+~
+0 0 2111
+S
+#2110
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2109
+M 2000 H 2000
+S
+#2111
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2109
+M 2000 H 2000
+S
+#2112
+Xavier's Circle of Power~
+~
+0 8388608 0
+D0
+~
+~
+0 0 2113
+D2
+~
+~
+0 0 2114
+S
+#2113
+Side Room~
+~
+0 0 0
+D2
+~
+~
+0 0 2112
+S
+#2114
+Xavier~
+~
+0 4 0
+D0
+~
+~
+0 0 2112
+D1
+~
+~
+0 0 2117
+D2
+~
+~
+0 0 2119
+D3
+~
+~
+0 0 2115
+S
+#2115
+Xavier's Circle of Power~
+~
+0 8388608 0
+D1
+~
+~
+0 0 2114
+D3
+~
+~
+0 0 2116
+S
+#2116
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2115
+M 1000 H 1000
+S
+#2117
+Xavier's Circle of Power~
+~
+0 8388608 0
+D1
+~
+~
+0 0 2118
+D3
+~
+~
+0 0 2114
+S
+#2118
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2117
+M 1000 H 1000
+S
+#2119
+Xavier's Circle of Power~
+~
+0 8388608 0
+D0
+~
+~
+0 0 2114
+D2
+~
+~
+0 0 2120
+S
+#2120
+Side Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2119
+S
+#2121
+Cartoon Land Entrance (evil)~
+The room you have just entered is like nothing you have ever seen.  The
+walls are swirling with color and the faces of your childhood.  Scooby Doo
+swirls by follwed by Shaggy and the Mystery Machine.  You hear some insane
+laughing in the background that resembles Woody Woodpecker, and an
+overwhelming aroma of a skunk, as Pepe Le Pew dances across the room before
+you.  You are in Cartoon Land!  But forewarned travellers, this place is not
+like anything you have experienced before, and these strange, yet wonderous
+cartoons do not take kindly to humans tredding within the animated world
+they call home!  
+~
+0 0 0
+D2
+~
+~
+0 0 2122
+S
+#2122
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2121
+D1
+~
+~
+0 0 2123
+D2
+~
+~
+0 0 2125
+D3
+~
+~
+0 0 2124
+S
+#2123
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2122
+M 1000 H 1000
+S
+#2124
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2122
+M 1000 H 1000
+S
+#2125
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2122
+D2
+~
+~
+0 0 2126
+S
+#2126
+Oil Can Harry~
+~
+0 0 0
+D0
+~
+~
+0 0 2125
+D2
+~
+~
+0 0 2127
+S
+#2127
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2126
+D2
+~
+~
+0 0 2128
+S
+#2128
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2127
+D1
+~
+~
+0 0 2129
+D2
+~
+~
+0 0 2131
+D3
+~
+~
+0 0 2130
+S
+#2129
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2128
+S
+#2130
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2128
+S
+#2131
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2128
+D2
+~
+~
+0 0 2132
+S
+#2132
+Murma~
+~
+0 0 0
+D0
+~
+~
+0 0 2131
+D2
+~
+~
+0 0 2133
+S
+#2133
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2132
+D2
+~
+~
+0 0 2134
+S
+#2134
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2133
+D1
+~
+~
+0 0 2135
+D2
+~
+~
+0 0 2137
+D3
+~
+~
+0 0 2136
+S
+#2135
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2134
+M 1000 H 1000
+S
+#2136
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2134
+M 1000 H 1000
+S
+#2137
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2134
+D2
+~
+~
+0 0 2138
+S
+#2138
+Skeletor~
+~
+0 0 0
+D0
+~
+~
+0 0 2137
+D2
+~
+~
+0 0 2139
+S
+#2139
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2138
+D2
+~
+~
+0 0 2140
+S
+#2140
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2139
+D1
+~
+~
+0 0 2142
+D2
+~
+~
+0 0 2143
+D3
+~
+~
+0 0 2141
+S
+#2141
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2140
+S
+#2142
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2140
+S
+#2143
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2140
+D2
+~
+~
+0 0 2144
+S
+#2144
+Megatron~
+~
+0 0 0
+D0
+~
+~
+0 0 2143
+D2
+~
+~
+0 0 2145
+S
+#2145
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2144
+D2
+~
+~
+0 0 2146
+S
+#2146
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2145
+D1
+~
+~
+0 0 2147
+D2
+~
+~
+0 0 2149
+D3
+~
+~
+0 0 2148
+S
+#2147
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2146
+M 2000 H 2000
+S
+#2148
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2146
+M 2000 H 2000
+S
+#2149
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2146
+D2
+~
+~
+0 0 2150
+S
+#2150
+Gargamel~
+~
+0 0 0
+D0
+~
+~
+0 0 2149
+D2
+~
+~
+0 0 2151
+S
+#2151
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2150
+D2
+~
+~
+0 0 2152
+S
+#2152
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2151
+D1
+~
+~
+0 0 2154
+D2
+~
+~
+0 0 2155
+D3
+~
+~
+0 0 2153
+S
+#2153
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2152
+M 1000 H 1000
+S
+#2154
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2152
+M 1000 H 1000
+S
+#2155
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2152
+D2
+~
+~
+0 0 2156
+S
+#2156
+Cobra Commander~
+~
+0 0 0
+D0
+~
+~
+0 0 2155
+D2
+~
+~
+0 0 2157
+S
+#2157
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2156
+D2
+~
+~
+0 0 2158
+S
+#2158
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2157
+D1
+~
+~
+0 0 2160
+D2
+~
+~
+0 0 2161
+D3
+~
+~
+0 0 2159
+S
+#2159
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2158
+M 1000 H 1000
+S
+#2160
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2158
+M 1000 H 1000
+S
+#2161
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2158
+D2
+~
+~
+0 0 2162
+S
+#2162
+Shredder~
+~
+0 0 0
+D0
+~
+~
+0 0 2161
+D2
+~
+~
+0 0 2163
+S
+#2163
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2162
+D2
+~
+~
+0 0 2164
+S
+#2164
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2163
+D1
+~
+~
+0 0 2166
+D2
+~
+~
+0 0 2167
+D3
+~
+~
+0 0 2165
+S
+#2165
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2164
+M 1000 H 1000
+S
+#2166
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2164
+M 2000 H 1000
+S
+#2167
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2164
+D2
+~
+~
+0 0 2168
+S
+#2168
+Yosemite Sam~
+~
+0 0 0
+D0
+~
+~
+0 0 2167
+D2
+~
+~
+0 0 2169
+S
+#2169
+Cartoon Land~
+~
+0 0 0
+D0
+~
+~
+0 0 2168
+D2
+~
+~
+0 0 2170
+S
+#2170
+Cartoon Land Approaching the Boss~
+~
+0 0 0
+D0
+~
+~
+0 0 2169
+D1
+~
+~
+0 0 2172
+D2
+~
+~
+0 0 2173
+D3
+~
+~
+0 0 2171
+S
+#2171
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2170
+M 2000 H 2000
+S
+#2172
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2170
+M 2000 H 2000
+S
+#2173
+Magneto's Circle of Power~
+~
+0 8388608 0
+D0
+~
+~
+0 0 2174
+D2
+~
+~
+0 0 2175
+S
+#2174
+Side Room~
+~
+0 0 0
+D2
+~
+~
+0 0 2173
+S
+#2175
+Magneto~
+~
+0 4 0
+D0
+~
+~
+0 0 2173
+D1
+~
+~
+0 0 2178
+D2
+~
+~
+0 0 2180
+D3
+~
+~
+0 0 2176
+S
+#2176
+Magento's Circle of Power~
+~
+0 8388608 0
+D1
+~
+~
+0 0 2175
+D3
+~
+~
+0 0 2177
+S
+#2177
+Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2176
+M 100 H 1000
+S
+#2178
+Magneto's Circle of Power~
+~
+0 8388608 0
+D1
+~
+~
+0 0 2179
+D3
+~
+~
+0 0 2175
+S
+#2179
+Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2178
+M 1000 H 100
+S
+#2180
+Magneto's Circle of Power~
+~
+0 8388608 0
+D0
+~
+~
+0 0 2175
+D2
+~
+~
+0 0 2181
+S
+#2181
+Side Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2180
+S
+#2001
+`1Within the Ruined Healing Chamber~
+Several trollocs, and fades are gathered within this destroyed and dark
+healing chamber of old.  The once beautiful marble walls, are tainted with
+blood and soot.  Torn bearskin rugs cover the floor, stained with dirt and
+filth.  The chamber is engulfed with a dreadful silence, that seems to ache
+your bones.  To the north is a broken arched doorway that leads into a
+fairly large room, filled with men and women wearing tattered cloaks.  
+~
+0 0 0
+E
+this~
+The room is dark, except a solitary spotlight from above.  It illuminates an ackward chair, situated in the center of the room.
+You aren't sure, but you get the feeling that it's a very bad thing to be strapped into that chair.
+~
+D2
+~
+~
+0 0 2002
+S
+#2002
+`1The Remains to A Healing Chamber~
+The area is engulfed in flames, from the massive fires that roar to the
+south from the burning buildings, and from the large piles of burning
+corpses.  To the north stands a once beautiful and strong chamber, is
+stained from smoke, and soot from the roaring fires to the south.  The
+outerwalls are covered by faded paintings, that appear to be of battles long
+ago from the Age of Legends.  An overall sense of depression and fear hangs
+over this place, as peasants and townsfolk slowly mill about with sad and
+glum looks playing over their faces.  Blood stained marble steps lead up to
+the entrance of the training grounds.  
+~
+0 0 0
+D0
+~
+~
+0 0 2001
+D2
+~
+~
+0 0 2003
+M 10000 H 10000
+S
+#2003
+`1The Destroyed Northern Square~
+Burning stalls of all kinds of size encompass this section of the square.
+The area is filled with smokes, and commotion as raging fires engulf burning
+bodies.  Within the center of this area is a large fountain, that gushes a
+crimson colored liquid which appears to be blood.  To the north you can see
+a crumbling building, and to the south you can see the remains of the
+falling White Bridge.  The whole area is dwarfed in smoke, as the fires
+continue to roar.  To the east you can make out the area of where an inn
+once stood, its remnants slowly burning.  
+~
+0 0 0
+D0
+~
+~
+0 0 2002
+D1
+~
+~
+0 0 2004
+M 5000 H 5000
+S
+#2004
+`1The Remnants of the Wayfarer's Rest Inn~
+This once spacious inn doesn't appear to have been one of the more
+friendlier establishments in White Bridge.  The ground is covered with ash,
+and dirt from where the walls collapsed from the fires.  A few bones litter
+the ground, if the race of them is unknown.  To the west lies the remaining
+section of a wall, and the doorway.  
+~
+0 0 0
+D1
+~
+~
+0 0 2005
+D3
+~
+~
+0 0 2003
+M 0 H 0
+S
+#2005
+BLANK~
+~
+0 1024 0
+D3
+~
+~
+0 0 2004
+S
+#2006
+Archway Leading into the Training Area~
+~
+0 0 0
+D1
+~
+~
+4 30007 2007
+D3
+~
+~
+0 30007 30510
+S
+#2007
+Hallway to the Courtyard~
+~
+0 138412032 0
+D0
+~
+~
+0 0 2012
+D1
+~
+~
+0 0 2008
+D2
+~
+~
+0 0 2019
+D3
+~
+~
+4 30007 2006
+S
+#2008
+Hallway to the Courtyard~
+~
+0 138412032 0
+D0
+~
+~
+0 0 2009
+D1
+~
+~
+4 2005 2013
+D2
+~
+~
+4 2007 2014
+D3
+~
+~
+0 0 2007
+S
+#2009
+Study Room of the Aes Sedai~
+~
+0 138412032 0
+D2
+~
+~
+0 0 2008
+S
+#2010
+Wolfpack Training Room~
+The walls here are a crimson hue.  The floor is well trodden earth, from
+years of training.  The only exit is to the east, through an archway.
+~
+0 205520896 0
+D3
+~
+~
+0 0 13104
+S
+#2011
+Wolfpack Training Room~
+The walls here are a crimson hue.  The floor is well trodden earth, from
+years of training.  The only exit is to the east, through an archway.
+~
+0 205520896 0
+D1
+~
+~
+0 0 13104
+S
+#2012
+Study Room of the Accepted~
+~
+0 138412032 0
+D2
+~
+~
+0 0 2007
+S
+#2013
+Amyrlin's Private Meeting Chamber~
+~
+0 155190272 0
+D3
+~
+~
+4 2005 2008
+S
+#2014
+Keeper's Private Meeting Chamber~
+~
+0 155190276 0
+D0
+~
+~
+4 2007 2008
+S
+#2015
+Aes Sedai Prison Cell~
+~
+0 140517388 0
+D3
+~
+~
+4 30008 30612
+S
+#2016
+Aes Sedai Prison Cell~
+~
+0 140517388 0
+D1
+~
+~
+4 30008 30612
+S
+#2017
+Aes Sedai Prison Cell~
+~
+0 140517388 0
+D3
+~
+~
+4 30008 30613
+S
+#2018
+Aes Sedai Prison Cell~
+~
+0 140517388 0
+D1
+~
+~
+4 30008 30613
+S
+#2019
+Dimly Light Hallway~
+~
+0 138412032 0
+D2
+~
+~
+0 0 2021
+S
+#2020
+Gedland's Store~
+`?  This aint your normal everyday store.  This place got GOOD and RARE
+items.  Price might be high, but you won't find them anywhere.  So save QPs
+up and buy, or get the hell out of my store!  
+~
+0 1024 0
+D2
+~
+~
+0 0 3303
+D4
+~
+~
+0 0 3386
+D5
+~
+~
+0 0 3383
+S
+#2021
+Dimly Light Hallway~
+~
+0 138412032 0
+D0
+~
+~
+0 0 2019
+D1
+~
+~
+0 0 2022
+S
+#2022
+Dimly Light Hallway~
+~
+0 138412032 0
+D1
+~
+~
+1 0 2023
+D3
+~
+~
+0 0 2021
+S
+#2023
+A Small Room~
+~
+0 0 0
+D3
+~
+~
+1 0 2022
+S
+#0
+
+
+
+#SPECIALS
+M 2062 spec_executioner
+M 2063 spec_cast_mage
+M 2064 spec_cast_undead
+M 2065 spec_breath_gas
+M 2066 spec_illuminator
+M 2067 spec_cast_adept
+M 2068 spec_breath_any_but_acid
+M 2128 spec_executioner
+M 2129 spec_cast_mage
+M 2130 spec_cast_undead
+M 2131 spec_breath_gas
+M 2132 spec_illuminator
+M 2133 spec_cast_adept
+M 2134 spec_breath_any_but_acid
+M 2001 spec_questmaster
+M 2006 spec_questmaster
+M 2007 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 2006 1 2
+D 0 2007 3 2
+D 0 2008 1 2
+D 0 2008 2 2
+D 0 2013 3 2
+D 0 2014 0 2
+D 0 2015 3 2
+D 0 2016 1 2
+D 0 2017 3 2
+D 0 2018 1 2
+D 0 2022 1 1
+D 0 2023 3 1
+M 0 2135 1 2060 1 100 Load good statue brona
+M 0 2061 1 2071 1 100 Load liono
+M 0 2062 1 2077 1 100 Load he-man
+M 0 2063 1 2083 1 100 Load Ultra Magnus
+M 0 2064 1 2089 1 100 Load Papa Smurf
+M 0 2065 1 2095 1 100 Load G.I. Joe
+M 0 2066 1 2101 1 100 Load Master Splinter
+M 0 2067 1 2107 1 100 Load Bugs Bunny
+M 0 2068 1 2114 1 100 Load xavier
+M 0 2136 1 2121 1 100 Load evil statue brona
+M 0 2126 1 2126 1 100 Load Oil Can Harry
+M 0 2127 1 2132 1 100 Load murma
+M 0 2128 1 2138 1 100 Load skeletor
+M 0 2129 1 2144 1 100 Load megatron
+M 0 2130 1 2150 1 100 Load gargamel
+M 0 2131 1 2156 1 100 Load Cobra Commander
+M 0 2132 1 2162 1 100 Load shredder
+M 0 2133 1 2168 1 100 Load Yosemite Sam
+M 0 2134 1 2175 1 100 Load Magneto
+O 0 2001 0 2003 0 100 Fountain loaded to `1The Destroyed Northern Square
+M 0 30020 1 2006 1 100 Load Rachel
+E 0 30007 0 19 0 100 Key to the training hall is loaded held in the hands of Rachel
+M 0 30019 1 2007 1 100 Load Rachel's apprentice
+M 0 2007 1 2008 1 100 Load Amyrlin guard
+E 0 2005 0 19 0 100 Amyrlin's training key is loaded held in the hands of Amyrlin guard
+E 0 2007 0 20 0 100 Keeper's room key is loaded floating nearby of Amyrlin guard
+M 0 2005 4 2009 4 100 Load Sister Aes Sedai
+M 0 2003 8 2010 4 100 Load A greater wolf
+M 0 2003 8 2010 4 100 Load A greater wolf
+M 0 2003 8 2010 4 100 Load A greater wolf
+M 0 2003 8 2010 4 100 Load A greater wolf
+M 0 2002 8 2011 4 100 Load Lesser Wolf
+E 0 2015 0 17 0 100 Wolfsbane is loaded wielded of Lesser Wolf
+M 0 2002 8 2011 4 100 Load Lesser Wolf
+E 0 2015 0 17 0 100 Wolfsbane is loaded wielded of Lesser Wolf
+M 0 2002 8 2011 4 100 Load Lesser Wolf
+E 0 2015 0 17 0 100 Wolfsbane is loaded wielded of Lesser Wolf
+M 0 2002 8 2011 4 100 Load Lesser Wolf
+E 0 2015 0 17 0 100 Wolfsbane is loaded wielded of Lesser Wolf
+M 0 2004 4 2012 4 100 Load Accepted sister of the Tower
+M 0 2006 1 2013 1 100 Load A Sitter of the Ajahs
+O 0 2006 0 2023 0 100 A shimmering gateway loaded to A Small Room
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#2001
+if level $n < 78
+mob kill $n
+else mob mload 2222
+if name $n brona
+mob cast 'heal' $n
+else
+mob transfer $n pella
+endif
+~
+#2002
+~
+#2003
+if clan $n sedai
+say Light illumine you, $n.
+mob transfer $n pella
+else yell INTRUDER!!!
+break
+endif
+~
+#2004
+if clan $n sedai
+whisper $n Be on your way then, $n.
+mob transfer $n Alvera
+else
+yell There is an intruder in the White Tower!
+break
+endif
+~
+#2005
+if clan $n sedai
+whisp $n Please sac this before leaving the White Tower.
+remove key
+give key $n
+load obj 30008
+else
+say You have escaped the prisons!!
+kill $n
+break
+endif
+~
+#2006
+if clan $n sedai
+if rank $n 6
+say As you wish Amyrlin.
+remove amyrlin
+give amyrlin $n
+endif
+if rank $n 5
+say As you wish Keeper.
+remove keeper
+give keeper $n
+else
+say I'm sorry you are not privvy to this item, $n.
+endif
+else
+say You are a visitor and require the accompaniment of an Aes Sedai, $n.
+endif
+~
+#2008
+if clan $n sedai
+whisp $n Safe journey, $n.
+mob transfer $n yellow
+else
+say You do not belong here, $n.
+endif
+~
+#2009
+if rank $n 'amyrlin'
+mob transfer $n 13
+else
+say Fack off.
+break
+~
+#0
+
+#OBJPROGS
+#2001
+if level $n < 78
+mob kill $n
+if name $n != brona
+mob transfer $n pella
+else
+null
+else
+mob cast 'heal' $n
+endif
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,3477 @@
+#AREADATA
+Name Shadar Logoth~
+Builders Demandred Sellers~
+VNUMs 17101 17500
+Credits `4[`* Hard `4]`* Demandred      Shadar Logoth~
+Security 10
+Flags EF
+Version 4
+End
+
+
+
+#MOBILES
+#17101
+Trolloc~
+A large, angry, horned trolloc~
+A large, angry, horned trolloc stands around looking angry
+~
+~
+unique~
+0 0
+AGTc 34000 0 0 0 -1  -1500 0
+140 125 1000d2+400 10d1+5 50d2+80 claw
+-100 -100 -100 -100
+CEFU ABPZ Q JN
+stand stand none 10000
+V ABCDEFHJKWY medium unknown
+#17102
+Trolloc~
+A medium-sized winged trolloc~
+A medium-sized winged trolloc looks hungry
+~
+~
+unique~
+0 0
+AT 32768 0 0 0 -1  -1300 0
+120 110 1000d2+400 0d0+0 50d2+60 bite
+90 90 90 90
+CEFU AB Q JN
+stand stand none 0
+V ABCDFHKW medium unknown
+#17103
+Trolloc~
+A short, hairy trolloc~
+A short, hairy trolloc hovers in the air
+~
+~
+unique~
+0 0
+AGTc 32768 0 0 0 -1  -1200 0
+130 115 5000d5+375 0d0+0 55d1+50 prick
+-10 -90 -75 -120
+EIU ABQZ Hb JNY
+stand stand none 0
+V ABCEFJKPW medium unknown
+#17104
+Fade~
+A shadowy figure~
+A shadowy figure seems to fade in and out of sight
+~
+~
+unique~
+0 0
+AFGRTc 33156 1136 0 0 -1  -2000 0
+160 150 5000d5+1500 2000d2+1000 60d2+50 slash
+-96 -98 -100 -120
+ACGP ABQ b EJN
+stand stand none 10000
+V ABCDEFGHIK medium unknown
+#17105
+Fade~
+A shadowy figure~
+A shadowy figure is whipping a trolloc
+~
+~
+unique~
+0 0
+AFGRc 256 1088 0 0 -1  -2100 0
+140 170 1250d2+500 100d5+3000 50d3+30 whip
+-110 -120 -80 -130
+P AB C EJN
+stand stand none 0
+V ABCIJKV medium unknown
+#17106
+Warder~
+A Warder~
+A Warder sits sharpening his blade, preparing to do battle.
+~
+~
+shienar~
+0 0
+AGTc 16464 32 0 0 -1  700 0
+150 130 1300d2+300 0d0+0 40d4+20 slash
+-120 -100 -100 -80
+EFIKQ AB LQ b
+stand stand male  0
+AHM ABCDEFGHIJK medium unknown
+F for V
+#17107
+Blue Sedai~
+A Blue Sedai~
+A Blue Sedai nervously rubs her shawl.
+~
+~
+illian~
+0 0
+AGRc 80 0 0 0 -1  800 0
+140 130 1000d3+300 5000d5+1000 75d2+20 magic
+-90 -90 -90 -120
+AQ AB IL EFG
+stand stand female 0
+AHM ABCDEFGHIJK medium unknown
+F for V
+#17108
+Green Sedai~
+A Green Sedai~
+A Green Sedai holds an angreal
+~
+~
+tarabon~
+0 0
+AGRc 80 0 0 0 -1  600 0
+140 150 1100d3+100 3000d5+320 40d5+30 magic
+-80 -80 -80 -140
+AQ AB CN EFG
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#17109
+Yellow Sedai~
+A Yellow Sedai~
+A Yellow Sedai sits reading a book
+~
+~
+andor~
+0 0
+AGRc 80 0 0 0 -1  650 0
+142 96 200d20+300 10000d3+1000 50d3+20 magic
+-75 -92 -75 -130
+AQ AB CN EFG
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#17110
+White Sedai~
+A White Sedai~
+A White Sedai is talking to herself
+~
+~
+murandy~
+0 0
+AGRc 80 0 0 0 -1  714 0
+120 100 100d40+300 10000d3+1000 50d4+30 magic
+-74 -78 -82 -110
+0 AB CQ EFG
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#17111
+Red Sedai~
+A Red Sedai~
+A Red Sedai seems nervous
+~
+~
+andor~
+0 0
+AGRc 80 1024 0 0 -1  -800 0
+140 129 100d60+1000 10000d10+1000 75d5+5 magic
+-90 -90 -90 -110
+AQ AB C EFG
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#17112
+Brown Sedai~
+A Brown Sedai~
+A Brown Sedai reads a book
+~
+~
+tarabon~
+0 0
+AGRc 80 0 0 0 -1  700 0
+143 80 50d120+800 2000d1000+500 40d5+20 magic
+-60 -80 -70 -120
+AQ AB CL EFGR
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#17113
+Gray Sedai~
+A Gray Sedai~
+A Gray Sedai is writing on a paper
+~
+~
+murandy~
+0 0
+AGRc 128 0 0 0 -1  600 0
+138 130 100d100+200 4000d1000+1000 50d10+10 magic
+-80 -70 -75 -140
+AQ AB CL EFG
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#17114
+Black Sedai~
+A strange looking Sedai~
+A Strange looking Sedai is sharpening a knife
+~
+~
+altara~
+0 0
+AGRc 0 1024 0 0 -1  -2000 0
+160 170 2000d200+1000 4000d1000+1000 25d4+10 magic
+-90 -90 -90 -120
+AH AB Cb EFGN
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#17115
+Accepted~
+An Accepted~
+An Accepted waits for directions
+~
+~
+illian~
+0 0
+AGc 80 0 0 0 -1  100 0
+110 80 800d5+100 3000d100+1000 12d5+1 magic
+-60 -50 -60 -90
+0 AB C EFG
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#17116
+Alivia~
+Alivia~
+Alivia paces about, searching for danger
+~
+She is medium height with fine lines at the corners of her blue eyes and
+some white in her golden yellow hair.  Her eyes scan the surroundings with
+the perceptiveness of a hawk.  On one arm is a bracelet connected to four
+rings.  One her other arm is a bracelet with red stones.  A ring with a pale
+green stone is on her pinky finger.  From her waist is a jeweled belt.  
+~
+seanchan~
+0 0
+AGRc 472 0 0 0 -1  750 0
+165 150 2000d2+1000 3000d5+300 100d3+40 magic
+-100 -100 -100 -120
+FHK ABKP CIPb EFG
+stand stand female 300000
+AHMV ABCDEFGHIJK medium unknown
+#17117
+al'Lan Mandragoran~
+A tall, gray-haired Malkier Warder~
+A tall, gray-haired Malkier Warder sits on a rock, studying the area for enemies
+~
+He is tall with long hair which is gray at the temples, held back from
+his face by a narrow leather band.  The face seems made from stony planes
+and angles, weathered but unlined despite the gray in his hair.  
+~
+shienar~
+0 0
+ABGc 16664 8272 0 0 -1  800 0
+170 165 4000d2+700 500d2+100 50d6+30 slash
+-110 -110 -115 -95
+CEFHIJKN ABb EFG CJ
+stand stand male  14000
+AHMV ABCDEFGHIJK medium unknown
+#17118
+drey changed this~
+A tired looking young man~
+A tired looking young man appears determined to accomplish his mission
+~
+The young man looks like an Aiel, yet he is dressed like an Andorian.  He
+has gray eyes and a reddish tint to his hair.  He is 6'6" and about 235
+pounds.  In one hand, he holds a figure of a man, which seems to be glowing
+and melting.  In his other hand, he has a crystal sword which seems
+familiar.  
+~
+aiel~
+0 0
+AGc 336 8256 0 8192 -1  100 0
+160 200 3000d4+1000 4000d5+1000 25d8+70 none
+-110 -90 -100 -125
+FK AB b EKM
+stand stand male  50000
+AHMV ABCDEFGHIJK medium unknown
+#17119
+Asha'man~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#17120
+Dedicated~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#17121
+Soldier~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 K 0 0
+stand stand none 0
+0 0 medium unknown
+#17122
+Darkfriend~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#17123
+Forsaken~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#17124
+Ghost~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#17125
+nothing~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#17126
+Mashadar~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#17127
+Mordeth~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#17101
+sword~
+sword~
+Sword~
+unknown~
+weapon J AN
+0
+sword 76 1 drain CEG
+150 0 0 P
+A
+19 10
+A
+18 10
+ T 0 none~
+#17110
+The Evil Egg~
+an evil egg, get rid of it quick or you will lose~
+(no description)~
+EVILE~
+token ABEd AP
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#17101
+Town Square~
+Sellers vnums 17101 - 17500
+Mobs: Trollocs, Fades, Mandeshar (Multiple Ones), Sedai, Warders, Vermin, Asha, Random people.
+Avoid: Booknames of major chars.
+Mashadar
+~
+0 0 0
+D0
+~
+~
+0 0 17111
+D1
+~
+~
+0 0 17102
+D2
+~
+~
+0 0 17116
+D3
+~
+~
+0 0 17106
+S
+#17102
+Eastern Road~
+~
+0 0 0
+D1
+~
+~
+0 0 17103
+D3
+~
+~
+0 0 17101
+S
+#17103
+Eastern Road~
+~
+0 0 0
+D1
+~
+~
+0 0 17104
+D3
+~
+~
+0 0 17102
+S
+#17104
+Eastern Road~
+~
+0 0 0
+D1
+~
+~
+0 0 17105
+D3
+~
+~
+0 0 17103
+S
+#17105
+Eastern Road~
+~
+0 0 0
+D3
+~
+~
+0 0 17104
+S
+#17106
+Western Road~
+The center of old Aridhol lies a short distance to the east.  The view
+towards the west is shrouded in mist.  A short distance of road is visible,
+but after that, nothing can be seen.  Towards the north lies a big lagoon,
+which must have held some of Aridhol's drinking supply before the shadow
+fell.  Now, the lagoon is covered in vines, swarming with flies, and a
+strange odor fills the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 17101
+D3
+~
+~
+0 0 17107
+S
+#17107
+Western Road~
+Off in the distance to the west, mountains are visible, shrouded with
+mist, but they can still be seen by a careful observer.  A short distance to
+the east, the center of town can be seen.  Roads that once bustled with
+traffic are now empty and seem neglected.  Off to the right of the road, an
+entrance to the vast tunnels of Aridhol is open.  
+~
+0 0 0
+D1
+~
+~
+0 0 17106
+D3
+~
+~
+0 0 17108
+D5
+~
+~
+0 0 17228
+S
+#17108
+Western Road~
+To the west liest the outskirts of town.  To the east, a slightly worn
+path heads into town.  Along the side of the path is a fallen monument, one
+that memorialized a great friendship between Manetheren and Aridohl.  
+~
+0 0 0
+D1
+~
+~
+0 0 17107
+D3
+~
+~
+0 0 17109
+S
+#17109
+Western Road~
+The road runs through the field heading both east and west.  To the west
+lies the outskirts of town.  To the east, the center of town.  Off towards
+the north, a statute lies on the ground, fallen from years of neglect.  
+~
+0 0 0
+D1
+~
+~
+0 0 17108
+D3
+~
+~
+0 0 17110
+S
+#17110
+Western Road~
+The road seems to be overtaken by many weeds.  To the west lies the edge
+of town.  Occasionally, a wolf howls as if it is hunting something.  In the
+middle of the road, covered by rocks, is a metal grate that leads to the
+underground tunnels of Shadar Logoth.
+~
+0 0 1
+D1
+~
+~
+0 0 17109
+D5
+~
+~
+0 0 17233
+S
+#17111
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 17112
+D2
+~
+~
+0 0 17101
+S
+#17112
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 17113
+D2
+~
+~
+0 0 17111
+S
+#17113
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 17114
+D2
+~
+~
+0 0 17112
+S
+#17114
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 17115
+D2
+~
+~
+0 0 17113
+S
+#17115
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 17121
+D2
+~
+~
+0 0 17114
+S
+#17116
+Southern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 17101
+D1
+~
+~
+0 0 17155
+D2
+~
+~
+0 0 17117
+D3
+~
+~
+0 0 17313
+S
+#17117
+Southern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 17116
+D1
+~
+~
+0 0 17321
+D2
+~
+~
+0 0 17118
+D3
+~
+~
+0 0 17322
+S
+#17118
+Southern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 17117
+D2
+~
+~
+0 0 17119
+D3
+~
+~
+0 0 17323
+S
+#17119
+Southern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 17118
+D2
+~
+~
+0 0 17120
+S
+#17120
+Southern Road~
+To the north lies Aridhol, once a great nation but now, it lies ruined,
+corrupted by the Shadow's taint beyond any hope of redemption.  This road
+goes no further towards the south, after here, trees can grow again.  Off to
+the side of the road is a fallen sign, the letters written in some language
+lost to time.  
+~
+0 0 0
+D0
+~
+~
+0 0 17119
+S
+#17121
+Palace Gate~
+~
+0 0 0
+D0
+~
+~
+0 0 17122
+D2
+~
+~
+0 0 17115
+S
+#17122
+Palace Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 17137
+D1
+~
+~
+0 0 17123
+D2
+~
+~
+0 0 17121
+S
+#17123
+Palace Grounds~
+~
+0 0 0
+D1
+~
+~
+0 0 17124
+D3
+~
+~
+0 0 17122
+S
+#17124
+Palace Grounds~
+~
+0 0 0
+D1
+~
+~
+0 0 17125
+D3
+~
+~
+0 0 17123
+S
+#17125
+Palace Grounds~
+~
+0 0 0
+D1
+~
+~
+0 0 17126
+D3
+~
+~
+0 0 17124
+S
+#17126
+Palace Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 17127
+D3
+~
+~
+0 0 17125
+S
+#17127
+Palace Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 17128
+D2
+~
+~
+0 0 17126
+S
+#17128
+Palace Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 17129
+D2
+~
+~
+0 0 17127
+S
+#17129
+Palace Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 17130
+D2
+~
+~
+0 0 17128
+S
+#17130
+Palace Grounds~
+~
+0 0 0
+D2
+~
+~
+0 0 17129
+D3
+~
+~
+0 0 17131
+S
+#17131
+Palace Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 17139
+D1
+~
+~
+0 0 17130
+D3
+~
+~
+0 0 17132
+S
+#17132
+Palace Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 17138
+D1
+~
+~
+0 0 17131
+D3
+~
+~
+0 0 17133
+S
+#17133
+Palace Grounds~
+~
+0 0 0
+D1
+~
+~
+0 0 17132
+D3
+~
+~
+0 0 17134
+S
+#17134
+Palace Grounds~
+~
+0 0 0
+D1
+~
+~
+0 0 17133
+D2
+~
+~
+0 0 17135
+S
+#17135
+Palace Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 17134
+D2
+~
+~
+0 0 17136
+S
+#17136
+Palace Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 17135
+D2
+~
+~
+0 0 17137
+S
+#17137
+Palace Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 17136
+D2
+~
+~
+0 0 17122
+S
+#17138
+A Garden~
+~
+0 4 0
+D0
+~
+~
+0 0 17140
+D1
+~
+~
+0 0 17139
+D2
+~
+~
+0 0 17132
+S
+#17139
+A Garden~
+~
+0 0 0
+D0
+~
+~
+0 0 17141
+D2
+~
+~
+0 0 17131
+D3
+~
+~
+0 0 17138
+S
+#17140
+Palace Entrance~
+~
+0 0 0
+D0
+~
+~
+0 0 17143
+D2
+~
+~
+0 0 17138
+D4
+~
+~
+0 0 17164
+S
+#17141
+Palace Entrance~
+~
+0 0 0
+D0
+~
+~
+0 0 17142
+D2
+~
+~
+0 0 17139
+S
+#17142
+A Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17146
+D1
+~
+~
+0 0 17150
+D2
+~
+~
+0 0 17141
+S
+#17143
+A Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17144
+D2
+~
+~
+0 0 17140
+D3
+~
+~
+0 0 17161
+S
+#17144
+A Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17145
+D2
+~
+~
+0 0 17143
+D3
+~
+~
+0 0 17162
+S
+#17145
+A Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17153
+D2
+~
+~
+0 0 17144
+D3
+~
+~
+0 0 17163
+S
+#17146
+A Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17147
+D1
+~
+~
+0 0 17149
+D2
+~
+~
+0 0 17142
+S
+#17147
+A Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17151
+D1
+~
+~
+0 0 17148
+D2
+~
+~
+0 0 17146
+S
+#17148
+A Gaming Room~
+~
+0 0 0
+D3
+~
+~
+0 0 17147
+S
+#17149
+A Library~
+~
+0 0 0
+D3
+~
+~
+0 0 17146
+S
+#17150
+A Bestiary~
+~
+0 0 0
+D3
+~
+~
+0 0 17142
+S
+#17151
+Waiting Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17152
+D2
+~
+~
+0 0 17147
+D3
+~
+~
+0 0 17153
+S
+#17152
+Throne Room~
+~
+0 0 0
+D2
+~
+~
+0 0 17151
+D3
+~
+~
+0 0 17154
+S
+#17153
+Waiting Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17154
+D1
+~
+~
+0 0 17151
+D2
+~
+~
+0 0 17145
+S
+#17154
+Throne Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17234
+D1
+~
+~
+0 0 17152
+D2
+~
+~
+0 0 17153
+S
+#17155
+Clinic Entrance~
+~
+0 0 0
+D1
+~
+~
+1 0 17156
+D3
+~
+~
+0 0 17116
+D5
+~
+~
+0 0 17214
+S
+#17156
+Waiting Room~
+~
+0 0 0
+D1
+~
+~
+0 0 17157
+D3
+~
+~
+1 0 17155
+S
+#17157
+Treating Room #1~
+~
+0 1024 0
+D1
+~
+~
+0 0 17159
+D3
+~
+~
+0 0 17156
+D4
+~
+~
+0 0 17158
+S
+#17158
+Treating Room #2~
+~
+0 1024 0
+D1
+~
+~
+0 0 17160
+D5
+~
+~
+0 0 17157
+S
+#17159
+Restroom~
+~
+0 0 0
+D3
+~
+~
+0 0 17157
+S
+#17160
+Supply Closet~
+~
+0 0 0
+D3
+~
+~
+0 0 17158
+S
+#17161
+A Library~
+~
+0 0 0
+D1
+~
+~
+0 0 17143
+S
+#17162
+An Aviary~
+~
+0 0 0
+D1
+~
+~
+0 0 17144
+S
+#17163
+A Study~
+~
+0 0 0
+D1
+~
+~
+0 0 17145
+S
+#17164
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17181
+D1
+~
+~
+0 0 17168
+D2
+~
+~
+0 0 17205
+D3
+~
+~
+0 0 17165
+D4
+~
+~
+0 0 17206
+D5
+~
+~
+0 0 17140
+S
+#17165
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17183
+D1
+~
+~
+0 0 17164
+D2
+~
+~
+0 0 17204
+D3
+~
+~
+0 0 17166
+S
+#17166
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17202
+D1
+~
+~
+0 0 17165
+D2
+~
+~
+0 0 17203
+D3
+~
+~
+0 0 17167
+S
+#17167
+A Curve in the Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17180
+D1
+~
+~
+0 0 17166
+S
+#17168
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17182
+D1
+~
+~
+0 0 17169
+D3
+~
+~
+0 0 17164
+S
+#17169
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17184
+D1
+~
+~
+0 0 17170
+D3
+~
+~
+0 0 17168
+S
+#17170
+A Curve in the Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17171
+D3
+~
+~
+0 0 17169
+S
+#17171
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17172
+D1
+~
+~
+0 0 17186
+D2
+~
+~
+0 0 17170
+D3
+~
+~
+0 0 17185
+S
+#17172
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17173
+D1
+~
+~
+0 0 17188
+D2
+~
+~
+0 0 17171
+D3
+~
+~
+0 0 17187
+S
+#17173
+A Curve in the Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 17172
+D3
+~
+~
+0 0 17174
+S
+#17174
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17189
+D1
+~
+~
+0 0 17173
+D2
+~
+~
+0 0 17190
+D3
+~
+~
+0 0 17175
+S
+#17175
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17191
+D1
+~
+~
+0 0 17174
+D2
+~
+~
+0 0 17192
+D3
+~
+~
+0 0 17176
+S
+#17176
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17193
+D1
+~
+~
+0 0 17175
+D2
+~
+~
+0 0 17194
+D3
+~
+~
+0 0 17177
+S
+#17177
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17195
+D1
+~
+~
+0 0 17176
+D2
+~
+~
+0 0 17196
+D3
+~
+~
+0 0 17178
+S
+#17178
+A Curve in the Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 17177
+D2
+~
+~
+0 0 17179
+S
+#17179
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17178
+D1
+~
+~
+0 0 17199
+D2
+~
+~
+0 0 17180
+D3
+~
+~
+0 0 17198
+S
+#17180
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17179
+D1
+~
+~
+0 0 17201
+D2
+~
+~
+0 0 17167
+D3
+~
+~
+0 0 17200
+S
+#17181
+Soldier's Barracks~
+~
+0 0 0
+D2
+~
+~
+0 0 17164
+S
+#17182
+A Training Room~
+~
+0 0 0
+D2
+~
+~
+0 0 17168
+S
+#17183
+An Armory~
+~
+0 0 0
+D2
+~
+~
+0 0 17165
+S
+#17184
+A Guest Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 17169
+S
+#17185
+A Guest Bedroom~
+~
+0 0 0
+D1
+~
+~
+0 0 17171
+S
+#17186
+A Reading Room~
+~
+0 0 0
+D3
+~
+~
+0 0 17171
+S
+#17187
+A Bath~
+~
+0 0 0
+D1
+~
+~
+0 0 17172
+S
+#17188
+A Lounge~
+~
+0 0 0
+D3
+~
+~
+0 0 17172
+S
+#17189
+Soldier's Barracks~
+~
+0 0 0
+D2
+~
+~
+0 0 17174
+S
+#17190
+A Guest Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 17174
+S
+#17191
+A Warroom~
+~
+0 0 0
+D2
+~
+~
+0 0 17175
+S
+#17192
+Servant's Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 17175
+S
+#17193
+A Workroom~
+~
+0 0 0
+D2
+~
+~
+0 0 17176
+S
+#17194
+Craftsman's Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 17176
+S
+#17195
+A Laundry Room~
+~
+0 0 0
+D2
+~
+~
+0 0 17177
+S
+#17196
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17177
+S
+#17198
+An Ogier Guest Room~
+~
+0 0 0
+D1
+~
+~
+0 0 17179
+S
+#17199
+An Ogier Guest Room~
+~
+0 0 0
+D3
+~
+~
+0 0 17179
+S
+#17200
+Aes Sedai Guest Room~
+~
+0 0 0
+D1
+~
+~
+0 0 17180
+S
+#17201
+A Meal Hall~
+~
+0 0 0
+D3
+~
+~
+0 0 17180
+S
+#17202
+Warder's Quarters~
+~
+0 0 0
+D2
+~
+~
+0 0 17166
+S
+#17203
+Warder's Training Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17166
+S
+#17204
+A Lounge~
+~
+0 0 0
+D0
+~
+~
+0 0 17165
+S
+#17205
+An Exercise Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17164
+S
+#17206
+Entrance to the Royal Quarters~
+~
+0 0 0
+D0
+~
+~
+1 0 17207
+D5
+~
+~
+0 0 17164
+S
+#17207
+A Foyer~
+~
+0 0 0
+D0
+~
+~
+0 0 17212
+D1
+~
+~
+0 0 17208
+D2
+~
+~
+1 0 17206
+D3
+~
+~
+0 0 17210
+D4
+~
+~
+0 0 17213
+S
+#17208
+A Royal Bedroom~
+~
+0 0 0
+D1
+~
+~
+0 0 17209
+D3
+~
+~
+0 0 17207
+S
+#17209
+A Royal Bath~
+~
+0 0 0
+D3
+~
+~
+0 0 17208
+S
+#17210
+A Strategy Room~
+~
+0 0 0
+D1
+~
+~
+0 0 17207
+D3
+~
+~
+0 0 17211
+S
+#17211
+A Toilet~
+~
+0 0 0
+D1
+~
+~
+0 0 17210
+S
+#17212
+Children's Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 17207
+S
+#17213
+The Treasury~
+~
+0 0 0
+D5
+~
+~
+0 0 17207
+S
+#17214
+Underground Entrance~
+~
+0 0 0
+D4
+~
+~
+0 0 17155
+D5
+~
+~
+0 0 17215
+S
+#17215
+The Start of a Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 17217
+D1
+~
+~
+0 0 17226
+D4
+~
+~
+0 0 17214
+S
+#17217
+A Small Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17218
+D2
+~
+~
+0 0 17215
+S
+#17218
+A Fork in the Tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 17219
+D2
+~
+~
+0 0 17217
+S
+#17219
+A Path through the Tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 17221
+D3
+~
+~
+0 0 17218
+S
+#17220
+Southern Road~
+~
+0 4 0
+S
+#17221
+A Path through the Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 17222
+D1
+~
+~
+0 0 17224
+D3
+~
+~
+0 0 17219
+S
+#17222
+A Circular Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17223
+D2
+~
+~
+0 0 17221
+S
+#17223
+A Dead End~
+~
+0 0 0
+D2
+~
+~
+0 0 17222
+S
+#17224
+A Hideout~
+~
+0 0 0
+D3
+~
+~
+0 0 17221
+D5
+~
+~
+0 0 17225
+S
+#17225
+A Treasure Room~
+~
+0 0 0
+D4
+~
+~
+0 0 17224
+S
+#17226
+A Path through the Tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 17227
+D3
+~
+~
+0 0 17215
+S
+#17227
+Cave-in~
+~
+0 0 0
+D3
+~
+~
+0 0 17226
+S
+#17228
+A Entrance to the Tunnels~
+The room is about 5 feet by 5 feet.  Near the center of the room lies a
+broken, dust-covered table.  On the floor are some old crumbled bits of
+papers.  Off against the back wall lies a broken weapon stand, where guards
+likely rested kept their weapons while sitting on guard duty protecting
+against sneak invasions from the Enemy.  There appear to be three ways out
+of the room, one tunnel runs both east and west.  A second tunnel runs due
+south.  
+~
+0 0 0
+D1
+~
+~
+0 0 17230
+D2
+~
+~
+0 0 17229
+D3
+~
+~
+0 0 17231
+D4
+~
+~
+0 0 17107
+S
+#17229
+A Hidden Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17228
+S
+#17230
+A Storage Room~
+This room appears to have been a storage and repair room for the city
+guardsmen of old Aridhol.  The room is scattered with broken axe heads,
+chipped spear points, helmets, and other pieces of armor and weapons.  The
+room was also the sight of some bloody battle when man turned on man because
+of the Shadow's influence.  Skeletons of dead men lie throughout the room.  
+~
+0 0 0
+D3
+~
+~
+0 0 17228
+S
+#17231
+A Windy Tunnel~
+This room is very small and cramped.  Additionally, it seems rather
+windy, as if an exit to the tunnels lies nearby.  Off to the side of the
+room, there is a skeleton of a rat.  Perhaps something bigger killed the
+rat, made it into a meal, and left its corp Near the north of the tunnel,
+these is a small crawl space with room enough for one person to enter it at
+a time.  
+~
+0 0 0
+D0
+~
+~
+0 0 17232
+D1
+~
+~
+0 0 17228
+S
+#17232
+A Giant Room~
+This room seems larger than the other tunnels.  Perhaps in the long
+forgotten glory days of Aridhol, this room was used as a storage place for
+grain to give the city food in times of drought.  Additionally, this room
+seems better lit than many of the other rooms in the tunnel system.  To the
+north is an exit, near which lie hinges which must have once held a door. 
+Also, a small crawl space is to the south, where a cave-in must have
+destroyed mo 
+~
+0 0 0
+D0
+~
+~
+0 0 17233
+D2
+~
+~
+0 0 17231
+S
+#17233
+A Well Lit Room~
+Sunlight streams into the room from a covered grate at the top of the
+room.  This room, like a few others, is an entrance to the tunnels of
+ancient Aridhol.  The room, while falling apart, still gives the impression
+that someone once put a great deal of emphasis in the maintanance of the
+room.  This is evident from many different signs of care, such as the
+meticulous craftsmanship on the grate leading to the surface.  
+~
+0 0 0
+D2
+~
+~
+0 0 17232
+D4
+~
+~
+0 0 17110
+S
+#17234
+The King's Lounge~
+~
+0 0 0
+D1
+~
+~
+0 0 17235
+D2
+~
+~
+0 0 17154
+S
+#17235
+A Well-Guarded Room~
+~
+0 0 0
+D3
+~
+~
+0 0 17234
+D5
+~
+~
+0 0 17236
+S
+#17236
+Processing Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17237
+D4
+~
+~
+0 0 17235
+S
+#17237
+Examining Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17240
+D1
+~
+~
+0 0 17238
+D2
+~
+~
+0 0 17236
+D3
+~
+~
+0 0 17239
+D5
+~
+~
+0 0 17241
+S
+#17238
+A Torture Room~
+~
+0 0 0
+D3
+~
+~
+0 0 17237
+S
+#17239
+A Torture Room~
+~
+0 0 0
+D1
+~
+~
+0 0 17237
+S
+#17240
+Tool Shed~
+~
+0 0 0
+D2
+~
+~
+0 0 17237
+S
+#17241
+The Dungeon~
+~
+0 0 0
+D0
+~
+~
+0 0 17249
+D1
+~
+~
+0 0 17242
+D2
+~
+~
+0 0 17250
+D3
+~
+~
+0 0 17244
+D4
+~
+~
+0 0 17237
+S
+#17242
+A Dark Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 17251
+D1
+~
+~
+0 0 17243
+D2
+~
+~
+0 0 17252
+D3
+~
+~
+0 0 17241
+S
+#17243
+A Dark Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 17253
+D2
+~
+~
+0 0 17254
+D3
+~
+~
+0 0 17242
+S
+#17244
+A Dark Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 17247
+D1
+~
+~
+0 0 17241
+D2
+~
+~
+0 0 17248
+D3
+~
+~
+0 0 17245
+S
+#17245
+A Dark Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 17246
+D1
+~
+~
+0 0 17244
+D2
+~
+~
+0 0 17247
+S
+#17246
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 17245
+S
+#17247
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 17245
+D2
+~
+~
+0 0 17244
+S
+#17248
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 17244
+S
+#17249
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 17241
+S
+#17250
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 17241
+S
+#17251
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 17242
+S
+#17252
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 17242
+S
+#17253
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 17243
+S
+#17254
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 17243
+D5
+~
+~
+0 0 17255
+S
+#17255
+An Escape Tunnel~
+~
+0 0 0
+D4
+~
+~
+0 0 17254
+D5
+~
+~
+0 0 17256
+S
+#17256
+An Escape Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 17257
+D3
+~
+~
+0 0 17259
+D4
+~
+~
+0 0 17255
+S
+#17257
+An Escape Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 17260
+D2
+~
+~
+0 0 17256
+D3
+~
+~
+0 0 17258
+S
+#17258
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17257
+D2
+~
+~
+0 0 17259
+S
+#17259
+An Escape Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 17258
+D1
+~
+~
+0 0 17256
+S
+#17260
+An Escape Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 17261
+D2
+~
+~
+0 0 17257
+S
+#17261
+An Escape Tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 17264
+D2
+~
+~
+0 0 17260
+D4
+~
+~
+0 0 17262
+S
+#17262
+A Lair~
+~
+0 0 0
+D0
+~
+~
+0 0 17263
+D5
+~
+~
+0 0 17261
+S
+#17263
+A Bone Room~
+~
+0 0 0
+D2
+~
+~
+0 0 17262
+S
+#17264
+A Narrow Tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 17265
+D3
+~
+~
+0 0 17261
+S
+#17265
+A Last Attempt~
+~
+0 0 0
+D3
+~
+~
+0 0 17264
+D4
+~
+~
+0 0 17266
+S
+#17266
+A Slightly Lit Room~
+~
+0 0 0
+D2
+~
+~
+0 0 17267
+D5
+~
+~
+0 0 17265
+S
+#17267
+A Damp Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17266
+D1
+~
+~
+0 0 17268
+D2
+~
+~
+1 0 17276
+S
+#17268
+A Slightly Lit Room~
+~
+0 0 0
+D1
+~
+~
+0 0 17269
+D3
+~
+~
+0 0 17267
+S
+#17269
+A Slightly Lit Room~
+~
+0 0 0
+D1
+~
+~
+0 0 17270
+D3
+~
+~
+0 0 17268
+S
+#17270
+A Slightly Lit Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17271
+D3
+~
+~
+0 0 17269
+S
+#17271
+A Slightly Lit Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17272
+D2
+~
+~
+0 0 17270
+S
+#17272
+A Slightly Lit Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17273
+D2
+~
+~
+0 0 17271
+S
+#17273
+A Slightly Lit Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17274
+D2
+~
+~
+0 0 17272
+S
+#17274
+A Slightly Lit Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17275
+D2
+~
+~
+0 0 17273
+S
+#17275
+Solid Rock~
+~
+0 0 0
+D2
+~
+~
+0 0 17274
+S
+#17276
+A Winding Passage~
+~
+0 0 0
+D0
+~
+~
+1 0 17267
+D2
+~
+~
+0 0 17277
+S
+#17277
+A Winding Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 17276
+D1
+~
+~
+0 0 17278
+S
+#17278
+A Winding Passage~
+~
+0 0 0
+D2
+~
+~
+0 0 17279
+D3
+~
+~
+0 0 17277
+S
+#17279
+A Small Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17278
+D1
+~
+~
+0 0 17280
+S
+#17280
+A Winding Passage~
+~
+0 0 0
+D2
+~
+~
+0 0 17281
+D3
+~
+~
+0 0 17279
+S
+#17281
+Trolloc Lair~
+~
+0 0 0
+D0
+~
+~
+0 0 17280
+D1
+~
+~
+0 0 17283
+D2
+~
+~
+0 0 17282
+S
+#17282
+Trolloc Lair~
+~
+0 0 0
+D0
+~
+~
+0 0 17281
+S
+#17283
+Trolloc Lair~
+~
+0 0 0
+D2
+~
+~
+0 0 17284
+D3
+~
+~
+0 0 17281
+S
+#17284
+Trolloc Lair~
+~
+0 0 0
+D0
+~
+~
+0 0 17283
+D4
+~
+~
+0 0 17285
+S
+#17285
+A Well Lit Passage~
+~
+0 0 0
+D2
+~
+~
+0 0 17286
+D5
+~
+~
+0 0 17284
+S
+#17286
+A Well Lit Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 17285
+D2
+~
+~
+0 0 17287
+S
+#17287
+A Well Lit Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 17286
+D1
+~
+~
+0 0 17288
+S
+#17288
+A Fork in the Passage~
+~
+0 0 0
+D1
+~
+~
+0 0 17292
+D2
+~
+~
+0 0 17289
+D3
+~
+~
+0 0 17287
+S
+#17289
+A Dark Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 17288
+D2
+~
+~
+0 0 17290
+S
+#17290
+A Dark Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 17289
+D2
+~
+~
+0 0 17291
+S
+#17291
+A Fade's Room~
+~
+0 0 0
+D0
+~
+~
+0 0 17290
+S
+#17292
+A Very-Well Lit Passage~
+~
+0 0 0
+D1
+~
+~
+0 0 17293
+D3
+~
+~
+0 0 17288
+S
+#17293
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17294
+D2
+~
+~
+0 0 17295
+D3
+~
+~
+0 0 17292
+S
+#17294
+A Cave-In~
+~
+0 0 0
+D2
+~
+~
+0 0 17293
+S
+#17295
+A Windy Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 17293
+D2
+~
+~
+0 0 17296
+S
+#17296
+A Windy Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 17295
+D2
+~
+~
+0 0 17297
+S
+#17297
+A Windy Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 17296
+D1
+~
+~
+0 0 17298
+S
+#17298
+A Windy Corridor~
+~
+0 0 0
+D3
+~
+~
+0 0 17297
+D4
+~
+~
+0 0 17299
+S
+#17299
+The Tunnel's End~
+~
+0 0 0
+D4
+~
+~
+0 0 17300
+D5
+~
+~
+0 0 17298
+S
+#17300
+The Surface~
+~
+0 0 0
+D0
+~
+~
+0 0 17301
+D5
+~
+~
+0 0 17299
+S
+#17301
+A Path Through the Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 17302
+D2
+~
+~
+0 0 17300
+S
+#17302
+A Path Through the Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 17303
+D2
+~
+~
+0 0 17301
+S
+#17303
+A Path Through the Forest~
+~
+0 0 0
+D1
+~
+~
+0 0 17304
+D2
+~
+~
+0 0 17302
+S
+#17304
+A Path Through the Forest~
+~
+0 0 0
+D1
+~
+~
+0 0 17305
+D3
+~
+~
+0 0 17303
+S
+#17305
+Trolloc Camp~
+~
+0 0 0
+D0
+~
+~
+0 0 17312
+D2
+~
+~
+0 0 17306
+D3
+~
+~
+0 0 17304
+S
+#17306
+Trolloc Camp~
+~
+0 0 0
+D0
+~
+~
+0 0 17305
+D1
+~
+~
+0 0 17307
+S
+#17307
+Trolloc Camp~
+~
+0 0 0
+D1
+~
+~
+0 0 17308
+D3
+~
+~
+0 0 17306
+S
+#17308
+Trolloc Camp~
+~
+0 0 0
+D0
+~
+~
+0 0 17309
+D3
+~
+~
+0 0 17307
+S
+#17309
+Trolloc Camp~
+~
+0 0 0
+D2
+~
+~
+0 0 17308
+D3
+~
+~
+0 0 17310
+S
+#17310
+Trolloc Camp~
+~
+0 0 0
+D1
+~
+~
+0 0 17309
+D2
+~
+~
+0 0 17311
+D3
+~
+~
+0 0 17312
+S
+#17311
+Camp Headquarters~
+~
+0 0 0
+D0
+~
+~
+0 0 17310
+S
+#17312
+Trolloc Camp~
+~
+0 0 0
+D1
+~
+~
+0 0 17310
+D2
+~
+~
+0 0 17305
+S
+#17313
+A Side Street~
+~
+0 0 0
+D1
+~
+~
+0 0 17116
+D3
+~
+~
+0 0 17314
+S
+#17314
+A Side Street~
+~
+0 0 0
+D1
+~
+~
+0 0 17313
+D3
+~
+~
+0 0 17315
+S
+#17315
+A Side Street~
+~
+0 0 0
+D1
+~
+~
+0 0 17314
+D2
+~
+~
+0 0 17316
+S
+#17316
+Lobby~
+~
+0 0 0
+D0
+~
+~
+0 0 17315
+D2
+~
+~
+0 0 17317
+S
+#17317
+Stairway~
+~
+0 0 0
+D0
+~
+~
+0 0 17316
+D4
+~
+~
+0 0 17319
+S
+#17318
+A Bedroom~
+~
+0 0 0
+D1
+~
+~
+0 0 17319
+S
+#17319
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17320
+D3
+~
+~
+0 0 17318
+D5
+~
+~
+0 0 17317
+S
+#17320
+A Bedroom~
+~
+0 0 0
+D3
+~
+~
+0 0 17319
+S
+#17321
+An Armory~
+~
+0 0 0
+D3
+~
+~
+0 0 17117
+S
+#17322
+A Smithy~
+~
+0 0 0
+D1
+~
+~
+0 0 17117
+S
+#17323
+A Stable~
+Once this room was a stable, helping hold all the mighty horses of
+Aridhol.  They were a mighty, warrior breed of people and this stable housed
+the horses of the Aridhol troops.  Now, only ruins remain, what was once
+mighty has now fallen.  
+~
+0 0 0
+D1
+~
+~
+0 0 17118
+S
+#17371
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 17101 spec_assassin
+M 17116 spec_cast_mage
+M 17118 spec_breath_fire
+S
+
+
+
+#RESETS
+D 0 17155 1 1
+D 0 17156 3 1
+D 0 17206 0 1
+D 0 17207 2 1
+D 0 17267 2 1
+D 0 17276 0 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,525 @@
+#AREADATA
+Name Diem's Keep~
+Builders None~
+VNUMs 12100 12199
+Credits `4[`7 High `4]`7 Diem      Diem's Keep~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#12100
+keep guard~
+A keep guard~
+A keep guard is standing here. 
+~
+Standing about 7 feet tall, this nasty monster looks only like trouble
+~
+unique~
+0 0
+AFGT 0 0 0 0 -1  -1000 0
+150 100 200d100+1500 1d10+100 5d20+20 none
+-15 -15 -15 -15
+0 0 0 0
+stand stand none 50
+0 0 large unknown
+#12101
+large keep guard~
+A Large Keep Guard~
+A Large Keep Guard stand look weary of strangers. 
+~
+Hes Big, Hes Ugly, Your Dead
+~
+unique~
+0 0
+AFGR 0 0 0 0 -1  -1000 0
+100 150 100d250+3000 10d100+1000 4d20+20 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand none 50
+0 0 large unknown
+#12102
+evil elven mage elf~
+The Elf Mage~
+The Elf Mage is here, working on evil stuff. 
+~
+Magic! ! 
+~
+unique~
+0 0
+AFR 33104 0 0 0 -1  -1000 0
+120 400 200d150+7000 150d50+2000 25d30+40 none
+-20 -20 -20 -20
+CEFK IJ H 0
+stand stand none 100
+0 0 large unknown
+#0
+
+
+
+#OBJECTS
+#12100
+elven splint mail~
+Elven Splint Mail~
+Elvish Splint Mail~
+~
+armor ABGa AD
+0
+ADE ADE ADE ADE 0
+75 5 1500 P
+A
+18 6
+A
+19 6
+A
+20 -5
+A
+13 20
+ T 0 none~
+#12102
+beta tester's badge~
+a `&B`8e`&t`8a `&T`8es`&T`8er`&s`^' `&B`7a`8d`7g`&e`*~
+Lieing before you is a Crinkly paper badge with a piece of yarn connecting two holes.  On the front is Your name in Big Script letters.  On the back in tiny letters are the words, "Aedomen ownz U"~
+Cheap crinkly paper~
+armor ABGI AC
+0
+0 0 0 0 0
+0 0 0 P
+A
+19 100
+A
+17 -700
+A
+18 100
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#12100
+Entrance to the Keep~
+These large, tall gates prevent you from leaving or entering this area.
+The gates slowly swing open infront of you. 
+~
+0 0 3
+D0
+~
+~
+0 0 12101
+S
+#12101
+Within the Gates~
+You have stepped into the gates, a chill run through your bones. You
+shouldnt be here. 
+~
+0 0 0
+D1
+~
+~
+0 0 12102
+D2
+~
+~
+0 0 12100
+S
+#12102
+Between the Towers~
+Two towers on either side of you tower over you like most towers should.
+They are tall and dark, made out of blackend brick, probably burnt at one
+time. 
+~
+0 0 0
+D0
+~
+~
+0 0 12103
+D3
+~
+~
+0 0 12101
+S
+#12103
+Entering the second Gate~
+There is a second gate upahead. Probably used at one time to keep the
+enemy from penetrating the main courtyard. Its very dark and you cant see
+past the gate very well. 
+~
+0 0 0
+D0
+~
+~
+0 0 12104
+D2
+~
+~
+0 0 12102
+S
+#12104
+Approaching the Gate~
+The gate also looks burnt. Made of solid iron it has begun to rust in
+areas flames never touched it. It is half open so access is very easy back
+and forth underneath it. 
+~
+0 0 0
+D0
+~
+~
+0 0 12105
+D2
+~
+~
+0 0 12103
+S
+#12105
+Otherside of the Gate~
+After passing under the second gate you can see the larget courtyward
+infront of you. The grass is baren, only dirt and rocks can be seen
+scattered around the ground. 
+~
+0 0 0
+D1
+~
+~
+0 0 12107
+D2
+~
+~
+0 0 12104
+D3
+~
+~
+0 0 12106
+S
+#12106
+Traveling down the West Wall~
+The westwall has vines growing out of it, small but noticeable. A very
+long time ago, a catapult must have launched a rock into the side of the
+wall, a small cave in has occured and buried anything below it. 
+~
+0 0 0
+D1
+~
+~
+0 0 12105
+D4
+~
+~
+0 0 12124
+S
+#12107
+The East Wall~
+Following the wall to the east, the walls have been definatly torched.
+Remnants of what used to be a ladder can be seen here. A small dagger of
+unimportance lays stabbed into the dirt. 
+~
+0 0 0
+D0
+~
+~
+0 0 12108
+D3
+~
+~
+0 0 12105
+D4
+~
+~
+0 0 12115
+S
+#12108
+Entering the Courtyard~
+Small runes can be seen here on a rock that is laying here. This seem to
+be at one time the Temple. This appears to have been a Sylven Castle at one
+time. The rues seem of an elvish nature, Sylvain being the most mystical of
+the elves. 
+~
+0 0 0
+D0
+~
+~
+0 0 12110
+D1
+~
+~
+0 0 12109
+D2
+~
+~
+0 0 12107
+S
+#12109
+The Elven Temple~
+Entering this small cove. A statue can be seen on the opposite wall. But
+its too dark to see anything else. A funny smell emits from the room. 
+~
+0 0 0
+D3
+~
+~
+0 0 12108
+S
+#12110
+Nearing the Center of the Square~
+The center of the square appears in sight. The ground here turns from
+dirt to solid rock. Many more runes can be seen here, carved with magical
+tools into the ground. 
+~
+0 0 0
+D0
+~
+~
+0 0 12111
+D2
+~
+~
+0 0 12108
+S
+#12111
+Center Square~
+A small statue is here, knocked over. Elvish writing ca n be seen on the
+text pages that the elf is carying. Under the statue is a trap doorway that
+leads underground. 
+~
+0 0 0
+D0
+~
+~
+0 0 12113
+D2
+~
+~
+0 0 12110
+D5
+~
+~
+0 0 12112
+S
+#12112
+Under the Statue~
+The air down here is very musky, almost hard to brethe because of the
+dense humidity. You feel safe here. 
+~
+0 9224 0
+D4
+~
+~
+0 0 12111
+S
+#12113
+Towards the North wall~
+The north wall looks much the same as all the other walls here. Except
+there was no fire here. By the looks of things, a fierce battle wared on
+here. Between the elves and thier enemies. 
+~
+0 0 0
+D0
+~
+~
+0 0 12114
+D2
+~
+~
+0 0 12111
+S
+#12114
+The  North Wall~
+Nothing here is differnt than all the other walls. Small rocks protrude
+from the ground here, and small archer holes have been cut into the hard,
+thick stone. 
+~
+0 0 0
+D2
+~
+~
+0 0 12113
+D3
+~
+~
+0 0 12116
+S
+#12115
+The East Tower~
+Up in the tower, gives you a glimpse of the surounding forest and places
+far beyond. The entire courtyard is illuminated, and the stone floor of it
+resembles yet another Elven Rune. 
+~
+0 0 0
+D5
+~
+~
+0 0 12107
+S
+#12116
+Center of the North Wall~
+Much fighting occurd here. Weapon gashes are indicated by notches in the
+wall. A small rodent scurrys out from under the wall and past your feet,
+running into the night. 
+~
+0 0 0
+D1
+~
+~
+0 0 12114
+D3
+~
+~
+0 0 12117
+S
+#12117
+Where the North and West walls meet~
+A ladder is here, fallen, but still in good shape. Much of the stone here
+looks new but still very old. Small holes are found all over the ground
+here. Rodents homes none-theless. 
+~
+0 0 0
+D1
+~
+~
+0 0 12116
+D2
+~
+~
+0 0 12118
+S
+#12118
+The West wall~
+Grass is growing here, under the wall, and out to this side. Its odd that
+nothing has been growing here for such a long time. 
+~
+0 0 0
+D0
+~
+~
+0 0 12117
+D2
+~
+~
+0 0 12119
+S
+#12119
+The West Wall~
+Grass is growing here, under the wall, and out to this side. Its odd that
+nothing has been growing here for such a long time. 
+~
+0 0 0
+D0
+~
+~
+0 0 12118
+D1
+~
+~
+0 0 12123
+D2
+~
+~
+0 0 12120
+S
+#12120
+The west wall~
+Grass is growing here, under the wall, and out to this side. Its odd that
+nothing has been growing here for such a long time. 
+~
+0 0 0
+D0
+~
+~
+0 0 12119
+D2
+~
+~
+0 0 12121
+S
+#12121
+The west wall~
+Grass is growing here, under the wall, and out to this side. Its odd that
+nothing has been growing here for such a long time. 
+~
+0 0 0
+D0
+~
+~
+0 0 12120
+D2
+~
+~
+0 0 12122
+S
+#12122
+The corner of the SW wall~
+A wooden door leads west here. 
+~
+0 0 0
+D0
+~
+~
+0 0 12121
+D2
+~
+~
+0 0 12106
+S
+#12123
+The Shack~
+This is a dimly lit shack. Nothing Can be seen. But much can be heard! 
+~
+0 0 0
+D3
+~
+~
+0 0 12119
+S
+#12124
+The Western Tower~
+Two Rodents are here fighting over scraps of food. Blood has stained the
+floor here. Its recent blood. 
+~
+0 0 0
+D5
+~
+~
+0 0 12106
+S
+#0
+
+
+
+#SPECIALS
+M 12102 spec_breath_gas
+S
+
+
+
+#RESETS
+M 0 12100 1 12103 1 100 Load A keep guard
+M 0 12100 2 12109 1 100 Load A keep guard
+M 0 12101 2 12110 1 100 Load A Large Keep Guard
+M 0 12100 2 12110 1 100 Load A keep guard
+M 0 12101 1 12116 1 100 Load A Large Keep Guard
+M 0 12100 2 12118 1 100 Load A keep guard
+M 0 12100 2 12121 1 100 Load A keep guard
+M 0 12102 1 12123 1 100 Load The Elf Mage
+E 0 12100 0 5 0 100 Elven splint mail is loaded on the body of The Elf Mage
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

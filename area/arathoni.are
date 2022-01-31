@@ -1,0 +1,1068 @@
+#AREADATA
+Name Arathon Inn~
+Builders None~
+VNUMs 7500 7525
+Credits `4[`7Newbie`4]`7 Saradin   Arathon Inn~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#7500
+Gambler~
+A gambler ~
+A gambler is here muttering about losing all his money.
+~
+A small man lies here sobbing.  Upon asking him what is wrong, he tells
+you that he lost all his money to the Prophets men after he got lucky and
+won a few games.  
+ 
+~
+unique~
+0 0
+AGTW 0 0 0 0 -1  -500 0
+25 3 12d12+300 0d0+0 4d8+1 none
+4 4 4 6
+EFN Z 0 0
+stand stand male  30
+AHMV ABCDEFGHIJK medium unknown
+#7501
+Dragonsworn Guard~
+A Dragonsworn Guard~
+A `#D`1ragon`#s`1worn `#G`1uard`7 is here looking at anyone that passes suspiciously.
+~
+These are the elite of the Prophets men.  They could be compared to the Seanchan DeathWatch Guard.
+They wear silver breast plates and carry a long falchion.  They job is to guard the prophet
+and they will do so till the last man.
+~
+unique~
+0 0
+AB 0 0 0 0 -1  -1000 0
+31 4 12d12+400 0d0+0 4d8+2 none
+9 9 9 11
+F 0 0 0
+stand stand male  40
+AHMV ABCDEFGHIJK medium unknown
+#7502
+Dragonsworn Officer~
+A Dragonsworn Officer~
+A `#D`1ragon`#s`1worn `7Officer is sitting at his desk studying maps.
+~
+A large man stands before you, clad in bright `1red`7 streaked armor.  By
+his side is a huge, jagged longsword.  He is one of the most recognized
+people in the `#d`1ragon`#s`1worn `7army.  
+~
+unique~
+0 0
+ABT 0 2112 0 0 -1  -1000 0
+40 5 12d12+600 0d0+0 5d9+3 none
+0 0 0 0
+DI 0 I 0
+stand stand male  54
+AHMV ABCDEFGHIJK large unknown
+#7503
+Drunken Cook~
+The Drunken Cook~
+A `#D`2ru`#n`2ke`#n `7Cook is here preparing food.
+~
+A drunken chef is here trying to prepare a meal for his honored guests,
+the Prophets men.  His eyes are bloodshot and his nerves are gone, one wrong
+move and he might unleash his fury upon anyone.  
+~
+unique~
+0 0
+ABT 0 0 0 0 -1  -1000 0
+25 3 12d12+400 0d0+0 4d8+1 none
+6 6 6 8
+CK 0 H 0
+stand stand male  24
+AHMV ABCDEFGHIJK medium unknown
+#7504
+dragonsworn trainee~
+A Dragonsworn Trainee~
+A `#D`1ragon`#S`1worn `7Trainee is here using the restroom.
+~
+Mother of God, you just walkin in on a man taking a shit!
+~
+unique~
+0 0
+AB 0 0 0 0 -1  -1000 0
+15 4 12d12+300 0d0+0 4d8+2 none
+6 6 6 7
+EK Z 0 0
+stand stand male  33
+AHMV ABCDEFGHIJK medium unknown
+#7505
+barmaid~
+A Barmaid~
+A `&B`4a`&r`&m`4ai`&d`7 is here taking orders from guests
+~
+A small, agile woman, looking to be in her mid-20's is here taking orders
+from the Inn's guests.  She wears normal clothes with a long white apron
+splattered with bits of food.  
+~
+unique~
+0 0
+ABG 0 2048 0 0 -1  1000 0
+25 5 12d12+500 0d0+0 5d8+2 none
+2 2 2 3
+FHJK 0 0 0
+stand stand female 72
+AHMV ABCDEFGHIJK small unknown
+#7506
+Prophets servant~
+A Servant~
+A servant is here tending to the Prophets men.
+~
+A medium sized man is here tending to all of the Prophets men.  He has
+grown weary and pale from all the work that they make him do.  One day he
+hopes to be freed from their grasp.  
+~
+unique~
+0 0
+ABT 0 64 0 0 -1  1000 0
+30 5 12d12+600 0d0+0 5d8+2 none
+0 0 0 1
+FK 0 0 Q
+stand stand male  13
+AHMV ABCDEFGHIJK medium unknown
+#7507
+gore~
+Al Gore~
+`4A`$l `&G`4o`$r`7e stands here with a thumb up his ass.
+~
+~
+unique~
+0 0
+ABTU 256 2640 0 0 -1  -1000 0
+0 111 12d12+15000 12d12+1400 2d10+72 none
+-42 -42 -42 -42
+ACFHJKNO AB K 0
+stand stand male  1000
+AHMV ABCDEFGHIJK large unknown
+#7508
+lieberman~
+Joseph Lieberman~
+`$J`4o`&s`8e`4p`$h `7L`8i`4e`$b`&e`$rm`4a`&n`7 gazes around the area
+~
+~
+unique~
+0 0
+ABT 16640 2128 0 0 -1  0 0
+95 96 12d12+12000 12d12+1300 6d10+68 none
+-33 -33 -33 -33
+ACFHIJKNO ABJ 0 0
+stand stand male  550
+AHMV ABCDEFGHIJK medium unknown
+#7509
+nadar~
+Ralph Nadar~
+`2R`@a`&l`2p`8h `2N`&a`@d`8a`2r`7 sobs in misery here
+~
+~
+unique~
+0 0
+ABR 16640 2112 0 0 -1  0 0
+96 103 12d12+13500 12d12+1450 2d10+89 none
+-37 -37 -37 -37
+ACFJKN ABH I 0
+stand stand male  750
+AHMV ABCDEFGHIJK medium unknown
+#7510
+byar~
+`#B`&yar`7~
+`#B`&yar`7
+~
+~
+unique~
+0 0
+ABT 16640 80 0 0 -1  0 0
+96 500 30000d1+1 12d12+1500 12d12+600 none
+-50 -50 -50 -50
+ADFHK ABI H 0
+stand stand female 800
+AHMV ABCDEFGHIJK medium unknown
+#7511
+raefer kisman~
+`#B`&yar~
+`#B`&yar
+~
+~
+dragon~
+0 0
+ABR 256 64 0 0 -1  0 0
+100 120 12d12+2600 12d12+1600 12d12+300 none
+-55 -55 -55 -55
+ACFIKNO ABHZ ABCDEFGHIJKPQUVX FI
+stand stand male  1500
+AHZ ACDEFGHIJKPQUVX medium unknown
+#7512
+man roch~
+`#B`&yar`7~
+Desc `#B`&yar`7
+~
+~
+dragon~
+0 0
+ABR 256 64 0 0 -1  0 0
+100 120 12d12+2600 12d12+1600 12d12+300 none
+-55 -55 -55 -55
+ACFIKNO ABHZ ABCDEFGHIJKPQUVX FI
+stand stand male  1500
+AHZ ACDEFGHIJKPQUVX medium unknown
+#7513
+Masema~
+`!M`1asema`7~
+Masema, leader of the Dragonsworn is here.
+~
+~
+shienar~
+0 0
+ABT 16640 80 0 0 -1  0 0
+120 300 30000d1+1 12d12+1200 12d12+550 pound
+-300 -300 -300 -300
+AFJK ABEKL I 0
+stand stand male  1200
+AHMV ABCDEFGHIJK medium unknown
+#7514
+tainted nym~
+The Tainted Nym~
+Something crawls out from behind the pillars, it looks to be one of the nym but yet, somehow different
+~
+~
+dragon~
+0 0
+ABRTZ 16640 2112 0 0 -1  -1000 0
+110 134 12d12+17000 12d12+12000 400d1+100 slash
+-45 -45 -45 -45
+ACFHIJKOQR ABHZ ABCDEFGHIJKPQUVX FI
+stand stand male  1000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#7515
+gnarled old twisted tree~
+The Twisted Tree~
+A gnarled old twisted tree is here wreaking with evil
+~
+~
+dragon~
+0 0
+ABRT 16640 2112 0 0 -1  -1000 0
+110 134 12d12+17000 12d12+12000 6d10+380 thwack
+-45 -45 -45 -45
+ACFHIJKOQR ABHZ ABCDEFGHIJKLPQUVX EFI
+stand stand male  1000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#7516
+gnarled Creature~
+A Gnarled Creature~
+One of the Nyms new creations, a gnarled creature, is here howling into the wind.
+~
+~
+unique~
+0 0
+ABR 256 80 0 0 -1  0 0
+200 211 12d12+15000 6d6+500 6d10+467 divine
+-100 -100 -100 -100
+ABDFHJKNO AB EIJKL 0
+stand stand female 3400
+AHMV ABCDEFGHIJK small unknown
+#7517
+black nym~
+The Black Nym~
+Another of the Nym is here, but this one is as black as night with burning red eyes
+~
+~
+unique~
+0 0
+ABT 256 80 0 0 -1  0 0
+200 211 12d12+19000 6d6+500 6d10+388 divine
+-100 -100 -100 -100
+ABDFHJKNO AB EIJKL 0
+stand stand female 3400
+AHMV ABCDEFGHIJK small unknown
+#7518
+captured sedai damane~
+Captured Sedai~
+A Aes Sedai turned into a damane
+~
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+1 100 12d12+1000 0d0+0 6d10+100 none
+100 100 100 100
+0 0 0 0
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#7523
+Kammy~
+Kammy~
+Kammy, the local wisdom is here tending the wounded.
+~
+~
+unique~
+0 0
+ABKab 256 0 0 0 -1  0 0
+100 0 10d10+1000 0d0+0 6d10+10 whip
+100 100 100 100
+0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#7509
+golden greaves~
+`#G`3o`8l`&d`3e`#n `&Greaves`7~
+A pair of glittering leggings is on the floor~
+unknown~
+armor ABd AF
+0
+BDF BDF BDF BDF 0
+110 80 1000 P
+A
+18 9
+A
+19 9
+A
+13 50
+A
+20 -5
+A
+17 -1
+A
+12 2
+ T 0 none~
+#7510
+rubic cube~
+a `2R`@u`^b`&i`6c`5'`%s `^C`3u`2b`#e`7~
+A small cube of many colors is on the floor~
+unknown~
+armor Bd AO
+0
+BDF BDF BDF BDF 0
+110 100 5000 P
+A
+18 7
+A
+19 7
+A
+20 -7
+A
+13 50
+A
+12 13
+ T 0 none~
+#7512
+bush~
+`4B`$u`&s`4h`7 tattoo~
+A small colorful object lies on the ground~
+unknown~
+armor ABd AM
+0
+ACE ACE ACE ACE 0
+45 200 0 P
+A
+13 49
+A
+19 4
+A
+18 4
+ T 0 none~
+#7513
+gore~
+`1G`!o`&r`1e `7tattoo~
+A small colorful object lies on the ground~
+unknown~
+armor ABd AB
+0
+ACE ACE ACE ACE 0
+45 200 0 P
+A
+13 39
+A
+14 -30
+A
+12 15
+A
+19 5
+A
+18 5
+ T 0 none~
+#7514
+seanchan~
+`4E`$m`&p`8r`$es`8s`&'`4s `7Grace~
+A faint glimmer shines brilliantly in the sky~
+unknown~
+armor Bd AQ
+0
+ACDF ACDF ACDF ACDF 0
+150 100 1000 P
+A
+13 100
+A
+12 50
+A
+14 50
+A
+20 -5
+A
+17 -10
+ T 0 none~
+#7515
+whitecloak sunburst~
+`3S`#u`&n`3bu`&r`3s`#t`7 armbands~
+A gleaming yellow pair of armbands lies on the floor~
+adamantite~
+armor Ad AI
+0
+BDF BDF BDF ACDF 0
+110 100 1000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+17 -10
+A
+13 2
+ T 0 none~
+#7517
+black mace~
+the `8Black `7Mace~
+A pitch black mace gives off a dull gleam here on the ground.~
+unknown~
+weapon d AN
+0
+mace 10 4 thwack ABG
+10 100 0 P
+A
+18 4
+A
+19 4
+ T 0 none~
+#7518
+mask~
+`!H`1u`&m`1a`8n `7F`1l`!e`1s`8h`7~
+A glowing mask gleams against the sunlight.~
+unknown~
+armor ABd AR
+0
+DE DE DE DE 0
+50 100 300 P
+A
+13 46
+A
+19 5
+A
+18 5
+ T 0 none~
+#7519
+furie~
+`$B`6i`2t`3e `7s`!i`%z`8e `2F`^u`4r`8i`2e`5s`7 ~
+A pair of gloves lie on the floor.~
+unknown~
+armor ABd AH
+0
+BD BD BD BCDE 0
+50 10 0 P
+A
+13 21
+A
+18 6
+A
+19 6
+A
+12 15
+ T 0 none~
+#7520
+juno sword~
+`4J`3u`&n`4o`&'`3s `7Sword~
+A longsword lies here on the ground.~
+steel~
+weapon d AN
+0
+exotic 99 99 none ABCDEFGHJ
+83 100 0 P
+ T 0 none~
+#7521
+dagger fire~
+dagger of Fire~
+A small dagger rests here on the ground.~
+unknown~
+weapon AB AN
+0
+dagger 4 12 stab 0
+15 35 1 P
+A
+18 5
+A
+19 5
+A
+14 -10
+ T 0 none~
+#7522
+grey man mask~
+a `&Grey `!M`&a`!n`&'`!s `7Mask~
+A mask lies here on the floor.~
+unknown~
+armor ABd AE
+0
+CE CE CE ABC 0
+26 25 12000 P
+A
+13 18
+A
+18 3
+A
+19 3
+A
+20 -3
+A
+17 -3
+ T 0 none~
+#7523
+acidic stained cloak~
+`@A`&ci`2d`8i`@c `8S`@t`2a`&i`@n`8ed `&C`2l`8oa`@k`7~
+A stained peice of cloth lies on the ground.~
+unknown~
+armor ABYd AK
+0
+ADE ADE ADE ADE 0
+75 30 0 P
+A
+13 50
+A
+18 5
+A
+19 5
+A
+20 -5
+ T 0 none~
+#7524
+Silver Leggings~
+`1(`!b`1l`!o`1od`!-`1c`!oa`1t`!e`!d`1) `8 S`&p`8i`&ke`8d `&Silver `7Leggings~
+A set of silver leggings lies here on the ground.~
+unknown~
+armor ABGd AF
+0
+BCD ACD BCD ACD 0
+10 30 0 P
+A
+18 3
+A
+19 4
+A
+13 13
+ T 0 none~
+#7525
+dragon tooth necklace~
+`!D`8r`!A`8g`!O`8n `!T`8o`!O`8t`!H`8e`!D `!N`8e`!C`8k`!L`8a`!C`8e`7~
+Aint is so cool?~
+unknown~
+armor HIYd AC
+0
+BDF BDF BDF BDF 0
+110 50 1000 P
+A
+13 3
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+17 -10
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#7500
+Gravel road laeding to Tear~
+On of the main roads connecting Tear and Caemlyn there is a fork leading
+to the west. A small sign by the road reads "Follow this path to paradise!"
+Hrmm
+~
+0 0 3
+D1
+~
+~
+0 0 7501
+S
+#7501
+Path to the Inn~
+You are on a path to the Arathon Inn. It is one of the most popular inns
+in this part of the world. It is rumored that the Prophet and his men have
+taken over the inn and all its rooms.
+~
+0 0 3
+D1
+~
+~
+0 0 7502
+D2
+~
+~
+0 0 7518
+D3
+~
+~
+0 0 7500
+S
+#7502
+Entrance to the Inn~
+You are standing in the middle of the entrance to the Arathon Inn. This
+surely wasn't the paradise the sign was talking about. Drunk followers of
+the Prophet and other sober ones are the only other people here.
+~
+0 8 0
+D0
+~
+~
+0 0 7503
+D1
+~
+~
+0 0 7505
+D3
+~
+~
+0 0 7501
+S
+#7503
+First Floor Staircase~
+A set of stairs goes up to the second floor where all the rooms are. The
+only thing beside the staircase in this part of the inn is thelarge
+fireplace. Its warmth will keep the inn feeling good in even the coldest of
+winters.
+~
+0 8 0
+D1
+~
+~
+0 0 7504
+D2
+~
+~
+0 0 7502
+D4
+~
+~
+0 0 7510
+S
+#7504
+Main Room~
+Several tables are scattered about the room with four to five chairs at
+each table. Empty bottles and filthy plates are the sole occupiers of the
+tables these days.
+~
+0 8 0
+D1
+~
+~
+0 0 7507
+D2
+~
+~
+0 0 7505
+D3
+~
+~
+0 0 7503
+S
+#7505
+The Storytellers Room~
+This room is reserved for entertainers. Some of the best gleeman in the
+world have come by and preformed here, but not a single one has come since
+the Prophet moved in.
+~
+0 8 0
+D0
+~
+~
+0 0 7504
+D1
+~
+~
+0 0 7506
+D3
+~
+~
+0 0 7502
+S
+#7506
+The Bar~
+Many people surround the the enclosed bar. A single bartender is there
+serving drinks to those who have money. Several of the most popular drinks
+from around the world are behind the bartender on the rack.
+~
+0 0 0
+D0
+~
+~
+0 0 7507
+D1
+~
+~
+0 0 7509
+D3
+~
+~
+0 0 7505
+S
+#7507
+Meeting Table~
+An enormous table is here capable of seating up to forty people. It is
+for the meetings of the Prophet and his followers, and will be of no use
+once they move out.
+~
+0 8 0
+D1
+~
+~
+0 0 7508
+D2
+~
+~
+0 0 7506
+D3
+~
+~
+0 0 7504
+S
+#7508
+The Bathroom~
+YUCK! ! ! What a horrible smell. Yup, your in the shitter. Hurry up and
+do your thing so you can get away from this horid stench.
+~
+0 8 0
+D3
+~
+~
+0 0 7507
+S
+#7509
+The Kitchen~
+This is the kitchen. It is full of all types of smells, including rare
+spices that must have been bought from the Sea Folk. Several men and women
+are bustling about trying to prepare a meal for the Prophet and his
+followers.
+~
+0 8 0
+D3
+~
+~
+0 0 7506
+S
+#7510
+Atop the Staircase~
+Atop the stairs there is a hall branching east. The wooden walls are
+polished well enough to almost let you see a reflection of yourself. Several
+doors line the hall, and are all occupied by the Prophet and his followers.
+~
+0 8 0
+D1
+~
+~
+0 0 7512
+D5
+~
+~
+0 0 7503
+S
+#7512
+Along the Hall~
+Further along the hall, the first doors appear at your sides. Both rooms
+are occupied by the Prophets men. , which of course can stay there as long
+as they like. The once quite and peaceful place has become load and messy.
+Maybe the Prophet and his men will leave soon.
+~
+0 8 0
+D1
+~
+~
+0 0 7513
+D2
+~
+~
+0 0 7517
+D3
+~
+~
+0 0 7510
+S
+#7513
+Further Along the Hall~
+Further along the hall another set of doors appears at your side. Of
+course, both are occupied by some of the Prophets men. A few pictures have
+also appeared on the wall. One of them is a painting of a beautiful grove
+with a stream runniong down the middle of it. Where is that place, its
+beautiful.
+~
+0 8 0
+D1
+~
+~
+0 0 7514
+D2
+~
+~
+0 0 7516
+D3
+~
+~
+0 0 7512
+S
+#7514
+Back of the hall~
+A single door is on this part of the Hall. It was Room #3, but the sign
+was ripped down and a new one hung. The new one reads, "The Prophets Room."
+From the hall you can hear loud snoring in the night and screaming at times
+during the day.
+~
+0 8 0
+D2
+~
+~
+0 0 7515
+D3
+~
+~
+0 0 7513
+S
+#7515
+The Prophets Room~
+Inside the Prophet of the Dragons Room, there are many chests and other
+objects. All types of things are about, that he no doubt, had his minions
+rob from the commonfolk. On a clothes rack, there are many silk robes and
+other expensive and luxurious garments to wear.
+~
+0 8 0
+D0
+~
+~
+0 0 7514
+S
+#7516
+Room #2~
+Inside of the bedrooms, clothes are thrown about all over the place. One
+of the Prophets close friends is using this room and has taken extreme
+pleasure in trashing it.
+~
+0 8 0
+D0
+~
+~
+0 0 7513
+S
+#7517
+Room #1~
+Another of the Prophets followers occupies this room. Unlike room 2, it
+is well kept and neat. Only a few bottles are around the room. On top of a
+small desk over to the side of the room, a few scattered papers lay. Some
+contain information on the Prophets future plans.
+~
+0 8 0
+D0
+~
+~
+0 0 7512
+S
+#7518
+A samll dirt path leading to the grove~
+You have started on a dirt path that leads to a small grove in the middle
+of the forests. It is rumored to be one of the most peaceful spots in the
+world, where you can clear your mind and not have a worry in the world.
+~
+0 1 3
+D0
+~
+~
+0 0 7501
+D2
+~
+~
+0 0 7519
+S
+#7519
+In the middle of the path leading to the grove~
+Small bushes and large trees line a dirt path that leads to a grove.
+~
+0 1 3
+D0
+~
+~
+0 0 7518
+D1
+~
+~
+0 0 7520
+S
+#7520
+Path to the Grove~
+You are on a small trail that is suppose to lead to a grove in the middle
+of the forest. Small bushes mixed with large trees line the dirt path.
+~
+0 1 3
+D1
+~
+~
+0 0 7521
+D3
+~
+~
+0 0 7519
+S
+#7521
+Entrance to the grove~
+The Prophets men thankfully have not made there way down to this
+beautiful place. A small stream runs throught the middle of the grove
+humming its soft song, caused by the water running over rocks. This must be
+the paradise that the sign was talking about.
+~
+0 0 2
+D0
+~
+~
+0 0 7522
+D1
+~
+~
+0 0 7524
+D3
+~
+~
+0 0 7520
+S
+#7522
+A spot on the grove~
+You are now inside the beautiful grove. It is definately the paradise
+that the sign on the road was talking about. A soft layer of grass coverfs
+the ground while trees provide a wall surrounding the grove.
+~
+0 0 2
+D1
+~
+~
+0 0 7523
+D2
+~
+~
+0 0 7521
+S
+#7523
+The Tent~
+A small tent has been built here to provide shelter if any bad weather is
+to come along. A few beds are under the tent providing a spot to sleep other
+than the ground.
+~
+0 1024 2
+D2
+~
+~
+0 0 7524
+D3
+~
+~
+0 0 7522
+M 150 H 150
+S
+#7524
+Deep in the Grove~
+A large fire-pit is here surrounded by benches. The fire-pit hasn't been
+used in awhile, and probably won't if people want this to remain a peaceful
+place. The benches surrounding the fire, are study oak logs set on top of
+the soft grass.
+~
+0 0 2
+D0
+~
+~
+0 0 7523
+D3
+~
+~
+0 0 7521
+S
+#7525
+~
+~
+0 0 2
+D3
+~
+~
+0 0 7521
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 7500 30 7500 1 100 Load A gambler 
+M 0 7500 30 7501 1 100 Load A gambler 
+M 0 7501 30 7502 2 100 Load A Dragonsworn Guard
+M 0 7501 30 7502 2 100 Load A Dragonsworn Guard
+M 0 7505 30 7503 1 100 Load A Barmaid
+M 0 7500 30 7504 1 100 Load A gambler 
+M 0 7505 30 7504 1 100 Load A Barmaid
+M 0 7500 30 7505 1 100 Load A gambler 
+M 0 7505 30 7505 1 100 Load A Barmaid
+M 0 7505 30 7506 1 100 Load A Barmaid
+M 0 7500 30 7507 1 100 Load A gambler 
+M 0 7505 30 7507 1 100 Load A Barmaid
+O 0 7521 0 7508 0 100 Dagger of fire loaded to The Bathroom
+M 0 7504 30 7508 1 100 Load A Dragonsworn Trainee
+M 0 7505 30 7509 1 100 Load A Barmaid
+M 0 7503 30 7509 1 100 Load The Drunken Cook
+M 0 7500 30 7510 1 100 Load A gambler 
+M 0 7501 30 7510 2 100 Load A Dragonsworn Guard
+M 0 7501 30 7510 2 100 Load A Dragonsworn Guard
+M 0 7506 30 7512 1 100 Load A Servant
+M 0 7506 30 7513 1 100 Load A Servant
+M 0 7506 30 7514 1 100 Load A Servant
+M 0 7501 30 7514 2 100 Load A Dragonsworn Guard
+M 0 7501 30 7514 2 100 Load A Dragonsworn Guard
+M 0 7501 30 7514 2 100 Load A Dragonsworn Guard
+M 0 7506 30 7515 1 100 Load A Servant
+M 0 7502 30 7515 2 100 Load A Dragonsworn Officer
+M 0 7501 30 7515 2 100 Load A Dragonsworn Guard
+M 0 7506 30 7516 1 100 Load A Servant
+M 0 7502 30 7516 2 100 Load A Dragonsworn Officer
+M 0 7502 30 7516 2 100 Load A Dragonsworn Officer
+M 0 7506 30 7517 1 100 Load A Servant
+M 0 7502 30 7517 2 100 Load A Dragonsworn Officer
+M 0 7502 30 7517 2 100 Load A Dragonsworn Officer
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

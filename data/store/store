@@ -1,0 +1,269 @@
+#STOREOBJ
+Vnum 899
+Owner Aiel~
+Guild 14
+Coffer 0
+Keeper Shopkeep~
+KeeperVnum 10
+LPaid 1163828250
+#ITEM
+Cost 75
+#O
+Vnum 9360
+ID 3337846
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 11665
+ID 3339702
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 100
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 11666
+ID 3339703
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 10
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 7533
+ID 3337826
+Enchants 0
+PK 0
+Nest 0
+ExtF 16777475
+Wear -1
+Cost 50000
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 9359
+ID 3337845
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 10620
+ID 3360793
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 21208
+ID 2746037
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 30000
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 21203
+ID 2918511
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 30000
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 21214
+ID 3336197
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 30000
+End
+
+#ITEM
+Cost 100
+#O
+Vnum 10626
+ID 3360202
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 200
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 11663
+ID 3339700
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 10000
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 11664
+ID 3339701
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 7500
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 9361
+ID 3337847
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 9357
+ID 3337843
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 8500
+ID 3336163
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 19952
+ID 2932926
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 9362
+ID 3337848
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 9354
+ID 3337840
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 9355
+ID 3337841
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 4750
+#O
+Vnum 19702
+ID 3337530
+Enchants 0
+PK 1
+Nest 0
+Wear -1
+Cost 50000
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 24475
+ID 3361698
+Enchants 0
+PK 1
+Nest 0
+Name (Cleansing) The Hand of the Light~
+ShD  `&(`@C`2leansing`&) `&T`7h`&e `&Ha`7n`&d `#of `&t`7h`&e `&L`#i`&g`7h`&t`*~
+Desc The hand of the light lies here, ready to cleanse your nasty taint.~
+ExtF 603984067
+Wear -1
+Cost 3000
+End
+
+#SOLD
+Name the Pendant of Ifrit~
+Cost 75
+#End

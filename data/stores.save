@@ -1,0 +1,2264 @@
+#STORES
+#STOREOBJ
+Vnum 14
+Owner Jasin~
+Guild 0
+Coffer 0
+Keeper Jasin~
+KeeperVnum 0
+LPaid 0
+#STOREOBJ
+Vnum 7527
+Owner `*Furies~
+Guild 15
+Coffer 0
+Keeper Shopkeep~
+KeeperVnum 10
+LPaid 999282850
+#SOLD
+Name `!(`&Plated`!) `2Combat `4B`$elt`*~
+Cost 753
+#SOLD
+Name `@A`&ci`2d`8i`@c `8S`@t`2a`&i`@n`8ed `&C`2l`8oa`@k`7~
+Cost 304
+#SOLD
+Name `@G`2reen `@D`2ragon `&B`8odyarmor`7~
+Cost 554
+#SOLD
+Name `1(`&A`8ncient`1) `&L`*e`8g `&Pl`*at`8es `1of `1A`8p`1o`8c`1l`8i`1p`8s`1e`*~
+Cost 753
+#SOLD
+Name An `#E`3nchant `!C`1oupon`7~
+Cost 1003
+#SOLD
+Name a bag~
+Cost 1
+#SOLD
+Name a Orb of the Shielding~
+Cost 1
+#SOLD
+Name (Corrupted) A Dull Quiver~
+Cost 1
+#SOLD
+Name `&(`8tainted`&) `!M`1ask `&of `7F`8ury`7~
+Cost 751
+#SOLD
+Name A `$R`4estring `!C`1oupon`7~
+Cost 1
+#SOLD
+Name A `$R`4estring `!C`1oupon`7~
+Cost 1
+#SOLD
+Name `7Sack of Human Ears~
+Cost 1
+#SOLD
+Name `7Sack of Human Ears~
+Cost 1
+#SOLD
+Name `7Darkhound Skin Boots~
+Cost 1
+#SOLD
+Name `7Darkhound Skin Boots~
+Cost 1
+#SOLD
+Name `7A`6r`7m`6o`7r `6o`7f `6t`7h`6e`7 l`6o`7s`6t`*~
+Cost 1
+#SOLD
+Name Oath of Vengeance~
+Cost 1
+#SOLD
+Name a Pair Of Bone Leggings~
+Cost 1
+#SOLD
+Name a Helmet Of Bone~
+Cost 1
+#SOLD
+Name `8Sp`7i`8k`7e`8d `!A`1r`!m Gu`1ar`!ds `7of the `8MK `&Master`7~
+Cost 753
+#SOLD
+Name The `1M`2ud`1H`2aven `8P`7lug-in~
+Cost 1003
+#SOLD
+Name `8The Black Balloon`7~
+Cost 304
+#SOLD
+Name `@A`&ci`2d`8i`@c `8S`@t`2a`&i`@n`8ed `&C`2l`8oa`@k`7~
+Cost 304
+#SOLD
+Name `&A `6S`^p`6i`^r`6i`^t `5S`%t`5i`%c`5k`*~
+Cost 504
+#SOLD
+Name `&(`$Ancient`&) `&Nec`*k`3pl`*a`#te `&Of `!The `#Sun`*~
+Cost 753
+#SOLD
+Name `&(`8Graduation`&) `8A sh`1i`8ny s`!u`1i`8t`7~
+Cost 753
+#SOLD
+Name `7The `8C`7l`&o`7a`8k `7of `!M`8.`!B`1iso`!n`7~
+Cost 753
+#SOLD
+Name `7The `8C`7l`&o`7a`8k `7of `!M`8.`!B`1iso`!n`7~
+Cost 751
+#SOLD
+Name `7Fuligin Cloak of the Executioner~
+Cost 1001
+#SOLD
+Name a Rock Hard Gaze~
+Cost 654
+#SOLD
+Name `7Terminus Est~
+Cost 501
+#SOLD
+Name (Ancient) Book of Knowledge~
+Cost 504
+#SOLD
+Name `8Jack's `!I`1nf`!la`1me`!d S`1e`!n`1s`!e `7of `8Rejection`7~
+Cost 754
+#SOLD
+Name `!D`8r`!A`8g`!O`8n `!T`8o`!O`8t`!H`8e`!D `!N`8e`!C`8k`!L`8a`!C`8e`7~
+Cost 750
+#SOLD
+Name `7G`8loves `7of a `$S`4ha`8i`4do `$W`4arr`8i`4or`7~
+Cost 753
+#SOLD
+Name a `#S`3houlder `@P`2late `7with a `$S`4pear `7E`8mblem`7~
+Cost 1403
+#SOLD
+Name `1G`!o`&r`1e `7tattoo~
+Cost 454
+#SOLD
+Name (Ancient) Sa'angreal~
+Cost 654
+#SOLD
+Name `&(`$Ancient`&) `#Glo`*w`3ing `1Wristplate `2Of `&Moo`*nli`8ght`*~
+Cost 753
+#SOLD
+Name `&(`8Ta`&i`8n`&te`8d`&) `2Pr`@e`2s`@e`2n`@ce `&of `8the `2N`2y`8m`7~
+Cost 752
+#SOLD
+Name `&(`$Ancient`&) `#Glo`*w`3ing `1Wristplate `2Of `&Moo`*nli`8ght`*~
+Cost 753
+#STOREOBJ
+Vnum 3392
+Owner `*Warder~
+Guild 10
+Coffer 0
+Keeper Shopkeep~
+KeeperVnum 10
+LPaid 1001034961
+#ITEM
+Cost 50
+#O
+Vnum 8416
+ID 695477
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 50
+#O
+Vnum 8416
+ID 1022655
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 2405
+ID 3396
+Enchants 2
+PK 1
+Nest 0
+ShD  `3s`8o`1f`3t `7l`3e`1a`8t`3h`1e`7r `3b`1o`7o`8t`1s `3of `&S`7il`8en`7c`&e`7~
+Desc `3s`8o`1f`3t `7l`3e`1a`8t`3h`1e`7r `3b`1o`7o`8t`1s `3of `&S`7il`8en`7c`&e`7 creep around....~
+Wear -1
+Cost 20000
+End
+
+#ITEM
+Cost 900
+#O
+Vnum 11620
+ID 20717
+Enchants 2
+PK 0
+Enchanted
+Nest 0
+Name mud haven plug in~
+ShD  The `1M`2ud`1H`2aven `8P`7lug-in~
+ExtF 3
+Wear -1
+Lev  45
+Cost 4000
+Affc 'reserved'   1  85  -1   2   4          0
+Affc 'reserved'   1  85  -1  50  12          0
+Affc 'reserved'   1  85  -1   4  18          0
+Affc 'reserved'   1  85  -1   4  19          0
+Affc 'reserved'   0  80  -1 100  14          0
+Affc 'reserved'   0  80  -1  50  13          0
+Affc 'reserved'   0  80  -1  -5  24          0
+Affc 'reserved'   0  80  -1   2  18          0
+Affc 'reserved'   0  80  -1   2  19          0
+Affc 'reserved'   0  80  -1 -25  17          0
+End
+
+#ITEM
+Cost 1000
+#O
+Vnum 899
+ID 369085
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Lev  100
+Cost 0
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 28
+ID 339172
+Enchants 0
+PK 0
+Nest 0
+ShD  A pair of Acebo's `!b`1loody`* legs~
+Desc A pair of Acebo's `!b`1loody`* legs are here, twitching.~
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 750
+#O
+Vnum 12204
+ID 2710
+Enchants 0
+PK 1
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 7524
+ID 322292
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 12200
+ID 86707
+Enchants 0
+PK 1
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 3000
+#O
+Vnum 17055
+ID 29566
+Enchants 0
+PK 0
+Nest 0
+ExtF 83910913
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 100
+#O
+Vnum 6412
+ID 342427
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#ITEM
+Cost 1000
+#O
+Vnum 24402
+ID 368016
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 5000
+End
+
+#ITEM
+Cost 750
+#O
+Vnum 24404
+ID 660349
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 5000
+End
+
+#ITEM
+Cost 800
+#O
+Vnum 899
+ID 878278
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 20413
+ID 1023082
+Enchants 0
+PK 0
+Enchanted
+Nest 0
+ExtF 84410435
+Wear -1
+Cost 10000
+Affc 'reserved'   1 110  -1  -5  20          0
+Affc 'reserved'   1 110  -1  70  13          0
+Affc 'enchant weapon'   1  75  -1   5  19          0
+Affc 'enchant weapon'   0  75  -1   5  18          0
+End
+
+#ITEM
+Cost 800
+#O
+Vnum 11676
+ID 875
+Enchants 2
+PK 0
+Nest 0
+Name %~
+ShD  `!A`1n`8%`!A`1i`!e`1l `!S`1p`!e`1a`!r`7~
+Desc `!A`1n `!A`1i`!e`1l `!S`1p`!e`1a`!r`7~
+Cond 63
+Wear -1
+Cost 6650
+End
+
+#ITEM
+Cost 1000
+#O
+Vnum 15
+ID 896827
+Enchants 0
+PK 0
+Nest 0
+Name Ciem's Immortal Soul~
+ShD  `!C`1iem`!'`1s `@I`2mm`@ortal `%S`5o`%u`5l`7~
+Desc The sliced-off leg of A rat is lying here.~
+Ityp 13
+Wear -1
+Time -1
+Cost 0
+End
+
+#ITEM
+Cost 29
+#O
+Vnum 2409
+ID 344764
+Enchants 2
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#SOLD
+Name An `#E`3nchant `!C`1oupon`7~
+Cost 1000
+#STOREOBJ
+Vnum 3391
+Owner Treil~
+Guild 0
+Coffer 0
+Keeper Treil~
+KeeperVnum 0
+LPaid 0
+#ITEM
+Cost 1
+#O
+Vnum 10009
+ID 370299
+Enchants 0
+PK 0
+Nest 0
+ExtF 259
+Cond 87
+Wear -1
+Cost 5000
+End
+
+#SOLD
+Name the Bow of Shielding~
+Cost 1
+#SOLD
+Name (Corrupted) A Dull Quiver~
+Cost 1
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 1
+#SOLD
+Name `$A `!F`1igurine `#M`3ade `7of `8I`&vory`7~
+Cost 1
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 1
+#SOLD
+Name `8A C`*l`8o`*a`8k `*of `8Sh`*a`8d`*ow`8s`*~
+Cost 1
+#SOLD
+Name `8Re`&gh`8a`7n`8's `8A`&d`8i`&d`8a`&s `7Fl`8i`&p-`8F`&l`7o`8ps`7~
+Cost 1
+#SOLD
+Name `7a `8s`&ma`7l`8l `8b`7l`8a`&c`8k `7a`&u`8ra`7~
+Cost 1
+#SOLD
+Name `@A`&ci`2d`8i`@c `8S`@t`2a`&i`@n`8ed `&C`2l`8oa`@k`7~
+Cost 1
+#SOLD
+Name `7a `8s`&ma`7l`8l `8b`7l`8a`&c`8k `7a`&u`8ra`7~
+Cost 1
+#SOLD
+Name `3G`&o`3l`&d`3e`&n `3P`&l`3at`&e of `8Armor`7~
+Cost 1
+#SOLD
+Name the Bow of Shielding~
+Cost 1
+#SOLD
+Name `!T`1h`!e `1L`!a`1m`!p `7of `^F`6oresight`7 `7and `#S`3t`#r`3e`#n`3g`#t`3h`7~
+Cost 1
+#SOLD
+Name `!T`3u`#r`1k`!e`3y `#L`1u`!r`3k`#e`1y `!F`3e`#a`1t`!h`3e`#r`1s`7~
+Cost 1
+#SOLD
+Name `&Sh`7ad`8ow`7 Sword~
+Cost 1
+#SOLD
+Name `#(`&L`#i`&ght`#)`& L`8i`&g`&h`8t`&f`8o`&rge `!B`1o`!o`1t`8s`*~
+Cost 1
+#SOLD
+Name `!T`3u`#r`1k`!e`3y `#L`1u`!r`3k`#e`1y `!F`3e`#a`1t`!h`3e`#r`1s`7~
+Cost 1
+#SOLD
+Name `!T`1h`!e `1L`!a`1m`!p `7of `^F`6oresight`7 `7and `#S`3t`#r`3e`#n`3g`#t`3h`7~
+Cost 1
+#SOLD
+Name dreadlord's Belt~
+Cost 1
+#SOLD
+Name `?D`?r`?e`?y`?'s`? C`?o`?u`?p`?o`?n `?Q`?u`?e`?s`?t`*~
+Cost 50
+#SOLD
+Name `#(`&L`#i`&ght`#)`& L`8i`&g`&h`8t`&f`8o`&rge `!B`1o`!o`1t`8s`*~
+Cost 1
+#SOLD
+Name darkhound skin Boots~
+Cost 100
+#SOLD
+Name dreadlord's Belt~
+Cost 100
+#SOLD
+Name `8A `!H`1eron`&-`7M`8arked B`7l`&a`7d`8e`7~
+Cost 50
+#SOLD
+Name `3G`&o`3l`&d`3e`&n `3P`&l`3at`&e of `8Armor`7~
+Cost 1
+#SOLD
+Name `?D`?r`?e`?y`?'s`? C`?o`?u`?p`?o`?n `?Q`?u`?e`?s`?t`*~
+Cost 1
+#SOLD
+Name `#G`3o`8l`&d`3e`#n `&Greaves`7~
+Cost 1
+#SOLD
+Name `7a `8b`&la`7c`8k `8r`&o`7b`8e`7~
+Cost 1000
+#SOLD
+Name a Pair Of Bone Leggings~
+Cost 500
+#SOLD
+Name nightmare's breath~
+Cost 300
+#SOLD
+Name `#G`&old `#C`&oupon`*~
+Cost 100
+#SOLD
+Name `#G`&old `#C`&oupon`*~
+Cost 100
+#SOLD
+Name `#G`&old `#C`&oupon`*~
+Cost 100
+#SOLD
+Name `#G`&old `#C`&oupon`*~
+Cost 100
+#SOLD
+Name `#G`&old `#C`&oupon`*~
+Cost 100
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 1
+#SOLD
+Name a Orb of the Shielding~
+Cost 1
+#SOLD
+Name a Pair Of Bone Leggings~
+Cost 1
+#SOLD
+Name (Corrupted) A Dull Quiver~
+Cost 500
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 500
+#SOLD
+Name a Orb of the Shielding~
+Cost 500
+#SOLD
+Name `&Sh`7ad`8ow`7 Sword~
+Cost 1
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 1
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 1
+#SOLD
+Name a leather backpack~
+Cost 50
+#SOLD
+Name `&(`@F`2iery`&) `8T`*h`8e `!A`1x`!e `8o`*f `#G`3l`#or`3y`*~
+Cost 1
+#SOLD
+Name `&(`@F`2iery`&) `8T`*h`8e `!A`1x`!e `8o`*f `#G`3l`#or`3y`*~
+Cost 1
+#SOLD
+Name `&(`@F`2iery`&) `8T`*h`8e `!A`1x`!e `8o`*f `#G`3l`#or`3y`*~
+Cost 1
+#SOLD
+Name `&(`@F`2iery`&) `8T`*h`8e `!A`1x`!e `8o`*f `#G`3l`#or`3y`*~
+Cost 700
+#SOLD
+Name (Corrupted) Field Plate~
+Cost 1
+#SOLD
+Name the Bow of Shielding~
+Cost 1
+#SOLD
+Name `&Ring `8of `!G`1orbo`7~
+Cost 1
+#SOLD
+Name `&Ring `8of `!G`1orbo`7~
+Cost 1
+#SOLD
+Name a ruined keep key~
+Cost 1
+#STOREOBJ
+Vnum 2409
+Owner Dreyus~
+Guild 0
+Coffer 0
+Keeper Dreyus~
+KeeperVnum 0
+LPaid 0
+#ITEM
+Cost 99999
+#O
+Vnum 2411
+ID 344027
+Enchants 0
+PK 0
+Enchanted
+Nest 0
+ExtF 3
+Wear -1
+Cost 0
+Affc 'reserved'   1 100  -1 25000  18          0
+Affc 'reserved'   1 100  -1 25000  19          0
+Affc 'reserved'   0  80  -1 -500  24          0
+End
+
+#SOLD
+Name `&(`8Ta`&i`8n`&te`8d`&) `2Pr`@e`2s`@e`2n`@ce `&of `8the `2N`2y`8m`7~
+Cost 1
+#SOLD
+Name a `^Q`6uiver `7of `&Fine `!A`1rrows`7~
+Cost 1
+#SOLD
+Name `1(`!b`1l`!o`1od`!-`1c`!oa`1t`!e`!d`1) `8 S`&p`8i`&ke`8d `&Silver `7Leggings~
+Cost 1
+#SOLD
+Name `&(`!Legendary`&) `&Light `1Mask `&Of `@Cou`&r`2age`*~
+Cost 1
+#SOLD
+Name `&(`!Legendary`&) `8Dark `1Gauntlets `&Of `#Po`*w`&er`*~
+Cost 1
+#SOLD
+Name `#A C`&oupon `#of `#S`&tudy`*~
+Cost 1
+#SOLD
+Name A `$R`4estring `!C`1oupon`7~
+Cost 1
+#SOLD
+Name `8(`&T`7h`8r`&o`7b`*b`&i`7n`8g`&) `%P`5u`%r`5p`%l`5e `%H`5e`%l`5m`%e`5t`*~
+Cost 1
+#SOLD
+Name `&(`8Ta`&i`8n`&te`8d`&) `&R`8i`&ng `7of M`&a`8ch`&i`7n `8S`&h`8i`&n`7~
+Cost 1
+#SOLD
+Name `6B`5r`6a`5n`6d `4o`3f `2t`1h`2e `8I`*l`8l`*u`8m`*i`8n`*a`8t`*i~
+Cost 1
+#SOLD
+Name `8Re`&gh`8a`7n`8's `8A`&d`8i`&d`8a`&s `7Fl`8i`&p-`8F`&l`7o`8ps`7~
+Cost 1
+#SOLD
+Name dark crimson armbands~
+Cost 1
+#SOLD
+Name a `&B`8e`&t`8a `&T`8es`&T`8er`&s`^' `&B`7a`8d`7g`&e`*~
+Cost 1
+#SOLD
+Name `6B`5r`6a`5n`6d `4o`3f `2t`1h`2e `8I`*l`8l`*u`8m`*i`8n`*a`8t`*i~
+Cost 1
+#SOLD
+Name `&(`8Ta`&i`8n`&te`8d`&) `&R`8i`&ng `7of M`&a`8ch`&i`7n `8S`&h`8i`&n`7~
+Cost 1
+#SOLD
+Name `@A`&ci`2d`8i`@c `8S`@t`2a`&i`@n`8ed `&C`2l`8oa`@k`7~
+Cost 1
+#SOLD
+Name `1A`8ginor's `1B`8odyarmor `1Of `&Bone`*~
+Cost 1
+#SOLD
+Name a `^Q`6uiver `7of `&Fine `!A`1rrows`7~
+Cost 1
+#SOLD
+Name a `&B`8e`&t`8a `&T`8es`&T`8er`&s`^' `&B`7a`8d`7g`&e`*~
+Cost 1
+#SOLD
+Name `!A`8sha'`!M`8an `!A`8rm `!P`8lates`*~
+Cost 1
+#SOLD
+Name Shadow's Edge~
+Cost 1
+#STOREOBJ
+Vnum 3390
+Owner Katsumi~
+Guild 0
+Coffer 300
+Keeper Shopkeep~
+KeeperVnum 10
+LPaid 993235097
+#ITEM
+Cost 500
+#O
+Vnum 3803
+ID 7087
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 1000
+#O
+Vnum 30005
+ID 54
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 2000
+End
+
+#ITEM
+Cost 1800
+#O
+Vnum 899
+ID 20691
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Lev  100
+Cost 0
+End
+
+#SOLD
+Name a Helmet Of Bone~
+Cost 300
+#SOLD
+Name myrddraal's Fear~
+Cost 80
+#SOLD
+Name `?D`?r`?e`?y`?'s`? C`?o`?u`?p`?o`?n `?Q`?u`?e`?s`?t`*~
+Cost 15
+#SOLD
+Name a Orb of the Shielding~
+Cost 30
+#SOLD
+Name (Corrupted) Longsword~
+Cost 1
+#SOLD
+Name a Pair Of Bone Leggings~
+Cost 300
+#STOREOBJ
+Vnum 3393
+Owner Tagar~
+Guild 0
+Coffer 700
+Keeper Shopkeep~
+KeeperVnum 10
+LPaid 1000945604
+#ITEM
+Cost 400
+#O
+Vnum 6405
+ID 666370
+Enchants 0
+PK 0
+Nest 0
+ExtF 536871171
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 350
+#O
+Vnum 3812
+ID 608512
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 200
+#O
+Vnum 2406
+ID 409919
+Enchants 2
+PK 0
+Enchanted
+Nest 0
+Cond 80
+Wear -1
+Cost 10000
+Affc 'reserved'   1  95  -1  -5  20          0
+Affc 'reserved'   1  95  -1  50  13          0
+Affc 'reserved'   1  95  -1   5  18          0
+Affc 'reserved'   1  95  -1   5  19          0
+End
+
+#ITEM
+Cost 350
+#O
+Vnum 3810
+ID 608050
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 1600
+#O
+Vnum 24475
+ID 571195
+Enchants 0
+PK 0
+Nest 0
+Wt   150
+Wear -1
+Cost 3000
+End
+
+#ITEM
+Cost 300
+#O
+Vnum 2405
+ID 340210
+Enchants 0
+PK 0
+Nest 0
+ShD  darkhound skin Boots~
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 1400
+#O
+Vnum 24402
+ID 478153
+Enchants 0
+PK 0
+Nest 0
+ExtF 553648384
+Wear -1
+Cost 5000
+End
+
+#ITEM
+Cost 3500
+#O
+Vnum 6452
+ID 488672
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 7500
+End
+
+#ITEM
+Cost 1200
+#O
+Vnum 24501
+ID 457788
+Enchants 0
+PK 0
+Nest 0
+ExtF 620757057
+Wear -1
+Cost 1000
+End
+
+#ITEM
+Cost 1800
+#O
+Vnum 24431
+ID 186728
+Enchants 0
+PK 0
+Enchanted
+Nest 0
+Wear -1
+Cost 2000
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'reserved'   1 110  -1  10  19          0
+Affc 'reserved'   1 110  -1  10  18          0
+Affc 'detect hidden'   0  81  -1   0  25          6
+Affc 'detect invis'   0  81  -1   0  25          4
+Affc 'fly'   0  81  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+End
+
+#ITEM
+Cost 1000
+#O
+Vnum 6411
+ID 489875
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#ITEM
+Cost 1000
+#O
+Vnum 6411
+ID 565832
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#ITEM
+Cost 350
+#O
+Vnum 3810
+ID 571558
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 250
+#O
+Vnum 8416
+ID 611568
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 200
+#O
+Vnum 7524
+ID 653824
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 300
+#O
+Vnum 6404
+ID 1126185
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1
+End
+
+#SOLD
+Name (Corrupted) Sentry Boots~
+Cost 350
+#SOLD
+Name `$A `&S`4l`8ee`$k `&Pair of `$Se`8a`&n`$ch`8a`&n `$B`8oo`$t`&s`*~
+Cost 1
+#SOLD
+Name `&The `^M`8e`^d`8a`^l`8l`^i`8o`^n `&of `^V`8a`^l`8o`^u`8r`7~
+Cost 900
+#SOLD
+Name (Corrupted) Wrist Plate~
+Cost 350
+#SOLD
+Name (Corrupted) Wrist Plate~
+Cost 350
+#SOLD
+Name (Corrupted) Sentry Boots~
+Cost 350
+#STOREOBJ
+Vnum 21916
+Owner Tinker~
+Guild 1
+Coffer 0
+Keeper Shopkeep~
+KeeperVnum 10
+LPaid 998944262
+#ITEM
+Cost 100
+#O
+Vnum 10007
+ID 487274
+Enchants 2
+PK 0
+Nest 0
+Name Lighter f The Lef~
+ShD  `@L`#i`@g`#h`@t`#e`@r `%`o`5f `!T`1h`!e `@L`2e`@`a`2f`*~
+Desc A small lighter inscribed with a glowing `@4`22`@0 `*rests here.~
+ExtF 257
+Wear -1
+Cost 5000
+End
+
+#ITEM
+Cost 100
+#O
+Vnum 10131
+ID 677939
+Enchants 0
+PK 0
+Nest 0
+Cond 73
+Wear -1
+Cost 1000
+End
+
+#ITEM
+Cost 200
+#O
+Vnum 14002
+ID 588815
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 100
+#O
+Vnum 10007
+ID 515364
+Enchants 0
+PK 0
+Nest 0
+ExtF 257
+Wear -1
+Cost 5000
+End
+
+#ITEM
+Cost 600
+#O
+Vnum 899
+ID 526706
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Lev  100
+Cost 0
+End
+
+#ITEM
+Cost 300
+#O
+Vnum 17052
+ID 4049
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 6404
+ID 5471
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1
+End
+
+#ITEM
+Cost 200
+#O
+Vnum 14002
+ID 527403
+Enchants 2
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 200
+#O
+Vnum 11708
+ID 53
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 10000
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 20413
+ID 671276
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 10000
+Val  3 75 1 1 152
+End
+
+#ITEM
+Cost 200
+#O
+Vnum 20418
+ID 670421
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#SOLD
+Name a Sadist's Ring~
+Cost 1
+#SOLD
+Name a Foxhead Medallion~
+Cost 1
+#SOLD
+Name a deadly looking stiletto~
+Cost 1
+#SOLD
+Name a worn leather belt~
+Cost 1
+#SOLD
+Name a small iron shield~
+Cost 1
+#SOLD
+Name a sword-breaker~
+Cost 1
+#SOLD
+Name Blade of the Wolf~
+Cost 1
+#SOLD
+Name claws of damnation~
+Cost 1
+#SOLD
+Name dark crimson armbands~
+Cost 300
+#SOLD
+Name `7Darkhound Skin Boots~
+Cost 150
+#SOLD
+Name `7Darkhound Skin Boots~
+Cost 1
+#SOLD
+Name `7Darkhound Skin Boots~
+Cost 1
+#SOLD
+Name `7Darkhound Skin Boots~
+Cost 1
+#SOLD
+Name `7Darkhound Skin Boots~
+Cost 1
+#SOLD
+Name a leather bracelet~
+Cost 1
+#SOLD
+Name `7Darkhound Skin Boots~
+Cost 1
+#SOLD
+Name `7Illuminators Gloves of Protection~
+Cost 450
+#SOLD
+Name `8C`*l`&o`*u`8d `#`o`3f `#t`3h`#e `@L`2e`a`@f`*~
+Cost 100
+#SOLD
+Name `@4`22`@0 `!G`1lass`!e `#`o`3f `#t`3h`#e `@L`2e`a`@f`*~
+Cost 75
+#SOLD
+Name (Legendary) Birgitte's Quiver~
+Cost 300
+#SOLD
+Name a Legendary Bow~
+Cost 500
+#SOLD
+Name an Ancient Sword~
+Cost 400
+#SOLD
+Name a Sadist's Ring~
+Cost 50
+#SOLD
+Name a pair of pitch black greaves~
+Cost 100
+#SOLD
+Name `@A `#S`3mal`#l `%B`5a`%g `*`o`8f `@M`2a`@r`2i`@j`2u`@a`2n`@a`* ~
+Cost 50
+#STOREOBJ
+Vnum 5
+Owner Asmodeus~
+Guild 0
+Coffer 0
+Keeper Asmodeus~
+KeeperVnum 0
+LPaid 0
+#End

@@ -1,0 +1,2101 @@
+#AREADATA
+Name Tanchico~
+Builders Dreyus Traym~
+VNUMs 21100 21199
+Credits `4[`7 High `4]`7 Thom      Tanchico~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#21100
+tanchico citizen~
+A citizen~
+A Tanchico citizen is here, looking for somewhere to go. 
+~
+They seem to have such a phisique and style to them all their own. The
+walk of Tanchico citizens is very strange, yet beautiful. They seem to have
+a sack over their shoulders, most likely on the way to the market. 
+~
+unique~
+0 0
+AG 0 0 0 0 -1  -1000 0
+50 25 10d10+2250 30d10+100 5d2+25 beating
+-3 -3 -3 -3
+0 B 0 0
+stand stand either 1000
+0 0 medium unknown
+#21101
+Tanchico cityguard guard~
+A guard~
+A cityguard walks around, looking for trouble to settle. 
+~
+This man is very strong, and very rude. He glances at you and says
+'`&MOVE ALONG`7. ' No wonder the people here resent the way things are done.
+~
+unique~
+0 0
+A 0 0 0 0 -1  -1000 0
+55 56 10d50+2500 0d0+0 4d8+32 slash
+-3 -3 -3 -3
+0 B 0 0
+stand stand male  4500
+0 0 large unknown
+#21102
+tanchico beggar~
+A beggar~
+A person staggers around, muttering things to himself. 
+~
+It smells of old banana peels and moldy crusts. It stumbles across your
+path, asking for your help. Maybe you can spare a silver or two. 
+~
+unique~
+0 0
+AG 0 0 0 0 -1  -1000 0
+55 25 10d50+1750 0d0+0 5d2+25 punch
+-3 -3 -3 -3
+0 B 0 0
+stand stand none 10
+0 0 medium unknown
+#21103
+tanchico noble~
+A noble~
+A noble is here, looking very rich. 
+~
+~
+unique~
+0 0
+AG 0 0 0 0 -1  -1000 0
+85 45 10d60+4000 0d0+0 5d3+45 flame
+-15 -15 -15 -10
+0 B J 0
+stand stand either 0
+0 0 medium unknown
+#21104
+tanchico bodyguard guard~
+A bodyguard~
+A bodyguard is making sure his job is getting done. 
+~
+~
+unique~
+0 0
+AG 0 0 0 0 -1  -1000 0
+85 42 10d60+5100 0d0+0 2d5+35 pierce
+-3 -3 -3 -3
+0 B J 0
+stand stand none 0
+0 0 medium unknown
+#21105
+tanchico merchant~
+A Tanchican merchant~
+A merchant walks around, looking for things to buy and sell. 
+~
+~
+unique~
+0 0
+AG 0 0 0 0 -1  -1000 0
+85 42 10d50+4000 0d0+0 2d5+42 beating
+-15 -15 -15 -10
+0 B J 0
+stand stand none 1000
+0 0 medium unknown
+#21106
+tanchico lady~
+The Panarch's lady~
+A lady of the panarch looks for a young servent to harrass. 
+~
+~
+unique~
+0 0
+AG 0 0 0 0 -1  -1000 0
+89 45 10d50+6200 0d0+0 5d3+35 punch
+-15 -15 -15 -10
+0 B J 0
+stand stand none 0
+0 0 medium unknown
+#21110
+slave quest master questmaster~
+`^T`6he `^S`6lave `^Q`6uestmaster`7~
+`^D`6iem's `^S`6lave `^Q`6uestmaster`7 stands here awaiting Draw tickets.`7
+~
+~
+illian~
+0 0
+ABZe 80 0 0 0 -1  0 0
+500 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 21110 thom~
+M GIVE 21110 draw~
+#21173
+Ayolia tanchico~
+Ayolia~
+A beautiful young Panarch maid stands here, waiting for the Panarch to return.
+~
+~
+unique~
+0 0
+AB 80 1088 0 0 -1  0 0
+200 0 60000d1+1 1000d1+0 2000d1+1 none
+-190 -190 -190 -190
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+M SPEECH 21173 wrong~
+M SPEECH 21174 yes~
+M GRALL 21172 40~
+#21174
+jol captain guard tanchico~
+Jol Deane~
+A man with fatigue and worry on his face stands here, apparently the Captain of the Guards
+~
+~
+unique~
+0 0
+ABTe 80 1088 0 0 -1  0 0
+200 0 70000d1+0 0d0+0 2000d1+0 none
+-190 -190 -190 -190
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M GIVE 21177 21175~
+M SPEECH 21175 sent~
+#21175
+lieutenant kyarn tanchico~
+Lieutenant Kyarn~
+A Lieutenant of some sort stands here, examining the ground.
+~
+~
+unique~
+0 0
+ABTe 80 1088 0 0 -1  0 0
+200 0 60000d1+0 0d0+0 2000d1+0 none
+-150 -150 -150 -150
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M SPEECH 21176 evidence~
+#21195
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#21196
+Blind guy~
+Bathroom Man~
+A Blind Guy is here, offering complementary things.
+~
+This man is huge, and made of metal.  He is a robot of superior intelligence.
+~
+unique~
+0 0
+ABGJKabd 256 8256 0 0 -1  0 0
+84 0 1000d1+20000 0d0+0 0d0+0 none
+0 0 0 0
+FKL A 0 0
+stand stand none 5000000
+0 0 huge unknown
+M GRALL 7 100~
+#21198
+black ajah~
+Alviarin~
+Alviarin, leader of the `8Black Ajah`7 stands here, instilling fear
+inside you. 
+~
+`8DIE AGAIN! ! ! `7 
+~
+unique~
+0 0
+AZ 8448 80 0 0 -1  -1000 0
+90 110 1000d1+19000 1000d1+10000 30d1+120 magic
+-60 -60 -60 -60
+AFK 0 J 0
+stand stand female 0
+0 0 large unknown
+#21199
+black sister ajah~
+A `8Black Sister`7~
+A woman of the `8Black Ajah`7 is here, meddling with the power. 
+~
+`8DIE! ! `7 
+~
+unique~
+0 0
+ABGZ 8192 0 0 0 -1  -1000 0
+80 40 1000d1+16000 1000d1+10000 30d1+70 wrath
+-50 -50 -50 -50
+AFK 0 0 0
+stand stand female 0
+0 0 large unknown
+#0
+
+
+
+#OBJECTS
+#21100
+diem prize draw coupon~
+`3D`&i`3em Pr`&i`3ze Dr`&a`3w C`&o`3up`&o`3n`7~
+`7~
+toilet paper~
+treasure 0 A
+0
+0 0 0 0 0
+100 0 0 P
+ T 0 none~
+#21101
+diem prize draw coupon~
+`3D`&i`3em Pr`&i`3ze Dr`&a`3w C`&o`3up`&o`3n`7~
+`7~
+unknown~
+treasure 0 A
+0
+0 0 0 0 0
+100 0 0 P
+ T 0 none~
+#21102
+diem prize draw coupon~
+`3D`&i`3em Pr`&i`3ze Dr`&a`3w C`&o`3up`&o`3n`7~
+`7~
+unknown~
+treasure 0 A
+0
+0 0 0 0 0
+100 0 0 P
+ T 0 none~
+#21175
+tanchico evidence quest thing~
+a small piece of paper with scribbled writting~
+A piece of paper floats through the air waiting to be picked up.~
+paper~
+paper 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#21193
+soap~
+"The soap"~
+Oh, please dont drop this, it could mean your life.~
+unknown~
+jewelry 0 A
+0
+0 0 0 0 0
+0 0 500 P
+ T 0 none~
+#21194
+stall~
+a wooden stall~
+A stall is here, guarding those who are too embarrassed of their 'thingies'.~
+unknown~
+portal 0 0
+0
+0 AB 0 BCDFGHIJL 0
+0 0 0 P
+ T 0 none~
+#21195
+Reduces my weight~
+reduces my weight~
+This object Reduces my weight.~
+unknown~
+armor 0 AL
+0
+0 0 0 0 0
+0 0 0 P
+A
+11 -25541
+ T 0 none~
+#21196
+urinal~
+a stained urinal~
+A urinal is hanging on the wall, looking barely used.~
+unknown~
+furniture 0 0
+0
+CFG ABCDEFGHIJKLMNOPQRSTUVWXYZabcde FIL CFG CFG
+0 0 0 P
+ T 0 none~
+#21197
+toilet shitter~
+a shitter~
+A toilet is in the corner, smelling of roses.~
+leather~
+furniture 0 0
+0
+BD HJKMPTUX EHK EGHIJK EGHIJK
+0 0 0 P
+ T 0 none~
+#21198
+Quest bag~
+`8A Q`1u`!e`8st B`1a`8g`7~
+A indestructable bag just lays here, it has no bottom.~
+polyester~
+container ABGHY AL
+0
+1000000 A 0 1000000 25
+65 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#21100
+Entrance to Tanchico~
+This is a northern entrance into the city of Tanchico.  As you step
+further south, you will be able to see more clearly the lights in the
+Panarch's Palace burning brightly.  Also, the three peninsulas can be seen
+clearly here, lit up and lively as always.  
+~
+0 0 2
+D0
+~
+~
+0 0 38064
+D2
+~
+~
+0 0 21101
+S
+#21101
+Gravel Road~
+Contiuing on to the south is the road leading into the city itself.  This
+gravel road is well-maintained and you can see workers keeping the roads
+nice and neat.  
+~
+0 0 1
+D0
+~
+~
+0 0 21100
+D2
+~
+~
+0 0 21102
+S
+#21102
+Gravel Road~
+Contiuing on to the south is the road leading into the city itself.  This
+gravel road is well-maintained and you can see workers keeping the roads
+nice and neat.  
+~
+0 0 1
+D0
+~
+~
+0 0 21101
+D2
+~
+~
+0 0 21103
+S
+#21103
+An intersection~
+There is a intersection here leading in all directions.  To the east and
+west, you can see alleys forming between various buildings.  It doesn't look
+like a good idea to travel down them.  
+~
+0 0 1
+D0
+~
+~
+0 0 21102
+D1
+~
+~
+0 0 21118
+D2
+~
+~
+0 0 21104
+D3
+~
+~
+0 0 21119
+S
+#21104
+Gravel Road~
+Contiuing on to the south is the road leading into the city itself.  This
+gravel road is well-maintained and you can see workers keeping the roads
+nice and neat.  
+~
+0 0 0
+D0
+~
+~
+0 0 21103
+D2
+~
+~
+0 0 21105
+S
+#21105
+Gravel Road~
+Contiuing on to the south is the road leading into the city itself.  This
+gravel road is well-maintained and you can see workers keeping the roads
+nice and neat.  
+~
+0 0 1
+D0
+~
+~
+0 0 21104
+D2
+~
+~
+0 0 21106
+S
+#21106
+Gravel Road~
+Contiuing on to the south is the road leading into the city itself.  This
+gravel road is well-maintained and you can see workers keeping the roads
+nice and neat.
+~
+0 0 1
+D0
+~
+~
+0 0 21105
+D2
+~
+~
+0 0 21107
+S
+#21107
+Gravel Road~
+Contiuing on to the south is the road leading into the city itself.  This
+gravel road is well-maintained and you can see workers keeping the roads
+nice and neat.
+~
+0 0 0
+D0
+~
+~
+0 0 21106
+D2
+~
+~
+0 0 21108
+S
+#21108
+Gravel Road~
+To the north you can see the road leading out of Tanchico.  To the south
+you can see what looks to be a main crossroads in the city.  Way off to the
+east you can still make out the palace.  
+~
+0 0 0
+D0
+~
+~
+0 0 21107
+D2
+~
+~
+0 0 21109
+S
+#21109
+Main Crossroads~
+This is one of a few main crossroads in the city of Tanchico.  To the
+east you can follow the Panarch's road towards the palace.  To the north,
+you may follow a slightly smaller road out of the city.  To the west is a
+market road, where people meet to sell various wares.  And finally, to the
+south, you will find the vast majority of the city still awaiting your
+travels.  
+~
+0 0 1
+D0
+~
+~
+0 0 21108
+D1
+~
+~
+0 0 21120
+D2
+~
+~
+0 0 21110
+D3
+~
+~
+0 0 21121
+S
+#21110
+Pebble Road~
+~
+0 0 1
+D0
+~
+~
+0 0 21109
+D2
+~
+~
+0 0 21111
+S
+#21111
+Pebble Road~
+~
+0 0 1
+D0
+~
+~
+0 0 21110
+D2
+~
+~
+0 0 21112
+S
+#21112
+Pebble Road~
+~
+0 0 1
+D0
+~
+~
+0 0 21111
+D2
+~
+~
+0 0 21113
+S
+#21113
+Pebble Road~
+~
+0 0 1
+D0
+~
+~
+0 0 21112
+D2
+~
+~
+0 0 21114
+S
+#21114
+Pebble Road~
+~
+0 0 1
+D0
+~
+~
+0 0 21113
+D2
+~
+~
+0 0 21115
+S
+#21115
+An intersection~
+~
+0 0 1
+D0
+~
+~
+0 0 21114
+D1
+~
+~
+0 0 21122
+D2
+~
+~
+0 0 21116
+S
+#21116
+Pebble Road~
+~
+0 0 1
+D0
+~
+~
+0 0 21115
+D2
+~
+~
+0 0 21117
+S
+#21117
+Pebble Road~
+~
+0 0 1
+D0
+~
+~
+0 0 21116
+D1
+~
+~
+0 0 21171
+D2
+~
+~
+0 0 21199
+S
+#21118
+An alley~
+This is a back alley between some of the building in and around Tanchico.
+It's dark, smelly, and you see beggars around everywhere.  It might be a
+good idea to leave soon.
+~
+0 0 1
+D1
+~
+~
+0 0 21123
+D3
+~
+~
+0 0 21103
+S
+#21119
+An alley~
+This is a back alley between some of the building in and around Tanchico.
+It's dark, smelly, and you see beggars around everywhere.  It might be a
+good idea to leave soon.  
+~
+0 0 1
+D1
+~
+~
+0 0 21103
+D3
+~
+~
+0 0 21126
+S
+#21120
+Panarch's Avenue~
+This road continues to the east towards the palace of the Panarch.  The
+Panarch is the ruler in Tarabon, and whatever they say, goes.  The road is
+very well kept, perhaps the most well-kept in the whole city.  But that is
+too be expected of course, as the Panarch travels this road quite a bit.  
+~
+0 0 1
+D1
+~
+~
+0 0 21129
+D3
+~
+~
+0 0 21109
+S
+#21121
+Market Road~
+This is the main market road.  It continues on to the west, and to the
+east is the intersection that eventually leads you to the palace.  To the
+south you can see what used to be a store, but is no longer.  
+~
+0 4 1
+D1
+~
+~
+0 0 21109
+D2
+~
+~
+0 0 21196
+D3
+~
+~
+0 0 21192
+S
+#21122
+King's Avenue~
+~
+0 0 1
+D1
+~
+~
+0 0 21160
+D3
+~
+~
+0 0 21115
+S
+#21123
+An alley~
+This is a back alley between some of the building in and around Tanchico.
+It's dark, smelly, and you see beggars around everywhere.  It might be a
+good idea to leave soon.
+~
+0 0 1
+D2
+~
+~
+0 0 21124
+D3
+~
+~
+0 0 21118
+S
+#21124
+A back alley~
+This is a back alley between some of the building in and around Tanchico.
+It's dark, smelly, and you see beggars around everywhere.  It might be a
+good idea to leave soon.
+~
+0 0 1
+D0
+~
+~
+0 0 21123
+D2
+~
+~
+0 0 21125
+S
+#21125
+A back alley~
+This is a back alley between some of the building in and around Tanchico.
+It's dark, smelly, and you see beggars around everywhere.  It might be a
+good idea to leave soon.
+~
+0 0 1
+D0
+~
+~
+0 0 21124
+S
+#21126
+An alley~
+This is a back alley between some of the building in and around Tanchico.
+It's dark, smelly, and you see beggars around everywhere.  It might be a
+good idea to leave soon.
+~
+0 0 1
+D1
+~
+~
+0 0 21119
+D2
+~
+~
+0 0 21127
+S
+#21127
+A back alley~
+This is a back alley between some of the building in and around Tanchico.
+It's dark, smelly, and you see beggars around everywhere.  It might be a
+good idea to leave soon.
+~
+0 0 1
+D0
+~
+~
+0 0 21126
+D2
+~
+~
+0 0 21128
+S
+#21128
+A back alley~
+This is a back alley between some of the building in and around Tanchico.
+It's dark, smelly, and you see beggars around everywhere.  It might be a
+good idea to leave soon.
+~
+0 408952836 1
+D0
+~
+~
+0 0 21127
+S
+#21129
+Panarch's Avenue~
+This road continues to the east towards the palace of the Panarch.  The
+Panarch is the ruler in Tarabon, and whatever they say, goes.  The road is
+very well kept, perhaps the most well-kept in the whole city.  But that is
+too be expected of course, as the Panarch travels this road quite a bit.
+~
+0 0 1
+D1
+~
+~
+0 0 21130
+D3
+~
+~
+0 0 21120
+S
+#21130
+Panarch's Avenue~
+This road continues to the east towards the palace of the Panarch.  The
+Panarch is the ruler in Tarabon, and whatever they say, goes.  The road is
+very well kept, perhaps the most well-kept in the whole city.  But that is
+too be expected of course, as the Panarch travels this road quite a bit. 
+There appears to be a small path leading to an open courtyard to the south. 
+~
+0 0 1
+D1
+~
+~
+0 0 21133
+D2
+~
+~
+0 0 21131
+D3
+~
+~
+0 0 21129
+S
+#21131
+A small path~
+This is a small path leading from the main road to the north and
+continuing on to the south to a small courtyard.  Many nobles and citizens
+alike abound in the courtyard, and the scenery is exquisite.  
+~
+0 0 1
+D0
+~
+~
+0 0 21130
+D2
+~
+~
+0 0 21132
+S
+#21132
+A courtyard~
+This courtyard is quaint in it's size.  It is tree lined to the east and
+the west, and to the north you can see the path leading to the main road. 
+The southern view however is the main reason this courtyard was created. 
+You can see for what may be miles and miles.  Overlooking the other
+peninsulas, you can see people milling about all over the place.  
+~
+0 0 1
+D0
+~
+~
+0 0 21131
+S
+#21133
+Panarch's Avenue~
+To the east, you can see the entrance tot he Panarch's palace.  It is a
+grand entrance, full of pomp and circumstance.  To the west, you can see the
+continuation of the road you are currently on.  
+~
+0 0 1
+D1
+~
+~
+0 0 21134
+D3
+~
+~
+0 0 21130
+S
+#21134
+Before the Panarch's Palace~
+The grand entrance of the Panarch is here before you.  A doorway 20 feet
+high stands before you, always open, waiting for nobles and liveried
+servants alike.  To the east is an antechamber into the palace itself.  And
+to the west is the great avenue of the Panarch.  
+~
+0 0 1
+D1
+~
+~
+0 0 21135
+D3
+~
+~
+0 0 21133
+S
+#21135
+An antechamber~
+Here is the antechamber into the palace.  There are servants here to take
+your cloaks and to help you clean off a bit before you make your appearance
+into the palace itself.  Please wipe your feet on the mats provided prior to
+entering.  
+~
+0 0 0
+D1
+~
+~
+0 0 21136
+D3
+~
+~
+0 0 21134
+S
+#21136
+A lobby~
+This is one of the main lobbies in the palace.  It is decorated along the
+walls with carpets and paintings from all over the world.  Nobles and guards
+and other people pass you by as you make your way across the lobby.  To the
+west is the antechamber and then the exit out, and to the east is a
+corridoor going further into the palace itself.  
+~
+0 0 0
+D1
+~
+~
+0 0 21137
+D3
+~
+~
+0 0 21135
+S
+#21137
+A thin corridor~
+This is a small corridoor running approximately east to west.  Small
+being a figurative word though, as there is still enough room to pull an ox
+cart through the hallway, (although the Panarch might get a little upset if
+you do) and the ceilings are 20 feet high.  
+~
+0 0 0
+D1
+~
+~
+0 0 21138
+D3
+~
+~
+0 0 21136
+S
+#21138
+A split hallway~
+This hallway continues from the west to the east, but it also splits off
+to the north, towards some sleeping chambers and then finally into the
+throne room itself.  To the east, you can smell what must be the kitchen,
+and the cook must be a good one.  
+~
+0 0 0
+D0
+~
+~
+0 0 21151
+D1
+~
+~
+0 0 21139
+D3
+~
+~
+0 0 21137
+S
+#21139
+The kitchen~
+This is the main kitchen for the Panarch and the other nobles of the
+palace.  Venison, mutton, and steaming soups can be seen all along one wall,
+and the other side of the room are great baking ovens putting out breads of
+all shapes and sizes.  
+~
+0 0 0
+D1
+~
+~
+0 0 21140
+D3
+~
+~
+0 0 21138
+S
+#21140
+The back door~
+SHHHHH.  You are not supposed to know about this back door leading into
+the palace.  I hope you aren't planning something wicked here.  This door is
+hidden among the bushes so as not to attract too much attention.  There is a
+path leading to the north, and the Circle Road is to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 21189
+D1
+~
+~
+0 0 21141
+D3
+~
+~
+0 0 21139
+S
+#21141
+Circle Road~
+~
+0 0 1
+D1
+~
+~
+0 0 21142
+D3
+~
+~
+0 0 21140
+S
+#21142
+Panarch's Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21147
+D1
+~
+~
+0 0 21143
+D2
+~
+~
+0 0 21150
+D3
+~
+~
+0 0 21141
+S
+#21143
+Panarch's Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21146
+D1
+~
+~
+0 0 21144
+D2
+~
+~
+0 0 21149
+D3
+~
+~
+0 0 21142
+S
+#21144
+Panarch's Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21145
+D2
+~
+~
+0 0 21148
+D3
+~
+~
+0 0 21143
+S
+#21145
+Panarch's Circle~
+~
+0 0 1
+D2
+~
+~
+0 0 21144
+D3
+~
+~
+0 0 21146
+S
+#21146
+Panarch's Circle~
+~
+0 0 1
+D1
+~
+~
+0 0 21145
+D2
+~
+~
+0 0 21143
+D3
+~
+~
+0 0 21147
+S
+#21147
+Panarch's Circle~
+~
+0 0 1
+D1
+~
+~
+0 0 21146
+D2
+~
+~
+0 0 21142
+S
+#21148
+Panarch's Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21144
+D3
+~
+~
+0 0 21149
+S
+#21149
+Panarch's Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21143
+D1
+~
+~
+0 0 21148
+D3
+~
+~
+0 0 21150
+S
+#21150
+Panarch's Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21142
+D1
+~
+~
+0 0 21149
+S
+#21151
+Sleeping quarters~
+Here is the entrance to the sleeping quarters of those employed at the
+palace.  If you continue north through this hallway, you will eventually
+reach the throne room itself.  To the south is a hallway that eventually
+will lead you out.  
+~
+0 0 0
+D0
+~
+~
+0 0 21152
+D2
+~
+~
+0 0 21138
+S
+#21152
+Sleeping quarters~
+Here is the great room for the sleeping quarters.  To the east are
+servants quarters, and to the west are the ladies in waiting quarters.  If
+you continue to the north, you will eventually reach the throne room, and to
+the south is the entrance to the sleeping quarters.  
+~
+0 0 0
+D0
+~
+~
+0 0 21155
+D1
+~
+~
+0 0 21153
+D2
+~
+~
+0 0 21151
+D3
+~
+~
+0 0 21154
+S
+#21153
+Servent's room~
+Sparse decorations surround this room, as it is mostly just bunkbeds and
+clothes trunks littered among the room.  This is where the servants of the
+Panarch sleep, and there is barely enough room to move about, let alone
+sleep.  
+~
+0 0 0
+D3
+~
+~
+0 0 21152
+S
+#21154
+Lady's room~
+This is the sleeping room of the ladies in waiting for the Panarch.  This
+room is always abuzz with activity, as there are many ladies usually crammed
+into this one room.  And since there is only one bathroom, it takes them
+forever to get ready, so the ladies are usually grumpy.  
+~
+0 0 0
+D1
+~
+~
+0 0 21152
+S
+#21155
+Sleeping quarters~
+This is the northern entrance to the sleeping quarters for the ladies in
+waiting and the servants who take care of everyone.  To the north you can
+just make out what appears to be a very opulent room.  And to the south you
+can see the great room and the doors leading to the actual bedchambers.  
+~
+0 0 0
+D0
+~
+~
+0 0 21156
+D2
+~
+~
+0 0 21152
+S
+#21156
+Before the Panarch's room~
+To the north is the throne room of the Panarch, and to the east is the
+Panarch's personal bedchamber.  It is no wonder why the Panarch tends to be
+a bit on the portly side, because of the short walk needed to get from the
+bed to the throne room.  
+~
+0 0 0
+D0
+~
+~
+0 0 21158
+D1
+~
+~
+0 0 21157
+D2
+~
+~
+0 0 21155
+S
+#21157
+The Panarch's room~
+This is the Panarch's bedchamber, and you can really tell because of the
+stylings of the room.  There is a big four poster bed on one side, and a
+very large sitting area on the other.  To the east you can see where the
+door leads to the bathroom.  
+~
+0 0 0
+D1
+~
+~
+0 0 21159
+D3
+~
+~
+0 0 21156
+S
+#21158
+The Throne room~
+This is the throne room where the Panarch and other nobles hold their
+meetings.  The room itself is ornately covered in rugs from around the
+globe, and the throne itself is carved from a large tree trunk found in the
+forests of Amador.  It was then gilded with gold and other jewels.  
+~
+0 406855692 0
+D2
+~
+~
+0 0 21156
+S
+#21159
+The bathroom~
+The bathroom of a Panarch!  Normally not seen by the public, you somehow
+have stumbled in unseen.  A large mirror sits over a large oval wash basin. 
+And there is a commode tucked away in the corner.  A large bathtub is also
+here, ready for the Panarch's needs.
+~
+0 0 0
+D3
+~
+~
+0 0 21157
+S
+#21160
+King's Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 21186
+D1
+~
+~
+0 0 21161
+D3
+~
+~
+0 0 21122
+S
+#21161
+King's Avenue~
+~
+0 0 1
+D1
+~
+~
+0 0 21162
+D3
+~
+~
+0 0 21160
+S
+#21162
+King's Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21167
+D1
+~
+~
+0 0 21163
+D2
+~
+~
+0 0 21168
+D3
+~
+~
+0 0 21161
+S
+#21163
+King's Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21166
+D1
+~
+~
+0 0 21164
+D2
+~
+~
+0 0 21169
+D3
+~
+~
+0 0 21162
+S
+#21164
+King's Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21165
+D2
+~
+~
+0 0 21170
+D3
+~
+~
+0 0 21163
+S
+#21165
+King's Circle~
+~
+0 0 1
+D2
+~
+~
+0 0 21164
+D3
+~
+~
+0 0 21166
+S
+#21166
+King's Circle~
+~
+0 0 1
+D1
+~
+~
+0 0 21165
+D2
+~
+~
+0 0 21163
+D3
+~
+~
+0 0 21167
+S
+#21167
+King's Circle~
+~
+0 0 1
+D1
+~
+~
+0 0 21166
+D2
+~
+~
+0 0 21162
+S
+#21168
+King's Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21162
+D1
+~
+~
+0 0 21169
+S
+#21169
+King's Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21163
+D1
+~
+~
+0 0 21170
+D3
+~
+~
+0 0 21168
+S
+#21170
+King's Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21164
+D3
+~
+~
+0 0 21169
+S
+#21171
+Path to the Great Circle~
+~
+0 0 1
+D1
+~
+~
+0 0 21172
+D3
+~
+~
+0 0 21117
+S
+#21172
+Path to the Great Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21183
+D1
+~
+~
+0 0 21173
+D3
+~
+~
+0 0 21171
+S
+#21173
+Path to the Great Circle~
+~
+0 0 1
+D1
+~
+~
+0 0 21174
+D3
+~
+~
+0 0 21172
+S
+#21174
+Great Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21182
+D1
+~
+~
+0 0 21175
+D2
+~
+~
+0 0 21177
+D3
+~
+~
+0 0 21173
+S
+#21175
+Great Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21181
+D1
+~
+~
+0 0 21176
+D2
+~
+~
+0 0 21178
+D3
+~
+~
+0 0 21174
+S
+#21176
+Great Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21180
+D2
+~
+~
+0 0 21179
+D3
+~
+~
+0 0 21175
+S
+#21177
+Great Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21174
+D1
+~
+~
+0 0 21178
+S
+#21178
+Great Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21175
+D1
+~
+~
+0 0 21179
+D3
+~
+~
+0 0 21177
+S
+#21179
+Great Circle~
+~
+0 0 1
+D0
+~
+~
+0 0 21176
+D3
+~
+~
+0 0 21178
+S
+#21180
+Great Circle~
+~
+0 0 1
+D2
+~
+~
+0 0 21176
+D3
+~
+~
+0 0 21181
+S
+#21181
+Great Circle~
+~
+0 0 1
+D1
+~
+~
+0 0 21180
+D2
+~
+~
+0 0 21175
+D3
+~
+~
+0 0 21182
+S
+#21182
+Great Circle~
+~
+0 0 1
+D1
+~
+~
+0 0 21181
+D2
+~
+~
+0 0 21174
+S
+#21183
+A worn path~
+~
+0 0 2
+D1
+~
+~
+0 0 21184
+D2
+~
+~
+0 0 21172
+S
+#21184
+A worn path~
+~
+0 0 2
+D1
+~
+~
+0 0 21185
+D3
+~
+~
+0 0 21183
+S
+#21185
+Calpene Peninsula~
+~
+0 0 2
+D3
+~
+~
+0 0 21184
+S
+#21186
+A worn path~
+~
+0 0 2
+D1
+~
+~
+0 0 21187
+D2
+~
+~
+0 0 21160
+S
+#21187
+A worn path~
+~
+0 0 2
+D1
+~
+~
+0 0 21188
+D3
+~
+~
+0 0 21186
+S
+#21188
+Maseta Peninsula~
+~
+0 0 2
+D3
+~
+~
+0 0 21187
+S
+#21189
+A worn path~
+~
+0 0 2
+D1
+~
+~
+0 0 21190
+D2
+~
+~
+0 0 21140
+S
+#21190
+A worn path~
+~
+0 0 2
+D1
+~
+~
+0 0 21191
+D3
+~
+~
+0 0 21189
+S
+#21191
+Verana Peninsula~
+~
+0 0 2
+D3
+~
+~
+0 0 21190
+S
+#21192
+Market Road~
+This is a continuation of the main market road.  You can just make out
+the intersection to the east, and to the west is the rest of the market.  To
+the north you see yet another abandoned stand.  Perhaps this might be a good
+place to set up that shop you've always dreamed about.  
+~
+0 0 1
+D0
+~
+~
+0 0 21197
+D1
+~
+~
+0 0 21121
+D3
+~
+~
+0 0 21193
+S
+#21193
+Market Road~
+You can see the end of the road to the west in the distance, and to the
+east, you can see what looks to be an intersection.  At least you hope it's
+an intersection, this area appears cut off from the rest of the city, and
+that's not a good place to be.  
+~
+0 0 1
+D1
+~
+~
+0 0 21192
+D2
+~
+~
+0 0 21198
+D3
+~
+~
+0 0 21194
+S
+#21194
+Market Road~
+This is almost to the end of the market road.  To the east you can see
+some abandoned stands on and to the west you can see the end of the road,
+literally.  
+~
+0 0 1
+D1
+~
+~
+0 0 21193
+D3
+~
+~
+0 0 21195
+S
+#21195
+Market Road~
+You have reached the end of the road.  It is now time to turn around and
+start heading east.  There is nothing to see here except a few stray dogs
+and cats running around the area.  
+~
+0 0 1
+D1
+~
+~
+0 0 21194
+S
+#21196
+Abandoned store~
+Strewn all over the floors and in the nooks and crannys you see little
+pieces of whatever it was that used to be sold here.  You don't understand
+why, but it might not be a good idea to hang around here too long.  
+~
+0 0 1
+D0
+~
+~
+0 0 21121
+S
+#21197
+Abandoned Stand~
+This is another abandoned stand, odd how there don't seem to be many
+marketeers about.  It kind of gives you a slight tingly sensation down your
+spine.  It might not be a good idea to hang around here too long.  
+~
+0 0 1
+D2
+~
+~
+0 0 21192
+S
+#21198
+Abandoned Shack~
+This is another abandoned stand, odd how there don't seem to be many
+marketeers about.  It kind of gives you a slight tingly sensation down your
+spine.  It might not be a good idea to hang around here too long.  
+~
+0 406855684 1
+D0
+~
+~
+0 0 21193
+S
+#21199
+Tanchico's Southern Gates~
+~
+0 0 1
+D0
+~
+~
+0 0 21117
+D2
+~
+~
+0 0 21912
+S
+#0
+
+
+
+#SPECIALS
+M 21198 spec_janitor
+M 21199 spec_janitor
+S
+
+
+
+#RESETS
+M 0 21100 30 21100 2 100 Load A citizen
+M 0 21100 30 21101 2 100 Load A citizen
+M 0 21100 30 21103 2 100 Load A citizen
+M 0 21100 30 21105 2 100 Load A citizen
+M 0 21100 30 21106 2 100 Load A citizen
+M 0 21100 30 21108 2 100 Load A citizen
+M 0 21100 30 21109 2 100 Load A citizen
+M 0 21101 30 21110 2 100 Load A guard
+M 0 21101 30 21112 2 100 Load A guard
+M 0 21100 30 21112 2 100 Load A citizen
+M 0 21105 30 21113 2 100 Load A Tanchican merchant
+M 0 21104 30 21115 2 100 Load A bodyguard
+M 0 21102 30 21115 2 100 Load A beggar
+M 0 21102 30 21118 1 100 Load A beggar
+M 0 21100 30 21118 2 100 Load A citizen
+M 0 21102 30 21119 1 100 Load A beggar
+M 0 21100 30 21122 2 100 Load A citizen
+M 0 21102 30 21125 1 100 Load A beggar
+M 0 21102 30 21126 1 100 Load A beggar
+M 0 21175 1 21128 1 100 Load Lieutenant Kyarn
+E 0 21175 0 19 0 100 A small piece of paper with scribbled writting is loaded held in the hands of Lieutenant Kyarn
+M 0 21103 30 21131 2 100 Load A noble
+M 0 21103 30 21132 2 100 Load A noble
+M 0 21105 30 21132 2 100 Load A Tanchican merchant
+M 0 21105 30 21132 2 100 Load A Tanchican merchant
+M 0 21101 30 21132 2 100 Load A guard
+M 0 21101 30 21132 2 100 Load A guard
+M 0 21103 30 21135 2 100 Load A noble
+M 0 21101 30 21136 2 100 Load A guard
+M 0 21102 30 21137 2 100 Load A beggar
+M 0 21102 30 21137 2 100 Load A beggar
+M 0 21103 30 21137 2 100 Load A noble
+M 0 21104 30 21138 2 100 Load A bodyguard
+M 0 21104 30 21138 2 100 Load A bodyguard
+M 0 21105 30 21139 2 100 Load A Tanchican merchant
+M 0 21104 30 21140 2 100 Load A bodyguard
+M 0 21103 30 21144 2 100 Load A noble
+M 0 21103 30 21145 2 100 Load A noble
+M 0 21106 30 21153 1 100 Load The Panarch's lady
+M 0 21106 30 21157 1 100 Load The Panarch's lady
+M 0 21106 30 21157 1 100 Load The Panarch's lady
+M 0 21173 1 21158 1 100 Load Ayolia
+M 0 21106 30 21159 1 100 Load The Panarch's lady
+M 0 21102 30 21161 2 100 Load A beggar
+M 0 21103 30 21162 2 100 Load A noble
+M 0 21100 30 21162 2 100 Load A citizen
+M 0 21103 30 21166 2 100 Load A noble
+M 0 21104 30 21171 2 100 Load A bodyguard
+M 0 21105 30 21173 2 100 Load A Tanchican merchant
+M 0 21102 30 21175 2 100 Load A beggar
+M 0 21174 1 21198 1 100 Load Jol Deane
+S
+
+
+
+#SHOPS
+21196 13 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#21110
+if vnum $o == 21101
+  yell Wowzers, we have a winner here! Gratz $n!!! Allow me to see which prize...
+  delay 10
+  yell `&First Prize!!!`7
+  delay 10
+  mob oload 6400
+  give coupon $n
+  mob oload 6401
+  give coupon $n
+  mob oload 6402
+  give coupon $n
+  mob oload 6428
+  give coupon $n
+  mob oload 6459
+  give coupon $n
+  mob oload 2426
+  give coupon $n
+  mob oload 5546
+  give coupon $n
+endif
+if vnum $o == 21102
+  yell Wowzers, we have a winner here! Gratz $n!!! Allow me to see which prize...
+  delay 10
+  yell `#Second Prize!!!`7
+  delay 10
+  mob oload 6459
+  give coupon $n
+  mob oload 2426
+  give coupon $n
+  mob oload 5546
+  give coupon $n
+endif
+if vnum $o == 21100
+tell $N Sorry, not a winning ticket!
+endif
+~
+#21172
+if ispc $n
+emote looks up at you with a worried look.
+endif
+~
+#21173
+if !hasquest $n 14
+whisper $n Ah, thank god you have arrived! I have been looking for someone to aid the Panarch in this time of need.
+whisper $n It seems that the Panarch's son has been taken by some scum.
+whisper $n A team of her personal guards has already begun the search for her son.
+whisper $n Will you assist them in the search?
+~
+#21174
+if !hasquest $n 14
+mob addquest $n 14
+whisper $n Ah, thank you, every person is needed for this search!
+whisper $n Search out the Captain of the Guards, Jol Deane, he will inform you more on this tragedy.
+whisper $n He is currently in the southern reaches of Tanchico.
+whisper $n May the Light be with you.
+~
+#21175
+if hasquest $n 14
+mob completequeststep $n 2 1
+emote glances you over with a strong look.
+whisper $n So you're what Ayolia sent over to help. Kind of puny, but you'll do.
+whisper $n The Panarch's son was in this area when he vanished.
+whisper $n I need you to go to my Lieutenant Kyarn. He has some important evidence that I need to look over.
+emote looks at you quizzically.
+whisper $n Well, get a move on. Hes somewhere north of here is all I know.
+endif
+~
+#21176
+if !hasquest $n 14
+mob completequeststep $n 2 2
+emote glances up slightly and slowly rises.
+whisper $n Ah, you must be the one that everyone is speaking of.
+whisper $n Here, take this to the Captain, Jol, he needs it quick, it holds an important lead to this case.
+mob oload 21175
+mob give evidence $n
+emote nods slightly.
+whispter $n May the Light be with you.
+endif
+~
+#21177
+if !hasquest $n 14 #14
+whisper $n Ah, yes, this could be the lead we needed.
+emote glances at the small piece of paper.
+whisper $n This looks as if they have taken him to the southern stretches of Lugard, quite a ways from here.
+whisper $n I will send on of my men to Lugard to assist you, seek him out there.
+whisper $n His name is Hyald Tran, he will assist you in this.
+emote nod $n
+~
+#21178
+if !hasquest 14 #14
+whisper $n One of the scum that we have been searching for is right down the road.
+whisper $n We have been watching his actions all day. He seems not to have noticed my men and I.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

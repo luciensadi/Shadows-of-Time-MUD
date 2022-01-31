@@ -1,0 +1,174 @@
+#STOREOBJ
+Vnum 899
+Owner Aiel~
+Guild 14
+Coffer 0
+Keeper Shopkeep~
+KeeperVnum 10
+LPaid 1163827540
+#ITEM
+Cost 75
+#O
+Vnum 9355
+ID 3337841
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 9354
+ID 3337840
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 19952
+ID 2932926
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 8500
+ID 3336163
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 9357
+ID 3337843
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 9361
+ID 3337847
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 11664
+ID 3339701
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 7500
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 21214
+ID 3336197
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 30000
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 21203
+ID 2918511
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 30000
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 21208
+ID 2746037
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 30000
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 10620
+ID 3360793
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#SOLD
+Name red Arm Spines~
+Cost 75
+#SOLD
+Name a Red Belt~
+Cost 75
+#SOLD
+Name a Red Shield~
+Cost 75
+#SOLD
+Name ashes of the lost~
+Cost 75
+#SOLD
+Name a broken bible~
+Cost 75
+#SOLD
+Name a Flame of Darkness~
+Cost 75
+#SOLD
+Name a Heron-Marked Rod~
+Cost 75
+#SOLD
+Name `7Terminus Est~
+Cost 75
+#SOLD
+Name `&(`@C`2leansing`&) `&T`7h`&e `&Ha`7n`&d `#of `&t`7h`&e `&L`#i`&g`7h`&t`*~
+Cost 500
+#SOLD
+Name `#G`3o`#ld`3e`#n `8Sp`*au`8ld`*e`8rs `7of the `#H`&igh `#I`&nquisitor`7~
+Cost 4750
+#SOLD
+Name the Pendant of Ifrit~
+Cost 75
+#End

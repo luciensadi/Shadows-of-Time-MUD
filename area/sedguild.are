@@ -1,0 +1,347 @@
+#AREADATA
+Name Sedai Guild Area~
+Builders Brona~
+VNUMs 2006 2023
+Credits (null)~
+Security 1
+Flags CE
+Version 4
+End
+
+
+
+#MOBILES
+#2006
+sitter of the ajahs~
+A Sitter of the Ajahs~
+A Sitter of the Ajahs is here to train with the Amyrlin.
+~
+~
+aiel~
+0 0
+ABJKTZabde 272 80 0 1 -1  0 0
+200 800 25000d1+3000 0d0+0 1d1+0 none
+-4 -4 -4 -4
+FHU CD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#2007
+Amyrlin Guard~
+Amyrlin guard~
+The Amyrlin guard is here.
+~
+~
+unique~
+0 0
+ABTZe 49488 80 0 32896 -1  -1000 0
+300 128 300d300+2000 100d100+1000 100d1+150 none
+-120 -120 -120 -120
+CDEFHKO ABFPTXb CDFIJ a
+stand stand male  400
+G ACDEJKLQUV medium unknown
+M ACT 2006 smile~
+M ACT 2002 peer~
+#0
+
+
+
+#OBJECTS
+#2006
+shimmering gateway~
+a shimmering gateway~
+A shimmering gateway hovers above the ground, never wavering.~
+unknown~
+portal AB 0
+0
+0 0 0 EFHILN 0
+77 0 0 P
+ T 0 none~
+#2007
+keeper's key~
+keeper's room key~
+A nondescript key glows pink here.~
+gold~
+key 0 AO
+0
+0 0 0 0 0
+70 0 0 P
+A
+12 100
+ T 0 none~
+#2008
+legend boot blue guard~
+`&(`1Legendary`&) `$B`8lue `$G`8uard `$B`8oots`*~
+A Legendary Object is lying here~
+unknown~
+armor GHIYd AG
+0
+ACEF CEF CEF BCEF 0
+150 100 5000 P
+A
+18 15
+A
+19 15
+A
+20 -10
+A
+17 -10
+ T 0 none~
+#2009
+legend shield red guard~
+`&(`$Legendary`&) `!R`8ed `!G`8uard `!S`8hield`*~
+A Legendary Object is lying here~
+unknown~
+armor GIYd AJ
+0
+ABEF ABEF CEF BCEF 0
+150 100 5000 P
+A
+20 -10
+A
+18 15
+A
+19 15
+A
+17 -10
+ T 0 none~
+#2010
+smoking roach clip~
+`!(`8Smoking`!) `!R`*oach `!C`*lip`*~
+A small alligator looking clip lies here with a butt of a joint in it.~
+unknown~
+armor Yd AO
+0
+BDF BDF BDF BDF 0
+110 0 30000 P
+A
+18 10
+A
+19 10
+A
+20 -5
+A
+20 -5
+A
+14 -40
+A
+13 35
+ T 0 none~
+#2011
+smoking gas mask~
+`!(`8Smoking`!) `@G`2as `@M`2ask`*~
+A mask is smoking here.~
+unknown~
+armor Yad AR
+0
+BDF BDF BDF BDF 0
+110 30 0 P
+A
+18 8
+A
+19 8
+A
+20 -8
+A
+13 48
+ T 0 none~
+#2012
+lenna kiwi~
+`&(`5Luscious`&) `2K`@i`2w`@i`*~
+A luscious green fruit lies here.~
+unknown~
+pill 0 A
+0
+75 'heal' 'heal' 'bless' 'reserved'
+25 0 0 P
+ T 0 none~
+#2013
+legend shield blue guard~
+`&(`!Legendary`&) `$B`8lue `$G`8uard `$S`8hield`*~
+A Legendary Object is lying here~
+unknown~
+armor GIYd AJ
+0
+CEF ACEF CEF BCEF 0
+150 100 5000 P
+A
+20 -10
+A
+18 15
+A
+19 15
+A
+17 -10
+ T 0 none~
+#2014
+enchanted keyring lords~
+`&(`6Enchanted`&) `!K`8eyring `!o`8f `!t`8he `!L`8ords`*~
+A strange, glowing keyring lies here.~
+unknown~
+keyring ABTYad AU
+0
+500 0 0 0 0
+150 10 0 P
+A
+14 -15
+A
+13 75
+A
+17 -40
+A
+18 4
+A
+19 4
+A
+20 -4
+ T 0 none~
+#2015
+wolfsbane~
+wolfsbane~
+Wolfsbane is nearby.~
+unknown~
+weapon HMNZ AN
+0
+exotic 0 0 none 0
+1 100 0 P
+A
+19 -3
+ T 0 none~
+#2016
+legend shield red guard~
+`&(`1Legendary`&) `!R`8ed `!G`8uard `!S`8hield`*~
+A Legendary Object is lying here~
+unknown~
+armor GIYd AJ
+0
+BEF BEF BEF BEF 0
+150 100 5000 P
+A
+17 -2
+A
+13 120
+A
+12 40
+A
+20 -10
+ T 0 none~
+#2017
+legend elite red guard tattoo~
+`&(`$Legendary`&) `!E`8lite `!R`8ed `!G`8uard`* tattoo~
+A Legendary Object is lying here~
+unknown~
+armor GIYd AM
+0
+ABEF ABEF ABEF ABEF 0
+150 100 5000 P
+A
+12 35
+A
+20 -12
+A
+13 120
+ T 0 none~
+#2018
+legend elite blue guard tattoo~
+`&(`!Legendary`&) `$E`8lite `$B`8lue `$G`8uard`* tattoo~
+A Legendary Object is lying here~
+unknown~
+armor GIYd AM
+0
+CEF ACEF CEF BCEF 0
+150 100 5000 P
+A
+20 -10
+A
+18 15
+A
+19 15
+A
+17 -10
+ T 0 none~
+#2020
+quest locker~
+quest locker~
+The quest locker is filled with prizes.~
+unknown~
+container HTYZa 0
+0
+1000 ABCD 2021 100000000 200
+150 0 0 P
+ T 0 none~
+#2021
+quest locker key~
+quest locker key~
+The quest locker key is here.~
+unknown~
+key Td AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#2006
+if clan $n sedai
+if rank $n 6
+say As you wish Amyrlin.
+remove amyrlin
+give amyrlin $n
+endif
+if rank $n 5
+say As you wish Keeper.
+remove keeper
+give keeper $n
+else
+say I'm sorry you are not privvy to this item, $n.
+endif
+else
+say You are a visitor and require the accompaniment of an Aes Sedai, $n.
+endif
+~
+#2008
+if clan $n sedai
+whisp $n Safe journey, $n.
+mob transfer $n yellow
+else
+say You do not belong here, $n.
+endif
+~
+#2009
+if rank $n 'amyrlin'
+mob transfer $n 13
+else
+say Fack off.
+break
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

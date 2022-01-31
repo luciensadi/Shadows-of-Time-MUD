@@ -1,0 +1,68 @@
+#AREADATA
+Name asmotest~
+Builders Asmo~
+VNUMs 40000 40100
+Credits (null)~
+Security 1
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#40000
+blah~
+blah~
+Blah~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#40000
+Asmo~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 40000 0 40000 0 100 Blah loaded to Asmo
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

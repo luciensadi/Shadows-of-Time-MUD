@@ -1,0 +1,3 @@
+Last Command: (Finished)[0] Winston in room[ 3006] The Common Room of the Wayfarer's Rest Inn : 
+Sig handler SIGTERM.
+

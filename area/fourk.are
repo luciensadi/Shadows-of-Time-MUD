@@ -1,0 +1,2879 @@
+#AREADATA
+Name Four Kings~
+Builders None~
+VNUMs 7601 7799
+Credits `4[`7Lowbie`4]`7 Ishamael  Four Kings~
+Security 10
+Flags G
+Version 4
+End
+
+
+
+#MOBILES
+#7601
+Saml Hake~
+Saml Hake~
+Saml Hake, the innkeeper of the Dancing Cartman, is here.
+~
+Saml Hake is a bony man with long, string hair, and a greasy apron that
+hangs to his ankles.  His hands are dirty and his manners rude, and he keeps
+his eyes constantly on the watch for trouble.  
+~
+andor~
+0 0
+ABa 336 0 0 0 -1  1000 0
+100 0 1d1+999 1d1+999 1d1+999 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK giant unknown
+M SPEECH 6405 elixir~
+#7602
+Veronica~
+Madam Veronica~
+Madam Veronica is here, looking inviting her in silken dress.
+~
+Trying to look attractive with her low cut dress and hair flowing loose
+around her shoulders, she keeps an eye out for the weary traveller who might
+need some recreation.  
+~
+andor~
+0 0
+ABR 0 0 0 0 -1  -1000 0
+20 30 6d50+225 0d0+0 2d2+10 punch
+-2 -2 -2 4
+FK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 7601 100~
+#7603
+calvary soldier andor~
+a calvary soldier~
+A calvary soldier, intent on keeping the peace, stands here.
+~
+Proud in his service to the Lion Throne this man is resilute in his
+service to the Crown of Andor.  Face weathered from weeks spent in the wilds
+defending his homeland, this man seems a steadfast warrior in the service of
+the Light.  
+~
+andor~
+0 0
+AGT 0 0 0 0 -1  1000 0
+33 30 10d63+513 0d0+0 6d8+15 slash
+-7 -7 -7 1
+CEFIKNT 0 0 GIK
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#7604
+Curchack~
+Curchack~
+Curchack, the persistent merchant stands here, hawking his wares.
+~
+Not exactly the most trustworthy-looking of men, the merchant standing
+behind the stall waits for your business with a shady grin.  Hopefully he
+will charge you only the proper cost for his goods.  
+~
+andor~
+0 0
+AB 0 0 0 0 -1  1000 0
+20 30 6d50+225 0d0+0 2d2+10 punch
+-1 -1 -1 0
+CFK 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#7605
+mercenary kandor~
+A merchant guard~
+A merchant guard, determined to keep the peace, stands here.
+~
+Obviously well-paid by the fine garments that he wears, this guard is a
+mercenary when it comes to employment.  Always keeping watch for those who
+might make trouble for the merchants who employ him, he is quick to attack
+anyone who seems ready with blade.  
+~
+andor~
+0 0
+AGT 0 0 0 0 -1  0 0
+20 30 8d40+261 0d0+0 4d5+10 punch
+0 0 0 0
+FIK C C DE
+stand stand male  10
+AHMV ABCDEFGHIJK medium unknown
+#7606
+Tharkin~
+Tharkin the elite guard~
+Tharkin, the elite guard of the High Court Magistrate, is here guarding the entranceway.
+~
+This man is completely covered in gleaming white armor, his eyes shift
+slowly - as they never seem to lift off of you.  The exposed parts of his
+skin, is deeply tan from spending many long hours in the harsh sun, and
+weather.  
+~
+andor~
+0 0
+ABZ 256 96 8 2 -1  0 0
+75 0 10d269+990 0d0+0 5d10+50 none
+-10 -10 -10 -10
+DEFHJKN AEG E 0
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+M ACT 7605 leaves~
+M ACT 7603 enter~
+#7607
+rat~
+a vicious looking, black-skinned rat~
+A vicious looking, black-skinned rat is here gnawing on a bone.
+~
+You are looking at a vicious rat, his skin is a deep obsidian in color. 
+His claws are crimson with bloody gore, and his teeth are stained a dark
+yellow.  
+~
+unique~
+0 0
+ABFT 0 0 0 0 -1  -1000 0
+15 25 5d30+161 0d0+0 3d5+8 bite
+-1 -1 -1 -1
+FJK 0 0 D
+stand stand male  10
+G 0 medium unknown
+#7608
+cow~
+A brown cow~
+A brown cow is here, chewing thoughtfully.
+~
+A peaceful, old cow, with a healthy brown hide.  She absent-mindedly
+flicks away a couple of flies as she chews some more grass.  
+~
+unique~
+0 0
+ABDT 0 0 0 0 -1  1000 0
+20 35 7d40+233 0d0+0 4d5+10 chomp
+-1 -1 -1 -1
+FIJK 0 0 D
+stand stand male  1
+V 0 medium unknown
+M RANDOM 7608 2~
+#7609
+sheep~
+A sheep~
+A sheep is here, bleating.
+~
+This sheep is best described as woolly.  With short stubby feet and white
+wool all over it looks soft and cuddly.  Bleating happily, it looks for
+grass to chew and flowers to munch.  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  1000 0
+18 28 5d31+200 0d0+0 3d5+9 chomp
+0 0 0 1
+CFK 0 0 CD
+stand stand female 1
+V 0 medium unknown
+#7610
+horse~
+The black stallion~
+The black stallion stands here, muching on some hay.
+~
+You are looking at a large black stallion, with a beautiful ebony mane to
+match.  He stands here quietly munching on some hay in the gentle breeze.  
+~
+unique~
+0 0
+ABDT 0 0 0 0 -1  1000 0
+15 25 5d30+161 0d0+0 3d5+8 chomp
+0 0 0 0
+FJK 0 0 D
+stand stand none 20
+V 0 medium unknown
+#7611
+Child of the light andor~
+a Child of the Light~
+A Child of the Light is here, arrogantly glaring around.
+~
+This arrogant looking soldier is a Child of the Light, a group more
+commonly known as the Whitecloaks.  His armor looks polished and shining,
+and hardly used.  The flowing white cloak worn over his shoulders is so
+clean it almost glows.  He glares around fiercely, looking for the slightest
+cause to create an incident.  
+~
+andor~
+0 0
+ABGT 0 0 0 0 -1  -1000 0
+25 35 10d53+330 0d0+0 4d5+15 punch
+-1 -1 -1 -1
+CFIJK 0 0 D
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#7612
+officer andor~
+The Child of the Light Officer~
+The Child of the Light officer is here, peering sternly around him.
+~
+This grizzled veteran wears a sunburst on the nape of his cloak to mark
+his officer status in the Children of the Light.  He has seen many a battle,
+and routed out Darkfriends in unlikely places.  
+~
+andor~
+0 0
+ABT 256 0 0 0 -1  -1000 0
+30 40 10d61+416 0d0+0 5d6+15 punch
+-1 -1 -1 -1
+CFJK 0 0 D
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+#7613
+wild boar~
+A wild boar~
+A wild boar runs through the forest here.
+~
+Two sharp tusks emerge beneath a piggy face, gleaming with the blood of
+its lasy prey, small piggy eyes looking towards you!  
+~
+unique~
+0 0
+AGT 0 0 0 0 -1  -1000 0
+15 25 5d30+161 0d0+0 3d5+8 thrust
+-1 -1 -1 -1
+0 0 0 0
+stand stand either 0
+V 0 large unknown
+#7614
+deer~
+A brown deer~
+A brown deer watches you quietly.
+~
+The lie of the land is uneven here, and you realise that you cannot get
+any further south because of a rather steep slope.  With the BraemWood too
+densely overgrown to enter on every side except north, that appears to be
+the way to go.  Still, the grass is soft and dangers seem distant.  
+~
+unique~
+0 0
+AU 0 0 0 0 -1  0 0
+15 25 5d30+161 0d0+0 3d5+8 chomp
+0 0 0 0
+0 0 0 D
+stand stand male  0
+V 0 medium unknown
+#7615
+hawk~
+A black hawk~
+A black hawk is here flying over head.
+~
+The black hawk's ebony feathers seem to glisten, and some white markings
+on his breast stand out in sharp contrast.  His eyes dart, wildly alert and
+scanning for his next meal.  
+~
+unique~
+0 0
+AG 0 0 0 0 -1  1000 0
+15 35 5d30+161 0d0+0 3d5+8 peck
+-1 -1 -1 -1
+0 0 0 D
+stand stand either 0
+V 0 medium unknown
+#7616
+bobcat~
+A bobcat~
+A bronze-colored bobcat crouches here, ready to pounce.
+~
+A sleek bobcat crouches low to the ground awaiting an opportune moment to
+assault his prey.  His wide eyes are alert to every movement around him, and
+his large ears turn to catch the slightest sound.  
+~
+unique~
+0 0
+AG 0 0 0 0 -1  -1000 0
+15 0 5d30+161 0d0+0 3d5+8 bite
+-1 -1 -1 -1
+FJ 0 0 C
+stand stand either 100
+V 0 medium unknown
+#7617
+buck~
+A young buck~
+A young and strong buck is here, munching on some grass.
+~
+Powerful and daring, this young buck's very posture emotes its strength
+and verility to the questioning fellow males with whom he occasionally locks
+antlers or the promising doe observing from a distance.  
+~
+unique~
+0 0
+AG 0 0 0 0 -1  1000 0
+20 30 6d40+321 0d0+0 4d5+10 charge
+-1 -1 -1 -1
+FIK 0 0 D
+stand stand male  200
+V 0 medium unknown
+#7618
+Jak~
+Jak~
+Jak, the innkeeper's guard, is keeping an eye on things here.
+~
+Jak is a strong and ruggedly built man; his knuckles show the scars of
+countless brawls.  As a bouncer for the Dancing Cartman, he has seen a lot
+of fights, and knows how to take care of himself.  
+~
+andor~
+0 0
+AB 336 64 0 0 -1  1000 0
+75 100 11d300+999 0d0+0 10d10+50 slash
+-100 -100 -100 -100
+CFIJK CD CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#7619
+Strom~
+Strom~
+Strom, the innkeeper's guard, is watching out for trouble here.
+~
+Powerfully built and somewhat scarred, this bouncer has seen years of
+service under the command of Saml Hake.  Keeping an eye on the activities
+around him, he strives to stop trouble before it can start.  
+~
+andor~
+0 0
+AB 256 64 0 0 -1  1000 0
+75 85 11d400+999 0d0+0 10d20+99 slash
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#7620
+villager arafel~
+A wandering villager~
+A wandering villager is here, glancing around.
+~
+You are looking at a villager from the town of Four Kings, they have a
+confused look about them, as they glance around the area.  
+~
+andor~
+0 0
+ACGT 0 0 0 0 -1  1000 0
+10 20 3d22+96 0d0+0 2d5+5 punch
+-1 -1 -1 -1
+F 0 0 D
+stand stand either 40
+AHMV ABCDEFGHIJK medium unknown
+#7621
+wandering merchant~
+A wandering merchant~
+A wandering merchant is here, peddling his wares.
+~
+The merchant you are looking at has a desperate look in their eye, as he
+shouts out prices of the wares he has to sell.  His face his dirty, and he
+is clothed in rags.  It is obvious that he is not a very good merchant at
+all.  
+~
+andor~
+0 0
+ACT 0 0 0 0 -1  -1000 0
+15 25 5d30+161 0d0+0 3d5+8 punch
+-1 -1 -1 -1
+FJ 0 0 D
+stand stand either 30
+AHMV ABCDEFGHIJK medium unknown
+#7629
+Stephen~
+`*Stephen~
+A man walking fast and constantly looking over his shoulder fixes his eyes on you.
+~
+~
+arafel~
+0 0
+ACHTWZ 49232 1104 0 0 -1  0 0
+110 800 5000d3+1000 0d0+0 3d300+100 beating
+-100 -100 -100 -100
+EFHKN AB CD 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 7629 looks~
+#7630
+shrice~
+A short, simple looking man~
+A short, simple looking man is here, standing in a corner of the hallway.
+~
+This man is oddly short, and his face is covered by a large hood, and you
+can barely make out his facial features.  As he notices you, he slowly backs
+up further into the corner.  
+~
+troll~
+0 0
+AB 256 64 0 0 -1  0 0
+700 0 500d500+1000 700d100+1000 400d400+100 slash
+-200 -200 -200 -200
+ADFHK 0 BE HK
+stand stand male  0
+ABHMV ABCDEFGHIJKUV medium unknown
+M SPEECH 7630 strong~
+#7700
+magistrate~
+the dark-haired magistrate~
+The magistrate of Four Kings stands here peering at you.
+~
+You are looking at the magistrate of Four Kings, he is a pail looking
+man, and is cloaked in fine silks.  He quietly looks you over, and nods his
+head.  
+~
+andor~
+0 0
+ABZ 256 112 1152 2 -1  1000 0
+75 0 11d300+999 0d0+0 10d10+99 none
+-10 -10 -10 -10
+CDFHIK 0 CD 0
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#7601
+well~
+an ancient stone well~
+An ancient stone well is here.~
+stone~
+fountain 0 0
+0
+-1 -1 'water' 0 0
+0 0 0 P
+E
+jeejee~
+This is a test.
+~
+E
+well~
+Lifting back the dried cover, a dark hole descends out of sight into the
+earth, from which a damp smell rises.  
+~
+E
+well~
+Lifting back the dried cover, a dark hole descends out of sight into the
+earth, from which a damp smell rises.  
+~
+ T 0 none~
+#7602
+dress~
+a silken red dress~
+A silken red dress is here, crumpled on the ground.~
+cloth~
+armor 0 AK
+0
+BD BD BD BD 0
+20 0 1 P
+ T 0 none~
+#7603
+sword~
+a sharp silver sword~
+A sharp silver sword is laying here on the ground.~
+iron~
+weapon 0 AN
+0
+sword 35 1 slash 0
+33 0 5 P
+A
+13 20
+A
+18 4
+A
+19 4
+A
+12 3
+ T 0 none~
+#7604
+cloak~
+a cloak of the Andoran cavalry~
+A cloak of the Andoran Cavalry is here, bearing the symbol of the Lion.~
+cloth~
+armor 0 AK
+0
+BD BD BD BD 0
+33 0 0 P
+A
+19 4
+A
+18 4
+A
+13 15
+A
+14 17
+ T 0 none~
+#7605
+ironkey~
+an iron key~
+An iron key is laying here on the ground.~
+iron~
+key 0 AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#7606
+brass cow bell~
+a brass cow bell~
+A beautiful brass cowbell is here, waiting to be worn.~
+brass~
+armor 0 AC
+0
+BD BD BD BD 0
+16 0 0 P
+A
+13 6
+A
+19 4
+A
+18 4
+ T 0 none~
+#7607
+white cloak~
+a bright white cloak~
+This is a bright white cloak, with the symbol of a sunburst upon it.~
+cloth~
+armor 0 AK
+0
+BD BD BD BD 0
+20 0 0 P
+A
+13 10
+A
+19 4
+A
+18 4
+ T 0 none~
+#7608
+soft leather bracelet bracer~
+a soft leather bracelet~
+This is a soft leather bracelet, very smoothe to the touch.~
+leather~
+armor 0 AM
+0
+AC AC AC AC 0
+10 0 0 P
+A
+13 10
+A
+14 10
+A
+19 2
+A
+18 2
+ T 0 none~
+#7609
+boots~
+a pair of ragged leather boots~
+A pair of smelly ragged leather boots.~
+leather~
+armor 0 AG
+0
+AC AC AC AC 0
+10 0 0 P
+A
+18 4
+A
+19 4
+ T 0 none~
+#7610
+sleeping scroll~
+an old leather scroll~
+This is an old leather scroll.~
+leather~
+scroll AB A
+0
+75 'sleep' '' '' ''
+75 0 0 P
+ T 0 none~
+#7629
+A Darkened Scroll~
+`*A Darkened Scroll~
+A scroll which looks like it was saved from a flame is here.~
+paper~
+scroll CT A
+0
+10 'sanctuary' 'reserved' 'reserved' 'reserved'
+20 0 0 P
+ T 0 none~
+#7692
+dark red flower with green leaves quest131~
+`*Dark red flower with dark green leaves.~
+A beatiful red flower with dark green leaves is growing here.~
+plant~
+trash A A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#7601
+The Outskirts of Four Kings~
+The gaudy buildings of Four Kings quickly enclose the Caemlyn Road as it
+runs westward towards Whitebridge, resulting in a congested, noisy, and
+incredibly busy town at all hours of the day and night.  The street is
+crowded with wagons, packed so tightly that there is barely enough room for
+a single cart to pass by, let alone allow two way traffic.  Even from here
+the sounds of staged amusement are audible from the taverns.  
+~
+0 0 1
+D0
+~
+~
+0 0 37799
+D1
+~
+~
+0 0 7629
+D3
+~
+~
+0 0 7602
+S
+#7602
+A Dusty Gravel Road Through Four Kings~
+Though perhaps a slightly disreputable part of town, the road still sees
+plenty of use here, running towards Caemlyn to the east and into the heart
+of Four Kings to the west.  A fanciful facade rises above the north side of
+the road, proclaimed as the Lord's Companion, the meaning of which is
+displayed by the women who call from the upstairs windows at all hours of
+the night.  
+~
+0 0 1
+D0
+~
+~
+0 0 7603
+D1
+~
+~
+0 0 7601
+D2
+~
+~
+0 0 7610
+D3
+~
+~
+0 0 7606
+S
+#7603
+The Lord's Companion~
+The hustle and bustle of the dusty street is broken here, as the dusty
+reality of Four Kings is broken by the idealized wonder of the Lord's
+Companion.  Lounging couches line the room below what appear to be fancy
+paintings of women.  A plush red carpet covers the floor, and a narrow
+staircase climbs the east wall to the second floor, the balcony of which is
+lined with doors.  
+~
+0 8 0
+D2
+~
+~
+0 0 7602
+D4
+~
+~
+0 0 7604
+S
+#7604
+Balcony Overlooking the Road~
+The elaborate, though noticeably worn railing overlooks the foyer of this
+old building.  A sea of red and purple fills the first floor where the women
+of the establishment ply their trade to the tired, lonely merchants.  Doors
+line the balcony, no doubt leading into the private rooms of the brothel,
+and down the staircase lies the foyer.  A few of the women hang out the open
+windows, yelling towards the travelers on the road below.  
+~
+0 8 0
+D0
+~
+ornate~
+3 0 7605
+D3
+~
+~
+3 0 7632
+D5
+~
+~
+0 0 7603
+S
+#7605
+Inside a Purple Velvet Bedroom~
+Every square inch of this room is either covered with purple velvet cloth
+or deeply stained wood, giving it the appearance of the bedroom of a high
+lord or lady.  Currently there is nothing in the room that explicitly
+implies its true location, serving to heighten the fantasy of those who
+partake in the services of the house.  A large four-poster bed dominates the
+room, recently made though waiting for a pair of occupants.  
+~
+0 8 0
+D2
+~
+ornate~
+3 0 7604
+S
+#7606
+Junction of Caemlyn and High Lord Roads~
+Slow wagons and carts tighten the road here at the heart of Four Kings. 
+High upon the side of a building on the northeast corner of the interestion
+a sign proclaims the road leading off to the south to be the High Lord road,
+easily as wide as the Caemlyn Road which runs in between the destive
+establishments of the town, even if not quite so busy.  
+~
+0 0 1
+D1
+~
+~
+0 0 7602
+D2
+~
+~
+0 0 7607
+D3
+~
+~
+0 0 7616
+S
+#7607
+The High Lord Road Through Four Kings~
+The High Lord Road runs between two looming buildings here, the west a
+massive brightly colored building while the eastern building appears to be
+faded and slightly neglected in the face of the harsh weather here.  Despite
+the width of the road, very few carts line buildings, as though it were not
+as popular as the other areas of town.  
+~
+0 0 8
+D0
+~
+~
+0 0 7606
+D2
+~
+~
+0 0 7608
+S
+#7608
+The High Lord Road Through Four Kings~
+A smaller road joins up to the High Lord road from the west, leading to
+the back streets of Four Kings.  Cracked dirt and stone lead away to the
+north and south, while a low structure lies to the west, though no entrance
+is visible here.  Off to the south the outskirts of the city can be seen,
+along with what appears to be a stable just off of the southern road.  
+~
+0 0 1
+D0
+~
+~
+0 0 7607
+D2
+~
+~
+0 0 7609
+D3
+~
+~
+0 0 7635
+S
+#7609
+The Outskirts of Four Kings~
+Four Kings rises to surround the lonely High Lord Road here, the
+buildings quickly springing up around it, clustered together for life out in
+the dry plains.  In spite of the harsh weather, the merchants appear to do
+quite well here, as almost all of the buildings are in good shape, freshly
+painted and open for business.  Even the stable to the east seems to be in
+good condition from here, as stablehands go about their business.  
+~
+0 0 1
+D0
+~
+~
+0 0 7608
+D1
+~
+~
+0 0 7633
+D2
+~
+~
+0 0 7655
+S
+#7610
+Common Room of the Dancing Cartman~
+In spite of the disarray of tables and chairs which fill the common room
+of the Dancing Cartman, the focus of the room is clearly the small stage
+against the east wall rather than the bar itself.  The festive colors of the
+outside walls are lost here, giving way to dim lantern light and the
+confused mix of wood and dirt which compose the floor, while serving girls
+dash in and out of the kitchen to the south.  
+~
+0 1036 1
+D0
+~
+~
+0 0 7602
+D1
+~
+~
+0 0 7627
+D2
+~
+~
+0 0 7611
+D4
+~
+~
+0 0 7613
+S
+#7611
+Kitchen of the Dancing Cartman Inn~
+Strong odors waft through the small kitchen from several large pots upon
+the large iron stove in the corner of this ancient kitchen.  Amidst the bags
+of spices and hanging meat there is the occasional table where the inn's
+meals are prepared for the lonely patrons in the main room.  There is little
+light from a single overhead lantern which mainly lights a wooden bench
+where the serving girls and cooks take their meals.  
+~
+0 8 0
+D0
+~
+~
+0 0 7610
+D1
+~
+~
+0 0 7612
+D5
+~
+~
+0 0 7630
+S
+#7612
+An Open Courtyard~
+Amidst the dried grass and dusty earth a covered well dives into the
+ground, supplying the kitchen to the west with cooking water, and adding to
+the life of the town.  The loud noise from the busy tavern, is still easily
+audible from where you stand.  
+~
+0 0 1
+E
+well~
+Lifting back the dried cover, a dark hole descends out of sight into the
+earth, from which a damp smell rises.  
+~
+D0
+~
+~
+0 0 7627
+D3
+~
+~
+0 0 7611
+S
+#7613
+Rooms of the Dancing Cartman~
+Not sheltered much from the constant noise below, the rooms surrounding
+this hallway are drafty and barely furnished.  A small room stands to the
+east, where any servants that require it can sleep between shifts, and to
+the south, a typical bedroom remains unused.  
+~
+0 8 0
+D1
+~
+wooden~
+3 0 7614
+D2
+~
+oak~
+3 0 7615
+D5
+~
+~
+0 0 7610
+S
+#7614
+The Servant's Quarters~
+It is somewhat obvious that the master of this inn did not go out of his
+way to make this room comfortable.  Hard, wooden bunks, with small wooden
+tables near each one are the only real furnishings.  The room itself is very
+small, and has no windows; it seems more like a storage room than a bedroom.
+Perhaps this is what the innkeeper has in mind.  
+~
+0 8 0
+D3
+~
+wooden~
+3 0 7613
+S
+#7615
+The Filthy Bedroom~
+Either recently used or just never cleaned, this bedroom is rather messy.
+Linen from the bed is carelessly tossed over the mattress, such that it
+drapes over the side and touches the dusty floor.  The window is closed, but
+the room is still drafty; and a faint but foul odor fills the entire place. 
+~
+0 8 0
+D0
+~
+oak~
+3 0 7613
+S
+#7616
+The Caemlyn Road Through Four Kings~
+Choked with wagons and carts, the Caemlyn Road runs through town to the
+east and west, but this intersection is dominated by something other than
+exhausted horses and dirt.  To the south rises a massive swirl of red,
+purple and green boards which grab the eye and pull all attention towards
+it.  A fanciful sign above the door proclaims the establishment to be the
+Smiling Gleeman, no doubt one of the fancier taverns in town.  
+~
+0 0 1
+E
+sign~
+========================================================================/
+             ||                                         ||
+             ||                                         ||
+   __________\/_________________________________________\/_____________
+  //                        _____                                     \\
+ //   /----/ ||            /     \         {} || {}                    \\
+||      ||   ||     //\    \_____  //\//\     ||     //\   /=\\         ||
+||      |\   ||=\\ ||--          \ | || || || || || || || |   |         ||
+||      | |  || ||  \__    \_____/ | || || || || || || ||  \_/|         ||
+||            ____                                            |         ||
+||          //    \  ||                                      /          ||
+||         ||        ||                                                 ||
+||         ||   ____ ||  //\  //\  //\//\   //\    //\                  ||
+||         ||     || || ||-- ||--  | || || ||  || || ||                 ||
+ \\         \\___//  ||  \__  \__  | || ||  \\/|| || ||                //
+  \\__________________________________________________________________//
+~
+D0
+~
+~
+0 0 7618
+D1
+~
+~
+0 0 7606
+D2
+~
+~
+0 0 7649
+D3
+~
+~
+0 0 7617
+S
+#7617
+The Caemlyn Road Through Four Kings~
+Sounds of mirth echo through the streets from the multicolored taverns
+and inns that line the road as it runs through Four Kings, while below the
+laughter and singing the occasional instrument can be heard, or more often
+the clash of steel.  To the south a smaller street branches away from the
+road, heading into the private areas of the city, away from the crowded inns
+and streets.  
+~
+0 0 1
+D0
+~
+~
+0 0 7621
+D1
+~
+~
+0 0 7616
+D2
+~
+~
+0 0 7625
+D3
+~
+~
+0 0 7624
+S
+#7618
+Knightsbridge Court~
+Shadows fall across the plain dirt street as it runs from the Caemlyn
+Road to the south towards the edge of the city to the north.  No doors open
+onto the street apparently, and small rustling noises can be heard from the
+shaded recesses, as though rats were crawling around the walls.  Bolted
+against the eastern wall is a worn wooden sign, almost illegiable from the
+wear of the weather.  
+~
+0 0 1
+E
+sign~
+- Knightsbridge Court -
+~
+D0
+~
+~
+0 0 7619
+D2
+~
+~
+0 0 7616
+S
+#7619
+Knightsbridge Court~
+The shaded court comes to a dead end here against the back of a small
+house.  Amidst the gloom of the overhanging roofs lie small piles of
+garbage, no doubt flung out from the upstairs windows of several of the
+buildings bordering on the street, many of which are shuttered against
+thieves.  Slightly concealed behind a pile of broken crates lies a door into
+a old abandoned warehouse.  
+~
+0 0 1
+D2
+~
+~
+0 0 7618
+D3
+~
+crates~
+3 0 7620
+S
+#7620
+The Back of the Old Abandoned Warehouse~
+The place where fine seasonings, sacks of grain, and various commodities
+were once stored is now for the most part unused.  Various rodents, as well
+as some people who have no better place to sleep, still frequent this place;
+garbage and animal droppings give the place a rancid odor.  
+~
+0 9 0
+D0
+~
+~
+0 0 7642
+D1
+~
+crates~
+3 0 7619
+D2
+~
+~
+0 0 7621
+D3
+~
+~
+0 0 7622
+S
+#7621
+The Abandoned Warehouse~
+Still sheltered from the elements, this old place is somewhat dark, and
+quite abandoned.  The rusted and broken remains of a cart, shattered crates
+and lanterns, and other debris blankets the floor of the warehouse.  One of
+the supporting beams from the gables above lies angled down to the floor
+from where it is still bolted to the ceiling above.  
+~
+0 8 0
+D0
+~
+~
+0 0 7620
+D2
+~
+~
+0 0 7617
+S
+#7622
+Behind the Stockyards~
+Just north of a fenced-in animal yard, this place has certainly acquired
+its scent.  Piles of hay, and bags of animal feed are neatly piled on
+crates, to keep them free of the dirt, while allowing stablehands and
+rodents alike to get at them.  
+~
+0 0 1
+D1
+~
+~
+0 0 7620
+D2
+~
+~
+0 0 7623
+S
+#7623
+Merchant Stockyards of Four Kings~
+Animal feces cover the semi-solid ground, mixed with a thin layer of hay
+to comfort the animals stored here while their masters are in the taverns of
+the town.  A stout wooden fence surrounds the square yard, bordered on the
+eastern side by a long water trough and the north by a shallow food bin. 
+The sturdy gate breaks the fence to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 7622
+D2
+~
+~
+0 0 7624
+S
+#7624
+The Caemlyn Road at Four Kings~
+Though on the edges of Four Kings, the taverns and inns still manage to
+pack every available inch of free space, huddled together as though
+terrified to be alone in the plains.  The north side of the street, though,
+is relatively empty, due to the presence of the fenced stockyard which
+exudes the odor of crowded animals, driving off even the most hardened
+innkeeper.  
+~
+0 0 1
+D0
+~
+~
+0 0 7623
+D1
+~
+~
+0 0 7617
+D3
+~
+~
+0 0 7647
+S
+#7625
+Tiscosh Road~
+A fairly wide dirt lane runs from the Caemlyn Road to the north towards
+the quieter areas of the city to the south.  In contrast with the rest of
+the city, only two merchant wagons sit here, out of the way of the busy
+traffic on the Caemlyn Road.  The lane appears to be more packed than
+normal, though, as though large groups of people routinely traveled it for
+some reason.  A brass sign is mounted on a house to the east.  
+~
+0 0 0
+E
+sign~
+- Tiscosh Road -
+~
+D0
+~
+~
+0 0 7617
+D2
+~
+~
+0 0 7636
+D3
+~
+~
+0 0 7626
+S
+#7626
+Wagon Shelter~
+A fairly wide dirt lane runs from the Caemlyn Road to the north towards
+the quieter areas of the city to the south.  In contrast with the rest of
+the city, only two merchant wagons sit here, out of the way of the busy
+traffic on the Caemlyn Road.  The lane appears to be more packed than
+normal, though, as though large groups of people routinely traveled it for
+some reason.  A brass sign is mounted on a house to the east.  
+~
+0 8 1
+D1
+~
+~
+0 0 7625
+S
+#7627
+The Stage within the Dancing Cartman~
+You are standing on the stage inside the inn of the Dancing Cartman, you
+can see the enttire tavern from where you stand, and the patrons can see you
+in return as well.  The stage is very small in itself, there is barely
+enough room for yourself, and another person.  It looks very old in nature,
+and you can just imagine how many acts have played on it.  The boards
+beneath your feet creak quietly with each step, and you realize it is
+probably a wise idea to move off the stage.  To the south you can see a
+small open courtyard with a well, and to the west you can see the main
+common room of the tavern.  
+~
+0 8 1
+D1
+~
+sturdy~
+3 0 7631
+D2
+~
+~
+0 0 7612
+D3
+~
+~
+0 0 7610
+S
+#7629
+The Caemlyn Road Above Four Kings~
+Sprawled across the plains to the west lies the village of Four Kings, a
+dusty array of wide streets and multi-colored buildings, clogged with wagons
+running along the Caemlyn Road.  Other than the city, there is nothing
+within sight but the hedges around failed farms and the dusty plains of
+Andor.  
+~
+0 138412032 8
+D0
+~
+~
+0 0 7641
+D1
+~
+~
+0 0 7703
+D3
+~
+~
+0 0 7601
+S
+#7630
+Wine Cellar of the Dancing Cartman Inn~
+Like the rest of the inn, this small wine cellar is cramped and in a bad
+state of disrepair.  The racks which line the walls are all but empty, with
+not a few bottles of cheap wine broken against the stone floor.  The
+mainstay of the inn though, two large casks of ale, are decidedly clean of
+dust and are obviously used more often than the sparse shelves.  
+~
+0 2569 0
+D4
+~
+~
+0 0 7611
+S
+#7631
+Storage Room of the Dancing Cartman~
+You are in a large storage room just east of the main room of the Dancing
+Cartman.  There are several large empty crates, and barrels stacked against
+the northern wall.  A small wooden table with several makeshift chairs
+surrounding it.  Light can not escape in or from the room, because of the
+lack of windows, also producing a very faint musky smell in the room from
+the lack of breezes.  
+~
+0 0 0
+D3
+~
+sturdy~
+3 0 7627
+S
+#7632
+Inside a Red Velvet Bedroom~
+Every inch of this room is either covered with red velvet cloth or deeply
+stained wood, giving it the appearance of the bedroom of a high lord or
+lady.  Certainly there is nothing of the room that explicitly implies its
+true location, serving to heighten the fantasy of those who partake in the
+services of the house.  A large four-poster bed dominates the room, recently
+made though waiting for a pair of occupants.  
+~
+0 0 0
+D1
+~
+wooden~
+3 0 7604
+S
+#7633
+Stables of the Dancing Cartman Inn~
+Piles of hay cover the floor, throwing shadows across the small run-down
+shack which serves as the stable for the inn next door.  In spite of the
+apparent danger posed by low hanging lanterns and the stench of manure, the
+stable appears to treat its animals quite well.  A long low water trough
+runs along the side of the stalls, and feedbags hang on a hook beside each
+gate.  
+~
+0 8 1
+D3
+~
+~
+0 0 7609
+D4
+~
+~
+0 0 7634
+S
+#7634
+Hayloft Above the Stables~
+Piled high with fresh hay, the loft is situated to allow the stablehands
+to throw the hay down to the animals in the stalls below.  The smell of
+horses is quite strong up here, but at least the floor seems to be clean;
+the roof above is in very good repair, and does not allow rainwater to
+dampen the hay or the animals below.  
+~
+0 8 1
+D5
+~
+~
+0 0 7633
+S
+#7635
+Veravias Street~
+A small sign below a window the the north proclaims this to be Veravias
+Street, running through the backstreets of Four Kings, out of the bustle of
+the merchant rush.  The buildings drop away to the east, no doubt the
+junction with the High Lord Road, while to the west the road continues
+between the buildings and the shadows, passing the occasional cart and wagon
+beside doors.  
+~
+0 0 1
+E
+sign~
+- Veravias Street -
+~
+D1
+~
+~
+0 0 7608
+D3
+~
+~
+0 0 7636
+S
+#7636
+Nevari Square~
+Three roads meet here, opening out to a small square before a stout
+wooden building to the west.  Dry cracked dirt covers the ground, and small
+drifts have accumulated against the planks and forced the shutters of the
+surrounding buildings to have been boarded closed against the harsh winds. 
+Other than the occasional clatter of steel nearby there is no sound here
+except the breeze.  
+~
+0 0 1
+D0
+~
+~
+0 0 7625
+D1
+~
+~
+0 0 7635
+D2
+~
+~
+0 0 7637
+D3
+~
+~
+0 0 7639
+S
+#7637
+Gresvak Lane~
+This wide alleyway heads off to the west from Nevari Square to the north
+and the ground bears the characteristic ruts of wagon wheels and horses'
+hooves.  Unlike much of the city, no large buildings hang overhead, leaving
+the alley open to the sky.  Around a bend to the west there appear to be
+several large buildings, most likely merchant warehouses for the businessmen
+who have to stop-over in town.  
+~
+0 0 1
+D0
+~
+~
+0 0 7636
+D3
+~
+~
+0 0 7638
+S
+#7638
+Gresvak Lane~
+The lane opens into a small dirt courtyard.  To the south of the
+courtyard stands a small, yet impressive building.  A tall door of oak bars
+entry to the building, but a plaque next to the door declares this building
+to be a court of law.  
+~
+0 0 1
+E
+plaque~
+- If you wish to enter the High Court Magistrate, then simply say I wish to enter. -
+ 
+The elite guardian, Tharkin will assist you.
+~
+D1
+~
+~
+0 0 7637
+D2
+~
+oakdoor~
+4 7605 7640
+S
+#7639
+Quarters of the Merchant Guard~
+Unworthy of their own rooms at the town's inns, the merchant guards are
+forced to share this low barracks while trading off watches on their wagons.
+Two rows of hard wooden bunks line the room, their only covers being the
+guard's cloaks or carried blankets.  In spite of the hardness of the
+quarters, though, a large fireplace dominates the western wall of the
+barracks to provide heat in the cold winter.  
+~
+0 8 0
+D1
+~
+~
+0 0 7636
+S
+#7640
+The High Court~
+Inside the building is rather sparse except for several chairs and a
+large desk towards the southern end.  Behind the desk a large tall backed
+oak chair rests.  On the walls are flags of all the various cities and
+countries.  The desk supports layers of papers, a feather and jar of ink. 
+On the western wall are several shelves lined with books.  
+~
+0 8 1
+D0
+~
+oakdoor~
+4 7605 7638
+S
+#7641
+Upon a Hill Overlooking Four Kings~
+To the southwest stands the town of Four Kings; dirty rooftops and
+streets choked with carts are about all that is visible from this point. 
+The road leading east from that town passes to the east and south, avoiding
+this hill; this might be a good vantage point to watch those who pass by.  
+~
+0 0 8
+D1
+~
+~
+0 0 7702
+D2
+~
+~
+0 0 7629
+S
+#7642
+Path Between the Buildings~
+This path is grown over by weeds that grew in the soft dirt; but the
+purpose of the path is clear.  Running unseen between an old warehouse and a
+rundown house to the east, this small trail can be used to sneak between the
+worse areas of town without being noticed.  
+~
+0 0 1
+D1
+~
+~
+0 0 7643
+D2
+~
+~
+0 0 7620
+S
+#7643
+The Collapsing House~
+Although very unstable and close to collapse, it appears that this house
+is still used; if not for shelter from the elements, of which it provides
+none, then for some other purpose.  The stairs leading to the second floor
+of the house have collapsed, but a ladder has been propped up against the
+second floor landing to allow access again.  
+~
+0 8 0
+D1
+~
+~
+0 0 7645
+D3
+~
+~
+0 0 7642
+D4
+~
+~
+0 0 7644
+S
+#7644
+The Small Observatory~
+Perhaps once a happy and well furnished place, the second floor of this
+old building now seems to be used to keep watch on the town.  A window in
+the southern wall looks out over Knightsbridge Court, and the facade of the
+inn just beyond.  
+~
+0 8 0
+D5
+~
+~
+0 0 7643
+S
+#7645
+Behind the House~
+Piled high with heaps of garbage, the purpose of this place is clear. 
+Although out of sight of the rest of the town, the waste here certainly
+contributes to its odor.  The presence of the trash here, while an eyesore,
+seems to delight the various rodents that feast on it.  
+~
+0 0 1
+D2
+~
+~
+0 0 7646
+D3
+~
+~
+0 0 7643
+S
+#7646
+A Ramshackle House~
+Rubbish covers most of this decrepit house, piling up in the corners and
+creating hazardous obstacles to travel.  Amidst the garbage several beds
+appear to have been formed against the walls, covered by broken wood and old
+pieces of cloth to protect the bums and vagrants which lurk around the
+taverns and inns at night.  The general state of the place is very poor, and
+seems to be about to collapse at any minute.  
+~
+0 0 1
+D0
+~
+~
+0 0 7645
+S
+#7647
+The Outskirts of Four Kings~
+Amidst the plains surrounding the road, Four Kings rises to the east. 
+Even the few buildings here on the edges of the city bear the trademark
+paint, easily enough to put a gleeman to shame, trying to lure in the
+travelling merchants and travelers on their way between Whitebridge and
+Caemlyn.  The streets are visibly choked with horsecarts and wagons cast
+about in a haphazard manner, as though the owners didn't even care.  
+~
+0 0 1
+D1
+~
+~
+0 0 7624
+D3
+~
+~
+0 0 7648
+S
+#7648
+Caemlyn Road~
+The ground is hard and worn here as it has been well traveled by people
+for many centuries.  This road continues east and west while barren
+flatlands lie to the south.  It looks as if these barren lifeless areas run
+endlessly on into the horizon to the south.  To the north, a solitary stand
+of hedges provide the only vegetation on this otherwise flat terrain.  To
+the east there seem to be some indications of life as there appears to be
+some trees and buildings in the distance.  To the west the road continues
+into the flatlands between Whitebridge and Caemlyn.  
+~
+0 0 0
+D1
+~
+~
+0 0 7647
+D3
+~
+~
+0 0 7669
+S
+#7649
+The Smiling Gleeman~
+Garish light thrown from colored screens around the lamps shine a shield
+of unreality across the inside of the tavern, rivaling the festive panels
+which cover the walls, providing an escape from the road for those merchants
+and travelers rich enough to afford its wares.  A hard wooden floor
+surrounds a circular platform in the center of the room, a stage for
+minstrels and other high class acts.  
+~
+0 8 1
+D0
+~
+~
+0 0 7616
+D4
+~
+~
+0 0 7650
+D5
+~
+~
+0 0 7651
+S
+#7650
+The Hallway~
+The floor of this old hallway is covered with an old and faded carpet,
+which is coming apart in some places; the walls are a dirty yellow.  The
+rooms of the inn connect to the hall in various places, but all of the doors
+are closed and most likely locked.  An old wooden staircase leads to the
+foyer of the inn below.  
+~
+0 8 0
+D5
+~
+~
+0 0 7649
+S
+#7651
+Basement of the Smiling Gleeman~
+You are standing in the center of a very large basement, under the
+Smiling Gleeman.  As you look around you see several large barrels of ale,
+and crates filled with whiskey mash.  There is a hole in the southern wall,
+it appears to be the entrance of a fairly large tunnel leading to the south.
+~
+0 8 0
+D2
+~
+crates~
+3 0 7652
+D4
+~
+~
+0 0 7649
+S
+#7652
+The Beginning of a Small Tunnel~
+As you slowly crawl through this tunnel, pieces of rock and dirt fall on
+your head making it hard to see.  There is a very musky smell in the air,
+due to the face of little or no ventilation what so ever.  In the distance
+you can hear odd squeaking noises, it sounds like some type of rodent.  
+~
+0 9 0
+D0
+~
+crates~
+3 0 7651
+D2
+~
+~
+0 0 7653
+S
+#7653
+Crawling Through the Small Tunnel~
+The tunnel seems to grow smaller, as you continue your decent into the
+darkness to the south.  Their is a very putrid smell in the air, besides
+that of the still air, a smell of rotting flesh.  As you continue to crawl
+down the tunnel, it seems as if the high-pitched squeaking noise grows with
+each step.  
+~
+0 9 0
+D0
+~
+~
+0 0 7652
+D2
+~
+~
+0 0 7654
+S
+#7654
+In The Center of a Rat Pit~
+You have found yourself in a very large pit full of rats, and other forms
+of rodents.  There is a large pit in the center of the room, filled with
+rotting flesh, and bones.  It is hard to tell at this point if the bones are
+human, or some animal that got un-lucky, and wandered down this tunnel.  
+~
+0 9 0
+D0
+~
+~
+0 0 7653
+S
+#7655
+The High Lord Road~
+Within sight of Four Kings to the north, this wide road seems strangely
+unused for its proximity to that large town.  No wagons are parked here, nor
+is the road scarred by wheel ruts.  This road seems abandoned; it continues
+to the north into Four Kings, and south to an old bridge.  
+~
+0 0 8
+D0
+~
+~
+0 0 7609
+D2
+~
+~
+0 0 7656
+S
+#7656
+The Broken Bridge~
+Broken long ago under the strain of heavy merchant wagons, this old
+wooden bridge no longer spans the gap over a dried riverbed below.  Debris
+from the old structure lie below: stone and splintered wood spread evenly
+across the ground.  The event that caused this breakage must have been
+disastrous.  
+~
+0 0 8
+D0
+~
+~
+0 0 7655
+D2
+~
+~
+0 0 7657
+S
+#7657
+The High Lord Road~
+The road forks at almost a right angle.  It meanders off to the west and
+abruptly narrows, turning almost instantly into a path.  The path disappears
+between some small buildings.  To the north the road continues by means of a
+dilapidated wood bridge.  
+~
+0 0 8
+D0
+~
+~
+0 0 7656
+D2
+~
+~
+0 0 7663
+D3
+~
+~
+0 0 7658
+S
+#7658
+Path to a Small Farm~
+This courtyard of a small farm is tidy and well kept.  Tracks of many
+small animals lie intertwined in the settling dust and dirt.  Tiny corn
+kernel shucks lie scattered about and here and there small weeds protrude
+through the ground.  A large red barn sits to the north, while the farmhouse
+lies to the south and the way continues to the west.  
+~
+0 0 8
+D0
+~
+~
+0 0 7659
+D1
+~
+~
+0 0 7657
+D3
+~
+~
+0 0 7661
+S
+#7659
+Inside a Barn~
+This is a large, cavernous monster of a barn.  Hay lies everywhere giving
+off a slightly musty sour scent.  Pens for different animals line the walls
+and a ladder to the hayloft leads up.  
+~
+0 8 0
+D2
+~
+~
+0 0 7658
+D4
+~
+~
+0 0 7660
+S
+#7660
+Hayloft~
+Mounds of hay completely surround you.  It is almost smothering in
+effect.  Small pieces of hay and dust float through the air.  The rafters
+criss-cross the ceiling, a perfect hiding place for small barnmice and the
+cats that chase them.  What seems to be chicken scratches are etched into
+the boards at your feet.  
+~
+0 8 0
+D5
+~
+~
+0 0 7659
+S
+#7661
+Gate to the Corral~
+This gate serves as the entryway to a large corral.  The worn wood seems
+rather shabby but strong.  The ends of the large boards on the gate have cut
+sweeping patterns in the dirt.  The corral can be locked by this huge wooden
+gate, secured by an equally huge padlock.  
+~
+0 0 2
+D1
+~
+~
+0 0 7658
+D3
+~
+gate~
+3 0 7662
+S
+#7662
+Corral~
+This is a wonderful place to keep horses.  A wide circle enclosed by wood
+slats is high enough to prevent jumping.  Hay lies scattered around the dirt
+surface and a water trough lies off in the distance.  
+~
+0 0 2
+D1
+~
+gate~
+3 0 7661
+S
+#7663
+The High Lord Road~
+All around you, flowers and fields meet.  The fields seem carefully
+plowed, but somewhat unkempt, as if they had been done in a hurry, leaving
+some jagged edges.  Amber waves shimmer in the distance and there appears to
+be a small cluster of buildings to the northwest.  Far off the road in the
+field to the east it looks like some sort of makeshift camp has been
+erected.  
+~
+0 0 8
+D0
+~
+~
+0 0 7657
+D1
+~
+~
+0 0 7664
+D2
+~
+~
+0 0 7665
+S
+#7664
+East of the High Lord Road~
+The tiled filed have been trampled and trodden in this amll area east of
+the High Lord Road.  It looks as if a large group of men has been here
+recently as the ground reveals sign of scarring from steel shod boots. 
+Several old campfires are scattered about the area.  
+~
+0 0 2
+D3
+~
+~
+0 0 7663
+S
+#7665
+The High Lord Road~
+The ground beneath you has turned a darker shade of brown.  Flowers of
+all shades grow adjacent to the road, giving off a cacophony of scents. 
+Stretching both to the south and north, the road continues lazily.  
+~
+0 0 8
+D0
+~
+~
+0 0 7663
+D2
+~
+~
+0 0 7666
+S
+#7666
+The High Lord Road~
+Sweet smells fill the air, probably from all the wildfowers growing along
+the lane.  They seem almost cultivated, as if someone cares enough to weed
+and water them.  The dirt sodden road continues north-south from here.  
+~
+0 0 8
+D0
+~
+~
+0 0 7665
+D2
+~
+~
+0 0 7667
+S
+#7667
+The High Lord Road~
+The dirt road continues on here, rising a bit as it crests a hill.  The
+grass has gotten taller and more silken than before.  There are no trees
+here, but small scrub bushes dot the landscape lining the road.  Small,
+yellow flowers colonize the bushes off to the side of the road.  
+~
+0 0 8
+D0
+~
+~
+0 0 7666
+D2
+~
+~
+0 0 7668
+S
+#7668
+End of High Lord Road~
+A stretch of hard packed earth lies before you.  A few ruts or pebbles
+mark its relatively smooth complexion.  Off to the sides of the road you
+notice drainage ditches for nasty rainy weather, drinking from them could
+prove hazardous.  
+~
+0 0 8
+D0
+~
+~
+0 0 7667
+D1
+~
+~
+0 0 7692
+S
+#7669
+Caemlyn Road~
+Flatlands sprawl all about as the road splits the barren landscape.  The
+road, packed and worn through centuries of travel, seems to blaze its way
+east and west.  There doesn't seem to be anything in the distance.  It would
+be a good idead to continue on your way before you are stuck in this
+desolate place.  
+~
+0 0 8
+D1
+~
+~
+0 0 7648
+D3
+~
+~
+0 0 7670
+S
+#7670
+Caemlyn Road~
+This road continues east and west, link the city of Whitebridge and the
+capital of Andor, Caemlyn.  It looks like this road has been much traveled
+and still is much traveled, as is evident by the packed and well-worn nature
+of the ground.  The road continues east and west into the horizon while to
+the north and south there is nothing save for barren desolate flatlands.  It
+would not be a good idea to explore this empty land.  The road beckons to
+the east and west.  
+~
+0 0 8
+D1
+~
+~
+0 0 7669
+D3
+~
+~
+0 0 7671
+S
+#7671
+Caemlyn Road~
+Running through Andor, this long road connects Whitebridge and Caemlyn. 
+Flatlands sprawl endlessly to the north and south.  It would be wise to
+continue on one's way to the east or west.  
+~
+0 0 8
+D1
+~
+~
+0 0 7670
+D3
+~
+~
+0 0 7672
+S
+#7672
+Caemlyn Road~
+The road runs through the desolate flatlands in the heart of Andor.  The
+ground beneath your feet is hard and flat from years of travel and commerce
+between the cities of Whitebridge to the west, Four Kings to the east, and
+the heart of Andor itself, Caemlyn.  There seems to be nothing to the north
+or south except barren flatlands.  It appears the only way out of this area
+is via the road east and west.  
+~
+0 0 8
+D1
+~
+~
+0 0 7671
+D3
+~
+~
+0 0 7673
+S
+#7673
+Caemlyn Road~
+The road runs across the heart of Andor.  A traveler through these parts
+would roughly be midway through the flatlands which lie between the western
+city of Whitebridge and the eastern city of Caemlyn.  By the side of the
+road, to the north, a great tree offers shade and shelter.  
+~
+0 0 8
+D0
+~
+~
+0 0 7674
+D1
+~
+~
+0 0 7672
+D3
+~
+~
+0 0 7675
+S
+#7674
+Under a Stout Oak Tree~
+The ancient tree looms up over the northern side of the road.  Many
+times, it has offered weary travelers a cool and shady spot to break from
+the blistering road and the relentless sun, and during the nights, many have
+camped under its sheltering branches.  The smoothness of its bark, and the
+faded knife etchings are evidence of its use as a resting place.  Several
+bumps along the trunk offer convenient handholds for one to climb up to an
+overhanging branch.  
+~
+0 8 0
+D0
+~
+~
+0 0 19852
+D2
+~
+~
+0 0 7673
+S
+#7675
+Caemlyn Road~
+The road runs across the heart of Andor.  A traveler through these parts
+would almost be midway through the flatlands that lie between the western
+city of Whitebridge and the eastern city of Caemlyn.  A worn old path from
+the north intersects with the road.  
+~
+0 0 8
+D0
+~
+~
+0 0 7676
+D1
+~
+~
+0 0 7673
+D3
+~
+~
+0 0 7690
+S
+#7676
+Pickly Bushes~
+Prickly bushes grow here, impeding passage a little.  Tall trees rustle
+in the wind to the north and west, while to the east a small dirt path makes
+its way through the forest.  To the south, the Caemlyn Road works its way
+through the heart of Andor.  
+~
+0 0 3
+D0
+~
+~
+0 0 7678
+D2
+~
+~
+0 0 7675
+D3
+~
+~
+0 0 7677
+S
+#7677
+Beginning of the Woods~
+Edge of the Woods The trees all around shade the ground just off the
+road.  The sound of branches rustling in the breeze is accompanied by the
+infrequent chirps of birds.  To the south and west, the Caemlyn road
+continues on its way through Andor, but to the northwest, a farm can be
+seen.  Just to the east, low bushes cling to the ground, making passage
+slow.  
+~
+0 0 3
+D1
+~
+~
+0 0 7676
+S
+#7678
+Thick Woods~
+Just to the east, a small dirt trail runs through the forest.  However,
+you are in the forest, and the sound of tree branches rustling with the wind
+surrounds you.  A thick growth of trees blocks the way north, but the
+Caemlyn Road is visible to the south, through some bushes.  
+~
+0 0 3
+D1
+~
+~
+0 0 7679
+D2
+~
+~
+0 0 7676
+S
+#7679
+A Path Through the Woods~
+The trees rise up on both sides of the road.  Listening closely, one can
+hear the many chirps and noises that indicate active wildlife.  The path
+seems to continue north and south, deeper into the woodlands, but the
+plentiful sounds from either side of the path arouse one's curiosity.  
+~
+0 0 3
+D0
+~
+~
+0 0 7681
+D1
+~
+~
+0 0 7680
+D3
+~
+~
+0 0 7678
+S
+#7680
+An Abrubt Stop~
+Upon entering the woods, the usual chirping and rustling of the woodlife
+stops as the area becomes silent.  The forest seems to be watching you and
+waiting.  Feeling like an intruder to this place, it would seem logical to
+return to the path to the west.  
+~
+0 0 3
+D3
+~
+~
+0 0 7679
+S
+#7681
+Along the Wooded Path~
+At this point the path abruptly breaks right.  The trees ahead seem to
+loom larger and thicker.  Trying to break through them would be difficult at
+the least, but most likely unsuccessful.  Looking east along the path, the
+great canopy of trees seems to open up a bit.  
+~
+0 0 3
+D1
+~
+~
+0 0 7682
+D2
+~
+~
+0 0 7679
+S
+#7682
+A Dry Pond~
+By the wear on the ground and from a few partial footprints, one can
+assume that this place was once much frequented, probably when there was
+actually water here.  Now all that remains is the dry bottom and a ring of
+bushes that probably grew around the pond.  Dark berries grow on several
+bushes.  The pond looks as if it has been dry for quite some time, but there
+seem to be some fresher tracks that have come to this area.  
+~
+0 0 3
+D1
+~
+~
+0 0 7683
+D3
+~
+~
+0 0 7681
+S
+#7683
+In a Silent Valley~
+Pine-needles and fir-cones lie thickly on the ground here, the product of
+hundreds of seasons.  A few trees grow out of the ground, leaning over in
+the winds that blow from far to the north.  The valley continues north and
+east, and to the west is a dried out old pond.  South is impenetrable woods.
+~
+0 0 3
+D0
+~
+~
+0 0 7684
+D1
+~
+~
+0 0 7686
+D3
+~
+~
+0 0 7682
+S
+#7684
+In a Silent Valley~
+A clump of tall mountain-willows stand close together here, their long
+arching branches hanging over the other trees in the valley.  Quite a lot of
+falling leaves filters through the branches of the willows, and many plants
+have been able to settle on the ground.  The valley continues south and
+east.  
+~
+0 0 3
+D1
+~
+~
+0 0 7685
+D2
+~
+~
+0 0 7683
+S
+#7685
+In a Silent Valley~
+Ivy growing up the tree-trunks of enormous pine-trees make this valley
+seem a little darker than would be expected at first.  This darkness,
+however, is not especially somber, but just the product of poor and stony
+soil.  A quiet valley is east, south and west of you, and rising up from the
+ground to the north is a plateau.  You can reach this plateau by climbing
+upwards through a path that runs alongside the cliff-side.  
+~
+0 0 3
+D1
+~
+~
+0 0 7687
+D2
+~
+~
+0 0 7686
+D3
+~
+~
+0 0 7684
+D4
+~
+~
+0 0 7688
+S
+#7686
+In a Silent Valley~
+The steepness of the rockface to the south and east provide an
+explanation for the stony ground, which is rough and hard-going.  Only one
+pine-tree, very tall and obviously ancient, grows here, overlooking the
+remainder of the valley, to the north and west.  The valley is secluded, and
+there are few signs of human or even animal life.  
+~
+0 0 3
+D0
+~
+~
+0 0 7685
+D3
+~
+~
+0 0 7683
+S
+#7687
+In a Silent Valley~
+Curiously, no oaks grow in this valley which seems entirely populated by
+pines and other evergreens.  The soil is not nearly as dark as the Braem
+Wood to your north, and rock formations show through the earth here and
+there.  Still, well-protected from the wind, this quiet valley looks safe
+and calm.  The valley continues south and west, and there is a path north.  
+~
+0 0 3
+D0
+~
+~
+0 0 7689
+D2
+~
+~
+0 0 7691
+D3
+~
+~
+0 0 7685
+S
+#7688
+High Above a Valley~
+Your standing high above the quiet valley below, you can see most of the
+forest from up here, and the bustling town of Four Kings is barely visible
+to the east as well.  A very harsh wind blows up here, and you struggle to
+keep your balance, it is probably wise if you climb back down.  
+~
+0 0 5
+D5
+~
+~
+0 0 7685
+S
+#7689
+East of the Plateau~
+As you walk beside the cliffs that support a high plateau, you can see
+the trees of the Braem Wood to your north and east, although those east are
+too overgrown to allow you in.  Going west is no good either, as the cliffs
+are set at such an angle that climbing them is not feasable.  There is a
+quiet valley just south of here, from which few sounds seem to come.  
+~
+0 0 3
+D2
+~
+~
+0 0 7687
+S
+#7690
+Caemlyn Road~
+The Caemlyn Road runs through the middle of Andor, connecting the city of
+Whitebridge to the heart of the country, Caemlyn.  The small forest that
+borders the road here can be seen to the north, just off the road.  Farther
+west, the road bends, but it leads straight east and west here.  
+~
+0 0 8
+D0
+~
+~
+0 0 4259
+D1
+~
+~
+0 0 7675
+D3
+~
+~
+0 0 3529
+S
+#7691
+In a Silent Valley~
+The lay of the land is uneven here, and you realize that you cannot get
+any further south because of a very steep incline.  With the trees too
+densely overgrown to enter on every side except to the north, that appears
+to be the way to go.  The grass is very soft and dangers seem distant.  
+~
+0 0 3
+D0
+~
+~
+0 0 7687
+S
+#7692
+A Grassy Field~
+Tall, stalky grass extends in all directions, wind rippling across it
+like a sea.  Patches of brown dot the expanse of green around you, places
+where not enough water has reached it.  A few scraggly, small trees populate
+the field, although not growing too well, with cracked and twisted branches.
+To the west can be seen a road, and to the east the beginnings of a
+wandering path.  
+~
+0 0 2
+D1
+~
+~
+0 0 7693
+D2
+~
+~
+0 0 7694
+D3
+~
+~
+0 0 7668
+S
+#7693
+On a Path~
+More trees become visible on the small meandering path, but they are
+wilted and twisted reflections of their normal oak cousins.  Light along the
+path is slowly squeezed out by the looming branches of the trees.  Dead
+plants and leaves coat the ground below the trees, the smell of decay is
+present in the air.  The path begins to twist more to the east, a grassy
+field stretches far out to the west.  
+~
+0 0 8
+D1
+~
+~
+0 0 7696
+D3
+~
+~
+0 0 7692
+S
+#7694
+A Large Field~
+This isolated field has produced some very fragrant vegetation.  Flowers
+of blue and violet populate the grassy field.  To the north-east a forest
+stretches but no trees mar this field's complexion.  The field extends to
+the north and a dirt road can be seen to the south through the untamed
+plants and weeds.  
+~
+0 0 2
+D0
+~
+~
+0 0 7692
+D1
+~
+~
+0 0 7695
+S
+#7695
+In the Brush~
+A riot of brambles, thorns, branches and leaves completely surround you. 
+It is darkened here and not even enough light is available to see your feet.
+Quiet has descended and all that is audible is the crunch of dead and dying
+vegetation under foot.  
+~
+0 0 2
+D3
+~
+~
+0 0 7694
+S
+#7696
+On a Path~
+A gentle breeze passes among the branches above, creating dancing
+patterns of green across the canopy above.  A myriad of trees inhabit the
+area as you go deeper on into the forest, many of which you can you name
+although one seems rather odd looking and stands to the north.  A quiet
+glade can be seen off to the west and the path runs futher to the east.  
+~
+0 0 2
+D1
+~
+~
+0 0 7697
+D3
+~
+~
+0 0 7693
+S
+#7697
+Bend in a Path~
+Patches of plants and grass cohabit with the surrounding trees, and the
+path begins to soften as the soil gains in fertility.  Calls from various
+animals seem muted and distant, the sounds coming from all around you.  The
+pale greens and greys of lichen and moss are seen dotting rocks and fallen
+trees.  The path takes a turn northward and then continues to the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 7698
+D3
+~
+~
+0 0 7696
+S
+#7698
+Bend in a Path~
+The forest canopy starts to widen, but it eventually disappears further
+down the road.  As hardwood trees become more scarce and smaller, thinner
+trees show themselves.  Rock outcroppings jut from hills on the edges of the
+pass, showing red and ashen purple in ribbons of stone.  Winding to the
+south and the east, the path continues.  
+~
+0 0 2
+D1
+~
+~
+0 0 7699
+D2
+~
+~
+0 0 7697
+S
+#7699
+On a Path~
+Wild growing brambles and bushes line the path, slowly encroaching upon
+it as they expand.  The path curves, meandering through tiny groves of
+aspens and other lightwood.  The faint scent of water can be smelled coming
+from the south-east.  The path wanders on to the east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 7700
+D3
+~
+~
+0 0 7698
+S
+#7700
+On a Path~
+A few aspens can be seen here and there among oaks and other trees. 
+Small shrubs and flowers grow randomly between the trunks of the surrounding
+trees.  The sweet smell of water and flowers is apparent coming from the
+south.  The path, comes to an abrubt stop to the east.  
+~
+0 0 2
+D2
+~
+~
+0 0 7701
+D3
+~
+~
+0 0 7699
+S
+#7701
+A Placid Pond~
+A small, clear pond is improbably nestled between the trees.  A few
+bright flowers cling to life at its edges.  The clear water here allows for
+the bottom to be distinctly seen.  Few branches block the view skyward, and
+the fragrance of flowers can be smelled.  
+~
+0 0 2
+D0
+~
+~
+0 0 7700
+S
+#7702
+Caemlyn Road~
+Making a bend around a hill to the west, the Caemlyn Road curves to the
+east and south.  The road stretches off towards the horizon in the east,
+leading eventually to the ancient city of Caemlyn; while to the southwest it
+leads into the heart of Four Kings.  
+~
+0 0 8
+D1
+~
+~
+0 0 7704
+D2
+~
+~
+0 0 7703
+D3
+~
+~
+0 0 7641
+S
+#7703
+Caemlyn Road~
+Directly east of the edge of Four Kings, the Caemlyn Road makes a gentle
+bend to the west and north around a hill.  Heavy use and poor maintenance on
+this road are evident; it is too old to carry the heavy cargo wagons that it
+bears, even if that was its intended purpose.  
+~
+0 0 8
+D0
+~
+~
+0 0 7702
+D3
+~
+~
+0 0 7629
+S
+#7704
+Caemlyn Road~
+Passing to the south of the Braem Wood, the road to Caemlyn is a wide
+highway that allows an easy connection between the many farms along its
+route and the city of Caemlyn and the town of Four Kings.  The dusty road
+extends to the east, almost out of sight, and encounters a bend to the west.
+~
+0 0 8
+D1
+~
+~
+0 0 7705
+D3
+~
+~
+0 0 7702
+S
+#7705
+Caemlyn Road~
+The road to Caemlyn runs very near to thick forestland which lies to the
+north; a small trail leaves the road here and vanishes into the trees.  The
+road itself, showing the wear it receives from constant traffic, runs off to
+the east and west in an undisturbed and straight course.  
+~
+0 0 8
+D0
+~
+~
+0 0 7707
+D1
+~
+~
+0 0 7706
+D3
+~
+~
+0 0 7704
+S
+#7706
+Caemlyn Road~
+The road continues on a fairly straight path to the east and west in this
+area, offering little in the way of shelter or scenery.  The only really
+distinct view from the road is Braem Wood, which stands as a dark mass of
+trees to the north.  
+~
+0 0 8
+D1
+~
+~
+0 0 3530
+D3
+~
+~
+0 0 7705
+S
+#7707
+A Trail in the Forest~
+As you enter the woods the sounds and smells of the forest surround you. 
+This trail looks like it might lead to good hunting.  It leads off into
+Braem Wood to the north.  To the south is the Caemlyn Road.  
+~
+0 0 3
+D0
+~
+~
+0 0 7708
+D2
+~
+~
+0 0 7705
+S
+#7708
+A Bend in the Trail~
+Here the trail is forced to the east by a large mossy boulder the size of
+a house.  The woods here seem to be alive with animals.  The trail also
+leads away to the south.  
+~
+0 0 3
+D1
+~
+~
+0 0 7709
+D2
+~
+~
+0 0 7707
+S
+#7709
+A Bend in the Trail~
+The trail bends north around the side of a large mossy boulder.  To the
+west the trail follows the side of the boulder then turns south.  
+~
+0 0 3
+D0
+~
+~
+0 0 7710
+D3
+~
+~
+0 0 7708
+S
+#7710
+A Trail in the Forest~
+The forest seems peaceful as you travel this trail.  Small animals scurry
+through the leaves on either side.  To the north, the trail seems to come to
+an end.  To the south the trail leads away into the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 7711
+D2
+~
+~
+0 0 7709
+S
+#7711
+The End of the Trail~
+The forest breaks to the north up a large hill with a rocky top.  To the
+east is a lonely looking stable in the middle of the woods.  There are
+tracks that show people have been here recently but no one is in sight.  A
+trail leads away through the forest to the south.  
+~
+0 0 3
+D1
+~
+~
+0 0 7712
+D2
+~
+~
+0 0 7710
+S
+#7712
+A Small Stable~
+This stable is poorly constructed but appears to be frequently used, from
+the piles of manure and flies.  
+~
+0 8 0
+D3
+~
+~
+0 0 7711
+S
+#0
+
+
+
+#SPECIALS
+M 7603 spec_guard
+S
+
+
+
+#RESETS
+D 0 7604 0 1
+D 0 7604 3 1
+D 0 7605 2 1
+D 0 7613 1 1
+D 0 7613 2 1
+D 0 7614 3 1
+D 0 7615 0 1
+D 0 7619 3 1
+D 0 7620 1 1
+D 0 7627 1 1
+D 0 7631 3 1
+D 0 7632 1 1
+D 0 7638 2 2
+D 0 7640 0 2
+D 0 7651 2 1
+D 0 7652 0 1
+D 0 7661 3 1
+D 0 7662 1 1
+M 0 7603 20 7602 2 100 Load a calvary soldier
+E 0 7603 0 17 0 100 A sharp silver sword is loaded wielded of a calvary soldier
+E 0 7604 0 12 0 100 A cloak of the andoran cavalry is loaded about the shoulders of a calvary soldier
+M 0 7603 20 7602 2 100 Load a calvary soldier
+E 0 7603 0 17 0 100 A sharp silver sword is loaded wielded of a calvary soldier
+E 0 7604 0 12 0 100 A cloak of the andoran cavalry is loaded about the shoulders of a calvary soldier
+M 0 7621 10 7602 4 100 Load A wandering merchant
+E 0 7609 0 8 0 100 A pair of ragged leather boots is loaded on the feet of A wandering merchant
+M 0 7602 1 7603 1 100 Load Madam Veronica
+E 0 7602 0 12 0 100 A silken red dress is loaded about the shoulders of Madam Veronica
+M 0 7604 1 7606 1 100 Load Curchack
+M 0 7620 20 7606 5 100 Load A wandering villager
+M 0 7620 20 7608 5 100 Load A wandering villager
+E 0 7608 0 15 0 100 A soft leather bracelet is loaded on the left wrist of A wandering villager
+M 0 7601 1 7610 1 100 Load Saml Hake
+M 0 7619 1 7610 1 100 Load Strom
+M 0 7618 1 7610 1 100 Load Jak
+O 0 30500 0 7610 0 100 A small table loaded to Common Room of the Dancing Cartman
+O 0 7601 0 7612 0 100 An ancient stone well loaded to An Open Courtyard
+M 0 7630 1 7613 1 100 Load A short, simple looking man
+M 0 7621 10 7616 3 100 Load A wandering merchant
+E 0 7609 0 8 0 100 A pair of ragged leather boots is loaded on the feet of A wandering merchant
+M 0 7603 15 7616 5 100 Load a calvary soldier
+E 0 7603 0 17 0 100 A sharp silver sword is loaded wielded of a calvary soldier
+M 0 7620 20 7617 4 100 Load A wandering villager
+E 0 7608 0 15 0 100 A soft leather bracelet is loaded on the left wrist of A wandering villager
+M 0 7603 20 7624 6 100 Load a calvary soldier
+E 0 7603 0 17 0 100 A sharp silver sword is loaded wielded of a calvary soldier
+M 0 7629 1 7629 1 100 Load `*Stephen
+M 0 7605 5 7635 5 100 Load A merchant guard
+M 0 7620 5 7635 5 100 Load A wandering villager
+E 0 7608 0 15 0 100 A soft leather bracelet is loaded on the left wrist of A wandering villager
+M 0 7603 5 7636 5 100 Load a calvary soldier
+E 0 7603 0 17 0 100 A sharp silver sword is loaded wielded of a calvary soldier
+M 0 7605 10 7636 3 100 Load A merchant guard
+M 0 7606 1 7638 1 100 Load Tharkin the elite guard
+E 0 7605 0 19 0 100 An iron key is loaded held in the hands of Tharkin the elite guard
+M 0 7605 15 7639 2 100 Load A merchant guard
+M 0 7700 1 7640 1 100 Load the dark-haired magistrate
+E 0 7605 0 19 0 100 An iron key is loaded held in the hands of the dark-haired magistrate
+O 0 7610 0 7646 0 100 An old leather scroll loaded to A Ramshackle House
+M 0 7607 4 7654 4 100 Load a vicious looking, black-skinned rat
+M 0 7608 2 7659 2 100 Load A brown cow
+E 0 7606 0 3 0 100 A brass cow bell is loaded around the neck (1) of A brown cow
+M 0 7609 2 7659 2 100 Load A sheep
+M 0 7610 2 7662 2 100 Load The black stallion
+M 0 7611 6 7664 6 100 Load a Child of the Light
+E 0 7607 0 12 0 100 A bright white cloak is loaded about the shoulders of a Child of the Light
+M 0 7612 1 7664 1 100 Load The Child of the Light Officer
+E 0 7607 0 12 0 100 A bright white cloak is loaded about the shoulders of The Child of the Light Officer
+M 0 7616 10 7676 3 100 Load A bobcat
+M 0 7615 10 7678 4 100 Load A black hawk
+M 0 7613 6 7681 2 100 Load A wild boar
+M 0 7614 13 7682 2 100 Load A brown deer
+M 0 7614 10 7683 3 100 Load A brown deer
+M 0 7614 10 7687 2 100 Load A brown deer
+M 0 7617 3 7692 3 100 Load A young buck
+M 0 7614 20 7692 2 100 Load A brown deer
+O 0 7692 0 7692 0 100 `*dark red flower with dark green leaves. loaded to A Grassy Field
+M 0 7616 5 7696 5 100 Load A bobcat
+M 0 7615 15 7699 3 100 Load A black hawk
+M 0 7613 5 7700 5 100 Load A wild boar
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#7601
+if rand 75
+wink $n
+else
+if rand 50
+bkiss $n
+else
+if rand 1
+flirt $n
+endif
+break
+~
+#7602
+~
+#7603
+if ispc $n
+say I will allow you to enter $n, follow me.
+chuckle
+unlock oakdoor
+open oakdoor
+grin $n
+say Good luck.
+break
+endif
+-
+~
+#7604
+if ispc $n
+emote glances over towards the magistrate, and then quickly moves to close the door.
+close oakdoor
+emote grins quietly, as he locks the door behind you.
+lock oakdoor
+emote turns, and then looks towards the magistrate.
+say It is locked, M'lord.
+break
+endif
+-
+~
+#7605
+if ispc $n
+close oakdoor
+lock oakdoor
+break
+endif
+~
+#7608
+say Moo.
+end
+~
+#7629
+if !hasquest $n 5
+emote walks closer to you then, grabbing you by the shoulder and saying in a low voice...
+tell $n I have no time to talk...
+emote looks around quickly, then continues..
+tell $n They are right behind me.  They must not get their hands on this..
+mob oload 7629
+give Darkened $n
+mob addquest $n 5
+tell $n You must not allow them to capture this. If they do all is lost.
+tell $n Take this to Falme. I will meet you there south and east of the city gates.
+emote looks over his shoulder once more and continues in a quickened pace..
+tell $n You will be rewarded handsomely if you do this.  GO! Now! Hurry, they are comming.
+tell $n Do not worry about me, for I will be ok if I do not have the scroll with me.
+tell $n If I am unable to make it, look for Justin, he will be somewhere near the gates of Falme.
+else
+if hascompletedquest $n 5
+mob purge $i stephen
+endif
+endif
+~
+#7630
+mob transfer $n 8600
+~
+#7700
+say hello
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

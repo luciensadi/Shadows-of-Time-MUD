@@ -1,0 +1,649 @@
+#STORES
+#STOREOBJ
+Vnum 3393
+Owner Tagar~
+Guild 0
+Coffer 0
+Keeper Tagar~
+KeeperVnum 0
+LPaid 0
+#SOLD
+Name a diamond longsword~
+Cost 5
+#STOREOBJ
+Vnum 3390
+Owner Katsumi~
+Guild 0
+Coffer 0
+Keeper Shopkeep~
+KeeperVnum 10
+LPaid 993235097
+#ITEM
+Cost 1800
+#O
+Vnum 899
+ID 20691
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 1000
+#O
+Vnum 30005
+ID 54
+PK 0
+Nest 0
+Wear -1
+Cost 2000
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 3803
+ID 7087
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 300
+#O
+Vnum 17052
+ID 7066
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#SOLD
+Name a Pair Of Bone Leggings~
+Cost 300
+#SOLD
+Name (Corrupted) Longsword~
+Cost 1
+#SOLD
+Name a Orb of the Shielding~
+Cost 30
+#SOLD
+Name `?D`?r`?e`?y`?'s`? C`?o`?u`?p`?o`?n `?Q`?u`?e`?s`?t`*~
+Cost 15
+#SOLD
+Name myrddraal's Fear~
+Cost 80
+#STOREOBJ
+Vnum 2409
+Owner Dreyus~
+Guild 0
+Coffer 0
+Keeper Dreyus~
+KeeperVnum 0
+LPaid 0
+#ITEM
+Cost 99999
+#O
+Vnum 2411
+ID 344027
+PK 0
+Enchanted
+Nest 0
+ExtF 3
+Wear -1
+Cost 0
+Affc 'reserved'   0  80  -1 -500  24          0
+Affc 'reserved'   1 100  -1 25000  19          0
+Affc 'reserved'   1 100  -1 25000  18          0
+End
+
+#SOLD
+Name Shadow's Edge~
+Cost 1
+#SOLD
+Name `!A`8sha'`!M`8an `!A`8rm `!P`8lates`*~
+Cost 1
+#SOLD
+Name a `&B`8e`&t`8a `&T`8es`&T`8er`&s`^' `&B`7a`8d`7g`&e`*~
+Cost 1
+#SOLD
+Name a `^Q`6uiver `7of `&Fine `!A`1rrows`7~
+Cost 1
+#SOLD
+Name `1A`8ginor's `1B`8odyarmor `1Of `&Bone`*~
+Cost 1
+#SOLD
+Name `@A`&ci`2d`8i`@c `8S`@t`2a`&i`@n`8ed `&C`2l`8oa`@k`7~
+Cost 1
+#SOLD
+Name `&(`8Ta`&i`8n`&te`8d`&) `&R`8i`&ng `7of M`&a`8ch`&i`7n `8S`&h`8i`&n`7~
+Cost 1
+#SOLD
+Name `6B`5r`6a`5n`6d `4o`3f `2t`1h`2e `8I`*l`8l`*u`8m`*i`8n`*a`8t`*i~
+Cost 1
+#SOLD
+Name a `&B`8e`&t`8a `&T`8es`&T`8er`&s`^' `&B`7a`8d`7g`&e`*~
+Cost 1
+#SOLD
+Name dark crimson armbands~
+Cost 1
+#SOLD
+Name `8Re`&gh`8a`7n`8's `8A`&d`8i`&d`8a`&s `7Fl`8i`&p-`8F`&l`7o`8ps`7~
+Cost 1
+#SOLD
+Name `6B`5r`6a`5n`6d `4o`3f `2t`1h`2e `8I`*l`8l`*u`8m`*i`8n`*a`8t`*i~
+Cost 1
+#SOLD
+Name `&(`8Ta`&i`8n`&te`8d`&) `&R`8i`&ng `7of M`&a`8ch`&i`7n `8S`&h`8i`&n`7~
+Cost 1
+#SOLD
+Name `8(`&T`7h`8r`&o`7b`*b`&i`7n`8g`&) `%P`5u`%r`5p`%l`5e `%H`5e`%l`5m`%e`5t`*~
+Cost 1
+#SOLD
+Name A `$R`4estring `!C`1oupon`7~
+Cost 1
+#SOLD
+Name `#A C`&oupon `#of `#S`&tudy`*~
+Cost 1
+#SOLD
+Name `&(`!Legendary`&) `8Dark `1Gauntlets `&Of `#Po`*w`&er`*~
+Cost 1
+#SOLD
+Name `&(`!Legendary`&) `&Light `1Mask `&Of `@Cou`&r`2age`*~
+Cost 1
+#SOLD
+Name `1(`!b`1l`!o`1od`!-`1c`!oa`1t`!e`!d`1) `8 S`&p`8i`&ke`8d `&Silver `7Leggings~
+Cost 1
+#SOLD
+Name a `^Q`6uiver `7of `&Fine `!A`1rrows`7~
+Cost 1
+#SOLD
+Name `&(`8Ta`&i`8n`&te`8d`&) `2Pr`@e`2s`@e`2n`@ce `&of `8the `2N`2y`8m`7~
+Cost 1
+#STOREOBJ
+Vnum 3391
+Owner Treil~
+Guild 0
+Coffer 0
+Keeper Treil~
+KeeperVnum 0
+LPaid 0
+#ITEM
+Cost 1
+#O
+Vnum 10009
+ID 370299
+PK 0
+Nest 0
+ExtF 259
+Cond 87
+Wear -1
+Cost 5000
+End
+
+#SOLD
+Name `&Ring `8of `!G`1orbo`7~
+Cost 1
+#SOLD
+Name `&Ring `8of `!G`1orbo`7~
+Cost 1
+#SOLD
+Name the Bow of Shielding~
+Cost 1
+#SOLD
+Name (Corrupted) Field Plate~
+Cost 1
+#SOLD
+Name `&(`@F`2iery`&) `8T`*h`8e `!A`1x`!e `8o`*f `#G`3l`#or`3y`*~
+Cost 700
+#SOLD
+Name `&(`@F`2iery`&) `8T`*h`8e `!A`1x`!e `8o`*f `#G`3l`#or`3y`*~
+Cost 1
+#SOLD
+Name `&(`@F`2iery`&) `8T`*h`8e `!A`1x`!e `8o`*f `#G`3l`#or`3y`*~
+Cost 1
+#SOLD
+Name `&(`@F`2iery`&) `8T`*h`8e `!A`1x`!e `8o`*f `#G`3l`#or`3y`*~
+Cost 1
+#SOLD
+Name a leather backpack~
+Cost 50
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 1
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 1
+#SOLD
+Name `&Sh`7ad`8ow`7 Sword~
+Cost 1
+#SOLD
+Name a Orb of the Shielding~
+Cost 500
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 500
+#SOLD
+Name (Corrupted) A Dull Quiver~
+Cost 500
+#SOLD
+Name a Pair Of Bone Leggings~
+Cost 1
+#SOLD
+Name a Orb of the Shielding~
+Cost 1
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 1
+#SOLD
+Name `#G`&old `#C`&oupon`*~
+Cost 100
+#SOLD
+Name `#G`&old `#C`&oupon`*~
+Cost 100
+#SOLD
+Name `#G`&old `#C`&oupon`*~
+Cost 100
+#SOLD
+Name `#G`&old `#C`&oupon`*~
+Cost 100
+#SOLD
+Name `#G`&old `#C`&oupon`*~
+Cost 100
+#SOLD
+Name nightmare's breath~
+Cost 300
+#SOLD
+Name a Pair Of Bone Leggings~
+Cost 500
+#SOLD
+Name `7a `8b`&la`7c`8k `8r`&o`7b`8e`7~
+Cost 1000
+#SOLD
+Name `#G`3o`8l`&d`3e`#n `&Greaves`7~
+Cost 1
+#SOLD
+Name `?D`?r`?e`?y`?'s`? C`?o`?u`?p`?o`?n `?Q`?u`?e`?s`?t`*~
+Cost 1
+#SOLD
+Name `3G`&o`3l`&d`3e`&n `3P`&l`3at`&e of `8Armor`7~
+Cost 1
+#SOLD
+Name `8A `!H`1eron`&-`7M`8arked B`7l`&a`7d`8e`7~
+Cost 50
+#SOLD
+Name dreadlord's Belt~
+Cost 100
+#SOLD
+Name darkhound skin Boots~
+Cost 100
+#SOLD
+Name `#(`&L`#i`&ght`#)`& L`8i`&g`&h`8t`&f`8o`&rge `!B`1o`!o`1t`8s`*~
+Cost 1
+#SOLD
+Name `?D`?r`?e`?y`?'s`? C`?o`?u`?p`?o`?n `?Q`?u`?e`?s`?t`*~
+Cost 50
+#SOLD
+Name dreadlord's Belt~
+Cost 1
+#SOLD
+Name `!T`1h`!e `1L`!a`1m`!p `7of `^F`6oresight`7 `7and `#S`3t`#r`3e`#n`3g`#t`3h`7~
+Cost 1
+#SOLD
+Name `!T`3u`#r`1k`!e`3y `#L`1u`!r`3k`#e`1y `!F`3e`#a`1t`!h`3e`#r`1s`7~
+Cost 1
+#SOLD
+Name `#(`&L`#i`&ght`#)`& L`8i`&g`&h`8t`&f`8o`&rge `!B`1o`!o`1t`8s`*~
+Cost 1
+#SOLD
+Name `&Sh`7ad`8ow`7 Sword~
+Cost 1
+#SOLD
+Name `!T`3u`#r`1k`!e`3y `#L`1u`!r`3k`#e`1y `!F`3e`#a`1t`!h`3e`#r`1s`7~
+Cost 1
+#SOLD
+Name `!T`1h`!e `1L`!a`1m`!p `7of `^F`6oresight`7 `7and `#S`3t`#r`3e`#n`3g`#t`3h`7~
+Cost 1
+#SOLD
+Name the Bow of Shielding~
+Cost 1
+#SOLD
+Name `3G`&o`3l`&d`3e`&n `3P`&l`3at`&e of `8Armor`7~
+Cost 1
+#SOLD
+Name `7a `8s`&ma`7l`8l `8b`7l`8a`&c`8k `7a`&u`8ra`7~
+Cost 1
+#SOLD
+Name `@A`&ci`2d`8i`@c `8S`@t`2a`&i`@n`8ed `&C`2l`8oa`@k`7~
+Cost 1
+#SOLD
+Name `7a `8s`&ma`7l`8l `8b`7l`8a`&c`8k `7a`&u`8ra`7~
+Cost 1
+#SOLD
+Name `8Re`&gh`8a`7n`8's `8A`&d`8i`&d`8a`&s `7Fl`8i`&p-`8F`&l`7o`8ps`7~
+Cost 1
+#SOLD
+Name `8A C`*l`8o`*a`8k `*of `8Sh`*a`8d`*ow`8s`*~
+Cost 1
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 1
+#SOLD
+Name `$A `!F`1igurine `#M`3ade `7of `8I`&vory`7~
+Cost 1
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 1
+#SOLD
+Name (Corrupted) A Dull Quiver~
+Cost 1
+#SOLD
+Name the Bow of Shielding~
+Cost 1
+#STOREOBJ
+Vnum 3392
+Owner `*Warder~
+Guild 10
+Coffer 0
+Keeper Shopkeep~
+KeeperVnum 10
+LPaid 994031803
+#ITEM
+Cost 1100
+#O
+Vnum 6411
+ID 342426
+PK 0
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#ITEM
+Cost 1500
+#O
+Vnum 24402
+ID 368016
+PK 0
+Nest 0
+Wear -1
+Cost 5000
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 7518
+ID 143972
+PK 1
+Enchanted
+Nest 0
+Wt   250
+Wear -1
+Cost 300
+Val  25 25 25 25 0
+Affc 'reserved'   1   0  -1  25  12          0
+Affc 'reserved'   1   0  -1  20  13          0
+Affc 'reserved'   1   0  -1   3  19          0
+Affc 'reserved'   1   0  -1   3  18          0
+End
+
+#ITEM
+Cost 200
+#O
+Vnum 6412
+ID 342427
+PK 0
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#ITEM
+Cost 5000
+#O
+Vnum 17055
+ID 29566
+PK 0
+Nest 0
+ExtF 83910913
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 14002
+ID 332393
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 12200
+ID 86707
+PK 1
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 3810
+ID 88998
+PK 1
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 7524
+ID 322292
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 1400
+#O
+Vnum 12204
+ID 2710
+PK 1
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#ITEM
+Cost 800
+#O
+Vnum 28
+ID 339172
+PK 0
+Nest 0
+ShD  A pair of Acebo's `!b`1loody`* legs~
+Desc A pair of Acebo's `!b`1loody`* legs are here, twitching.~
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 1200
+#O
+Vnum 899
+ID 369085
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 2000
+#O
+Vnum 6441
+ID 309279
+PK 0
+Nest 0
+Name Warder~
+ShD  A `1Warder`7's `?C`?o`?l`?o`?r`?-`?s`?h`?i`?f`?t`?i`?n`?g `?C`?l`?o`?a`?k`7~
+Desc a `1Warder`7's color shifting cloak~
+Wear -1
+Cost 10000
+Val  50 50 50 50 0
+End
+
+#ITEM
+Cost 1700
+#O
+Vnum 24431
+ID 186733
+PK 0
+Enchanted
+Nest 0
+Wear -1
+Cost 2000
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'reserved'   1 110  -1  10  19          0
+Affc 'reserved'   1 110  -1  10  18          0
+Affc 'detect hidden'   0  81  -1   0  25          6
+Affc 'detect invis'   0  81  -1   0  25          4
+Affc 'fly'   0  81  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'fly'   0  80  -1   0  25         20
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect invis'   0  80  -1   0  25          4
+Affc 'detect hidden'   0  80  -1   0  25          6
+Affc 'fly'   0  80  -1   0  25         20
+End
+
+#SOLD
+Name `3N`8o `3B`8reak `3C`8oupon`*~
+Cost 1
+#SOLD
+Name `3N`8o `3B`8reak `3C`8oupon`*~
+Cost 1
+#SOLD
+Name `&(`@F`2iery`&) `8T`*h`8e `!A`1x`!e `8o`*f `#G`3l`#or`3y`*~
+Cost 1
+#SOLD
+Name `&(`@F`2iery`&) `8T`*h`8e `!A`1x`!e `8o`*f `#G`3l`#or`3y`*~
+Cost 1
+#SOLD
+Name An `#E`3nchant `!C`1oupon`7~
+Cost 525
+#SOLD
+Name `#G`3o`8l`&d`3e`#n `&Greaves`7~
+Cost 800
+#SOLD
+Name `1S`!e`1v`!e`1nth`7 of `1N`!i`1n`!e`7 Rods of `8Do`7mi`&na`7ti`8on`7~
+Cost 3000
+#SOLD
+Name `1(`&A`8ncient`1) `&L`*e`8g `&Pl`*at`8es `1of `1A`8p`1o`8c`1l`8i`1p`8s`1e`*~
+Cost 1
+#SOLD
+Name `&(`$Ancient`&) `#Glo`*w`3ing `1Wristplate `2Of `&Moo`*nli`8ght`*~
+Cost 1
+#SOLD
+Name `&(`#l`3eather`&) `!s`1turdy `!b`1oots`7~
+Cost 800
+#SOLD
+Name (Corrupted) Wrist Plate~
+Cost 800
+#SOLD
+Name Hassan's scimitar~
+Cost 1
+#SOLD
+Name `6G`3r`6an`3d `6T`3ra`6i`3n`*~
+Cost 1
+#SOLD
+Name A `$R`4estring `!C`1oupon`7~
+Cost 1
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 300
+#SOLD
+Name a Corpse Retrieval Coupon~
+Cost 1
+#SOLD
+Name (Corrupted) Field Plate~
+Cost 500
+#SOLD
+Name `6B`5r`6a`5n`6d `4o`3f `2t`1h`2e `8I`*l`8l`*u`8m`*i`8n`*a`8t`*i~
+Cost 1
+#SOLD
+Name (`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+Cost 1
+#SOLD
+Name `!T`1h`!e `1L`!a`1m`!p `7of `^F`6oresight`7 `7and `#S`3t`#r`3e`#n`3g`#t`3h`7~
+Cost 1
+#End

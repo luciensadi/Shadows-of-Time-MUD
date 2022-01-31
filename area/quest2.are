@@ -1,0 +1,103 @@
+#AREADATA
+Name New area~
+Builders Ishamael~
+VNUMs 9851 9899
+Credits (null)~
+Security 1
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#9852
+Nazghul short~
+Nazghul, keeper of the gauntlet~
+A short man, with crimson-colored eyes peers towards you.
+~
+You're looking at a short figure which is engulfed in an ebony colored
+robe, which is obviously too big for him.  His eyes, seem to follow you as
+you move around.  Glossy obsidian colored hair barely brushes his broad
+shoulders.  
+~
+andor~
+0 0
+ABR 80 0 0 0 -1  0 0
+100 0 80d500+1000 0d0+0 20d20+30 none
+-100 -100 -100 -100
+CDEHK E D C
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 9852 100~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9851
+Welcome to the Gauntlet~
+<DESC>
+~
+0 0 0
+D1
+~
+~
+0 0 9852
+S
+#9852
+~
+~
+0 0 0
+D1
+~
+~
+0 0 9853
+S
+#9853
+~
+~
+0 0 0
+D3
+~
+~
+0 0 9852
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 9852 1 9852 1 100 Load Nazghul, keeper of the gauntlet
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#9852
+cast fireball $n
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

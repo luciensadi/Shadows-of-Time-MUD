@@ -1,0 +1,59 @@
+#AREADATA
+Name The Tunnels~
+Builders Adowien~
+VNUMs 3600 3699
+Credits (null)~
+Security 1
+Flags CEF
+Version 3
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#3600
+A large rabbit-hole under the hedge~
+Here you see a rather large rabbit hole neatly tucked under a hedge.
+ 
+~
+0 201326596 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,1783 @@
+#AREADATA
+Name The Eye of the World~
+Builders None~
+VNUMs 9800 9850
+Credits `4[`7 High `4]`7 Saradin   Eye of the World~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#9800
+guardian garden~
+The Guardian of the Garden~
+The Guardian of the Garden stands here, resting against a tree.
+~
+~
+giant~
+0 0
+ABFGTZe 1344 1089 0 8196 -1  -1000 0
+200 131 12d12+30500 12d12+2000 210d1+1 shbite
+-105 -105 -105 -105
+AIJK ABKLZ HI 0
+stand stand male  21000
+AHMV ABCDEFGHIJK large unknown
+F vul JP
+#9801
+blight worm~
+A Blight Worm~
+A blight worm shrieks as it moves in for the kill.
+~
+~
+unique~
+0 0
+ABFZe 256 1088 0 0 -1  1000 0
+175 105 12d12+28000 0d0+0 12d12+110 pierce
+-60 -60 -60 -60
+AFHIK ABH IK 0
+stand stand male  3400
+CV ABCDGH medium unknown
+#9802
+ancient sedai~
+The Ancient Yellow Sedai~
+An ancient Aes Sedai, of the Yellow Ajah is walking through the flowers.
+~
+~
+giant~
+0 0
+ABQ 1104 3072 129 8 -1  1000 0
+250 157 12d12+25600 12d12+10000 12d12+157 slice
+-40 -40 -40 -40
+AFI ABHIK C 0
+stand stand none 21000
+AHMV ABCDEFGHIJK huge unknown
+F res HI
+F vul JP
+#9803
+deer~
+A Deer~
+A small deer wanders through the fields.
+~
+A brown deer with white markings on its tail and chest looks at you in
+startlement, and bolts into the woods.
+~
+unique~
+0 0
+AB 0 1090 0 0 -1  0 0
+34 17 10d78+505 34d10+100 5d11+21 pound
+-11 -11 -11 0
+CFH X I Q
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#9804
+The Ancient Librarian~
+`7The Ancient Historian~
+A small blue-cloaked figure is here, flipping through the pages of a book.
+~
+~
+unique~
+0 0
+ABQ 256 1088 0 2 -1  1000 0
+175 85 12d12+23000 12d12+10000 12d12+122 smash
+-35 -35 -35 -35
+ADFHIK ABH IK 0
+stand stand male  3400
+CV ABCDGH medium unknown
+#9805
+guardian dead shadowy spectre~
+The Guardian of the Dead~
+A shadowy spectre is here guarding the bodies of his fallen comrades.
+~
+~
+giant~
+0 0
+ABFRTZe 1360 35904 129 0 -1  1000 0
+250 121 12d12+31500 12d12+6700 12d12+175 slice
+-75 -75 -75 -75
+AFHIKOT ABH D I
+stand stand none 21000
+AHMV ABCDEFGHIJK huge unknown
+F res HI
+F vul JP
+#9806
+leader dead sedai misty being~
+Leader of the Dead Sedai~
+A misty being is hovering over the ground staring intently at you with red eyes.
+~
+~
+giant~
+0 0
+ABFRTZe 1360 35904 129 8 -1  1000 0
+250 121 12d12+31500 12d12+11500 12d12+190 slice
+-75 -75 -75 -75
+AFHIKOT ABH D I
+stand stand none 21000
+AHMV ABCDEFGHIJK huge unknown
+F res HI
+F vul JP
+#9807
+ancient wise man crimson figure~
+An Ancient Wise Man~
+A small crimson-cloaked figure is here, mixing various things together.
+~
+~
+andor~
+0 0
+ABQR 256 1088 0 4 -1  1000 0
+175 134 12d12+27000 12d12+10000 12d12+176 smash
+-50 -50 -50 -50
+ADFHIK ABH IK 0
+stand stand male  3400
+ACHMV ABCDEFGHIJK medium unknown
+#9808
+guardian eye black cloaked figure~
+`7A Guardian of the Eye~
+A black, cloaked figure stands here, in the middle of the hall.
+~
+~
+giant~
+0 0
+ABFRTZe 1360 35904 129 0 -1  1000 0
+250 121 12d12+31500 12d12+6700 12d12+175 slice
+-75 -75 -75 -75
+AFHIKOT ABH D I
+stand stand none 21000
+AHMV ABCDEFGHIJK huge unknown
+F res HI
+F vul JP
+#9809
+ancient warder mysterious man~
+An Ancient Warder~
+A mysterious man that seems to take on the color of the enviornment is here.
+~
+~
+giant~
+0 0
+ABTe 1360 35904 129 0 -1  1000 0
+250 60 12d12+21000 12d12+10000 6d10+125 thrust
+-45 -45 -45 -45
+ACFHIKO ABHIK C 0
+stand stand male  21000
+AHMV ABCDEFGHIJK huge unknown
+F res HI
+F vul JP
+#9810
+bluejay~
+A bluejay~
+A bluejay is perched high up in the trees, protecting it's nest.
+~
+~
+unique~
+0 0
+ABC 0 1088 0 0 -1  0 0
+36 18 12d12+667 36d10+100 12d12+20 bite
+-12 -12 -12 -1
+0 ABKL H I
+stand stand either 200
+AHMV ABCDEFGHIJK medium unknown
+#9811
+robin~
+A Robin~
+A robin is perched on a bush.
+~
+~
+unique~
+0 0
+ABC 0 1088 0 0 -1  0 0
+36 18 12d12+667 36d10+100 12d12+20 bite
+-12 -12 -12 -1
+0 ABKL 0 0
+stand stand either 200
+AHMV ABCDEFGHIJK medium unknown
+#9812
+cardinal red bird~
+A Cardinal~
+A cardinal can be seen flying from tree to tree.
+~
+~
+unique~
+0 0
+ABC 0 1088 0 0 -1  0 0
+36 18 12d12+667 36d10+100 12d12+20 bite
+-12 -12 -12 -1
+0 ABKL H I
+stand stand either 200
+AHMV ABCDEFGHIJK medium unknown
+#9813
+rabbit~
+A rabbit~
+A snow white rabbit hops along the trail here. 
+~
+A small rabbit looks at you with pink eyes, his nose quivering as he
+tries to discern if your smell is friendly.
+~
+rabbit~
+0 0
+A 0 0 0 0 -1  0 0
+1 0 1d4+10 0d0+0 1d4+0 scratch
+12 12 12 12
+FH 0 0 0
+stand stand either 10
+AGV ACDEFHJK tiny unknown
+#9814
+ancient blue sedai ajah~
+The Ancient Blue Sedai~
+An Aes Sedai of the Blue Ajah strides down the trail.
+~
+~
+giant~
+0 0
+ABR 1104 3072 129 0 -1  1000 0
+250 157 12d12+25600 12d12+10000 12d12+157 slash
+-40 -40 -40 -40
+AFHIK ABHIK 0 0
+stand stand female 21000
+AHMV ABCDEFGHIJK huge unknown
+F res HI
+F vul JP
+#9829
+ancient librarian black-cloaked figure~
+The Ancient Librarian~
+A small black-cloaked figure is here, tending to his books.
+~
+~
+unique~
+0 0
+ABQRe 256 1088 0 8200 -1  1000 0
+175 85 12d12+31200 0d0+0 12d12+190 thwack
+-40 -40 -40 -40
+ADFHIK ABHIJ K 0
+stand stand male  3400
+CV ABCDGH medium unknown
+#9830
+ashe ~
+Ashe~
+This is Ashe, mid twenties, square jaw firmly set and a pair of haunted eyes which dart about quickly in fear.
+~
+~
+andor~
+0 0
+ABTZe 49488 1104 0 32768 -1  0 0
+800 550 12d12+31000 12d12+10000 12d12+310 thwack
+-35 -35 -35 -35
+ACDEFGIJKNOR ABNQ HJ L
+stand stand male  50000
+AHMV ABCDEFGHIJK giant unknown
+#9831
+deadite corpse~
+The Deadite~
+A rotted corpse made from evil itself.
+~
+~
+andor~
+0 0
+ABGTe 49472 64 128 1 -1  0 0
+500 300 12d12+35000 0d0+0 12d12+345 sting
+-75 -75 -75 -75
+AFHK ABH 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK huge unknown
+#9832
+quest alterego~
+alterego of quest ~
+A shimmering image of <questor name> is here.
+~
+~
+andor~
+0 0
+ATZ 256 3136 0 0 -1  0 0
+500 150 12d12+22000 0d0+0 12d12+200 smash
+-50 -50 -50 -50
+AFHK AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#9833
+deadite soldier~
+`*A Deadite Soldier~
+An evil animated deadite skeleton soldier is here.
+~
+~
+andor~
+0 0
+ATZe 0 64 0 0 -1  0 0
+300 150 12d12+7500 0d0+0 12d12+100 pierce
+-30 -30 -30 -30
+CHJK AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#9834
+evil asha~
+Evil Ashe~
+The evil Ashe is here.. burned and deformed, he wants the Necronomicon.
+~
+~
+andor~
+0 0
+ABTZe 49488 1104 0 32768 -1  0 0
+800 550 12d12+31000 12d12+10000 12d12+310 thwack
+-35 -35 -35 -35
+ACDEFGIJKNOR ABNQ HJ L
+stand stand male  50000
+AHMV ABCDEFGHIJK giant unknown
+#9850
+ancient one cloaked figure~
+The Ancient One~
+A mystical figured cloaked in black robes is here, muttering incantations.
+~
+~
+giant~
+0 0
+ABFTZe 1360 35904 129 8 -1  1000 0
+250 131 12d12+31500 12d12+10000 210d1+1 slice
+-150 -150 -150 -150
+AFHIKO ABJ C 0
+stand stand none 21000
+AHMV ABCDEFGHIJK huge unknown
+F res HI
+F vul JP
+#0
+
+
+
+#OBJECTS
+#9800
+ancient plate saiden~
+(Ancient) Plate of Saidin~
+On the floor lies what looks to be armor of air.~
+unknown~
+armor 0 AD
+0
+ACDF ACDF ACDF ACDF 0
+150 150 1400 P
+A
+18 2
+A
+19 6
+A
+20 -6
+A
+12 30
+A
+13 80
+ T 0 none~
+#9801
+ancient sa'angreal~
+(Ancient) Sa'angreal~
+A small white glass object lies on the floor.~
+unknown~
+armor 0 AO
+0
+ABF ABF ABF ABF 0
+150 10 1500 P
+A
+12 40
+A
+13 100
+A
+20 -8
+ T 0 none~
+#9802
+ancient cuendillar shield~
+(Ancient) Cuendillar Shield~
+Covered with thick layers of dust, an ancient shield lies on the floor.~
+unknown~
+armor 0 AJ
+0
+DF DF DF DF 0
+110 100 3500 P
+A
+13 100
+A
+20 -8
+ T 0 none~
+#9803
+ancient dagger~
+(Ancient) Dagger of Power~
+Curved to the tip, a small dagger lies on the floor.~
+unknown~
+weapon 0 AN
+0
+dagger 75 1 none BE
+110 100 3000 P
+A
+18 6
+A
+19 6
+A
+13 30
+A
+20 -4
+A
+13 18
+ T 0 none~
+#9804
+ancient cuendillar arm bands~
+(Ancient) Cuendillar Arm Bands~
+Gleaming in the sunlight is a pair of white arm bands.~
+unknown~
+armor 0 AI
+0
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+18 7
+A
+19 7
+A
+13 90
+A
+12 -20
+ T 0 none~
+#9805
+ancient neck plate~
+(Ancient) Cuendillar Neck Plate~
+Lying in the corner is an old necklace~
+unknown~
+armor 0 AC
+0
+ABF ABF ABF ABF 0
+110 50 1500 P
+A
+20 -10
+A
+13 100
+A
+14 -20
+ T 0 none~
+#9806
+ancient gaiden's cloa~
+(Ancient) Gaiden's Cloak~
+Crumpled in a heap, an old cloak with the symbol of the Sedai rests on the floor.~
+unknown~
+armor 0 AK
+0
+ADE ADE ADE ADE 0
+75 100 1000 P
+A
+12 30
+A
+13 75
+ T 0 none~
+#9807
+ancient aura saidar~
+(Ancient) Aura of Saidar~
+Some unknown substance is here radiating light.~
+unknown~
+light 0 AO
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+75 100 1000 P
+A
+13 50
+A
+18 5
+A
+19 5
+A
+13 10
+ T 0 none~
+#9808
+ancient mask of saidin~
+(Ancient) Mask of Saidin~
+Resting on its side, a small white mask is on the floor.~
+unknown~
+armor 0 AR
+0
+CE CE CE CE 0
+75 50 1000 P
+A
+13 5
+A
+19 10
+A
+18 10
+ T 0 none~
+#9809
+ancient cuendillar shield~
+(Ancient) Cuendillar Shield~
+Discarded in the corner of the room, an old shield lies covered in dust.~
+unknown~
+armor 0 AJ
+0
+DF DF DF DF 0
+110 400 3535 P
+A
+13 100
+A
+20 -8
+ T 0 none~
+#9810
+chora branch~
+`*Branch of Avendesora~
+Thick and green with life, a branch of one of the fabled chora trees is on the floor.~
+unknown~
+armor 0 AO
+0
+ACF ACF ACF ACF 0
+110 50 0 P
+A
+13 60
+A
+20 -6
+A
+13 50
+ T 0 none~
+#9811
+ancient wristguard healing~
+(Ancient) Wristguard of Healing~
+Lying on the floor, covered in dust is an ancient wrist plate~
+unknown~
+armor 0 AM
+0
+ACF ACF ACF ACF 0
+110 100 2550 P
+A
+18 6
+A
+19 6
+A
+13 75
+A
+12 -30
+A
+20 -7
+ T 0 none~
+#9812
+ancient cuendillar mask~
+(Ancient) Cuendillar Mask~
+Dust covered, and cracked, an old mask lies at rest on the floor.~
+unknown~
+armor 0 AR
+0
+ACF ACF ACF ACF 0
+110 150 2435 P
+A
+13 80
+A
+12 40
+A
+20 -4
+ T 0 none~
+#9813
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9814
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9815
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9816
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9817
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9818
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9819
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9820
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9821
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9822
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9823
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9824
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9825
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9828
+book of history~
+the Book of the Eye~
+A `8faded`7 `!crimson`7 book lined in `3gold`7, sits atop a pedestal waiting for its musty yellow pages to be opened once again.~
+unknown~
+furniture 0 0
+0
+0 0 0 0 0
+15 0 0 P
+ T 0 none~
+#9834
+eye of the world~
+the eye of the world~
+A pool covers the floor in the oval shape of an eye, lined by crystals, it is The Eye of the World.~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9847
+ancient cuendillar helm~
+(Ancient) Cuendillar Helm~
+Gleaming in the sunlight a helm has been thrown aside~
+unknown~
+armor 0 AE
+0
+ACF ACF ACF ACF 0
+110 150 1500 P
+A
+13 40
+A
+19 8
+A
+18 8
+A
+20 -4
+ T 0 none~
+#9848
+ancient book of knowledge~
+(Ancient) Book of Knowledge~
+An old, musty, navy blue book is here. ~
+unknown~
+armor 0 AO
+0
+ACF ACF ACF ACF 0
+150 100 1500 P
+A
+13 75
+A
+20 -10
+A
+14 -50
+A
+18 8
+A
+19 8
+ T 0 none~
+#9849
+gift ancients~
+(Ancient) Gift of the Ancients~
+A Gift of the Ancient's~
+unknown~
+armor 0 AK
+0
+BCDE BCDE BCDE BCDE 0
+110 0 1000 P
+A
+18 6
+A
+19 6
+A
+13 60
+A
+20 -4
+ T 0 none~
+#9850
+ancient banner of the sedai~
+(Ancient) Banner of the Aes Sedai~
+Lying crumbled in the corner, is a banner with the symbol of the Aes Sedai.~
+unknown~
+armor 0 AL
+0
+ACF ACF ACF ACF 0
+150 50 2599 P
+A
+13 80
+A
+20 -8
+A
+19 8
+A
+18 8
+A
+12 -20
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#9800
+Outskirts of the Mountains of Dhoom~
+Here, deep inside the Blight, where the Mountains of Dhoom have just
+began there incline into the heavens, a small lush valley lies in the
+distance.  It is as green as the most fertile land in spring.  Only one
+place like that can exist in the Blight, especially this deep in the Blight,
+and that is the Eye of the World.  However, it seems a pack of Blight worms
+has taken residence nearby and they feel nothing but hunger.......  Run!  
+~
+0 0 0
+D0
+~
+~
+0 0 9801
+D2
+~
+~
+0 0 35248
+S
+#9801
+Border of the Valley~
+Fleeing from the pack of Blight Worms, the landscape completely changed
+over the last hill.  You stand on the top of a small rise, looking down into
+a fertile green valley.  The red menacing trees, and hideous creatures of
+the Blight can not enter this land of serene beauty.  It appears you have
+found the Eye of the World, where the last of the Nym, the Greenman, resides
+and does constant battle with the Blight.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 9805
+D1
+~
+~
+0 0 9802
+D2
+~
+~
+0 0 9800
+S
+#9802
+On the Outskirts of the Garden~
+Here the red creatures of the Blight have simply ceased to exist. 
+Shrubs, flowers, and trees sprout of the land suddenly abruptly ending the
+Blight.  It is the garden of the Greenman full of peace and calmness.  The
+turmoil of the world has no meaning here only the need of the world has
+meaning and that must be why you have come so far.  
+~
+0 4194304 0
+D1
+~
+~
+0 0 9803
+D3
+~
+~
+0 0 9801
+S
+#9803
+Along the Edge of the Blight~
+Running endlessly through the never ending Blight, a green wave suddenly
+appears blurred from sweat and blood.  Bushes line the edge as you dive over
+them into a field of grass.  The shrieks of the Blight Worms can be heard,
+but no harm will come of them today.  For you are in the land of the
+Greenman, the Eye of the World.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 9804
+D3
+~
+~
+0 0 9802
+S
+#9804
+Safely Inside the Garden~
+Here not even the Blight can get to you.  The creatures and living evil
+can not enter this safehaven, which is the home of the last Nym, the
+Greenman.  He guards this garden which contains the Eye of the World with
+his life.  Should anything happen to the Eye most assuredly he will already
+be dead.  
+~
+0 4194304 0
+D2
+~
+~
+0 0 9803
+D3
+~
+~
+0 0 9836
+S
+#9805
+Walking Through A Meadow~
+Clearing the initial area of the garden, the small narrow path has opened
+into a meadow where the knee-high grass covers the whole place with a shield
+of green.  Many different animals wander throughtout the meadow, some have
+even made their homes here.  Of in the distance you can hear the muffled
+sound of running water.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 9810
+D1
+~
+~
+0 0 9836
+D2
+~
+~
+0 0 9801
+S
+#9806
+The Source of the River~
+~
+0 0 0
+D3
+~
+~
+0 0 9807
+S
+#9807
+Another Bend in the River~
+~
+0 0 0
+D1
+~
+~
+0 0 9806
+D2
+~
+~
+0 0 9808
+S
+#9808
+Along the River Bank~
+~
+0 0 0
+D0
+~
+~
+0 0 9807
+D1
+~
+~
+0 0 9809
+S
+#9809
+Following the River of the Nym~
+~
+0 0 0
+D3
+~
+~
+0 0 9808
+S
+#9810
+Further Into the Garden~
+Walking further into the Greenman's garden, trees and small flowers
+flourish along the side of the trail.  As you walk, you notice the huge
+trees reaching into the heavens, and smell the purfume of the elegant
+flowers.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 9814
+D1
+~
+~
+0 0 9813
+D2
+~
+~
+0 0 9805
+S
+#9811
+The Eastern Edge of the Garden~
+The sweet smell of the flowers, even here close to the Blight, gives out
+a clamness that is soothing to the soul.  Looking through some of the
+smaller trees, you can see in the near distance, the bleak red lands of the
+Blight.  Here even the birds do not sing, so near the Blight, many have fled
+closer to the center of the garden.  
+~
+0 4194304 0
+D3
+~
+~
+0 0 9812
+D4
+~
+~
+0 0 9837
+S
+#9812
+Walking Through the Gardens~
+Further along the path passing through a few trees, it suddenly opens
+into a small grove.  Here it seems that there is an actual garden.  Only the
+most beautiful flowers are in the garden.  However The main garden is
+surrounded by many other smaller ones only a few paces long and wide.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 9813
+D1
+~
+~
+0 0 9811
+S
+#9813
+The River of the Nym~
+The trees have once agained opened making clear that there is running
+water in the area.  Approaching its edge, you notice that you can make out
+the bottom easily even though the water is emerald green.  Upon asking the
+Greenman what it is, he replied, it is the River of the Nym, as ancient as
+the garden and eye of the world itself.  It was created by the last few of
+my ancestors and Aes Sedai when i was very young.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 9819
+D2
+~
+~
+0 0 9812
+D3
+~
+~
+0 0 9810
+S
+#9814
+Looking Upon the Last of the Chora Trees~
+Here deep within the confines of the garden, survives possibly the only
+Chore tree still in existence.  The tell trefoiled-leafed chora tree is the
+home of many living things, even at its base it is surrounded by red and
+white blossomed calma flowers and night blooming dara lilies.  It is
+rumoured that resting beneath the Chora tree will bring peace and calmness
+to your life.  
+~
+0 4194304 0
+D2
+~
+~
+0 0 9810
+D3
+~
+~
+0 0 9815
+S
+#9815
+Through the Forests Inside the Garden~
+Walking through some of the larger brush you've passed by you find
+yourself transfixed staring up at the highest branches of the trees that
+surround you.  Their branches full of green leaves and deep brown bark reach
+towards the heavens and almost seem to be able to grap the sky and pull it
+to them.  Far, far beneath them younger trees have begun their journey
+towards the skies already thicker than most trees on the other side of the
+Blight.  
+~
+0 4194304 0
+D1
+~
+~
+0 0 9814
+D3
+~
+~
+0 0 9816
+S
+#9816
+Passing Through a Grove of Saplings~
+It seems even here, in the garden, that life continually changes.  After
+passing through the larger trees that reached to the skies, you have come to
+find yourself in a field full of saplings.  Most do not reach more than a
+few feet into the air while others are barely visible through the grass. 
+Many different kinds of saplings are emerging from the ground, that is
+somewhere beneath the thick layer of flowers that covers it.  
+~
+0 4194304 0
+D1
+~
+~
+0 0 9815
+D2
+~
+~
+0 0 9817
+S
+#9817
+Overlooking the Blight~
+Here safely above and inside the Greenmans sanctuary the Blight can be
+seen stretching to the edge of sight.  Here atop this ridge, small as it may
+be, it is still far above the gnarled creatures and beings of the Blight. 
+The sounds of the twisted creatures is barely audible here, and a few more
+steps and it will be non-existant.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 9816
+D2
+~
+~
+0 0 9818
+S
+#9818
+On the Summit of a Small Ridge~
+Walking through a cluster of oaks, the land abruptly falls away into a
+small cliff.  Here on top of this small ridge the whole Blight in eye range
+is made visible.  Directly beneath you where the cliff ends and the land
+starts up again, creatures of the Blight strive.  It is a foaming mass of
+evil and looking down you can not believe you made it this far through that.
+~
+0 4194304 0
+D0
+~
+~
+0 0 9817
+S
+#9819
+Walking Along the Shore of the River~
+Walking further down the shoreline of the emerald green river, you take
+in that the water is as smooth as glass even when a fish jumps the surface
+remains the same.  It must be the work of the One Power.  Animals abound
+near the River, drinking its water and playing in it.  Flowers and shrubs
+also line both banks of the river adding further to the color and beauty.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 9820
+D2
+~
+~
+0 0 9813
+D3
+~
+~
+0 0 9830
+S
+#9820
+Deep in the Greenman's Sanctuary~
+Here, deep in the santuary of the garden, the River of the Nym has
+branched of to the west through a thick pocket of pine trees.  After the
+bend in the River, a thick grove of pines, and oaks has sprung up soaring
+into the sky.  Several trees are as tall the biggest buildings in Cairhein
+including the palace.  
+~
+0 4194304 0
+D1
+~
+~
+0 0 9821
+D2
+~
+~
+0 0 9819
+S
+#9821
+Walking Through the Green Fields~
+Treading on and on through the grassy green fields towards on what must
+be the path to the Eye of the World you have come to realize the
+peacefulness of the garden and the sanctuary it provides.  As the crisp wind
+blows the green grass acts as if it was the ocean rolling wave after wave
+past your legs.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 9822
+D3
+~
+~
+0 0 9820
+S
+#9822
+Walking Through the Flowered Hills~
+Still walking through the gardens, the smooth plains have transformed
+into green hills.  The trees rooted deep in the soil are not as big as the
+trees on the flats but hold a beauty all their own.  Their lush green leaves
+of different shape and size mix for a nice variety and the flowers beneath
+enhance the beauty that much more.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 9823
+D2
+~
+~
+0 0 9821
+S
+#9823
+Nearing The Eye of the World~
+Upon the summit of one of the larger hills, you are able to scan over the
+garden.  Looking all around you notice how green and beautiful it is,however
+in the background in every direction is the Blight.  As you scan over the
+area, i reflection hasc caught your eye, looking more closely at one of the
+hillsides where it seems to be coming from, you notice a gleaming white
+archway cut into the hillside.  
+~
+0 4194304 0
+D2
+~
+~
+0 0 9822
+D3
+~
+~
+0 0 9824
+S
+#9824
+Walking up a Hillside~
+The gardens now grow on a slight slope as the path leads further and
+further back.  Daisies, roses, and other unrecognizable flowers line the
+path.  Huge trees, hundreds of years old soar into the sky.  Small animals
+scurry accross the ground from bush to bush gathering different neccesities
+for their everyday life.  Birds sit atop the giant trees and sing their
+serene song to all those that are listening.  
+~
+0 4194304 0
+D1
+~
+~
+0 0 9823
+D3
+~
+~
+0 0 9825
+S
+#9825
+Beginning of a Cave Built into the Hillside~
+Into the heart of the spring forest the Green Man has led, to an arched
+opening in the side of a hill.  It was a simple stone arch, tall and white,
+and on the keystone was a circle halved by a sinuous line, one half was
+rough, the other smooth.  It is the ancient symbol of Aes Sedai.  The
+opening itself was shadowed hindering all visibility of what was beyond.  
+kill rab
+~
+0 4194308 0
+D1
+~
+~
+0 0 9824
+D5
+~
+~
+0 0 9826
+S
+#9826
+Further into the Side of the Hill~
+Further and further into the hill the passage way leads.  The bright
+light from the waining sun still lights the way for those who follow.  The
+ceiling of the corridor is around ten spans high, which is enough room for a
+horse and rider to fit into quite easily.  
+~
+0 4194304 0
+D4
+~
+~
+0 0 9825
+D5
+~
+~
+0 0 9827
+S
+#9827
+Deep Inside the Cavern~
+Walking deeper into the cavern, the smooth polished white walls make no
+sound as your feet strike the ground.  Small torches, that never flicker nor
+fade, line the wall, producing enough light to light the room.  Several
+intricate carvings stand on pedestals up and down the hall.  Astonishing
+paintings line the wall giving an insight into a life-style long past.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 9828
+D1
+~
+~
+0 0 9829
+D2
+~
+~
+0 0 9832
+D3
+~
+~
+0 0 9831
+D4
+~
+~
+0 0 9826
+S
+#9828
+Storage Room Containing the History of the Eye~
+Walking through the narrow entrance way into what looks to be a storage
+room, luminous candles send your shadow dancing along the walls.  The
+candles however do not seem to be fading or dripping, they are constant and
+ever-lasting.  A few small boxes with unknown ingrediants line the walls to
+each side of the entrance.  A single book lies straight ahead.  Its' pages
+are a musty yellow and the bright red cover has faded to a dull crimson.  It
+has survived the Breaking and many years since then.  It contains the known
+history of the Eye of the World.  Within its pages there is much knowledge
+to be found.  
+~
+0 138412032 0
+E
+history~
+Here, atop the pedestal, sits the ancient records of the making of they
+Eye of the World.  "It was the first days of the Breaking of the World, when
+the joy of victory over the Dark One turned bitter with the knowledge that
+all might yet be shattered by the weight of the Shadow.  A hundred of them
+made it, men and women together.  The greatedst Aes Sedai works were always
+done so, joining Saidin and Saidar, as the True Source is joined.  They
+died, all, to make it pure, while the world was torn around them.  Knowing
+they would die, they charged me to guard it against the need to come.  It
+was not what i was made for, but all was breaking apart, and they were all
+alone, and I was all they had.  It was not what i was made for, but I have
+kept the faith."  
+ 
+From the Journal of the Green Man 
+~
+D2
+~
+~
+0 0 9827
+S
+#9829
+Looking at the Wall of History~
+Through the dark tunnels you have made your way into the room where the
+Wall of History is.  Thousands of books cover the masive bookshelves and
+inscriptions cover the cave intself.  Some things date back to pre-breaking
+and the time of Lews Therin and before.  Many of lost technologies lie in
+the pages and pages of these dusty books.  
+~
+0 138412032 0
+D3
+~
+~
+0 0 9827
+S
+#9830
+The End of the River~
+Normally, rivers are not thought of as having an end, but a place where
+the water meets a bigger water source.  Not so here, the River of the Nym's
+green water literally dives into the ground a few yards downstream.  The
+River is a continual cycle of water looping above and underground.  The Aes
+Sedai in Ages past once made this and it still is the same today.  
+~
+0 4 0
+D1
+~
+~
+0 0 9819
+S
+#9831
+Open Chamber Inside the Cavern~
+Deep inside the cavern, the gleaming white walls light the room in an
+unknown way.  It smells exactly like the garden which is on the other side
+of the walls and there is not one bit of musty air.  The old Aes Sedai built
+this to perfection, not one detail was missed.  
+~
+0 4194304 0
+D1
+~
+~
+0 0 9827
+D3
+~
+~
+1 0 9835
+S
+#9832
+Passing Through a Dark Cavern~
+Walking through the narrow passage ways of an underground cavern, the
+polished walls rounded overhead like the arch, winding gently downward.  The
+smooth floor, slick to the eye like oiled slate, yet somehow gave a sure
+footing.  Seamless white walls glittered with uncounted flecks in untold
+colors ,giving a low, soft light even after the sunlit archway vanished from
+sight.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 9827
+D2
+~
+~
+0 0 9833
+S
+#9833
+An Opening in the Cave Floor~
+Looking further down the path through the cavern, a pool around 500 spans
+covers the cavern floor.  Its water looks clear as can be and crystals
+surround the room on both ceiling and ground.  Walking deeper and deeper
+into the hillside, the smell of the beautiful gardens is almost non-existant
+at this point in the journey.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 9832
+D5
+~
+~
+0 0 9834
+S
+#9834
+The Eye of the World~
+Deep inside the cavern that the Green Man has led you through, an opening
+is finally visible in the cavern's dirt floor.  Directly above your head the
+ceiling is dotted with clumps of crystals growing at many different angles. 
+Some crystals glow with much more intensity than others.  Ahead where the
+cavern floor opens, a pool spans accross the entire floor.  Its surface is as 
+smooth as glass and the water is as cleat as the Aryth.  It is in the oval 
+shape of an eye and lined with crystals except for the walkway around it. 
+It was rumored that the pool was filled with the essence of Saidin, which is
+th male half of the True Source 
+ 
+~
+0 0 0
+D4
+~
+~
+0 0 9833
+S
+#9835
+Chamber of the Dead~
+Here in this room, lie the bodies of one hundred Aes Sedai from the Age
+of Legends.  Their bodies bodies look no different from when they were put
+their hundreds of years ago.  However, the extreme usage of the One Power
+took its toll on their bodies and most looked now like old men and women. 
+Each one of them was wrapped in a red cloak, with the Ancient Banner of the
+Aes Sedai on their chest.  
+~
+0 138412036 0
+D1
+~
+~
+1 0 9831
+S
+#9836
+In a Field of Roses~
+Passing through this section of the garden, the only visible flower along
+the path is a rose.  Several different types line the path, all with color
+all their own.  Reds, yellows, orange, purple as well as many others can be
+seen with the green stem.  The smell is sweet and strong renewing your
+energy.  Back behind the rows upon rows of roses other flowers and smaller
+trees can be seen.  
+~
+0 4194304 0
+D1
+~
+~
+0 0 9804
+D3
+~
+~
+0 0 9805
+S
+#9837
+Looking Over the Blight~
+Looking through the out-stretching branches of a large elm tree, a
+complete view of the enormousness of the Blight is given.  It covers the
+land like a plague engulfing and destroying any beauty the land might have
+had.  Here in the tree, safety is not a concern, but sometime you must climb
+down the tree and leave the safehaven of the garden to get back to the real
+world.  
+~
+0 4194304 0
+D5
+~
+~
+0 0 9811
+S
+#9838
+Deep Within the Blight~
+~
+0 4 0
+D1
+~
+~
+0 0 9840
+D2
+~
+~
+0 0 9839
+S
+#9839
+~
+~
+0 4 0
+D0
+~
+~
+0 0 9838
+D1
+~
+~
+0 0 9841
+S
+#9840
+~
+~
+0 4 0
+D1
+~
+~
+0 0 9843
+D2
+~
+~
+0 0 9841
+D3
+~
+~
+0 0 9838
+S
+#9841
+~
+~
+0 4 0
+D0
+~
+~
+0 0 9840
+D1
+~
+~
+0 0 9842
+D2
+~
+~
+0 0 9849
+D3
+~
+~
+0 0 9839
+S
+#9842
+~
+~
+0 4 0
+D0
+~
+~
+0 0 9843
+D1
+~
+~
+0 0 9844
+D2
+~
+~
+0 0 9848
+D3
+~
+~
+0 0 9841
+S
+#9843
+~
+~
+0 4 0
+D2
+~
+~
+0 0 9842
+D3
+~
+~
+0 0 9840
+S
+#9844
+~
+~
+0 4 0
+D1
+~
+~
+0 0 9845
+D2
+~
+~
+0 0 9847
+D3
+~
+~
+0 0 9842
+S
+#9845
+~
+~
+0 4 0
+D2
+~
+~
+0 0 9846
+D3
+~
+~
+0 0 9844
+S
+#9846
+~
+~
+0 4 0
+D0
+~
+~
+0 0 9845
+D3
+~
+~
+0 0 9847
+S
+#9847
+~
+~
+0 4 0
+D0
+~
+~
+0 0 9844
+D1
+~
+~
+0 0 9846
+D3
+~
+~
+0 0 9848
+S
+#9848
+~
+~
+0 4 0
+D0
+~
+~
+0 0 9842
+D1
+~
+~
+0 0 9847
+D3
+~
+~
+0 0 9849
+S
+#9849
+~
+~
+0 4 0
+D0
+~
+~
+0 0 9841
+D1
+~
+~
+0 0 9848
+S
+#9850
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 9800 spec_breath_frost
+M 9801 spec_breath_frost
+M 9802 spec_cast_cleric
+M 9804 spec_breath_fire
+M 9805 spec_guard
+M 9806 spec_guard
+M 9807 spec_breath_fire
+M 9808 spec_guard
+M 9814 spec_breath_frost
+M 9830 spec_breath_any_but_acid
+M 9834 spec_breath_any_but_acid
+M 9850 spec_breath_frost
+S
+
+
+
+#RESETS
+D 0 9831 3 1
+D 0 9835 1 1
+M 0 9801 2 9800 2 100 Load A Blight Worm
+M 0 9801 2 9800 2 100 Load A Blight Worm
+M 0 9800 1 9801 1 100 Load The Guardian of the Garden
+E 0 9810 0 19 0 100 `*branch of avendesora is loaded held in the hands of The Guardian of the Garden
+M 0 9812 10 9803 1 100 Load A Cardinal
+M 0 9802 1 9804 1 100 Load The Ancient Yellow Sedai
+E 0 9811 0 16 0 100 (ancient) wristguard of healing is loaded on the right wrist of The Ancient Yellow Sedai
+E 0 9812 0 21 0 100 (ancient) cuendillar mask is loaded on the face of The Ancient Yellow Sedai
+M 0 9813 5 9805 1 100 Load A rabbit
+M 0 9803 6 9810 1 100 Load A Deer
+M 0 9803 6 9811 1 100 Load A Deer
+M 0 9811 10 9813 1 100 Load A Robin
+M 0 9812 10 9813 1 100 Load A Cardinal
+M 0 9803 5 9814 1 100 Load A Deer
+M 0 9811 10 9814 1 100 Load A Robin
+M 0 9810 10 9815 1 100 Load A bluejay
+M 0 9803 8 9816 1 100 Load A Deer
+M 0 9810 10 9817 1 100 Load A bluejay
+M 0 9803 5 9818 1 100 Load A Deer
+M 0 9812 10 9818 1 100 Load A Cardinal
+M 0 9811 10 9820 1 100 Load A Robin
+M 0 9803 1 9820 6 100 Load A Deer
+M 0 9812 10 9821 1 100 Load A Cardinal
+M 0 9810 10 9821 1 100 Load A bluejay
+M 0 9803 6 9821 1 100 Load A Deer
+M 0 9810 10 9823 1 100 Load A bluejay
+M 0 9803 6 9823 1 100 Load A Deer
+M 0 9811 10 9824 1 100 Load A Robin
+M 0 9807 1 9827 1 100 Load An Ancient Wise Man
+E 0 9809 0 11 0 100 (ancient) cuendillar shield is loaded as a shield of An Ancient Wise Man
+M 0 9804 1 9828 1 100 Load `7The Ancient Historian
+E 0 9847 0 6 0 100 (ancient) cuendillar helm is loaded over the head of `7The Ancient Historian
+O 0 9828 0 9828 0 100 The book of the eye loaded to Storage Room Containing the History of the Eye
+M 0 9829 1 9829 1 100 Load The Ancient Librarian
+E 0 9848 0 19 0 100 (ancient) book of knowledge is loaded held in the hands of The Ancient Librarian
+M 0 9808 9 9832 2 100 Load `7A Guardian of the Eye
+M 0 9808 9 9832 2 100 Load `7A Guardian of the Eye
+M 0 9808 9 9833 4 100 Load `7A Guardian of the Eye
+M 0 9808 9 9833 4 100 Load `7A Guardian of the Eye
+M 0 9808 9 9833 4 100 Load `7A Guardian of the Eye
+M 0 9808 9 9833 4 100 Load `7A Guardian of the Eye
+M 0 9850 1 9834 1 100 Load The Ancient One
+E 0 9801 0 19 0 100 (ancient) sa'angreal is loaded held in the hands of The Ancient One
+E 0 9850 0 13 0 100 (ancient) banner of the aes sedai is loaded around the waist of The Ancient One
+E 0 9800 0 5 0 100 (ancient) plate of saidin is loaded on the body of The Ancient One
+O 0 9834 0 9834 0 100 The eye of the world loaded to The Eye of the World
+M 0 9806 1 9835 1 100 Load Leader of the Dead Sedai
+E 0 9804 0 10 0 100 (ancient) cuendillar arm bands is loaded on the arms of Leader of the Dead Sedai
+E 0 9805 0 15 0 100 (ancient) cuendillar neck plate is loaded on the left wrist of Leader of the Dead Sedai
+E 0 9803 0 17 0 100 (ancient) dagger of power is loaded wielded of Leader of the Dead Sedai
+M 0 9805 4 9835 4 100 Load The Guardian of the Dead
+M 0 9805 4 9835 4 100 Load The Guardian of the Dead
+M 0 9805 4 9835 4 100 Load The Guardian of the Dead
+M 0 9805 4 9835 4 100 Load The Guardian of the Dead
+M 0 9809 1 9837 1 100 Load An Ancient Warder
+E 0 9806 0 12 0 100 (ancient) gaiden's cloak is loaded about the shoulders of An Ancient Warder
+E 0 9807 0 0 0 100 (ancient) aura of saidar is loaded as a light of An Ancient Warder
+E 0 9808 0 21 0 100 (ancient) mask of saidin is loaded on the face of An Ancient Warder
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

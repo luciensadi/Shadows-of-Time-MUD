@@ -1,0 +1,466 @@
+#AREADATA
+Name The 7th Temple~
+Builders None~
+VNUMs 1800 2000
+Credits `4[`7 None `4]`7 None      The 7th Temple~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#1801
+temple guard~
+The Temple guard~
+The Temple Guard is here looking for intruders. 
+~
+~
+unique~
+0 0
+AFGQRTU 49628 8259 0 0 -1  0 0
+160 250 10d1000+12000 10d1000+1000 2d200+0 drain
+-80 -80 -80 -80
+BCFKNU J GI 0
+stand stand none 100
+0 0 tiny unknown
+#1802
+brashadin~
+Brashadin~
+Brashadin stands here
+~
+~
+unique~
+0 0
+ABFTU 256 8256 0 0 -1  0 0
+180 300 10d1000+25000 10d1000+1 2d100+65 pound
+-100 -100 -100 -100
+BC J D 0
+stand stand none 0
+0 0 tiny unknown
+#1924
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#1801
+cube light~
+The Cube of Light~
+the cube of light shimmers on the ground.~
+~
+armor ABFKT A
+0
+DF DF DF CE 0
+110 8 4000 P
+A
+1 1
+A
+12 30
+A
+13 30
+A
+20 -5
+A
+18 5
+A
+18 5
+ T 0 none~
+#1802
+cube darkness~
+The Cube of Darkness~
+a cube is emitting a dark glow.~
+~
+armor ABJT A
+0
+BD BD BD BD 0
+110 7 5000 P
+A
+17 -10
+A
+20 -1
+A
+13 25
+A
+12 25
+A
+18 5
+A
+19 5
+ T 0 none~
+#1803
+harmlock ring~
+Harmlock's Ring of Mastery~
+a beautiful ring lays here.~
+~
+armor ABEFJL AB
+0
+BD BD BD BD 0
+110 9 5000 P
+A
+18 8
+A
+19 8
+A
+17 -12
+A
+13 12
+ T 0 none~
+#1804
+jezira ring~
+Jezira's Ring of Tranquility~
+a beautiful ring lays here~
+~
+armor ABKLT AB
+0
+DF DF DF CE 0
+110 10 0 P
+A
+20 -6
+A
+12 80
+A
+13 80
+A
+18 -5
+A
+19 -5
+ T 0 none~
+#1805
+amulet forgot~
+The Amulet of The Forgotten~
+a startling bright stone lays here.~
+~
+armor ABJL AC
+0
+BD BD BD BD 0
+110 10 5000 P
+A
+18 10
+A
+19 10
+A
+13 10
+ T 0 none~
+#1806
+fandor retribution amulet~
+The Fandorian Amulet of Retribution~
+~
+~
+armor ABKL AC
+0
+ADE ADE ADE ADE 0
+110 0 0 P
+A
+19 10
+A
+18 10
+A
+20 -8
+ T 0 none~
+#1807
+bodyarmor ivory ~
+Ancient Ivory Bodyarmor~
+a white solid piece of ivory lays here~
+~
+armor ABIKL AD
+0
+ACDF ACDF ACDF AC 0
+110 20 5000 P
+A
+18 10
+A
+19 10
+A
+20 -8
+ T 0 none~
+#1808
+plate rotting flesh~
+A Solid Plate of Rotting Flesh~
+a plate lays against the wall~
+~
+armor ABJLT AD
+0
+ADE ADE ADE ADE 0
+110 15 5000 P
+A
+13 90
+A
+18 4
+A
+17 -20
+ T 0 none~
+#1809
+specter helmet~
+Helmet of the Specter~
+a helmet lays here.~
+~
+armor ABJLT AE
+0
+ADE ADE ADE ADE 0
+110 10 6000 P
+A
+19 10
+A
+18 10
+A
+17 25
+A
+13 76
+ T 0 none~
+#1810
+helm botgard~
+The Helm of Botgard~
+a pearly white helm lays here.~
+~
+armor ABKLT AE
+0
+ABF ABF ABF ABF 0
+110 10 3500 P
+A
+12 50
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+13 15
+ T 0 none~
+#1813
+Corrupted Field Plate~
+`1(`&C`8orrupted`1)`* A Field Plate~
+A field plate lies on the ground~
+unknown~
+armor CYad AD
+0
+BEF BEF BEF BEF 0
+110 200 0 P
+ T 0 none~
+#1818
+none~
+none~
+None~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 10 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#1801
+Outside the double doors~
+Two huge doors block the enterence to the Temple, they are cased in solid
+gold, and are very heavy. Two stone pillars are on either side of the doors.
+~
+0 1056772 0
+S
+#1802
+Within the Temple~
+The air is dank and musty here, dust covers the ground almost an inch
+deep. Torches are all along the walls lighing the path. 
+~
+0 1056772 0
+S
+#1803
+Entrance to the Main Room~
+A huge center room lays in the middle of the temple, a stone pillar sits
+in the center, doors can be seen all the way around this pillar. 
+~
+0 1056772 0
+S
+#1804
+The left Path~
+The path continues west and north as it wraps around the massive pillar. 
+~
+0 1056772 0
+S
+#1805
+The west path~
+~
+0 1056772 0
+S
+#1806
+The west path~
+~
+0 1056772 0
+S
+#1807
+The west path~
+~
+0 1056772 0
+S
+#1808
+The west path~
+~
+0 1056772 0
+S
+#1809
+The east path~
+~
+0 1056772 0
+S
+#1810
+The east path~
+~
+0 1056772 0
+S
+#1811
+The east path~
+~
+0 1056772 0
+S
+#1812
+The east path~
+~
+0 1056772 0
+S
+#1813
+The east path~
+~
+0 1056772 0
+S
+#1814
+The east path~
+~
+0 1056772 0
+S
+#1815
+The east path~
+~
+0 1056772 0
+S
+#1816
+The west path~
+~
+0 1056772 0
+S
+#1817
+d~
+~
+0 1056772 0
+S
+#1818
+The west path~
+~
+0 1056772 0
+S
+#1819
+The west path~
+~
+0 1056772 0
+S
+#1820
+The west path~
+~
+0 1056772 0
+S
+#1821
+The west path~
+~
+0 1056772 0
+S
+#1822
+The west path~
+~
+0 1056772 0
+S
+#1823
+The west path~
+~
+0 1056772 0
+S
+#1824
+The west path~
+~
+0 1056772 0
+S
+#1825
+The east path~
+~
+0 1056772 0
+S
+#1826
+The east path~
+~
+0 1056772 0
+S
+#1827
+The east path~
+~
+0 1056772 0
+S
+#1828
+The east path~
+~
+0 1056772 0
+S
+#1829
+The east path~
+~
+0 1056772 0
+S
+#1830
+The east path~
+~
+0 1056772 0
+S
+#1831
+The east path~
+~
+0 1056772 0
+S
+#1832
+The joining of the two paths~
+~
+0 1056772 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 1801 1 1803 1 100 Load The Temple guard
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

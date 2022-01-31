@@ -1,0 +1,778 @@
+#AREADATA
+Name Gauntlet~
+Builders None~
+VNUMs 8800 8899
+Credits `4[`7 High `4]`7 Dreyus    Gauntlet~
+Security 10
+Flags F
+Version 4
+End
+
+
+
+#MOBILES
+#8800
+host~
+The Guantlet Host~
+The host of the Gauntlet stands here, ready for you to enter.
+~
+The host is a normal looking man who stands ready to help you run the Gauntlet.
+Say help guantlet for more information.
+~
+unique~
+0 0
+ABZae 344 0 0 45056 -1  0 0
+81 999 1000d1+1000 25000d1+0 400d1+0 pound
+0 0 0 0
+0 BCD 0 0
+stand stand none 0
+0 0 medium unknown
+#8801
+Hundred Companion~
+One of the Hundred Companions~
+One of the Hundred Companions is here, called back to life from the Horn of Valere.
+~
+~
+unique~
+0 0
+ABFZ 256 1 0 0 -1  1000 0
+100 0 13000d1+0 5000d1+0 80d1+20 crush
+-30 -30 -30 -30
+CEFIKR AB D 0
+stand stand none 0
+M 0 medium unknown
+#8802
+Hundred Companion~
+One of the Hundred Companions~
+One of the Hundred Companions is here, called back to life from the Horn of Valere.
+~
+~
+unique~
+0 0
+ABFZe 49488 64 0 8192 -1  1000 0
+110 200 13000d1+0 4000d1+1 99d1+0 none
+-45 -45 -60 -22
+CDEIJKR AB EQ 0
+stand stand none 0
+M 0 medium unknown
+#8803
+Hundred Companion~
+One of the Hundred Companions~
+One of the Hundred Companions is here, called back to life from the Horn of Valere.
+~
+~
+unique~
+0 0
+ABFZ 80 64 0 40960 -1  0 0
+110 200 13000d1+0 6000d1+1 125d1+0 pound
+-45 -45 -60 -22
+CEFHNR AB D 0
+stand stand none 0
+M 0 medium unknown
+#8804
+Gaidal Cain~
+Gaidal Cain~
+A short ugly man with dual broadswords across his back is here.
+~
+~
+unique~
+0 0
+AFZ 0 64 0 12288 -1  1000 0
+150 400 20000d1+0 2500d1+0 145d1+35 slash
+-50 -50 -50 -50
+AIKLR D E Db
+stand stand male  0
+M 0 medium unknown
+#8805
+Birgitte Silverbow~
+Birgitte Silverbow~
+A tall, slender woman is here with a gleaming longbow at her side.
+~
+~
+unique~
+0 0
+AF 256 2113 0 8192 -1  1000 0
+133 0 22000d1+1 20000d1+1 133d1+33 slice
+-50 -50 -50 -50
+ADIR C 0 0
+stand stand female 0
+M 0 medium unknown
+#8806
+Artur Hawkwing~
+Artur Hawkwing~
+A huge man with long mustaches stands here, looking very regal.
+~
+~
+unique~
+0 0
+AFT 1280 10304 0 12288 -1  0 0
+200 500 32000d1+1 30000d1+1 250d1+100 crush
+-100 -100 -100 0
+CDEFHIJKNR C b 0
+stand stand male  0
+M 0 medium unknown
+#8807
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8808
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8809
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8810
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8811
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8812
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8813
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8814
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8815
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8816
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8817
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8818
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8819
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8820
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8821
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8822
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8823
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8824
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8825
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8826
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8827
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8828
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8829
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8830
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#8800
+Entrance to The Gauntlet~
+~
+0 1024 0
+D0
+~
+~
+0 0 8801
+S
+#8801
+Gauntlet Room 1~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8802
+S
+#8802
+Gauntlet Room 2~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8803
+S
+#8803
+Gauntlet Room 3~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8804
+S
+#8804
+Gauntlet Room 4~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8805
+S
+#8805
+Gauntlet Room 5~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8806
+S
+#8806
+Gauntlet Room 6~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8807
+S
+#8807
+Gauntlet Room 7~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8808
+S
+#8808
+Gauntlet Room 8~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8809
+S
+#8809
+Gauntlet Room 9~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8810
+S
+#8810
+Gauntlet Room 10~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8811
+S
+#8811
+Gauntlet Room 11~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8812
+S
+#8812
+Gauntlet Room 12~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8813
+S
+#8813
+Gauntlet Room 13~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8814
+S
+#8814
+Gauntlet Room 14~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8815
+S
+#8815
+Gauntlet Room 15~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8816
+S
+#8816
+Gauntlet Room 16~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8817
+S
+#8817
+Gauntlet Room 17~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8818
+S
+#8818
+Gauntlet Room 18~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8819
+S
+#8819
+Gauntlet Room 19~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8820
+S
+#8820
+Gauntlet Room 20~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8821
+S
+#8821
+Gauntlet Room 21~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8822
+S
+#8822
+Gauntlet Room 22~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8823
+S
+#8823
+Gauntlet Room 23~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8824
+S
+#8824
+Gauntlet Room 24~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8825
+S
+#8825
+Gauntlet Room 25~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8826
+S
+#8826
+Gauntlet Room 26~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8827
+S
+#8827
+Gauntlet Room 27~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8828
+S
+#8828
+Gauntlet Room 28~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8829
+S
+#8829
+Gauntlet Room 29~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8830
+S
+#8830
+Gauntlet Room 30~
+~
+0 138420224 0
+D0
+~
+~
+0 0 8831
+S
+#8831
+Winners Room~
+~
+0 138420228 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 8801 1 8801 1 100 Load One of the Hundred Companions
+M 0 8802 1 8802 1 100 Load One of the Hundred Companions
+M 0 8803 1 8803 1 100 Load One of the Hundred Companions
+M 0 8804 2 8804 2 100 Load Gaidal Cain
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#8800
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,50 @@
+#
+Keyword Restring~
+ShowName `$R`4estring `!C`1oupon`*~
+Level 0
+Vnum 6400
+Cost 350
+Special 0
+#
+Keyword Prize~
+ShowName `@P`2rize `!C`1oupon`*~
+Level 0
+Vnum 6401
+Cost 900
+Special 0
+#
+Keyword Enchant~
+ShowName `#E`3nchant `!C`1oupon`*~
+Level 0
+Vnum 6402
+Cost 1500
+Special 0
+#
+Keyword Gold~
+ShowName 500 Gold~
+Level 0
+Vnum 0
+Cost 300
+Special 1
+#
+Keyword Practices~
+ShowName 10 Practices~
+Level 0
+Vnum 0
+Cost 1000
+Special 1
+#
+Keyword Corpse~
+ShowName a Corpse Retrieval Coupon~
+Level 0
+Vnum 6413
+Cost 250
+Special 0
+#
+Keyword Nobreak~
+ShowName `3N`8o `3B`8reak `3C`8oupon`*~
+Level 0
+Vnum 6411
+Cost 1750
+Special 0
+$

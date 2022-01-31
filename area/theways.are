@@ -1,0 +1,1332 @@
+#AREADATA
+Name Waygate~
+Builders None~
+VNUMs 13000 13100
+Credits `4[`7 None `4]`7 Aldaris   Within the Ways~
+Security 10
+Flags EF
+Version 4
+End
+
+
+
+#MOBILES
+#13000
+machin shin~
+Machin Shin~
+A mysterious wind howls and moans. 
+~
+Desc You can see nothing but blackness.  You hear voices moaning and screaming throught your
+head.  They scream warnings and cries for help.  The wind starts to pick up, wait there is
+no wind in the ways...RUN!!!
+~
+unique~
+0 0
+AG 49660 11347 0 0 -1  -1000 0
+300 250 1d1+30000 100d10+4000 1d1+500 divine
+-100 -100 -100 -100
+BCDEFJKLN ABL I 0
+stand stand none 30000
+CEK E giant unknown
+#13002
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#13075
+An ugly Trolloc~
+An ugly Trolloc~
+An ugly Trolloc is here.
+~
+A trolloc with a pig snout looks at you with amusement and determination.
+It looks at you and drools, must be thinking how to cook you.
+~
+unique~
+0 0
+AG 1024 0 0 0 -1  -1000 0
+30 400 20d30+800 20d20+300 5d10+20 slash
+0 0 0 0
+BCDEFIJKLN AHMV ABCDEFGHIJKLQ IJ
+stand stand male  300
+AHMV ABCDEFGHIJK medium unknown
+#13076
+Bear trolloc~
+Bear trolloc~
+A fierce looking bear Trolloc stands here.
+~
+A trolloc looking like a bear stands over you with a snarl.
+You see a pair of fox ears on the spots where a pair of human ears should be.
+~
+bear~
+0 0
+A 0 8256 0 0 -1  -1000 0
+50 600 20d50+50 20d20+300 20d3+30 scratch
+-35 -35 -35 -35
+DEO AGHV ABCDEFHIJKUV 0
+stand stand male  200
+AGV ABCDEFHJKUV huge unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#13000
+Outside the Northern Gate to Caemlyn.~
+~
+0 4194308 0
+S
+#13002
+WayGate Entrance~
+Before stands a gate with a golden Treefoil leaf on the middle of the
+arch. This gate looks incredibly ancient. 
+~
+0 4202496 3
+D0
+~
+~
+0 0 13003
+S
+#13003
+Inside the Ways~
+As you step into through the gate, you look back and see a liquid ripple
+of image from the other side. It looks surreal, like an imagination. It
+contrasts well to this virtually black atmosphere. 
+~
+0 4202497 0
+D0
+~
+~
+0 0 13004
+D2
+~
+~
+0 0 13002
+S
+#13004
+Split path in the Ways~
+You see a sign posted. The words are of ancient times and you do not seem
+to comprehend. It is engraved into the wooden post. There are two arrows
+pointing left and right of the sign. 
+~
+0 4202496 0
+D1
+~
+~
+0 0 13005
+D2
+~
+~
+0 0 13003
+D3
+~
+~
+0 0 13017
+S
+#13005
+Path of the Ways~
+You are walking along a path in the Ways. The path is very narrow and
+seems to drop forever. The close to pitch darkness envelopes the area. In
+the Ways it is impossible to tell the time. But what would time matter if
+one were to be lost. 
+~
+0 4202496 0
+D1
+~
+~
+0 0 13006
+D3
+~
+~
+0 0 13004
+S
+#13006
+On a floating Bridge~
+You step along a floating bridge that suspends in darkness. A nervous
+sensation is not unusual as the bridge looks fragile and on the state of
+tear and collapsing. You feel the breeze that passes you. It feels as though
+it's penetrating your skin. The icy cool feel shivers to your bone. 
+~
+0 4202496 0
+D0
+~
+~
+0 0 13055
+D3
+~
+~
+0 0 13005
+S
+#13007
+In the Ways~
+~
+0 4202496 0
+D0
+~
+~
+0 0 13008
+S
+#13008
+A floating Bridge~
+~
+0 0 0
+D0
+~
+~
+0 0 13009
+D2
+~
+~
+0 0 13007
+D3
+~
+~
+0 0 13005
+S
+#13009
+A floating Bridge~
+~
+0 0 0
+D0
+~
+~
+0 0 13010
+D2
+~
+~
+0 0 13008
+S
+#13010
+On a floating Island~
+~
+0 0 0
+D1
+~
+~
+0 0 13011
+D2
+~
+~
+0 0 13009
+S
+#13011
+On a floating Island~
+~
+0 0 0
+D0
+~
+~
+0 0 13012
+D3
+~
+~
+0 0 13010
+S
+#13012
+On a floating Island~
+~
+0 0 0
+D2
+~
+~
+0 0 13011
+D3
+~
+~
+0 0 13013
+S
+#13013
+On a floating Island~
+~
+0 0 0
+D0
+~
+~
+0 0 13016
+D1
+~
+~
+0 0 13012
+D3
+~
+~
+0 0 13014
+S
+#13014
+On a floating Island~
+~
+0 0 0
+D1
+~
+~
+0 0 13013
+D2
+~
+~
+0 0 13015
+S
+#13015
+On a floating Island~
+~
+0 0 0
+D0
+~
+~
+0 0 13014
+S
+#13016
+On a Ramp~
+~
+0 0 0
+D0
+~
+~
+0 0 13030
+D2
+~
+~
+0 0 13013
+S
+#13017
+Path of the Ways~
+You are walking along a path in the Ways. The path is very narrow and
+seems to drop forever. The close to pitch darkness envelopes the area. In
+the Ways it is impossible to tell the time. But what would time matter if
+one were to be lost. 
+~
+0 0 0
+D1
+~
+~
+0 0 13004
+D3
+~
+~
+0 0 13018
+S
+#13018
+A floating Bridge~
+You step along a floating bridge that suspends in darkness. A nervous
+sensation is not unusual as the bridge looks fragile and on the state of
+tear and collapsing. You feel the breeze that passes you. It feels as though
+it's penetrating your skin. The icy cool feel shivers to your bone. 
+~
+0 0 0
+D0
+~
+~
+0 0 13045
+D1
+~
+~
+0 0 13017
+S
+#13019
+In the Ways~
+~
+0 0 0
+D0
+~
+~
+0 0 13020
+S
+#13020
+A floating Bridge~
+~
+0 0 0
+D0
+~
+~
+0 0 13021
+D2
+~
+~
+0 0 13019
+S
+#13021
+A floating Bridge~
+~
+0 0 0
+D0
+~
+~
+0 0 13022
+D2
+~
+~
+0 0 13020
+S
+#13022
+On a floating Island~
+~
+0 0 0
+D2
+~
+~
+0 0 13021
+D3
+~
+~
+0 0 13023
+S
+#13023
+On a floating Island~
+~
+0 0 0
+D0
+~
+~
+0 0 13024
+D1
+~
+~
+0 0 13022
+S
+#13024
+On a floating Island~
+~
+0 0 0
+D1
+~
+~
+0 0 13025
+D2
+~
+~
+0 0 13023
+S
+#13025
+On a floating Island~
+~
+0 0 0
+D0
+~
+~
+0 0 13028
+D1
+~
+~
+0 0 13026
+D3
+~
+~
+0 0 13024
+S
+#13026
+On a floating Island~
+~
+0 0 0
+D2
+~
+~
+0 0 13027
+D3
+~
+~
+0 0 13025
+S
+#13027
+On a floating Island~
+~
+0 0 0
+D0
+~
+~
+0 0 13026
+S
+#13028
+On a Ramp~
+~
+0 0 0
+D0
+~
+~
+0 0 13029
+D2
+~
+~
+0 0 13025
+S
+#13029
+Ramp in the Ways~
+~
+0 0 0
+D2
+~
+~
+0 0 13028
+D5
+~
+~
+0 0 13044
+S
+#13030
+Ramp in the Ways~
+~
+0 0 0
+D2
+~
+~
+0 0 13016
+D5
+~
+~
+0 0 13031
+S
+#13031
+Ramp in the Ways~
+~
+0 0 0
+D2
+~
+~
+0 0 13032
+D4
+~
+~
+0 0 13030
+S
+#13032
+Darkness of the Ways~
+~
+0 0 0
+D0
+~
+~
+0 0 13031
+D3
+~
+~
+0 0 13033
+S
+#13033
+Darkness in the Ways~
+~
+0 0 0
+D1
+~
+~
+0 0 13032
+D2
+~
+~
+0 0 13034
+S
+#13034
+Darkness in the Ways~
+~
+0 0 0
+D0
+~
+~
+0 0 13033
+D2
+~
+~
+0 0 13035
+S
+#13035
+On a floating Island~
+~
+0 0 0
+D0
+~
+~
+0 0 13034
+D2
+~
+~
+0 0 13036
+S
+#13036
+On a floating Island~
+~
+0 0 0
+D0
+~
+~
+0 0 13035
+D3
+~
+~
+0 0 13037
+S
+#13037
+On a floating Island~
+~
+0 0 0
+D0
+~
+~
+0 0 13038
+D1
+~
+~
+0 0 13036
+S
+#13038
+On a floating Island~
+~
+0 0 0
+D2
+~
+~
+0 0 13037
+D3
+~
+~
+0 0 13039
+S
+#13039
+On a floating Island~
+~
+0 0 0
+D0
+~
+~
+0 0 13041
+D1
+~
+~
+0 0 13038
+D2
+~
+~
+0 0 13040
+S
+#13040
+On a floating Island~
+~
+0 0 0
+D0
+~
+~
+0 0 13039
+S
+#13041
+Darkness in the Ways~
+~
+0 0 0
+D0
+~
+~
+0 0 13042
+D2
+~
+~
+0 0 13039
+S
+#13042
+Darkness in the Ways~
+~
+0 0 0
+D2
+~
+~
+0 0 13041
+D3
+~
+~
+0 0 13043
+S
+#13043
+Darkness in the Ways~
+~
+0 0 0
+D1
+~
+~
+0 0 13042
+S
+#13044
+Ramp in the Ways~
+~
+0 0 0
+D4
+~
+~
+0 0 13029
+S
+#13045
+A floating Bridge~
+You step along a floating bridge that suspends in darkness. A nervous
+sensation is not unusual as the bridge looks fragile and on the state of
+tear and collapsing. The near perfect dark cloaks the bridge's width and
+length. 
+~
+0 0 0
+D0
+~
+~
+0 0 13046
+D2
+~
+~
+0 0 13018
+S
+#13046
+On a floating Island~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13049
+D1
+~
+~
+0 0 13051
+D2
+~
+~
+0 0 13045
+D3
+~
+~
+0 0 13047
+S
+#13047
+On a floating Island~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13048
+D1
+~
+~
+0 0 13046
+S
+#13048
+On a floating Island~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D1
+~
+~
+0 0 13049
+D2
+~
+~
+0 0 13047
+S
+#13049
+On a floating Island~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13052
+D1
+~
+~
+0 0 13050
+D2
+~
+~
+0 0 13046
+D3
+~
+~
+0 0 13048
+S
+#13050
+On a floating Island~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D2
+~
+~
+0 0 13051
+D3
+~
+~
+0 0 13049
+S
+#13051
+On a floating Island~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13050
+D1
+~
+~
+0 0 8109
+D3
+~
+~
+0 0 13046
+S
+#13052
+On a Ramp~
+You approach a ramp that's unseen to the eyes but only to your feet.
+Darkness surrounds the whole length of your vision rendering your eyes
+useless in this environment. You trust your feet to keep a steady path for
+if you were to slip... 
+~
+0 0 0
+D0
+~
+~
+0 0 13053
+D2
+~
+~
+0 0 13049
+S
+#13053
+Ramp in the Ways~
+Further alone the ramp it gets steeper, slanting downwards. The slant is
+almost a right angle. As always the scent of death and taint is in the air.
+Makes you wonder what evil lies deep within the ways. 
+~
+0 0 0
+D2
+~
+~
+0 0 13052
+D5
+~
+~
+0 0 13054
+S
+#13054
+Ramp in the Ways~
+The Ramp ends and on the floor lies a barely visible path the seems to
+run on for eternity. The pitch dark seems to grow lighter as a misty fog
+surrounds the area. Again the scent of evil lurks in the air. 
+~
+0 0 0
+D2
+~
+~
+0 0 13075
+D4
+~
+~
+0 0 13053
+S
+#13055
+A floating Bridge~
+You step along a floating bridge that suspends in darkness. A nervous
+sensation is not unusual as the bridge looks fragile and on the state of
+tear and collapsing. The near perfect dark cloaks the bridge's width and
+length. 
+~
+0 0 0
+D0
+~
+~
+0 0 13056
+D2
+~
+~
+0 0 13006
+S
+#13056
+On a floating Island~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13059
+D1
+~
+~
+0 0 13057
+D2
+~
+~
+0 0 13055
+D3
+~
+~
+0 0 13061
+S
+#13057
+On a floating Island~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13058
+D2
+~
+~
+0 0 8117
+D3
+~
+~
+0 0 13056
+S
+#13058
+On a floating Island~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 8106
+D2
+~
+~
+0 0 13057
+D3
+~
+~
+0 0 13059
+S
+#13059
+On a floating Island~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13062
+D1
+~
+~
+0 0 13058
+D2
+~
+~
+0 0 13056
+D3
+~
+~
+0 0 13060
+S
+#13060
+On a floating Island~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D1
+~
+~
+0 0 13059
+D2
+~
+~
+0 0 13061
+S
+#13061
+On a floating Island~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13060
+D1
+~
+~
+0 0 13056
+S
+#13062
+On a Ramp~
+You approach a ramp that's unseen to the eyes but only to your feet.
+Darkness surrounds the whole length of your vision rendering your eyes
+useless in this environment. You trust your feet to keep a steady path for
+if you were to slip... 
+~
+0 0 0
+D0
+~
+~
+0 0 13063
+D2
+~
+~
+0 0 13059
+S
+#13063
+Ramp in the Ways~
+Further alone the ramp it gets steeper, slanting downwards. The slant is
+almost a right angle. As always the scent of death and taint is in the air.
+Makes you wonder what evil lies deep within the ways. 
+~
+0 0 0
+D2
+~
+~
+0 0 13062
+D5
+~
+~
+0 0 13064
+S
+#13064
+Ramp in the Ways~
+The Ramp ends and on the floor lies a barely visible path the seems to
+run on for eternity. The pitch dark seems to grow lighter as a misty fog
+surrounds the area. Again the scent of evil lurks in the air. 
+~
+0 0 0
+D2
+~
+~
+0 0 13065
+D4
+~
+~
+0 0 13063
+S
+#13065
+Darkness in the Ways~
+The route leads on and grows darker. There is a broken sign post on the
+floor. The smell of death grows strong and foul, almost as if enforcing a
+way into your skull. 
+~
+0 0 0
+D0
+~
+~
+0 0 13064
+D3
+~
+~
+0 0 13066
+S
+#13066
+On a floating Bridge~
+This bridge appears to be similar to all others at first. But within 2
+feet on the bridge you notice the wind blowing from the emptiness below 1
+feet of you from east and west. This incredibly narrow bridge is impossible
+to spot. The scent of foul and death grows the strongest on this bridge. 
+~
+0 0 0
+D1
+~
+~
+0 0 13065
+D2
+~
+~
+0 0 13067
+D3
+~
+~
+0 0 8161
+S
+#13067
+On a bridge~
+The bridge continues on a downward slant along the track. Try to keep
+your mind focused on nothing but the floor. You hear a breeze which emits a
+sharp high pitch whine. This awful sound amplifies louder in this very odd
+and tainted area. 
+~
+0 0 0
+D0
+~
+~
+0 0 13066
+D2
+~
+~
+0 0 13068
+S
+#13068
+Island in the Ways~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13067
+D2
+~
+~
+0 0 13069
+D3
+~
+~
+0 0 13071
+S
+#13069
+Island in the Ways~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13068
+D1
+~
+~
+0 0 8135
+D3
+~
+~
+0 0 13070
+S
+#13070
+Island in the Ways~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13071
+D1
+~
+~
+0 0 13069
+D3
+~
+~
+0 0 13076
+S
+#13071
+Island in the Ways~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D1
+~
+~
+0 0 13068
+D2
+~
+~
+0 0 13070
+D3
+~
+~
+0 0 13072
+S
+#13072
+Island in the Ways~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13073
+D1
+~
+~
+0 0 13071
+D2
+~
+~
+0 0 13076
+S
+#13073
+On a bridge~
+The bridge continues on a downward slant along the track. Try to keep
+your mind focused on nothing but the floor. You hear a breeze which emits a
+sharp high pitch whine. This awful sound amplifies louder in this very odd
+and tainted area. 
+~
+0 0 0
+D0
+~
+~
+0 0 13074
+D2
+~
+~
+0 0 13072
+S
+#13074
+On a floating Bridge~
+This bridge appears to be similar to all others at first. But within 2
+feet on the bridge you notice the wind blowing from the emptiness below 1
+feet of you from east and west. This incredibly narrow bridge is impossible
+to spot. The scent of foul and death grows the strongest on this bridge. 
+~
+0 0 0
+D2
+~
+~
+0 0 13073
+D3
+~
+~
+0 0 13075
+S
+#13075
+Darkness in the Ways~
+The route leads on and grows darker. There is a broken sign post on the
+floor. The smell of death grows strong and foul, almost as if enforcing a
+way into your skull. 
+~
+0 0 0
+D0
+~
+~
+0 0 13054
+D1
+~
+~
+0 0 13074
+D3
+~
+~
+0 0 8142
+S
+#13076
+Island in the Ways~
+A floating island suspends defying laws of gravity. The size of the
+island is uncalculable for the perfectly dark mist envelopes the island. You
+feel a breeze of freezing wind that seems tainted with death's touch. The
+cold feel envelopes your body. 
+~
+0 0 0
+D0
+~
+~
+0 0 13072
+D1
+~
+~
+0 0 13070
+S
+#13080
+13080-13100~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 13076 10 13049 5 100 Load Bear trolloc
+M 0 13076 10 13049 5 100 Load Bear trolloc
+M 0 13076 10 13049 1 100 Load Bear trolloc
+M 0 13076 2 13049 1 100 Load Bear trolloc
+M 0 13076 10 13050 5 100 Load Bear trolloc
+M 0 13075 10 13057 5 100 Load An ugly Trolloc
+M 0 13075 10 13058 5 100 Load An ugly Trolloc
+M 0 13075 10 13058 5 100 Load An ugly Trolloc
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#13076
+if ispc $n
+if sex $n < 2
+say You'll be great for a stew.
+else
+say You'll be great in a cookpot.
+endif
+endif
+~
+#13077
+if ispc $n
+if sex > 2
+say You'll be great for a stew.
+say You'll be great in a cookpot.
+endif say GRRRR
+endif Say GRRRR
+done
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

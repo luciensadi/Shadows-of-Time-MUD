@@ -1,0 +1,1734 @@
+#AREADATA
+Name Arcane Sanctuary~
+Builders Demandred~
+VNUMs 20100 20199
+Credits `4[`7 High `4]`7 Demandred Arcane Sanctuary~
+Security 10
+Flags CE
+Version 4
+End
+
+
+
+#MOBILES
+#20100
+Ike the Sanctuary Watchmen~
+Ike~
+The Sanctuary Watchmen guards the entrance here
+~
+~
+andor~
+0 0
+ABGJKabc 336 0 0 0 -1  1000 0
+105 100 100d1+1 30000d1+0 50d50+50 slash
+0 0 0 0
+EFK CD 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 20100 100~
+#20101
+Sanctuary Sentry~
+The Sanctuary Sentry~
+A weird looking Sentry is patrolling here
+~
+~
+modron~
+1 23
+ABFGTc 80 64 0 0 -1  -1000 0
+200 600 8000d1+900 30000d1+0 100d1+50 claw
+-100 -100 -100 -100
+ACFKQR BMNPQ HIK J
+stand stand none 5000
+H ABCGHJK medium unknown
+#20102
+Portal Keeper~
+Portal Keeper~
+A giant creature is standing in front of the portal
+~
+~
+dragon~
+1 23
+ABFGTc 320 64 0 0 -1  -800 0
+216 2000 9000d1+900 30000d1+0 100d1+50 chomp
+-200 -200 -200 -210
+ACFKM ABI BEH J
+stand stand none 3000
+AHZ ACDEFGHIJKPQUVX large unknown
+F vul FI
+#20103
+Undead Sentry~
+An Undead Sentry~
+A skeleton dressed in a sentries uniform is walking about here
+~
+~
+andor~
+1 23
+ABFGTc 80 64 0 0 -1  -500 0
+200 1100 8000d1+900 30000d1+0 100d1+50 slash
+-150 -150 -150 -190
+AFK ABQ I HJ
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#20104
+Shadow Knight~
+The Shadow Knight~
+A knight is standing here fadeing in and out with the shadows
+~
+~
+illian~
+5 18
+ABFGTc 80 64 0 2 -1  -1000 0
+215 1500 9000d1+0 30000d1+0 100d1+55 frbite
+-200 -200 -200 -200
+ACDFK ABI J H
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#20117
+Arcane Master~
+Arcane Master~
+A man dressed in a black cloak is standing here
+~
+~
+illian~
+0 0
+ABFGRTc 336 64 0 0 -1  -1000 0
+216 2000 46000d1+0 30000d1+0 50d50+111 flame
+-250 -250 -250 -300
+ACFHIK ABHINQRTXYb LOPZa 0
+stand stand male  4000
+AHMV ABCDEFGHIJK medium unknown
+#20123
+Hydra~
+A Hydra~
+A Giant Hydra is here
+~
+~
+wyvern~
+0 20
+ABFGRTc 256 64 0 0 -1  -1000 0
+216 1000 40000d1+0 30000d1+0 50d50+100 bite
+-200 -200 -200 -250
+ACFH ABLM 0 S
+stand stand none 10000
+ABGZ ACDEFHJKQVX giant unknown
+#20125
+Arcane Sentry~
+Arcane Sentry~
+The Arcane Sentry is paceing about here
+~
+~
+aiel~
+5 23
+ABFGTc 336 64 0 0 -1  -1000 0
+216 2000 45000d1+0 30000d1+0 50d50+100 stab
+-210 -210 -210 -260
+ACFJK ABJ N 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#20135
+Arcane Mistress~
+Arcane Mistress~
+The Arcane Mistress is resting here
+~
+~
+andor~
+0 0
+ABFGRc 336 64 0 0 -1  -1000 0
+216 2000 40000d1+0 30000d1+0 50d50+125 acbite
+-210 -210 -210 -260
+AFHIKN ABQ b a
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+#20138
+Arcane Demon Knight~
+Arcane Demon Knight~
+A suit of pitch black armor is standing here
+~
+~
+illian~
+0 0
+ABFGRTc 336 64 0 4 -1  -1000 0
+400 2000 50000d1+0 30000d1+100 50d50+110 thrust
+-220 -220 -220 -270
+ACFGHIK ABIYb Ha R
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#20143
+Arcane Undead Creature~
+Arcane Undead Creature~
+A creature made out of various corpses is standing here
+~
+~
+dragon~
+0 0
+ABFGRT 336 64 0 0 -1  -1000 0
+216 2000 30000d1+0 30000d1+0 50d50+100 crush
+-210 -210 -210 -265
+AFKO ABQ EL 0
+stand stand none 10000
+AHZ ACDEFGHIJKPQUVX huge unknown
+F res BH
+F vul FI
+#20161
+Arcane Demon~
+Arcane Demon~
+A firey demon is here
+~
+~
+wyvern~
+0 20
+ABFGTc 256 0 0 0 -1  -1000 0
+200 1500 8000d1+900 30000d1+10 50d50+75 wrath
+-190 -190 -190 -190
+ACFHK ABHL I S
+stand stand none 5000
+ABGZ ACDEFHJKQVX medium unknown
+#0
+
+
+
+#OBJECTS
+#20101
+Pitch Black Helmet~
+a Pitch Black Combat Helmet~
+A pitch black helmet lies here~
+unknown~
+armor AB AE
+0
+BEF BEF BEF BEF 0
+150 100 0 P
+A
+20 -10
+A
+13 50
+A
+18 10
+A
+19 10
+A
+12 15
+ T 0 none~
+#20102
+Pitch Black Leg Plates~
+pitch Black Leg Plates~
+A pair of pitch black leg plates lies here~
+unknown~
+armor ABY AF
+0
+BEF BEF BEF BEF 0
+150 100 0 P
+A
+13 100
+A
+18 10
+A
+19 10
+A
+12 15
+ T 0 none~
+#20103
+spiked pitch black arm plates~
+(Spiked) Pitch Black Arm Plates~
+A pair of spiked arm plates lie here~
+unknown~
+armor AB AI
+0
+CEF CEF ABEF BEF 0
+150 100 0 P
+A
+12 30
+A
+18 10
+A
+19 10
+A
+20 -8
+A
+13 45
+ T 0 none~
+#20104
+Pitch Black Shield~
+(Spiked) (Tainted) A Pitch Black Shield~
+A pitch black shield lies here~
+unknown~
+armor ABYa AJ
+0
+BEF BEF BEF BEF 0
+150 100 0 P
+A
+20 -10
+A
+13 30
+A
+18 10
+A
+19 10
+A
+12 25
+ T 0 none~
+#20105
+pitch black face plate~
+(Spiked) A Pitch Black Combat Face Plate~
+A spiked face plate is lying here~
+unknown~
+armor ABHY AR
+0
+BEF BEF BEF BEF 0
+150 90 0 P
+A
+13 70
+A
+18 10
+A
+19 10
+A
+12 10
+A
+20 -7
+ T 0 none~
+#20106
+Firey Demon Sword~
+(Flaming) (Tainted) Black Demon Hellsword~
+A black sword is here~
+light~
+weapon ABHYa AN
+0
+sword 76 1 slice ACD
+150 100 0 P
+A
+20 -6
+A
+12 2
+A
+18 10
+A
+19 10
+A
+13 60
+ T 0 none~
+#20107
+Black Cloak~
+(Black Aura) A Pitch Black Cloak~
+A black cloak with a deep hood is lying here~
+unknown~
+armor ABYd AK
+0
+BEF BEF BEF BEF 0
+150 20 0 P
+A
+18 9
+A
+19 9
+A
+20 -9
+A
+13 70
+A
+12 10
+ T 0 none~
+#20108
+Black Leather Boots~
+(Spiked) Black Leather Boots~
+A pair of black leather boots with metal pieces lies here~
+unknown~
+armor ABYd AG
+0
+BEF BEF BEF BEF 0
+150 50 0 P
+A
+13 50
+A
+12 50
+A
+20 -3
+A
+18 10
+A
+19 10
+ T 0 none~
+#20109
+Aura Of Death~
+(Tainted) Aura Of Death~
+An aura of death is floating here~
+unknown~
+armor ABd AQ
+0
+BEF BEF BEF BEF 0
+150 10 0 P
+A
+18 6
+A
+19 6
+A
+20 -12
+A
+13 70
+A
+12 25
+ T 0 none~
+#20117
+Arcane Master's Book of Spells~
+(Tainted) Arcane Book of Spells~
+A book is lying here, locked~
+unknown~
+armor Ad AO
+0
+BEF BEF BEF BEF 0
+150 50 0 P
+A
+18 7
+A
+19 7
+A
+20 -7
+A
+12 60
+A
+13 50
+ T 0 none~
+#20123
+Hydra Tooth~
+a Hydra Tooth~
+A bright tooth lies on the ground here~
+unknown~
+light ABY A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+150 100 0 P
+A
+18 7
+A
+19 7
+A
+13 80
+A
+12 59
+A
+17 -5
+ T 0 none~
+#20125
+Black Claw Gauntlets~
+black Claw Gauntlets~
+Some black claws lie here~
+unknown~
+armor ABa AH
+0
+BEF BEF BEF BEF 0
+150 100 0 P
+A
+18 10
+A
+19 10
+A
+13 50
+A
+12 50
+A
+20 -1
+ T 0 none~
+#20134
+Spider Belt~
+a Spider Belt~
+A belt with various interlocking spiders lies here~
+unknown~
+armor AB AL
+0
+BEF BEF BEF BEF 0
+150 100 0 P
+A
+20 -5
+A
+18 8
+A
+19 8
+A
+13 80
+A
+12 30
+ T 0 none~
+#20135
+Black Spider Wristguard~
+black Spider Wristguard~
+A wristguard is lying here with a spider set in it~
+unknown~
+armor AB AM
+0
+BEF BEF BEF BEF 0
+150 40 0 P
+A
+12 80
+A
+18 7
+A
+19 9
+A
+13 40
+A
+20 -3
+ T 0 none~
+#20138
+Pitch Black Plate~
+a Pitch Black Combat Plate~
+A pitch black plate lies here~
+unknown~
+armor AB AD
+0
+BEF BEF BEF BEF 0
+150 120 0 P
+A
+20 -5
+A
+12 20
+A
+18 10
+A
+19 10
+A
+13 70
+ T 0 none~
+#20142
+Medallion of the Dead~
+medallion of the Dead~
+A dark medallion lies here~
+unknown~
+armor ABd AC
+0
+BEF BEF BEF BEF 0
+150 60 0 P
+A
+18 10
+A
+19 8
+A
+20 -10
+A
+13 70
+A
+12 5
+ T 0 none~
+#20143
+Ring of the Dead~
+ring of the Dead~
+A dark ring lies here~
+unknown~
+armor ABd AB
+0
+BEF BEF BEF BEF 0
+150 50 0 P
+A
+20 -5
+A
+18 8
+A
+19 10
+A
+13 40
+A
+12 50
+A
+14 20
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#20100
+Arcane Entrance~
+This is the entrance to the underground Arcane Sanctuary.  There is a
+giant hole in the northern wall, various stone spikes jet out from all sides
+giving it an errie appearance.  There is a cold breaze coming out from the
+hole.  This rockface gives off an evil presence, as well as a hazy blood red
+light which seems to pulseate.  The hole itself opens into utter darkness.  
+~
+0 67175424 0
+D0
+~
+~
+0 0 20101
+D2
+~
+~
+0 0 8151
+S
+#20101
+Inside the Darkness~
+It is almost pitch black in here.  There surrounding walls seem to have
+been tinted a pitch black colour, and the lack of light contributes to the
+unnatural darkness.  There is an ancient looking staircase carved out of the
+stone leading down.  There are two giant red torches on both sides of the
+staircase.  
+~
+0 138477572 0
+D2
+~
+~
+0 0 20100
+D5
+~
+~
+0 0 20102
+S
+#20102
+Middle of the Stairway~
+The Stairway coils downward around a pitch black pillar with red torches
+places every few feet away giving the stairs blood red shine to them.  The
+air here is quite humid, and the smell of death is heavy.  The stairs
+continues upwards and downwards deeper into the darkness 
+~
+0 138477568 0
+D4
+~
+~
+0 0 20101
+D5
+~
+~
+0 0 20103
+S
+#20103
+Bottom of the Stairway~
+The Stairway ends on a small landing.  The stone is has the same pitch
+black tint as the stairs.  There is a giant wooden door to the north leading
+deeper into the underground Sanctuary.  The air is much more heavy here and
+the smell is almost unbareable, although a cool breaze seems to blow out
+from under the crack in the door.  
+~
+0 138477568 0
+D0
+~
+~
+0 0 20104
+D4
+~
+~
+0 0 20102
+S
+#20104
+Crossroads~
+This hallway breaks off into a number of directions, the pitch black
+stone shines in the normal torch light which is set up every few yards.  To
+the north it a Grand Hallway which slowly bends into darkness, to the east
+is a smaller yet well maintained hallway, and to the west is a even smaller
+hallway which looks to have been dug out of the wall, and appears to not
+have been used for ages.  
+~
+0 138477572 0
+D0
+~
+~
+0 0 20105
+D1
+~
+~
+0 0 20106
+D2
+~
+~
+0 0 20103
+D3
+~
+~
+0 0 20139
+S
+#20105
+Grand Hallway~
+This hallway is massive, the black stone shines in the torch light giving
+it an even more impressive look to it, there is a red and gold carpet lining
+the black tiles.  An old table can be seen here and there some containing
+candles which are lit under the torches.  The Hallway continues north into
+the darkness and south.  
+~
+0 138477568 0
+D0
+~
+~
+0 0 20107
+D2
+~
+~
+0 0 20104
+S
+#20106
+A Small Hallway~
+This hallway is fairly small, a blue carpet lines the floor and oddly
+enough looks to be somewhat recent.  Various torches are set up every few
+feet giving ample light.  The air is cold and uncomforting and the smell of
+fresh summer rain wafts through the air.  The small hallway leads to the
+east deeper down and to the west towards the crossroads.  
+~
+0 138477568 0
+D1
+~
+~
+0 0 20118
+D3
+~
+~
+0 0 20104
+S
+#20107
+Middle of the Grand Hallway~
+The Hallway here curves sharply to the West deeper into the unknown, the
+torches here seem to get fewer and fewer.  The carpet ends on the north wall
+and doesn't curve with the hallway.  The air here seems to get colder and
+the smell of death seems to get stronger.  
+~
+0 138477568 0
+D2
+~
+~
+0 0 20105
+D3
+~
+~
+0 0 20108
+S
+#20108
+End of the Grand Hallway~
+The hallway ends here.  The black stone seems to be much more tinted
+here, almost absorbing the light.  The air is quite cold and clammy.  There
+is a door to the south with a sign writtin in the old tongue above it.  The
+door is made of the same black stone as the hallway and contains a few
+pieces of gold in it depicting a map of what lies ahead but the usefullness
+of it seems to have faded away.  Smoke seems to come out of the darkness to
+the north.  
+~
+0 138477568 0
+D0
+~
+~
+0 0 20109
+D1
+~
+~
+0 0 20107
+D2
+~
+~
+0 0 20110
+S
+#20109
+Giant Portal~
+This room is quite spacious, yet it contains nothing save for a portal
+set up in the very middle of the room which seems to smoke and head towards
+the exit to the south.  The air here is extremely cold yet there is no smell
+of death, only an old stale smell like nothing has entered here for quite
+some time.  
+~
+0 138477572 0
+D0
+~
+~
+0 0 20111
+D2
+~
+~
+0 0 20108
+S
+#20110
+Entrance to the Living Quarters~
+This room is fairly small.  It appears that it's only purpose was a place
+where all of the residents could gather and talk.  Many chairs line the
+walls, most of which have a table or two set up.  An odd looking bar is set
+up towards the back near a broken black door which is set in the south wall.
+~
+0 138477568 0
+D0
+~
+~
+0 0 20108
+D2
+~
+~
+0 0 20126
+S
+#20111
+Top of a Grand Staircase~
+The Stairs here are made of a bright white stone which seem to give off
+light all their own.  The air here is stale yet warm and a slight breaze
+comes up from downwards.  There is a small door to the east which seems to
+have been broken long ago, the stairs continues downwards.  
+~
+0 138477572 0
+D1
+~
+~
+0 0 20112
+D5
+~
+~
+0 0 20113
+S
+#20112
+A Small Storage Room~
+This room is quite cramped and humid, there are various crates and kegs
+lining the wall, all of which have a few layers of dust on them.  There is a
+table towards the back which has a candle sitting in the middle of it, the
+floor has various footprints in the dust, some of which are not human. 
+There is a door to the west.  
+~
+0 138477568 0
+D3
+~
+~
+0 0 20111
+S
+#20113
+Middle of the Grand Staircase~
+The stairs spiral around a black pillar, but the stairs themselves are a
+very pure white colour which contrasts with the pitch black stone of the
+pillar.  The breaze seems to get stronger here making it hazardous to walk
+fast down, The stairway continues downwards towards the wind and upwards
+towards a dead end.  
+~
+0 138477568 0
+D4
+~
+~
+0 0 20111
+D5
+~
+~
+0 0 20114
+S
+#20114
+Bottom of the Grand Staircase~
+The stairs end on a pure white ledge.  The powerful wind blows from the
+north pushing any small piece of debris to the south.  The north is
+absolutely pitch black and any light seems to be absorbed totally in the
+darkness.  To the south is a partally open door which made of a tinted red
+wood.  
+~
+0 138477568 0
+D0
+~
+~
+0 0 20144
+D2
+~
+~
+0 0 20115
+D4
+~
+~
+0 0 20113
+S
+#20115
+A Giant Waiting Room~
+This room is massive.  Various tables and chairs are set up here to
+provide comfort, the air is calm and the breaze seems to stop at the
+entrance to the north.  A very bright red light comes from the south
+followed by the sound of a fire.  
+~
+0 138477572 0
+D0
+~
+~
+0 0 20114
+D2
+~
+~
+0 0 20116
+S
+#20116
+A Giant Red Portal~
+This room is bigger than the previous one, yet it contains nothing, only
+a giant Red Portal set up in the middle of the room.  All sound in this room
+is nonexistant except for the rageing burning sound that the portal emits. 
+There is a shattered doorway to the north.  
+~
+0 138477572 0
+D0
+~
+~
+0 0 20115
+D2
+~
+~
+0 0 20117
+S
+#20117
+Arcane Sanctuary Master's Room~
+This room looks like it is in the middle of the world, it consists of a
+giant platform surrouded by pitch black walls and molten lava surrounding
+it.  The temperature is unbareable and all sound is drowned out by the sound
+of the lava.  There are various rotting and rotted corpses strewn about here
+and a tomb lays in the middle of the ledge 
+~
+0 138485764 0
+D1
+~
+~
+0 0 20104
+S
+#20118
+Middle of a Small Hallway~
+The middle of the hallway here seems to break off into two directions,
+yet to the north it ends abruptly at a partly open cell door but to the east
+it continues for a ways.  The carpet seems to get more dusty here as with
+the tables and pictures lining the walls 
+~
+0 138477568 0
+D0
+~
+~
+0 0 20120
+D1
+~
+~
+0 0 20119
+D3
+~
+~
+0 0 20106
+S
+#20119
+End of a Small Hallway~
+The hallway appears to have not been finished, but instead of being
+expanded a wall was put up and a giant picture of a man holding a flaming
+sword and a ball of black flame standing on a hill survaying an enourmous
+battle is hung on it.  To the south there seems to be a sizeable hole which
+leads into darkness 
+~
+0 138477568 0
+D2
+~
+~
+0 0 20121
+D3
+~
+~
+0 0 20118
+S
+#20120
+A Giant Cell~
+This cell looks to be designed to keep an array of prisioners locked up for years on end
+if not longer.  Various decayed bodies line the floor and some hang from chains on the
+walls.  The air is old and musty, as if it hasen't been bothered in years if not ages.
+the cell door to the south lies partly open proving that there hasen't been a need for
+it in quite some time
+~
+0 138477568 0
+D2
+~
+~
+0 0 20118
+S
+#20121
+Tunneled out Corridor~
+It seems that there was a hidden corridor built beside the hallway yet it
+was never connected.  The giant hole in the walls appears it was knocked
+down by something big and the debris was cleaned up.  The corridor continues
+to the West deeper into the unknown.  
+~
+0 138477568 0
+D0
+~
+~
+0 0 20119
+D3
+~
+~
+0 0 20122
+S
+#20122
+End of the Corridor~
+The here branches off into two directions, to the south deeper into the
+unknown and to the west through a doorway and into the sound of running
+water.  There is a blood red torch set in the wall here giving off next to
+no light, while a slight breaze comes from the south.  
+~
+0 138477568 0
+D1
+~
+~
+0 0 20121
+D2
+~
+~
+0 0 20124
+D3
+~
+~
+0 0 20123
+S
+#20123
+A Giant Lair~
+This room appears to have been specally built for something to live in. 
+There is a steady waterfall falling from the darkness above into a pool of
+red water.  Various bodies float in the water letting off some sort of
+steam, the walls are lined with what seems to be a thick slime and the
+combination of fresh summer rain and that of rotting makes it hard to
+breath.  There is a small entranceway to the east.  
+~
+0 138477572 0
+D1
+~
+~
+0 0 20122
+S
+#20124
+A Small Room~
+This room is perhaps the smallest room ever fashoned.  There is a
+staircase to the left leading downwards towards torchlight and a desk to the
+right containing various parchments, all of which are covered in a heavy
+dust.  A lone candle rests of the edge of the desk illuminateing the dirt
+walls.  There is a doorway to the north.  
+~
+0 138477568 0
+D0
+~
+~
+0 0 20122
+D5
+~
+~
+0 0 20125
+S
+#20125
+Arcane Sentry's Room~
+This room appears to be someone's living quarters as well as an office. 
+Various pieces of furnature are placed all around, weapons and armor are
+draped over almost every piece, and Giant Maps line every wall depicting
+various unknown and destroyed cites and countries.  There is a stairway
+leading upwards set in the western wall 
+~
+0 138477572 0
+D4
+~
+~
+0 0 20124
+S
+#20126
+Living Quarter's Main Hallway~
+This hallway is not the tallest within the Sanctuary but is by far the
+widest.  Green torches give off ample light yet keep the hallway dark. 
+There is a small desk set beside the door to the West and the door to the
+East, both of which are covered with a layer of dust.  The hallway continues
+to the South and to the North.  
+~
+0 138477568 0
+D0
+~
+~
+0 0 20110
+D1
+~
+~
+0 0 20127
+D2
+~
+~
+0 0 20129
+D3
+~
+~
+0 0 20128
+S
+#20127
+Arcane Resident's Room~
+This room looks like it hasen't been used in quite sometime, by anything
+living.  There are various pieces of furnature set up along the walls, a
+desk is set beside the door and a bed towards the back of the wall.  There
+are varous remains of armor and rotted corpses.  There is a door to the West
+which lays partly open.  
+~
+0 138477568 0
+D3
+~
+~
+0 0 20126
+S
+#20128
+Arcane Resident's Room~
+This room looks like it hasen't been used in quite sometime, by anything
+living.  There are various pieces of furnature set up along the walls, a
+desk is set beside the door and a bed towards the back of the wall.  There
+are varous remains of armor and rotted corpses.  There is a door to the East
+which lays partly open.  
+~
+0 138477568 0
+D1
+~
+~
+0 0 20126
+S
+#20129
+Middle of the Living Quarter Hallway~
+This hallway is not the tallest within the Sanctuary but is by far the
+widest.  Green torches give off ample light yet keep the hallway dark. 
+There is a small desk set beside the door to the West and the door to the
+East, both of which are covered with a layer of dust.  The walls have
+various sized arrows stuck within the walls and occasionally a spear or a
+sword can be seen.  The hallway continues to the South and to the North.  
+~
+0 138477568 0
+D0
+~
+~
+0 0 20126
+D1
+~
+~
+0 0 20130
+D2
+~
+~
+0 0 20132
+D3
+~
+~
+0 0 20131
+S
+#20130
+Arcane Study Room~
+This room is fairly empty when it comes to furnature.  There is a table
+set in the middle of the room, which contains various parchments and notes,
+all of which is dust covered and undisturbed.  The walls are lined with
+charts, notes and various maps as is the floor all of which is covered with
+dust.  Most of the charts on the wall depict various creatures and has a
+breakdown on each part and what it can do.  There is a doorway to the West. 
+~
+0 138477568 0
+D3
+~
+~
+0 0 20129
+S
+#20131
+Arcane Experiment Room~
+This room resembles the Study quite a bit.  A table is set in the middle
+of the room, but it does not contain parchments and notes, instead a corpse
+lies chained to the table.  Various metallic tools lie scattered on the
+floor.  The walls are lined with chains, all of which have corpses hanging
+off them.  There are various arrows stuck in the wall and a corpse is lying
+on the floor with various arrows stuck within the rib cage which has long
+since shed all signs of flesh.  There is a burned doorway to the East.  
+~
+0 138477568 0
+D1
+~
+~
+0 0 20129
+S
+#20132
+End of the Living Quarter Hallway~
+The hallway ends here.  The walls are lined with arrows and the floors
+contain various pieces of armor and weaponary.  Some of the torches along
+the walls have been knocked down.  There are two burnt doorways to the East
+and West as well as a giant green stone door to the South.  There is a small
+staircase set beside the door which leads down and the hallway continues to
+the North.  
+~
+0 138477572 0
+D0
+~
+~
+0 0 20129
+D1
+~
+~
+0 0 20133
+D2
+~
+~
+0 0 20135
+D3
+~
+~
+0 0 20134
+D5
+~
+~
+0 0 20136
+S
+#20133
+Arcane Noble's Room~
+This room looks like it hasen't been used in quite sometime, by anything
+living.  There are various pieces of furnature set up along the walls, a
+desk is set beside the door and a bed towards the back of the wall.  There
+are varous remains of armor and weaponary lining the floor and some of which
+are stuck in the walls.  There is a charred doorway to the West.  
+~
+0 138477568 0
+D3
+~
+~
+0 0 20132
+S
+#20134
+Arcane Noble's room~
+This room looks like it hasen't been used in quite sometime, by anything
+living.  There are various pieces of furnature set up along the walls, a
+desk is set beside the door and a bed towards the back of the wall.  There
+are varous remains of armor and weaponary lining the floor and some of which
+are stuck in the walls.  There is a charred doorway to the East.  
+~
+0 138477568 0
+D1
+~
+~
+0 0 20132
+S
+#20135
+Arcane Mistresses Room~
+This room matches any throne room in the known world.  The walls are
+lined with pitch black suits of armor holding various types of weapons, a
+few of which have arrows stuck in the chest plates.  There is a lush green
+carpet with golden workings in it leading up to a black throne which has two
+elaborate suits of black armor standing beside it holding heron marked
+swords, these pieces of armor contain the most amount of arrows in the leg
+plates, chest plate, helmet and arm plates, one suit in particular has a
+spear stuck in it's torso.  Various green torches line the walls giving the
+room a bright green glow to it.  Behind the throne just barely hidden from
+view is a bed with curtins set around it and a couch set in front of it. 
+There is a green stone door to the North which lies partly open 
+~
+0 205594624 0
+D0
+~
+~
+0 0 20132
+S
+#20136
+Arcane Battle Ground~
+This room is massive, various coloured torches line the walls giving the
+room an odd colouring which is somewhat distracting.  Thousands of bodies
+line the floors and walls here, all of which have decayed all flesh and only
+rusted pieces of armor hang off.  It appears that a great battle was fought,
+and lost within this giant chamber.  There is a giant archway to the North
+and a staircase set in the southern wall which leads up.  
+~
+0 138477568 0
+D0
+~
+~
+0 0 20137
+D4
+~
+~
+0 0 20132
+S
+#20137
+Giant Blue Portal~
+This room is virtually empty, the walls are bare save for a few arrows
+which stick from various points.  The floor contains a few old and recent
+corpses.  All sound within the room seems to be swallowed by the giant blue
+portal set in the middle of the room.  There is a giant archway to the
+south.  
+~
+0 138477572 0
+D0
+~
+~
+0 0 20138
+D2
+~
+~
+0 0 20136
+S
+#20138
+Arcane Demon Knight's Room~
+This room resembles an underground field which has been ravaged by war. 
+Many bodies both old and new lie ripped apart, some of the bodies are not
+even human.  The field seems to have a dark blue glow to it and the air is
+as cold as death, the smell of burnt flesh is heavy and almost overpowering.
+~
+0 406913028 0
+D5
+~
+~
+0 0 20104
+S
+#20139
+Old Torn-up Hallway~
+This hallway looks like it has suffered many battles, various spears and
+daggers are lodged within the wall, the floor is cracked and broken, pieces
+of armor and shields lie discarded and badly broken, occasionally there is a
+fully decayed and dust covered body lieing in the middle of the hallway. 
+There are no torches set in teh walls making it quite dark.  The shattered
+hallway continues to the east and west.  
+~
+0 138477569 0
+D1
+~
+~
+0 0 20104
+D3
+~
+~
+0 0 20140
+S
+#20140
+Middle of the Torn-up Hallway~
+The destruction here is much worse, giant chunks have been taken out of
+the walls and the floor is charred almost to a crisp, at some places there
+are gapeing holes going down into pure darkness.  The smell of burned flesh
+is forever lingering.  The hallway continues to the east and west 
+~
+0 138477569 0
+D1
+~
+~
+0 0 20139
+D3
+~
+~
+0 0 20141
+S
+#20141
+End of the Torn-up Hallway~
+The sheer destruction here is overwhelming.  The floors and walls seem to
+have been burned to a crisp and the slightest touch might bring the section
+of the hallway down.  There is a stairway leading downwards toward a strange
+green light.  
+~
+0 138477569 0
+D1
+~
+~
+0 0 20140
+D5
+~
+~
+0 0 20142
+S
+#20142
+Giant Green Portal~
+This room is quite spacious, yet it contains nothing cept for a giant
+green portal set in the middle of the room which seems to radiate a green
+light.  There are two green torches set beside the staircase leading upwards
+directley across from the portal.  
+~
+0 138477572 0
+D2
+~
+~
+0 0 20143
+D4
+~
+~
+0 0 20141
+S
+#20143
+Arcane Undead Creature's Room~
+This room looks to be a cemetary, various mounds of dirt line the walls
+with a dark green torch placed above each one.  Directly in the middle of
+the room is a tombstone and an open grave which seems to have been dug up
+ages ago, the lettering on the stone has long since faded.  
+~
+0 138477572 0
+D2
+~
+~
+0 0 20104
+S
+#20144
+Black Portal~
+This room is almost impossible to see in, there is nothing contained in
+the room and all sources of light seems to be absorbed by the enourmous
+black portal set in the middle of the room.  A strong wind blows from the
+Portal making it hard to get near.  There is a broken door to the south.  
+~
+0 138477573 0
+D0
+~
+~
+0 0 20145
+D2
+~
+~
+0 0 20114
+S
+#20145
+Hallway of the Dead~
+It is extremley dark here, various shapes of tables and other pieces of
+decoration can be made out in what little light is givin off.  The air here
+is cold and the smell of death is overpowering.  There are a few broken
+doors to the east, south and west, while the Hallway continues to the North
+deeper into darkness 
+~
+0 138477573 0
+D0
+~
+~
+0 0 20149
+D1
+~
+~
+0 0 20146
+D2
+~
+~
+0 0 20147
+D3
+~
+~
+0 0 20148
+S
+#20146
+Torture Room~
+This room seems small for what goes on in here.  All that is contained in
+here is a chair and a table which contains various metallic and nonmetallic
+tools, all of which are covered in a heavy dust.  The air is stale as with
+the smell of death.  There is a doorway to the west.  
+~
+0 138477568 0
+D3
+~
+~
+0 0 20145
+S
+#20147
+Prison Chamber~
+It looks like this room hasen't been used in quite some time.  Various
+dust covered chains line the walls, some of which contain already decayed
+arms and other body parts.  There is a table set up towards the back of the
+room with a candle resting upon it, giving the room minimal light.  There is
+a broken cell door to the north.  
+~
+0 138477568 0
+D0
+~
+~
+0 0 20145
+S
+#20148
+Experiment Room~
+It is rather bright in this room, torches line the walls illuminating all
+that is within the room.  Various tables are set up throughout the room,
+every single one contains some sort of mutated yet unfinished body.  From
+the walls hang full bodies which have been twisted and warped beyond all
+comprehension.  The air reaks of death in here.  There is a shattered
+doorway to the east.  
+~
+0 138477568 0
+D1
+~
+~
+0 0 20145
+S
+#20149
+Middle of the Hallway of the Dead~
+Visibilty are quite poor here, dark shapes and outlines are all that can
+be made out.  There are doors to the east and west, a slight breaze comes
+from them, the hallway continues to the north and there is a trapdoor
+leading down.  A small ladder is set on the wall which leads up.  
+~
+0 138477569 0
+D0
+~
+~
+0 0 20150
+D1
+~
+~
+0 0 20151
+D2
+~
+~
+0 0 20145
+D3
+~
+~
+0 0 20152
+D4
+~
+~
+0 0 20154
+D5
+~
+~
+0 0 20153
+S
+#20150
+End of the Hallway of the Dead~
+The hallway ends abruptly here, although the darkness dosen't seem to
+consume any light source here.  The air here is damp and heavy making the
+smell of death worse.  To the north, east and west lie open cage doors
+leading into darkness while a small stairway set in the middle leads
+downwards 
+~
+0 138477569 0
+D0
+~
+~
+0 0 20156
+D1
+~
+~
+0 0 20158
+D2
+~
+~
+0 0 20149
+D3
+~
+~
+0 0 20157
+D5
+~
+~
+0 0 20155
+S
+#20151
+Armory~
+This room looks to be very well kept compared to any previous room.  The
+walls are lined with racks containing various types of Weapons and Armors,
+the weapons however seem to be rusted beyond any possible repair or
+restoration as is the armor.  There is a metallic door to the west with a
+depiction of a grand battle carved into it.  
+~
+0 138477568 0
+D3
+~
+~
+0 0 20149
+S
+#20152
+Old Battle Chamber~
+This room looks fairly big, the walls are lined with various pictures all
+of which have faded beyond all reckognition.  There is a giant circular
+table set in the middle of the room surrounded by chairs.  A few tables line
+the walls containing lit candles and dust covered pitchers.  There is an old
+wooden door to the east.  
+~
+0 138477568 0
+D1
+~
+~
+0 0 20149
+S
+#20153
+Underground Cemetary~
+This room looks to have been molded out of the groud.  Various tombstones
+line the floor with recentley dug up earth in front of them.  The tombstones
+themselves are unmarked and seem to have been put in place inproperly.  The
+smell of death is strongest here.  A small ladder leads upwards 
+~
+0 138477568 0
+D4
+~
+~
+0 0 20149
+S
+#20154
+The Catwalk~
+~
+0 138477568 0
+D0
+~
+~
+0 0 20159
+D2
+~
+~
+0 0 20160
+D5
+~
+~
+0 0 20149
+S
+#20155
+White Portal~
+This room seems to have been made out of pure marble tinted an unnatural
+white.  The room contains nothing cept for a giant white portal set in the
+middle giving off an inviteing glow.  The air here is comfortable and the
+smell of death is absent.  There is a stairway leading up set towards the
+back of the room.  
+~
+0 138477568 0
+D0
+~
+~
+0 0 20101
+D4
+~
+~
+0 0 20150
+S
+#20156
+Cage 3~
+This cage looks like it was designed to hold something massive, and keep
+it locked up for ages, yet it seems that the cage failed a long time ago for
+the door to the south lay open and misshaped.  Various limbs are strewn
+about here, some recent some which look to be older than the room itself,
+yet no whole body can be found anywhere on the walls of floor.  
+~
+0 138477572 0
+D2
+~
+~
+0 0 20150
+S
+#20157
+Cage 1~
+This cage looks like it was designed to hold something massive, and keep
+it locked up for ages, yet it seems that the cage failed a long time ago for
+the door to the east lays broken and on one hinge.  The floor contains many
+bodies of those who ventured too deep into the Sanctuary.  Shattered weapons
+and pieces of armor lay thrown about and one more recent body in particular
+lay impaled on a spike in the wall.  
+~
+0 138477572 0
+D1
+~
+~
+0 0 20150
+S
+#20158
+Cage 2~
+This cage looks like it was designed to hold something massive, and keep
+it locked up for ages, yet it seems that the cage failed a long time ago for
+the door to the west lay in pieces in the entranceway.  Many rotting corpses
+hang from hooks which dangle on chains from the ceiling.  The smell of death
+is almost unbareable.  
+~
+0 138477572 0
+D3
+~
+~
+0 0 20150
+S
+#20159
+The Catwalk~
+~
+0 138477568 0
+D2
+~
+~
+0 0 20154
+D5
+~
+~
+0 0 20150
+S
+#20160
+The Catwalk~
+~
+0 138477568 0
+D0
+~
+~
+0 0 20154
+D2
+~
+~
+0 0 20161
+D5
+~
+~
+0 0 20145
+S
+#20161
+A Small Cage~
+~
+0 138477572 0
+D0
+~
+~
+0 0 20160
+S
+#0
+
+
+
+#SPECIALS
+M 20102 spec_breath_gas
+M 20104 spec_breath_frost
+M 20117 spec_breath_any
+M 20123 spec_breath_gas
+M 20125 spec_breath_lightning
+M 20138 spec_breath_fire
+M 20143 spec_breath_frost
+M 20161 spec_breath_gas
+S
+
+
+
+#RESETS
+M 0 20100 1 20100 1 100 Load Ike
+M 0 20101 10 20103 1 100 Load The Sanctuary Sentry
+M 0 20101 10 20107 1 100 Load The Sanctuary Sentry
+M 0 20102 5 20109 1 100 Load Portal Keeper
+M 0 20101 10 20112 1 100 Load The Sanctuary Sentry
+M 0 20103 12 20113 1 100 Load An Undead Sentry
+M 0 20101 10 20114 1 100 Load The Sanctuary Sentry
+M 0 20102 5 20116 1 100 Load Portal Keeper
+M 0 20117 1 20117 1 100 Load Arcane Master
+E 0 20117 0 19 0 100 (tainted) arcane book of spells is loaded held in the hands of Arcane Master
+E 0 20107 0 12 0 100 (black aura) a pitch black cloak is loaded about the shoulders of Arcane Master
+E 0 20108 0 8 0 100 (spiked) black leather boots is loaded on the feet of Arcane Master
+E 0 20109 0 20 0 100 (tainted) aura of death is loaded floating nearby of Arcane Master
+M 0 20101 10 20118 1 100 Load The Sanctuary Sentry
+M 0 20101 10 20121 1 100 Load The Sanctuary Sentry
+M 0 20123 1 20123 1 100 Load A Hydra
+E 0 20123 0 0 0 100 A hydra tooth is loaded as a light of A Hydra
+M 0 20101 10 20124 1 100 Load The Sanctuary Sentry
+M 0 20125 1 20125 1 100 Load Arcane Sentry
+E 0 20125 0 9 0 100 Black claw gauntlets is loaded on the hands of Arcane Sentry
+M 0 20101 10 20127 1 100 Load The Sanctuary Sentry
+M 0 20101 10 20128 1 100 Load The Sanctuary Sentry
+M 0 20101 10 20130 1 100 Load The Sanctuary Sentry
+M 0 20101 10 20131 1 100 Load The Sanctuary Sentry
+M 0 20101 10 20133 1 100 Load The Sanctuary Sentry
+M 0 20103 12 20133 1 100 Load An Undead Sentry
+M 0 20101 10 20134 1 100 Load The Sanctuary Sentry
+M 0 20103 12 20134 1 100 Load An Undead Sentry
+M 0 20135 1 20135 1 100 Load Arcane Mistress
+E 0 20135 0 16 0 100 Black spider wristguard is loaded on the right wrist of Arcane Mistress
+E 0 20134 0 13 0 100 A spider belt is loaded around the waist of Arcane Mistress
+M 0 20102 5 20137 1 100 Load Portal Keeper
+M 0 20138 1 20138 1 100 Load Arcane Demon Knight
+E 0 20138 0 5 0 100 A pitch black combat plate is loaded on the body of Arcane Demon Knight
+E 0 20101 0 6 0 100 A pitch black combat helmet is loaded over the head of Arcane Demon Knight
+E 0 20102 0 7 0 100 Pitch black leg plates is loaded on the legs of Arcane Demon Knight
+E 0 20103 0 10 0 100 (spiked) pitch black arm plates is loaded on the arms of Arcane Demon Knight
+E 0 20104 0 11 0 100 (spiked) (tainted) a pitch black shield is loaded as a shield of Arcane Demon Knight
+E 0 20105 0 21 0 100 (spiked) a pitch black combat face plate is loaded on the face of Arcane Demon Knight
+E 0 20106 0 17 0 100 (flaming) (tainted) black demon hellsword is loaded wielded of Arcane Demon Knight
+M 0 20103 12 20139 1 100 Load An Undead Sentry
+M 0 20101 10 20140 1 100 Load The Sanctuary Sentry
+M 0 20103 12 20140 1 100 Load An Undead Sentry
+M 0 20102 5 20142 1 100 Load Portal Keeper
+M 0 20143 1 20143 1 100 Load Arcane Undead Creature
+E 0 20143 0 1 0 100 Ring of the dead is loaded on the left finger of Arcane Undead Creature
+E 0 20142 0 3 0 100 Medallion of the dead is loaded around the neck (1) of Arcane Undead Creature
+M 0 20102 5 20144 1 100 Load Portal Keeper
+M 0 20103 12 20146 1 100 Load An Undead Sentry
+M 0 20103 12 20148 1 100 Load An Undead Sentry
+M 0 20104 3 20150 1 100 Load The Shadow Knight
+M 0 20103 12 20151 1 100 Load An Undead Sentry
+M 0 20103 12 20152 1 100 Load An Undead Sentry
+M 0 20103 12 20153 1 100 Load An Undead Sentry
+M 0 20104 3 20153 1 100 Load The Shadow Knight
+M 0 20103 12 20154 1 100 Load An Undead Sentry
+M 0 20161 4 20156 1 100 Load Arcane Demon
+M 0 20161 4 20157 1 100 Load Arcane Demon
+M 0 20161 4 20158 1 100 Load Arcane Demon
+M 0 20103 12 20160 1 100 Load An Undead Sentry
+M 0 20104 3 20160 1 100 Load The Shadow Knight
+M 0 20161 4 20161 1 100 Load Arcane Demon
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#20100
+say All who enter the Arcane Sanctuary have never come out.  Leave Now
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

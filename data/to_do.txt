@@ -1,0 +1,7 @@
+[`7Demiscus  `$]`3 Oct 29`*`3:`* test
+[`7Armond    `$]`3 Oct 31`*`3:`* Dual Wield same weight weapons
+[`7Armond    `$]`3 Nov  2`*`3:`* Seperate the Towers again.
+[`7Armond    `$]`3 Nov  2`*`3:`* Up chance of bonus pracs from questing, maybe adding chance for seach quests
+[`7Armond    `$]`3 Nov  5`*`3:`* character sets option in creation
+[`7Saradin   `$]`3 Nov  7`*`3:`* fix gskills balefire/ravage
+[`7Jaromir   `$]`3 Nov  7`*`3:`* Discuss rp/rk requirements and update helpfiles as needed

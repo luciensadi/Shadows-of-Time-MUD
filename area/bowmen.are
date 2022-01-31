@@ -1,0 +1,2009 @@
+#AREADATA
+Name Bowmen Club~
+Builders Valika~
+VNUMs 20300 20400
+Credits `4[`7Middle`4]`7 Abe       Bowmen Club~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#20300
+Rotten Left Over Food~
+A Blob~
+A rotten left over piece of food lies here 
+~
+A year old piece of cafeteria food lies here on the ground ready to
+consume anyone who dares enter the room. 
+~
+unique~
+0 0
+ABFG 32768 23554 0 0 -1  -1000 0
+50 5 5d10+1000 0d0+0 3d3+30 chomp
+-10 -10 -10 -20
+CDEFKQ E BEQR H
+stand stand none 504
+S DF large unknown
+M GRALL 20300 10~
+#20301
+Bookworm~
+A Bookworm~
+A tired hunter reads his books. 
+~
+An unsuccessful hunter decides to take a rest and read a few book to take
+his mind of animals. 
+~
+unique~
+0 0
+ABGUY 32768 16384 0 0 -1  -500 0
+46 8 10d10+1200 0d0+0 5d4+9 pierce
+-4 -2 -4 0
+JKNR B AQ EK
+stand stand male  1000
+AHMV ABCDEFGH medium unknown
+M GRALL 20301 10~
+#20302
+Lucky Hunter~
+A Lucky Hunter~
+A hunter who is an expert in hunting and seems to be very lucky today is here.
+~
+A hunter who has been spending most of his day in the animal course where
+the animals aren't dangerous, decides to take his luck to a more advanced
+course.  
+~
+giant~
+0 0
+ABGTYe 340 0 0 0 -1  -1000 0
+70 35 20d50+2500 0d0+0 5d5+20 crush
+-20 -20 -20 -20
+DFKNR AB HLQ IJ
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+F res I
+F vul P
+M GRALL 20302 10~
+#20303
+Reject Bowman~
+A Reject Bowman~
+An unlucky bowman is here. 
+~
+A reject bowman lies here crying softly to himself and muttering how he
+is such a loser. 
+~
+unique~
+0 0
+ABG 0 0 0 0 -1  -500 0
+46 6 5d10+800 0d0+0 4d4+8 pierce
+-3 -3 -3 -3
+KN A 0 0
+stand stand either 500
+HV D tiny unknown
+M GRALL 20303 10~
+#20304
+boasting bowman~
+A Boasting Bowman~
+A few archers boast with there awful voices. 
+~
+Archers boast back and forth about how one is better than the other. How
+can you take this any longer? 
+~
+unique~
+0 0
+ABG 0 0 0 0 -1  -750 0
+48 6 10d10+1000 0d0+0 5d4+10 thrust
+-5 -4 -5 -3
+KN A L 0
+stand stand either 750
+AHMV ABCDEFGHIJK tiny unknown
+M GRALL 20304 10~
+#20305
+Bartender~
+The Bartender~
+A bartender has gotten drunk and fell asleep. 
+~
+A stupid bartender had a bit too much alcohol and has gotten himself
+drunk. No use in trying to buy anything from him. 
+~
+unique~
+0 0
+ABG 0 68 0 0 -1  -1000 0
+48 7 10d10+850 0d0+0 4d5+6 wrath
+-4 -4 -4 -4
+JKN A 0 E
+sleep sleep either 666
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 20305 10~
+#20306
+Intermediate Archer Hunter~
+A Hunter~
+An intermediate archer is here. 
+~
+A pretty good archer is here getting ready to compete with you. 
+~
+unique~
+0 0
+ABG 0 0 0 0 -1  -1000 0
+60 20 50d10+2000 0d0+0 5d2+20 pierce
+-15 -15 -15 -15
+DKN A A EI
+stand stand either 1000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 20306 10~
+#20307
+A buffalo~
+A Buffalo~
+A big animal roams around here. 
+~
+A big bearlike creature is roaming around. It looks almost like a buffalo. 
+~
+bear~
+0 0
+ADG 0 0 0 0 -1  -1000 0
+60 14 10d10+1250 0d0+0 2d4+18 smash
+-12 -12 -12 -20
+DFJKN AV ABCIUV D
+stand stand none 400
+AGV ABCDEFHJKUV huge unknown
+F off EO
+F res E
+M GRALL 20307 10~
+#20308
+Novice Archer~
+A Novice Archer~
+An awful archer missing the target he was shooting at completely is here.
+~
+A novice archer who can't even hit a circle on a target that is 1 y. Away
+is over here. 
+~
+unique~
+0 0
+AB 0 0 0 0 -1  -500 0
+50 12 5d12+750 0d0+0 4d4+7 pierce
+-5 -5 -5 -10
+DF A B E
+stand stand either 500
+HV ABCDFK medium unknown
+M GRALL 20308 10~
+#20309
+Expert Archer~
+An Expert Archer~
+An expert marksmen hits the bullseye. 
+~
+An expert shoots arrows blindfolded and still hits the exact target. I
+would be wary of him if i were you. 
+~
+unique~
+0 0
+ABG 0 16 0 0 -1  -1000 0
+65 48 50d10+2500 0d0+0 5d2+50 stab
+-20 -20 -20 -25
+DKN 0 AEJLN H
+stand stand either 1500
+AHMV ABCDEFGHIJK large unknown
+#20310
+Judge of Skill~
+The Judge~
+A judge of the expert archers contest is here. 
+~
+An odd man with a cardboard paper and a pen for scoring is staring at the
+expert shooters. 
+~
+unique~
+0 0
+ABGU 256 0 0 0 -1  -800 0
+65 15 10d10+3000 0d0+0 6d2+20 thwack
+-20 -20 -20 -10
+DKN J A EH
+stand stand either 666
+HV ABCDEFGHIK medium unknown
+#20311
+Watcher~
+A Watcher~
+A man is here looking at all the archers. 
+~
+An odd man with binoculars sits and watches all the people practice and
+hunt. 
+~
+unique~
+0 0
+AG 0 2 0 0 -1  -300 0
+50 10 5d10+500 0d0+0 5d4+15 none
+-5 -5 -5 -10
+DEFK 0 A CDEFG
+stand stand none 500
+H DF tiny unknown
+M GRALL 20311 10~
+#20312
+Entario the Old~
+Entario the Old~
+An old grizzled man chained to the basement wall is here. 
+~
+An old man that goes by Entario the Old has a long grizzled white beard
+and is completely bald. He laughs at you as you glance at him. 
+~
+unique~
+0 0
+ABGTUY 2304 80 0 0 -1  0 0
+110 85 10d10+24000 10d10+14000 15d5+100 slash
+-100 -100 -100 -100
+CDEFK AB HIJK L
+stand stand male  10000
+AHMV ABCDEFGHIJK huge unknown
+#20313
+Human Target~
+A Human Target~
+A man with a target tied around a necklace on his neck is running around and flailing his arms.
+~
+A poor man is running for his life in hope he wont be shot by an arrow or
+stabbed with a thrown knife by a human hunter.  
+~
+unique~
+0 0
+ABG 0 1088 0 0 -1  -1000 0
+180 50 10d50+3000 0d0+0 5d3+30 thwack
+-30 -30 -30 -30
+DF ABK LQ J
+stand stand male  100
+HV ABCEF medium unknown
+#20314
+Human Hunter~
+A Human Hunter~
+A man who is hunting something that nobody has before is moving around warily.
+~
+A man with hunting equipment stands here getting ready to hunt the hardest animal every to be hunted before.
+~
+unique~
+0 0
+ABG 0 0 0 0 -1  -1000 0
+130 50 500d10+2700 0d0+0 5d3+40 pierce
+-20 -20 -20 -20
+DFI AB LQ H
+stand stand none 1000
+HV BCDEF giant unknown
+M GRALL 20314 10~
+#20315
+Shopkeeper~
+A Shopkeeper~
+A shopkeeper who is selling a bow and arrow is here.
+~
+~
+unique~
+0 0
+ABG 16 80 0 32768 -1  -1000 0
+60 0 10d50+2500 10d10+500 5d5+20 none
+-30 -30 -30 -30
+DFN ABKQ L J
+stand stand none 1000
+AHMV ABCDEF medium unknown
+M GRALL 20315 10~
+#0
+
+
+
+#OBJECTS
+#20300
+Buffalo Wings~
+Buffalo Wings~
+A piece of meat looking like a wing lies here.~
+~
+pill ABF AO
+0
+10 'heal' 'blindness' '' ''
+39 0 100 P
+ T 0 none~
+#20301
+Metallic Handcuffs~
+Metallic Handcuffs~
+A pair of shiny handcuffs lie here.~
+~
+armor ABG AM
+0
+F F F F 0
+105 30 1500 P
+A
+18 7
+A
+13 40
+A
+12 30
+A
+19 6
+ T 0 none~
+#20302
+Scorecard~
+a Scorecard~
+A piece of cardboard with numbers lies here.~
+~
+weapon AB AN
+0
+exotic 5 18 beating E
+54 50 10000 P
+A
+19 5
+A
+18 5
+A
+13 15
+A
+12 5
+ T 0 none~
+#20303
+Hunting Mace~
+a Hunting Mace~
+A mace that is used to kill animals close-up is here.~
+unknown~
+weapon ABI AN
+0
+mace 19 4 pound DG
+54 150 1000 P
+A
+20 -3
+A
+19 5
+A
+18 5
+A
+13 10
+ T 0 none~
+#20304
+Hunting Knife~
+a Hunting Knife~
+A knife meant for killing an animal up-close is here.~
+unknown~
+weapon ABI AN
+0
+dagger 19 4 pierce DH
+54 150 1000 P
+A
+20 -5
+A
+13 15
+A
+18 3
+A
+19 3
+A
+12 5
+ T 0 none~
+#20305
+Hunting Sword~
+a Hunting Sword~
+A sword is here for protection against bandits and any aggresive animals.~
+unknown~
+weapon ABI AN
+0
+sword 19 5 slash AD
+54 150 1000 P
+A
+19 6
+A
+18 6
+A
+12 5
+A
+13 10
+ T 0 none~
+#20306
+A Target~
+a Target~
+A target hanging off a leather chord has an arrow struck right in the middle of it.~
+unknown~
+armor 0 AC
+0
+ABCD ABCD ABCD ABCD 0
+60 150 1000 P
+A
+18 3
+A
+13 25
+A
+20 -5
+A
+12 10
+A
+19 3
+ T 0 none~
+#20307
+Recliner~
+`7a `1L`!e`1a`!t`1h`!e`1r `@R`2e`@c`2l`@i`2n`@e`2r`7~
+A comfortable recliner is here just wanting you to sit on it.~
+leather~
+furniture ABITa 0
+0
+B DHIJM EHK CEFGHI CEFGHI
+110 15000 100000 P
+ T 0 none~
+#20308
+Hunting Bow~
+a Hunting Bow~
+A large wooden bow that was finely crafted by experts lies here.~
+wood~
+weapon ABI AN
+0
+bow 19 4 pierce DH
+54 150 1000 P
+A
+19 6
+A
+18 6
+A
+13 15
+ T 0 none~
+#20309
+Hunting Arrow~
+a Hunting Arrow~
+An arrow used by hunters and crafted by experts lies here.~
+wood~
+arrow AB AO
+0
+0 10 8 0 H
+54 30 100 P
+ T 0 none~
+#20310
+Camoflauged Quiver~
+a Camoflauged Quiver~
+A quiver that blends into the background for hunting purposes is here.~
+leather~
+quiver AB AS
+0
+75 150 0 20309 0
+54 100 100 P
+A
+19 5
+A
+20 -4
+A
+18 4
+A
+13 18
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#20300
+Welcome to the Bowmen Club~
+A sign to your right says, "Welcome to the Bowmen Club" you look beyond
+the sign and see many archers and hunters waiting to compete against you. 
+Going south will take you towards the Practicing Area, where the
+inexperienced archers practice on targets.  
+~
+0 0 0
+D0
+~
+~
+0 0 3527
+D2
+~
+~
+0 0 20301
+S
+#20301
+Path Towards Practice Fields~
+Below your feet is a leaf covered dirt path that leads to those
+inexperienced archers.  A little ahead you see the road fork into two paths
+though.  
+~
+0 0 0
+D0
+~
+~
+0 0 20300
+D2
+~
+~
+0 0 20302
+S
+#20302
+Intersection~
+You come upon a fork in the path.  To the east is where all the
+intermediate hunters and archers hunt for buffalo.  It is meant for people
+with some experience.  To the south is where all the inexperienced archers
+practice, trying to hone their skills enough to join the intermediate
+archers.
+~
+0 0 0
+D0
+~
+~
+0 0 20301
+D1
+~
+~
+0 0 20314
+D2
+~
+~
+0 0 20313
+S
+#20303
+The Back Room~
+This is the backroom where the bartender stashes all his prized
+possessions and best drinks.  You notice a trap door on the ground but you
+may want to refrain from going in there.  
+~
+0 0 0
+D3
+~
+~
+0 0 20335
+D5
+~
+trap door~
+1 0 20359
+S
+#20304
+Practice Area~
+You see a few inexperienced archers trying their best at hitting a target
+10 yards away, however, most of them miss becoming stray arrows and
+sometimes stabbing the spectators..  
+~
+0 0 0
+D0
+~
+~
+0 0 20313
+D1
+~
+~
+0 0 20305
+D2
+~
+~
+0 0 20307
+S
+#20305
+Practice Area~
+You see a few inexperienced archers trying their best at hitting a target
+10 yards away, however, most of them miss becoming stray arrows and
+sometimes stabbing the spectators..  
+~
+0 0 0
+D1
+~
+~
+0 0 20306
+D2
+~
+~
+0 0 20308
+D3
+~
+~
+0 0 20304
+S
+#20306
+Practice Area~
+You see a few inexperienced archers trying their best at hitting a target
+10 yards away, however, most of them miss becoming stray arrows and sometimes
+stabbing the spectators..  
+~
+0 0 0
+D2
+~
+~
+0 0 20309
+D3
+~
+~
+0 0 20305
+S
+#20307
+Practice Area~
+You see a few inexperienced archers trying their best at hitting a target
+5 yards away, however, most of them miss becoming stray arrows and sometimes
+stabbing the spectators..  
+~
+0 0 0
+D0
+~
+~
+0 0 20304
+D1
+~
+~
+0 0 20308
+D2
+~
+~
+0 0 20310
+S
+#20308
+Practice Area~
+You see a few inexperienced archers trying their best at hitting a target
+5 yards away, however, most of them miss becoming stray arrows and sometimes
+stabbing the spectators..  
+~
+0 0 0
+D0
+~
+~
+0 0 20305
+D1
+~
+~
+0 0 20309
+D2
+~
+~
+0 0 20311
+D3
+~
+~
+0 0 20307
+S
+#20309
+Practice Area~
+You see a few inexperienced archers trying their best at hitting a target
+5 yards away, however, most of them miss becoming stray arrows and sometimes
+stabbing the spectators..  
+~
+0 0 0
+D0
+~
+~
+0 0 20306
+D2
+~
+~
+0 0 20312
+D3
+~
+~
+0 0 20308
+S
+#20310
+Practice Area~
+You see a few inexperienced archers trying their best at hitting a target
+1 yard away, however, most of them miss becoming stray arrows and sometimes
+stabbing the spectators..  
+~
+0 0 0
+D0
+~
+~
+0 0 20307
+D1
+~
+~
+0 0 20311
+S
+#20311
+Practice Area~
+You see a few inexperienced archers trying their best at hitting a target
+1 yard away, however, most of them miss becoming stray arrows and sometimes
+stabbing the spectators..  
+~
+0 0 0
+D0
+~
+~
+0 0 20308
+D1
+~
+~
+0 0 20312
+D3
+~
+~
+0 0 20310
+S
+#20312
+Practice Area~
+You see a few inexperienced archers trying their best at hitting a target
+1 yard away, however, most of them miss becoming stray arrows and sometimes
+stabbing the spectators..  
+~
+0 0 0
+D0
+~
+~
+0 0 20309
+D3
+~
+~
+0 0 20311
+S
+#20313
+Path Towards Practice Fields~
+Now that you are heading southward you should come to meet with the
+novice archers who are not very good at aiming.  Better watch carefully or
+an arrow might end up in you instead of the target.  
+~
+0 0 0
+D0
+~
+~
+0 0 20302
+D2
+~
+~
+0 0 20304
+S
+#20314
+Beginning of the Animal Hunting Course~
+As you go eastward you see a wooden sign.  Carved into the sign are the
+words, "Welcome to the Beginning of the Animal Hunting Course".  This must
+be where the more experienced archers test their skills.  
+~
+0 0 0
+D1
+~
+~
+0 0 20315
+D3
+~
+~
+0 0 20302
+S
+#20315
+Hunters Course~
+You are now on a dirt path in a wooded area.  All around you there are
+animals but you notice that to the north the animals are larger and probably
+easier to hit.  To the south the path continues but you don't notice any
+animals, thats probably where the experts are.  
+~
+0 0 0
+D0
+~
+~
+0 0 20316
+D2
+~
+~
+0 0 20325
+D3
+~
+~
+0 0 20314
+S
+#20316
+Animal Field~
+This is where most of the intermediate archers hunt for game.  The
+easiest thing to hit here are the buffalo, but be cautious because they may
+fight back.
+~
+0 0 0
+D0
+~
+~
+0 0 20317
+D1
+~
+~
+0 0 20321
+D2
+~
+~
+0 0 20315
+S
+#20317
+Animal Field~
+This is where some of the archers and hunters like to do their shooting
+because it is closer to the buffalo.  However they need to be the most
+cautious because it will be easier for the buffalo to cause damage to them
+if they are spotted by the buffalo before they can attack.  
+~
+0 0 0
+D0
+~
+~
+0 0 20318
+D1
+~
+~
+0 0 20320
+D2
+~
+~
+0 0 20316
+S
+#20318
+Animal Field~
+This is a grazing area for animals, but mainly buffalo.  They look like
+easy game but watch out.  They may look big and slow but they can cause some
+damage if you aren't careful.  
+~
+0 0 0
+D1
+~
+~
+0 0 20319
+D2
+~
+~
+0 0 20317
+S
+#20319
+Animal Field~
+This is a grazing area for animals, but mainly buffalo.  They look like
+easy game but watch out.  They may look big and slow but they can cause some
+damage if you aren't careful.  
+~
+0 0 0
+D1
+~
+~
+0 0 20324
+D2
+~
+~
+0 0 20320
+D3
+~
+~
+0 0 20318
+S
+#20320
+Animal Field~
+This is where some of the archers and hunter like to do their shooting
+because it is closer to the buffalo.  However they need to be the most
+cautious because it will be easier for the buffalo to cause damage to them
+if they are spotted by the buffalo before they can attack.
+~
+0 0 0
+D0
+~
+~
+0 0 20319
+D1
+~
+~
+0 0 20323
+D2
+~
+~
+0 0 20321
+D3
+~
+~
+0 0 20317
+S
+#20321
+Animal Field~
+This is where most of the intermediate archers hunt for game.  The
+easiest thing to hit here are the buffalo, but be cautious because they may
+fight back.  
+~
+0 0 0
+D0
+~
+~
+0 0 20320
+D1
+~
+~
+0 0 20322
+D3
+~
+~
+0 0 20316
+S
+#20322
+Animal Field~
+This is where most of the intermediate archers hunt for game.  The
+easiest thing to hit here are the buffalo, but be cautious because they may
+fight back.  
+~
+0 0 0
+D0
+~
+~
+0 0 20323
+D3
+~
+~
+0 0 20321
+S
+#20323
+Animal Field~
+This is where some of the archers and hunters like to do their shooting
+because it is closer to the buffalo.  However they need to be the most
+cautious because it will be easier for the buffalo to cause damage to them
+if they are not careful.  
+~
+0 0 0
+D0
+~
+~
+0 0 20324
+D2
+~
+~
+0 0 20322
+D3
+~
+~
+0 0 20320
+S
+#20324
+Animal Field~
+This is a grazing area for animals, but mainly buffalo.  They look like
+easy game but watch out.  They may look big and slow but they can cause some
+damage if you aren't careful.  
+~
+0 0 0
+D2
+~
+~
+0 0 20323
+D3
+~
+~
+0 0 20319
+S
+#20325
+Hunters Course~
+You continue on the dirt path and to the west you notice a wooden sign
+with the words, "Beginning of Advanced Hunters Course" The hunters with the
+best skills go westward, but you hear screams of pain from humans, and
+wonder if its really worth going there.  
+~
+0 0 0
+D0
+~
+~
+0 0 20315
+D1
+~
+~
+0 0 20326
+D3
+~
+~
+0 0 20363
+S
+#20326
+The End of the Hunters Course~
+You now have reached the end of the Hunters Course.  You see a building
+up ahead where it looks like most of the archers and hunters are taking a
+break and resting up.  
+~
+0 0 0
+D1
+~
+~
+0 0 20340
+D3
+~
+~
+0 0 20325
+S
+#20327
+A Path Towards The Lounge~
+You are now at the end of the path.  To the east is a door that leads to
+the lounge area where everyone rests up so they can go back and hunt or
+compete.  
+~
+0 0 0
+D1
+~
+~
+1 0 20328
+D3
+~
+~
+0 0 20340
+S
+#20328
+The Foyer of the Lounge~
+You enter the foyer of the lounge and on all the walls you see the heads
+of dead animals.  You feel goosebumps going down your back as you notice the
+head of a buffalo and rabbit are staring straight at you.  It would probably
+be a good idea to leave about now.  
+~
+0 0 0
+D0
+~
+~
+0 0 20329
+D1
+~
+~
+0 0 20333
+D2
+~
+~
+0 0 20336
+D3
+~
+~
+1 0 20327
+S
+#20329
+The TV Room~
+A few people are here sitting in chairs and watching the hunting channel
+over the television.  Every time a hunter finally shoots what he was hunting
+the room explodes in cheers.  
+~
+0 0 0
+D1
+~
+~
+0 0 20330
+D2
+~
+~
+0 0 20328
+S
+#20330
+The Strategy Room~
+A bunch of hunter strategize on how to hunt buffalo after they rest up. 
+A chalk board with X's and O's is in the back of the room and a binder
+filled with strategies lies on a table in the middle of the room.  
+~
+0 0 0
+D1
+~
+~
+0 0 20331
+D2
+~
+~
+0 0 20333
+D3
+~
+~
+0 0 20329
+S
+#20331
+The Bow Testing Room~
+An expert bowman is taking bows and testing the tightness of their
+strings and the strength of the bows.  People all over the world come over
+here to get their bows tested.  
+~
+0 0 0
+D1
+~
+~
+0 0 20332
+D2
+~
+~
+0 0 20334
+D3
+~
+~
+0 0 20330
+S
+#20332
+The Reject Bowmen Room~
+This is where all the unlucky bowmen reside.  They hide in this small
+corner of the lounge hoping they won't be noticed.  This part of the lounge
+has been labeled the "Loser Room" by all the lucky archers.  
+~
+0 0 0
+D2
+~
+~
+0 0 20335
+D3
+~
+~
+0 0 20331
+S
+#20333
+The Reading Room~
+A bunch of books with titles like, "Hunting for Idiots" and "Learn to
+Hunt in 24 hrs."  Are on shelves against the walls.  A few hunters have
+decided to take a break and catch up on some reading.  
+~
+0 0 0
+D0
+~
+~
+0 0 20330
+D1
+~
+~
+0 0 20334
+D2
+~
+~
+0 0 20337
+D3
+~
+~
+0 0 20328
+S
+#20334
+The Cafeteria~
+You come into the cafeteria and immediately notice rotten and molded food
+lying on the ground and stuck to the walls.  Most of the food being served
+looks like it is the insides of what the hunters hunt.  You should probably
+check for poison.  
+~
+0 0 0
+D0
+~
+~
+0 0 20331
+D1
+~
+~
+0 0 20335
+D2
+~
+~
+0 0 20338
+D3
+~
+~
+0 0 20333
+S
+#20335
+The Lounge's Bar~
+A bunch of drunk archers and hunters were being served by the bartender
+who soon wasnt in much better shape than any of the other hunters that are
+drunk.  
+~
+0 0 0
+D0
+~
+~
+0 0 20332
+D1
+~
+~
+0 0 20303
+D2
+~
+~
+0 0 20339
+D3
+~
+~
+0 0 20334
+S
+#20336
+The Recreational Room~
+You enter the room and hear the crash of a cue ball hitting another ball
+on a pool table.  There must be some serious betting considering the number
+of people in here.  
+~
+0 0 0
+D0
+~
+~
+0 0 20328
+D1
+~
+~
+0 0 20337
+S
+#20337
+The Arrow Testing Room~
+There are a few hunters in here showing their arrows to an expert hoping
+that he will fix them perfectly so they can go back out in the field and
+hunt.  
+~
+0 0 0
+D0
+~
+~
+0 0 20333
+D1
+~
+~
+0 0 20338
+D3
+~
+~
+0 0 20336
+S
+#20338
+The Shop~
+A few people are here wanting to buy things from the shopkeeper.  He has
+a bow an arrow that were made by the experts in the bow testing room and
+arrow testing room.  
+~
+0 0 0
+D0
+~
+~
+0 0 20334
+D1
+~
+~
+0 0 20339
+D3
+~
+~
+0 0 20337
+S
+#20339
+The Boasting Room~
+A few archers are in here boasting about how many animals they killed. 
+The noise they call their voiced is so awful you think you'll go deaf in a
+few minutes if you stay any longer.  
+~
+0 0 0
+D0
+~
+~
+0 0 20335
+D3
+~
+~
+0 0 20338
+S
+#20340
+A Fork in the Path~
+You now come upon a fork in the path.  To the east is where the
+comfortable chairs and refreshments are and south of here you can make out
+what looks like archers competing in a contest.  
+~
+0 0 0
+D1
+~
+~
+0 0 20327
+D2
+~
+~
+0 0 20341
+D3
+~
+~
+0 0 20326
+S
+#20341
+The Path Towards the Expert Bowmen~
+You continue down a windy path that will take you towards the competition
+where some of the best archers compete for a prize.  That path is long but
+it is probably worth it to go see the competition.  
+~
+0 0 0
+D0
+~
+~
+0 0 20340
+D2
+~
+~
+0 0 20342
+S
+#20342
+The Path Towards the Expert Bowmen~
+There is still quite a few paces to go and you can glimpse some of the
+archers getting ready to compete through the trees.  You better hurry or you
+might miss the beginning of the competition.  
+~
+0 0 0
+D0
+~
+~
+0 0 20341
+D2
+~
+~
+0 0 20343
+S
+#20343
+The Path Towards the Expert Bowmen~
+You think you are getting really close to the competition now, but you
+can't tell since there is a big tree blocking your way.  You better go east
+so you can go around it and get to the competition quickly.  
+~
+0 0 0
+D0
+~
+~
+0 0 20342
+D1
+~
+~
+0 0 20344
+S
+#20344
+The Path Towards the Expert Bowmen~
+You can now see the competition pretty clearly.  You see the first archer
+nocking an arrow and getting ready to shoot a target 50 yards ahead of him. 
+You see the arrow loosed but can't see where it hit.  Better keep going to
+see how well the first archer did.  
+~
+0 0 0
+D2
+~
+~
+0 0 20345
+D3
+~
+~
+0 0 20343
+S
+#20345
+The Path Towards the Expert Bowmen~
+You have finally reached the end of the path and can see the huge
+audience and judges overseeing the contest.  The audience cheers as you see
+the first archer just hit right in the middle of the target.  
+~
+0 0 0
+D0
+~
+~
+0 0 20344
+D1
+~
+~
+0 0 20346
+S
+#20346
+The Expert Bowmen Tournament.~
+Expert archers wait here in line until a spot opens up to the east for
+them to occupy.  This is not a very good spot to watch the tournament from
+though.  You may want to head a little eastward.  
+~
+0 0 0
+D1
+~
+~
+0 0 20347
+D3
+~
+~
+0 0 20345
+S
+#20347
+The Expert Bowmen Tournament~
+You now are in a good position to see the archers compete in the
+tournament.  You are currently behind the archer who was first to shoot an
+arrow and hit the target right in the middle.  Upward are the judges sitting
+on raised benches so they can oversee the competition.  
+~
+0 0 0
+D1
+~
+~
+0 0 20348
+D3
+~
+~
+0 0 20346
+D4
+~
+~
+0 0 20351
+S
+#20348
+The Expert Bowmen Tournament~
+The second archer has just knocked his arrow and the crowd stops their
+cheering to let the archer concentrate.  Then a child in the crowd cries,
+and the arrow is loosed completely missing the target.  The judge above the
+archer is writing down his score.  
+~
+0 0 0
+D1
+~
+~
+0 0 20349
+D3
+~
+~
+0 0 20347
+D4
+~
+~
+0 0 20352
+S
+#20349
+The Expert Bowmen Tournament~
+Here is the place for the third archer to shoot.  He knocks the arrow as
+the crowd silences.  He releases and the arrow hits in the inner circle. 
+The crowd cheers and it look like the judge sitting behind him is going to
+give him a good score.  
+~
+0 0 0
+D1
+~
+~
+0 0 20350
+D3
+~
+~
+0 0 20348
+D4
+~
+~
+0 0 20353
+S
+#20350
+The Expert Bowmen Tournament~
+This is the last spot in the line.  The archer knocks his arrow.  The
+whole crowd boo's and you can tell he is not very popular with the crowd. 
+Then a man throws a canteen at the archer's back and the arrow goes flying
+in the air.  Better hope the stray arrow doesn't hit you!  
+~
+0 0 0
+D3
+~
+~
+0 0 20349
+D4
+~
+~
+0 0 20354
+S
+#20351
+The Stairway to the Judges~
+You climb up a rotting wooden ladder to a platform behind the raised
+benches where the judges are overseeing the tournament.  If you want a
+really good view you should probably go north to where the judges are.  
+~
+0 0 0
+D0
+~
+~
+0 0 20355
+D1
+~
+~
+0 0 20352
+D5
+~
+~
+0 0 20347
+S
+#20352
+The Stairway to the Judges~
+You climb up a rotting wooden ladder to a platform behind the raised
+benches where the judges are overseeing the tournament.  If you want a
+really good view you should probably go north to where the judges are.  
+~
+0 0 0
+D0
+~
+~
+0 0 20356
+D1
+~
+~
+0 0 20353
+D3
+~
+~
+0 0 20351
+D5
+~
+~
+0 0 20348
+S
+#20353
+The Stairway to the Judges~
+You climb up a rotting wooden ladder to a platform behind the raised
+benches where the judges are overseeing the tournament.  If you want a
+really good view you should probably go north to where the judges are.  
+~
+0 0 0
+D0
+~
+~
+0 0 20357
+D1
+~
+~
+0 0 20354
+D3
+~
+~
+0 0 20352
+D5
+~
+~
+0 0 20349
+S
+#20354
+The Stairway to the Judges~
+You climb up a rotting wooden ladder to a platform behind the raised
+benches where the judges are overseeing the tournament.  If you want a
+really good view you should probably go north to where the judges are.  
+~
+0 0 0
+D0
+~
+~
+0 0 20358
+D3
+~
+~
+0 0 20353
+D5
+~
+~
+0 0 20350
+S
+#20355
+The Judging Room~
+You reach the benches that the judges are sitting.  You are behind the
+judge who is judging the expert archer who went last.  He writes the number
+10 on a scorecard and raises it to the crowd.  
+~
+0 0 0
+D1
+~
+~
+0 0 20356
+D2
+~
+~
+0 0 20351
+S
+#20356
+The Judging Room~
+You reach the benches that the judges are sitting.  You are behind the
+judge who is judging the expert archer who went last.  He writes the number
+0 on a scorecard and raises it to the crowd.  
+~
+0 0 0
+D1
+~
+~
+0 0 20357
+D2
+~
+~
+0 0 20352
+D3
+~
+~
+0 0 20355
+S
+#20357
+The Judging Room~
+You reach the benches that the judges are sitting.  You are behind the
+judge who is judging the expert archer who went last.  He writes the number
+7 on a scorecard and raises it to the crowd.  
+~
+0 0 0
+D1
+~
+~
+0 0 20358
+D2
+~
+~
+0 0 20353
+D3
+~
+~
+0 0 20356
+S
+#20358
+The Judging Room~
+You reach the benches that the judges are sitting.  You are behind the
+judge who is judging the expert archer who went last.  He writes the number
+0 on a scorecard and raises it to the crowd.  
+~
+0 0 0
+D2
+~
+~
+0 0 20354
+D3
+~
+~
+0 0 20357
+S
+#20359
+The Basement~
+The dark and damp basement of the Lounge has the look as though it has
+been abandoned for a long time.  You notice a man held prisoner down here
+who doesnt look very happy.  You should probably leave.  
+~
+0 8 0
+D2
+~
+~
+0 0 20360
+D4
+~
+trap door~
+1 0 20303
+S
+#20360
+The Basement~
+The basement continues and you now come upon an open space in the
+basement.  East and west of here are shelves that look like they contain
+storage items.  
+~
+0 0 0
+D0
+~
+~
+0 0 20359
+D1
+~
+~
+0 0 20362
+D3
+~
+~
+0 0 20361
+S
+#20361
+The Basement~
+On the shelves you see stacks and stacks of boxes filled with drinks. 
+But you better not take anything considering that you keep thinking you can
+see a man just out of your sight.  Probably better to leave.  
+~
+0 8 0
+D1
+~
+~
+0 0 20360
+S
+#20362
+The Basement~
+You now can see the shelves clearly and notice that the storage items
+seems to be a wine rack.  You think you can see a man hiding in the shadows,
+better not steal anything.  
+~
+0 8 0
+D3
+~
+~
+0 0 20360
+S
+#20363
+Advanced Hunting Course~
+You have now entered the Advanced Hunting Course.  This is where the best
+hunters and lucky hunters come to hunt the hardest game of all.  You can
+make out a few targets on what you think are animals to the west.  
+~
+0 0 4
+D0
+~
+~
+0 0 20364
+D1
+~
+~
+0 0 20325
+D2
+~
+~
+0 0 20365
+D3
+~
+~
+0 0 20366
+S
+#20364
+Advanced Hunting Course~
+You have now entered the Advanced Hunting Course.  This is where the best
+hunters and lucky hunters come to hunt the hardest game of all.  You can
+make out a few targets on what you think are animals to the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 20363
+D3
+~
+~
+0 0 20367
+S
+#20365
+Advanced Hunting Course~
+You have now entered the Advanced Hunting Course.  This is where the best
+hunters and lucky hunters come to hunt the hardest game of all.  You can
+make out a few targets on what you think are animals to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 20363
+D3
+~
+~
+0 0 20368
+S
+#20366
+Advanced Hunting Course~
+Here are a few more experienced hunters ready to take on what most people
+say are the hardest and smartest game of all.  You are a little closer to
+what is being hunted.  It now looks more like a gorilla with a target
+hanging off a cord on his neck.  
+~
+0 0 2
+D0
+~
+~
+0 0 20367
+D1
+~
+~
+0 0 20363
+D2
+~
+~
+0 0 20368
+D3
+~
+~
+0 0 20369
+S
+#20367
+Advanced Hunting Course~
+Here are a few more experienced hunters ready to take on what most people
+say are the hardest and smartest game of all.  You are a little closer to
+what is being hunted.  It now looks more like a gorilla with a target
+hanging off a cord on his neck.  
+~
+0 0 2
+D1
+~
+~
+0 0 20364
+D2
+~
+~
+0 0 20366
+D3
+~
+~
+0 0 20370
+S
+#20368
+Advanced Hunting Course~
+Here are a few more experienced hunters ready to take on what most people
+say are the hardest and smartest game of all.  You are a little closer to
+what is being hunted.  It now looks more like a gorilla with a target
+hanging off a cord on his neck.  
+~
+0 0 2
+D0
+~
+~
+0 0 20366
+D1
+~
+~
+0 0 20365
+D3
+~
+~
+0 0 20371
+S
+#20369
+Advanced Hunting Course~
+Now you come face to face with what everyone has been hunting.  What you
+mistook for a gorilla with a target hanging off a chord on his neck is
+actually a human being.  You think you may end up emptying the contents of
+your stomach as you see skulls and rotted corpses on the floor.  
+~
+0 0 4
+D0
+~
+~
+0 0 20370
+D1
+~
+~
+0 0 20366
+D2
+~
+~
+0 0 20371
+S
+#20370
+Advanced Hunting Course~
+Now you come face to face with what everyone has been hunting.  What you
+mistook for a gorilla with a target hanging off a chord on his neck is
+actually a human being.  You think you may end up emptying the contents of
+your stomach as you see skulls and rotted corpses on the floor.  
+~
+0 0 4
+D1
+~
+~
+0 0 20367
+D2
+~
+~
+0 0 20369
+S
+#20371
+Advanced Hunting Course~
+Now you come face to face with what everyone has been hunting.  What you
+mistook for a gorilla with a target hanging off a chord on his neck is
+actually a human being.  You think you may end up emptying the contents of
+your stomach as you see skulls and rotted corpses on the floor.  
+~
+0 0 4
+D0
+~
+~
+0 0 20369
+D1
+~
+~
+0 0 20368
+S
+#20372
+`1C`!a`1i`!n`&'`1s `8R`7o`&o`8m`7~
+This room belong to Cain.  He has his sweet DVD Player with surround
+sound in one corner of his room and a leather recliner in front of the TV. 
+A bed next to the recliner is against the wall with posters of Dodge Vipers.
+On the opposite wall from the bed is a nice computer.
+`2W`@e`2l`@c`2o`@m`2e `&t`7o `1C`!a`1i`!n`&'`1s `8R`7o`&o`8m `&:P`7
+~
+0 32768 0
+D5
+~
+~
+0 0 3054
+S
+#0
+
+
+
+#SPECIALS
+M 20312 spec_breath_lightning
+S
+
+
+
+#RESETS
+D 0 20303 5 1
+D 0 20327 1 1
+D 0 20328 3 1
+D 0 20359 4 1
+M 0 20311 5 20301 1 100 Load A Watcher
+M 0 20306 30 20303 1 100 Load A Hunter
+M 0 20308 12 20304 2 100 Load A Novice Archer
+M 0 20308 12 20305 2 100 Load A Novice Archer
+M 0 20308 12 20306 2 100 Load A Novice Archer
+M 0 20308 12 20307 2 100 Load A Novice Archer
+M 0 20311 6 20307 1 100 Load A Watcher
+M 0 20308 12 20308 2 100 Load A Novice Archer
+M 0 20311 6 20308 1 100 Load A Watcher
+M 0 20308 12 20309 2 100 Load A Novice Archer
+M 0 20311 6 20309 1 100 Load A Watcher
+M 0 20311 6 20310 1 100 Load A Watcher
+M 0 20311 6 20311 1 100 Load A Watcher
+M 0 20311 6 20312 1 100 Load A Watcher
+M 0 20306 30 20314 2 100 Load A Hunter
+M 0 20306 30 20315 3 100 Load A Hunter
+M 0 20311 5 20315 1 100 Load A Watcher
+M 0 20306 30 20316 3 100 Load A Hunter
+M 0 20307 15 20317 2 100 Load A Buffalo
+M 0 20306 30 20317 2 100 Load A Hunter
+M 0 20307 15 20318 3 100 Load A Buffalo
+M 0 20307 15 20319 3 100 Load A Buffalo
+M 0 20307 15 20320 2 100 Load A Buffalo
+M 0 20306 30 20320 2 100 Load A Hunter
+M 0 20306 30 20321 3 100 Load A Hunter
+M 0 20306 30 20322 3 100 Load A Hunter
+M 0 20307 15 20323 2 100 Load A Buffalo
+M 0 20306 30 20323 2 100 Load A Hunter
+M 0 20307 15 20324 3 100 Load A Buffalo
+M 0 20306 30 20325 2 100 Load A Hunter
+M 0 20306 30 20326 1 100 Load A Hunter
+M 0 20306 30 20328 1 100 Load A Hunter
+M 0 20306 30 20329 1 100 Load A Hunter
+M 0 20306 30 20330 1 100 Load A Hunter
+M 0 20306 30 20331 1 100 Load A Hunter
+M 0 20303 3 20332 3 100 Load A Reject Bowman
+M 0 20301 1 20333 1 100 Load A Bookworm
+M 0 20300 1 20334 1 100 Load A Blob
+M 0 20305 1 20335 1 100 Load The Bartender
+M 0 20306 30 20336 1 100 Load A Hunter
+M 0 20306 30 20337 1 100 Load A Hunter
+M 0 20315 1 20338 1 100 Load A Shopkeeper
+E 0 20308 0 17 0 100 A hunting bow is loaded wielded of A Shopkeeper
+E 0 20310 0 22 0 100 A camoflauged quiver is loaded over the shoulder of A Shopkeeper
+M 0 20304 2 20339 2 100 Load A Boasting Bowman
+M 0 20311 5 20345 1 100 Load A Watcher
+M 0 20309 6 20346 2 100 Load An Expert Archer
+M 0 20309 6 20347 1 100 Load An Expert Archer
+M 0 20309 6 20348 1 100 Load An Expert Archer
+M 0 20309 6 20349 1 100 Load An Expert Archer
+M 0 20309 6 20350 1 100 Load An Expert Archer
+M 0 20310 4 20355 1 100 Load The Judge
+E 0 20302 0 17 0 100 A scorecard is loaded wielded of The Judge
+M 0 20310 4 20356 1 100 Load The Judge
+M 0 20310 4 20357 1 100 Load The Judge
+M 0 20310 4 20358 1 100 Load The Judge
+M 0 20312 1 20359 1 100 Load Entario the Old
+O 0 20300 0 20359 0 100 Buffalo wings loaded to The Basement
+E 0 20301 0 16 0 100 Metallic handcuffs is loaded on the right wrist of Entario the Old
+M 0 20302 3 20363 1 100 Load A Lucky Hunter
+E 0 20305 0 17 0 100 A hunting sword is loaded wielded of A Lucky Hunter
+M 0 20302 3 20364 1 100 Load A Lucky Hunter
+E 0 20303 0 17 0 100 A hunting mace is loaded wielded of A Lucky Hunter
+M 0 20302 3 20365 1 100 Load A Lucky Hunter
+E 0 20304 0 17 0 100 A hunting knife is loaded wielded of A Lucky Hunter
+M 0 20314 6 20366 2 100 Load A Human Hunter
+M 0 20314 6 20367 2 100 Load A Human Hunter
+M 0 20314 6 20368 2 100 Load A Human Hunter
+M 0 20313 9 20369 3 100 Load A Human Target
+M 0 20313 9 20370 3 100 Load A Human Target
+E 0 20306 0 3 0 100 A target is loaded around the neck (1) of A Human Target
+M 0 20313 9 20371 3 100 Load A Human Target
+E 0 20306 0 3 0 100 A target is loaded around the neck (1) of A Human Target
+O 0 20307 0 20372 0 100 `7a `1l`!e`1a`!t`1h`!e`1r `@r`2e`@c`2l`@i`2n`@e`2r`7 loaded to `1C`!a`1i`!n`&'`1s `8R`7o`&o`8m`7
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#20300
+if is pc $n
+if rand 70
+emote reaches for your feet as you walk into the room.
+else
+if rand 40
+emote festers and expels a green gas.
+else
+if rand 20
+emote makes some grose sound as a rat moves near it.
+endif
+endif
+~
+#20301
+emote briefly looks up from his book to see who walked into the room then goes back to reading his book.
+~
+#20302
+emote hits the bulls eye as you walk in the room.
+~
+#20303
+emote mutters to himself `%Why? Why me?
+~
+#20304
+emote walks up to you to tell you all about how he is better than anyone here.
+~
+#20305
+emote opens up an eye to see who is in the room then plops his head back down.
+~
+#20306
+emote shoots for the target across the room.
+~
+#20307
+emote quietly munches on the grass.
+~
+#20308
+say Hey, watch this.
+emote carefully aims for the target.
+~
+#20311
+emote looks around the at the archers and studies their every movement.
+~
+#20314
+emote studies your every movement as you enter the room.
+~
+#20315
+if ispc $n
+if rand 70
+emote stairs off into space, unaware of your interance.
+else
+if rand 50
+emote glances up from his work
+say Can I help you find anything stranger?
+else
+if rand 30
+emote looks at you with a smile.
+say Greetings.
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

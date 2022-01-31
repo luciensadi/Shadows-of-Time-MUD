@@ -1,0 +1,266 @@
+#STOREOBJ
+Vnum 3392
+Owner Warder~
+Guild 15
+Coffer 0
+Keeper Shopkeep~
+KeeperVnum 10
+LPaid 1164848954
+#ITEM
+Cost 150
+#O
+Vnum 3817
+ID 3349106
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 3810
+ID 3343416
+Enchants 0
+PK 1
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 8500
+ID 3349722
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 3802
+ID 3349111
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 3803
+ID 3341499
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 3814
+ID 3349115
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 3813
+ID 3349108
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 2422
+ID 3349496
+Enchants 0
+PK 0
+Enchanted
+Nest 0
+Cond 80
+Wear -1
+Cost 1
+Affc 'reserved'   1 110  -1  -8  20          0
+Affc 'reserved'   1 110  -1   8  18          0
+Affc 'reserved'   1 110  -1   8  19          0
+Affc 'reserved'   1 110  -1  20  13          0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 17040
+ID 3349103
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 9847
+ID 3354300
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 9809
+ID 3354287
+Enchants 0
+PK 0
+Nest 0
+Cond 73
+Wear -1
+Cost 3535
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 3805
+ID 3349110
+Enchants 0
+PK 0
+Enchanted
+Nest 0
+ExtF 0
+Cond 80
+Wear -1
+Cost 0
+Affc 'reserved'   1 110  -1  -6  20          0
+Affc 'reserved'   1 110  -1  30  13          0
+Affc 'reserved'   1 110  -1   8  18          0
+Affc 'reserved'   1 110  -1   8  19          0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 3804
+ID 3349107
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 3810
+ID 3341500
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 2405
+ID 3354344
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 3811
+ID 3349113
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#SOLD
+Name an Aura of Power~
+Cost 150
+#SOLD
+Name `7Raven's Ring~
+Cost 150
+#SOLD
+Name `7Darkhound Skin Boots~
+Cost 150
+#SOLD
+Name (Corrupted) A string of teeth~
+Cost 150
+#SOLD
+Name (Corrupted) A string of teeth~
+Cost 150
+#SOLD
+Name (Corrupted) A string of teeth~
+Cost 150
+#SOLD
+Name `7Raven's Ring~
+Cost 150
+#SOLD
+Name `7Raven's Ring~
+Cost 150
+#SOLD
+Name (Corrupted) Sentry boots~
+Cost 150
+#SOLD
+Name (Ancient) Cuendillar Shield~
+Cost 150
+#SOLD
+Name (Corrupted) Tower shield~
+Cost 150
+#SOLD
+Name (Corrupted) Fine gauntlets~
+Cost 150
+#SOLD
+Name `7Darkhound Skin Boots~
+Cost 150
+#SOLD
+Name `7Darkhound Skin Boots~
+Cost 150
+#SOLD
+Name (Corrupted) Sentry boots~
+Cost 150
+#SOLD
+Name a Spiked Wrist Guard~
+Cost 150
+#SOLD
+Name (Corrupted) A red skull~
+Cost 150
+#End

@@ -1,0 +1,2207 @@
+#AREADATA
+Name Nagash Woods~
+Builders Nagash~
+VNUMs 16301 16401
+Credits Nagash - Demo Area~
+Security 10
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#16301
+A possessed corpse~
+A possessed corpse~
+A decaying form of a person stagers around blindly.
+~
+The remains of what apears to be a person shambles around, stairing
+around blindly.  Chunks of rotting flesh and clumps of dirt fall to the
+ground with each step.  As you gag from the smell you notice that it is
+staring at you.  
+~
+unique~
+0 0
+Ae 0 0 0 0 -1  -1000 0
+180 105 25d400+500 0d0+0 20d10+40 beating
+-4 -4 -4 -4
+EK BL b H
+stand stand none 100
+I ABCDEF medium unknown
+M ENTRY 16301 40~
+#16302
+Jayj preacher~
+Father Jayj~
+A frightened man of the cloth cowers at your approach.
+~
+This man cower from you pleading for his life.  It is clear to see that
+he has been perminently scared mentaly by the ordeal that has been forced
+apon him.  
+~
+unique~
+0 0
+ABa 336 1024 0 0 -1  1000 0
+250 0 1d1+999 1d1+999 2d4+30 divine
+0 0 0 0
+FHIK ABCDQ 0 0
+stand stand male  5000
+HMV ABCDEF medium unknown
+M GREET 16302 100~
+#16303
+Luciferian Complex~
+the Luciferian Complex~
+The Luciferian Complex is here, pulsing along with the walls.
+~
+A huge mass made up of hundreds apon hundreds of different demon melt
+into one being here.  All of their eyes lock onto you at the same time as if
+knowing it's next meal has arived.  It's many jaws open and chant the phrase
+Join Us at the same time.  As it moves, you notice that the walls move along
+with it.  
+~
+unique~
+0 0
+ABFTe 1360 64 129 33280 -1  -1000 0
+775 807 1d1+32200 1d1+32200 5d100+85 bite
+-125 -123 -123 -123
+FHK ABb CD 0
+stand stand none 50000
+HM ABCDEFGHIM large unknown
+#16304
+Tyrant~
+a Rampaging Tyrant~
+A Rampaging Tyrant is here looking a bit out of place.
+~
+A being made for pure distruction stands here.  It's flesh apears to be
+rotting but still looks strong enough to resist the sharpest blade.  The
+mark of many battles show on it's body in many spots and the tallons on it
+hands appear to be able to tear through the strongest armor.  
+ 
+It turns to look at you and says one word.....
+ 
+Stars
+~
+andor~
+0 0
+ABFT 0 64 1153 512 -1  -1000 0
+775 515 37000d1+1200 0d0+0 5d100+85 slash
+-228 -228 -228 -228
+CFH ABIJLb CD HK
+stand stand none 2000
+AHMV ABCDEFGHIJKU medium unknown
+M ENTRY 16304 100~
+#16305
+you little~
+a little you~
+A little you is running around tyring to stab you with a fork.
+~
+~
+unique~
+0 0
+ACFZ 0 64 0 0 -1  -1000 0
+200 156 10d1775+500 0d0+0 30d10+30 stab
+-18 -18 -18 -18
+FHK 0 0 0
+stand stand none 0
+HMV 0 medium unknown
+#16306
+linda~
+Posesed Linda~
+The posesed corpse of a once beautiful woman is here, dancing to unheard music.
+~
+~
+illian~
+0 0
+ABFGRTc 336 64 0 2 -1  -1000 0
+400 2000 50000d1+0 30000d1+100 50d50+110 thrust
+-220 -220 -220 -270
+ACFHIK ABIYb a H
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#16307
+man withered~
+a withered man~
+A withered looking old man stands here before the gates.
+~
+This man seems to haven't eaten a meal in a few months.  His hair, or
+what remains of it, lays in greasy clumps around his shoulders.  What
+remains of his clothing has long since lost any color of it's own.  He
+slowly turns a single glazed eye to you and grins at you with his empty gums
+showing.  
+~
+andor~
+0 0
+ABZe 0 0 0 0 -1  0 0
+200 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 16303 100~
+#0
+
+
+
+#OBJECTS
+#16301
+puddle~
+a mud puddle~
+A large mud puddle is here covering half of the path.~
+unknown~
+container 0 0
+0
+20 0 0 200 0
+0 0 0 P
+ T 0 none~
+#16302
+stained shovel~
+a Blood Stained Shovel~
+A blood encrusted shovel is planted in the ground before you.~
+unknown~
+weapon AB AN
+0
+exotic 75 1 smash EH
+110 40 0 P
+A
+17 -8
+A
+13 20
+A
+20 -3
+A
+19 8
+A
+18 8
+ T 0 none~
+#16303
+defiled bible~
+a Defiled Bible~
+An old ruined book sets open on the ground here emitting a swirling vortex of energy.~
+unknown~
+portal AB AO
+0
+0 H A BCDO 0
+110 10 0 P
+A
+13 10
+A
+19 3
+A
+18 3
+A
+12 50
+A
+17 -10
+A
+20 -7
+ T 0 none~
+#16304
+rusty key ring~
+a rusty key on a ring~
+An old rusty key looks like it's about to crumble if you touch it.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 10 0 P
+ T 0 none~
+#16305
+seraphim fallen skull~
+a Burnt Skull of a Fallen Seraphim~
+The chared skull of a once proud angel lays smuldering in a pile of ashes.~
+unknown~
+armor ABJYa AE
+0
+BDF BDF BDF BDF 0
+150 10 0 P
+S 'plague'   0  80  -1  25   0         24
+S 'focus'   0  80  -1  25   0         46
+A
+19 4
+A
+18 4
+A
+20 -10
+A
+12 35
+ T 0 none~
+#16306
+bench~
+a small wooden bench~
+A small finely carved bench is here for to rest on.~
+wood~
+furniture 0 0
+0
+CFG EIJKN G 0 0
+0 0 0 P
+ T 0 none~
+#16307
+cooler fridge~
+a small fridge~
+A mimi-fridge sits next to the computer desk emiting a low humming sound.~
+unknown~
+container 0 0
+0
+100000 AC 0 1000000 100000
+200 0 0 P
+ T 0 none~
+#16308
+couch big black~
+a big `7black`* couch~
+A big, well worn `7black`* couch sits along one of the walls.~
+unknown~
+furniture 0 0
+0
+C FHJKPQ GJ GKLMP GKLMP
+200 0 0 P
+ T 0 none~
+#16309
+box papa~
+a Papa Johns pizza box~
+A steaming box of pizza sits on the table tempting you.~
+unknown~
+container 0 0
+0
+800 A 0 8 0
+200 0 0 P
+ T 0 none~
+#16310
+pizza~
+a slice of pizza~
+A steaming fresh slice of pizza if here makeing your mouth water.~
+pizza~
+food 0 A
+0
+CFG CFG 0 0 0
+110 0 0 P
+ T 0 none~
+#16311
+baptismal pool~
+a baptismal pool~
+A pool once used for baptisms now sits filled with the blood of many.~
+unknown~
+fountain O 0
+0
+10000 10000 'blood' 0 0
+100 0 0 P
+ T 0 none~
+#16312
+window~
+a window looking into the church~
+A small window once allowing the church patrons to view the baptisms is here.~
+unknown~
+window 0 0
+0
+BCDGHIJKLMN 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+ T 0 none~
+#16313
+Kandarian Dagger~
+a Kandarian Dagger~
+An ancient dagger sits on table covered in dust.~
+unknown~
+weapon EJKa AN
+0
+dagger 75 1 stab CEG
+150 10 0 P
+A
+18 10
+A
+19 10
+A
+1 4
+A
+13 28
+A
+17 -10
+ T 0 none~
+#16314
+crack~
+a crack in the basement wall~
+A small crack can be seen in the wall here.~
+unknown~
+window 0 0
+0
+CDO 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+ T 0 none~
+#16315
+tyrant claw~
+a severed claw of the tyrant~
+The chiped claw of the tyrant lays here slowly pulsing with a life of its own.~
+unknown~
+key U A
+0
+0 0 0 0 0
+110 10 0 P
+ T 0 none~
+#16401
+skull crystal~
+a blue crystal skull~
+A very old blue crystal skull sits on the mantal looking at you.~
+unknown~
+book 0 AO
+0
+150 '' 0 0 0
+150 0 0 P
+S 'detect invis'   0  80  -1  25   0          4
+S 'detect hidden'   0  80  -1  25   0          6
+A
+17 -5000
+A
+13 5000
+A
+12 5000
+A
+18 1000
+A
+19 1000
+A
+1 100
+A
+2 100
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#16384
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16383
+D1
+~
+~
+0 0 16385
+S
+#16385
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16386
+D3
+~
+~
+0 0 16384
+S
+#16386
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16385
+S
+#16387
+In the maze~
+The path here is toatly surround by wall of trees and brush.  There are
+paths leading in all directions, all looking the same.  There is no telling
+what is at the end.  
+~
+0 0 0
+D0
+~
+~
+0 0 16364
+D1
+~
+~
+0 0 16388
+D2
+~
+~
+0 0 16373
+D3
+~
+~
+0 0 16364
+S
+#16388
+In the maze~
+The path here is toatly surround by wall of trees and brush.  There are
+paths leading in all directions, all looking the same.  There is no telling
+what is at the end.  
+~
+0 0 0
+D0
+~
+~
+0 0 16389
+D1
+~
+~
+0 0 16364
+D2
+~
+~
+0 0 16364
+D3
+~
+~
+0 0 16387
+S
+#16389
+In the maze~
+The path here is toatly surround by wall of trees and brush.  There are
+paths leading in all directions, all looking the same.  There is no telling
+what is at the end.  
+~
+0 0 0
+D0
+~
+~
+0 0 16364
+D1
+~
+~
+0 0 16364
+D2
+~
+~
+0 0 16388
+D3
+~
+~
+0 0 16390
+S
+#16390
+In the maze~
+The path here is toatly surround by wall of trees and brush.  There are
+paths leading in all directions, all looking the same.  There is no telling
+what is at the end.  
+~
+0 0 0
+D0
+~
+~
+0 0 16364
+D1
+~
+~
+0 0 16389
+D2
+~
+~
+0 0 16391
+D3
+~
+~
+0 0 16364
+S
+#16391
+In the maze~
+The path here is toatly surround by wall of trees and brush.  There are
+paths leading in all directions, all looking the same.  There is no telling
+what is at the end.  
+~
+0 0 0
+D0
+~
+~
+0 0 16390
+D1
+~
+~
+0 0 16364
+D2
+~
+~
+0 0 16364
+D3
+~
+~
+0 0 16392
+S
+#16392
+In the maze~
+The path here is toatly surround by wall of trees and brush.  There are
+paths leading in all directions, all looking the same.  There is no telling
+what is at the end.  
+~
+0 0 0
+D0
+~
+~
+0 0 16364
+D1
+~
+~
+0 0 16391
+D2
+~
+~
+0 0 16364
+D3
+~
+~
+0 0 16393
+S
+#16393
+In the maze~
+The path here is toatly surround by wall of trees and brush.  There are
+paths leading in all directions, all looking the same.  There is no telling
+what is at the end.  
+~
+0 0 0
+D0
+~
+~
+0 0 16394
+D1
+~
+~
+0 0 16392
+D2
+~
+~
+0 0 16364
+D3
+~
+~
+0 0 16364
+S
+#16394
+In the maze~
+The path here is toatly surround by wall of trees and brush.  There are
+paths leading in all directions, all looking the same.  There is no telling
+what is at the end.  
+~
+0 0 0
+D0
+~
+~
+0 0 16364
+D1
+~
+~
+0 0 16395
+D2
+~
+~
+0 0 16393
+D3
+~
+~
+0 0 16364
+S
+#16395
+The end of the maze~
+The maze comes to a sudden stop here.  The ground looks as if a huge
+explosion accured not to long ago.  A small piece of metal can be seen
+almost buried with the letters "Umbr" writen in red.  
+~
+0 0 0
+D3
+~
+~
+0 0 16394
+S
+#16396
+Nagash's Room of Buh~
+Welcome to Nagash's room of buh.  Many strange things are here awaiting
+your inspection.  To bad you cant look at them.  This where the "Man" does
+most of his thinking.  A tv playing Evil Dead 2 sits in the corner along
+with his Dreamcast and Playstation.  Mounded on the floor everywhere are
+empty Dr.  Pepper bottles and empty Papa John's Pizza boxes.  As you enter
+the "MAN" slowly turns to look at you and says one word.  `&BUH!!!  `* 
+~
+0 4 0
+S
+#16397
+Swallowed by the walls~
+The acid from the living wall slowly eat at your flesh, as if trying to
+digest you.  A ground shaking laugh shakes the putrid flesh.  A voice growls
+in the disiance.  
+ 
+Join Us.
+~
+0 8388612 0
+S
+#16398
+The Gates of Midian~
+A man appering to be nothing but skin and bones stands before a huge gate
+that appears to be constructed out of the bones of some unknown beast.  All
+around are mounds of severed body parts and a multitude corpes in various
+stages of decay.  The wall on all directions give the apperance of being
+made of living flesh, slowly pulsing with an heart of some unseen being.  
+~
+0 406914053 0
+D0
+~
+gate~
+1 0 16399
+S
+#16399
+Hall of Putrid Flesh~
+~
+0 406913029 0
+D0
+~
+~
+0 0 16397
+D1
+~
+~
+0 0 16397
+D2
+~
+gate~
+1 0 16398
+D3
+~
+~
+0 0 16400
+D4
+~
+~
+0 0 16397
+D5
+~
+~
+0 0 16397
+S
+#16400
+Room of Parts~
+~
+0 406913029 0
+D0
+~
+~
+0 0 16401
+D1
+~
+~
+0 0 16399
+D2
+~
+~
+0 0 16397
+D3
+~
+~
+0 0 16397
+D4
+~
+~
+0 0 16397
+D5
+~
+~
+0 0 16397
+S
+#16401
+Lair of the Complex~
+The living walls seem to come to an appex here merging into a hiddious,
+misshapen beast.  The room itself pulses at your approach as the beast moves
+to life.  
+~
+0 406913029 0
+D2
+~
+~
+0 0 16400
+S
+#16301
+The end of the bridge~
+The bridge here is in total ruin, looking as if it was crushed by unseen
+hands.  Crossing it again is not going to happen.  The path is surrounded
+but very dense brush and many different typs of trees in many stages of
+decay.  
+~
+0 1028 3
+D0
+~
+~
+0 0 16302
+S
+#16302
+Along the dirt path~
+Weeds and other types of small brush life dot the path further north. 
+Old wheel ruts and footprints mar the path, some filled with old stagnent
+water.  Forest life here seems to have died years ago.  Not so much as a
+singing bird graces the branches over head.  
+~
+0 0 3
+D0
+~
+~
+0 0 16303
+D2
+~
+~
+0 0 16301
+S
+#16303
+Fork in the path~
+The path splits into two seperate directions here.  The path to the left
+looks like it is heading towards an old cemetary.  The tall steples of a
+long forgoten church can just barly be seen cresting the tree tops.  The
+path that leads right appears to dead-ends into the trees and brush.  
+~
+0 2105344 3
+D1
+~
+~
+0 0 16361
+D2
+~
+~
+0 0 16302
+D3
+~
+~
+0 0 16304
+S
+#16304
+Path to the church~
+The path here gets a lot worse.  Thorny vines streach accross the path
+along with other types of vegitation cause an almost living carpet.  Ded
+trees seem to be becomeing more frequent the further the path goes, most
+with very large claw marks maring the trunks.  The faint smell of death and
+decay flows by on the slight breeze that doen't even stir the leaves and
+dirt.  
+~
+0 0 3
+D1
+~
+~
+0 0 16303
+D3
+~
+~
+0 0 16305
+S
+#16305
+Outside the cemetary gates~
+The smell of death is a lot stronger here.  The remains of two brick
+pillers lay on each side of the path.  The gate hangs shreded from a low
+hanging tree limb.  The path here looks as if something has been draged
+through here not long ago.  The smell of decay is starting to take on an
+underlaying smell of freshly turned soil.  
+~
+0 0 3
+D1
+~
+~
+0 0 16304
+D3
+~
+~
+0 0 16306
+S
+#16306
+Inside the cemetary~
+A wide assortment of of tombs, graves, and monuments cover a good area of
+land here.  The years of neglect can be clearly seen everywhere.  Tombstones
+lay where they fell, a few graves have trees sprouting from them, and
+statues lay toppled or even shattered on the ground.  Some graves look realy
+fresh where some of them looks as if something has crawled out of them.  
+~
+0 4 2
+D0
+~
+~
+0 0 16316
+D1
+~
+~
+0 0 16305
+D2
+~
+~
+0 0 16307
+D3
+~
+~
+0 0 16325
+S
+#16307
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 0
+D0
+~
+~
+0 0 16306
+D2
+~
+~
+0 0 16308
+D3
+~
+~
+0 0 16312
+S
+#16308
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 0
+D0
+~
+~
+0 0 16307
+D2
+~
+~
+0 0 16309
+D3
+~
+~
+0 0 16311
+S
+#16309
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 0
+D0
+~
+~
+0 0 16308
+D3
+~
+~
+0 0 16310
+S
+#16310
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D0
+~
+~
+0 0 16311
+D1
+~
+~
+0 0 16309
+D3
+~
+~
+0 0 16313
+S
+#16311
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D0
+~
+~
+0 0 16312
+D1
+~
+~
+0 0 16308
+D2
+~
+~
+0 0 16310
+D3
+~
+~
+0 0 16314
+S
+#16312
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D0
+~
+~
+0 0 16325
+D1
+~
+~
+0 0 16307
+D2
+~
+~
+0 0 16311
+D3
+~
+~
+0 0 16315
+S
+#16313
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D0
+~
+~
+0 0 16314
+D1
+~
+~
+0 0 16310
+S
+#16314
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D0
+~
+~
+0 0 16315
+D1
+~
+~
+0 0 16311
+D2
+~
+~
+0 0 16313
+S
+#16315
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D0
+~
+~
+0 0 16326
+D1
+~
+~
+0 0 16312
+D2
+~
+~
+0 0 16314
+S
+#16316
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D0
+~
+~
+0 0 16317
+D2
+~
+~
+0 0 16306
+D3
+~
+~
+0 0 16319
+S
+#16317
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D0
+~
+~
+0 0 16318
+D2
+~
+~
+0 0 16316
+D3
+~
+~
+0 0 16320
+S
+#16318
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D2
+~
+~
+0 0 16317
+D3
+~
+~
+0 0 16321
+S
+#16319
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D0
+~
+~
+0 0 16320
+D1
+~
+~
+0 0 16316
+D2
+~
+~
+0 0 16325
+D3
+~
+~
+0 0 16322
+S
+#16320
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D0
+~
+~
+0 0 16321
+D1
+~
+~
+0 0 16317
+D2
+~
+~
+0 0 16319
+D3
+~
+~
+0 0 16323
+S
+#16321
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D1
+~
+~
+0 0 16318
+D2
+~
+~
+0 0 16320
+D3
+~
+~
+0 0 16324
+S
+#16322
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D0
+~
+~
+0 0 16323
+D1
+~
+~
+0 0 16319
+D2
+~
+~
+0 0 16326
+S
+#16323
+Graveside isle~
+Walking between thr rows of graves is a real chore.  Weeds, vines, and
+other forms of vegitation choke the walkways as well as the loos dirt from
+fresh graves and open graves.  Just how did there come be fresh graves in
+these neglected plots?  
+~
+0 0 2
+D0
+~
+~
+0 0 16324
+D1
+~
+~
+0 0 16320
+D2
+~
+~
+0 0 16322
+S
+#16324
+Heading toward the shed~
+A path in this corner leads north to what seems to be a collapsing tool
+shed.  This must be where the grave keeper kept his tool-of-the-trade.  
+~
+0 0 2
+D0
+~
+~
+0 0 16348
+D1
+~
+~
+0 0 16321
+D2
+~
+~
+0 0 16323
+S
+#16325
+Dead center of the cemetary~
+The path through the center of the cemetary leads closer to the church. 
+All visable windows are either broken or have been boarded up for some time.
+The faint sound of weaping can just barly be heard comeing from inside.  
+~
+0 0 2
+D0
+~
+~
+0 0 16319
+D1
+~
+~
+0 0 16306
+D2
+~
+~
+0 0 16312
+D3
+~
+~
+0 0 16326
+S
+#16326
+The rear of the cemetary~
+Past these gates lies the defiled church.  More giant claw marks can be
+seen all over the ground.  
+~
+0 0 2
+D0
+~
+~
+0 0 16322
+D1
+~
+~
+0 0 16325
+D2
+~
+~
+0 0 16315
+D3
+~
+gate~
+1 0 16327
+S
+#16327
+Before the church~
+At this didtance the building almost looks like it's breathing.  What
+once was beautiful rose bushes are now nothing more than sharp thorny brush.
+An hiddious voice can be heard laughing some didtance away.  The huge doors,
+although badly damaged, still appear to as sound as ever.  
+~
+0 0 0
+D1
+~
+gate~
+1 0 16326
+D3
+~
+~
+4 16304 16329
+S
+#16328
+Confession booth~
+Amist the ruin and decay stands this one lone room.  Protected by the
+creator, this is the one safe haven in this hell.  
+~
+0 4195332 0
+D0
+~
+booth~
+3 0 16329
+S
+#16329
+The greating area~
+This is the area where the local preacher would great his many church
+members and guest.  Now it looks as if someone has took a torch to it.  The
+once proud religious symbols are now nothing but piles of melted metals or
+ashes.  
+~
+0 0 0
+D0
+~
+~
+0 0 16330
+D1
+~
+~
+4 16304 16327
+D2
+confession booth
+~
+booth~
+3 0 16328
+D3
+~
+~
+0 0 16333
+S
+#16330
+Baptismal room~
+~
+0 0 0
+D2
+~
+~
+0 0 16329
+S
+#16331
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16332
+D3
+~
+~
+0 0 16337
+S
+#16332
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16333
+D2
+~
+~
+0 0 16331
+D3
+~
+~
+0 0 16338
+S
+#16333
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16334
+D1
+~
+~
+0 0 16329
+D2
+~
+~
+0 0 16332
+D3
+~
+~
+0 0 16339
+S
+#16334
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16335
+D2
+~
+~
+0 0 16333
+D3
+~
+~
+0 0 16340
+S
+#16335
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16334
+D3
+~
+~
+0 0 16341
+S
+#16336
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16337
+D3
+~
+~
+1 0 16347
+S
+#16337
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16338
+D1
+~
+~
+0 0 16331
+D2
+~
+~
+0 0 16336
+S
+#16338
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16339
+D1
+~
+~
+0 0 16332
+D2
+~
+~
+0 0 16337
+D3
+~
+~
+0 0 16343
+S
+#16339
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16340
+D1
+~
+~
+0 0 16333
+D2
+~
+~
+0 0 16338
+D3
+~
+~
+0 0 16344
+S
+#16340
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16341
+D1
+~
+~
+0 0 16334
+D2
+~
+~
+0 0 16339
+D3
+~
+~
+0 0 16345
+S
+#16341
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16342
+D1
+~
+~
+0 0 16335
+D2
+~
+~
+0 0 16340
+S
+#16342
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16341
+D3
+~
+~
+1 0 16346
+S
+#16343
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16344
+D1
+~
+~
+0 0 16338
+S
+#16344
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16345
+D1
+~
+~
+0 0 16339
+D2
+~
+~
+0 0 16343
+S
+#16345
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16340
+D2
+~
+~
+0 0 16344
+S
+#16346
+~
+~
+0 0 0
+D1
+~
+~
+1 0 16342
+D5
+~
+~
+0 0 16357
+S
+#16347
+~
+~
+0 0 0
+D1
+~
+~
+1 0 16336
+D5
+~
+~
+0 0 16354
+S
+#16348
+Inside the shack~
+Dozens of old tools line the shelf.  The reminents of a half eaten meal
+sits on a table near the back of the shed.  It appears that someone used to
+live here.  
+~
+0 4 3
+D0
+~
+~
+0 0 16349
+D2
+~
+~
+0 0 16324
+S
+#16349
+~
+~
+0 0 0
+D0
+~
+curtain~
+3 0 16352
+D1
+~
+~
+0 0 16350
+D2
+~
+~
+0 0 16348
+S
+#16350
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16351
+D3
+~
+~
+0 0 16349
+S
+#16351
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16350
+D3
+curtain
+~
+curtain~
+3 0 16352
+S
+#16352
+~
+~
+0 0 0
+D1
+~
+curtain~
+3 0 16351
+D2
+~
+curtain~
+3 0 16349
+S
+#16353
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16354
+D3
+~
+~
+0 0 16355
+S
+#16354
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16353
+D3
+~
+~
+0 0 16356
+D4
+~
+~
+0 0 16347
+S
+#16355
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16356
+D1
+~
+~
+0 0 16353
+S
+#16356
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16354
+D2
+~
+~
+0 0 16355
+S
+#16357
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16358
+D3
+~
+~
+0 0 16359
+D4
+~
+~
+0 0 16346
+S
+#16358
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16357
+D3
+~
+~
+0 0 16360
+S
+#16359
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16360
+D1
+~
+~
+0 0 16357
+S
+#16360
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16358
+D2
+~
+~
+0 0 16359
+S
+#16361
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16362
+D3
+~
+~
+0 0 16303
+S
+#16362
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16363
+D3
+~
+~
+0 0 16361
+S
+#16363
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16364
+D2
+~
+~
+0 0 16362
+S
+#16364
+Before the cabin~
+An old run down cabin is just ahead.  All of the window are closed up and
+looks like they have been for for a while.  Not a single breeve can be felt
+here although the leaves and branches moving.  The steady "thump..... 
+thump can be heard as the porch swing bounces off the wall.
+~
+0 0 0
+D1
+~
+~
+0 0 16370
+D2
+~
+~
+0 0 16363
+S
+#16365
+~
+~
+0 0 0
+D3
+~
+~
+0 0 16366
+S
+#16366
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16365
+D3
+~
+~
+0 0 16367
+S
+#16367
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16368
+D1
+~
+~
+0 0 16366
+S
+#16368
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16369
+D2
+~
+~
+0 0 16367
+S
+#16369
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16370
+D1
+~
+~
+1 16315 16375
+D2
+~
+~
+0 0 16368
+S
+#16370
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16371
+D2
+~
+~
+0 0 16369
+D3
+~
+~
+0 0 16364
+S
+#16371
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16372
+D2
+~
+~
+0 0 16370
+S
+#16372
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16373
+D3
+~
+~
+0 0 16371
+S
+#16373
+A barely visibale path~
+The trees give what appears to be a small secluded path.  The shadows and
+darkness make it impossible to see anymore than a few feet down the path.  A
+large explosion can be heard in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 16387
+D3
+~
+~
+0 0 16372
+S
+#16374
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16375
+D1
+~
+~
+0 0 16377
+S
+#16375
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16376
+D1
+~
+~
+0 0 16378
+D2
+~
+~
+0 0 16374
+D3
+~
+~
+1 16315 16369
+S
+#16376
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16379
+D2
+~
+~
+0 0 16375
+D5
+~
+~
+1 0 16383
+S
+#16377
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16380
+D3
+~
+~
+0 0 16374
+S
+#16378
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16379
+D1
+~
+~
+1 0 16381
+D3
+~
+~
+0 0 16375
+S
+#16379
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16378
+D3
+~
+~
+0 0 16376
+S
+#16380
+~
+~
+0 0 0
+D3
+~
+~
+0 0 16377
+S
+#16381
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16382
+D3
+~
+~
+1 0 16378
+S
+#16382
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16381
+S
+#16383
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16384
+D4
+~
+~
+1 0 16376
+S
+#0
+
+
+
+#SPECIALS
+M 16306 spec_breath_fire
+S
+
+
+
+#RESETS
+D 0 16398 0 1
+D 0 16399 2 1
+D 0 16326 3 1
+D 0 16327 1 1
+D 0 16327 3 2
+D 0 16328 0 1
+D 0 16329 1 2
+D 0 16329 2 1
+D 0 16336 3 1
+D 0 16342 3 1
+D 0 16346 1 1
+D 0 16347 1 1
+D 0 16349 0 1
+D 0 16351 3 1
+D 0 16352 1 1
+D 0 16352 2 1
+D 0 16369 1 2
+D 0 16375 3 2
+D 0 16376 5 2
+D 0 16378 1 1
+D 0 16381 3 1
+D 0 16383 4 2
+O 0 16314 0 16386 0 100 A crack in the basement wall loaded to 
+M 0 16304 1 16395 1 100 Load a Rampaging Tyrant
+G 0 16313 0 0 0 100 A kandarian dagger is given to a Rampaging Tyrant
+G 0 16315 0 0 0 100 A severed claw of the tyrant is given to a Rampaging Tyrant
+O 0 16307 0 16396 0 100 A small fridge loaded to Nagash's Room of Buh
+P 0 721 9 16307 9 100 `*an ice cold can of dr. pepper put inside `*An Ice cold Can of Dr. Pepper
+O 0 16308 0 16396 0 100 A big `7black`* couch loaded to Nagash's Room of Buh
+O 0 16309 0 16396 0 100 A papa johns pizza box loaded to Nagash's Room of Buh
+P 0 16310 8 16309 8 100 A slice of pizza put inside a slice of pizza
+M 0 16307 1 16398 1 100 Load a withered man
+M 0 16303 1 16401 1 100 Load the Luciferian Complex
+G 0 16305 0 0 0 100 A burnt skull of a fallen seraphim is given to the Luciferian Complex
+O 0 16301 0 16302 0 100 A mud puddle loaded to Along the dirt path
+P 0 16304 1 16301 1 100 A rusty key on a ring put inside a rusty key on a ring
+M 0 16301 30 16307 1 100 Load A possessed corpse
+M 0 16301 30 16309 1 100 Load A possessed corpse
+M 0 16301 30 16310 1 100 Load A possessed corpse
+M 0 16301 30 16311 1 100 Load A possessed corpse
+M 0 16301 30 16312 1 100 Load A possessed corpse
+M 0 16301 30 16313 1 100 Load A possessed corpse
+M 0 16301 30 16315 1 100 Load A possessed corpse
+M 0 16301 30 16315 1 100 Load A possessed corpse
+M 0 16301 30 16316 1 100 Load A possessed corpse
+M 0 16301 30 16318 1 100 Load A possessed corpse
+M 0 16301 30 16319 1 100 Load A possessed corpse
+M 0 16301 30 16320 1 100 Load A possessed corpse
+M 0 16301 30 16321 1 100 Load A possessed corpse
+M 0 16301 30 16322 1 100 Load A possessed corpse
+M 0 16301 30 16324 1 100 Load A possessed corpse
+M 0 16302 1 16328 1 100 Load Father Jayj
+O 0 16306 0 16328 0 100 A small wooden bench loaded to Confession booth
+O 0 16311 0 16330 0 100 A baptismal pool loaded to Baptismal room
+O 0 16312 0 16330 0 100 A window looking into the church loaded to Baptismal room
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#16301
+say Join us.
+~
+#16302
+if clan 'shadow'
+stop
+else
+say Thank the creator your here!
+say I thought they had killed everyone.
+shud
+say You are here to save me......right $n?
+endif
+~
+#16303
+say Welcome stranger. It has been a while since i have seen another human.
+mob delay 2
+emot slowly tugs on his hair while appearing to listening to something.
+mob delay 2
+say Master said that he has been expecting you and that i should let you in.
+mob delay 1
+open gate
+mob delay 1
+say You better hurry. Master don't like to be kept waiting.
+mob delay 10
+close gate
+~
+#16304
+$ is here
+say Stars....
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

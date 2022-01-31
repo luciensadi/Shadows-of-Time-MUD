@@ -1,0 +1,1617 @@
+#AREADATA
+Name Stronghold~
+Builders None~
+VNUMs 8600 8699
+Credits `4[`7 None `4]`7 Ishamael  Stronghold~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#8600
+Grishom armoured man~
+Grishom~
+A thick armoured man stands here, peering at you.
+~
+This is a simple looking man, cloaked in dark clothing.  His eyes, seem
+to follow you as you move about the room conducting your business.  
+~
+unique~
+0 0
+ABZa 80 1024 0 0 -1  -1000 0
+250 100 1d1+999 1d1+999 100d100+1000 none
+-200 -200 -200 -200
+0 AB 0 0
+stand stand male  0
+0 0 medium unknown
+M GRALL 8600 100~
+#8601
+Shork~
+The large, broad-shoulderd man~
+A large, broad-shoulderd man stands here, next to the well.
+~
+This man is covered in filthy, and worn rags.  His hair is caked with
+dried blood, and there are several large open wounds covering his body.  He
+does not appear to be very healthy, as he slowly moves over to you.  
+~
+unique~
+0 0
+ABOTZ 336 8256 0 32768 -1  -1000 0
+700 200 400d400+1000 700d100+100 300d300+100 crush
+-200 -200 -200 -200
+0 P 0 0
+stand stand male  0
+0 0 giant unknown
+M GRALL 8601 100~
+#8602
+Guile~
+A large, blood-soaked Trolloc~
+A large, blood-soaked Trolloc stands here, peering around the altar.
+~
+This tolloc is massive in size, and has two large tusks extending from
+his boar like head.  He is covered in dull, obsidian colored armor, and
+wields a large claymore, in his right hand.  
+~
+troll~
+0 0
+AB 272 1088 0 0 -1  -1000 0
+700 0 500d500+1000 700d1000+1000 300d300+400 crush
+-200 -200 -200 -200
+CDFK 0 BE HK
+stand stand male  0
+ABHMV ABCDEFGHIJKUV giant unknown
+M GRALL 8602 100~
+#8604
+Sonja~
+An old, crippled looking woman~
+An old, crippled looking woman is here, slowly sweeping her gaze around the area.
+~
+This old woman, is cloaked in old brown rags, her skin is covered in
+wrinkles, and looks leathery in texture.  Her gaze slowly sweeps over you,
+as she notices you.  
+~
+troll~
+0 0
+ABT 272 1088 0 0 -1  -1000 0
+700 0 400d400+1000 700d1000+1000 300d300+1000 slash
+-100 -100 -100 -100
+ACDFK 0 BE HK
+stand stand female 0
+ABHMV ABCDEFGHIJKUV giant unknown
+M GRALL 8604 100~
+#0
+
+
+
+#OBJECTS
+#8600
+well~
+an old, stone well~
+An old, stone well is here filled with blood.~
+unknown~
+fountain 0 0
+0
+-1 -1 'blood' 0 0
+0 0 0 P
+ T 0 none~
+#8601
+skull~
+a tarnished blood-soaked skull~
+A tarnished, and blood-soaked skull is sitting here.~
+unknown~
+furniture ACE P
+0
+0 0 0 BD BD
+0 -31072 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#8600
+Between a Blackened Bridge and the Gatekeep~
+To the east, the stalwart gatekeep rises up towards the darkened skies. 
+To the south and north glassy stones of black lead the way to the two
+towers.  To the west, a bridge partially carved from the very mountain spans
+across a deep chasm to the north west and the main keep.  
+~
+0 141041669 8
+D0
+~
+~
+0 0 8607
+D1
+~
+portcullis~
+3 0 8608
+D2
+~
+~
+0 0 8601
+D3
+~
+~
+0 0 8609
+S
+#8601
+Outside the Southern Gatekeep~
+The glassy stones lead up to the southern half of the gatekeep.  A large
+iron door, splattered in blood bars the way into the tower.  To the north
+and west a bridge spans from this mountain to the next across a yawning
+chasm.  To the west the cliff quickly drops off and the view is obscured in
+the mist below.  
+~
+0 141041669 8
+D0
+~
+~
+0 0 8600
+D1
+~
+irondoor~
+3 0 8602
+S
+#8602
+Inside the Southern Gatekeep~
+Dried blood covers the walls, whether from attackers or from the
+occupants food source it remains to be seen.  A stout oak table dominates
+the room, with several chairs surrounding it.  Off to the corner, a large
+cauldron is constantly kept hot by hot coals.  
+~
+0 141041677 0
+D3
+~
+irondoor~
+3 0 8601
+D4
+~
+~
+0 0 8603
+S
+#8603
+At the Top of the Southern Gatekeep~
+This tower is complete with a roof.  Double lines of arrow slits rank the
+walls providing plenty of room for archers to rain arrows down upon
+intruders.  Quivers of arrows and crossbow bolts line the floor, including a
+bucket of oil for the use of flaming arrows.  A stairwell leads down below,
+while a covered walkway leads to the north joining the two towers.  
+~
+0 141041677 0
+D0
+~
+~
+0 0 8604
+D5
+~
+~
+0 0 8602
+S
+#8604
+Above the Portcullis~
+The walkway spans across the two towers, allowing access from one to the
+other.  Large cauldrons of oil and tar line the wall to the east.  Below,
+large steel grates allow pouring of oil on those attempting to break through
+the portcullis.  
+~
+0 141041677 0
+D0
+~
+~
+0 0 8605
+D2
+~
+~
+0 0 8603
+D5
+~
+~
+0 0 8608
+S
+#8605
+On Top of the Northern Gatekeep~
+From this advantage point, defenders can pin down attackers coming from
+the cave to the east.  A covered walkway leads south to the other tower.  A
+stack of boulders lies in a pile to the north, used when under siege to hurl
+on hapless attackers.  
+~
+0 141033485 0
+D2
+~
+~
+0 0 8604
+D5
+~
+~
+0 0 8606
+S
+#8606
+Inside the Northern Gatekeep~
+From the inside, it becomes clear the tower was carved from the very rock
+it rests on.  Smoothed to a glassy gleam, the six feet thick walls were
+likely crafted using the One Power.  A stairway leads upwards towards the
+top of the tower.  Large arrowslits line the walls to the north and south 
+~
+0 141041677 1
+D3
+~
+irondoor~
+3 0 8607
+D4
+~
+~
+0 0 8605
+S
+#8607
+Outside the Northern Gatekeep~
+Dried blood is splattered on the northern tower of the barbican.  Heads
+of humans rest on spikes far above, many reduced to weathered skulls.  A
+cast iron door bars the way to the east and access to the tower.  
+~
+0 141033477 1
+D1
+~
+irondoor~
+3 0 8606
+D2
+~
+~
+0 0 8600
+S
+#8608
+At the Portcullis~
+The portcullis is worked by two large spoked wheels, made from ebony and
+bound by blackened steel.  Thin slits on either tower provide archers a safe
+place to rain arrows upon would be attackers.  Small holes above shows
+stains of tar and oil, dropped upon attackers as they attempt to breach the
+gatekeep.  
+~
+0 138944525 0
+D1
+~
+wooden~
+3 0 8678
+D3
+~
+~
+3 0 8600
+S
+#8609
+On a Blackened Bridge~
+The wind howls across the wide bridge that joins the gatekeep with the
+citadel to the northwest.  Far below, wispy fog rolls at the pace of a snail
+between the two mountain peaks.  Rows of spiked poles tipped with human
+heads and skulls lines the edges of the bridge.  
+~
+0 141041669 8
+D0
+~
+~
+0 0 8610
+D1
+~
+~
+0 0 8600
+S
+#8610
+On a Blackened Bridge~
+At the center of the bridge, the wind seems at its strongest.  Gaps
+appear in the fog far below, presenting at last a real perspective of the
+great height this bridge is at.  Ravens fly in flocks high above, soaring on
+the wind currents making their endless circles for intruders.  
+~
+0 141041669 8
+D2
+~
+~
+0 0 8609
+D3
+~
+~
+0 0 8611
+S
+#8611
+Before a Blackened Bridge~
+Stretching across to the south east to join the inner keep with the
+gatekeep, the bridge spans the narrow gap between the two mountain peaks. 
+Far below a mountain stream can be seen flowing to the south.  
+~
+0 141041669 8
+D0
+~
+~
+0 0 8612
+D1
+~
+~
+0 0 8610
+S
+#8612
+Before the Ebony Gates~
+Large double ebony gates loom above to the north against the mountain. 
+Bound with steel, the gates show signs of withstanding fire and the harsh
+elements of the mountain environment.  To the south a bridge crosses the
+narrow gap between the two mountain peaks.  
+~
+0 141041669 1
+D0
+~
+ebonygates~
+3 0 8613
+D2
+~
+~
+0 0 8611
+S
+#8613
+The Cavernous Courtyard~
+The cavernous courtyard of the citadel has been carved directly into the
+mountain's side.  Great wooden arches spread across the cieling, combined
+with round iron pillars that support the massive weight of tons of stone. 
+The floor has been polished to a glossy black.  To the east a fountain
+surrounded by a haze bubbles quitely.  To the north a pair of golden doors
+bars the way deeper into the citadel.  
+~
+0 141041669 1
+D0
+~
+~
+0 0 8616
+D1
+~
+~
+0 0 8614
+D2
+~
+ebonygates~
+3 0 8612
+D3
+~
+~
+0 0 8615
+S
+#8614
+The Cavernous Courtyard~
+The floor here is wet from a crack in the fountain basin that spills the
+crimson red liquid that spreads slowly across the floor before eventually
+thickening.  Thick black smoke rises from torches that line the solid iron
+pillars that rise up to support the ceiling above.  
+~
+0 138944517 1
+D0
+~
+~
+0 0 8618
+D1
+~
+~
+0 0 8617
+D3
+~
+~
+0 0 8613
+S
+#8615
+The Cavernous Courtyard~
+The iron pillars show signs of rust, casting an orange-reddish hue to the
+otherwise blackened metal.  The courtyard opens up to the northeast, while a
+large room to the west contains piles of equipment and several chests.  
+~
+0 138944517 1
+D0
+~
+~
+0 0 8631
+D1
+~
+~
+0 0 8613
+D3
+~
+~
+0 0 8630
+S
+#8616
+Before Gold Gilded Doors~
+Human skulls form an archway above a six span set of golden gilded doors.
+Small candles rest inside the skulls giving life to long dead warriors in
+the form of burning eyes.  Short iron spikes protrude out from the door
+curving slightly upwards at their ends.  The courtyard supported by the
+massive pillars of iron spreads outward to the south.  
+~
+0 138944525 1
+D0
+~
+~
+0 0 8648
+D1
+~
+~
+0 0 8618
+D2
+~
+~
+0 0 8613
+D3
+~
+~
+0 0 8631
+S
+#8617
+A Blackened Fountain~
+A dark red liquid bubbles up from the mouth of a human statue, twisted
+and screaming in agony.  The liquid runs down the human form to settle in a
+wide basin.  Steam rises up from the pool of liquid, creating a haze around
+the fountain.  
+~
+0 141041677 1
+D3
+~
+~
+0 0 8614
+S
+#8618
+The Cavernous Courtyard~
+To the east an engraved archway depicting humans screaming in agony
+surrounds a large oak door.  A buzz of snarls and harsh orders eminates from
+behind the iron-bound door.  Occasional clashes of metal on metal ring out
+followed by cracks of a whip that silences all.  To the west a set of doors
+that rise high above presents a northern exit from the courtyard.  
+~
+0 138944517 1
+D1
+~
+~
+0 0 8619
+D2
+~
+~
+0 0 8614
+D3
+~
+~
+0 0 8616
+S
+#8619
+Entrance to the Barracks~
+Curses and guttural sounds clash together in a tumultuous roar.  Howls
+and shrieks from below are only quieted by the occasional crack of a whip. 
+The heavily traversed stairs have been polished to a dark sheen, only marred
+by deep cracks from shifiting of the mountain.  
+~
+0 138944525 1
+D3
+~
+~
+0 0 8618
+D5
+~
+~
+0 0 8620
+S
+#8620
+An Ebony Stairwell~
+The stairwell has planks of ebony wood fastened in the steps to prevent
+slipping.  Down below flickering light twinkles like stars on a clear night.
+Shadowy forms move about down below, likely the sources of the noise that
+echoes up the stairwell.  
+~
+0 141041677 1
+D4
+~
+~
+0 0 8619
+D5
+~
+~
+0 0 8621
+S
+#8621
+A Blackened Altar~
+A large altar dominates the center of the room, carved from obsidian with
+silver etching.  The center of the altar is a fade that rises above his four
+trolloc brothers that face outward in a defensive circle.  The eyeless one
+has out stretched hands, cupped as if to hold something.  Each of the
+trollocs also have their hands positioned in a similar manner, as if
+expecting some gift.  To the west, east, and south are large stone doors
+massive in width and height.  To the north appear to be training grounds.  
+~
+0 138944525 1
+D0
+~
+~
+0 0 8623
+D1
+~
+~
+0 0 8622
+D2
+~
+~
+0 0 8629
+D3
+~
+~
+0 0 8624
+D4
+~
+~
+0 0 8620
+M 500 H 500
+S
+#8622
+Eastern Barracks~
+The eastern side of the barracks houses two more trolloc clans.  To the
+north a horned skull is engraved on the large stone wall that blocks passage
+to the north.  To the south a red trident has been carved into the stone
+door that blocks passage to the south.  
+~
+0 141041677 1
+D0
+~
+crimsondoor~
+3 0 8625
+D2
+~
+tridentdoor~
+3 0 8626
+D3
+~
+~
+0 0 8621
+S
+#8623
+The Training Grounds~
+A large ring is set up in the middle of the room.  A sparring circle for
+training of warriors.  Along the walls are large tree pillars complete with
+rusted armor to provide immobile sparring targets.  Various weapons from
+axes to long claymores and catchpoles provide the master combatant weapons
+to train his new recruits.  
+~
+0 141033485 1
+D2
+~
+~
+0 0 8621
+S
+#8624
+The Western Barracks~
+The western end of the barracks, two large stone doors blocks the
+entrance into various trolloc clans.  To the north, a flaming serpent has
+been carved into the stone door.  To the south a clenched fist has been
+carved into the stone door.  Grunts and sharp commands can be heard
+reverberating from both doors, followed by an occasional crack of a whip
+from an upset master.  
+~
+0 141041677 1
+D0
+~
+flamingdoor~
+3 0 8627
+D1
+~
+~
+0 0 8621
+D2
+~
+clencheddoor~
+3 0 8628
+S
+#8625
+Within A Large Meeting Chamber~
+You are standing in a large meeting chamber, that appears to have not
+been used for some time.  The walls are stained a deep crimson, and there is
+several bones littering the floor.  Within the center of the room, there is
+a large stone table, with seats around it.  
+~
+0 141041677 1
+D2
+~
+crimsondoor~
+3 0 8622
+S
+#8626
+A Large Empty Chamber~
+You are standing in a large empty chamber, the room holds nothing except
+for a few pile of bones.  It appears as if they have been there for some
+time, due to the amount of dust that has collected on them.  The only exit
+back out of this room, is through the northern doorway.  
+~
+0 141041677 1
+D0
+~
+~
+3 0 8622
+S
+#8627
+The Room of the Serpent~
+You're within a large circular room, with several carvings of serpent's
+on the walls.  The room is a bright orange in color, and there is a
+blackened hole within the middle of the room.  It is fairly clear that this
+chamber was once used for some deadly ritual.  
+~
+0 138944525 0
+D2
+~
+~
+3 0 8624
+S
+#8628
+A Large Chamber~
+You're standing within an immense chamber, several devices are scattered
+about the room - that appear to be used for some type of punishment.  
+~
+0 141041673 1
+D0
+~
+clencheddoor~
+3 0 8624
+S
+#8629
+The Room of the Eye~
+The chamber you are within is very plain, the walls are made of stone,
+and the floor a polished obsidian.  The only thing that stands out about the
+room is the large carving of an eye within th center of the floor.  
+~
+0 141041677 1
+D0
+~
+~
+0 0 8621
+S
+#8630
+The Storeroom~
+The room is large and covered with supplies in a disorganized manner. 
+Barrels, boxes, and ropes are strewn about the room.  Piles of junk are
+heaped high along the northern wall.  Huge chests line the southern wall.  
+~
+0 141033485 0
+D1
+~
+~
+0 0 8615
+S
+#8631
+The Cavernous Courtyard~
+A large statue stands here between an iron gate to the west and the
+massive doors to the east.  The statue is of a tall human wrapped in a cloak
+with whip raised to drive on smaller trollocs.  A chain in the figures other
+hand leads to two darkhounds snarling in hunger from the smell of the hunt. 
+~
+0 138944517 0
+D1
+~
+~
+0 0 8616
+D2
+~
+~
+0 0 8615
+D3
+~
+~
+0 0 8632
+S
+#8632
+Before an Iron Gate~
+A large rusted iron door stands to the west, framed by two iron pillars. 
+Screams of agony escape through the metal door, only slightly muffled by the
+tons of rock.  Occasional cracks of a whip followed by shrieks of pain break
+the seemingly continuous barrage of screams.  
+~
+0 138944517 1
+D1
+~
+~
+0 0 8631
+D3
+~
+~
+0 0 8633
+S
+#8633
+A Dark Stairway~
+Shrieks of pain and the foul smell of sweat mixed in with blood and
+decaying flesh dominates the room in an assult on the senses.  Stairs lead
+deeper into the mountain, carved from black granite.  Dried blood covers the
+stairs as bleeding victims were dragged carelessly deeper into the darkness
+below.  
+~
+0 141041672 1
+D1
+~
+~
+0 0 8632
+D5
+~
+~
+0 0 8644
+S
+#8644
+The Dungeon~
+The odor and screams becomes almost overwhelming, only overcome by a
+lound maniacle laughter that resonates off the stone walls.  A soft orange
+glow eminates from the south providing the only light in this dungeon.  
+~
+0 141041677 1
+D2
+~
+~
+0 0 8645
+D4
+~
+~
+0 0 8633
+S
+#8645
+The Dungeon~
+To the west rusted iron bars prevent prisoners from escaping.  Through
+the bars various instruments of torture hang from pegs on the walls.  A
+large wrack sits in the center along with a chopping block.  Heat escapes
+from a large furnace to the south.  
+~
+0 141041677 0
+D0
+~
+~
+0 0 8644
+D2
+~
+~
+0 0 8647
+D3
+~
+~
+0 0 8646
+S
+#8646
+The Dungeon Cells~
+Prisoners hang from the walls supported by large iron chains, all that
+keeps the fairly lifeless forms from collapsing.  Besides the numerous
+torture equipment, a large cauldron bubbles and froths as steam rises
+towards the ceiling.  A small furnace complete with hot pokers is embedded
+into the southern wall.  Blood, bones, and decaying flesh covers the floor
+of the dungeon.  
+~
+0 141041677 1
+D1
+~
+~
+0 0 8645
+S
+#8647
+The Blacksmiths Furnace~
+In the center of the room a large furnace releases a scorching heat. 
+Several anvils form a ring around the furnace worked at all times by
+blacksmiths creating armor and weapons for the inhabitants of this keep. 
+Large racks line the walls with weapons and armors in various stages of
+completion.  Those items finished are carried up to the storeroom.  
+~
+0 141041677 0
+D0
+~
+~
+0 0 8645
+M 200 H 200
+S
+#8648
+A Granite Hallway~
+The hallway has been carved directly from the mountain.  The black
+granite has been polished to a glossy obsidian.  Ornate silver lamps are
+evenly spaced every two spans from which a thick black smoke curls upward as
+the light flickers in its search for oxygen.  The walls are otherwise bare
+and absent of any trappings.  Upon closer inspection, thin slits run up the
+walls, just wide enough for a hand to pass through.  
+~
+0 138944525 0
+D0
+~
+~
+0 0 8649
+D2
+~
+~
+0 0 8616
+S
+#8649
+A Granite Hallway~
+The hallway continues northward opening up into another large chamber. 
+The same slits seen previously along with the lamps continues to line the
+walls.  To the northern most end the sharp tips of a portcullis can be seen
+protruding from the ceiling.  It's possible this narrow hallway can be used
+as a secondary defense.  
+~
+0 138944525 0
+D0
+~
+~
+0 0 8650
+D2
+~
+~
+0 0 8648
+S
+#8650
+A Pillared Hall~
+Twisted thin pillars sprout from the granite floor in irregular
+intervals.  Figures in agony made from ivory curve around the pillars
+providing a stark contrast to the black pillars.  The hall extends to the
+west with a soft glow coming from the very western end.  
+~
+0 141041677 0
+D0
+~
+~
+0 0 8652
+D2
+~
+~
+0 0 8649
+D3
+~
+~
+0 0 8651
+S
+#8651
+A Pillared Hall~
+The twisted pillars thin out as they give way to a large rectangular
+table to the west.  Even further to the west lies a large throne, hidden in
+shadows placed at the head of the table.  
+~
+0 138944525 1
+D0
+~
+~
+0 0 8653
+D1
+~
+~
+0 0 8650
+D3
+~
+~
+0 0 8658
+S
+#8652
+A Pillared Hall~
+Each pillar seems to depict another form suffering even more.  Streaks of
+blood pour from some figures mouths to drip to the ground before draining
+through the floor.  To the west the pillars part giving room for long
+curving tables.  
+~
+0 138944525 1
+D2
+~
+~
+0 0 8650
+D3
+~
+~
+0 0 8653
+S
+#8653
+A Pillared Hall~
+The coldness of the air changes slightly as heat from behind the door to
+the north exudes warmth.  Sweet smells drift from the north in what could
+only be the kitchen.  That smell clashes with the blood that pours from the
+figurines.  
+~
+0 138944525 1
+D0
+~
+~
+0 0 8654
+D1
+~
+~
+0 0 8652
+D2
+~
+~
+0 0 8651
+D3
+~
+~
+0 0 8659
+S
+#8654
+The Kitchens~
+The steam is so thick from the pots boiling over it could be cut with a
+knife.  Cooks rush about preparing the particular food their master has
+decided to have for the current meal.  Shelves contain foods of all sort,
+most amazingly fresh considering the remoteness of this place.  To the west
+a thick oak door wards off the steam and heat from the cooking fires.  
+~
+0 138944525 1
+D0
+~
+~
+0 0 8656
+D2
+~
+~
+0 0 8653
+D3
+~
+~
+0 0 8655
+S
+#8655
+A Wine Cellar~
+Rows upon rows of bottled wine are arranged neatly in several large
+racks.  Kegs compliment the arrangement full of ale and beer.  Smaller kegs
+contain rare liqours from various lands.  A thin layer of dust covers most
+of the area, and the room is dry and cool, an ideal place for storage.  
+~
+0 141041677 1
+D1
+~
+~
+0 0 8654
+S
+#8656
+A Small Hallway~
+A small hallway, carved recently from the mountains rock winds to the
+east.  The floor is smooth, but the walls are still under construction. 
+Strong aromas waft in from the south as cooking continues in the kitchens
+all day long.  Accompanied by the pleasant smells are the clanging of pot
+and pans.  
+~
+0 138944525 1
+D1
+~
+~
+0 0 8657
+D2
+~
+~
+0 0 8654
+S
+#8657
+The Servants Quarters~
+A poorly outfitted living space provides habitation for the servants. 
+The rooms are tucked away from the trollocs that would probably find these
+humans a tasty meal.  The master of the keep would have it otherwise.  Firm
+beds with thick blankets provide little comfort this deep in the mountain.  
+~
+0 2629645 1
+D3
+~
+~
+0 0 8656
+S
+#8658
+The Dining Table~
+A large rectangular table rests here surrounded by twenty high backed
+chairs.  Behind the chairs a solitary pillar with an iron sconce and torch
+held by a figure in twisted agony provides lighting.  A dark and ominous
+throne lies at the western end of the table, still cloaked in shadows at
+even this close proximity.  Several serving platters adorn the table, each
+laden with everything from human limbs to animal carcasses cooked using a
+variety of methods.  
+~
+0 138944525 1
+D0
+~
+~
+0 0 8659
+D1
+~
+~
+0 0 8651
+D3
+~
+~
+0 0 8660
+S
+#8659
+A Pillared Hall~
+A large round table stands here supporting massive bowls full of blood
+and other exotic drinks from wine to liquor.  The granite floor is well worn
+here from the constant trudging back and forth from servants and the
+inhabitants of this chilling keep.  
+~
+0 138944525 1
+D1
+~
+~
+0 0 8653
+D2
+~
+~
+0 0 8658
+D3
+~
+~
+0 0 8661
+S
+#8660
+A Ghastly Throne~
+The throne consists of a tall backed obsidian chair surrounded by twisted
+gold and silver worked in the form of figures impaled on iron spikes. 
+Behind the throne a large iron wrought skull with glowing orange eyes hangs
+from large chains.  A few ravens are perched up on top of the skull, their
+beady black eyes missing nothing.  
+~
+0 141041676 1
+D0
+~
+~
+0 0 8661
+D1
+~
+~
+0 0 8658
+D2
+~
+~
+0 0 8662
+M 500 H 500
+S
+#8661
+Beside the Throne~
+The throne sits upon its dias to the south.  A large hanging carpet
+depicting inhuman beasts fighting soldiers in gleaming armor covers the
+entire western wall, a grand four spans in height.  To the east the hall of
+pillars disappears into the shadows.  
+~
+0 141041677 1
+D1
+~
+~
+0 0 8659
+D2
+~
+~
+0 0 8660
+D3
+~
+~
+0 0 8664
+S
+#8662
+A Marble Hallway~
+Statues of fully armored soldiers locked in combat with large trollocs
+lines the hallway.  Sconces holding smoldering torches are set in the marble
+stone above each set of statues.  A large oak door lies to the south with
+two crossed axes set on a black shield decorating its surface.  
+~
+0 140517389 1
+D0
+~
+~
+0 0 8660
+D2
+~
+~
+0 0 8663
+S
+#8663
+The War Room~
+A large oak table worked with silver and gold dominates the center of
+this oval room.  Large maps hang freely from the walls, some meticulously
+drawn others in a more artistic manner.  The table itself has several maps
+stretched out with various small figurines and symbols resting on their
+surfaces.  Arranged along the walls are shelves and chests full of even more
+maps.  
+~
+0 136847373 1
+D0
+~
+~
+0 0 8662
+S
+#8664
+A Secret Passage~
+Darkness pervades throughout, while the walls of the mountain seem to
+close in.  Rusted iron sconces line the walls, their torches long since
+burned out leaving a blackened scar on the wall where the torch once flamed
+brightly.  
+~
+0 141041677 1
+D1
+~
+~
+0 0 8661
+D3
+~
+~
+0 0 8665
+S
+#8665
+A Bend in the Secret Passage~
+The passage takes a sharp turn to the north carving its way through the
+darkness.  Grunts and harsh guttural language muffled by the walls and door
+to the east seeps through the blackness.  A chilling breeze comes in from
+the north, piercing skin, fur, and any clothing to the very bone.  
+~
+0 138944525 1
+D0
+~
+~
+0 0 8666
+D1
+~
+~
+0 0 8664
+S
+#8666
+Bottom of a Blackened Stairwell~
+Shards of light break through the gaps in an ill fitting iron door at the
+top of the stairs.  The darkness is held back providing some view of the
+slippery stairs.  Snow slowly melting covers the topmost stairs, its water
+trickling down the stairs to form a small puddle at the base.  A lone torch
+flickers from an iron sconce next to the door.  
+~
+0 138944521 1
+D2
+~
+~
+0 0 8665
+D4
+~
+~
+0 0 8667
+S
+#8667
+Before an Iron Door~
+A rusty iron door stands here failing to protect from the icy chill that
+enters into the passage.  Snow flakes squeeze through the cracks to drift
+quietly before landing on the floor and melting.  Stairs lead downwards into
+the darkness.  
+~
+0 141033485 1
+D0
+~
+~
+0 0 8668
+D5
+~
+~
+0 0 8666
+S
+#8668
+At the Cliff's Edge~
+The wind howls mercilessly bringing a blinding wall of snow.  A twisted
+tower, charred to black twists its way above the mountain side.  To the
+north the mountainside drops off drastically.  
+~
+0 141041669 8
+D1
+~
+~
+0 0 8669
+D2
+~
+~
+0 0 8667
+S
+#8669
+Before a Twisted Tower~
+The tower rises up above the peaks disappearing through the lower cloud
+layer.  Its surface is one of a dull black, almost as if the tower had been
+burned endlessly but still withstood the onslaught of flame.  The door to
+the east is framed by two carved sculptures depicting winged humans made
+from black stone speckled with green.  The figures appear to be singing.  
+~
+0 141041669 8
+D1
+~
+~
+0 0 8670
+D3
+~
+~
+0 0 8668
+S
+#8670
+Within the Tower~
+The tower is devoid of any furniture, the same flame that seems to have
+burned the outside has completely gutted the inside.  Ashes lie about the
+floor and stairwell that climbs to the top.  A large rope comes from the top
+and dangles to the ground.  Far above a large bell hangs deathly still even
+from the wind and snow that flutters in from the windows.  
+~
+0 141041677 0
+D3
+~
+~
+0 0 8669
+D4
+~
+~
+0 0 8671
+D5
+~
+~
+0 0 8674
+S
+#8671
+On the Blackened Stairway~
+The stairway winds along the inner edge of the twisted tower, seemingly
+as if the whole tower was partially melted into its current form.  The wind
+howls in from the windows, long since blasted out, sending flurries of
+snowflakes to swirl about the inside of the tower before resting far below. 
+~
+0 6823949 0
+D4
+~
+~
+0 0 8672
+D5
+~
+~
+0 0 8670
+S
+#8672
+On Top of the Tower~
+A large bell dominates the top of the stairs.  Used in times of war to
+warn for pending attacks, its size alone must shake the very stone of the
+mountain.  A large platform protrudes from the tower to the north.  Several
+tall alcoves line the inside of the tower, one span in depth.  
+~
+0 141041677 1
+D0
+~
+~
+0 0 8673
+D5
+~
+~
+0 0 8671
+S
+#8673
+A Suspended Platform~
+The large platform made of stone is supported by four large buttresses
+that sprout out from both above and below the towers wall.  The wind rips
+across the platform forcing one to steady themselves or be blow off.  An
+engraved bronze placard is affixed to the tower door to the south.  
+~
+0 524289 0
+D2
+~
+~
+0 0 8672
+S
+#8674
+Beneath the Tower~
+The journey continues through the mountain's oppressive weight.  Darkness
+reigns under the flagstones making travelling on the stairway very
+treacherous.  The air so cold, any sort of vegetation fails to find a niche
+in this barren underworld.  
+~
+0 141041677 0
+D4
+~
+~
+0 0 8670
+D5
+~
+~
+0 0 8675
+S
+#8675
+Beneath the Tower~
+Black water oozes through cracks in the carved walls, melted water from
+snow that has picked up sediment from the black granite.  The end of the
+stairwell is in sight just below.  
+~
+0 141041673 1
+D4
+~
+~
+0 0 8674
+D5
+~
+~
+0 0 8676
+S
+#8676
+Beneath the Tower~
+The stairwell ends its descent through the darkness.  Light enters from
+the west flickering from some source in the distance.  Rodents scurry back
+and forth, disappearing through cracks in the black granite.  Water has
+collected in shallow pools of water making travel slippery.  
+~
+0 141041673 1
+D1
+~
+~
+0 0 8677
+D4
+~
+~
+0 0 8675
+S
+#8677
+At a Large Pot~
+A large pot, decorated with human skulls hangs here from the ceiling
+suspended by a large rusty chain that disappears through a hole in the
+ceiling.  A second chain exits a second hole to snake its way down into the
+darkness.  A horn affixed to the wall will send an alert to those above to
+activate the crude conveyance system.  
+~
+0 138944521 0
+D3
+~
+~
+0 0 8676
+S
+#8678
+Before a Dark Gatekeep~
+A gatekeep made with black stone from the mountain rises up to the west. 
+To the south, an opening in the mountain face reveals a dark tunnel.  To the
+north, yet another tunnel entrance carves its way through the mountain side,
+a large stone wrapped in chains lies next to the entrance.  
+~
+0 138944517 1
+D0
+~
+~
+0 0 8679
+D2
+~
+~
+0 0 8680
+D3
+~
+wooden~
+3 0 8608
+S
+#8679
+The End of the Tunnel~
+The tunnel ends here opening up to the south.  Dark granite stones begin
+to form a road that leads to a massive gatekeep.  A large stone lies off to
+the east with iron chains wrapped around the stone forming a net.  High
+above the stone the mechanism that once would move the stone has since
+rusted apart.  
+~
+0 138944525 1
+D0
+~
+~
+0 0 8681
+D2
+~
+~
+0 0 8678
+S
+#8680
+A Stone Tunnel~
+The dark tunnel opens to the north revealing mountains of pitch black. 
+The rough-cut walls of the tunnel are the same black rock of the surrounding
+mountains, the walls and floor slick with foul-smelling water that
+continually seeps in at a trickle.  The tunnel extends to the south.  
+~
+0 138944525 1
+D0
+~
+~
+0 0 8678
+D2
+~
+~
+0 0 8685
+S
+#8681
+A Bend in the Tunnel~
+The tunnel makes a sharp bend to the south and east.  To the south the
+tunnel begins to gradually widen even further.  The torches flicker faster
+as a fresh breeze comes from the south.  To the east the tunnel begins its
+decent through the black rock.  
+~
+0 138944525 1
+D1
+~
+~
+0 0 8682
+D2
+~
+~
+0 0 8679
+S
+#8682
+A Torchlit Tunnel~
+Mineral veins of iron run up and down the walls, appearing like dried
+blood as the torch light flickers.  A thick smoke twirls from the torches
+placed high above, rising high above to vanish in the darkness.  
+~
+0 138944525 1
+D3
+~
+~
+0 0 8681
+D5
+~
+~
+0 0 8683
+S
+#8683
+A Torchlit Tunnel~
+The tunnel continues its burrowing through the black rock of the
+mountain.  A small stream of water runs down the tunnel to the east.  The
+tunnel is several feet wide and maintains its high arched sealing.  
+~
+0 138944525 1
+D1
+~
+~
+0 0 8684
+D4
+~
+~
+0 0 8682
+S
+#8684
+A Torchlit Tunnel~
+Heavily smoking torches flicker high above casting fluttering shadows
+throughout the tunnel.  Moisture gathers on the rock walls, providing a
+slick appearance and sustenance for moss to grow.  The tunnel climbs to the
+west pursued by the flickering light.  
+~
+0 138944525 1
+D3
+~
+~
+0 0 8683
+S
+#8685
+Bend in the Stone Tunnel~
+The rough-cut tunnel through the mountain of black rock takes a turn
+here, leading north and west.  The ebony rocks walls and floor make the make
+the darkness of the tunnel seem even more so.  One can not see very far in
+either direction.  
+~
+0 138944521 1
+D0
+~
+~
+0 0 8680
+D3
+~
+~
+0 0 8686
+S
+#8686
+Twisting Stone Tunnel~
+The tunnel is very narrow as a sharp curve allows access to the east or
+south from here.  The ceiling is but two spans high in this section of the
+passage, and the rock floor is slick with puddles of dirty water.  
+~
+0 138944521 1
+D1
+~
+~
+0 0 8685
+D2
+~
+~
+0 0 8687
+S
+#8687
+An Ebony Stone Tunnel~
+A dark, long tunnel, carved roughly out of the black stone of the
+blighted mountains, extends to the north.  A smooth slab of ebony stone
+rests against an opening in the tunnel to the south.  
+~
+0 138944517 1
+D0
+~
+~
+0 0 8686
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 8600 1 1
+D 0 8601 1 1
+D 0 8602 3 1
+D 0 8606 3 1
+D 0 8607 1 1
+D 0 8608 1 1
+D 0 8608 3 1
+D 0 8612 0 1
+D 0 8613 2 1
+D 0 8622 0 1
+D 0 8622 2 1
+D 0 8624 0 1
+D 0 8624 2 1
+D 0 8625 2 1
+D 0 8626 0 1
+D 0 8627 2 1
+D 0 8628 0 1
+D 0 8678 3 1
+O 0 8601 0 8608 0 100 A tarnished blood-soaked skull loaded to At the Portcullis
+M 0 8600 1 8612 1 100 Load Grishom
+O 0 8601 0 8614 0 100 A tarnished blood-soaked skull loaded to The Cavernous Courtyard
+O 0 8601 0 8615 0 100 A tarnished blood-soaked skull loaded to The Cavernous Courtyard
+O 0 8601 0 8616 0 100 A tarnished blood-soaked skull loaded to Before Gold Gilded Doors
+O 0 8600 0 8617 0 100 An old, stone well loaded to A Blackened Fountain
+M 0 8601 1 8617 1 100 Load The large, broad-shoulderd man
+O 0 8601 0 8618 0 100 A tarnished blood-soaked skull loaded to The Cavernous Courtyard
+O 0 8601 0 8619 0 100 A tarnished blood-soaked skull loaded to Entrance to the Barracks
+M 0 8602 1 8621 1 100 Load A large, blood-soaked Trolloc
+O 0 8601 0 8621 0 100 A tarnished blood-soaked skull loaded to A Blackened Altar
+O 0 8601 0 8627 0 100 A tarnished blood-soaked skull loaded to The Room of the Serpent
+O 0 8601 0 8631 0 100 A tarnished blood-soaked skull loaded to The Cavernous Courtyard
+O 0 8601 0 8632 0 100 A tarnished blood-soaked skull loaded to Before an Iron Gate
+O 0 8601 0 8648 0 100 A tarnished blood-soaked skull loaded to A Granite Hallway
+O 0 8601 0 8649 0 100 A tarnished blood-soaked skull loaded to A Granite Hallway
+O 0 8601 0 8651 0 100 A tarnished blood-soaked skull loaded to A Pillared Hall
+O 0 8601 0 8652 0 100 A tarnished blood-soaked skull loaded to A Pillared Hall
+O 0 8601 0 8653 0 100 A tarnished blood-soaked skull loaded to A Pillared Hall
+O 0 8601 0 8654 0 100 A tarnished blood-soaked skull loaded to The Kitchens
+O 0 8601 0 8656 0 100 A tarnished blood-soaked skull loaded to A Small Hallway
+O 0 8601 0 8658 0 100 A tarnished blood-soaked skull loaded to The Dining Table
+O 0 8601 0 8659 0 100 A tarnished blood-soaked skull loaded to A Pillared Hall
+M 0 8604 1 8660 1 100 Load An old, crippled looking woman
+O 0 8601 0 8665 0 100 A tarnished blood-soaked skull loaded to A Bend in the Secret Passage
+O 0 8601 0 8666 0 100 A tarnished blood-soaked skull loaded to Bottom of a Blackened Stairwell
+O 0 8601 0 8673 0 100 A tarnished blood-soaked skull loaded to A Suspended Platform
+O 0 8601 0 8677 0 100 A tarnished blood-soaked skull loaded to At a Large Pot
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#8600
+mob zecho `&A bell tolls loudly in the distance.`7
+if clan $n Tinker
+mob zecho Someone exclaims loudly '`1We do not allow Tinkers in here, $n.`7'
+mob transfer $n 3054
+else
+mob zecho Someone exclaims loudly '`1$n has been spotted Before the Ebony Gates!`7'
+break
+endif
+~
+#8601
+if clan $n Tinker
+mob zecho A man yells '`1Tinkers are not allowed here, $n!`7'
+mob transfer $n 3054
+else
+mob zecho A man yells '`1I have just spotted $n at a Blackened Fountain!`7'
+break
+endif
+~
+#8602
+if clan $n Tinker
+mob zecho A trolloc yells '`1No Tinkers allowed, $n!`7'
+mob transfer $n 3054
+else
+mob zecho A trolloc yells '`1$n is standing at a Blackened Altar!`7'
+break
+endif
+~
+#8604
+if clan $n Tinker
+mob zecho A woman hollers '`1You are not allowed to stay here, $n.`7'
+mob transfer $n 3054
+else
+mob zecho A woman hollers '`1$n has been spotted at A Ghastly Throne!`7'
+break
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

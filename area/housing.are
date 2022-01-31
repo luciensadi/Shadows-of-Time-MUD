@@ -1,0 +1,101 @@
+#AREADATA
+Name New area~
+Builders Ishamael~
+VNUMs 16200 16400
+Credits (null)~
+Security 10
+Flags C
+Version 3
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#16200
+fountain~
+a bubbling fountain of Kool-Aid~
+A large bubbling fountain of Kool-Aid is here~
+unknown~
+fountain G 0
+0
+2000000 2000000 'blood' 0 0
+1 0 0 P
+ T 0 none~
+#16201
+tinkerbell key~
+a small silver key~
+A small silver key lies here on the ground~
+silver~
+key 0 AO
+0
+0 0 0 0 0
+1 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#16200
+Tinker's Secret Treehouse~
+You gaze around at the vivid, bright colors of green and yellow that
+decorates t he walls, contrasting greatly to the red and blue balloons
+flowing randomly about.  In the center of the room is a small fountain, and
+doors can be seen going off into different directions.  The small appearance
+of the treehouse from outside is obvi ously an illusion, because inside this
+one room seems enormous.  Music plays over the m any speakers set in the
+corners of the room, and cushions cover the floor for places to sit
+comfortably.  
+~
+0 0 0
+D2
+~
+~
+4 16201 16201
+S
+#16201
+tinkerbell key~
+~
+0 0 0
+D0
+~
+~
+4 0 16200
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 16200 2 1
+D 0 16201 0 1
+O 0 16200 0 16200 0 100 A bubbling fountain of kool-aid loaded to Tinker's Secret Treehouse
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

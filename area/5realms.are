@@ -1,0 +1,355 @@
+#AREADATA
+Name 5 Realms~
+Builders None~
+VNUMs 4350 4449
+Credits `4[`7 Hard `4]`7 Diem      5 Realms`7~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#4350
+keeper monolith~
+A keeper~
+A keeper of the Grand Monolith stands, defending the master.
+~
+~
+unique~
+0 0
+ABFTZe 16720 64 0 0 -1  1000 0
+101 450 50d10+3000 1d1+1 10d10+100 crush
+-50 -50 -50 -50
+CFHK J 0 0
+stand stand none 500
+0 0 medium unknown
+#4352
+gold dragon~
+A Gold Dragon~
+A gold dragon sleeps on a pile of bones here.
+~
+~
+dragon~
+0 0
+ABFTe 16720 64 0 0 -1  1000 0
+775 600 50d10+32000 100d10+200 6d100+60 claw
+-120 -120 -120 -120
+HU AJ BEH 0
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+F vul FI
+#4357
+buddha guard~
+Buddha Guard~
+The official Buddha Guard is here.
+~
+~
+unique~
+0 0
+ABFT 340 64 0 0 -1  0 0
+120 200 100d10+5000 0d0+0 5d50+50 slash
+-30 -30 -30 -30
+CH J 0 0
+stand stand none 1000
+0 ADJX medium unknown
+#4358
+buddha guard~
+Buddha Guard~
+The official Buddha Guard is here.
+~
+~
+unique~
+0 0
+ABFT 340 64 0 0 -1  0 0
+120 200 100d10+5000 0d0+0 5d50+50 slash
+-30 -30 -30 -30
+CH J 0 0
+stand stand none 1000
+0 ADJX medium unknown
+#4360
+find familiar~
+A Find Familiar~
+A slave works here, attempting to bury his master.
+~
+~
+tarabon~
+0 0
+ABFT 320 9282 0 0 -1  -1000 0
+120 250 10d10+1000 4d100+8000 120d1+80 magic
+-40 -40 -40 -40
+HNU J 0 0
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+#4361
+magi magician magic wizard evil~
+The Magi~
+A great magician awaits, he is casting spells in preperation.
+~
+Before you stands a great magician, preparing for your encounter.  
+~
+doll~
+0 0
+ABFTe 336 8256 0 0 -1  -2500 0
+350 550 1d1+29999 1d1+5000 7d50+75 magic
+-100 -100 -100 -100
+AFHKO ILMNPQR ES 0
+stand stand none 1000
+EJMc ABCGHK medium unknown
+F vul GHJKO
+#0
+
+
+
+#OBJECTS
+#4351
+portal~
+`^T`6he `^G`6limmering `^P`6ortal`7~
+`^T`6he `^G`6limmering `^P`6ortal`7~
+unknown~
+portal 0 0
+0
+DFIJN 0 0 ADEFHIJL 0
+0 0 0 P
+ T 0 none~
+#4352
+dragon tattoo~
+a dragon tattoo~
+A tattoo is here, in the shape of a dragon.~
+unknown~
+armor ABKL AM
+0
+ABF ABF ABF BF 0
+109 0 0 P
+A
+13 79
+A
+19 6
+A
+18 6
+ T 0 none~
+#4355
+magi glove ~
+the gloves of the magi~
+A pair of dark gloves lays here.~
+unknown~
+armor ABJL AH
+0
+BDE BDE BDE BDE 0
+110 3 2500 P
+A
+18 6
+A
+19 6
+A
+20 -5
+A
+13 55
+ T 0 none~
+#4356
+ring magi~
+the ring of the magi~
+A dark ring lays here.~
+unknown~
+armor AB AB
+0
+ABF ABF ABF ABF 0
+110 1 7500 P
+A
+20 -5
+A
+13 90
+A
+12 25
+ T 0 none~
+#4357
+robe magi~
+the robe of the magi~
+(no description)~
+unknown~
+armor AB AK
+0
+ABF ABF ABF ABF 0
+110 15 0 P
+A
+17 -10
+A
+13 50
+A
+20 -5
+A
+19 5
+A
+18 5
+ T 0 none~
+#4360
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#4361
+no name~
+read the following before playing:~
+`7~
+unknown~
+map U 0
+0
+0 0 0 0 0
+0 5 0 P
+ T 0 none~
+#4362
+multiplay~
+multiplay~
++ to recover your other alts corpses.~
+unknown~
+map U 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#4370
+easter clue~
+an easter bunny clue~
+(no description)~
+unknown~
+map T A
+0
+0 0 0 0 0
+1 0 0 P
+ T 0 none~
+#4449
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+1 0 0 P
+A
+13 100
+A
+12 1000
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#4350
+The Entrance to the Grand Hall~
+A set of strong golden doors block your path north.  Two twin monoliths
+rise on each side of the doors, enscribed in an ancient language, probably
+of warning.  The room otherwise is plain.  A set of stairs lays infront of
+these golden doors, leading beyond imagination 
+~
+0 0 0
+D0
+~
+~
+3 24412 4351
+S
+#4351
+Corridor of Glory~
+A corrdidor lined with lamps, glowing with a golden glow.  Specs of
+glitter can be seen in the ground, relecting the glow from the light. 
+Another door is infront of you, challenging your path to glory.  
+~
+0 4194304 0
+D0
+~
+~
+3 24413 4352
+D2
+~
+~
+3 0 4350
+S
+#4352
+The Dragon's Lair~
+A grand room unfolds before you, a skull here and a human bone there. 
+This room doesnt seem to have any lights, but the shine of treasure all
+around nicely lights up the room.  A large pile of bones lies in the center
+of the room, with a slightly smaller pile to the right of it.  
+~
+0 4194304 0
+D2
+~
+~
+3 0 4351
+S
+#4360
+Above the Hole of Magic~
+Standing above the pit, loose gravel and rocks tempt you to fall into its
+darkness.  Sounds can be heard of conjuration and summoning.  Something
+power full exists below your feet.  
+~
+0 0 0
+D5
+~
+~
+0 0 4361
+S
+#4361
+The Pit of Unholy Magic~
+~
+0 4202496 0
+D4
+~
+~
+0 0 4360
+S
+#0
+
+
+
+#SPECIALS
+M 4352 spec_breath_any
+M 4360 spec_breath_acid
+M 4361 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 4350 0 2
+D 0 4351 0 2
+D 0 4351 2 2
+D 0 4352 2 2
+M 0 4350 4 4350 2 100 Load A keeper
+M 0 4350 4 4351 2 100 Load A keeper
+M 0 4352 2 4352 2 100 Load A Gold Dragon
+M 0 4352 2 4352 2 100 Load A Gold Dragon
+E 0 4352 0 18 0 100 A dragon tattoo is loaded none of A Gold Dragon
+M 0 4360 4 4360 4 100 Load A Find Familiar
+M 0 4360 4 4360 4 100 Load A Find Familiar
+M 0 4360 4 4360 4 100 Load A Find Familiar
+M 0 4360 4 4360 4 100 Load A Find Familiar
+M 0 4361 1 4361 1 100 Load The Magi
+E 0 4355 0 9 0 100 The gloves of the magi is loaded on the hands of The Magi
+E 0 4356 0 18 0 100 The ring of the magi is loaded none of The Magi
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

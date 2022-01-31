@@ -1,0 +1,1817 @@
+#AREADATA
+Name Kim Mansion~
+Builders Schala~
+VNUMs 16604 16704
+Credits Kimberly - Demo Area~
+Security 10
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#16604
+henry gardener~
+Henry the Gardener~
+An elderly man is here, looking mildly paniced.
+~
+Henry has seen many years of service with this family, and it shows.  
+~
+unique~
+0 0
+ABa 336 1024 0 0 -1  0 0
+0 0 1000d1+0 1000d1+0 0d0+0 none
+0 0 0 0
+0 ABCDQ 0 0
+stand stand male  0
+0 0 medium unknown
+M GREET 16604 100~
+#16605
+tiger fiora~
+Fiora, Schala's pet tiger~
+A large white feline sits here, eyeing you carefully.
+~
+Before you sits an unnaturally large tiger, her gleaming fangs bared
+slightly.  Her pale blue eyes turn to you as you approach, causing you to
+stop in your tracks and reconsider.  
+~
+unique~
+0 0
+ABTUZ 336 9217 17408 14 -1  0 0
+500 600 350000d1+0 10000d1+0 500d10+10 prick
+-150 -150 -150 -150
+FHMO ABb IL H
+stand stand female 0
+CV QV huge unknown
+#16606
+mistress cimorene~
+Grand Mistress Cimorene~
+A beautiful woman stands here, brushing her hair.
+~
+A rather tall woman stands here, brushing her long hair.  Her eyes seem
+to gaze through you, as if you are not even there.  
+~
+unique~
+6 17
+ABQe 1360 80 0 2 -1  0 0
+200 0 9000d1+0 13000d1+0 500d10+10 prayer
+0 0 0 0
+DEFO ABIb JKLQ HO
+stand stand female 0
+IM ABC medium unknown
+#16612
+rose wall~
+A rose covered wall~
+The wall starts to pulsate, and the roses begin moving towards you.
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#16613
+mistress cimorene~
+Grand Mistress Cimorene~
+An insane woman is here, pacing the floor and shrieking.
+~
+A tall woman stands here, her hair and eyes wild and alive with hate. 
+She moves about the room, shrieking and screaming at the walls, the bed,
+whatever she comes across.  Her clothing, or what's left of it, was in high
+fashion not too long ago...  
+~
+unique~
+18 5
+ABQe 1360 80 0 2 -1  0 0
+200 0 9000d1+0 13000d1+0 500d10+10 prayer
+0 0 0 0
+DEFO ABIb JKLQ HO
+stand stand female 0
+IM ABC medium unknown
+#0
+
+
+
+#OBJECTS
+#16604
+small silver key~
+small silver key~
+A simple key lies here, collecting dust.~
+unknown~
+key Ya A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#16605
+topaz~
+a large topaz~
+A large yellow stone lies here.~
+unknown~
+key TYa A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#16606
+fountain crystal~
+a crystal fountain~
+A fountain made of crystal stands here, spraying pink fluid.~
+unknown~
+fountain 0 0
+0
+5000 5000 'lemonade' 0 0
+0 0 0 P
+ T 0 none~
+#16607
+tiny window~
+a tiny window~
+A tiny window is here, covered with a heavy cloth.~
+unknown~
+window 0 0
+0
+BCDEFIO D A 0 0
+0 0 0 P
+ T 0 none~
+#16608
+torn page paper~
+a torn page~
+A piece of paper lies here, apparently torn from some book.~
+unknown~
+paper 0 A
+0
+0 0 0 0 0
+0 0 0 P
+E
+page~
+April 15...
+ 
+Today was rather uneventful.  The boys are still playing with their birthday
+toys. Dacia is coming along well with her needlepoint, or so Cimorene says...
+She isn't letting me see the girls much anymore, which I guess doesn't bother
+me as much as not being able to see my strong boys.
+ 
+April 20...
+ 
+I think I might be losing my mind... Imani asked me to help her get a book from
+one of the top shelves, and it took me nearly a full minute to even recognize
+my eldest daughter.  Cimorene says it's just my imagination, but 
+I go up to the observation tower, I get visions of th
+in what looks like the bas
+~
+ T 0 none~
+#16609
+diary book~
+a faded diary~
+A dusty book lies on the ground here.~
+unknown~
+paper 0 A
+0
+0 0 0 0 0
+0 0 0 P
+E
+diary~
+`                                                               every time
+`                                                      is horrifying monster
+`                                  ement...
+ 
+April 23...
+ 
+Am I living a dream?  What has happened to my reality?  I keep seeing that monster...
+that creature that is slowly eating my very being.  Cimorene is acting strangely too...
+She has sent Imani and Ryfenn away to school, and keeps Dacia locked up in her room all
+day... At least Castor and Pollux are still with me.  Castor is growing stronger
+by the day, and Pollux's mind is the most baffling I have ever known for someone so
+young....  It's hard to believe they are only nine years old...
+ 
+April 27...
+ 
+This is madness...utter madness...  Cimorene has been taking me down to the basement
+daily, never saying a word.  I try to fight her, but my strength has disappeared in a
+matter of days...  I don't know what's happening to me and my family...but this house...
+ 
+This house...is swallowing me...
+Cimorene...why...
+~
+ T 0 none~
+#16610
+mirror~
+a full-length mirror~
+An ornate, full-length mirror stands here, its frame etched with grime and dust.~
+unknown~
+window 0 0
+0
+DFIO D A 0 0
+0 0 0 P
+ T 0 none~
+#16611
+key~
+a stained key~
+An old key lies here, stained by some dark substance.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#16612
+throne~
+a gleaming throne~
+A gleaming throne stands here, covered in gold and jewels.~
+unknown~
+furniture 0 0
+0
+B DFGHIJ EHKR BCEH BCEH
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#16604
+The Garden Path to the Mansion~
+You have stumbled upon a wide path lined with various flowering shrubs. 
+Their perfume fills the air, but a slight hint of darkness and decay
+prevents the scene from being a perfect one...  The house looming ahead
+looks old, but in a way that suggests it was once the finest around.  
+~
+0 1024 0
+D0
+~
+~
+0 0 16605
+S
+#16605
+Continuing down the Path~
+As you move closer to the house, a darkness seems to envelope the world. 
+This fine, but very concealing mist shrouds the mansion from view.  The
+scent of the flowers is also masked, and there seems to be no other choice
+than to stumble along the path towards the house.  
+~
+0 0 0
+D0
+~
+~
+0 0 16606
+D2
+~
+~
+0 0 16604
+S
+#16606
+Before the Door to the Mansion~
+As you come upon the steps to the front door, the mist parts again,
+allowing an eyeful of the the granduer of the house.  Though not very tall,
+its observation tower still seems to pierce the sky.  All lines and angles,
+this place was surely a grand one in its finest days.
+~
+0 0 0
+D0
+~
+~
+1 0 16607
+D2
+~
+~
+0 0 16605
+S
+#16607
+Standing in the Entrance Hall~
+Glancing about the entranceway just seems to add to the curiousity of
+this place.  While there is no one to be seen, faint sounds of laughter and
+music can been heard echoing through the halls.  The marbled floor rings
+slightly with every step, and the eyes of the portraits on the walls seem to
+follow your every move.  
+~
+0 0 0
+D0
+~
+~
+0 0 16608
+D1
+~
+~
+0 0 16609
+D2
+~
+~
+1 0 16606
+D3
+~
+~
+0 0 16610
+S
+#16608
+The Center of the Entrance Hall~
+Moving onward into the house, you come across a large fountain,
+apparently cut from fine crystal.  Up close, it's obvious that it's spraying
+pink lemonade, but from a distance, it looked like something else...  
+~
+0 0 0
+D0
+~
+~
+0 0 16617
+D1
+~
+~
+0 0 16613
+D2
+~
+~
+0 0 16607
+D3
+~
+~
+0 0 16611
+S
+#16609
+In Front of the Coat Closet~
+Moving off to the right, you find a hat stand next to a heavy oak door,
+apparently leading to a coat closet.  
+~
+0 0 0
+D0
+~
+~
+0 0 16613
+D1
+~
+~
+1 16604 16612
+D3
+~
+~
+0 0 16607
+S
+#16610
+A Corner of the Entrance Hall~
+Moving to the left of the door you find an empty corner of the hall, save
+for one small plant on an end table.  Its leaves are still fresh and alive
+and slightly moist.  Apparently that gardener took his job seriously.  
+~
+0 0 0
+D0
+~
+~
+0 0 16611
+D1
+~
+~
+0 0 16607
+S
+#16611
+Towards the Left Hallway~
+Continuing to move forward on the left side of the hall, you come across
+a dimly lit hallway decorated in various shades of red.  The deep blood
+color of the carpeting contrasts sharply with the cold white of the marble
+tiles of the entrance hall.  One corner of the carpeting is pulled up
+slightly, and something can be seen sticking out from under it...  
+~
+0 0 0
+D0
+~
+~
+0 0 16615
+D1
+~
+~
+0 0 16608
+D2
+~
+~
+0 0 16610
+D3
+~
+~
+0 0 16650
+S
+#16612
+Inside the Coat Closet~
+You are inside a coat closet.  Won't you hang up your coat?
+~
+0 513 0
+D3
+~
+~
+1 16604 16609
+S
+#16613
+Towards the Right Hallway~
+Continuing on the right side of the hall, you come across a hall.  Quite
+in contrast to the hall on the other side, this one is brightly lit and done
+in shades of purple.  It seems much more inviting than its opposite.  
+~
+0 0 0
+D0
+~
+~
+0 0 16614
+D1
+~
+~
+0 0 16616
+D2
+~
+~
+0 0 16609
+D3
+~
+~
+0 0 16608
+S
+#16614
+Before the Family Portait~
+Coming upon the far corner of the hall, you are greeted by a large
+picture, apparently a portait of the family who owns this house.  They are a
+rather handsome bunch, the man and woman and their three daughters and twin
+sons.  The mother stands out the most though, and her eyes seem to come to
+life, creating an icy feeling to the area.
+~
+0 0 0
+D2
+~
+~
+0 0 16613
+D3
+~
+~
+0 0 16617
+S
+#16615
+A Corner of the Entrance Hall~
+You have come across another blank corner of the hall, only this one has
+a stand with a rather large book set on it.  Flipping its pages, it becomes
+apparent that this is a guest book.  Will you write your name down?  
+~
+0 0 0
+D1
+~
+~
+0 0 16617
+D2
+~
+~
+0 0 16611
+S
+#16616
+The Purple Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 16634
+D3
+~
+~
+0 0 16613
+S
+#16617
+Before the Golden Hall~
+You are now standing before a hall decked in fine gold colored
+furnishings.  It's almost amazing to see what sort of things you can have
+set in gold...  
+~
+0 0 0
+D0
+~
+~
+0 0 16618
+D1
+~
+~
+0 0 16614
+D2
+~
+~
+0 0 16608
+D3
+~
+~
+0 0 16615
+S
+#16618
+The Golden Hallway~
+The sheer brightness of this hallway seems to contrast too greatly with
+the dark feeling of before.  Perhaps the house is playing tricks, releasing
+hatred and pain one moment, then joy and laughter the next.  Maybe it means
+to drive all newcomers insane, so it may keep them locked up in here... 
+Much like that statue over there...  
+~
+0 0 0
+D0
+~
+~
+0 0 16619
+D2
+~
+~
+0 0 16617
+S
+#16619
+The Golden Hallway~
+More statues, more golden trinkets, more lavishly upholstered chairs and
+ottomans, but now they all seem to have a good sized layer of dust covering
+them, whereas the ones before were mostly clean.  A full-sized mirror stands
+against one wall, its old glass distorting the reflection of the room
+slightly...  Or so it seems...  
+~
+0 0 0
+D0
+~
+~
+0 0 16620
+D2
+~
+~
+0 0 16618
+S
+#16620
+The Intersection~
+~
+0 0 0
+D0
+~
+~
+0 0 16621
+D1
+~
+~
+0 0 16623
+D2
+~
+~
+0 0 16619
+D3
+~
+~
+0 0 16622
+S
+#16621
+The Golden Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16628
+D2
+~
+~
+0 0 16620
+D4
+~
+hatch~
+1 0 16704
+S
+#16622
+A Silent Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 16620
+D3
+~
+~
+0 0 16626
+S
+#16623
+A Seemingly Empty Hallway...~
+What a strange place this is...  The walls are completely blank, and the
+carpeting is an uninteresting shade of yellow.  There is only one piece of
+furniture, a small table with a book on it.  The other direction looks much
+more interesting...  But wait...  Was that...  Music?  
+~
+0 0 0
+D1
+~
+~
+0 0 16624
+D3
+~
+~
+0 0 16620
+S
+#16624
+A Dead End?~
+The music is more audible now, but the source is still unidentifible.  It
+sounds a bit like a flute, or some other wind instrument, being played
+softly and slowly.  Curiouser and curiouser...  
+~
+0 0 0
+D0
+~
+~
+4 16605 16625
+D3
+~
+~
+0 0 16623
+S
+#16625
+The Mysterious Music Room~
+This room is bright and cheerful, it's soft yellow walls filled with
+bookshelves on three sides, and shelves of various trinkets on the fourth. 
+The owner must be very well-to-do to have all this finery in one place, and
+must have...good...security...
+~
+0 0 0
+D2
+~
+~
+4 16605 16624
+R RANDOM 16604 20~
+S
+#16626
+The End of the Hall~
+~
+0 0 0
+D0
+~
+~
+1 16604 16627
+D1
+~
+~
+0 0 16622
+S
+#16627
+A Secret Room~
+~
+0 1 0
+D2
+~
+~
+1 16604 16626
+S
+#16628
+Before the Guest Rooms~
+~
+0 0 0
+D0
+~
+~
+0 0 16629
+D1
+~
+~
+1 0 16631
+D2
+~
+~
+0 0 16621
+D3
+~
+~
+1 0 16630
+S
+#16629
+An Intersection~
+~
+0 0 0
+D0
+~
+~
+0 0 16667
+D2
+~
+~
+0 0 16628
+S
+#16630
+The Blue Guest Room~
+~
+0 0 0
+D1
+~
+~
+1 0 16628
+D2
+~
+~
+0 0 16632
+S
+#16631
+The Green Guest Room~
+~
+0 0 0
+D2
+~
+~
+0 0 16633
+D3
+~
+~
+1 0 16628
+S
+#16632
+The Blue Guest Room~
+~
+0 0 0
+D0
+~
+~
+0 0 16630
+S
+#16633
+The Green Guest Room~
+~
+0 0 0
+D0
+~
+~
+0 0 16631
+S
+#16634
+The Purple Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 16635
+D3
+~
+~
+0 0 16616
+S
+#16635
+A Bend in the Purple Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16636
+D3
+~
+~
+0 0 16634
+S
+#16636
+The Purple Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16638
+D1
+~
+~
+1 0 16637
+D2
+~
+~
+0 0 16635
+S
+#16637
+The Lavender Bedroom~
+~
+0 0 0
+D3
+~
+~
+1 0 16636
+S
+#16638
+The Purple Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16639
+D2
+~
+~
+0 0 16636
+S
+#16639
+The Purple Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16641
+D2
+~
+~
+0 0 16638
+D3
+~
+~
+1 0 16640
+S
+#16640
+The Aqua Bedroom~
+~
+0 0 0
+D1
+~
+~
+1 0 16639
+S
+#16641
+The Purple Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16642
+D2
+~
+~
+0 0 16639
+S
+#16642
+The Purple Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16644
+D1
+~
+~
+1 0 16643
+D2
+~
+~
+0 0 16641
+S
+#16643
+The Magenta Bedroom~
+~
+0 0 0
+D3
+~
+~
+1 0 16642
+S
+#16644
+The Purple Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16645
+D2
+~
+~
+0 0 16642
+S
+#16645
+A Bend in the Purple Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 16644
+D3
+~
+~
+0 0 16646
+S
+#16646
+The Purple Hallway~
+~
+0 0 0
+D0
+~
+~
+1 0 16647
+D1
+~
+~
+0 0 16645
+D3
+~
+~
+0 0 16648
+S
+#16647
+The Emerald Room~
+~
+0 0 0
+D2
+~
+~
+1 0 16646
+S
+#16648
+The Purple Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 16646
+D3
+~
+~
+0 0 16649
+S
+#16649
+The Purple Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 16648
+D3
+~
+~
+0 0 16629
+S
+#16650
+The Red Hallway~
+Stepping onto the shaggy red carpet causes the world to tip and spin for
+a moment, before setting itself right again.  Only now, the hallway seems to
+stretch out indefinitely, giving the feeling of an endless vortex...  Though
+there are many beautiful furnishings down the hallway, they seem dulled in
+the light of the vortex.  
+~
+0 0 0
+D1
+~
+~
+0 0 16611
+D3
+~
+~
+0 0 16651
+S
+#16651
+The Red Hallway~
+The deep crimson of this place must be messing with your mind... 
+Furniture seems to come to life, shadows creeping and dancing before your
+eyes.  It all seems to wash away the memory of what was behind you...  It's
+all lost in this red world of hatred...  
+~
+0 0 0
+D1
+~
+~
+0 0 16650
+D3
+~
+~
+0 0 16652
+S
+#16652
+A Bend in the Red Hallway~
+Ah, a turn in the hallway.  The path in front of you is of a softer color
+than the initial hallway.  The rage of this place seems to subside a bit,
+but the distortion remains...  Wait, was that movement?  
+~
+0 0 0
+D0
+~
+~
+0 0 16653
+D1
+~
+~
+0 0 16651
+S
+#16653
+The Red Hallway~
+Ah, finally a break in the overwhelming distortion of the hallway.  A
+door stands to your left, open ever so slightly.  Something that sounds like
+wind is coming from that general direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 16655
+D2
+~
+~
+0 0 16652
+D3
+~
+~
+1 0 16654
+S
+#16654
+The Orange Bedroom~
+Well...this is certainly a surprise.  The entire room, walls, ceiling, floor,
+bed, everything...it's all orange.  The sheer vibrant fruitiness of it is 
+enough to make anyone gag...who ever lived here must have had a very strong
+stomach.
+~
+0 0 0
+D1
+~
+~
+1 0 16653
+S
+#16655
+The Red Hallway~
+Still moving down the hall, the shadows again seem to come to life and
+dance before you.  Perhaps you aren't alone in this place after all...  
+~
+0 0 0
+D0
+~
+~
+0 0 16656
+D2
+~
+~
+0 0 16653
+S
+#16656
+The Red Hallway~
+Ah, finally a break in the overwhelming distortion of the hallway.  A
+door stands to your right, open ever so slightly.  A sound like something
+heavy being drug around is coming from that direction...  
+~
+0 0 0
+D0
+~
+~
+0 0 16658
+D1
+~
+~
+1 0 16657
+D2
+~
+~
+0 0 16655
+S
+#16657
+The Rose Bedroom~
+This bedroom is also done in the colors of the hallway, but much more
+broken up.  Each snippet of crimson takes the form of a rose, on the walls,
+the bed, and the rug.  The background shifts between pure white and a cream
+color, with random bits of leaves and vines etched out in deep green.  They
+look so lifelike...  
+~
+0 0 0
+D3
+~
+~
+1 0 16656
+S
+#16658
+The Red Hallway~
+Moving down the hall, the pull of the vortex has become stronger. 
+Chairs, tables, and their shadows seem to come to life and move stealthily
+around, as if waiting and watching for some kind of sign to spring to life
+and attack...  
+~
+0 0 0
+D0
+~
+~
+0 0 16659
+D2
+~
+~
+0 0 16656
+S
+#16659
+The Red Hallway~
+The vortex seems more apparent in this part of the hallway than it ever
+did before.  Through the infuriating dimension of red, a cherrywood door can
+barely be made out.  The dark wood seems to pulsate ever so slightly, but
+it's enough to give the whole area an aura of hatred and pain.  
+~
+0 0 0
+D0
+~
+~
+0 0 16661
+D2
+~
+~
+0 0 16658
+D3
+~
+~
+3 16611 16660
+S
+#16660
+The Blood Bedroom~
+As the door opens, the overwhelming stench of death floods the air. 
+Looking around only adds to the nausea...  The large canopy bed, which looks
+to have been white at some time, is drenched in blood...  Pools of it litter
+the once pale carpet, and what looks to be human fingers are scattered
+across the desk in the corner.  The small diary on the ground can be easily
+overlooked by those with weak stomachs...  
+~
+0 1 0
+D1
+~
+~
+3 0 16659
+S
+#16661
+The Red Hallway~
+Still moving down the hall, the shadows again seem to come to life and
+dance before you.  Perhaps you aren't alone in this place after all...  
+~
+0 0 0
+D0
+~
+~
+0 0 16662
+D2
+~
+~
+0 0 16659
+S
+#16662
+A Bend in the Red Hallway~
+Another turn...  This direction seems to again be a shade or two lighter
+than the previous, but the distortion seems even greater here than ever. 
+With closer inspection, very faint vertical stripes are visible.  Maybe
+that's the reason?  
+~
+0 0 0
+D1
+~
+~
+0 0 16663
+D2
+~
+~
+0 0 16661
+S
+#16663
+The Red Hallway~
+~
+0 0 0
+D0
+~
+~
+1 0 16664
+D1
+~
+~
+0 0 16665
+D3
+~
+~
+0 0 16662
+S
+#16664
+The Ruby Room~
+~
+0 0 0
+D2
+~
+~
+1 0 16663
+S
+#16665
+The Red Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 16666
+D3
+~
+~
+0 0 16663
+S
+#16666
+The Red Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 16629
+D3
+~
+~
+0 0 16665
+S
+#16667
+The Dining Area~
+~
+0 0 0
+D0
+~
+~
+0 0 16668
+D2
+~
+~
+0 0 16629
+D3
+~
+~
+0 0 16670
+S
+#16668
+The Dining Area~
+~
+0 0 0
+D0
+~
+~
+0 0 16671
+D2
+~
+~
+0 0 16667
+D3
+~
+~
+0 0 16673
+S
+#16669
+The Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 16672
+S
+#16670
+The Dining Area~
+~
+0 0 0
+D0
+~
+~
+0 0 16673
+D1
+~
+~
+0 0 16667
+S
+#16671
+Before a Large Door~
+~
+0 0 0
+D0
+~
+~
+4 0 16678
+D1
+~
+~
+0 0 16674
+D2
+~
+~
+0 0 16668
+D3
+~
+~
+0 0 16675
+S
+#16672
+The Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 16674
+D2
+~
+~
+0 0 16669
+S
+#16673
+The Dining Area~
+~
+0 0 0
+D0
+~
+~
+0 0 16675
+D1
+~
+~
+0 0 16668
+D2
+~
+~
+0 0 16670
+S
+#16674
+Before the Washroom~
+~
+0 0 0
+D1
+~
+~
+3 16604 16676
+D2
+~
+~
+0 0 16672
+D3
+~
+~
+0 0 16671
+S
+#16675
+Before the Washroom~
+~
+0 0 0
+D1
+~
+~
+0 0 16671
+D2
+~
+~
+0 0 16673
+D3
+~
+~
+3 16604 16677
+S
+#16676
+The Women's Washroom~
+~
+0 0 0
+D3
+~
+~
+3 0 16674
+S
+#16677
+The Men's Washroom~
+~
+0 0 0
+D1
+~
+~
+3 0 16675
+S
+#16678
+The Silver Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16679
+D2
+~
+~
+4 0 16671
+S
+#16679
+A Bend in the Silver Hallway~
+~
+0 0 0
+D0
+~
+~
+3 0 16680
+D1
+~
+~
+0 0 16681
+D2
+~
+~
+0 0 16678
+S
+#16680
+The Mistress' Bedroom~
+Congratulations.  You have stumbled upon the master bedroom of this
+mansion.  Its walls are a pale green, and the carpeting a soft blue.  A
+four-poster bed stands with its back against the left wall, and a dresser
+and a vanity stand opposite it.  While the fine jewelry on the vanity is
+tempting, it is wise to reconsider.  
+~
+0 0 0
+D2
+~
+~
+3 0 16679
+S
+#16681
+The Silver Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 16682
+D3
+~
+~
+0 0 16679
+S
+#16682
+The Silver Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 16683
+D3
+~
+~
+0 0 16681
+S
+#16683
+The Corner of the Silver and Grey Hallways~
+~
+0 0 0
+D0
+~
+~
+0 0 16684
+D3
+~
+~
+0 0 16682
+S
+#16684
+The Grey Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16685
+D2
+~
+~
+0 0 16683
+S
+#16685
+The Grey Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16686
+D2
+~
+~
+0 0 16684
+S
+#16686
+Before a Large Stone Door~
+~
+0 0 0
+D0
+~
+~
+1 0 16687
+D2
+~
+~
+0 0 16685
+S
+#16687
+The Stone Hallway~
+~
+0 0 0
+D2
+~
+~
+1 0 16686
+D3
+~
+~
+0 0 16688
+S
+#16688
+The Stone Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 16687
+D2
+~
+~
+0 0 16689
+S
+#16689
+The Stone Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16688
+D2
+~
+~
+0 0 16690
+S
+#16690
+The Stone Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16689
+D3
+~
+~
+0 0 16691
+S
+#16691
+The Stone Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16692
+D1
+~
+~
+0 0 16690
+S
+#16692
+The Stone Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 16693
+D2
+~
+~
+0 0 16691
+S
+#16693
+Dead End~
+~
+0 0 0
+D2
+~
+~
+0 0 16692
+D5
+~
+stone~
+1 0 16694
+S
+#16694
+On a Rusty Ladder~
+~
+0 0 0
+D4
+~
+stone~
+1 0 16693
+D5
+~
+~
+0 0 16695
+S
+#16695
+At the Bottom of a Rusty Ladder~
+~
+0 0 0
+D1
+~
+~
+0 0 16696
+D2
+~
+~
+0 0 16698
+D4
+~
+~
+0 0 16694
+S
+#16696
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16697
+D3
+~
+~
+0 0 16695
+S
+#16697
+~
+~
+0 0 0
+D3
+~
+~
+0 0 16696
+S
+#16698
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16695
+D1
+~
+~
+0 0 16702
+D2
+~
+~
+0 0 16699
+S
+#16699
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16698
+D1
+~
+~
+0 0 16700
+S
+#16700
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16701
+D3
+~
+~
+0 0 16699
+S
+#16701
+~
+~
+0 0 0
+D3
+~
+~
+0 0 16700
+S
+#16702
+The Pit of the Dead~
+~
+0 0 0
+D1
+~
+~
+4 0 16703
+D3
+~
+~
+0 0 16698
+S
+#16703
+~
+~
+0 0 0
+D3
+~
+~
+4 0 16702
+S
+#16704
+The Observation Tower~
+After ascending the ladder, you come out in a very cramped room with a
+tiny window.  The shades are drawn and the room is very dark, save for a dim
+light coming from some unknown source...  
+~
+0 0 0
+D5
+~
+hatch~
+1 0 16621
+S
+#0
+
+
+
+#SPECIALS
+M 16604 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 16606 0 1
+D 0 16607 2 1
+D 0 16609 1 2
+D 0 16612 3 2
+D 0 16621 4 1
+D 0 16624 0 2
+D 0 16625 2 2
+D 0 16626 0 2
+D 0 16627 2 2
+D 0 16628 1 1
+D 0 16628 3 1
+D 0 16630 1 1
+D 0 16631 3 1
+D 0 16636 1 1
+D 0 16637 3 1
+D 0 16639 3 1
+D 0 16640 1 1
+D 0 16642 1 1
+D 0 16643 3 1
+D 0 16646 0 2
+D 0 16647 2 2
+D 0 16653 3 1
+D 0 16654 1 1
+D 0 16656 1 1
+D 0 16657 3 1
+D 0 16659 3 2
+D 0 16660 1 2
+D 0 16663 0 2
+D 0 16664 2 2
+D 0 16671 0 2
+D 0 16674 1 2
+D 0 16675 3 2
+D 0 16676 3 2
+D 0 16677 1 2
+D 0 16678 2 2
+D 0 16679 0 2
+D 0 16680 2 2
+D 0 16686 0 1
+D 0 16687 2 1
+D 0 16693 5 1
+D 0 16694 4 1
+D 0 16702 1 2
+D 0 16703 3 2
+D 0 16704 5 1
+M 0 16604 1 16604 1 100 Load Henry the Gardener
+O 0 16606 0 16608 0 100 A crystal fountain loaded to The Center of the Entrance Hall
+O 0 16608 0 16611 0 100 A torn page loaded to Towards the Left Hallway
+O 0 16610 0 16619 0 100 A full-length mirror loaded to The Golden Hallway
+M 0 16605 1 16625 1 100 Load Fiora, Schala's pet tiger
+E 0 16605 0 3 0 100 A large topaz is loaded around the neck (1) of Fiora, Schala's pet tiger
+O 0 16612 0 16625 0 100 A gleaming throne loaded to The Mysterious Music Room
+M 0 16612 2 16657 1 100 Load A rose covered wall
+O 0 16609 0 16660 0 100 A faded diary loaded to The Blood Bedroom
+M 0 16606 1 16680 1 100 Load Grand Mistress Cimorene
+M 0 16613 1 16680 1 100 Load Grand Mistress Cimorene
+O 0 16607 0 16704 0 100 A tiny window loaded to The Observation Tower
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#16604
+shiver
+say Please leave.  You don't know what you're getting yourself into.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#16604
+room zecho The house creaks softly, and all other sound stops for a moment.
+~
+#16605
+hour 5
+room zecho As the sun rises, the memory of the evil of the night fades away...
+~
+#0
+
+#$

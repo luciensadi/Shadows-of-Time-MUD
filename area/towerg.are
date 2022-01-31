@@ -1,0 +1,2531 @@
+#AREADATA
+Name Tower Grounds~
+Builders None~
+VNUMs 10600 10699
+Credits `4[`2GUILD `4]`7 Camm/Thom Warder Safe~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#10600
+Alvera~
+Alvera~
+Alvera, a sedai of the yellow ajah, motions for you to kneel.
+~
+~
+kandor~
+0 0
+ABGJKab 336 0 0 0 -1  1000 0
+100 100 1000d1+1 0d0+0 99d1+1 blast
+-100 -100 -100 -100
+0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#10601
+novice woman~
+the novice~
+A woman dressed in a seductive white dress winks at you.
+~
+This woman is dressed in a rather revealing white dress.  The dress
+appears to be of Tarabon style.  Cut low to show much cleavage and although
+long it has a nice long slit that runs up to the upper thigh.  
+~
+unique~
+0 0
+AR 0 0 0 0 -1  0 0
+15 0 3d22+97 3d22+97 3d10+5 slap
+0 0 0 5
+N 0 0 0
+stand stand female 0
+M 0 medium unknown
+#10602
+stuffed dummy~
+a stuffed dummy~
+A dummy stuffed with hay is propped up on a pole.
+~
+~
+unique~
+0 0
+ABGZe 0 64 0 0 -1  0 0
+40 125 10000d1+10000 0d0+0 0d0+0 none
+300 300 300 300
+U ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+#10603
+Gaidin~
+a Gaidin~
+A Gaidin guards the door to the barracks.
+~
+~
+andor~
+0 0
+ABGTZe 49488 80 0 33796 -1  1000 0
+775 800 30000d1+200 20000d1+10000 1d1+750 slash
+-100 -100 -100 -100
+ACDFN ABKNQ CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK huge unknown
+M ACT 10603 bows deeply.~
+#10604
+darkfriend dummy~
+a darkfriend dummy~
+A dummy with 'Darkfriend' on his chest, is propped on a pole here.
+~
+~
+unique~
+0 0
+ABGZ 0 0 0 0 -1  0 0
+80 40 1d1+4000 0d0+0 1d1+40 thwack
+-5 -5 -5 -5
+0 AB K EN
+stand stand none 0
+0 0 medium unknown
+#10605
+darkfriend dummy~
+a darkfriend dummy~
+A dummy with 'Darkfriend' on his chest, is propped on a pole here.
+~
+~
+unique~
+0 0
+ABGZ 0 0 0 0 -1  0 0
+80 40 1d1+4000 0d0+0 1d1+40 thwack
+-5 -5 -5 -5
+0 AB K EN
+stand stand none 0
+0 0 medium unknown
+#10606
+Forsaken dummy~
+a forsaken dummy~
+A dummy with a giant 'F' on his chest is here.
+~
+~
+unique~
+0 0
+ABG 0 0 0 0 -1  1000 0
+1 40 1d1+1 0d0+0 1d1+40 thwack
+-5 -5 -5 -5
+0 AB K EN
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#10600
+fountain marble~
+the fountain~
+A magnificently carved marble fountain stands here surrounded by benches.~
+unknown~
+fountain 0 P
+0
+-1 -1 'blood' 0 0
+77 10000 0 P
+E
+fountain marble carved~
+This carved marble fountain depicts a comely woman of a young age raising
+her hands towards a large white flame above her outreached palms.  Six
+herons burst through the water in a spiral fashion with a trail of water
+spinning behind them.  
+~
+ T 0 none~
+#10601
+bench carved marble~
+a bench~
+A well carved marble bench stands here invitingly.~
+unknown~
+trash O AP
+0
+0 0 0 0 0
+0 0 0 P
+E
+bench~
+Before you lies a beutifully carved bench depicting well muscled men
+holding up the main bench on all four corners.  The pattern on the back
+support of this bench shows a group of beautiful women reaching out to a
+white flame lying at the centre.  
+~
+ T 0 none~
+#10602
+garden floral~
+a floral garden~
+A small garden of green floral is here for you to admire.~
+unknown~
+trash O P
+0
+0 0 0 0 0
+0 0 0 P
+E
+garden green floral~
+A small floral garden composed of many strange green floral emerges from
+this paved square.
+~
+ T 0 none~
+#10603
+no name~
+a floral garden~
+A small garden of red floral is here for you to admire.~
+unknown~
+trash O P
+0
+0 0 0 0 0
+0 0 0 P
+E
+garden floral red~
+A small floral garden composed of many strange red floral emerges from
+this paved square.
+~
+ T 0 none~
+#10604
+floral garden~
+a floral garden~
+A small garden of white floral is here for you to admire.~
+unknown~
+trash O P
+0
+0 0 0 0 0
+0 0 0 P
+E
+floral white garden~
+A small floral garden composed of many strange white floral emerges from
+this paved square.
+~
+ T 0 none~
+#10605
+floral garden~
+a floral garden~
+A small garden of blue floral is here for you to admire.~
+unknown~
+trash O P
+0
+0 0 0 0 0
+0 0 0 P
+E
+blue floral garden~
+A small floral garden composed of many strange blue floral emerges from
+this paved square.
+~
+ T 0 none~
+#10606
+floral garden~
+a floral garden~
+A small garden of yellow floral is here for you to admire.~
+unknown~
+trash 0 P
+0
+0 0 0 0 0
+0 0 0 P
+E
+yellow floral garden~
+A small floral garden composed of many strange yellow floral emerges from
+this paved square.
+~
+ T 0 none~
+#10607
+floral garden~
+a floral garden~
+A small garden of brown floral is here for you to admire.~
+unknown~
+trash O P
+0
+0 0 0 0 0
+0 0 0 P
+E
+brown floral garden~
+A small floral garden composed of many strange brown floral emerges from
+this paved square.
+~
+ T 0 none~
+#10608
+floral garden~
+a floral garden~
+A small garden of gray floral is here for you to admire.~
+unknown~
+trash O P
+0
+0 0 0 0 0
+0 0 0 P
+E
+gray floral garden~
+A small floral garden composed of many strange gray floral emerges from
+this paved square.
+~
+ T 0 none~
+#10609
+statue woman~
+female statue at entrance to the path to Great library~
+A pair of statuettes stand at either side of a small paved path.~
+unknown~
+trash O AP
+0
+0 0 0 0 0
+0 10000 0 P
+E
+statue woman pair~
+This pair of statues appear to welcome all visitors.  They both depict
+alluring women and draws much attention from the structure that stands
+behind them.  
+~
+ T 0 none~
+#10610
+statue woman~
+female statue at east side of the square~
+A life size statue of a woman stands emotionlessly in an indenture of this hedge.~
+unknown~
+trash O AP
+0
+0 0 0 0 0
+0 10000 0 P
+E
+statue woman~
+The woman holds the staff in her slender hands and wears the stole about
+her body.  She appears to have once been the Amyrlin Seat from an age long
+ago as the statue has seen many seasons under the light of the Creator.  Her
+details have been weathered away with time but one can tell that she was a
+beauty of her day.  A name is inscribed at the base of the statue 
+~
+E
+insribed base~
+The inscription says    'Bonwhin Meriaghdin'
+~
+ T 0 none~
+#10611
+statue woman~
+female statue at north side of the square~
+A life size statue of a woman stands gazing upon you.~
+unknown~
+trash O AP
+0
+0 0 0 0 0
+0 10000 0 P
+E
+statue woman~
+The woman holds the staff in her slender hands and wears the stole about
+her body.  Her details a full and it seems as if the statue is a real life
+replica of the person.  The statue appears to have been completed just the
+day before.  
+~
+E
+insribed base~
+The inscription says    'Deane Aryman'
+~
+ T 0 none~
+#10612
+log wood~
+a log~
+A large partially hacked up log lies here on its side.~
+wood~
+trash O AOP
+0
+0 0 0 0 0
+0 1000 0 P
+E
+log wood~
+A large sturdy log that appears no more than a year old from from the day it died.
+It seems it had fallen victim the large building which stands in the space where it
+and its' kin once stood proudly
+~
+ T 0 none~
+#10613
+log firewood~
+a firewood log~
+A cross section of a tree lies here ready to be chopped into firewood.~
+wood~
+trash O AOP
+0
+0 0 0 0 0
+0 100 0 P
+E
+log firewood~
+This round circular log was once part of a very anchient tree by the size
+of it.  It is easily twice as wide as a normal man.  
+~
+ T 0 none~
+#10614
+bundle firewood~
+a bundle of firewood~
+A bundle of firewood lies here ready to be stored away for the winter.~
+wood~
+fuel 0 AD
+0
+20 3 0 0 0
+0 100 0 P
+E
+bundle firewood~
+A large bundle of firewood is stacked together and tied with a nice
+strong hemp rope.  The rope forms two loops enabling the bearer to wear it
+like a backpack.  
+~
+ T 0 none~
+#10615
+bed cot~
+a large bed~
+A large bed is pushed up against the wall.~
+unknown~
+furniture 0 0
+0
+B GJOQRST EHKR CFG CFG
+77 0 0 P
+ T 0 none~
+#10616
+large oak table~
+a large oak table~
+A large, oak table is propped up in the middle of the room.~
+oak~
+furniture 0 0
+0
+ABCD GJOQRST BN CFG CFG
+0 0 0 P
+ T 0 none~
+#10617
+a high backed chair~
+a high-backed chair~
+Twelve matched high-backed chairs are here, neatly arranged around the table.~
+unknown~
+furniture 0 0
+0
+CD FHJKPQ FIL CFG CFG
+77 0 0 P
+ T 0 none~
+#10618
+green ter'angreal doorway~
+a green ter'angreal doorway~
+A green ter'angreal doorway glimmers with a shimmering surface.~
+unknown~
+window AB 0
+0
+ADEFHIJL 0 0 0 0
+77 0 0 P
+ T 0 none~
+#10619
+golden heron medallion~
+a Golden Heron Medallion~
+A medallion lays on the ground glimmering in the light.~
+unknown~
+armor 0 AC
+0
+ACDF ACDF ACDF ACDF 0
+150 10 100000 P
+A
+13 100
+A
+18 4
+A
+19 4
+A
+20 -8
+ T 0 none~
+#10620
+leather wrist guard~
+a Leather Wrist Guard~
+A small band of leather has fallen here.~
+leather~
+armor 0 AM
+0
+ACDF ACDF ACDF ACDF 0
+150 0 0 P
+A
+18 8
+A
+13 50
+A
+20 -10
+A
+19 8
+ T 0 none~
+#10621
+rock hard gaze~
+a Rock Hard Gaze~
+The look of a warder can be very horrific.~
+unknown~
+armor 0 AR
+0
+ACDF ACDF ACDF ACDF 0
+150 10 0 P
+A
+18 10
+A
+19 10
+A
+13 60
+A
+20 -4
+ T 0 none~
+#10622
+shimmering gateway~
+a shimmering gateway~
+A shimmering gateway hovers above the ground, never wavering.~
+unknown~
+portal AB 0
+0
+0 0 0 BCDFIJKMNO 0
+77 0 0 P
+ T 0 none~
+#10623
+well hole~
+a small well~
+A small well stands off to the side, offering water for those who need it.~
+unknown~
+window 0 0
+0
+ABDGHILN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#10624
+well bucket~
+a small well~
+A bucket sits off to the side of the well.~
+unknown~
+fountain 0 0
+0
+-1 -1 'blood' 0 0
+77 10000 0 P
+ T 0 none~
+#10625
+a dull medallion~
+a dull medallion~
+A small, dull medallion has been discarded to the dirt here.~
+unknown~
+key A AC
+0
+0 0 0 0 0
+1 10 200 P
+ T 0 none~
+#10626
+heron-marked rod marked~
+a Heron-Marked Rod~
+A small, white rod lays on the ground displaying the mark of a heron.~
+unknown~
+armor 0 AO
+0
+ACDF ACDF ACDF ACDF 0
+150 10 200 P
+A
+18 5
+A
+19 5
+A
+20 -10
+A
+12 80
+ T 0 none~
+#10627
+dark wooden desk~
+a desk~
+A dark, wooden desk sits to the side of the room, papers atop it.~
+unknown~
+furniture 0 0
+0
+B EIJKN EHN CFG CFG
+75 0 0 P
+ T 0 none~
+#10628
+wooden chair~
+a chair~
+A wooden chair is pushed up beside the desk.~
+unknown~
+furniture 0 A
+0
+A FHJKPQ FIL CFG CFG
+75 800 0 P
+ T 0 none~
+#10629
+wooden chair~
+a chair~
+A wooden chair sits in the corner of the room.~
+unknown~
+furniture 0 A
+0
+A FHJKPQ FIL CFG CFG
+75 800 0 P
+ T 0 none~
+#10630
+Practice sword~
+`*Practice Sword~
+A practice sword made out of bound reeds is here.~
+unknown~
+weapon HMPZa AN
+0
+exotic 0 0 none 0
+25 0 0 P
+A
+18 -5
+A
+19 -5
+ T 0 none~
+#10699
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#10600
+A Gravel Pathway~
+Serenity floats in the air in this perfectly maintained garden path.
+The gravel which forms this pathway crunches underfoot with every
+movement. A magnificent tower bursts over several large oaks to the
+south. This gravel path continues to the north and towards the east.
+~
+0 0 2
+E
+oak~
+Grand Oaks stand proud on either side of this very path.  
+~
+E
+tower~
+A magnificent white tower virtually lurches over the trees to the south.
+From this distance it appears that this fragile tower could fall upon
+you at any moment.
+~
+D0
+The path continues weaving its way to the north.
+~
+~
+0 0 10601
+D1
+A short distance to the east, the gravel path turns to the south.
+~
+~
+0 0 10602
+S
+#10601
+A Gravel Pathway~
+Various exotic flowers flow in an intricate patterns in the gardens that
+lie along both sides of this path.  The White Tower is ever looming above
+you to the southeast direction.  
+~
+0 0 2
+D0
+~
+~
+0 0 10603
+D2
+~
+~
+0 0 10600
+S
+#10602
+A Bend in the Pathway~
+A gravel pathway bends around a tall mighty great oak and opens onto a
+path square.  From this bend, the white tower seems to burst forth from the
+ground and makes an attempt to reach for the clouds.  This pathway continues
+to the west and to the south it begins to open up to a paved square.  
+~
+0 0 2
+D2
+The pathway continues south, towards a paved square.
+~
+~
+0 0 10635
+D3
+The pathway continues west.
+~
+~
+0 0 10600
+S
+#10603
+A Gravel Pathway~
+Formal gardens begin to end at this section of the pathway.  The trees
+grow more densely populated further to the north.  Several wild flowers pop
+out from some of the undergrowth here and there.  
+~
+0 0 2
+D0
+The path continues to the north a short distance then forks to the east
+and west.  
+~
+~
+0 0 10604
+D2
+The path continues to the south.  
+~
+~
+0 0 10601
+S
+#10604
+A Gravel Pathway~
+A single column of deeply embedded gravel travels through this
+intersection heading east and west.  The land to the northeast and southeast
+show signs of being excavated recently.  
+~
+0 0 2
+D1
+The path continues to the east.  
+~
+~
+0 0 10605
+D2
+The path continues to the south.  
+~
+~
+0 0 10603
+S
+#10605
+A Gravel Pathway~
+A large mound of soil is piled up against the wall of a this building. 
+The building appears to made of bidasar red granite.  This building has the
+look of being newly constructed.  The structure of the building looks as
+though it could support a tower that could equal if not surpass the size and
+height of the White Tower.  
+~
+0 0 2
+D1
+The path continues to the east and then turns north past a large pile of
+logs.  
+~
+~
+0 0 10629
+D3
+The path continues to the west.  
+~
+~
+0 0 10604
+S
+#10606
+The Yard~
+~
+0 138412032 0
+D0
+~
+~
+0 0 10616
+D1
+~
+~
+0 0 10622
+D3
+~
+~
+0 0 10607
+S
+#10607
+The Yard~
+~
+0 0 0
+D0
+~
+~
+0 0 10614
+D1
+~
+~
+0 0 10606
+D3
+~
+~
+0 0 10608
+S
+#10608
+The Yard~
+~
+0 0 0
+D0
+~
+~
+0 0 10613
+D1
+~
+~
+0 0 10607
+D3
+~
+~
+0 0 10609
+S
+#10609
+The Yard~
+~
+0 0 0
+D0
+~
+~
+0 0 10610
+D1
+~
+~
+0 0 10608
+S
+#10610
+The Yard~
+~
+0 0 0
+D0
+~
+~
+0 0 10611
+D1
+~
+~
+0 0 10613
+D2
+~
+~
+0 0 10609
+S
+#10611
+The Yard~
+~
+0 0 0
+D0
+~
+~
+0 0 10618
+D1
+~
+~
+0 0 10612
+D2
+~
+~
+0 0 10610
+S
+#10612
+The Yard~
+~
+0 0 0
+D0
+~
+~
+0 0 10619
+D1
+~
+~
+0 0 10615
+D2
+~
+~
+0 0 10613
+D3
+~
+~
+0 0 10611
+S
+#10613
+The Yard~
+~
+0 0 0
+D0
+~
+~
+0 0 10612
+D1
+~
+~
+0 0 10614
+D2
+~
+~
+0 0 10608
+D3
+~
+~
+0 0 10610
+S
+#10614
+The Yard~
+~
+0 0 0
+D0
+~
+~
+0 0 10615
+D1
+~
+~
+0 0 10616
+D2
+~
+~
+0 0 10607
+D3
+~
+~
+0 0 10613
+S
+#10615
+The Yard~
+~
+0 0 0
+D0
+~
+~
+0 0 10620
+D1
+~
+~
+0 0 10617
+D2
+~
+~
+0 0 10614
+D3
+~
+~
+0 0 10612
+S
+#10616
+The Yard~
+~
+0 0 0
+D0
+~
+~
+0 0 10617
+D2
+~
+~
+0 0 10606
+D3
+~
+~
+0 0 10614
+S
+#10617
+The Yard~
+~
+0 0 0
+D0
+~
+~
+0 0 10630
+D2
+~
+~
+0 0 10616
+D3
+~
+~
+0 0 10615
+S
+#10618
+The Yard~
+~
+0 0 0
+D1
+~
+~
+0 0 10619
+D2
+~
+~
+0 0 10611
+S
+#10619
+The Yard~
+~
+0 0 0
+D1
+~
+~
+0 0 10620
+D2
+~
+~
+0 0 10612
+D3
+~
+~
+0 0 10618
+S
+#10620
+The Yard~
+~
+0 0 0
+D1
+~
+~
+0 0 10630
+D2
+~
+~
+0 0 10615
+D3
+~
+~
+0 0 10619
+S
+#10621
+The Yard~
+~
+0 4 0
+S
+#10622
+A Gravel Pathway~
+~
+0 0 0
+D1
+~
+~
+0 0 10623
+D2
+~
+~
+0 0 10631
+D3
+~
+~
+0 0 10606
+S
+#10623
+A Gravel Pathway~
+~
+0 0 0
+D1
+~
+~
+0 0 10624
+D3
+~
+~
+0 0 10622
+S
+#10624
+A Gravel Pathway~
+~
+0 0 0
+D1
+~
+~
+0 0 10625
+D3
+~
+~
+0 0 10623
+S
+#10625
+A Gravel Pathway~
+~
+0 0 0
+D2
+~
+~
+0 0 10626
+D3
+~
+~
+0 0 10624
+S
+#10626
+A Gravel Pathway~
+~
+0 0 0
+D0
+~
+~
+0 0 10625
+D2
+~
+~
+0 0 10627
+S
+#10627
+A Gravel Pathway~
+~
+0 0 0
+D0
+~
+~
+0 0 10626
+D2
+~
+~
+0 0 10628
+S
+#10628
+A Gravel Pathway~
+~
+0 0 0
+D0
+~
+~
+0 0 10627
+D2
+~
+~
+0 0 10629
+S
+#10629
+A Gravel Pathway~
+A pile of logs lay in a large stack on the southeast corner of this path.
+The trail opens up to cove where a group of men are in the process of
+butchering the logs into more manageable pieces.  The smell of sweat and
+wood filters the air from the east.  
+~
+0 0 2
+D0
+The path continues to the north a short distance then forks to the east
+and west.  
+~
+~
+0 0 10628
+D1
+~
+~
+0 0 10665
+D3
+The path continues to the west.  
+~
+~
+0 0 10605
+S
+#10630
+The Yard~
+~
+0 0 0
+D2
+~
+~
+0 0 10617
+D3
+~
+~
+0 0 10620
+S
+#10631
+Slim Gravel Path~
+~
+0 0 0
+D0
+~
+~
+0 0 10622
+D1
+~
+~
+0 0 10632
+S
+#10632
+Slim Gravel Path~
+~
+0 0 0
+D2
+~
+~
+0 0 10633
+D3
+~
+~
+0 0 10631
+S
+#10633
+The Barracks of the Warders~
+You stand before the a great wooden doar made of oak.  Intricate carvings
+have been made on it of little swords that seem to lay right next to another
+small sword.  The door looks thicker than a mans arm and stands about 10
+feet high.  A small sign in the center of it says 'Warder's Barracks'.  The
+barracks seem awful small on the outside and the building itself doesn't
+even have any windows to view the square just south of here.  To the south
+lays the magnificant White Tower which literally towers far above your head
+and glimmers with the shining sun.  The beauty of the White Tower makes the
+Warder's barracks look like a small shack.  A well can be seen farther to
+the south also, which stands out from the small plaza that seperates the
+Warders and the Aes Sedai.  
+~
+0 0 0
+D0
+~
+~
+0 0 10632
+D2
+~
+~
+4 10625 10667
+S
+#10634
+A Small Room~
+~
+0 134217728 0
+D0
+~
+~
+1 0 10681
+S
+#10635
+A Gravel Pathway~
+A grand old oak tree towers over head and seems to offer a sense of
+security from whatever elements that nature may through in its direction. 
+Although it is tall and large it is nothing compaired to the grandeur of the
+White Tower which stands to the south east, just beyound the square.  
+~
+0 0 2
+D0
+The pathway bends around a great oak to the north.
+~
+~
+0 0 10602
+D2
+You see a large paved square to the south.
+~
+~
+0 0 10636
+S
+#10636
+Northwest Corner of a Paved Square~
+On the northwest corner of a swhirling multi-colored square beneath the
+White Tower.  This section of the paved square is colored gray.  This gray
+colored section leads off to the south and turns like a whirl pool to the
+centre.  At the centre of this square, a magnificent display of a fountain
+can be seen.  A marble bench can be seen closeby to the east placed along
+side a hedge fence which marks the northern edge of the square.  A
+odd-looking building which looks much like a crashing wave threatens to
+smash down past the western hedges can be seen to the southwest.  
+~
+0 0 1
+D0
+A gravel pathway leads off to the north.  
+~
+~
+0 0 10635
+D1
+This paved square continues to the east along a row of hedges which mark
+the eastern edge of this square.  
+~
+~
+0 0 10641
+D2
+This paved square continues to the south along a row of hedges which mark
+the eastern edge of this square.  
+~
+~
+0 0 10637
+S
+#10637
+Western Edge of a Paved Square~
+Towering overhead way above several short apple trees to the west.  A
+remarkable piece of architecture that is shaped with the likeness of a
+crashing wave.  This large building creates a sense of power and fear from
+just looking upon the irregularities of its shape.  So irregular that it
+seems to threatens to crash down upon all that stands before it.  
+~
+0 0 1
+D0
+Just past a floral garden, a gravel path can be seen some ways to the
+north.  
+~
+~
+0 0 10636
+D1
+A fountain can be seen some ways to the south east past a floral garden
+closeby.  
+~
+~
+0 0 10642
+D2
+The paved square continues to the south along a row of hedges that break
+at the centre.  
+~
+~
+0 0 10638
+S
+#10638
+Western Edge of a Paved Square~
+To the south lies the western corner of the white tower and to its left
+stands the center and single largest tower of Tar Valon.  The banner of Tar
+Valon billows in the wind proudly atop the western ward of the white tower. 
+Another large building looms threatening to the west.  
+~
+0 0 1
+D0
+A floral garden can be seen just to the north.  
+~
+~
+0 0 10637
+D1
+A beautiful fountain can be seen some ways to the east.  
+~
+~
+0 0 10643
+D2
+The paved square ends abruptly a short distance away, beyond it lies the
+eastern wall of the White Tower.  
+~
+~
+0 0 10639
+S
+#10639
+Western Edge of a Paved Square~
+Just to the south the largest and magnificent white tower looms above
+all.  To the west another large looks as though it would crash into all that
+stands before it.  This building shaped much like a tidal wave and focuses
+most of its strength towards the tower.  
+~
+0 0 1
+D0
+Some ways to the north a floral garden can be seen.  Just past the garden
+it appears a small path is overshadowed by a very large oak.  
+~
+~
+0 0 10638
+D1
+A beautiful fountain can be seen some ways to the east.  
+~
+~
+0 0 10644
+D2
+The paved square continues to the south along a row of hedges and end
+abruptly a short distance away.  
+~
+~
+0 0 10640
+D3
+A small paved path appears lead to the large building which is second
+only to the White Tower itself.  
+~
+~
+0 0 10661
+S
+#10640
+Southwest Corner of a Paved Square~
+Just beyond the hedge to the west lies the western wall of the White
+Tower.  Numerous shuttered windows mark the rooms along the western ward. 
+To the north west a grand building shaped like tidal wave can be seen.  It
+seems to have a life of itself at it plays tricks with your eyes with the
+patterns upon the face of the wave.  
+~
+0 0 1
+D0
+You can make out a small floral garden just to the north.  
+~
+~
+0 0 10639
+D1
+A marble bench stands just to the east.  Some ways to the north of the
+bench lies a magnificently carved fountain.  
+~
+~
+0 0 10645
+S
+#10641
+Northern Edge of a Paved Square~
+Along the northern edge lies a marble bench.  The view from this point is
+absolutely fantastic.  One can easily see take a liking to this type of
+enviroment.  The beautiful statues, perfectly maintained hedges and trees. 
+It may even make and ogier at home.  
+~
+0 0 1
+D1
+A marble bench lies to the east.  
+~
+~
+0 0 10650
+D2
+Beyond the fountain lies the magnificent White Tower.  
+~
+~
+0 0 10642
+D3
+A marble bench lies to the west.  
+~
+~
+0 0 10636
+S
+#10642
+A Paved Square~
+The green floral garden stands at the northwest corner of the circular
+fountain.  It is very lush and with plenty of flowers of various types. 
+Several birds flutter from underneath the birds and fly away together.  
+~
+0 0 1
+D0
+A floral garden lies to the north 
+~
+~
+0 0 10641
+D1
+A floral garden lies to the east.
+~
+~
+0 0 10649
+D2
+A floral garden lies to the south.
+~
+~
+0 0 10643
+D3
+The western edge lies to the west.
+~
+~
+0 0 10637
+S
+#10643
+A Paved Square~
+The sound of running water flows from the marble fountain like intricate
+music.  Surrounding you are many various creations.  Created perhaps many
+ages ago and maintained in perfect condition till this very day.  
+~
+0 0 1
+D0
+A bench stand facing this general direction.  
+~
+~
+0 0 10642
+D1
+A fountain stands to the east.  
+~
+~
+0 0 10648
+D2
+To the south lies the magnificent White Tower.  
+~
+~
+0 0 10644
+D3
+The Great Library stands to the west.  
+~
+~
+0 0 10638
+S
+#10644
+A Paved Square~
+The red floral garden stands at the southwest corner of the circular
+fountain.  The red swhirl of color meets with the floral garden with the
+color brown and gray beside it.  
+~
+0 0 1
+D0
+A floral garden lies to the north 
+~
+~
+0 0 10643
+D1
+A floral garden lies to the east.  
+~
+~
+0 0 10647
+D2
+The White Tower lies to the south.  
+~
+~
+0 0 10645
+D3
+The western edge of the square lies to the west.  
+~
+~
+0 0 10639
+S
+#10645
+Southern Edge of a Paved Square~
+A pair of large double doors stand above a set of circular stairs to the
+south east.  They stand open but strong and welcoming beneath the mighty
+form of the White Tower.  The marble bench stands facing the on comming rush
+of the monstrous form of the Grand Library to the north west.  
+~
+0 0 1
+D0
+You can make out a small floral garden just to the north.  
+~
+~
+0 0 10644
+D1
+A marble bench stands some ways to the east.  
+~
+~
+0 0 10646
+D3
+Looking past a thick hedge you can see several trees just beyond the
+threatening form of the Great Library.  
+~
+~
+0 0 10640
+S
+#10646
+A Paved Square~
+A set of double doors lie open on top of a set of circular stairs to the
+south.  Adorning the stop of those double doors is the White Flame of Tar
+Valon.  The insignia of the Amrylin Seat.  To the north a fountain, that is
+magnificently carved, burst form from the center of the paved multi-colored
+square.  
+~
+0 0 1
+D0
+You can see a large magnificent fountain closeby to the north.  
+~
+~
+0 0 10647
+D1
+A marble bench stands several paces to the east.  
+~
+~
+0 0 10655
+D2
+The paved square ends abruptly at the feet of a set of circular stairs
+which lead to the White Tower.  
+~
+~
+0 0 10664
+D3
+A marble bench stands several paces to the west.  
+~
+~
+0 0 10645
+S
+#10647
+A Paved Square~
+The White Tower streaks towards the sky and from this point it looks
+incredibly tall.  The running water from the fountain soothes and calms the
+entire atmosphere.  Around you several colors come together until the reach
+their destination at the center of the square.  
+~
+0 0 1
+D0
+A fountain stands to the north.  
+~
+~
+0 0 10648
+D1
+A floral garden lies to the east.  
+~
+~
+0 0 10654
+D2
+To the south lies the magnificent White Tower.  
+~
+~
+0 0 10646
+D3
+A floral garden lies to the west.  
+~
+~
+0 0 10644
+S
+#10648
+Center of A Paved Square~
+An immense marble fountain stands at the center of this swhirl patterned
+square.  Several sparrows drink peacefully from the fountain and then
+flutter gently away.  A gentle breeze blows a southern direction, blowing
+off the White Tower itself.  
+~
+0 0 1
+D0
+A statue stand proudly to the north.  
+~
+~
+0 0 10649
+D1
+A statue stands inbedded into a hedge to the east.  
+~
+~
+0 0 10653
+D2
+To the south lies the magnificent White Tower.  
+~
+~
+0 0 10647
+D3
+The Great Library can be seen to the west.  
+~
+~
+0 0 10643
+S
+#10649
+A Paved Square~
+The White Tower looms high above all that is around the square.  Four
+banners can be seen fluttering in all their glory.  One stands atop the
+eastern wing of the White Tower.  Another atop the western wing.  The last
+two are large and billow constantly near the top of the White Tower.  
+~
+0 0 1
+D0
+A statue stands to the north.  
+~
+~
+0 0 10650
+D1
+A floral garden lies to the east.  
+~
+~
+0 0 10652
+D2
+A fountain stands to the north.  
+~
+~
+0 0 10648
+D3
+A floral garden lies to the west.  
+~
+~
+0 0 10642
+S
+#10650
+Northern Edge of a Paved Square~
+To the south a beautful fountain stands boldly.  The swhirling pattern of
+the seven colors drawing all attention upon it.  A white light gleams in
+this direction every now and again from the center of the white flame held
+at the statue at the center of the fountain.  
+~
+0 0 1
+D1
+A marble bench lies to the east.  
+~
+~
+0 0 10651
+D2
+Beyond the fountain lies the magnificent White Tower.  
+~
+~
+0 0 10649
+D3
+A marble bench lies to the west.  
+~
+~
+0 0 10641
+S
+#10651
+Northern Edge of a Paved Square~
+A marble bench stands here in front of the hedge fence.  It is angled
+facing towards the beautiful fountain just to the south west of this very
+spot.  All can be seen from this very spot including all the beautifully
+placed gardens which surround the fountain.  Beyond the fountain and the
+rest of the square looms the White Tower.  This is perhaps one of the most
+beautiful viewpoints from which the spend your time in study or meditation. 
+~
+0 0 1
+D1
+A floral garden lies to the east.  
+~
+~
+0 0 10660
+D2
+A floral garden lies just to the south.  Beyond it is the magnificent
+White Tower.  
+~
+~
+0 0 10652
+D3
+A statue stands proudly to the west.
+~
+~
+0 0 10650
+S
+#10652
+A Paved Square~
+The blue floral garden stands at the northeast corner of the circular
+fountain.  The blue swhirl of color meets with the floral garden with the
+color white and yellow beside it.  
+~
+0 0 1
+D0
+The northern edge of the square lies to the north.
+~
+~
+0 0 10651
+D1
+The eastern edge of the square lies to the east.  
+~
+~
+0 0 10659
+D2
+A floral garden lies to the south.
+~
+~
+0 0 10653
+D3
+A floral garden lies to the west.  
+~
+~
+0 0 10649
+S
+#10653
+A Paved Square~
+Standing so close the fountain you realize exactly how large it really
+is.  Compaired to the White Tower and the Great Library to the south it
+appears to be nothing more than a normal fountain.  At this vantage point it
+is at least twice the average mans' height.  
+~
+0 0 1
+D0
+A bench stand facing this general direction.  
+~
+~
+0 0 10652
+D1
+A statue stands inbedded into a hedge nearby.  
+~
+~
+0 0 10658
+D2
+To the south lies the magnificent White Tower.  
+~
+~
+0 0 10654
+D3
+A immense fountain lies a few paces to the west.  
+~
+~
+0 0 10648
+S
+#10654
+A Paved Square~
+The white floral garden stands at the southeast corner of the circular
+fountain.  The white swhirl of color meets with the floral garden with the
+color brown and red beside it.  
+~
+0 0 1
+D0
+A floral garden lies to the north 
+~
+~
+0 0 10653
+D1
+The eastern edge of the square lies to the east.  
+~
+~
+0 0 10657
+D2
+The White Tower lies to the south.  
+~
+~
+0 0 10655
+D3
+A floral garden lies to the west.  
+~
+~
+0 0 10647
+S
+#10655
+Southern edge of a paved square~
+A marble bench stands here in front of the hedge fence.  It is angled
+facing towards the beautiful fountain just to the south east of this very
+spot.  From this point you can see the all the beautifully placed gardens
+which surround this fountain at all the corners of this square.  Behind this
+bench stands the Eastern section of the White Tower.  
+~
+0 0 1
+D0
+A floral garden lies to the north 
+~
+~
+0 0 10654
+D1
+A floral garden lies to the east.  
+~
+~
+0 0 10656
+D3
+A marble bench stands several paces to the west.  
+~
+~
+0 0 10646
+S
+#10656
+Southeast corner of a paved square~
+The sounds of a fluttering flag billows from above on top of the eastern
+section of the White Tower.  The brown floral garden stands at the very
+corner of the southeast corner of this paved square.  It also marks the
+begining of the color brown that swirls with the seven other colors which
+make up this square.  
+~
+0 0 1
+D0
+A floral garden lies off the distance.  
+~
+~
+0 0 10657
+D3
+A marble bench stands several paces to the west.  
+~
+~
+0 0 10655
+S
+#10657
+Eastern Edge of a Paved Square~
+Along the hedge fence along this square.  A statue stands proudly in an
+induntured part of the hedge.  Two different colored floral gardens can be
+seen to the south that make up the seven colors that spiral around this
+square.  These colors form in a counter clockwise pattern and circle to the
+center of the square.  
+~
+0 0 1
+D0
+Several paces to the north, a statue of a woman can be seen standing
+inside an indenture of the hedge fence.  
+~
+~
+0 0 10658
+D2
+The paved square ends abruptly a short distance to the south.  
+~
+~
+0 0 10656
+D3
+A floral garden lies to the west.  
+~
+~
+0 0 10654
+S
+#10658
+Eastern Edge of a Paved Square~
+A fountain stands to the west with its water flowing down to its pool
+from several herons.  Several floral gardens are scattered about the square
+in correspondence to the pattern that depicts the Banner of Tar Valon.  
+~
+0 0 1
+D0
+A floral garden lies nearby to the north.  
+~
+~
+0 0 10659
+D2
+A floral garden lies nearby to the south.  
+~
+~
+0 0 10657
+D3
+A fountain lies to the west.  
+~
+~
+0 0 10653
+S
+#10659
+Eastern Edge of a Paved Square~
+Along the hedge fence along this square.  A statue stands proudly in an
+induntured part of the hedge to the south.  Many different colored floral
+gardens can be seen to the north and south of this position.  They make up
+the seven colors that spiral around this square.  These colors form in a
+counter clockwise pattern and circle to the center of the square.  
+~
+0 0 1
+D0
+A floral garden lies nearby to the north.  
+~
+~
+0 0 10660
+D2
+A statue can be seen to the south.  Beyond it lies another floral garden 
+~
+~
+0 0 10658
+D3
+A fountain lies to the south west.  
+~
+~
+0 0 10652
+S
+#10660
+Northeast Corner of a Paved Square.~
+On the northeast corner of a swhirling multi-colored square beneath the
+White Tower.  This section of the paved square is colored yellow.  At the
+centre of this square, a magnificent display of a fountain can be seen.  A
+odd-looking building which looks much like a crashing wave threatens to
+smash down past the western hedges can be seen far off to the southwest.  
+~
+0 0 1
+D2
+A statue can be seen to the south.  Beyond it lies another floral garden 
+~
+~
+0 0 10659
+D3
+A marble bench lies to the west.  
+~
+~
+0 0 10651
+S
+#10661
+A Small Paved Path~
+The path appears to be well used as some of the bricks which pave this
+path appear to be well worn.  It has been paves so well that there is not a
+hairwidth of space between two interlocking bricks.  
+~
+0 0 1
+D1
+The marble fountain can be seen beyond the entrance of this path.  
+~
+~
+0 0 10639
+D3
+The path continues to the west and takes a turn to the north a short
+distance away.  
+~
+~
+0 0 10662
+S
+#10662
+A Small Paved Path~
+On either side of this section of the path lies a small but elaborate
+design of gardening.  Various bushes have had their dark green leaves
+trimmed appear like different animals.  Above you the wake of the wave
+towers overhead and threatens to crush all that is beneath it.  
+~
+0 0 1
+D0
+The path ends just a few steps to the north at the entrance of the Great Library.
+~
+~
+0 0 10663
+D1
+The marble fountain can be seen beyond the entrance of this path.  
+~
+~
+0 0 10661
+S
+#10663
+Before the Great Library~
+~
+0 0 0
+D0
+~
+~
+1 0 10691
+D2
+~
+~
+0 0 10662
+S
+#10664
+A Cobblestone Path~
+From here the White Tower extends far beyond your sight into the sky
+above.  A path leads from here around the White Tower into a small plaza
+which seems to be the home of many flowers and admirers.  The plaza is
+probably part of the famous tower grounds where the Warders train.  
+~
+0 0 8
+D0
+~
+~
+0 0 10646
+D2
+~
+~
+0 0 10687
+S
+#10665
+A small Logging Camp~
+The smell of wood filters the air and mingles the strong scent of dirty
+sweaty men.  Woodchips lie everywhere and with every crack of the axe biting
+on wood more are created.  
+~
+0 0 2
+D1
+The camp continues just a little further to the east.  
+~
+~
+0 0 10666
+D3
+A gravel path lies just to the west.  
+~
+~
+0 0 10629
+S
+#10666
+A small Logging Camp~
+The sounds of combat rings loudly just past a thick patch of shrubs and
+trees to the north.  To the south you can see a white portion of White Tower
+peeking through the trees.  The clean smell of fresh wood mingles with the
+odour of sweaty men.  Woodchips lie everywhere and with every crack of the
+axe biting on wood more are created.  
+~
+0 0 2
+D3
+The camp continues just a little further to the east and ends at the edge
+of a pathway.  
+~
+~
+0 0 10665
+S
+#10667
+Inside the Barracks~
+~
+0 138420228 0
+D0
+~
+~
+4 10625 10633
+D2
+~
+~
+0 0 10668
+S
+#10668
+A Training Room~
+~
+0 138420228 0
+D0
+~
+~
+0 0 10667
+D1
+~
+~
+0 0 10674
+D2
+~
+~
+0 0 10672
+D3
+~
+~
+0 0 10669
+S
+#10669
+A Training Room~
+~
+0 138420228 0
+D1
+~
+~
+0 0 10668
+D2
+~
+~
+0 0 10670
+S
+#10670
+A Training Room~
+~
+0 138420228 0
+D0
+~
+~
+0 0 10669
+D1
+~
+~
+0 0 10672
+D2
+~
+~
+0 0 10671
+S
+#10671
+A Training Room~
+~
+0 138420228 0
+D0
+~
+~
+0 0 10670
+D1
+~
+~
+0 0 10675
+S
+#10672
+A Training Room~
+~
+0 155190276 0
+D0
+~
+~
+0 0 10668
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10675
+D3
+~
+~
+0 0 10670
+S
+#10673
+A Training Room~
+~
+0 138420228 0
+D0
+~
+~
+0 0 10674
+D2
+~
+~
+0 0 10676
+D3
+~
+~
+0 0 10672
+S
+#10674
+A Training Room~
+~
+0 138420228 0
+D2
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10668
+S
+#10675
+A Training Room~
+~
+0 138420228 0
+D0
+~
+~
+0 0 10672
+D1
+~
+~
+0 0 10676
+D2
+~
+~
+0 0 10677
+D3
+~
+~
+0 0 10671
+S
+#10676
+A Training Room~
+~
+0 138420228 0
+D0
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10675
+S
+#10677
+A Dark Hallway~
+~
+0 138420228 0
+D0
+~
+~
+0 0 10675
+D1
+~
+~
+0 0 10686
+D2
+~
+~
+0 0 10678
+D3
+~
+~
+0 0 10685
+S
+#10678
+A Dark Hallway~
+~
+0 138420228 0
+D0
+~
+~
+0 0 10677
+D2
+~
+~
+0 0 10679
+S
+#10679
+A Dark Hallway~
+~
+0 138420228 0
+D0
+~
+~
+0 0 10678
+D1
+~
+~
+0 0 10683
+D2
+~
+~
+0 0 10680
+D3
+~
+~
+0 0 10684
+S
+#10680
+A Dark Hallway~
+~
+0 138420228 0
+D0
+~
+~
+0 0 10679
+D5
+~
+~
+0 0 10681
+S
+#10681
+A Flight of Wooden Stairs~
+~
+0 138420228 0
+D2
+~
+~
+1 0 10634
+D4
+~
+~
+0 0 10680
+D5
+~
+~
+0 0 10682
+S
+#10682
+Chamber of the Warders~
+~
+0 138421252 0
+D4
+~
+~
+0 0 10681
+S
+#10683
+Room of the Master at Arms~
+~
+0 138421252 0
+D3
+~
+~
+0 0 10679
+S
+#10684
+Room of the Master of Students~
+~
+0 138421252 0
+D1
+~
+~
+0 0 10679
+S
+#10685
+Room of a Warder~
+~
+0 138421252 0
+D1
+~
+~
+0 0 10677
+S
+#10686
+Room of a Warder~
+~
+0 138421252 0
+D3
+~
+~
+0 0 10677
+S
+#10687
+A Cobblestone Path~
+From here the White Tower extends far beyond your sight into the sky
+above.  A path leads from here around the White Tower into a small plaza
+which seems to be the home of many flowers and admirers.  The plaza is
+probably part of the famous tower grounds where the Warders train.  
+~
+0 0 8
+D0
+~
+~
+0 0 10664
+D2
+~
+~
+0 0 10688
+S
+#10688
+A Cobblestone Path~
+From here the White Tower extends far beyond your sight into the sky
+above.  A path leads from here around the White Tower into a small plaza
+which seems to be the home of many flowers and admirers.  The plaza is
+probably part of the famous tower grounds where the Warders train.  
+~
+0 0 8
+D0
+~
+~
+0 0 10687
+D2
+~
+~
+0 0 10689
+S
+#10689
+A Cobblestone Path~
+From here the White Tower extends far beyond your sight into the sky
+above.  A path leads from here around the White Tower into a small plaza
+which seems to be the home of many flowers and admirers.  The plaza is
+probably part of the famous tower grounds where the Warders train.  
+~
+0 0 8
+D0
+~
+~
+0 0 10688
+D2
+~
+~
+0 0 10690
+S
+#10690
+A Cobblestone Path~
+From here the White Tower extends far beyond your sight into the sky
+above.  A path leads from here around the White Tower into a small plaza
+which seems to be the home of many flowers and admirers.  The plaza is
+probably part of the famous tower grounds where the Warders train.  
+~
+0 0 8
+D0
+~
+~
+0 0 10689
+D2
+~
+~
+0 0 30629
+S
+#10691
+Inside the Library~
+~
+0 0 0
+D1
+~
+~
+0 0 10692
+D2
+~
+~
+1 0 10663
+D3
+~
+~
+0 0 10693
+S
+#10692
+The Great Library~
+~
+0 0 0
+D0
+~
+~
+0 0 10696
+D3
+~
+~
+0 0 10691
+S
+#10693
+The Great Library~
+~
+0 0 0
+D0
+~
+~
+0 0 10694
+D1
+~
+~
+0 0 10691
+S
+#10694
+The Great Library~
+~
+0 0 0
+D0
+~
+~
+0 0 10695
+D2
+~
+~
+0 0 10693
+S
+#10695
+The Great Library~
+~
+0 0 0
+D1
+~
+~
+0 0 10698
+D2
+~
+~
+0 0 10694
+S
+#10696
+The Great Library~
+~
+0 0 0
+D0
+~
+~
+0 0 10697
+D2
+~
+~
+0 0 10692
+S
+#10697
+The Great Library~
+~
+0 0 0
+D2
+~
+~
+0 0 10696
+D3
+~
+~
+0 0 10698
+S
+#10698
+The Great Library~
+~
+0 0 0
+D1
+~
+~
+0 0 10697
+D3
+~
+~
+0 0 10695
+S
+#10699
+At the Bottom of the Well~
+~
+0 134217732 0
+S
+#0
+
+
+
+#SPECIALS
+M 10603 spec_breath_any_but_acid
+S
+
+
+
+#RESETS
+D 0 10633 2 2
+D 0 10634 0 1
+D 0 10663 0 1
+D 0 10667 0 2
+D 0 10681 2 1
+D 0 10691 2 1
+M 0 10604 20 10606 2 100 Load a darkfriend dummy
+M 0 10604 20 10606 2 100 Load a darkfriend dummy
+M 0 10604 20 10607 2 100 Load a darkfriend dummy
+M 0 10604 20 10608 2 100 Load a darkfriend dummy
+M 0 10605 1 10609 1 100 Load a darkfriend dummy
+M 0 10604 20 10610 2 100 Load a darkfriend dummy
+M 0 10604 20 10610 2 100 Load a darkfriend dummy
+M 0 10604 20 10611 2 100 Load a darkfriend dummy
+M 0 10604 20 10611 2 100 Load a darkfriend dummy
+M 0 10604 20 10612 2 100 Load a darkfriend dummy
+M 0 10604 20 10612 2 100 Load a darkfriend dummy
+M 0 10604 20 10613 2 100 Load a darkfriend dummy
+M 0 10604 20 10613 2 100 Load a darkfriend dummy
+M 0 10604 20 10614 2 100 Load a darkfriend dummy
+M 0 10604 20 10614 2 100 Load a darkfriend dummy
+M 0 10604 20 10615 2 100 Load a darkfriend dummy
+M 0 10604 20 10615 2 100 Load a darkfriend dummy
+M 0 10604 20 10616 2 100 Load a darkfriend dummy
+M 0 10604 20 10616 2 100 Load a darkfriend dummy
+M 0 10604 20 10617 2 100 Load a darkfriend dummy
+M 0 10604 20 10617 2 100 Load a darkfriend dummy
+O 0 10623 0 10618 0 100 A small well loaded to The Yard
+O 0 10624 0 10618 0 100 A small well loaded to The Yard
+M 0 10604 20 10619 2 100 Load a darkfriend dummy
+M 0 10604 20 10619 2 100 Load a darkfriend dummy
+M 0 10604 20 10620 2 100 Load a darkfriend dummy
+M 0 10604 20 10620 2 100 Load a darkfriend dummy
+M 0 10604 20 10630 2 100 Load a darkfriend dummy
+M 0 10604 20 10630 2 100 Load a darkfriend dummy
+M 0 10603 1 10633 1 100 Load a Gaidin
+E 0 10621 0 21 0 100 A rock hard gaze is loaded on the face of a Gaidin
+E 0 10620 0 15 0 100 A leather wrist guard is loaded on the left wrist of a Gaidin
+E 0 10619 0 3 0 100 A golden heron medallion is loaded around the neck (1) of a Gaidin
+O 0 10622 0 10634 0 100 A shimmering gateway loaded to A Small Room
+O 0 10608 0 10636 0 100 A floral garden loaded to Northwest Corner of a Paved Square
+M 0 10601 1 10636 1 100 Load the novice
+O 0 10609 0 10639 0 100 Female statue at entrance to the path to great library loaded to Western Edge of a Paved Square
+O 0 10601 0 10641 0 100 A bench loaded to Northern Edge of a Paved Square
+O 0 10602 0 10642 0 100 A floral garden loaded to A Paved Square
+O 0 10603 0 10644 0 100 A floral garden loaded to A Paved Square
+O 0 10601 0 10645 0 100 A bench loaded to Southern Edge of a Paved Square
+O 0 10600 0 10648 0 100 The fountain loaded to Center of A Paved Square
+O 0 10611 0 10650 0 100 Female statue at north side of the square loaded to Northern Edge of a Paved Square
+O 0 10601 0 10651 0 100 A bench loaded to Northern Edge of a Paved Square
+O 0 10605 0 10652 0 100 A floral garden loaded to A Paved Square
+O 0 10604 0 10654 0 100 A floral garden loaded to A Paved Square
+O 0 10601 0 10655 0 100 A bench loaded to Southern edge of a paved square
+O 0 10607 0 10656 0 100 A floral garden loaded to Southeast corner of a paved square
+O 0 10610 0 10658 0 100 Female statue at east side of the square loaded to Eastern Edge of a Paved Square
+O 0 10606 0 10660 0 100 A floral garden loaded to Northeast Corner of a Paved Square.
+O 0 10613 0 10665 0 100 A firewood log loaded to A small Logging Camp
+O 0 10614 0 10665 0 100 A bundle of firewood loaded to A small Logging Camp
+O 0 10612 0 10666 0 100 A log loaded to A small Logging Camp
+O 0 10613 0 10666 0 100 A firewood log loaded to A small Logging Camp
+M 0 10600 1 10672 1 100 Load Alvera
+O 0 10616 0 10682 0 100 A large oak table loaded to Chamber of the Warders
+O 0 10617 0 10682 0 100 A high-backed chair loaded to Chamber of the Warders
+O 0 10615 0 10683 0 100 A large bed loaded to Room of the Master at Arms
+O 0 10628 0 10683 0 100 A chair loaded to Room of the Master at Arms
+O 0 10627 0 10683 0 100 A desk loaded to Room of the Master at Arms
+O 0 10135 0 10683 0 100 A blue vase loaded to Room of the Master at Arms
+O 0 10615 0 10684 0 100 A large bed loaded to Room of the Master of Students
+O 0 10627 0 10684 0 100 A desk loaded to Room of the Master of Students
+O 0 10628 0 10684 0 100 A chair loaded to Room of the Master of Students
+O 0 10615 0 10685 0 100 A large bed loaded to Room of a Warder
+O 0 10629 0 10685 0 100 A chair loaded to Room of a Warder
+O 0 10615 0 10686 0 100 A large bed loaded to Room of a Warder
+O 0 10629 0 10686 0 100 A chair loaded to Room of a Warder
+M 0 30016 1 10699 1 100 Load an old, decrepit man
+E 0 10625 0 3 0 100 A dull medallion is loaded around the neck (1) of an old, decrepit man
+E 0 10626 0 19 0 100 A heron-marked rod is loaded held in the hands of an old, decrepit man
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#10603
+if clan $n 'warder'
+say May the Creator shelter you on this day.
+mob transfer $n 10667
+else
+if clan $n 'aessedai'
+say May the Creator shelter you on this day.
+mob transfer $n 10667
+else
+say You are not permitted to enter.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

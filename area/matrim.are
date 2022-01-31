@@ -1,0 +1,1402 @@
+#AREA
+MATRIM.ARE~
+Matrims Questorific Quest Center~
+{All} Matrim QuestArea~
+400 500
+
+#MOBILES
+#400
+trick kid ~
+A kid~
+A little ghost runs around here
+~
+
+~
+unique~
+A 0 -1000 0
+60 40 1000d5000+1 1d1+1 1d75+0 none
+-10 -10 -10 -10
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#401
+parent~
+A Parent~
+A parent is here, supervising thier kids. 
+~
+
+~
+unique~
+A 0 -1000 0
+90 100 1d10000+1 1d1+1 2d50+1 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#402
+owner parent~
+An Owner~
+The owner of the house is here giving out candy. 
+~
+
+~
+unique~
+A 0 -1000 0
+100 75 1d1000+1 1d1+1 1d100+0 none
+-40 -40 -40 -40
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#403
+killer monster~
+The Killer~
+The Killer stands here! 
+~
+
+~
+unique~
+A 0 -1000 0
+120 200 3d10000+1000 2d1000+1 2d100+5 magic
+-50 -50 -50 -50
+0 0 0 0
+stand stand none 0
+0 0 large unknown
+#0
+
+
+
+#OBJECTS
+#400
+candy~
+A bag of Candy~
+candy is on the ground here!~
+~
+trash 0 A
+0 0 0 0 0 
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#400
+The Halls of Glory~
+You're standing in a grand hall. Wide columns stretch upward to a ceiling
+of stars, while halls seem to lead endlessly in every direction. You know
+one path is meant for you, but perhaps you should wait a moment to be sure
+of which. For you are not here by chance. This place, this time, has been
+designed for you to prove yourself, to suceed without question, to stand
+victorious awaiting your rewards. You have been chosen and now you must face
+your `^Q`6uest`7. 
+~
+0 2630664 0
+D4
+
+~
+~
+0 0 404
+D5
+You may retreat downward to non questor safety. 
+~
+~
+0 0 3054
+M 300 H 300
+S
+#401
+The path to the Battle Grounds~
+You begin walking down a long hallway, just to the north you can see the
+hall opening up into a vast arena. There you will face a contest for your
+very life. It is time to find out just how ready you are. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 402
+S
+#402
+Entrance to the Battle Grounds~
+You now stand at the entrance to a very dangerous area. Here something or
+somethings are waiting to kill you, or for you to destroy them in your quest
+for glory and more tangible rewards. You gaze about seeking that which will
+decide your fate. For a brief moment, you consider turning back down the
+hall to the south, saving your neck for another adventure. With an
+embarrassed laugh to banish such thoughts, you once again scan the area for
+the direction that will bring a finish to your `^Q`6uest`7. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 403
+D2
+
+~
+~
+0 0 401
+S
+#403
+Into the Battle Grounds~
+The open area before you seems empty, but you know otherwise. Perhaps a
+bit of caution would be the best course of action until you are sure of what
+exactly you have gotten yourself into. You can move in any direction... But
+which? Just before deciding, you notice there is a narrow hole leading down
+into darkness. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 402
+S
+#404
+Elm Street~
+This is the start of the rest of your evening. Dont let the monsters get
+to you kiddies, they are NOT real... You will experience many illusions in
+the next hour or so, some of the things you will see are real, some of them
+are fake. Whatever you do, dont come home without candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 405
+S
+#405
+Elm Street~
+This street is long and dark, shadows gloom over you as you look down it.
+Huge trees tower over the leaf covered street. Shadows glance off windows of
+homes all around! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 406
+D1
+
+~
+~
+0 0 415
+D2
+
+~
+~
+0 0 404
+D3
+
+~
+~
+0 0 425
+S
+#406
+Elm Street~
+This street is long and dark, shadows gloom over you as you look down it.
+Huge trees tower over the leaf covered street. Shadows glance off windows of
+homes all around! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 407
+D2
+
+~
+~
+0 0 405
+S
+#407
+Elm Street~
+This street is long and dark, shadows gloom over you as you look down it.
+Huge trees tower over the leaf covered street. Shadows glance off windows of
+homes all around! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 408
+D2
+
+~
+~
+0 0 406
+S
+#408
+Elm Street~
+This street is long and dark, shadows gloom over you as you look down it.
+Huge trees tower over the leaf covered street. Shadows glance off windows of
+homes all around! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 409
+D2
+
+~
+~
+0 0 407
+S
+#409
+Elm Street~
+This street is long and dark, shadows gloom over you as you look down it.
+Huge trees tower over the leaf covered street. Shadows glance off windows of
+homes all around! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 410
+D2
+
+~
+~
+0 0 408
+S
+#410
+Elm Street~
+This street is long and dark, shadows gloom over you as you look down it.
+Huge trees tower over the leaf covered street. Shadows glance off windows of
+homes all around! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 411
+D2
+
+~
+~
+0 0 409
+S
+#411
+Elm Street~
+This street is long and dark, shadows gloom over you as you look down it.
+Huge trees tower over the leaf covered street. Shadows glance off windows of
+homes all around! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 412
+D2
+
+~
+~
+0 0 410
+S
+#412
+Elm Street~
+This street is long and dark, shadows gloom over you as you look down it.
+Huge trees tower over the leaf covered street. Shadows glance off windows of
+homes all around! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 413
+D2
+
+~
+~
+0 0 411
+S
+#413
+Elm Street~
+This street is long and dark, shadows gloom over you as you look down it.
+Huge trees tower over the leaf covered street. Shadows glance off windows of
+homes all around! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 414
+D2
+
+~
+~
+0 0 412
+S
+#414
+The End of Elm Street~
+It would be wise to turn around and look behind you! 
+~
+0 0 0
+D2
+
+~
+~
+0 0 413
+S
+#415
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 416
+D1
+
+~
+~
+0 0 435
+D3
+
+~
+~
+0 0 405
+S
+#416
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 417
+D1
+
+~
+~
+0 0 436
+D2
+
+~
+~
+0 0 415
+S
+#417
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 418
+D1
+
+~
+~
+0 0 437
+D2
+
+~
+~
+0 0 416
+S
+#418
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 419
+D1
+
+~
+~
+0 0 438
+D2
+
+~
+~
+0 0 417
+S
+#419
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 420
+D1
+
+~
+~
+0 0 439
+D2
+
+~
+~
+0 0 418
+S
+#420
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 421
+D1
+
+~
+~
+0 0 440
+D2
+
+~
+~
+0 0 419
+S
+#421
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 422
+D1
+
+~
+~
+0 0 441
+D2
+
+~
+~
+0 0 420
+S
+#422
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 423
+D1
+
+~
+~
+0 0 442
+D2
+
+~
+~
+0 0 421
+S
+#423
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 424
+D1
+
+~
+~
+0 0 443
+D2
+
+~
+~
+0 0 422
+S
+#424
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 444
+D2
+
+~
+~
+0 0 423
+S
+#425
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 426
+D1
+
+~
+~
+0 0 405
+D3
+
+~
+~
+0 0 445
+S
+#426
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 427
+D2
+
+~
+~
+0 0 425
+D3
+
+~
+~
+0 0 446
+S
+#427
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 428
+D2
+
+~
+~
+0 0 426
+D3
+
+~
+~
+0 0 447
+S
+#428
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 429
+D2
+
+~
+~
+0 0 427
+D3
+
+~
+~
+0 0 448
+S
+#429
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 430
+D2
+
+~
+~
+0 0 428
+D3
+
+~
+~
+0 0 449
+S
+#430
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 431
+D2
+
+~
+~
+0 0 429
+D3
+
+~
+~
+0 0 450
+S
+#431
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 432
+D2
+
+~
+~
+0 0 430
+D3
+
+~
+~
+0 0 451
+S
+#432
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 433
+D2
+
+~
+~
+0 0 431
+D3
+
+~
+~
+0 0 452
+S
+#433
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D0
+
+~
+~
+0 0 434
+D2
+
+~
+~
+0 0 432
+D3
+
+~
+~
+0 0 453
+S
+#434
+The Sidewalk~
+Many ghosts and ghouls are running past you with fists full of candy and
+bags loaded to the tops with candy! 
+~
+0 0 0
+D2
+
+~
+~
+0 0 433
+D3
+
+~
+~
+0 0 454
+S
+#435
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 455
+D3
+
+~
+~
+0 0 415
+S
+#436
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 456
+D3
+
+~
+~
+0 0 416
+S
+#437
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 457
+D3
+
+~
+~
+0 0 417
+S
+#438
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 458
+D3
+
+~
+~
+0 0 418
+S
+#439
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 459
+D3
+
+~
+~
+0 0 419
+S
+#440
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 460
+D3
+
+~
+~
+0 0 420
+S
+#441
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 461
+D3
+
+~
+~
+0 0 421
+S
+#442
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 462
+D3
+
+~
+~
+0 0 422
+S
+#443
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 463
+D3
+
+~
+~
+0 0 423
+S
+#444
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 464
+D3
+
+~
+~
+0 0 424
+S
+#445
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 425
+D3
+
+~
+~
+0 0 465
+S
+#446
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 426
+D3
+
+~
+~
+0 0 466
+S
+#447
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 427
+D3
+
+~
+~
+0 0 467
+S
+#448
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 428
+D3
+
+~
+~
+0 0 468
+S
+#449
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 429
+D3
+
+~
+~
+0 0 469
+S
+#450
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 430
+D3
+
+~
+~
+0 0 470
+S
+#451
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 431
+D3
+
+~
+~
+0 0 471
+S
+#452
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 432
+D3
+
+~
+~
+0 0 472
+S
+#453
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 433
+D3
+
+~
+~
+0 0 473
+S
+#454
+The Driveway~
+You are walking on the driveway that belongs to a huge dark house!
+Becareful! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 434
+D3
+
+~
+~
+0 0 474
+S
+#455
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D3
+
+~
+~
+0 0 435
+S
+#456
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D3
+
+~
+~
+0 0 436
+S
+#457
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D3
+
+~
+~
+0 0 437
+S
+#458
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D3
+
+~
+~
+0 0 438
+S
+#459
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D3
+
+~
+~
+0 0 439
+S
+#460
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D3
+
+~
+~
+0 0 440
+S
+#461
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D3
+
+~
+~
+0 0 441
+S
+#462
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D3
+
+~
+~
+0 0 442
+S
+#463
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D3
+
+~
+~
+0 0 443
+S
+#464
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D3
+
+~
+~
+0 0 444
+S
+#465
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 445
+S
+#466
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 446
+S
+#467
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 447
+S
+#468
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 448
+S
+#469
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 449
+S
+#470
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 450
+S
+#471
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 451
+S
+#472
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 452
+S
+#473
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 453
+S
+#474
+The Steps of the House~
+A crowd of kids is here getting sweets! 
+~
+0 0 0
+D1
+
+~
+~
+0 0 454
+S
+#0
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 403 1 414 1
+M 0 401 1 415 1
+M 0 401 1 416 1
+M 0 401 1 417 1
+M 0 401 1 418 1
+M 0 401 1 419 1
+M 0 401 1 420 1
+M 0 401 1 421 1
+M 0 401 1 422 1
+M 0 401 1 423 1
+M 0 401 1 424 1
+M 0 401 1 427 1
+M 0 400 1 431 1
+M 0 400 1 435 1
+M 0 400 1 436 1
+M 0 400 1 437 1
+M 0 400 1 438 1
+M 0 400 1 439 1
+M 0 400 1 440 1
+M 0 400 1 441 1
+M 0 400 1 442 1
+M 0 400 1 443 1
+M 0 400 1 444 1
+M 0 400 1 447 1
+M 0 400 1 450 1
+M 0 401 1 452 1
+M 0 402 1 455 1
+M 0 402 1 456 1
+M 0 402 1 457 1
+M 0 402 1 458 1
+M 0 402 1 459 1
+M 0 402 1 460 1
+M 0 402 1 461 1
+M 0 402 1 462 1
+M 0 402 1 463 1
+M 0 402 1 464 1
+M 0 402 1 466 1
+M 0 402 1 468 1
+M 0 402 1 471 1
+M 0 402 1 473 1
+M 0 402 1 474 1
+S
+
+
+
+#$

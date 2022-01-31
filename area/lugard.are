@@ -1,0 +1,3618 @@
+#AREADATA
+Name Lugard~
+Builders Allen~
+VNUMs 4200 4349
+Credits `4[`*Middle`4]`* Allen     Lugard~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#4205
+Luguard Silver Pig patron 1~
+A stout man~
+A stout man is here eating and drinking.
+~
+This guy is dressed like a laborer.  Big bare feet, some raggy clothes, 
+and that is about it.
+~
+murandy~
+0 0
+AB 0 65 0 0 -1  0 0
+250 0 1d1000+0 0d0+0 1d500+200 crush
+-100 -100 -100 -100
+0 AB EG C
+stand sit male  500
+AHMV ABCDEFGHIJK medium unknown
+#4216
+Silver pig dog~
+dog~
+A large dog is here, wagging it's tail at you.
+~
+~
+dog~
+0 0
+AY 80 2112 0 0 -1  0 0
+75 0 1d500+0 0d0+0 10d10+20 none
+0 0 0 0
+FHK 0 0 0
+stand stand male  0
+AGV ACDEFHJKUV small unknown
+#4223
+Marchel~
+Marchel~
+Marchel is here, attending to his shop.
+~
+~
+murandy~
+0 0
+ABYZ 0 1024 0 0 -1  0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#4224
+The Maddam~
+the maddam~
+The Maddam of the house is here, keeping the girls in line.
+~
+~
+murandy~
+0 0
+ABYZ 256 1088 0 0 -1  -300 0
+150 200 10000d1+0 0d0+0 2d300+100 slap
+-150 -150 -150 -150
+0 ABH IJK a
+stand stand female 3000
+AHMV ABCDEFGHIJK medium unknown
+#4226
+Fat Sow Pig ~
+a fat sow~
+A fat sow is here looking at you grunting.
+~
+~
+pig~
+0 0
+A 0 2048 0 0 -1  0 0
+100 100 1d1000+0 0d0+0 2d150+0 charge
+0 0 0 0
+F 0 E 0
+stand stand male  0
+AGV ACDEFHJK medium unknown
+#4229
+Stable Keeper~
+the stable keeper~
+A burly man walking with a limp is here, doing chores.
+~
+~
+murandy~
+0 0
+A 80 65 128 0 -1  0 0
+120 200 5000d1+0 3000d1+0 1d700+250 cleave
+-120 -120 -120 -120
+0 NQ CEG J
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#4234
+angry mobster~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+ABG 0 0 0 0 -1  0 0
+40 40 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#4236
+Guard of Anger~
+The angry guard~
+A guard stands here with a very angry look on his face.
+~
+~
+andor~
+0 0
+ABG 336 64 128 0 -1  0 0
+150 300 50d100+1000 0d0+0 3d150+0 none
+-120 -120 -120 -120
+EFK ABQ CDEb 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 4236 100~
+#4239
+street drinker~
+A drinker from the street~
+A drunk is on the street trying to sell you some booze.
+~
+~
+unique~
+0 0
+ABG 0 16384 0 0 -1  0 0
+500 0 90d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M GRALL 4239 100~
+M GIVE 4241 15~
+M SPEECH 4240 give me the booze~
+M SPEECH 4239 anything~
+#4243
+Mistress~
+a mistress~
+A lady of the house is here, admireing you.
+~
+~
+murandy~
+0 0
+ABZ 0 1088 0 0 -1  -200 0
+120 0 5000d1+0 0d0+0 2d250+0 slap
+-100 -100 -100 -100
+EFK A GHI 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 4224 arrived~
+#4248
+lugard commoner 2~
+a servant~
+A woman is here, buying supplies
+~
+~
+murandy~
+0 0
+AW 80 64 1024 0 -1  1000 0
+250 300 10d100+100 0d0+0 10d20+20 slap
+-250 -250 -250 -250
+0 IL HJa b
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#4250
+lugard theiveing brat~
+a theiveing brat~
+A boy is here trying to look innocent.
+~
+~
+murandy~
+0 0
+ASW 80 65 0 0 -1  -200 0
+200 0 100d100+100 4000d1+0 10d20+0 punch
+0 0 0 0
+DFHK a H EF
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#4253
+stout man 2~
+stout man~
+A rather large man is here, looking at goods to buy, and you.
+~
+~
+murandy~
+0 0
+ACTc 80 64 0 0 -1  0 0
+150 300 100d100+0 0d0+0 1d250+0 crush
+0 0 0 0
+FK AB 0 0
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+#4262
+A Lady of the house~
+`*A lady of the house~
+A lady of the house is here, awaiting you.
+~
+~
+murandy~
+0 0
+ASYZ 256 1088 0 0 -1  -200 0
+150 200 18000d1+0 0d0+0 3d150+100 slap
+-140 -140 -140 -140
+FHK ABHb IJK 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+#4288
+Hairy Spider~
+a spider~
+A Hairy spider is here, spinning it's web.
+~
+~
+doll~
+0 0
+AFHUWc 0 1088 0 0 -1  0 0
+150 200 6000d1+0 0d0+0 20d10+40 bite
+-150 -120 -110 -100
+FH ILMNPQR ES GHJKO
+stand stand none 1
+EJMc ACK small unknown
+F par BGH
+#4302
+Cody~
+Cody~
+A young man is here, sweeping his room.
+~
+Dreased in rags just big enough, Cody sweeps the dust from the floor.
+~
+murandy~
+0 0
+ABJKab 80 1024 0 8192 -1  0 0
+250 0 1d1+999 1d1+999 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#4305
+Elden~
+Elden~
+Elden is here tending to his buisness
+~
+~
+murandy~
+0 0
+AB 336 1088 1 0 -1  0 0
+200 250 35000d1+0 1000d1+0 1d1000+200 crush
+-180 -180 -180 -180
+0 CE HJ I
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 4310 4236~
+M GIVE 4309 4339~
+M GIVE 4308 4239~
+M GIVE 4307 11805~
+M SPEECH 4306 need~
+M GRALL 4304 20~
+M SPEECH 4305 greetings~
+#4306
+scary archer~
+A scary looking archer~
+A scary looking archer is here
+~
+~
+unique~
+0 0
+ABGZe 256 64 0 0 -1  0 0
+150 100 30000d1+0 0d0+0 300d1+0 punch
+0 0 0 0
+0 0 0 DH
+stand stand none 0
+0 0 medium unknown
+#4308
+disarm~
+A man~
+A man stands here practicing with his weapon.
+~
+~
+unique~
+0 0
+ABe 256 64 0 128 -1  -900 0
+9000 1 26532d1+0 4010d1+0 1d1+0 none
+0 0 0 0
+0 BCDEFGHIJKLMNOPQRTXYZab 0 0
+stand stand none 0
+0 0 medium unknown
+#4310
+Silent Thief~
+Silent Thief~
+You can barley see a figure in the shadows here.
+~
+~
+andor~
+0 0
+ASTYZ 49408 32833 1 0 -1  0 0
+110 200 175d55+200 0d0+0 3d200+100 slice
+-100 -100 -100 -100
+FK ABJ CDb 0
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#4326
+room 3 mob man~
+`*Soldier of fortune~
+A large man stands here looking out the window.
+~
+~
+illian~
+0 0
+ABT 49408 1088 128 0 -1  0 0
+150 200 150d100+1000 0d0+0 40d50+150 crush
+-250 -250 -250 -250
+0 ABb HIK J
+stand stand male  0
+AHMV ABCDEFGHIJK large unknown
+#4331
+lugard wimp~
+A wimp~
+A wimpy looking guy is here
+~
+~
+unique~
+0 0
+ABGe 0 0 0 0 -1  0 0
+10 0 50d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#4335
+dark man~
+a dark man~
+Noticeing your presance, this guy look's at you with cold eyes.
+~
+Dressed in a dark clothes, a black cape and a dark hat, 
+this guy send's chill's down your back.
+~
+andor~
+0 0
+ARTY 256 1088 0 0 -1  -200 0
+200 300 12000d1+0 0d0+0 1d275+100 slash
+-120 -120 -120 -120
+FGK ABK H I
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#4336
+Traveling Priest~
+`*Traveling Priest~
+A man in a brown hooded robe holds a golden staff as he looks out at the window.
+~
+~
+andor~
+0 0
+ABRTZ 49408 1088 128 32772 -1  1000 0
+150 300 100d150+1000 1d3000+2000 3d350+0 divine
+-150 -150 -150 -90
+0 AB HIK 0
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#4340
+Susu the entertainer~
+Susu~
+A woman is here, danceing and singing.
+~
+Singing and danceing, Susu is doing her best to entertaine you.
+~
+murandy~
+0 0
+AB 336 64 0 0 -1  0 0
+200 0 12000d1+0 10000d1+0 1d500+100 slap
+-150 -150 -150 -140
+DFHK AB HI EG
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#4341
+hyald tran tanchico quest thing~
+Hyald Tran~
+Hyald Tran, a Lieutenant in the Guards of Tanchico stands here, surveying the area.
+~
+~
+unique~
+0 0
+ABTe 80 1088 0 0 -1  0 0
+200 0 50000d1+0 0d0+0 2000d1+0 none
+-150 -150 -150 -150
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#4200
+Silver Pig window~
+(no short description)~
+A window to look out at the busy street.~
+glass~
+window 0 0
+0
+ABEFGM 0 A 0 0
+0 0 0 P
+ T 0 none~
+#4201
+baggy pants~
+`*Dark baggy pants~
+A pair of cotton pants are left here.~
+cotton~
+armor C AF
+0
+ABF ABF ABF ABF 0
+110 40 150 P
+A
+14 20
+A
+18 8
+A
+19 8
+A
+20 -10
+ T 0 none~
+#4205
+wooden table~
+wooden table~
+A large old wood table is here.~
+wood~
+furniture 0 0
+0
+BC EGHIJK DG 0 0
+0 0 0 P
+ T 0 none~
+#4206
+Silver Pig Bar~
+the bar~
+A long wooden bar spans from wall to wall.~
+wood~
+furniture 0 0
+0
+0 CDFI 0 0 0
+0 0 0 P
+ T 0 none~
+#4224
+key to the stairway~
+`*A small key on a string.~
+A small key on a string.~
+iron~
+key Pa A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#4236
+name longsword anger~
+a Longsword of Anger~
+A dark red sword lies here.~
+steal~
+weapon 0 AN
+0
+sword 26 4 smash A
+110 250 10 B
+A
+19 5
+A
+18 5
+A
+13 12
+A
+2 2
+A
+20 -5
+ T 0 none~
+#4239
+nasty booze~
+a bottle of nasty booze~
+A nasty looking bottle containing a nasty looking liquid is here.~
+unknown~
+drink 0 A
+0
+100 100 'beer' 0 0
+0 0 0 P
+ T 0 none~
+#4251
+finely crafted spear~
+(`@B`2ugged`7) a `!f`1inely `$c`4rafted `7s`8pear`7~
+A spear is here~
+unknown~
+weapon d AN
+0
+spear 15 1 pierce ACG
+26 50 0 P
+A
+18 5
+A
+19 5
+A
+13 7
+ T 0 none~
+#4262
+Brown leather straps~
+`*Thin Black Leather Belt~
+Two straps of leather woven togher and tide lay here.~
+leather~
+armor 0 AL
+0
+ABF ABF ABF ABF 0
+110 20 10 P
+A
+13 100
+A
+20 -10
+A
+14 -20
+ T 0 none~
+#4264
+Black Satin Vest~
+`*A Soft Black Satin Vest~
+A soft satin vest is here, crumpled on the floor.~
+Satin~
+armor 0 AK
+0
+ABF ABF ABF ABF 0
+110 10 1 P
+A
+20 -10
+A
+18 8
+A
+19 8
+A
+17 -10
+A
+14 -10
+ T 0 none~
+#4265
+Black Satin Gloves~
+`*Black Satin Gloves~
+Black gloves lay here looking soft.~
+satin~
+armor 0 AH
+0
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+17 -20
+A
+18 8
+A
+19 8
+A
+13 30
+ T 0 none~
+#4301
+hay bale~
+a bale of hay~
+A few bales of hay are here for sitting on.~
+hay~
+furniture 0 0
+0
+AC ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef DG AC AC
+0 0 0 P
+ T 0 none~
+#4302
+Stable boy's window~
+a window~
+A window overlooking the square is closed to help keep out the dust.~
+glass~
+window 0 0
+0
+CHM C A 0 0
+0 0 0 P
+ T 0 none~
+#4305
+golden tipped arrow~
+a golden arrow~
+A golden arrow sits on the groud.~
+unknown~
+arrow T AO
+E
+0 75 2 0 ACG
+110 0 0 P
+A
+18 8
+A
+19 8
+ T 0 none~
+#4306
+quiver dark~
+a Quiver of Dark~
+A hard leather quiver sits here.~
+unknown~
+quiver Ta AS
+E
+400 800 0 4305 0
+110 1000 0 P
+A
+19 8
+A
+18 8
+A
+20 -6
+A
+17 -5
+ T 0 none~
+#4308
+tower chest~
+a small wooden chest~
+A wooden chest sit's here, balanced on the rafter.~
+wood~
+container T 0
+0
+1 AC 0 200 200
+0 1000 0 P
+ T 0 none~
+#4309
+elixir life~
+an elixir of life~
+A potion sits here.~
+liquid~
+potion Ta A
+0
+76 'heal' 'heal' 'sanctuary' 'bless'
+76 0 0 P
+ T 0 none~
+#4310
+scrunchie~
+`*A black scrunchie~
+A tightly wadded up bit of soft cloth is here with a few strands of hair on it.~
+unknown~
+armor CGSa AE
+0
+ABF ABF ABF ABF 0
+110 10 10 P
+A
+20 -10
+A
+18 8
+A
+19 8
+ T 0 none~
+#4314
+sword~
+a sword~
+A sword is here~
+unknown~
+trash 0 AN
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#4324
+room 1 key~
+the key to Room 1 of The Good Night's Ride Inn~
+The key to Room 1 of The Good Night's Ride Inn~
+iron~
+key 0 AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#4326
+Polished Steel Plated Shoulder and Arm Guard~
+`*Polished Steel Plated Shoulder and Arm Guard~
+Some battle armor is here, resting on the floor.~
+steal~
+armor Sa AI
+DHJ
+DF DF DF DF 0
+110 700 10000 P
+A
+12 -40
+S 'detect invis'   0  80  -1  25   0          4
+S 'detect hidden'   0  80  -1  25   0          6
+A
+20 -10
+A
+18 8
+A
+19 8
+A
+14 -20
+ T 0 none~
+#4327
+room 3 key~
+the key to Room 3 of The Good Night's Ride Inn~
+The key to Room 3 of The Good Night's Ride Inn~
+iron~
+key 0 AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#4328
+room sign~
+<-- Room 3  Room 4 -->~
+<-- Room 3  Room 4 -->~
+wood~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#4334
+room 4 key~
+the key to Room 4 of The Good Night's Ride Inn~
+The key to Room 4 of The Good Night's Ride Inn~
+iron~
+key 0 AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#4336
+window~
+(no short description)~
+(no description)~
+unknown~
+window 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#4337
+room 2 key~
+the key to Room 2 of The Good Night's Ride Inn~
+The key to Room 2 of The Good Night's Ride Inn~
+unknown~
+key 0 AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#4338
+room sign2~
+<-- Room 1  Room 2 -->~
+<-- Room 1  Room 2 -->~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#4339
+Staff of Light~
+`*The Staff of Light~
+A staff with a cross rest's on the ground.~
+unknown~
+weapon AI AN
+B
+exotic 3 49 divine BC
+110 30 10000 P
+A
+14 -10
+A
+18 8
+A
+19 8
+A
+20 -10
+ T 0 none~
+#4340
+Dagger of Eldorone~
+`*The Dagger of Eldorone~
+Dagger with some sort of ancient writing engraved in the blade lays here.~
+steel~
+weapon A AN
+CF
+dagger 3 43 drain BC
+97 150 150 P
+A
+1 6
+A
+2 6
+A
+20 -5
+A
+18 7
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#4200
+The Silver Pig~
+Resting here, covered with scars made from knives scoreing and being
+stuck into the wood, is a table made of a heavy, sturdy wood.  Large enough
+it looks like it could seat eight people easy.  Looking out the window to
+the street, you notice a pickpocket takeing advantage of yet another
+forigner in the sea of people.  
+~
+0 0 0
+D0
+~
+~
+0 0 4201
+D1
+~
+~
+0 0 4203
+D2
+~
+~
+0 0 4220
+S
+#4201
+The Silver Pig~
+This tavern, like everything else here, has a thin layer of dust all over
+everything.  There are some old wooden tables here and there, also a rather
+long bar to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 4202
+D2
+~
+~
+0 0 4200
+S
+#4202
+The Silver Pig~
+This tavern, like everything else here, has a thin layer of dust all over
+everything.  There are some old wooden tables here and there, also a rather
+long bar to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 4210
+D2
+~
+~
+0 0 4203
+D3
+~
+~
+0 0 4201
+S
+#4203
+The Silver Pig~
+This tavern, like everything else here, has a thin layer of dust all over
+everything.  There are some old wooden tables here and there, also a rather
+long bar to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4202
+D1
+~
+~
+0 0 4213
+D2
+~
+~
+0 0 4204
+D3
+~
+~
+0 0 4200
+S
+#4204
+The Silver Pig~
+This tavern, like everything else here, has a thin layer of dust all over
+everything.  There are some old wooden tables here and there, also a rather
+long bar to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4203
+D1
+~
+~
+0 0 4214
+D2
+~
+~
+0 0 4206
+D3
+~
+~
+0 0 4220
+S
+#4205
+The Silver Pig~
+Standing at the bar, you see many types of people.  The bar tender seem's
+to take his time getting to you, but finaly does.  On the price list you
+knotice the prices are a bit lower than what you were told.  Oh well, at
+least the beer is good.  
+~
+0 0 0
+D0
+~
+~
+0 0 4220
+D1
+~
+~
+0 0 4206
+S
+#4206
+The Silver Pig~
+Standing at the bar, you see many types of people.  The bar tender seem's
+to take his time getting to you, but finaly does.  On the price list you
+knotice the prices are a bit lower than what you were told.  Oh well, at
+least the beer is good.  
+~
+0 0 0
+D0
+~
+~
+0 0 4204
+D1
+~
+~
+0 0 4215
+D3
+~
+~
+0 0 4205
+S
+#4207
+Path to an Old Stable~
+Heading east you see the old stable house not to far infront of you. 
+There is tall grass and shrubs north and to the south you see a building off
+by it's self with women lounging on the frount porch.  
+~
+0 0 1
+D1
+~
+~
+0 0 4217
+D2
+~
+~
+0 0 4245
+D3
+~
+~
+0 0 4251
+S
+#4208
+The Lugard Road~
+Continueing on your journey to the north, you have 
+entered the city of Lugard.  This city is old, and 
+run down.  The victom of many power strugles over 
+the year's.  Once a trade mecca, now, a haven for 
+theive's and thugs. 
+~
+0 0 1
+D0
+~
+~
+0 0 4209
+D2
+~
+~
+0 0 38243
+S
+#4209
+The Lugard Road~
+Continueing on the road you come up to the Silver Pig.
+The smell's emanating from this place are mixed.  Some
+exciteing your taste buds, makeing your mouth water, 
+other's, well not so pleasent.
+~
+0 0 1
+D0
+~
+~
+0 0 4211
+D1
+~
+~
+1 0 4220
+D2
+~
+~
+0 0 4208
+S
+#4210
+The Silver Pig~
+This tavern, like everything else here, has a thin layer of dust all over
+everything.  There are some old wooden tables here and there, also a rather
+long bar to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 4213
+D3
+~
+~
+0 0 4202
+D4
+~
+~
+0 0 4216
+S
+#4211
+The Lugard Road~
+If this road is as muddy after a good rain as it is dusty, than you are
+happy to be here when it is dry.  The dust is everywhere here.  You see it
+on the roof top's, the building wall's, just everywhere.  
+~
+0 0 1
+D0
+~
+~
+0 0 4298
+D2
+~
+~
+0 0 4209
+S
+#4212
+Before a Stone Tower~
+The Lugard Road continues to the north and south.  Looming to the west,
+standing strangely close to the road, is a massive stone building with an
+impossibly tall tower reaching up to the sky.  The impressive gates of
+Lugard itself stand directly south.  
+~
+0 0 1
+D0
+~
+~
+0 0 4225
+D2
+~
+~
+0 0 4285
+D3
+~
+~
+0 0 4222
+S
+#4213
+The Silver Pig~
+This tavern, like everything else here, has a thin layer of dust all over
+everything.  There are some old wooden tables here and there, also a rather
+long bar to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4210
+D2
+~
+~
+0 0 4214
+D3
+~
+~
+0 0 4203
+S
+#4214
+The Silver Pig~
+This tavern, like everything else here, has a thin layer of dust all over
+everything.  There are some old wooden tables here and there, also a rather
+long bar to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4213
+D2
+~
+~
+0 0 4215
+D3
+~
+~
+0 0 4204
+S
+#4215
+The Silver Pig~
+Standing at the bar, you see many types of people.  The bar tender seem's
+to take his time getting to you, but finaly does.  On the price list you
+knotice the prices are a bit lower than what you were told.  Oh well, at
+least the beer is good.  
+~
+0 4 0
+D0
+~
+~
+0 0 4214
+D3
+~
+~
+0 0 4206
+S
+#4216
+Keeper's Quarters~
+This room is rather large, basicly the size of the whole bar it's self. 
+You can hear the the going's on of down stairs, but not to loud.  Probley
+should'nt be here, since the bartender looks rougher than you and has
+probley seen a few more fight's than you have.  
+~
+0 0 0
+D5
+~
+~
+0 0 4210
+S
+#4217
+Entrance to an old stable~
+Run down and almost in ruin you are at the enterance to an old stable
+house.  Not very large, it looks about like it could house four to six
+animals total.  The door it's self is broken with one of it's rolling henges
+off the rusted track.  
+~
+0 0 1
+D1
+~
+~
+0 0 4218
+D3
+~
+~
+0 0 4207
+S
+#4218
+Inside the Stable House~
+Inside the stable, it looks just about like anyother you have seen,
+except this one is in serious need of repair in spots.  Looking up, you can
+see hole in the roof where the wood has rotted away.  The joist's seem firm
+though, made of thick heavy wood beams held togher by iron braces with nails
+driven through them.  The dirt floor is well packed though a bit dusty. 
+There are stall's to the north and to the south.  Further on east are four
+more stall's.  
+~
+0 0 0
+D0
+~
+~
+0 0 4219
+D1
+~
+~
+0 0 4221
+D2
+~
+~
+0 0 4226
+D3
+~
+~
+0 0 4217
+S
+#4219
+A Horse Stall~
+Walking through the worn gate you find yourself in a horse's stall
+complete with a horse.  The floor is covered with a couple bail's of fresh
+hay.  Hanging on the wall's are various sizes of leather staps and such
+along with some tool's and what not.  
+~
+0 0 0
+D2
+~
+~
+0 0 4218
+S
+#4220
+The Silver Pig~
+This tavern, like everything else here, has a thin layer of dust all over
+everything.  There are some old wooden tables here and there, also a rather
+long bar to the south.  As you enter people turn to look at you, some grunt
+a bit, muttering something about damn foreigners and then returning about
+their business.  There is a sign posted on the wall here.  
+~
+0 4 0
+E
+sign~
+Not responsible for lost or stolen goods.
+YOU are responsible for your own purse.
+ 
+- The Management
+~
+D0
+~
+~
+0 0 4200
+D1
+~
+~
+0 0 4204
+D2
+~
+~
+0 0 4205
+D3
+~
+~
+1 0 4209
+S
+#4221
+Center of the Stable House~
+An old oil lantern hangs from a joist burning with a low flame provideing
+barley just enough light to see with.  Hay has been scattered litely here to
+help try to control the dust that seems to cover everything in this forsaken
+town.  
+~
+0 0 0
+D0
+~
+~
+0 0 4229
+D1
+~
+~
+0 0 4232
+D2
+~
+~
+0 0 4231
+D3
+~
+~
+0 0 4218
+S
+#4222
+Tower Entrance~
+At the end of the hall sits a set of very narrow, winding stairs.  The
+wooden planks that make up the steps look motheaten and not very steady. 
+There is no handrail and the tops of the stairs are practically invisible in
+the darkness.  There seems to be a small opening in the south wall.  
+~
+0 4 0
+D0
+~
+~
+0 0 4267
+D1
+~
+~
+0 0 4212
+D2
+~
+~
+0 0 4268
+D3
+~
+~
+0 0 4270
+S
+#4223
+Hired Hands~
+This place deals in brute and brawn for hire.  It is also a place where
+those who are despret for quick cash or a quick way out of town come.  Some
+are thieves, others, common criminals.  Rarely does a honest man come here
+to offer his 'services' for adventure.  Carefull with the help you hire
+here.  
+~
+0 4100 1
+S
+#4224
+Marchel's storeage~
+~
+0 138412036 0
+S
+#4225
+The Lugard Road~
+The road appears heavily travelled at this point, and the gates of Lugard
+can be clearly seen in the distance to the south.  The stone building to the
+south is impressive in both its size and the height of its tower.  Not a
+single light shines in the tower windows.  
+~
+0 0 1
+D0
+~
+~
+0 0 4284
+D2
+~
+~
+0 0 4212
+S
+#4226
+Swine Stall~
+Occupying this stall is a fat sow.  There was at one point a layer of hay
+covering the floor here but she as pushed it all to the edges of the stall
+exposeing the hard packed dirt floor.  Looking at it closer, you can see
+where she was rutting with her thick but strong snout.  Of to one side of
+the stall and towards the wall, you see where she pushed a bunch of hay for
+her bed.  
+~
+0 0 0
+D0
+~
+~
+0 0 4218
+S
+#4227
+Lugard Square~
+Good's and ware's lay out in the open for you to see on rug's and tables
+tightly packed neatly, presenting a some what organized sort of way.  The
+pedler's selling their goods eye you carefully as you walk along.  
+~
+0 0 1
+D0
+~
+~
+0 0 4253
+D1
+~
+~
+0 0 4299
+D3
+~
+~
+0 0 4228
+S
+#4228
+Lugard Square~
+There is a rather large Inn here, the entrance west and the stable's
+south.  It seem's to of been kept in better shape than most other building's
+in this town, though still dusty.  
+~
+0 0 1
+D0
+~
+~
+0 0 4238
+D1
+~
+~
+0 0 4227
+D2
+~
+~
+1 0 4306
+D3
+~
+~
+1 0 4340
+S
+#4229
+An Empty Stall~
+This stall is empty, though there is still a fresh layer of hay on the
+floor.  Hanging on the wall are more leather straps, and a few more tool's. 
+~
+0 0 0
+D2
+~
+~
+0 0 4221
+S
+#4230
+Lugard Square~
+People eye you as you pass.  You dont know if they are looking at you or
+your purse, or both.  
+~
+0 0 1
+D1
+~
+~
+0 0 4250
+D2
+~
+~
+0 0 4253
+D3
+~
+~
+0 0 4248
+S
+#4231
+Free Stall~
+This stall seem's a bit dirty as stall's go.  The hay doesnt look as
+fresh as the other's and it's clumped togher like it is ready to be gathered
+and hauled off to the burn pile.  The wall here is bare, nothing hanging on
+it except some hooks that were driven into the wooden collom's and a few
+nails driven in to the wood.  
+~
+0 0 0
+D0
+~
+~
+0 0 4221
+S
+#4232
+Far end of the stable~
+Another lantern hangs from the joist here with a bit more of a flame and
+and a peice of pollished steal attached to the back end of the the globe to
+reflect the light to the out side at the walking area.  A ladder goes up.  
+~
+0 0 0
+D0
+~
+~
+0 0 4241
+D1
+~
+~
+0 0 4239
+D2
+~
+~
+0 0 4233
+D3
+~
+~
+0 0 4221
+D4
+~
+~
+0 0 4242
+S
+#4233
+Work Shop~
+Here is the workshop for this stable.  There is a bench along the wall
+with various tools anging on the wall and on the bench you see the missing
+henge for the door to the west as well as some other projects and what not. 
+As well as a benchn there is a small stool for sitting, although on closer
+inspection, you see a thin crack in the wood of one of the leg's.  Some hay
+is scatered about the floor, mostlikely to help cotrol the dust problem.  
+~
+0 0 0
+D0
+~
+~
+0 0 4232
+S
+#4234
+The Jehannah Road~
+~
+0 0 1
+D1
+~
+~
+0 0 4235
+S
+#4235
+The Jehannah Road~
+~
+0 0 1
+D1
+~
+~
+0 0 4236
+D3
+~
+~
+0 0 4234
+S
+#4236
+The Westren Gate's of Lugard.~
+~
+0 0 1
+D1
+~
+~
+0 0 4237
+D3
+~
+~
+0 0 4235
+S
+#4237
+The Jehannah Road~
+~
+0 0 1
+D1
+~
+~
+0 0 4248
+D3
+~
+~
+0 0 4236
+S
+#4238
+Lugard Square~
+Along the east side of the road there are a few tables selling various
+fruit's and vegitables, as well as different supplies for the traveler.  
+~
+0 0 1
+D0
+~
+~
+0 0 4248
+D1
+~
+~
+0 0 4253
+D2
+~
+~
+0 0 4228
+S
+#4239
+Running Area~
+Old hay and hardend dirt ground can be found here with in the wooden rail
+fence.  This is a small exercise area for the animals that reside here.  
+~
+0 1024 2
+D3
+~
+~
+0 0 4232
+S
+#4240
+Hay loft~
+Bale's of hay can be seen here, neatly stacked.  Again you are appalled
+at the ammount of dust that covers everything in sight.  
+~
+0 0 0
+D3
+~
+~
+0 0 4301
+D5
+~
+~
+0 0 4306
+S
+#4241
+Horse Stall~
+Another empty stall, although the hay here is fresh and seem's as though
+something was moveing it around.  Perhaps the horse that was here is out
+side, getting some exercise.  
+~
+0 0 0
+D2
+~
+~
+0 0 4232
+S
+#4242
+Hay Loft~
+Some boards were laid over the ceiling joist's here to form a floor. 
+Stacked as neatly as hay can are bail's of hay over by the wall and around
+the edges of the floor.  A hook roped a block and tackle is dangleing free
+and the rope swung up and over the joist, out of the way.  
+~
+0 0 0
+D5
+~
+~
+0 0 4232
+S
+#4243
+On the Porch~
+A few of the ladies of the establishment are here, greeting you.  The
+porch is made of wood planks, some nailed in, other's not.  They shift and
+bow under your weight, seeming almost like they could break at any time.  
+~
+0 0 1
+D0
+~
+~
+0 0 4245
+D1
+~
+~
+0 0 4244
+S
+#4244
+Reception~
+The inkeep of this place stagers the imagnation.  One would think that
+with the money a place like this brings in, they could fix the place up a
+little.  The wall papper is fadded and pealed and the ever presant dust is
+here, covering everything, but the women.  
+~
+0 0 1
+D1
+~
+~
+0 0 4246
+D3
+~
+~
+0 0 4243
+S
+#4245
+Near The Brothels~
+Walking further south you can start to smell a familiar scent of perfume
+lingering about in the air.  The ladies notice you as you approach the
+building and start to show off a bit.  Some wave, some yell hi to you while
+other's just have a grin on their face.  
+~
+0 4 1
+D0
+~
+~
+0 0 4207
+D1
+~
+~
+0 0 4254
+D2
+~
+~
+0 0 4243
+S
+#4246
+Liveing Area~
+Some differant types of furnature are scattered about here in no order
+that you can see.  The walls are covered in faded and tattered wall paper,
+the floor boards creek and shift.  If someone were to start a fire, this
+place would'nt last long.  Ther are some stairs going up and a widow here,
+looking out to the path you arrived on.  
+~
+0 0 1
+D3
+~
+~
+0 0 4244
+D4
+~
+~
+3 4224 4247
+S
+#4247
+A Small Hallway~
+Climbing up the stair's you notice the upper level is in worse shape than
+the lower.  Reaching the top, you see a small hallway off to your left with
+several closed door's.  Most likely where most of the business this place
+see's is done.  
+~
+0 138412036 1
+D2
+~
+~
+1 0 4262
+D3
+~
+~
+0 0 4252
+D5
+~
+~
+3 0 4246
+S
+#4248
+Lugard Square~
+A few empty tables are here, and a few not so empty.  To the west, the
+road to Jehannah, east the stable's and south the Good Night's Ride Inn.  
+~
+0 0 1
+D1
+~
+~
+0 0 4230
+D2
+~
+~
+0 0 4238
+D3
+~
+~
+0 0 4237
+S
+#4249
+Lugard Square~
+~
+0 4 1
+S
+#4250
+Lugard Square~
+Lugard Square, filled with good's and ware's from the surrounding country
+side and other town's around.  This is a literly a flee market where you
+could buy most everything and anything you ever wanted.  
+~
+0 0 1
+D1
+~
+~
+0 0 4251
+D2
+~
+~
+0 0 4260
+D3
+~
+~
+0 0 4230
+S
+#4251
+Fountain on the Lugard Road~
+At this wide point in the Lugard road, a fountain stands.  An old stable
+can be seen to the east, and a stone wall low enough to walk upon extends to
+the west.  The road is narrow and covered with trampled grass to the north,
+but remains wide to the south.  
+~
+0 4 1
+D0
+~
+~
+0 0 4293
+D1
+~
+~
+0 0 4207
+D2
+~
+~
+0 0 4261
+D3
+~
+~
+0 0 4250
+S
+#4252
+A Small Hallway~
+The boards creek with age and shift as you walk on them.  Dust covers the
+floor and the wall's.  The Wallpaper is mostly striped away leaveing a run
+down appearance.  South and west are more room's and north is the balcony.  
+~
+0 138412032 0
+D0
+~
+~
+1 0 4263
+D1
+~
+~
+0 0 4247
+D2
+~
+~
+1 0 4265
+D3
+~
+~
+1 0 4264
+S
+#4253
+Lugard Square~
+A large, dry fountian is here in the center, filled with dust and dirt. 
+People have said that it will fill during a good rain though but not much
+ever beyond that.  
+~
+0 4 1
+D0
+~
+~
+0 0 4230
+D1
+~
+~
+0 0 4260
+D2
+~
+~
+0 0 4227
+D3
+~
+~
+0 0 4238
+S
+#4254
+Westren Lugard Road.~
+Further on you can see a stable and just to the south, somthing that
+looks to be a large house.  The up keep doesnt look all that good.  
+~
+0 0 1
+D1
+~
+~
+0 0 4255
+D3
+~
+~
+0 0 4245
+S
+#4255
+Westren Lugard Road~
+You start to see Lugard as you walk further.  The buildings are in poor
+repair and you can plainly see that dust simply covers everything here.  
+~
+0 0 1
+D1
+~
+~
+0 0 4256
+D3
+~
+~
+0 0 4254
+S
+#4256
+Westren Lugard Road~
+The road here turns to a hard packed dirt.  As you walk over it, you kick
+up dust that seem's to just hang in the still air.  
+~
+0 0 1
+D1
+~
+~
+0 0 4280
+D3
+~
+~
+0 0 4255
+S
+#4257
+Caemlyn Road~
+Exiting the forest now, you find yourself in a field.  The ground is
+starting to turn into a hard packed dirt from heavy traffic over the years. 
+The further west you go, the more dust and dirt you seem to kick up.  
+~
+0 0 1
+D1
+~
+~
+0 0 4258
+D3
+~
+~
+0 0 4280
+S
+#4258
+Caemlyn Road~
+The road here starts to come to a clearing.  Further ahead, you can see
+that's it is opening up into a feild of sorts.  The foliage seem's to start
+to over grow here as you press on.  
+~
+0 0 1
+D1
+~
+~
+0 0 4259
+D3
+~
+~
+0 0 4257
+S
+#4259
+Caemlyn Road~
+Walking through the forest with it's many different sounds from the many
+different animals that live here.  The air is cool, and as you walk along,
+you notice that the seemly random noise form the birds singing sort of has
+it's own melody to it.  
+~
+0 0 1
+D2
+~
+~
+0 0 7690
+D3
+~
+~
+0 0 4258
+S
+#4260
+Lugard Square~
+Tables and benches line up and down both sides of a dirt packed walkway. 
+No one has ever bothered to place stones here to make it easyer to walk on,
+or if so, they probley have been removed over the year's for who know's what
+reason.  
+~
+0 0 1
+D0
+~
+~
+0 0 4250
+D2
+~
+~
+0 0 4299
+D3
+~
+~
+0 0 4253
+S
+#4261
+On the Lugard Road~
+The road is wide here, wide enough for two carts to easily ride side by
+side.  The dirt road is hard-packed as if many a wagon and traveller has set
+their course to Lugard.  The city walls lie down the road in the distance to
+the south, and the road also continues north.  
+~
+0 0 1
+D0
+~
+~
+0 0 4251
+D2
+~
+~
+0 0 4298
+D3
+~
+~
+0 0 4299
+S
+#4262
+A Whore's Room~
+A bed rest's here against the wall.  It does look 
+comfortable, but the sheet's dont look so nice.
+On the wall oppiset of the bed, is a dresser with 
+a mirror and a wash basin.
+~
+0 138412032 0
+D0
+~
+~
+1 0 4247
+S
+#4263
+The Balcony~
+As you look out over the balcony, you can see all of Lugard and some of
+the area around it.  You can see the massive stone wall's, most of which
+have crumbled over the years, now being used as sidewalk's and others, lower
+to the ground, being used to drive wagons and what not on.  But it is truley
+a sight to behold to the outsider, the power struggles over the years marked
+by these ever presant reminders of greed.  
+~
+0 0 1
+D2
+~
+~
+1 0 4252
+D3
+~
+~
+0 0 4266
+S
+#4264
+A Whores Room~
+This room must be where they take their, better paying customers.  The
+wall paper on the wall's isnt torn and the dust seem's to be taken care of. 
+The smell here is one of a true ladies room, and the bed is well made with
+flufed pillows.  
+~
+0 138412032 0
+D1
+~
+~
+1 0 4252
+S
+#4265
+A Whores Room~
+This room is clearly a mess.  Clothing is tossed about everywhere.  Some
+on line's to dry, others just left where they lay.  The wall's dont seem as
+bad as the other's though.  At least they have been taken care of somewhat. 
+~
+0 138412032 0
+D0
+~
+~
+1 0 4252
+S
+#4266
+The Balcony~
+~
+0 0 1
+D1
+~
+~
+0 0 4263
+S
+#4267
+Within the Tower~
+There is an old table here along the wall.  It's top is covered with dust
+and mold from the moist air moveing up from the tower celler.  A stone in
+the floor is missing here.  Carefull not to fall in the hole.  
+~
+0 0 0
+D2
+~
+~
+0 0 4222
+D3
+~
+~
+0 0 4269
+S
+#4268
+Within the Tower~
+The stone's from the floor above rest here, but not all of them, leaveing
+a sort of ledge with a few of them ballanced just right on the wooden
+support beam.  
+~
+0 0 0
+D0
+~
+~
+0 0 4222
+D3
+~
+~
+0 0 4272
+S
+#4269
+Within the Tower~
+More suit and burn marks are here on the stone floor.  Other than much,
+not much to look at.  The air is some what cool though, most likely due to
+the shade.  
+~
+0 0 0
+D1
+~
+~
+0 0 4267
+D2
+~
+~
+0 0 4270
+D3
+~
+~
+0 0 4273
+S
+#4270
+Within the Tower~
+Large stone's some almost a foot thick lay here on the floor.  Looking
+up, you see where they came from.  Eather a fire or rot has taken out some
+of of the support beam's that held the stone's in place, allowing them to
+fall.  Looking towards the south wall, you notice that the stone's
+contribute to the gap in the wall, as if somthing took a big bite out of the
+tower it's self.  
+~
+0 0 0
+D0
+~
+~
+0 0 4269
+D1
+~
+~
+0 0 4222
+D2
+~
+~
+0 0 4272
+D3
+~
+~
+0 0 4274
+S
+#4271
+End of the Lugard Road~
+A stretch of hard packed earth lies before you.  A few ruts or pebbles
+mark its relatively smooth complexion.  Off to the sides of the road you
+notice drainage ditches for nasty rainy weather, drinking from them could
+prove hazardous.  
+~
+0 0 1
+D1
+~
+~
+0 0 4281
+S
+#4272
+Within the Tower~
+The hole in the wall here is inpassable due to the pile of stone's.  It's
+as if they just fell out of the wall in to a large pile.  There are also
+some stone's from the ceiling laying here in the pile.  There is a long
+wooden beam that confroms with the curve of the stone's along the upper
+wall.  You cant tell, but it look's like a box or somehing is resting atop
+of it.  
+~
+0 0 0
+D0
+~
+~
+0 0 4270
+D1
+~
+~
+0 0 4268
+D3
+~
+~
+0 0 4275
+S
+#4273
+Within the Tower~
+Not much to look at here.  What ever was here was looted or burned.  By
+the black mark's and suit on the floor and wall, it's safe to assume that
+what was here, was burned.  
+~
+0 0 0
+D1
+~
+~
+0 0 4269
+D2
+~
+~
+0 0 4274
+S
+#4274
+Stairwell~
+The wooden stairs are old and rickety, bending under your weight,
+creeking and poping.  The dust that proliferate's everything falls from the
+bottom of the steps, giveing an errey effect to the circular stairwell.  
+~
+0 0 0
+D0
+~
+~
+0 0 4273
+D1
+~
+~
+0 0 4270
+D2
+~
+~
+0 0 4275
+D4
+~
+~
+0 0 4304
+S
+#4275
+Within the Tower~
+The stone's from the floor above rest here, but not all of them, leaveing
+a sort of ledge with a few of the stones ballanced just right on the wooden
+support beams.  
+~
+0 0 0
+D0
+~
+~
+0 0 4274
+D1
+~
+~
+0 0 4272
+D5
+~
+~
+3 0 4276
+S
+#4276
+Below the Tower~
+Opening the trap door and stepping down, you find yourself in a damp and
+darkend area.  No one has been here in a long time, it's very easy to see. 
+Broken bottles and spider webs abound.  There is not much down here, but a
+wide open place.  
+~
+0 0 0
+D0
+~
+~
+0 0 4289
+D1
+~
+~
+0 0 4277
+D4
+~
+~
+3 0 4275
+S
+#4277
+Below the Tower~
+The stone floor here has been removed and bare dirt exposed.  Also there
+are stones missing from the wall.  Not much to look at here.  
+~
+0 0 0
+D0
+~
+~
+0 0 4288
+D1
+~
+~
+0 0 4278
+D3
+~
+~
+0 0 4276
+S
+#4278
+Below the Tower~
+More of the same shelves here, stacked to the ceiling.  Some empty,
+others with one or two bottles or jar's.  Nothing seem's interesting about
+them though.  
+~
+0 0 0
+D0
+~
+~
+0 0 4279
+D3
+~
+~
+0 0 4277
+S
+#4279
+Below the Tower~
+There is a group of shelves here, holding differant jar's and bottles and
+what.  Most look broken, cracked by time and neglect, or vandles and
+theives.  Mostly they hold junk now and not much else.  
+~
+0 0 0
+D0
+~
+~
+0 0 4292
+D2
+~
+~
+0 0 4278
+D3
+~
+~
+0 0 4288
+S
+#4280
+Shilene Gate~
+The Shilene Gate's of Lugard.  They dont appear to be all that great, due
+to the lack of up keep.  Old stone lies crumbleing on the ground and the
+gate's are rusting on their henges.  
+~
+0 4 1
+D1
+~
+~
+0 0 4257
+D3
+~
+~
+0 0 4256
+S
+#4281
+A Grassy Field~
+Tall, stalky grass extends in all directions, wind rippling across it
+like a sea.  Patches of brown dot the expanse of green around you, places
+where not enough water has reached it.  A few scraggly, small trees populate
+the field, although not growing too well, with cracked and twisted branches.
+To the west can be seen a road, and to the east the beginnings of a
+wandering path.  
+~
+0 0 1
+D2
+~
+~
+0 0 4282
+D3
+~
+~
+0 0 4271
+S
+#4282
+A Wide Field~
+This isolated field has produced some very fragrant vegetation.  Flowers
+of blue and violet populate the grassy field.  To the north-east a forest
+stretches but no trees mar this field's complexion.  The field extends to
+the north and a dirt road can be seen to the south through the untamed
+plants and weeds.  
+~
+0 0 1
+D0
+~
+~
+0 0 4281
+D2
+~
+~
+0 0 4283
+S
+#4283
+Overgrown Road~
+Needles and plants with vines of thorns grow untamed to the sides of the
+road.  Debris of all manner have found a home on the road, clogging it and
+making travel difficult.  To the south and east lay more brambles and to the
+north a large field with some colorful flowers fills the view.  
+~
+0 0 1
+D0
+~
+~
+0 0 4282
+D2
+~
+~
+0 0 4284
+S
+#4284
+Overgrown Road~
+The overgrowth has gotten very thick here.  Brambles completely cover the
+surface of the roadway, making it a very prickly place to walk.  Plants with
+large, shiny green leaves and grey stems enclose the path from the sides and
+dead sticks poke up thoughout the green.  
+~
+0 0 1
+D0
+~
+~
+0 0 4283
+D2
+~
+~
+0 0 4225
+S
+#4285
+Overgrown Road~
+The growth seems somewhat sparse here, at least compared to what it was
+before.  Large gaps appear in the hedges and bushes while making a beautiful
+canopy overhead.  The road looks as if it lies to the north and south.  It
+also appears as if a path could be pushed to the east, if one were
+determined enough.  
+~
+0 0 1
+D0
+~
+~
+0 0 4212
+D2
+~
+~
+0 0 4286
+S
+#4286
+Overgrown Road~
+Single trees are growing here, overshadowing the nearby bush and brush. 
+It seems as if these were once fruit-bearing trees, at least in their youth.
+Small stone blocks lie scattered about under the trees and the brush.  
+~
+0 0 1
+D0
+~
+~
+0 0 4285
+D2
+~
+~
+0 0 4287
+S
+#4287
+The Stone Gates~
+Large, dull grey stones, the color of a stormy sky, make up the old,
+deteriorating gates.  These old gates clearly have seen better days as many
+stones are either missing or lying scattered on the ground nearby.  The road
+continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 4286
+D2
+~
+~
+0 0 4293
+S
+#4288
+Below the Tower~
+There is a old, heavey wooden work table here with several tool's and
+what not scattered about.  Other than that, not much to look at here.  
+~
+0 0 0
+D0
+~
+~
+0 0 4291
+D1
+~
+~
+0 0 4279
+D2
+~
+~
+0 0 4277
+D3
+~
+~
+0 0 4289
+S
+#4289
+Below the Tower~
+Bare stone floor with stone wall's are all that you see here.  There is a
+lanturn hanging on a nail driven into the wood, though it's probley not much
+good.  You see flakes of rust on it that gathered over the years.  
+~
+0 0 0
+D0
+~
+~
+0 0 4290
+D1
+~
+~
+0 0 4288
+D2
+~
+~
+0 0 4276
+S
+#4290
+Below the Tower~
+A pile of old wood is stacked here log by log.  The musty smell of the
+dirt and moisture mixed with the cool air give's a impression of stillness. 
+~
+0 0 0
+D1
+~
+~
+0 0 4291
+D2
+~
+~
+0 0 4289
+S
+#4291
+Below the Tower~
+The stack of log's runs along the wall, three sometimes four deep. 
+Spider webs are everywhere and some are quite thick.  Through the dirt you
+can tell the floor is made of stone.  
+~
+0 0 0
+D1
+~
+~
+0 0 4292
+D2
+~
+~
+0 0 4288
+D3
+~
+~
+0 0 4290
+S
+#4292
+Below the Tower~
+The logs end here sharply into just a few log's scatterd about and some
+resting in a puddle of water.  The muskey smell of moldy wood mixes with the
+cool damp air, giveing you a sence of refreshment.  
+~
+0 0 0
+D2
+~
+~
+0 0 4279
+D3
+~
+~
+0 0 4291
+S
+#4293
+Lugard Path~
+Massive gates of grey, weathered stone lie to the north.  This path of
+decaying, yellowed grass leads south towards an open courtyard.  Large
+fragments of stone lie scattered on the ground having fallen from the
+decaying stone gate.  
+~
+0 4 1
+D0
+~
+~
+0 0 4287
+D2
+~
+~
+0 0 4251
+S
+#4294
+Within the Tower~
+This is the corner of the tower that is in the shade the most.  The
+wall's are cool to the touch with moisture covering them as well as a thin
+layer of moss.  
+~
+0 0 0
+D1
+~
+~
+0 0 4295
+D2
+~
+~
+0 0 4304
+S
+#4295
+Within the Tower~
+A bit of hay is here, scattered about the floor with a large lump of it
+near the wall.  There is enough of it here to make a nice bed if needed to,
+and infact, it look's like it has been used for that.  
+~
+0 0 0
+D1
+~
+~
+0 0 4296
+D2
+~
+~
+0 0 4300
+D3
+~
+~
+0 0 4294
+S
+#4296
+Within the Tower~
+Resting here along the wall is a table completely coverd in dust.  It
+doesnt look like it was used in ages.  The wall's are solid and a bit damp
+to the touch.  
+~
+0 0 0
+D2
+~
+~
+0 0 4297
+D3
+~
+~
+0 0 4295
+S
+#4297
+Within the Tower~
+Hanging on the wall here by a nail pounded into a beam of wood is a
+ruined painting of someone, but you cant really make out the face due to the
+paint running from all the moisture.  
+~
+0 0 0
+D0
+~
+~
+0 0 4296
+D2
+~
+~
+0 0 4309
+D3
+~
+~
+0 0 4300
+S
+#4298
+On the Lugard Road~
+The wide dirt road is lined with patches of grass dotted with colorful
+wildflowers.  A forboding stone tower can be seen towards the south, its
+spire standing far higher than any of the trees that so sparsely decorate
+the landscape here.  
+~
+0 0 1
+D0
+~
+~
+0 0 4261
+D2
+~
+~
+0 0 4211
+S
+#4299
+Lugard Square~
+Carefull of your purse here, things are not what they seem.  The local
+town folk dont seem to care for outsider's much, and that make's you not
+really welcome, but your money is, of course.  
+~
+0 0 1
+D0
+~
+~
+0 0 4260
+D1
+~
+~
+0 0 4261
+D3
+~
+~
+0 0 4227
+S
+#4300
+Within the Tower~
+About half of the floor here is gone and resting on the first floor of
+the tower, below your feet.  As you walk on some of the stone's they shift
+and wable.  
+~
+0 0 0
+D0
+~
+~
+0 0 4295
+D1
+~
+~
+0 0 4297
+D2
+~
+~
+0 0 4308
+D3
+~
+~
+0 0 4304
+S
+#4301
+Hay loft~
+The bale's of hay here seem to of been pulled apart or have just fallen
+apart.  A good ammount is spread about.  A old wooden ladder leads the way
+up.  
+~
+0 0 0
+D1
+~
+~
+0 0 4240
+D4
+~
+~
+3 0 4302
+S
+#4302
+Stable boy's room~
+In what seem's a vain attempt to clear the dust and keep things tidy,
+Cody the stable boy is here sweeping.  
+~
+0 138413056 0
+D1
+~
+~
+3 0 4303
+D5
+~
+~
+3 0 4301
+M 130 H 125
+S
+#4303
+Pigeon Coupe~
+Pigeon shit and dust covers everything here, it is not a nice place to be.  
+~
+0 138412032 0
+D3
+~
+~
+3 0 4302
+S
+#4304
+Stairwell~
+The second level of this tower seem's even older than the first from
+which you came.  There is a stone ceiling with thick, heavey wooden beam's,
+dark with age supporting the stone ceiling.  The stairs continue up into
+what looks like a heavy wooden door.  
+~
+0 0 0
+D0
+~
+~
+0 0 4294
+D1
+~
+~
+0 0 4300
+D2
+~
+~
+0 0 4307
+D4
+~
+~
+1 0 4313
+D5
+~
+~
+0 0 4274
+S
+#4305
+Stable master's office~
+This is the office of Elden Grain.  He is the Stable Master
+for the Inn.  It seem's a bit, cleaner than the rest of the 
+stable, less hay and dust.  As you walk, you hear the old
+boards creek and shift beneth your feet.
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 4306
+S
+#4306
+The Good Night's Ride Inn Stables.~
+Hay is strune about allover the place here for the horse's that stay
+here.  The walls are of old rickety wood and dust covers everything.  There
+is a old wooden ladder leading up to the hay loft.  
+~
+0 0 0
+D0
+~
+~
+1 0 4228
+D3
+~
+~
+0 0 4305
+D4
+~
+~
+0 0 4240
+S
+#4307
+Within the Tower~
+The hole in the wall arches down to below the floor, extending out and
+down to the ground.  You give the wall a bit of a push, though not to much
+of a push and find that it auctualy moves some.  Perhap's this isnt such a
+good thing to be doing.  
+~
+0 0 0
+D0
+~
+~
+0 0 4304
+D1
+~
+~
+0 0 4308
+S
+#4308
+Within the Tower~
+You can fly!  Looking down you see you're feet limp and hanging at an
+angle.  The hole in the wall stop's about half way up from the ceiling and
+spreads out in a curve heading down to the ground.  Sitting on a rafter is
+an old chest.  
+~
+0 0 9
+D0
+~
+~
+0 0 4300
+D1
+~
+~
+0 0 4309
+D3
+~
+~
+0 0 4307
+S
+#4309
+Within the Tower~
+As you walk on the floor you can feel some of the stone's wiggle under
+your feet.  The closer you get to the edge though, the more they wiggle.  
+~
+0 0 9
+D0
+~
+~
+0 0 4297
+D3
+~
+~
+0 0 4308
+S
+#4310
+The Guard's Quarters~
+A Thick wooden door with wall's of solid stone seperate the keeper of
+this prison from the moans, shouting's and other happenings dealing with
+what goes on outside his door.  A large stone fireplace is here to warm the
+room with a glass window looking out.  There is a thick wooden table here
+with several chairs and a very nice looking bed with soft pillows.  
+~
+0 0 0
+D2
+~
+~
+3 0 4313
+S
+#4311
+Tower Cell~
+This cell is about average size, with a stone floor and stone wall's. 
+The outside wall has a opening in it with some angled bar's and the opening
+is rather high up, just low enough that a man can see out of it.  There is
+however nothing to keep the outside from getting in.  This room can get very
+cold, and, a few pigons fly in and out, as well as insects of various types.
+~
+0 0 0
+D2
+~
+~
+3 0 4317
+S
+#4312
+Tower Cell~
+This cell is about average size, with a stone floor and stone wall's. 
+The outside wall has a opening in it with some angled bar's and the opening
+is rather high up, just low enough that a man can see out of it.  There is
+however nothing to keep the outside from getting in.  This room can get very
+cold, and, a few pigons fly in and out, as well as insects of various types.
+~
+0 0 0
+D2
+~
+~
+3 0 4315
+S
+#4313
+The Tower Lock's~
+You have arrived where most people would want to keep away from if they
+at all could.  To the east you see several barred door's going to differant
+room's.  Directly south, are devices of torture and punishment.  
+~
+0 0 0
+D0
+~
+~
+3 0 4310
+D1
+~
+~
+0 0 4317
+D2
+~
+~
+0 0 4318
+D5
+~
+~
+1 0 4304
+S
+#4314
+Tower Lock's~
+This looks like part of an area where punnishment is rendered to those
+who would of broken the law's given down by whom ever was in power at the
+time they were issued..  Perhaps even, those who were throwen from power
+ended up here as well..  
+~
+0 0 0
+D0
+~
+~
+0 0 4317
+D1
+~
+~
+0 0 4316
+S
+#4315
+Before the Cell's~
+Some old wooden stairs go up here, ending at a wooden hatch.  Also before
+you is a table with leather straps to hold in a person.  There are two
+rather large wheel's with post's in them.  It seem's they would strap a
+person in and streach them, literaly.  
+~
+0 0 0
+D0
+~
+~
+3 0 4312
+D2
+~
+~
+0 0 4316
+D3
+~
+~
+0 0 4317
+D4
+~
+~
+3 0 4319
+S
+#4316
+The Tower Lock's~
+A table made of wood with leather straps to hold people down is here. 
+Above it, a heavy pendulum with one end sharpened.  On closer inspection of
+the table, you see many gashes in the table, and groves carved out of the
+wood, leading to differant holes drilled into the wood.  
+~
+0 0 0
+D0
+~
+~
+0 0 4315
+D3
+~
+~
+0 0 4314
+S
+#4317
+Before the Cell's~
+The stone floor's here are as cold as the feeling's that you are
+experianceing.  This is a place of death and agony.  
+~
+0 0 0
+D0
+~
+~
+3 0 4311
+D1
+~
+~
+0 0 4315
+D2
+~
+~
+0 0 4314
+D3
+~
+~
+0 0 4313
+S
+#4318
+The Tower Lock's~
+A thick wooden table rest's here on the stone floor holding various
+tool's and thing's..  But not the kind of tool's one would build with.  This
+room seem's like a storage room with no door.  
+~
+0 0 0
+D0
+~
+~
+0 0 4313
+S
+#4319
+Above the Cell's~
+~
+0 0 0
+D2
+~
+~
+0 0 4320
+D3
+~
+~
+0 0 4321
+D5
+~
+~
+3 0 4315
+S
+#4320
+Pendulum Room~
+Here is where strong men would rock the pendulum back up and lock it in
+place for it's next..  Victom.  
+~
+0 0 0
+D0
+~
+~
+0 0 4319
+S
+#4321
+Before the Tower Keep.~
+This small, forbodeing hall leads to a single door.  The thick wooden
+floor is dusty and has a light cover of hay on it.  There are a few scuff
+marks, but you dont know what made them.  
+~
+0 0 0
+D1
+~
+~
+0 0 4319
+D3
+~
+~
+3 0 4322
+S
+#4322
+The Tower Keep~
+This is a rather large room.  There is a bed here, as well as a few books
+on a book shelf, a desk and a window with bar's and shutters.  A small
+fireplace is off to one side of the wall.  This is probley where they keept
+prisoners of a more, higher social status, or what not.  
+~
+0 0 0
+D1
+~
+~
+3 0 4321
+S
+#4323
+~
+~
+0 4 0
+S
+#4324
+Bedroom Suite~
+~
+0 138412032 0
+D0
+~
+~
+0 0 4325
+D1
+~
+~
+3 4324 4338
+S
+#4325
+Bedroom Suite~
+~
+0 138412032 0
+D2
+~
+~
+0 0 4324
+S
+#4326
+Bedroom Suite~
+~
+0 138412032 0
+D0
+~
+~
+0 0 4327
+S
+#4327
+Bedroom Suite~
+~
+0 138412032 0
+D1
+~
+~
+3 4327 4328
+D2
+~
+~
+0 0 4326
+S
+#4328
+Up stairs hall~
+There is a sign on the wall here.  The boards creek as you walk on them,
+some even rattle due to the lack of decent nails and old age.  The dust here
+isnt that bad but it is still present.  There is a sign posted on the wall
+here.  
+~
+0 0 0
+E
+sign~
+<-- Room 3  Room 4 -->
+~
+D1
+~
+~
+3 4334 4334
+D2
+~
+~
+0 0 4329
+D3
+~
+~
+3 4327 4327
+S
+#4329
+Up stairs hall~
+The boards creek as you walk on them, some even rattle due to the lack of
+decent nails and old age.  The dust here isnt that bad but it is still
+present.  
+~
+0 0 0
+D0
+~
+~
+0 0 4328
+D2
+~
+~
+0 0 4339
+S
+#4330
+Office Space~
+~
+0 0 0
+D1
+~
+~
+0 0 4349
+S
+#4331
+Dining Room~
+~
+0 0 0
+D0
+~
+~
+0 0 4332
+D1
+~
+~
+0 0 4348
+S
+#4332
+Dining Room~
+~
+0 0 0
+D1
+~
+~
+0 0 4347
+D2
+~
+~
+0 0 4331
+S
+#4333
+The Good Night's Ride Inn Kitchen~
+~
+0 0 0
+D1
+~
+~
+0 0 4346
+S
+#4334
+Bedroom Suite~
+~
+0 138412032 0
+D2
+~
+~
+0 0 4335
+D3
+~
+~
+3 4334 4328
+S
+#4335
+Bedroom Suite~
+~
+0 138412032 0
+D0
+~
+~
+0 0 4334
+S
+#4336
+Bedroom Suite~
+~
+0 138412032 0
+D2
+~
+~
+0 0 4337
+S
+#4337
+Bedroom Suite~
+~
+0 138412032 0
+D0
+~
+~
+0 0 4336
+D3
+~
+~
+3 4337 4338
+S
+#4338
+Up stairs hall~
+The boards creek as you walk on them, some even rattle due to the lack of
+decent nails and old age.  The dust here isnt that bad but it is still
+present.  There is a sign on the wall here.  
+~
+0 0 0
+E
+sign~
+<-- Room 1  Room 2 -->
+~
+D0
+~
+~
+0 0 4339
+D1
+~
+~
+3 4337 4337
+D3
+~
+~
+3 4324 4324
+S
+#4339
+Up stairs hall~
+The boards creek as you walk on them, some even rattle due to the lack of
+decent nails and old age.  The dust here isnt that bad but it is still
+present.  There are stares leading down to the lobby.  
+~
+0 0 0
+D0
+~
+~
+0 0 4329
+D2
+~
+~
+0 0 4338
+D5
+~
+~
+0 0 4348
+S
+#4340
+The Good Night's Ride Inn~
+This is the registration room for the inn.  Mrs.  Tharne will gladly
+check you in.  As always, the money of strangers is welcome.  There is a
+sign posted on the wall here.  
+~
+0 0 0
+E
+sign~
+Not responsible for lost or stolen items.
+~
+D0
+~
+~
+0 0 4343
+D1
+~
+~
+1 0 4228
+D3
+~
+~
+0 0 4341
+S
+#4341
+Lounge area~
+Tables and chair's that dont look too comfortable are scattered through
+out the room here.  
+~
+0 0 0
+D0
+~
+~
+0 0 4345
+D1
+~
+~
+0 0 4340
+D2
+~
+~
+0 0 4342
+D3
+~
+~
+0 0 4347
+S
+#4342
+Lounge area~
+Tables and chair's that dont look too comfortable are scattered through
+out the room here.  
+~
+0 0 0
+D0
+~
+~
+0 0 4341
+D2
+~
+~
+3 0 4344
+D3
+~
+~
+0 0 4348
+S
+#4343
+Lounge area~
+Tables and chair's that dont look too comfortable are scattered through
+out the room here.  To the west is the stage.  
+~
+0 0 0
+D2
+~
+~
+0 0 4340
+D3
+~
+~
+0 0 4345
+S
+#4344
+Office Space~
+~
+0 0 0
+D0
+~
+~
+3 0 4342
+D3
+~
+~
+0 0 4349
+S
+#4345
+Entertainers ~
+~
+0 0 0
+D1
+~
+~
+0 0 4343
+D2
+~
+~
+0 0 4341
+S
+#4346
+The Good Night's Ride Inn Kitchen~
+~
+0 0 0
+D2
+~
+~
+3 0 4347
+D3
+~
+~
+0 0 4333
+S
+#4347
+Dining Room~
+~
+0 0 0
+D0
+~
+~
+3 0 4346
+D1
+~
+~
+0 0 4341
+D2
+~
+~
+0 0 4348
+D3
+~
+~
+0 0 4332
+S
+#4348
+Stareway to the room's~
+The boards creek as you walk on them, some even rattle due to the lack of
+decent nails and old age.  The dust here isnt that bad but it is still
+present.  
+~
+0 4 0
+D0
+~
+~
+0 0 4347
+D1
+~
+~
+0 0 4342
+D3
+~
+~
+0 0 4331
+D4
+~
+~
+0 0 4339
+S
+#4349
+Office Space~
+~
+0 0 0
+D1
+~
+~
+0 0 4344
+D3
+~
+~
+0 0 4330
+S
+#0
+
+
+
+#SPECIALS
+M 4302 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 4209 1 1
+D 0 4220 3 1
+D 0 4228 2 1
+D 0 4228 3 1
+D 0 4246 4 2
+D 0 4247 2 1
+D 0 4247 5 2
+D 0 4252 0 1
+D 0 4252 2 1
+D 0 4252 3 1
+D 0 4262 0 1
+D 0 4263 2 1
+D 0 4264 1 1
+D 0 4265 0 1
+D 0 4275 5 1
+D 0 4276 4 1
+D 0 4301 4 1
+D 0 4302 1 1
+D 0 4302 5 1
+D 0 4303 3 1
+D 0 4304 4 2
+D 0 4306 0 1
+D 0 4310 2 1
+D 0 4311 2 2
+D 0 4312 2 2
+D 0 4313 0 1
+D 0 4313 5 2
+D 0 4315 0 2
+D 0 4315 4 1
+D 0 4317 0 2
+D 0 4319 5 1
+D 0 4321 3 2
+D 0 4322 1 2
+D 0 4324 1 2
+D 0 4327 1 2
+D 0 4328 1 2
+D 0 4328 3 2
+D 0 4334 3 2
+D 0 4337 3 2
+D 0 4338 1 2
+D 0 4338 3 2
+D 0 4340 1 1
+D 0 4342 2 1
+D 0 4344 0 1
+D 0 4346 2 1
+D 0 4347 0 1
+O 0 4205 0 4200 0 100 Wooden table loaded to The Silver Pig
+O 0 4200 0 4200 0 100 (no short description) loaded to The Silver Pig
+M 0 4205 50 4200 1 100 Load A stout man
+M 0 21512 50 4201 1 100 Load the waitress
+O 0 4205 0 4202 0 100 Wooden table loaded to The Silver Pig
+M 0 4205 50 4202 1 100 Load A stout man
+M 0 4216 3 4203 1 100 Load dog
+O 0 4205 0 4204 0 100 Wooden table loaded to The Silver Pig
+M 0 21512 30 4204 1 100 Load the waitress
+M 0 4205 50 4204 1 100 Load A stout man
+O 0 4206 0 4205 0 100 The bar loaded to The Silver Pig
+M 0 4216 3 4205 1 100 Load dog
+O 0 4206 0 4206 0 100 The bar loaded to The Silver Pig
+M 0 21512 50 4210 1 100 Load the waitress
+O 0 4205 0 4213 0 100 Wooden table loaded to The Silver Pig
+M 0 4205 50 4213 2 100 Load A stout man
+O 0 4206 0 4215 0 100 The bar loaded to The Silver Pig
+M 0 11065 5 4215 1 100 Load the bartender
+O 0 6223 0 4216 0 100 The bed loaded to Keeper's Quarters
+O 0 4200 0 4216 0 100 (no short description) loaded to Keeper's Quarters
+M 0 4216 3 4216 1 100 Load dog
+M 0 701 10 4219 1 100 Load A Horse
+M 0 4223 1 4223 1 100 Load Marchel
+G 0 14108 0 0 0 100 A coarse blanket is given to Marchel
+M 0 4226 2 4226 2 100 Load a fat sow
+M 0 4229 2 4229 1 100 Load the stable keeper
+M 0 4236 1 4236 1 100 Load The angry guard
+M 0 4248 20 4238 20 100 Load a servant
+M 0 4239 1 4239 1 100 Load A drinker from the street
+M 0 701 10 4239 1 100 Load A Horse
+M 0 13152 2 4242 1 100 Load A rat
+M 0 4243 10 4243 1 100 Load a mistress
+M 0 4224 1 4244 1 100 Load the maddam
+E 0 4224 0 14 0 100 `*a small key on a string. is loaded on belt of the maddam
+M 0 4250 20 4250 1 100 Load a theiveing brat
+M 0 4253 10 4253 5 100 Load stout man
+M 0 4262 3 4262 1 100 Load `*A lady of the house
+E 0 4262 0 13 0 100 `*thin black leather belt is loaded around the waist of `*A lady of the house
+M 0 4262 3 4264 1 100 Load `*A lady of the house
+E 0 4264 0 5 0 100 `*a soft black satin vest is loaded on the body of `*A lady of the house
+M 0 4262 3 4265 1 100 Load `*A lady of the house
+E 0 4265 0 9 0 100 `*black satin gloves is loaded on the hands of `*A lady of the house
+M 0 4288 7 4288 7 100 Load a spider
+M 0 4302 1 4302 1 100 Load Cody
+O 0 4302 0 4302 0 100 A window loaded to Stable boy's room
+O 0 4301 0 4302 0 100 A bale of hay loaded to Stable boy's room
+M 0 4305 1 4305 1 100 Load Elden
+O 0 4302 0 4305 0 100 A window loaded to Stable master's office
+M 0 4310 1 4310 1 100 Load Silent Thief
+E 0 4310 0 6 0 100 `*a black scrunchie is loaded over the head of Silent Thief
+O 0 6223 0 4325 0 100 The bed loaded to Bedroom Suite
+O 0 6223 0 4326 0 100 The bed loaded to Bedroom Suite
+M 0 4326 1 4326 1 100 Load `*Soldier of fortune
+E 0 4326 0 10 0 100 `*polished steel plated shoulder and arm guard is loaded on the arms of `*Soldier of fortune
+O 0 4328 0 4328 0 100 <-- room 3  room 4 --> loaded to Up stairs hall
+M 0 925 10 4333 1 100 Load A Cook
+O 0 6223 0 4335 0 100 The bed loaded to Bedroom Suite
+M 0 4335 1 4335 1 100 Load a dark man
+E 0 4340 0 17 0 100 `*the dagger of eldorone is loaded wielded of a dark man
+E 0 4201 0 7 0 100 `*dark baggy pants is loaded on the legs of a dark man
+O 0 6223 0 4336 0 100 The bed loaded to Bedroom Suite
+O 0 4302 0 4336 0 100 A window loaded to Bedroom Suite
+M 0 4336 1 4336 1 100 Load `*Traveling Priest
+E 0 4339 0 17 0 100 `*the staff of light is loaded wielded of `*Traveling Priest
+O 0 4302 0 4337 0 100 A window loaded to Bedroom Suite
+O 0 4338 0 4338 0 100 <-- room 1  room 2 --> loaded to Up stairs hall
+M 0 3640 1 4340 1 100 Load Mrs. Tharne
+E 0 4337 0 19 0 100 The key to room 2 of the good night's ride inn is loaded held in the hands of Mrs. Tharne
+M 0 21512 30 4341 1 100 Load the waitress
+M 0 4340 1 4345 1 100 Load Susu
+M 0 21512 30 4347 1 100 Load the waitress
+S
+
+
+
+#SHOPS
+4223 9 5 1 15 0 100 50 0 23
+0
+
+
+
+#MOBPROGS
+#4224
+say `4(`&In a sexy voice`4)`% Hey there, looking for a good time?`*
+grin $n
+done
+~
+#4236
+if hasquest $n 12
+mob olad 4236
+mob echo The guard's now lifeless body falls limp to the ground, dead.
+else
+mob echo The guards death cry sends shivers up your spine.
+endif
+~
+#4239
+if ispc $n
+if !hasquest $n 12
+whisper $n Hey, want some booze, man?
+whisper $n I promise you it's worth the price.
+whisper $n It's pricey, but I swear it's worth it.
+whisper $n So do you want it or not.
+endif
+endif
+~
+#4240
+whisper $n That's what I thought.  Give me the leg of one of those stout men and it's your's.
+whisper $n I need something to make it look like I'm a strong guy so I can scare people off.
+~
+#4241
+whisper $n That's more like it.
+mob oload 4239
+give booze $n
+whisper $n Now get outta my face.
+~
+#4304
+if ispc $n
+emote looks up at you slightly holding a warming smile.
+endif
+~
+#4305
+if level $n >= 70
+if !hasquest $n 12
+whisper $n I think I can make what I know you're looking for.
+whisper $n I can do this if you find me a few things I need.
+whisper $n I'd like to mix you up a drink that will make you feel mighty fine, but I don't have the ingredients.
+whisper $n Would you like to go get the ingredients for me, so I can brew it up?
+endif
+endif
+~
+#4306
+if !hasquest $n 12
+mob addquest $n 12
+whisper $n I knew you couldn't resist the temptation and curiosity.
+whisper $n I'll tell you what I need one at a time, so you don't have to remember everything.
+whisper $n The first thing I need is a small bubble mushroom.  I think you can guess why.
+whisper $n Burly women tend to sell these for some reason.  I guess they think they can make a quick buck.
+whisper $n Run and get this for me quickly, bring it straight back here.
+endif
+~
+#4307
+whisper $n This is exactly what I needed.  Now there are just a few more things I will need you to get me.
+whisper $n They will all be found right here in Lugard, so travelling far will not be the problem.
+whisper $n I need a nasty bottle of booze, the nastier the better.  There are some drunks
+whisper $n that roam the streets here in Lugard.  Finding one of them is probably your best bet.
+~
+#4308
+whisper $n WOW!  When I said nasty, you took it to heart.  This is great!
+whisper $n Now I need a Staff of the Light.  There is a guy here in town that carries one.
+whisper $n Find him and kill him, I need his staff to mix this up right.
+~
+#4309
+whisper $n Once again, right on target.  This is turning out to work out just right.
+whisper $n There is just one more thing I need you to do.  I have a personal vendetta with one of
+whisper $n guards here in town.  Prove to me that you really want what I have to give.
+whisper $n Kill him and bring me back his sword, then I will show you what I've got for you.
+~
+#4310
+if hasquest $n 12
+whisper $n Wow, you really want what I got don't you?
+whisper $n Well, I tell you what...keep the sword.  I have no use for it.
+give longsword $n
+whisper $n Here is the drink I promised, and a little something extra as well.
+mob oload 4309
+mob oload 3601
+give potion $n
+give token $n
+whisper $n Someone of higher authority can take care of that token for you.
+bow
+mob updatequeststatus $n 12 completed
+else
+emote looks at it funney, shrugs and tosses it in a pile of junk behind him in the corner.
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,1010 @@
+#AREADATA
+Name Ziles first try~
+Builders Ziles~
+VNUMs 10977 10999
+Credits `4[`* Test `4]`* Ziles~
+Security 10
+Flags CEF
+Version 4
+End
+
+
+
+#MOBILES
+#10977
+Michael mike~
+Michael~
+Michael is here.
+~
+Medium height and build with blond hair, Michael stands here waiting for
+people that need help.  
+~
+illian~
+0 0
+ABJKZab 336 0 0 0 -1  500 0
+90 100 100d100+1000 50d50+50 2d75+40 peck
+-30 -30 -30 -30
+FIK EHJ Fb GK
+stand stand male  420
+AHMV ABCDEFGHIJK medium unknown
+#10978
+dog sugar~
+A shaggy black dog~
+An old shaggy black dog lies here at the door.
+~
+Small and quiet, this dog doesn't look like much of a threat.  She lies
+here waiting for someone to try and move her.  
+~
+dog~
+0 0
+ABG 336 64 0 0 -1  1000 0
+400 300 10000d1+20000 10000d1+10000 1d1+400 bite
+-200 -200 -200 -200
+ACEHKM Bb I K
+stand stand female 100
+AGV ACDEFHJKUV medium unknown
+#10979
+fire ant~
+A fire ant~
+A fire ant walks along the floor.
+~
+A little red fire ant.
+~
+unique~
+0 0
+AB 512 1 0 0 -1  -1000 0
+110 200 1000d1+9000 1d1+1 90d1+50 sting
+-80 -80 -80 -80
+FI ABF GKb CEH
+stand stand none 10
+AGc ACFKP medium unknown
+#10980
+cat~
+A gray cat~
+A gray cat with no tail tries to hide in a corner.
+~
+This grey cat sits in the corner, hoping nobody will notice it.
+~
+cat~
+0 0
+AB 0 0 0 0 -1  2 0
+12 20 200d1+20 1d1+1 20d1+5 scratch
+0 0 0 0
+FH JP IO DKT
+stand stand female 20
+AGV ACDEFHJKQUV medium unknown
+#10981
+Curtis~
+Curtis~
+Ziles' little brother is here.
+~
+A fairly short stocky little boy sits here, waiting for someone to fight.
+~
+kandor~
+0 0
+AB 0 16400 0 0 -1  300 0
+50 110 10d169+920 50d50+50 5d10+25 smash
+-20 -20 -20 -20
+CEFIKN K b L
+stand stand male  400
+AHMV ABCDEFGHIJK medium unknown
+#10982
+girl female naked~
+Naked female~
+A naked female is in the shower.
+~
+Slender, but not too skinny, she has long blonde hair and blue eyes.  Wet
+from being in the shower, the light shimmers off of her skin.  She seems to
+not mind the door not being closed.  
+~
+saldaea~
+0 0
+ABR 0 16 0 0 -1  1000 0
+70 50 500d2+500 50d50+50 10d15+20 slap
+0 0 0 0
+EK Xb IY GHK
+stand stand female 3000
+AHMV ABCDEFGHIJK medium unknown
+#10983
+grandma~
+Ziles' Grandma~
+Ziles' Grandma is here.
+~
+Short and a little overweight, she lies on her bed with no intentions of moving.
+She adjusts her glasses and turns the volume on the TV up more.
+~
+arafel~
+0 0
+ABHS 0 16400 0 4096 -1  20 0
+60 120 100d100+200 50d50+50 10d14+5 slap
+-40 -40 -40 -40
+IN ABK EXb J
+stand stand female 5000
+AHMV ABCDEFGHIJK medium unknown
+#10984
+snake~
+A snake~
+A snake is hiding in the toilet waiting for someone to sit.
+~
+Barely noticeable, this snake lies in the toilet waiting for someone to
+move in on his territory.  
+~
+snake~
+0 0
+ABH 0 67 0 0 -1  0 0
+20 30 10d40+140 50d50+50 4d5+10 bite
+-1 -1 -1 -1
+MN Jb LNQ FI
+stand stand male  10
+AGXYc ADEFKLQVX medium unknown
+#10985
+tv repairman man~
+The TV repairman~
+The TV repairman is here riding the clock.
+~
+A short, fat man stands here drinking a Coke.  He fiddles with something
+in his hands, trying to look busy.  
+~
+arafel~
+0 0
+AB 4 0 0 0 -1  -400 0
+40 20 400d1+100 1d1+1 20d1+2 shbite
+-1 -1 -1 -1
+EK BJ IO HT
+stand stand male  200
+AHMV ABCDEFGHIJK medium unknown
+#10986
+dog weenie~
+Weenie Dog~
+A miniature weenie dog is barking at the washing machine.
+~
+A little brown miniature dachshund stands here barking at the washing
+machine, apparently not noticing anything else.  
+~
+dog~
+0 0
+ABDQ 0 97 0 0 -1  699 0
+30 39 10d61+416 50d50+50 5d6+15 bite
+-10 -10 -10 -10
+CH KR Cb LO
+stand stand male  12
+AGV ACDEFHJKUV medium unknown
+#10987
+bird parrot~
+A Parrot~
+A small parrot sits here on it's cage.
+~
+A green and white parrot sits here on top of it's cage, looking toward
+the kitchen as if it might get a cracker.  
+~
+song bird~
+0 0
+AB 256 2112 0 0 -1  1000 0
+60 120 10d12+500 50d50+50 12d6+20 peck
+-50 -50 -50 -50
+FH EL IQ Hb
+stand stand female 30
+AGW ACDEFHKP medium unknown
+#10988
+mom~
+Ziles' Mom~
+Ziles' mom is standing here NOT cooking.
+~
+Short with long brown hair drawn back in a pony tail, she wears black
+windpants and a white T-shirt that says "Don't know.  Don't care."  
+~
+arafel~
+0 0
+ABd 256 65 0 0 -1  700 0
+70 100 10d100+200 50d50+50 10d15+30 scratch
+0 0 0 0
+IN GR Qb JO
+stand stand female 200
+AHMV ABCDEFGHIJK medium unknown
+#10989
+dad father~
+Ziles' Dad~
+Ziles' Dad is sitting here watching a TV.
+~
+A man of average height, with grey hair steaking his black hair and thick
+mustache, he sits on the couch intent on watching TV, unhappy with all of
+the interruptions.  
+~
+illian~
+0 0
+ABe 256 16 0 32768 -1  800 0
+200 150 5000d1+0 2500d1+0 100d1+50 pound
+-100 -100 -100 -100
+AEI AEb KX HL
+stand stand male  200
+AHMV ABCDEFGHIJK medium unknown
+#10990
+lizard~
+A lizard~
+A lizard hides here.
+~
+It hides from you, and tries to run under the bed.
+~
+lizard~
+0 0
+AB 0 67 0 0 -1  200 0
+20 30 100d10+100 1d1+1 5d5+5 slash
+0 0 0 0
+DH KQ LN HI
+stand stand male  122
+AGXc ACDEFHKQV medium unknown
+#10991
+fly~
+A fly~
+A small fly buzzes around the bathtub.
+~
+Tiny, but very annoying, it buzzes around the room waiting for someone to
+come into the room, so it can follow them.  
+~
+bat~
+0 0
+ABH 1024 64 0 0 -1  -1000 0
+2 1 1d1+2 1d1+1 1d1+2 none
+2 2 2 2
+FH ABDEGHIJLMOQTXZb K S
+stand stand female 122
+AGHMV ABCDEFGHIJKP tiny unknown
+#10992
+kid~
+A kid~
+A kid is sneaking around picking things up.
+~
+Dressed in black, with short red hair, this kid walks around with
+stealth, trying not to be noticed.  
+~
+andor~
+0 0
+ABS 0 19 0 0 -1  -100 0
+150 200 100d10+4000 50d50+50 10d20+30 stab
+-120 -120 -120 -120
+CF b H KL
+stand stand male  40
+AHMV ABCDEFGHIJK medium unknown
+#10993
+amber~
+Amber~
+Amber is here.
+~
+Amber is short and all over Michael.
+~
+arafel~
+0 0
+AB 0 0 0 0 -1  1000 0
+10 10 10d10+100 1d1+1 10d10+10 punch
+-10 -10 -10 -10
+IK GI QT CR
+stand stand female 69
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#10977
+cigar~
+a Swisher Sweet cigar~
+A cigar is here.~
+unknown~
+armor ABHY AO
+0
+BCEF BCEF BCEF BCEF 0
+110 20 20 P
+A
+13 20
+A
+20 -8
+A
+19 8
+A
+18 8
+ T 0 none~
+#10978
+thong~
+amber's thong~
+Amber's thong is here, looking chewn up.~
+unknown~
+armor ABLM AE
+0
+ABF ABF ABF ABF 0
+110 20 20 P
+A
+14 -100
+A
+13 100
+A
+12 100
+ T 0 none~
+#10979
+coin~
+a gold coin~
+A gold coin glitters here in the light.~
+unknown~
+money A A
+0
+CFG 0 0 0 0
+0 20 10 P
+ T 0 none~
+#10980
+dead mouse~
+a dead mouse~
+A dead mouse lies here unmoving.~
+unknown~
+food 0 A
+0
+0 0 0 A 0
+3 10 1 P
+ T 0 none~
+#10981
+computer~
+curtis' computer~
+Curtis' shitty ass computer sits here running slow.~
+unknown~
+trash A 0
+0
+0 0 0 0 0
+45 600 2000 P
+ T 0 none~
+#10982
+cabinet~
+bathroom cabinet~
+The bathroom cabinet is hanging on the wall.~
+unknown~
+container B 0
+0
+2 AC 0 500 0
+30 60 21 P
+ T 0 none~
+#10983
+bed~
+grandma's Bed~
+Grandma's bed is here.~
+unknown~
+furniture B 0
+0
+C 0 0 0 0
+50 500 40 P
+ T 0 none~
+#10984
+toilet~
+grandma's Toilet~
+Grandma's toilet is here.~
+unknown~
+furniture A 0
+0
+A 0 EH 0 0
+50 500 40 P
+ T 0 none~
+#10985
+can~
+a Dr. Pepper can~
+An empty Dr. Pepper can lies here collecting dust.~
+unknown~
+trash A A
+0
+0 0 0 0 0
+1 10 1 P
+ T 0 none~
+#10986
+washing machine~
+washing Machine~
+The washing machine is here.~
+unknown~
+container B 0
+0
+20 AC 0 50 0
+0 1000 200 P
+ T 0 none~
+#10987
+cage~
+bird cage~
+A dirty bird cage is here.~
+unknown~
+container A A
+0
+45 AC 0 400 50
+2 80 5 P
+ T 0 none~
+#10988
+ring~
+an opal ring~
+A ring with an opal in it is here.~
+unknown~
+armor ABG AB
+0
+ABF ABF ABF ABF 0
+110 20 300 P
+A
+20 -4
+A
+19 2
+A
+18 2
+A
+12 100
+ T 0 none~
+#10989
+tv television~
+tV~
+A 60" Sony HDTV is here against the wall.~
+unknown~
+furniture AB 0
+0
+0 0 0 0 0
+20 400 3000 P
+ T 0 none~
+#10990
+gun safe~
+a gun safe~
+A large metal gun safe sits in the corner.~
+unknown~
+container B 0
+0
+200 ABCD 10994 500 80
+3 700 30 P
+ T 0 none~
+#10991
+bathtub tub~
+a bathtub~
+A bathtub full of blood is in the corner.~
+unknown~
+fountain 0 0
+0
+300 300 'blood' 0 0
+5 2000 30 P
+ T 0 none~
+#10992
+butcher knife~
+a butcher's knife~
+A big shiny butcher's knife is here.~
+unknown~
+weapon AJK AN
+0
+dagger 76 1 none CE
+150 60 3 P
+A
+13 35
+A
+20 -10
+A
+19 9
+A
+18 9
+ T 0 none~
+#10993
+gun sks~
+an SKS~
+A gun lies here.~
+unknown~
+armor 0 AO
+0
+ABF ABF ABF ABF 0
+110 20 23 P
+A
+13 75
+A
+20 -5
+A
+19 4
+A
+18 4
+ T 0 none~
+#10994
+key gun gunkey~
+a key~
+A key to the gun safe is here.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 10 1 P
+ T 0 none~
+#10995
+key ziles~
+ziles' key~
+A key to Ziles' room is here.~
+unknown~
+key AB A
+0
+0 0 0 0 0
+0 10 1 P
+ T 0 none~
+#10996
+air bag shit~
+`@S`2hit `#B`3ag`7~
+A shit bag is here.~
+unknown~
+container ABHTYZ AS
+0
+1000000 ABCD 10998 100000 10
+150 10 1 P
+A
+19 15000
+A
+18 15000
+A
+17 -1500
+A
+20 -500
+ T 0 none~
+#10997
+portal gate~
+portal~
+A portal to Pella is here.~
+unknown~
+portal A 0
+0
+GJOQRST 0 0 BCDFGHIJL 0
+1 10 1 P
+ T 0 none~
+#10998
+shit bag key~
+shit bag key~
+A key.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+1 10 1 P
+ T 0 none~
+#10999
+pacifier~
+a pacifier~
+A pacifier is here.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+1 10 1 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#10977
+Ziles' Room~
+Ziles' room has aluminum cans stacked on everything.  The bed is not made
+and random things are piled everywhere on it, from PS2 controllers, to empty
+packs of cigarettes.  There is a wooden dresser beside the door with a 25"
+RCA TV and a PS2 on it.  On the white computer desk, between all of the
+cans, there is a computer with two 17" monitors connected to it.  The floor
+is cluttered with dirty clothes and random pieces of trash, since there is
+no trash can in sight.  There is a window to one side with white miniblinds
+half pulled up, letting in the sunlight.  Books one through ten of The Wheel
+of Time are neatly arranged on the headboard of the bed.  
+~
+0 140510216 0
+D3
+~
+~
+1 10995 10978
+S
+#10978
+A Hallway~
+This end of the hallway is well lit, partly from the light down the hall,
+and from the small amount of sunlight coming from the dining room.  To the
+right is the door to Ziles' room, to the left, is his grandma's room.  There
+is a faint sound of music coming from Ziles' room.  The hallway continues
+toward the end of the house.  
+~
+0 8 0
+D0
+~
+~
+0 0 10979
+D1
+~
+~
+1 10995 10977
+D2
+~
+~
+0 0 10985
+D3
+~
+~
+1 0 10983
+S
+#10979
+A Hallway~
+There is a light right in front of the door to the bathroom to the left,
+generating plenty of light.  The air is moist here, probably from the steam
+coming out of the bathroom from the half-closed door.  The water is running
+in there, and someone can be heard taking a shower.  
+~
+0 8 0
+D0
+~
+~
+0 0 10980
+D1
+~
+~
+0 0 10982
+D2
+~
+~
+0 0 10978
+S
+#10980
+The End Of The Hallway~
+The hallway comes to an end with a white wooden door to the left and
+right.  The door to the right seems to have music coming from inside.  It is
+dark because there is no light in this part of the hallway, making it hard
+to see, even in the daytime.  Grey hair covers the floor in this area,
+apparently a favorite hiding spot for a cat.  
+~
+0 8 0
+D1
+~
+~
+1 0 10981
+D2
+~
+~
+0 0 10979
+D3
+~
+~
+1 0 10984
+S
+#10981
+Curtis' Room~
+There are clothes all over the place.  The dresser by the door looks like
+it is about to fall over.  The miniblinds on the window are falling off the
+wall.  There is a smell radiating from some of the empty glasses sitting in
+random places.  An assortment of shoes are piled in the corner beside the
+dresser.  Overall, this room is a mess, in an orderly sort of way.  
+~
+0 8 0
+D3
+~
+~
+1 0 10980
+S
+#10982
+The Bathroom~
+A small room with hardly enough room to sit on the toilet.  There are
+random bathroom items sitting on the counter, a white towel hanging on each
+of the two wooden towel racks, and a hook for each of the two terry cloth
+robes hanging on them.  There is an off-white rug on the floor, in front of
+the sink, with tassles at the corners.  The white bathtub has a blue shower
+curtain pulled shut, apparently to cover the person in the shower.  
+~
+0 8 0
+D3
+~
+~
+0 0 10979
+S
+#10983
+Grandma's Room~
+There is a smell similar to that of a nursing home with a hint of
+mustiness.  There is a TV at the end of the room that seems to be turned up
+all the way.  There is a blanket over the window to stop the light from
+entering the room.  
+~
+0 8388616 0
+D0
+~
+~
+1 0 10984
+D1
+~
+~
+1 0 10978
+S
+#10984
+Grandma's Bathroom~
+The smell in this room is that of old people and nasty bathrooms. 
+Everything looks as though it needs to be cleaned.  The shower curtain is
+open halfway exposing a shower chair.  The water is dripping from the faucet
+in the bathtub.  Something moves in the toilet.  
+~
+0 8 0
+D1
+~
+~
+1 0 10980
+D2
+~
+~
+1 0 10983
+S
+#10985
+A Hallway~
+The hallway begins here, with the door to the laundry room to the right. 
+The dryer can be heard faintly through the door, as well as what sounds like
+a dog barking.  This part of the hallway is well lit from the sunlight
+coming in from the dining room.  There is a laundry basket full of unmatched
+socks sitting beside the door.  
+~
+0 8 0
+D0
+~
+~
+0 0 10978
+D2
+~
+~
+0 0 10987
+D3
+~
+~
+1 0 10986
+S
+#10986
+The Laundry Room~
+The smallest room in the house, and the hottest by far.  The washing
+machine and dryer seem to be a matching set.  The freezer beside the door
+has various tools on top of it.  A shelf above the washer and dryer holds
+various laundry items.  There is a small dog barking at the washing machine.
+~
+0 8 0
+D1
+~
+~
+1 0 10985
+S
+#10987
+The Dining Room~
+There is a big wooden table in the center of the room with a white table
+cloth with lace trim covering it.  The chairs surrounding the table are all
+pulled out and in disarray.  There is a crystal chandelier hanging from the
+center of the ceiling.  There are foled clothes piled all over the table.
+~
+0 8 0
+D0
+~
+~
+0 0 10985
+D2
+~
+~
+0 0 10989
+D3
+~
+~
+0 0 10988
+S
+#10988
+The Kitchen~
+The kitchen is mostly white with a maroon countertop.  There is a large
+side by side refrigerator beside the sink in the corner.  The well used
+microwave is above the stove that looks as though it is not used often. 
+There is a freezer in the corner beside the door to the backyard.  There are
+dishes piled in the sink, waiting to be washed, along with a George Foreman
+grill that hasn't been cleaned in quite some time.  
+~
+0 8 0
+D1
+~
+~
+0 0 10987
+S
+#10989
+The Living Room~
+This is a large room with plenty of places to sit.  There is a couch to
+the side with a large window, letting in plenty of light, behind it.  A big
+blue leather chair is across from it, and a sectional to match.  There are
+speakers strategically placed to be most effective.  There is a lamp on the
+end table next to the chair.  
+~
+0 8 0
+D0
+~
+~
+0 0 10987
+D2
+~
+~
+1 0 10990
+D3
+~
+~
+1 0 10992
+S
+#10990
+Parent's Bedroom~
+The largest room in the house is quite large.  There is a large bed in
+the center with an end table to each side, and a dresser against each wall
+to the sides.  A large wooden entertainment center is in front of the bed. 
+There is a large window at the head of the bed, which looks out upon the
+front yard.  It is the one room in the house where everything is in it's
+place.  
+~
+0 8 0
+D0
+~
+~
+1 0 10989
+D3
+~
+~
+1 0 10991
+S
+#10991
+Parent's Bathroom~
+The master bathroom is large and luxurious, suiting the name.  There is a
+massive whirlpool style bathtub in the corner, and a walk in shower in the
+other.  There are two sinks on the counter, one with a woman's accessories,
+the other with a man's.  The cabinet space in here is vast.  The bathtub is
+filled with a dark crimson liquid.  
+~
+0 8 0
+D1
+~
+~
+1 0 10990
+S
+#10992
+Parent's Retreat~
+This isn't much of a parent's retreat, but it is a fairly nice sized
+office.  There is a large desk to one side with a computer sitting on top. 
+There is an enormous bookshelf on the other side full of different books. 
+There is a large window directly across from the door letting in vast
+amounts of sunlight.  
+~
+0 8 0
+D1
+~
+~
+1 0 10989
+S
+#0
+
+
+
+#SPECIALS
+M 10977 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 10977 3 2
+D 0 10978 1 2
+D 0 10978 3 1
+D 0 10980 1 1
+D 0 10980 3 1
+D 0 10981 3 1
+D 0 10983 0 1
+D 0 10983 1 1
+D 0 10984 1 1
+D 0 10984 2 1
+D 0 10985 3 1
+D 0 10986 1 1
+D 0 10989 2 1
+D 0 10989 3 1
+D 0 10990 0 1
+D 0 10990 3 1
+D 0 10991 1 1
+D 0 10992 1 1
+M 0 10977 1 10977 1 100 Load Michael
+O 0 10997 0 10977 0 100 Portal loaded to Ziles' Room
+E 0 10977 0 19 0 100 A swisher sweet cigar is loaded held in the hands of Michael
+M 0 10993 1 10977 1 100 Load Amber
+E 0 10978 0 13 0 100 Amber's thong is loaded around the waist of Amber
+M 0 10978 1 10978 1 100 Load A shaggy black dog
+E 0 10995 0 19 0 100 Ziles' key is loaded held in the hands of A shaggy black dog
+E 0 10978 0 6 0 100 Amber's thong is loaded over the head of A shaggy black dog
+O 0 10979 0 10979 0 100 A gold coin loaded to A Hallway
+M 0 10979 1 10979 1 100 Load A fire ant
+M 0 10980 1 10980 1 100 Load A gray cat
+E 0 10980 0 21 0 100 A dead mouse is loaded on the face of A gray cat
+O 0 10981 0 10981 0 100 Curtis' computer loaded to Curtis' Room
+M 0 10981 1 10981 1 100 Load Curtis
+M 0 10982 1 10982 1 100 Load Naked female
+O 0 10982 0 10982 0 100 Bathroom cabinet loaded to The Bathroom
+O 0 10983 0 10983 0 100 Grandma's bed loaded to Grandma's Room
+M 0 10983 1 10983 1 100 Load Ziles' Grandma
+O 0 10984 0 10984 0 100 Grandma's toilet loaded to Grandma's Bathroom
+M 0 10984 1 10984 1 100 Load A snake
+O 0 10985 0 10985 0 100 A dr. pepper can loaded to A Hallway
+M 0 10985 1 10985 1 100 Load The TV repairman
+O 0 10986 0 10986 0 100 Washing machine loaded to The Laundry Room
+M 0 10986 1 10986 1 100 Load Weenie Dog
+O 0 10987 0 10987 0 100 Bird cage loaded to The Dining Room
+M 0 10987 1 10987 1 100 Load A Parrot
+M 0 10988 1 10988 1 100 Load Ziles' Mom
+E 0 10988 0 1 0 100 An opal ring is loaded on the left finger of Ziles' Mom
+O 0 10989 0 10989 0 100 Tv loaded to The Living Room
+M 0 10989 1 10989 1 100 Load Ziles' Dad
+E 0 10994 0 19 0 100 A key is loaded held in the hands of Ziles' Dad
+O 0 10990 0 10990 0 100 A gun safe loaded to Parent's Bedroom
+M 0 10990 1 10990 1 100 Load A lizard
+P 0 10993 1 10990 1 100 An sks put inside an SKS
+O 0 10991 0 10991 0 100 A bathtub loaded to Parent's Bathroom
+M 0 10991 1 10991 1 100 Load A fly
+M 0 10992 1 10992 1 100 Load A kid
+E 0 10992 0 17 0 100 A butcher's knife is loaded wielded of A kid
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#10977
+say Hello.
+~
+#10978
+if ISIMMORT $n
+say You may pass.
+mob transfer $n 10978
+else
+say Hey! You can't go there!
+mob delay 1
+slap $n
+mob delay 2
+say Sit down, bitch!
+mob delay 2
+mob force $n sit
+mob delay 1
+say Here, suck on this.
+mob delay 1
+mob oload 10999
+give pacifier $n
+endif
+~
+#10982
+emote opens the shower curtain.
+mob delay 1
+say Sit down.
+mob delay 1
+mob force $n sit
+mob delay 1
+undress $n
+mob delay 1
+strip $n
+mob delay 1
+strip
+mob delay 1
+bounce $n
+mob delay 2
+say What the hell are you thinking? Get out of here!
+mob delay 1
+slap $n
+~
+#10984
+emote bites you on the ass.
+mob delay 1
+mob echoat $n You feel a sharp pain in your ass.
+~
+#10987
+say Polly want a cracker.
+mob delay 2
+emote stares at you with anticipation.
+mob delay 2
+say Give me a fucking cracker!
+mob delay 4
+emote mutters '`%Bitch.`7' under his breath.
+~
+#10989
+point $n
+say Get out from in front of the TV.
+~
+#10991
+say Buzz. Buzz. Buzz.
+emote circles your head.
+fol $n
+~
+#10997
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

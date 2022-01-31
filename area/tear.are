@@ -1,0 +1,9049 @@
+#AREADATA
+Name Tear~
+Builders None~
+VNUMs 8200 8599
+Credits `4[`7 High `4]`7 Jasin     Tear~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#8301
+oldstyle troll~
+a swamp troll~
+A swamp troll charges towards you.
+~
+This huge behemoth towers to a height of 15 feet.  He sneers at you 
+as he approaches and raises two black taloned claws to strike you.
+~
+troll~
+0 0
+ABCFG 0 0 0 0 -1  -600 0
+16 0 3d9+233 8d9+100 2d6+4 none
+-2 -2 -2 7
+DEFHKNR ABHMV ABCDEFGHIJKUV HK
+stand rest male  500
+ABHMV ABCDEFGHIJKUV medium unknown
+#8302
+oldstyle troll~
+a green troll~
+A green troll attempts to get a hold on you.
+~
+This big troll towers several feet over you.  He has a large spear
+which he seems to ply with utmost prowess.  He jabs his spear at you
+and cackles with glee.
+~
+troll~
+0 0
+ACFG 0 0 0 0 -1  -400 0
+14 0 2d10+190 7d9+100 1d12+3 none
+-1 -1 -1 8
+DEFHKNR ABHMV ABCDEFGHIJKUV HK
+stand stand male  400
+ABHMV ABCDEFGHIJKUV medium unknown
+#8303
+oldstyle ogre~
+an ogre~
+An ogre stands here getting ready to beat in your face.
+~
+This mean bastard looks like he could tear you limb from limb.
+~
+unique~
+0 0
+ACFG 0 0 0 0 -1  -500 0
+20 0 3d9+333 10d9+100 2d8+5 none
+-4 -4 -4 7
+EFNU 0 0 0
+stand stand male  500
+AHMV ABCDEFGHIJK medium unknown
+#8304
+oldstyle thing~
+the Swamp Thing~
+The Swamp Thing shambles about here.  It seems hungry.
+~
+The Swamp Thing has huge fists, which look like they could pound you flat.
+~
+unique~
+0 0
+ACFG 0 0 0 0 -1  -700 0
+24 0 5d10+500 12d9+100 2d10+6 none
+-6 -6 -6 6
+EFNU 0 0 0
+stand rest none 1250
+AHMV ABCDEFGHIJK medium unknown
+#8305
+oldstyle gnoll~
+a gnoll~
+There is a mean looking gnoll here.
+~
+The Gnoll seems annoyed at your presence.
+~
+unique~
+0 0
+ACG 80 0 0 0 -1  -1000 0
+30 0 6d12+853 15d9+100 4d6+8 none
+-9 -9 -9 6
+EFNU 0 0 0
+stand stand male  1250
+AHMV ABCDEFGHIJK medium unknown
+#8306
+oldstyle beast~
+a huge hairy beast~
+A huge hairy beast shambles towards you with death in his eyes.
+~
+This huge beast stands about 20 feet in height and has huge green clawed
+appendages. 
+~
+unique~
+0 0
+ACFG 80 0 0 0 -1  -450 0
+21 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+EFNU 0 0 0
+stand stand male  500
+AHMV ABCDEFGHIJK medium unknown
+#8307
+oldstyle beast~
+a rather small beast~
+A rather small beast cringes in terror as it notices you.
+~
+This rather small beast looks like you could take it out with a single
+sword blow.
+~
+unique~
+0 0
+ACGH 0 1 0 0 -1  0 0
+3 0 2d6+35 1d9+100 1d6+0 none
+7 7 7 10
+EFNU 0 0 0
+stand stand male  25
+AHMV ABCDEFGHIJK medium unknown
+#8308
+oldstyle will will-o-wisp~
+the Will-O-Wisp~
+A Will-O-Wisp darts hear and there, making fun of you.
+~
+This strange little creature seems very hard to keep your eyes on.
+You stare as hard as you can at the glowing ball of floating light and
+are just able to notice a small pair of glowing eyes.
+~
+unique~
+0 0
+ACGH 0 1 0 0 -1  0 0
+10 0 2d7+121 5d9+100 2d4+2 none
+1 1 1 8
+EFNU 0 0 0
+stand stand none 150
+AHMV ABCDEFGHIJK medium unknown
+#8309
+oldstyle snake anaconda~
+the monstrous snake~
+A monstrous snake slithers towards you, thinking 'breakfast'.
+~
+This 10 meter anaconda looks rather hungry.
+~
+snake~
+0 0
+ACFGH 0 3 0 0 -1  -100 0
+16 0 3d9+233 8d9+100 2d6+4 none
+-2 -2 -2 7
+EFINR AGXYc ADEFKLQVX I
+stand stand male  500
+AGXYc ADEFKLQVX medium unknown
+#8310
+oldstyle snake python~
+a large snake~
+A rather large python rests in a coil here.
+~
+It's the largest Amazon python you have ever seen.
+~
+snake~
+0 0
+ACFGH 0 3 0 0 -1  -100 0
+11 0 2d8+134 5d9+100 1d10+2 none
+1 1 1 8
+EFINR AGXYc ADEFKLQVX I
+stand stand female 0
+AGXYc ADEFKLQVX medium unknown
+#8312
+oldstyle hag~
+the Marsh Hag~
+A Marsh Hag is here.
+~
+Yech!  She manages to make even Smurfette look attractive.  That's ok,
+because she thinks you stink too, and she's about to do something about it.
+~
+unique~
+0 0
+ACGS 80 0 0 0 -1  -200 0
+9 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 8
+BEFJNU 0 0 0
+stand stand female 50
+AHMV ABCDEFGHIJK medium unknown
+#8313
+oldstyle slaad~
+a Death Slaad~
+A Death Slaad is standing here distraught.  He seems lost.
+~
+This dark apparition stands a meager 13 feet in height.  Even in the dim
+swamp light, the blade of his scythe gleams.
+~
+unique~
+0 0
+ACG 80 0 0 0 -1  -200 0
+20 0 3d9+333 10d9+100 2d8+5 none
+-4 -4 -4 7
+EFNU 0 0 0
+stand stand male  700
+AHMV ABCDEFGHIJK medium unknown
+#8314
+oldstyle wolf~
+a marsh wolf~
+A marsh wolf sniffs the ground has followed your scent.
+~
+This wolf looks plump.  She probably ate a friend or two of yours who came
+into the marsh.
+~
+wolf~
+0 0
+ACFG 0 0 0 0 -1  -200 0
+8 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+EFHNR AGV ACDEFJKQV 0
+stand stand female 0
+AGV ACDEFJKQV medium unknown
+#8318
+oldstyle mound shambling~
+a shambling mound~
+A heap of garbage shambles towards you.
+~
+This grotesque pile of plant matter fills you with utmost horror.
+~
+unique~
+0 0
+ACG 0 2 0 0 -1  -100 0
+13 0 2d10+170 6d9+100 2d5+3 none
+-1 -1 -1 8
+EFNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#8319
+oldstyle shaman orc~
+the orc shaman~
+An orc shaman stands before you holding a staff and wearing robes.
+~
+This old orc has an array of bones stuck in his hair and strange symbols
+painted on his face and hands.
+~
+unique~
+0 0
+ABCDFGQ 80 0 0 0 -1  -100 0
+12 0 2d10+150 12d9+100 2d4+3 none
+0 0 0 7
+EIKU 0 0 0
+stand stand male  17
+AHMV ABCDEFGHIJK medium unknown
+#8320
+crazy old man~
+crazy old man~
+A crazy old man stands here, swinging his sword at you.
+~
+Crazy old man.  
+~
+giant~
+0 0
+ABCDFG 80 0 0 0 -1  -100 0
+15 0 3d9+208 7d9+100 2d6+3 none
+-2 -2 -2 7
+EFJNPR AHMV ABCDEFGHIJK JP
+stand stand male  600
+AHMV ABCDEFGHIJK medium unknown
+#8321
+oldstyle gargoyle~
+a gargoyle~
+A large gargoyle lands next to you, baring his fangs at you.
+~
+This creepy fellow looks like he could use you as a meal.
+~
+unique~
+0 0
+ABCDFG 80 0 0 0 -1  -100 0
+12 0 2d10+150 6d9+100 1d10+3 none
+0 0 0 8
+EFNU 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+#8400
+grizzly fisherman~
+a fisherman~
+A grizzly fisherman is here, fishing and whatnot.
+~
+You see a grizzly old fisherman standing here, casting his reel into the
+water.  
+~
+tear~
+0 0
+ABTe 256 32832 0 0 -1  0 0
+130 150 29000d1+1000 0d0+0 1d1+230 whip
+-50 -50 -50 -50
+DE 0 0 H
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+#8401
+Allandra cloaked woman~
+Allandra~
+A cloaked woman stands here, staring at the floor.
+~
+Before you stands a woman of medium height, staring at the ground.  Her
+hands are behind her back, and a key hangs from a chain around her neck.  
+~
+unique~
+0 0
+ABT 336 32832 0 0 -1  0 0
+140 90 28000d1+1000 100d10+1000 100d1+80 slap
+-60 -60 -60 -60
+CI 0 HIJK 0
+stand stand female 100000
+AB L medium unknown
+#8402
+huge fish~
+a huge fish~
+A huge fish is swimming about here, looking rather hungry.
+~
+~
+unique~
+0 0
+ABZ 0 16 0 0 -1  0 0
+60 100 500d1+100 0d0+0 2d5+20 bite
+0 0 0 0
+0 AM EH J
+stand stand none 0
+0 0 medium unknown
+#8403
+rabid sheep~
+a rabid sheep~
+A sheep is here, looking pretty angry.
+~
+This sheep is foaming at the mouth and walking in a strange manner.  
+~
+unique~
+0 0
+ABZ 0 0 0 0 -1  0 0
+80 55 7d10+3500 0d0+0 5d3+40 none
+-12 -12 -12 -12
+0 0 0 H
+stand stand none 0
+0 0 medium unknown
+#8404
+small sheep~
+a small sheep~
+A small sheep is here, cowering away from the other sheep.
+~
+Baaaah.  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+50 0 7d10+2000 0d0+0 5d2+20 bite
+-5 -5 -5 -5
+0 0 0 H
+stand stand none 0
+0 0 medium unknown
+#8405
+dark figure crazy old man~
+a crazy old man~
+A dark figure is huddling in the corner here, whimpering softly.
+~
+A dark figure is in the corner of the room, hiding his face from you.  
+~
+unique~
+0 0
+ABTe 256 66 0 0 -1  0 0
+130 100 25000d1+1000 0d0+0 1d1+230 claw
+-40 -40 -40 -40
+0 0 HJ 0
+stand stand male  0
+0 0 medium unknown
+#8409
+traveler tear~
+a traveler~
+A traveler is here, on its way to Tear.
+~
+Looks just like any other person.  
+~
+unique~
+0 0
+ABZ 0 0 0 0 -1  0 0
+65 50 1000d1+400 0d0+0 50d1+40 punch
+-30 -30 -30 -30
+0 0 0 H
+stand stand none 0
+0 0 medium unknown
+#8410
+Goul Chaos~
+Goul~
+Goul, the leader of Chaos, stands here devouring a corpse.
+~
+This man can only be described as evil.  He stands taller than any man
+you've ever seen, blood dripping from hands that more closely resemble
+claws.  
+~
+tear~
+0 0
+ABFTe 336 2128 0 32768 -1  0 0
+775 900 29000d1+1000 1d1+29000 1d1+499 wrath
+-100 -100 -100 -100
+ACDEFHKN ABHI HIJKQb 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#8411
+chaos delinquent man bruised battered~
+the Chaos delinquent~
+A bruised and battered man is huddling in the corner here, awaiting your move.
+~
+This man is covered in blood and bruises, apparently from attempting to
+stray from the way of Chaos.  
+~
+unique~
+0 0
+ABT 256 64 128 0 -1  0 0
+115 130 28000d1+1000 0d0+0 1d1+230 beating
+-85 -85 -85 -60
+CFHKN 0 HIJK 0
+stand stand male  0
+0 0 medium unknown
+#8412
+mob testing~
+Mr. Mob Tester~
+Mr. Mob Testing Healer is here, offering great deals at low low prices!
+~
+Naked Pictures of B. Arthur.
+~
+unique~
+0 0
+ABa 0 0 0 0 -1  0 0
+1500 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8413
+man chaos lord~
+the Chaos High Lord~
+A man in a flowing robe is meditating in the center of the room.
+~
+A man covered in a blue robe is sitting in the center of the room with
+his eyes closed.  Despite his stillness, he seems deadly.  
+~
+unique~
+0 0
+ABR 340 0 0 32768 -1  0 0
+115 130 10000d1+1000 20000d1+1000 1d1+220 divine
+-80 -80 -80 -80
+H 0 HIJK DEN
+stand stand none 0
+0 0 medium unknown
+#8414
+chaos prophet~
+the Chaos Prophet~
+The Chaos Prophet stands here, writing on the wall.
+~
+A beautiful, tall slender woman stands here, wearing a blood red cloak
+and writing on the wall.  She doesn't seem to notice you, but she knows
+you're there.  
+~
+unique~
+0 0
+ABQ 256 32848 0 8 -1  0 0
+135 120 28000d1+1000 1d1+10000 1d1+220 prayer
+-80 -80 -80 -80
+FHK 0 HIJK 0
+stand stand female 0
+0 0 medium unknown
+#8415
+chaos underlord~
+the Chaos Underlord~
+The Underlord of Chaos stands here, mixing something together.
+~
+You see an Underlord of the Chaos Clan standing here, mixing something
+together in a vial.  Although he seems intent on his mixture, he knows
+you're near.  
+~
+unique~
+0 0
+ABT 256 32 16384 0 -1  0 0
+140 150 28000d1+1000 10d2+1000 1d1+230 blast
+-80 -80 -80 -80
+FHKN 0 HIJK 0
+stand stand none 0
+0 0 medium unknown
+#8416
+Jaems terrible chaos~
+Jaems the Terrible~
+Jaems the Terrible is here, waiting for you.
+~
+You see a tall, slender man staring back at you.  
+~
+unique~
+0 0
+ABT 256 32768 0 0 -1  0 0
+140 150 28000d1+1000 0d0+0 1d1+230 slash
+-80 -80 -80 -80
+HN 0 HIJK 0
+stand stand none 0
+0 0 medium unknown
+#8417
+chaos sadist voram~
+Voram the sadist~
+Voram, the sadist of Chaos is here, his eyes filled with hate.
+~
+As you peer into this man's eyes, you have to question his sanity.  Arms
+crossed, he stands with his head facing towards the floor, but his eyes
+staring up at you.  Head shaven, his face is covered in scars, as well as
+his arms.  His lips form a snarl, and his teeth almost look covered in
+blood.  
+~
+unique~
+0 0
+ABT 256 32 128 32768 -1  0 0
+155 140 28000d1+1000 4000d1+1000 1d1+260 wrath
+-80 -80 -80 -80
+EFHK 0 HIJK 0
+stand stand male  100000
+0 0 medium unknown
+#8418
+chaos member insane~
+an insane Chaos member~
+An insane member of Chaos stands here, howling at the ceiling.
+~
+This Chaos member is clearly insane, as he is clawing at his own skin and
+howling at no one in particular.  
+~
+unique~
+0 0
+ABGT 256 80 128 0 -1  0 0
+155 140 28000d1+1000 5000d1+1000 1d1+260 claw
+-80 -80 -80 -80
+CFHK 0 HIJK 0
+stand stand none 100000
+0 0 giant unknown
+#8419
+Harald Necromancer~
+Harald the Necromancer~
+Harald the Necromancer stands here, his back turned away from you.
+~
+The Chaos necromancer is standing perfectly still, staring away from you.
+Despite his stillness, he is ready to spring at any moment.  
+~
+unique~
+0 0
+ABT 256 32784 0 0 -1  0 0
+155 140 28000d1+1000 5000d1+1000 1d1+260 slash
+-80 -80 -80 -80
+FHK 0 HIJK 0
+stand stand none 100000
+0 0 medium unknown
+#8420
+Tairen Guard~
+a Tairen Guard~
+A Tairen Guard is on patrol here, making sure you aren't causing any trouble.
+~
+The guard doesn't have time to check on everyone, so he simply waves into
+the gates repeating "Move along, move along."  
+~
+tear~
+0 0
+ABTe 256 64 0 0 -1  0 0
+100 100 14000d1+1000 0d0+0 1d1+100 slash
+-40 -40 -40 -40
+CFKR 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 8420 100~
+#8421
+Tairen Guard~
+a Tairen Guard~
+A Tairen Guard is on patrol here, making sure you aren't causing any trouble.
+~
+Move along, move along.
+~
+tear~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 14000d1+1000 0d0+0 1d1+100 slash
+-40 -40 -40 -40
+CFKR 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#8422
+disgruntled tairen citizen~
+a disgruntled Tairen citizen~
+A disgruntled Tairen citizen is walking around here.
+~
+As most citizens outside the city wall in Tear, this person seems rather
+unhappy to be walking around in mud.  
+~
+unique~
+0 0
+AG 0 0 0 0 -1  -1000 0
+57 25 500d1+100 0d0+0 5d2+25 punch
+-10 -10 -10 -10
+0 0 0 0
+stand stand either 0
+0 0 medium unknown
+#8423
+wise woman~
+a Wise Woman~
+A Wise Woman is here, smiling warmly at you.
+~
+~
+tear~
+0 0
+AB 0 0 0 0 -1  0 0
+100 0 15000d1+1000 15000d1+1000 0d0+0 none
+-10 -10 -10 -10
+0 0 0 0
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#8424
+alchemist~
+the alchemist~
+An alchemist stands here, hoping you will buy something.
+~
+Long grey hair frames an aging wrinkled face.  Peering at you through the
+strands of hair that dangle before his face, his grins reveals less teeth
+than a pumpkin at Beltine.  
+~
+tear~
+0 0
+AB 0 0 0 0 -1  0 0
+100 0 10000d1+1000 0d0+0 1d1+1000 none
+0 0 0 0
+0 0 0 0
+stand stand male  100000
+AHMV ABCDEFGHIJK medium unknown
+#8425
+wine dealer~
+a wine dealer~
+A wine dealer stumbles about the room here.
+~
+Glass of wine in hand, this man looks at you as if there are two of you
+and speaks in a slur.  You get the feeling he's more interested in his wine
+than you should be.  
+~
+tear~
+0 0
+AB 0 0 0 0 -1  0 0
+0 0 10000d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male  100000
+AHMV ABCDEFGHIJK medium unknown
+#8426
+tairen trader~
+a Tairen trader~
+A Tairen trader stands here, grinning at you slyly.
+~
+You see nothing special about him, except maybe his missing teeth and
+crooked eyes.  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+100 0 10000d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+#8427
+Herb herbalist~
+Herb the Herbalist~
+Herb the Herbalist walks around here, watering various plants.
+~
+Dressed in green and browns, Herb is a tall man who's hair resembles a
+plant itself.  He walks around the room, watering his plants, not really
+noticing you.  
+~
+unique~
+0 0
+AB 336 0 0 0 -1  0 0
+100 0 10000d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 10000
+0 0 medium unknown
+#8428
+tairen baker~
+a Tairen baker~
+A bald, fat Tairen baker stands here, greeting you warmly.
+~
+Balding, fat, and a warm smile greets you as you enter this man's bakery.
+He seems to be a very honest man.  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+100 0 10000d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 10000
+0 0 medium unknown
+#8429
+Dermid Ajala~
+Dermid Ajala~
+Dermid Ajala stands here, taking a break from his work to greet you.
+~
+Thick arms and massive shoulders frame this rather tall man.  Despite his
+size, small pale blue eyes consider you from an aging face that seems rather
+soft.  His dark brown hair has a bit of gray in it, giving lead to his age. 
+~
+unique~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 10000d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 10000
+0 0 medium unknown
+#8430
+apprentice ajala~
+an apprentice~
+An apprentice of Master Ajala stands here, hard at work.
+~
+This man is big.  Not as big as Ajala, but big.  
+~
+tear~
+0 0
+AB 0 0 0 0 -1  0 0
+85 50 4000d1+100 0d0+0 1d1+50 punch
+-10 -10 -10 -10
+CEFK 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8431
+cook~
+a cook~
+A cook is here, screaming orders at the tavern maids.
+~
+The cook looks directly at you and screams "GET OUT OF MY KITCHEN!"  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+30 20 2900d1+100 0d0+0 1d1+20 pound
+-1 -1 -1 -1
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+#8432
+barkeep balding man~
+the barkeep~
+A balding man stands behind the bar, asking what you drink.
+~
+Balding, short, and stout, this man has a towel over his shoulder and a
+skip in his step.  He smiles at you warmly and asks what it is you want.  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+100 100 10000d1+1000 0d0+0 0d0+0 none
+-10 -10 -10 -10
+0 0 0 0
+stand stand none 1000
+0 0 medium unknown
+#8433
+ox~
+an enraged oxen~
+An ox stands here, not looking very happy.
+~
+He looks angry. Big and angry.
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+75 50 3000d1+1000 0d0+0 1d1+50 bite
+-10 -10 -10 -10
+CEFK 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8434
+paranoid criminal~
+a paranoid criminal~
+A paranoid criminal lurches at you for intruding into his room.
+~
+You see nothing special about him.  
+~
+unique~
+0 0
+ABFTe 256 0 0 0 -1  0 0
+80 90 15000d1+1000 0d0+0 1d1+100 claw
+-45 -45 -45 -45
+CH 0 0 0
+stand stand male  0
+0 0 medium unknown
+#8435
+old woman~
+an old woman~
+An old woman is here, about to fall asleep.
+~
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+100 0 10000d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8436
+brena~
+Brena~
+Brena stands here, awaiting your company.
+~
+As you look into the hazel eyes of this beautiful blonde woman, you can't
+help but notice that she's barely wearing any clothing at all.  She seems
+nice, though.  
+~
+unique~
+0 0
+ABJKab 256 0 0 0 -1  0 0
+100 0 10000d1+10000 10000d1+10000 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M GRALL 8436 100~
+#8437
+Malkom businessman~
+Malkom the businessman~
+Malkom the business man stands here, waiting to do business.
+~
+Dark brown hair frames a long narrow face with deep inset eyes that peer
+at you as though trying to reach into your soul.  Or your pocket.  
+~
+tear~
+0 0
+AB 0 0 0 0 -1  0 0
+100 0 10000d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 KZ 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8438
+Ariana~
+Ariana~
+Ariana is here, awaiting your command.
+~
+This lovely Tairen lady stands straight, awaiting you to tell her what to
+do.  
+~
+tear~
+0 0
+ACI 256 0 0 0 -1  0 0
+50 40 15000d1+1000 0d0+0 1d1+40 slap
+-15 -15 -15 -15
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#8439
+Holly~
+Holly~
+Holly stands here, looking rather meek.
+~
+Holly avoids your gaze.  
+~
+tear~
+0 0
+AI 256 0 0 0 -1  0 0
+25 23 3000d1+200 0d0+0 1d1+25 slap
+-10 -10 -10 -10
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#8440
+doniella~
+Doniella~
+Doniella stands here, smiling at you pleasantly.
+~
+Doniella is a sweet looking girl.  
+~
+unique~
+0 0
+AI 256 0 0 0 -1  0 0
+75 70 20000d1+1000 0d0+0 1d1+70 none
+-40 -40 -40 -40
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8441
+Ezmirelda~
+Ezmirelda~
+Ezmirelda stands here, waiting to please you.
+~
+~
+unique~
+0 0
+AY 0 0 0 0 -1  0 0
+50 50 2000d1+100 0d0+0 1d1+45 none
+-10 -10 -10 -10
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+#8442
+citizen tear~
+a Tairen citizen~
+A citizen of Tear is walking around here.
+~
+~
+tear~
+0 0
+AW 0 0 0 0 -1  0 0
+75 55 4000d1+100 0d0+0 1d1+55 punch
+-25 -25 -25 -25
+0 0 0 K
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#8443
+chaos guard man cloaked black~
+a Chaos Guard~
+A man cloaked in black stands here, guarding the alley wall.
+~
+Cloaked in black, eyes filled with fury, this man seems to have been
+waiting for you.  
+~
+unique~
+0 0
+ABTe 336 32768 0 0 -1  0 0
+140 150 28000d1+1000 0d0+0 10d1+220 slash
+-50 -50 -50 -50
+CH 0 HIJK 0
+stand stand male  0
+0 0 medium unknown
+#8444
+tairen construction worker~
+a Tairen construction worker~
+A Tairen construction worker is here, repairing the wall.
+~
+He works hard for his money.  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+80 55 8000d1+1000 0d0+0 10d1+70 punch
+-40 -40 -40 -40
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8445
+Tairen foreman~
+a Tairen foreman~
+A Tairen foreman is here, supervising all work done.
+~
+This man doesn't seem to be working very much, just watching everyone
+else.  
+~
+tear~
+0 0
+ABT 0 0 0 0 -1  0 0
+85 55 4000d1+2000 0d0+0 10d1+80 none
+-5 -5 -5 -5
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8446
+High Lord Gueyam~
+High Lord Gueyam~
+The High Lord Gueyam stands here, ranting about his house.
+~
+Gueyam is an aging man, dressed in the current Tairen fashion.  Despite
+his age, he looks to have the charm of a young man.  
+~
+tear~
+0 0
+AB 256 0 0 0 -1  0 0
+80 80 10000d1+1000 0d0+0 10d1+65 slash
+-10 -10 -10 -10
+CH A 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8447
+High Lord Aracome~
+High Lord Aracome~
+The High Lord Aracome stands here, wondering what you're doing in his bedroom.
+~
+Aracome is a rather young High Lord, with barely any grey in his hair.  
+~
+tear~
+0 0
+AB 256 0 0 0 -1  0 0
+75 80 10000d1+1000 0d0+0 10d1+65 slash
+-10 -10 -10 -10
+0 A 0 0
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+#8448
+cook~
+a cook~
+A cook is here, screaming orders at the servants.
+~
+The cook is an older woman, with whisps of grey hair slipping from the
+bun that is tightly bound on her head.  
+~
+tear~
+0 0
+AB 0 0 0 0 -1  0 0
+30 0 1d1+500 0d0+0 10d1+20 slap
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#8449
+professional thief~
+a professional thief~
+A thief walks among the rooftops here, looking for a victim below.
+~
+He looks like a normal man, except the way he walks seems strangely sly.  
+~
+tear~
+0 0
+ABe 256 3 0 0 -1  0 0
+100 80 13000d1+100 0d0+0 10d1+70 slice
+-20 -20 -20 -20
+HN 0 0 0
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+#8450
+veiled figure aiel crouching~
+a veiled Aiel~
+A veiled figure is crouching here, looking for someone or something.
+~
+Garbed in light green cadin'sor and knee high boots and wielding a spear,
+this Aiel certainly looks deadly.  
+~
+aiel~
+0 0
+AB 0 32771 0 4096 -1  0 0
+100 80 13000d1+100 0d0+0 10d1+70 stab
+-20 -20 -20 -20
+FIK 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8451
+tairen thief-catcher thief catcher~
+a thief-catcher~
+A Tairen thief-catcher is sneaking about here, looking for suspicious individuals.
+~
+Sneaking among the shadows, this man almost seems to slip past your
+eyesight.  
+~
+tear~
+0 0
+AB 256 3 0 0 -1  0 0
+70 80 13000d1+100 0d0+0 10d1+70 none
+-20 -20 -20 -20
+FKN 0 0 0
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+#8452
+suspicious looking man~
+a suspicious looking man~
+A suspicious looking man is here, looking around for something.
+~
+Intent on searching for something, this man doesn't seem to notice you. 
+He looks as though he's hiding something.  
+~
+tear~
+0 0
+AB 256 3 0 0 -1  0 0
+100 70 15000d1+1000 0d0+0 10d1+65 claw
+-20 -20 -20 -20
+FHJK 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8453
+female archer~
+a female archer~
+A female archer stands here, looking out over the city.
+~
+This dangerous looking woman doesn't seem to notice you, as she's busy
+scanning the city, perhaps for a target.  
+~
+tear~
+0 0
+AB 256 3 0 0 -1  0 0
+100 80 13000d1+100 0d0+0 10d1+70 thwack
+-20 -20 -20 -20
+CE 0 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#8454
+traveler~
+a traveler~
+A traveler is here, looking for a destination.
+~
+~
+tear~
+0 0
+ABZ 0 0 0 0 -1  0 0
+75 35 3500d1+500 0d0+0 10d1+40 punch
+-10 -10 -10 -10
+0 0 0 H
+stand stand either 1000
+AHMV ABCDEFGHIJK medium unknown
+#8455
+insane crazy looking man~
+an insane woman~
+A crazy looking woman is here, eyes wide with insanity.
+~
+This woman is definately crazy, as her hair is all disarray and her eyes
+are wide open, staring at nothing.  
+~
+unique~
+0 0
+AB 256 3 0 0 -1  0 0
+100 70 15000d1+1000 0d0+0 10d1+65 slap
+-20 -20 -20 -20
+0 0 0 0
+stand stand female 100
+0 0 medium unknown
+#8456
+darkfriend tairen~
+a darkfriend~
+A darkfriend is here, doing deeds for the Dark One.
+~
+This man is an admitted darkfriend.  
+~
+tear~
+0 0
+AB 256 0 0 0 -1  0 0
+100 70 13000d1+500 0d0+0 10d1+65 punch
+-20 -20 -20 -20
+FHKN 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8457
+citizen tear~
+a citizen of Tear~
+A citizen of Tear is walking about the city here.
+~
+~
+tear~
+0 0
+AGW 0 0 0 0 -1  0 0
+80 30 10000d1+1000 0d0+0 40d1+10 punch
+-50 -50 -50 -50
+FK 0 F 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#8458
+tairen noble~
+a Tairen Noble~
+A Tairen Noble is here, looking for a game of dice.
+~
+~
+tear~
+0 0
+AGW 0 0 0 0 -1  0 0
+90 50 8000d1+1000 0d0+0 10d1+70 punch
+-15 -15 -15 -12
+0 0 0 H
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8459
+noble guard~
+a Noble Guard~
+A noble's guard stands here, looking at everyone who passes.
+~
+He looks at you strangely.  
+~
+tear~
+0 0
+ABZ 0 0 0 0 -1  0 0
+90 65 4500d1+200 0d0+0 10d1+55 slash
+-15 -15 -15 -12
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8460
+tairen sailor~
+a Tairen sailor~
+A Tairen sailor is walking around the docks here.
+~
+~
+tear~
+0 0
+ABG 0 0 0 0 -1  0 0
+90 50 6000d1+200 0d0+0 5d3+35 punch
+-15 -15 -15 -12
+0 0 0 H
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8461
+ship cook~
+the ship's cook~
+The ship's cook is here, cooking.
+~
+~
+tear~
+0 0
+AB 0 0 0 0 -1  0 0
+40 35 500d1+200 0d0+0 10d1+20 thrust
+0 0 0 0
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8462
+ship captain~
+the Captain~
+The ship's Captain is here, walking around with a wooden leg.
+~
+Aaargh, matey.  
+~
+tear~
+0 0
+ABT 256 0 0 0 -1  0 0
+130 125 20000d1+1000 0d0+0 10d1+190 pierce
+-50 -50 -50 -50
+0 0 0 0
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+#8463
+Sorenia~
+Sorenia~
+Sorenia is here, resting.
+~
+A beautiful woman with long brown hair is resting here, looking rather
+tired.  
+~
+kandor~
+0 0
+AB 0 0 0 0 -1  0 0
+50 45 1000d1+500 0d0+0 1d1+50 slap
+-10 -10 -10 -10
+0 0 0 0
+rest rest female 0
+AHMV ABCDEFGHIJK medium unknown
+#8464
+old gleeman~
+an old gleeman~
+An old gleeman is here, telling stories in High Chant.
+~
+Wearing a patchwork cloak and making grand gestures, this gleeman knows
+how to keep the audience entertained.  
+~
+ghealdan~
+0 0
+AB 0 0 0 0 -1  0 0
+75 70 8000d1+100 0d0+0 10d1+60 dome
+-15 -15 -15 -15
+0 0 0 0
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+#8465
+Tairen Sailor~
+a Tairen sailor~
+A Tairen sailor is here, tending to the ship.
+~
+~
+tear~
+0 0
+AB 0 0 0 0 -1  0 0
+90 65 5000d1+500 0d0+0 10d1+70 punch
+-15 -15 -15 -12
+N 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8466
+sea folk windfinder~
+a Windfinder~
+A Sea Folk Windfinder is here, looking out towards the sea.
+~
+~
+unique~
+0 0
+ABR 256 0 0 0 -1  0 0
+80 75 10000d1+1000 0d0+0 10d1+75 magic
+-40 -40 -40 -40
+0 0 0 0
+stand stand female 1000
+0 0 medium unknown
+#8467
+sea folk sailor~
+a Sea Folk sailor~
+A Sea Folk sailor is here, walking around the deck.
+~
+~
+seanchan~
+0 0
+ABT 0 0 0 0 -1  0 0
+80 75 6000d1+500 0d0+0 10d1+60 punch
+-15 -15 -15 -12
+CH 0 0 0
+stand stand either 1000
+AHMV ABCDEFGHIJK medium unknown
+#8468
+tairen guard~
+a Tairen Guard~
+A Tairen Guard is taking a short break here.
+~
+~
+tear~
+0 0
+AB 256 0 0 0 -1  0 0
+80 65 10000d1+500 0d0+0 10d1+65 slash
+-10 -10 -10 -10
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8469
+captain guard tear tairen~
+a Captain of the Guard~
+A Captain of the Tairen Guard is here, observing.
+~
+~
+tear~
+0 0
+ABT 256 0 0 0 -1  0 0
+130 120 17000d1+1000 0d0+0 10d1+115 slice
+-40 -40 -40 -40
+CH 0 C 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#8470
+chaos lower assassin~
+a Chaos Assassin~
+A lower Chaos Assassin stands here, looking at you suspiciously.
+~
+Dressed in all black, the Chaos Assassin looks deadly.  
+~
+unique~
+0 0
+ABT 336 32832 0 0 -1  0 0
+140 160 28000d1+1000 1000d1+1000 10d1+220 wrath
+-80 -80 -80 -80
+HN 0 HIJK 0
+stand stand male  1000
+0 0 medium unknown
+#8471
+High Lord Weiramon~
+High Lord Weiramon~
+The High Lord Weiramon is here.
+~
+~
+tear~
+0 0
+ABT 256 16 0 0 -1  0 0
+300 300 900000d1+100000 24000d1+1000 1d1+275 slash
+-100 -100 -100 -100
+0 0 K 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8472
+crippled old man~
+a crippled old man~
+A crippled old man is here, possessing power despite his age.
+~
+~
+tear~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 10d1+100 0d0+0 10d1+100 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8473
+magic dealer~
+a magic dealer~
+A magic dealer is here, dealing with magic, obviously.
+~
+~
+tear~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 10d1+100 0d0+0 10d1+100 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#8474
+tester~
+tester~
+Tester
+~
+~
+unique~
+0 0
+Ae 0 0 0 0 -1  1000 0
+300 0 10d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#8599
+Michele the Bartender~
+Travis~
+Travis the Former owner is here in the closed pub wishing he had some coke
+~
+This bartender is quite hot
+~
+song bird~
+0 0
+AJKabe 88 0 0 0 -1  0 0
+500 1000 10d100+100 0d0+0 10d100+200 critical
+-100 -100 -100 -100
+FH ABCDEFGIJKLMNOPQRTXYZ 0 H
+stand stand male  1000
+AGW ACDEFHKP medium unknown
+M GRALL 13 100~
+#0
+
+
+
+#OBJECTS
+#8301
+spear long two-handed~
+a long spear~
+A strange spear lies here.~
+oldstyle~
+weapon J AN
+0
+staff 1 12 stab F
+11 100 1330 P
+A
+19 3
+A
+2 1
+ T 0 none~
+#8302
+horned helmet~
+a dark horned helmet~
+A wicked looking horned helmet lies here.~
+oldstyle~
+armor J AE
+0
+BC BC AC B 0
+10 50 0 P
+A
+19 1
+A
+3 -3
+E
+horns horn~
+These horns appear to be made of adamantite.~
+ T 0 none~
+#8303
+chain mail chainmail~
+a suit of chainmail~
+An old suit of chainmail lies here, corroded by the marsh.~
+oldstyle~
+armor J AD
+0
+AC D ABC 0 0
+20 200 2700 P
+ T 0 none~
+#8306
+scythe~
+a huge, wicked-looking scythe~
+An evil, wicked-looking scythe lies in the shadows.~
+oldstyle~
+weapon HJ AN
+0
+polearm 4 4 slice F
+19 160 1770 P
+A
+18 3
+A
+19 3
+ T 0 none~
+#8307
+green potion~
+a murky green potion~
+A murky green potion lies here in the mud.~
+oldstyle~
+potion AB A
+0
+43 'cure critical' '' '' ''
+5 10 690 P
+E
+potion~
+It looks really disgusting and doesn't smell very nice either.~
+ T 0 none~
+#8308
+claymore rusty sword~
+a rusty claymore~
+A huge rusted sword lies in a pool of water.~
+iron~
+weapon 0 AN
+0
+sword 4 7 cleave F
+28 100 3000 P
+ T 0 none~
+#8326
+quest steel ruby sword~
+a `&St`7e`8el `1R`8u`1b`8y `7longsword~
+Get this to the questmaster quickly!~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8327
+magical hat~
+the `^M`6agical `%H`5at`7~
+Get this to the Questmaster quickly!~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8328
+silver gold necklace~
+a `&s`7i`&l`7v`&e`7r and `#g`3o`#l`3d `7necklace~
+Get this to the Questmaster quickly!~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8329
+red ribbon~
+the `!Red `$R`4ibbon`7~
+Get this to the Questmaster quick!~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8330
+black dark mask~
+the `8S`7h`8a`7d`8o`7w `&Mask`7~
+Get this to the Questmaster now!~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8331
+White Cloak~
+`#a `&White `#C`&loak`*~
+I believe the Questmaster wants this back~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 100 0 P
+ T 0 none~
+#8332
+Oath Rod~
+`&T`*h`8e O`*a`&th `8R`*o`&d`*~
+Foo! get this to the Questmaster Asap!~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 100 0 P
+ T 0 none~
+#8333
+Half Mooned Axe~
+`8A `&Ha`#lf`3-M`#oo`&ned `!A`1xe`*~
+Quick get this to the Questmaster Fast!~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 100 0 P
+ T 0 none~
+#8334
+Heron Marked Sword~
+`2A `#H`&eron `#Mar`3ked `4S`8word`*~
+The Questmaster wants this~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 100 0 P
+ T 0 none~
+#8335
+Ter'Angreal~
+`&A `8T`*e`&r'An`*g`8real`*~
+Yes this is the Quest Object you are looking for, Get it to the Questmaster~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 100 0 P
+ T 0 none~
+#8336
+The Dragon Scepter~
+`&T`*h`8e `#D`1ra`!g`1on `&S`*c`8ep`!t`8er`*~
+The Questmaster needs this~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 100 0 P
+ T 0 none~
+#8337
+Patchwork cloak~
+`@A `?P`?a`?t`?c`?h`?w`?o`?r`?k `@C`2loak`*~
+Bingo! Get this to the Questmaster~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 100 0 P
+ T 0 none~
+#8338
+Brown Leather Notepad~
+`8a `3Brown Leather `8No`&tepad`*~
+Get this to the Questmaster NOW!~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 50 0 P
+ T 0 none~
+#8339
+Dark One Seal~
+`8Dark O`*n`&e'`1s `8S`&e`#a`&l`*~
+Quickly get this to you-know-who~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 100 0 P
+ T 0 none~
+#8340
+Greyman Cloak~
+`8A `*Greyman's `8Clo`&a`8k`*~
+That's right get this to the Questmaster~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 100 0 P
+ T 0 none~
+#8341
+Aes Sedai Serpent Ring~
+an `%A`5es `%S`5edai's `@S`2er`&p`2ent `#Ring`*~
+I pitty the Foo who dosen't get this to the Questmaster~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 100 0 P
+ T 0 none~
+#8400
+key rusty old~
+a rusty old key~
+A rusty old key is lying here.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 1 0 P
+ T 0 none~
+#8401
+small silver key~
+a small silver key~
+A small silver key is here.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8402
+large gold key~
+a large golden key~
+A large golden key has been placed on the dresser here.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8403
+a Beer~
+a Beer~
+A cold beer is here~
+unknown~
+armor P AO
+0
+CFG CFG CFG CFG 0
+1000 0 0 P
+A
+20 -100
+A
+18 100
+A
+19 100
+ T 0 none~
+#8404
+fire remains~
+the remains of a fire~
+The remains of a burned out fire lay here in the middle of the room.~
+unknown~
+container 0 0
+0
+0 0 0 20000 2000
+50 0 0 P
+ T 0 none~
+#8405
+fish remains~
+fish remains~
+The remains of cooked fish look rather tasty.~
+fish~
+pill 0 A
+0
+125 'heal' 'cure poison' 'cure disease' 'reserved'
+75 0 0 P
+ T 0 none~
+#8406
+fisherman whip~
+a Fisherman's Whip~
+A whip belonging to a fisherman lays here.~
+unknown~
+weapon AB AN
+0
+whip 75 1 whip CE
+110 100 0 P
+A
+13 50
+A
+20 -5
+A
+18 5
+A
+19 5
+ T 0 none~
+#8407
+barbed chain~
+a Barbed Chain~
+A long length of chain with barbs at the end lies here, looking dangerous.~
+unknown~
+weapon AB AN
+0
+flail 75 1 slash CDG
+110 100 0 P
+A
+12 20
+A
+18 8
+A
+19 8
+A
+13 28
+ T 0 none~
+#8408
+a Fishing Hat~
+a Fishing Hat~
+An old rugged hat lies on the ground here. It looks like it could keep the shade off your eyes.~
+unknown~
+armor AB AE
+0
+ADF ADF ADF ADF 0
+110 10 100 P
+A
+13 50
+A
+20 -5
+A
+18 6
+A
+19 6
+ T 0 none~
+#8409
+clan chaos key skull silver~
+a key on a chain~
+A silver key in the shape of a skull is connected to a chain here.~
+unknown~
+key 0 AC
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8410
+flame chaos goul klaw~
+the Flame of Goul~
+A never ending flame embodies a skull here.~
+unknown~
+light ABTa A
+0
+0 0 ABCFGHIJ 0 0
+150 10 0 P
+A
+19 7
+A
+18 7
+A
+20 -5
+A
+13 85
+ T 0 none~
+#8411
+sword chaos~
+the Sword of Chaos~
+A long straight sword lies here, with the potential to wreck havoc upon the world.~
+none~
+weapon ABa AN
+0
+sword 75 1 grep CEH
+150 300 0 P
+A
+20 -2
+A
+19 8
+A
+18 8
+A
+13 62
+ T 0 none~
+#8412
+plate ultimate chaos~
+a Plate of Ultimate Chaos~
+A breastplate lies here, with a skull emblem on the chest.~
+unknown~
+armor AB AD
+0
+ACDF ACDF ACDF ACDF 0
+150 10 0 P
+A
+13 75
+A
+19 8
+A
+18 8
+A
+20 -5
+ T 0 none~
+#8413
+delinquent skull chaos~
+`7Delinquent's Skull~
+A bloody cracked skull lies here.~
+bone~
+armor AB AE
+0
+ABF ABF ABF ABF 0
+110 10 0 P
+A
+19 4
+A
+18 4
+A
+20 -5
+A
+13 75
+ T 0 none~
+#8414
+test heals~
+heals for testing mobs~
+Test heals!~
+unknown~
+pill 0 A
+0
+1000 'heal' 'heal' 'heal' 'heal'
+0 0 0 P
+ T 0 none~
+#8415
+robe chaotic tranquility~
+a Robe of Tranquility~
+This robe seems to hold power, yet peace at the same time.~
+unknown~
+armor AB AD
+0
+ABF ABF ABF ABF 0
+110 10 0 P
+A
+19 4
+A
+18 4
+A
+20 -5
+A
+12 25
+A
+13 50
+ T 0 none~
+#8416
+aura power chaos~
+an Aura of Power~
+A powerful feeling eminates from this object.~
+unknown~
+armor A AQ
+0
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+13 20
+A
+18 8
+A
+19 8
+A
+20 -8
+ T 0 none~
+#8417
+chaos pendant~
+a Chaos Pendant~
+A small pendant resembling a skull lies here.~
+unknown~
+armor AB AC
+0
+ABF ABF ABF ABF 0
+110 10 0 P
+A
+18 4
+A
+19 4
+A
+20 -5
+A
+13 75
+ T 0 none~
+#8418
+pitch black greaves pair~
+a pair of pitch black greaves~
+A pair of greaves lay here, black as night.~
+unknown~
+armor AB AF
+0
+ABF ABF ABF ABF 0
+110 10 0 P
+A
+13 75
+A
+18 5
+A
+19 5
+A
+20 -3
+ T 0 none~
+#8419
+chaos ring sadist~
+a Sadist's Ring~
+You see a ring made of heartstone here, giving off a feeling of hatred.~
+unknown~
+armor A AB
+0
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+18 7
+A
+19 7
+A
+13 70
+ T 0 none~
+#8420
+sleeves necromancy~
+the sleeves of necromancy~
+A pair of old sleeves lay here.~
+unknown~
+armor A AI
+0
+ABF ABF ABF ABF 0
+110 10 0 P
+A
+20 -5
+A
+12 20
+A
+18 4
+A
+19 4
+A
+13 55
+ T 0 none~
+#8421
+spiked wrist guard~
+a Spiked Wrist Guard~
+Studded spikes welded into a steel bracer lay here, looking menacing.~
+unknown~
+armor AB AM
+0
+ABF ABF ABF ABF 0
+110 20 0 P
+A
+12 15
+A
+19 8
+A
+18 8
+A
+20 -5
+A
+13 20
+ T 0 none~
+#8422
+window painting goul~
+a wavering image~
+A painting of Goul hangs here, staring back at you icily.~
+unknown~
+window 0 0
+0
+CDEGN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8423
+window painting Jaems~
+a wavering image~
+A painting of Jaems the Terrible hangs here.~
+unknown~
+window 0 0
+0
+EGN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8424
+window painting sadist voram~
+a wavering image~
+A painting of Voram the Sadist hangs here, looking back at you evily.~
+unknown~
+window 0 0
+0
+ABCDGN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8425
+window painting~
+a wavering image~
+A painting depicting Rahkir the insane is hanging on the wall here.~
+unknown~
+window 0 0
+0
+CEGN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8426
+window painting~
+a wavering image~
+A painting of Harald the Necromancer hangs here, showing a gruesome image.~
+unknown~
+window 0 0
+0
+ABEGN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8427
+painting window~
+a wavering image~
+A painting depicting the Underlord of Chaos hangs on the wall here.~
+unknown~
+window 0 0
+0
+DEGN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8428
+window painting~
+a wavering image~
+A painting of the Chaos Prophet hangs here, in all its glory.~
+unknown~
+window 0 0
+0
+ABCEGN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8429
+window painting~
+a wavering image~
+A painting of the Chaos delinquent hangs here, showing regret.~
+unknown~
+window 0 0
+0
+ABDEGN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8430
+window painting~
+a wavering image~
+A painting of the Chaos High Lord hangs here, seemingly alive.~
+unknown~
+window 0 0
+0
+BDEGN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8431
+potion heal mist~
+a potion of heal~
+You see a small glass vial with a misty potion inside.~
+unknown~
+potion Ya A
+0
+75 'heal' 'reserved' 'reserved' 'reserved'
+50 0 3000 P
+ T 0 none~
+#8432
+potion pass door~
+a potion of translucence~
+You see a vial that seems to be empty.~
+unknown~
+potion Ya A
+0
+20 'pass door' 'reserved' 'reserved' 'reserved'
+20 0 1000 P
+ T 0 none~
+#8433
+potion divine sight~
+a potion of divine sight~
+You see a vial containing a misty blue potion.~
+unknown~
+potion Ya A
+0
+50 'detect invis' 'detect hidden' 'detect evil' 'detect good'
+20 0 1000 P
+ T 0 none~
+#8434
+potion dexterity~
+a potion of dexterity~
+You see a vial containing a red misty potion.~
+unknown~
+potion Ya A
+0
+30 'haste' 'reserved' 'reserved' 'reserved'
+20 0 1500 P
+ T 0 none~
+#8435
+potion shielding~
+a potion of shielding~
+You see a small vial containing a color-changing misty potion.~
+unknown~
+potion Ya A
+0
+30 'armor' 'shield' 'stone skin' 'reserved'
+20 0 4000 P
+ T 0 none~
+#8436
+potion flying~
+a potion of flying~
+You see a small vial containing a white misty potion, hovering in the air.~
+unknown~
+potion Ya A
+0
+20 'fly' 'reserved' 'reserved' 'reserved'
+20 0 1000 P
+ T 0 none~
+#8437
+bottle tairen wine tear~
+a bottle of Tairen wine~
+`$(`4Chilled`$) `7a bottle of Tear's finest lies here.~
+unknown~
+drink 0 A
+0
+20 20 'red wine' 0 0
+0 0 400 P
+ T 0 none~
+#8438
+bottle andoran brandy~
+a bottle of Andoran brandy~
+A bottle of brandy from Andor lies here, calling your name.~
+unknown~
+drink 0 A
+0
+20 20 'brandy' 0 0
+0 0 500 P
+ T 0 none~
+#8439
+old shoe~
+an old shoe~
+An old shoe smells up the room here.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+0 10 20 P
+ T 0 none~
+#8440
+tairen spear~
+a Tairen Spear~
+A Tairen spear is here, looking dangerous.~
+unknown~
+weapon A AN
+0
+spear 30 1 thrust 0
+30 100 500 P
+A
+18 5
+A
+19 5
+A
+13 10
+ T 0 none~
+#8441
+healing herb green~
+a green herb of healing~
+A short herb lays here, looking to be eaten.~
+unknown~
+pill 0 A
+0
+70 'heal' 'reserved' 'reserved' 'reserved'
+50 20 4000 P
+ T 0 none~
+#8442
+herb curing brown~
+a herb of curing~
+A brown herb lies here.~
+unknown~
+pill 0 A
+0
+50 'cure poison' 'cure disease' 'reserved' 'reserved'
+50 0 2000 P
+ T 0 none~
+#8443
+herb vision red~
+a herb of vision~
+A red herb lies here.~
+unknown~
+pill 0 A
+0
+50 'cure blindness' 'reserved' 'reserved' 'reserved'
+50 0 1000 P
+ T 0 none~
+#8444
+yellow herb blessing~
+a herb of blessing~
+A yellow herb lies here.~
+unknown~
+pill 0 A
+0
+75 'bless' 'cure critical' 'reserved' 'reserved'
+50 0 3000 P
+ T 0 none~
+#8445
+potion return~
+a potion of return~
+You see a small vial containing a misty red potion.~
+unknown~
+potion Ya A
+0
+50 'word of recall' 'reserved' 'reserved' 'reserved'
+10 0 1000 P
+ T 0 none~
+#8446
+long steel sword~
+a long steel sword~
+A long steel sword of master forging lies here.~
+unknown~
+weapon AB AN
+0
+sword 30 1 slash E
+26 200 5000 P
+A
+13 21
+A
+19 5
+ T 0 none~
+#8447
+battle axe sharp axe long~
+a sharp axe~
+A large battle axe lies here, looking rather sharp.~
+unknown~
+weapon AB AN
+0
+axe 31 1 chop CE
+30 150 3000 P
+A
+13 15
+ T 0 none~
+#8448
+sharp chrome knife~
+a sharp chrome knife~
+A knife that's sharp and chrome lies here.~
+unknown~
+weapon AB AN
+0
+dagger 31 1 stab DH
+26 100 1000 P
+A
+14 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#8449
+wood mug ale~
+a mug of ale~
+A tall mug of frosty ale stands here.~
+unknown~
+drink 0 A
+0
+15 15 'ale' 0 0
+0 0 50 P
+ T 0 none~
+#8450
+gold chest~
+a small golden chest~
+A small golden chest is in the center of the room, waiting to be unlocked.~
+unknown~
+container D 0
+0
+100 ACD 8451 0 0
+0 0 0 P
+ T 0 none~
+#8451
+small golden key~
+a small golden key~
+Someone has left a small golden key on top of the dresser here.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8452
+crystal staff~
+a Crystal Staff~
+A long, clear crystal staff adorns the floor here.~
+unknown~
+staff AB AO
+0
+75 17 17 'heal' 3
+60 100 0 P
+A
+13 25
+A
+20 -15
+A
+14 -15
+ T 0 none~
+#8453
+six pack coors light~
+`$(`^F`6r`&o`7s`6t`^y`$) `7a `&S`7i`&X`7-`8P`&a`7c`8k `7of `7C`&oo`7r`&s L`7i`&g`7h`&t`7.~
+Drink up!~
+unknown~
+keyring 0 AU
+0
+10000 0 0 0 0
+110 0 0 P
+ T 0 none~
+#8454
+ter'angreal small~
+a small ter'angreal~
+A small ter'angreal of a fat man holding a sword lies here.~
+unknown~
+armor AG AO
+0
+ABCD ABCD ABCD ABCD 0
+30 10 1000 P
+A
+12 50
+ T 0 none~
+#8455
+scroll searching~
+a scroll of searching~
+A brown tattered scroll lies here, looking rather old.~
+unknown~
+scroll 0 A
+0
+75 'locate object' 'reserved' 'reserved' 'reserved'
+30 10 1000 P
+ T 0 none~
+#8456
+scroll grip~
+a scroll of grip~
+A long iron scroll lies here.~
+unknown~
+scroll 0 A
+0
+75 'iron grip' 'reserved' 'reserved' 'reserved'
+30 0 5000 P
+ T 0 none~
+#8457
+scroll identify~
+a scroll of identify~
+A small white scroll lies here.~
+unknown~
+scroll 0 A
+0
+50 'identify' 'reserved' 'reserved' 'reserved'
+30 0 800 P
+ T 0 none~
+#8458
+wand acid blast~
+a wand of acid blast~
+A wand lies here.~
+unknown~
+wand 0 AO
+0
+50 15 15 'acid blast' 5
+30 0 0 P
+ T 0 none~
+#8459
+pile gold coins~
+a pile of gold coins~
+A pile of gold coins~
+gold~
+money 0 A
+0
+EIJKN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8460
+window~
+an open window~
+An open window is here, letting in a cool breeze.~
+unknown~
+window 0 0
+0
+ADEIN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8461
+loaf tairen bread~
+a loaf of Tairen bread~
+A loaf of Tairen bread is here, looking delicious.~
+unknown~
+food 0 A
+0
+BCDE BEF 0 0 0
+0 0 30 P
+ T 0 none~
+#8462
+sweet cake~
+a sweet cake~
+A small sweet cake lies here, waiting to be eaten.~
+unknown~
+food 0 A
+0
+ABCD BCDE 0 0 0
+0 0 10 P
+ T 0 none~
+#8463
+meat pie~
+a meat pie~
+A meat pie lies here.~
+unknown~
+food 0 A
+0
+ADE BEF 0 0 0
+0 0 20 P
+ T 0 none~
+#8464
+apple pie~
+an apple pie~
+An apple pie lies here.~
+unknown~
+food 0 A
+0
+ADE BEF 0 0 0
+0 0 30 P
+ T 0 none~
+#8465
+Gueyam sword~
+`7Gueyam's Sword~
+A long steel Tairen sword lies here, waiting to be picked up.~
+unknown~
+weapon AB AN
+0
+sword 50 1 slash ACD
+75 200 15000 P
+A
+18 6
+A
+19 6
+A
+13 30
+ T 0 none~
+#8466
+High lord helmet~
+a High Lord's Helmet~
+The helmet of a Tairen High Lord is lying here.~
+unknown~
+armor AB AE
+0
+BCDE BCDE BCDE BCDE 0
+75 10 15000 P
+A
+18 5
+A
+19 5
+A
+13 35
+A
+12 20
+ T 0 none~
+#8467
+small ruby hilted dagger ruby-hilted~
+a ruby-hilted dagger~
+A small, ruby-hilted dagger lies here.~
+steel~
+weapon AB AN
+0
+dagger 50 1 slice EH
+75 100 15000 P
+A
+18 6
+A
+19 6
+A
+13 30
+ T 0 none~
+#8468
+deadly spear~
+a deadly spear~
+A deadly looking spear is lying on the ground.~
+unknown~
+weapon AB AN
+0
+spear 50 1 slice EG
+75 100 1000 P
+A
+18 7
+A
+19 7
+A
+20 -4
+ T 0 none~
+#8469
+sword-breaker sword breaker~
+a sword-breaker~
+A knotched sword-breaker lies here.~
+unknown~
+weapon AB AN
+0
+exotic 50 1 thrust D
+75 50 1000 P
+A
+18 10
+A
+19 10
+ T 0 none~
+#8470
+long wooden bow~
+a long wooden bow~
+A long wooden bow lies here.~
+unknown~
+weapon AB AN
+0
+bow 50 1 thwack E
+75 200 1000 P
+A
+18 5
+A
+19 5
+A
+12 10
+A
+13 35
+ T 0 none~
+#8471
+sturdy quiver~
+a sturdy quiver~
+A long and narrow quiver rest's on the ground here.~
+unknown~
+quiver AB AS
+0
+50 200 0 8472 0
+75 10 1000 P
+A
+18 4
+A
+19 4
+A
+13 40
+A
+20 -5
+ T 0 none~
+#8472
+steel-tipped arrow steel tipped~
+a steel-tipped arrow~
+A steel-tipped arrow lies here.~
+unknown~
+arrow 0 AO
+0
+0 17 5 0 CEH
+75 0 100 P
+A
+18 10
+A
+19 10
+ T 0 none~
+#8473
+cigarette~
+a cigarette~
+A cigarette~
+unknown~
+trash 0 AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#8475
+bracelet bone~
+a bone bracelet~
+A bracelet made of bone lies here.~
+unknown~
+armor AB AM
+0
+BCDE BCDE BCDE BCDE 0
+75 0 100 P
+A
+13 50
+A
+18 4
+A
+19 4
+A
+12 15
+ T 0 none~
+#8476
+small iron shield~
+a small iron shield~
+A small iron shield lies here.~
+unknown~
+armor AB AJ
+0
+BCDE BCDE BCDE BCDE 0
+75 0 100 P
+A
+13 50
+A
+18 5
+A
+19 5
+ T 0 none~
+#8477
+knee-high boots knee high pair~
+a pair of knee-high boots~
+A pair of boots lie here.~
+unknown~
+armor AB AG
+0
+BCDE BCDE BCDE BCDE 0
+75 0 1000 P
+A
+14 20
+A
+13 35
+A
+20 -5
+A
+18 3
+A
+19 4
+ T 0 none~
+#8478
+black veil~
+a black veil~
+A black veil lies here.~
+unknown~
+armor A AR
+0
+BCDE BCDE BCDE BCDE 0
+75 0 1000 P
+A
+13 45
+A
+18 4
+A
+19 4
+A
+12 20
+ T 0 none~
+#8479
+long black coat~
+a long black coat~
+A long black coat lies here in a crumpled heap.~
+unknown~
+armor AB AK
+0
+BCDE BCDE BCDE BCDE 0
+75 0 1000 P
+A
+20 -10
+A
+18 3
+A
+19 3
+A
+13 25
+ T 0 none~
+#8480
+gold signet ring~
+a gold signet ring~
+A small gold ring lies here.~
+unknown~
+armor A AB
+0
+BCDE BCDE BCDE BCDE 0
+75 0 10000 P
+A
+12 25
+A
+19 7
+A
+18 7
+A
+13 10
+ T 0 none~
+#8481
+shoufa~
+a shoufa~
+A shoufa lies here.~
+unknown~
+armor B AE
+0
+BCDE BCDE BCDE BCDE 0
+75 0 1000 P
+A
+18 7
+A
+19 7
+A
+13 30
+A
+12 5
+ T 0 none~
+#8482
+silver medallion small~
+a silver medallion~
+A small silver medallion lies here.~
+unknown~
+armor AB AC
+0
+BCDE BCDE BCDE BCDE 0
+75 0 1000 P
+A
+18 4
+A
+19 4
+A
+13 40
+A
+20 -3
+A
+12 10
+ T 0 none~
+#8483
+cadin'sor cadin sor~
+cadin'sor~
+An Aiel's cadin'sor has been left here.~
+unknown~
+armor A AD
+0
+BCDE BCDE BCDE BCDE 0
+75 0 100 P
+A
+13 50
+A
+20 -5
+A
+19 3
+A
+18 3
+ T 0 none~
+#8484
+flickering torch~
+a flickering torch~
+A torch is lying here, flickering softly.~
+unknown~
+light A A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+75 0 100 P
+A
+18 5
+A
+19 5
+A
+13 40
+A
+12 15
+ T 0 none~
+#8485
+small angreal figurine~
+a small angreal~
+A small figurine of a man holding a crystal ball lies here.~
+unknown~
+armor AB AO
+0
+BCDE BCDE BCDE BCDE 0
+75 0 10000 P
+A
+12 50
+A
+18 3
+A
+19 3
+A
+13 25
+ T 0 none~
+#8486
+worn leather belt old~
+a worn leather belt~
+An old leather belt lies here.~
+unknown~
+armor AB AL
+0
+BCDE BCDE BCDE BCDE 0
+75 0 100 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+13 30
+ T 0 none~
+#8487
+pair britches~
+a pair of britches~
+A pair of britches lie here.~
+unknown~
+armor B AF
+0
+BCDE BCDE BCDE BCDE 0
+75 0 100 P
+A
+20 -10
+A
+13 45
+A
+12 10
+ T 0 none~
+#8488
+leather pair gloves black~
+a pair of black leather gloves~
+A pair of black leather gloves lie here.~
+unknown~
+armor B AH
+0
+BCDE BCDE BCDE BCDE 0
+75 0 100 P
+A
+1 3
+A
+18 5
+A
+19 5
+A
+13 40
+ T 0 none~
+#8489
+arm guards pair~
+a pair of arm guards~
+A pair of arm guards lie here.~
+unknown~
+armor AB AI
+0
+BCDE BCDE BCDE BCDE 0
+75 0 0 P
+A
+12 45
+A
+13 45
+A
+20 -3
+ T 0 none~
+#8490
+insanity~
+insanity~
+The overwhelming feeling of insanity is here.~
+unknown~
+armor AB AQ
+0
+BCDE BCDE BCDE BCDE 0
+75 0 0 P
+A
+18 6
+A
+19 6
+A
+13 35
+A
+20 -2
+ T 0 none~
+#8491
+captain lantern~
+the Captain's Lantern~
+The captain's lantern is here, burning softly.~
+unknown~
+light A A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 0 1000 P
+A
+13 65
+A
+20 -5
+A
+19 5
+A
+18 5
+ T 0 none~
+#8492
+soft cushioned chair~
+a soft cushioned chair~
+A soft cushioned chair is here, looking rather comfortable.~
+unknown~
+furniture T 0
+0
+C EGHIJK EHK DGH EHI
+0 0 0 P
+ T 0 none~
+#8493
+captain belt~
+the Captain's Belt~
+The Captain's Belt is here.~
+unknown~
+armor AB AL
+0
+BCF BCF BCF BCF 0
+110 0 1000 P
+A
+20 -5
+A
+13 45
+A
+19 7
+A
+18 7
+ T 0 none~
+#8494
+leggings of human flesh~
+`7Leggings of Human Flesh~
+Some leggings made from human flesh lie here.~
+unknown~
+armor AB AF
+0
+ACDF ACDF ACDF ACDF 0
+150 0 1000 P
+A
+20 -6
+A
+19 8
+A
+18 8
+A
+13 70
+ T 0 none~
+#8495
+chaos signet ring~
+a Chaos Signet Ring~
+A signet ring of a skull lies here.~
+unknown~
+armor AB AB
+0
+ACDF ACDF ACDF ACDF 0
+150 0 1000 P
+A
+18 10
+A
+19 10
+A
+20 -5
+A
+13 55
+ T 0 none~
+#8496
+belt skulls~
+a Belt of Skulls~
+A belt with several skulls attached it lies here.~
+unknown~
+armor AB AL
+0
+ACDF ACDF ACDF ACDF 0
+150 0 100000 P
+A
+20 -4
+A
+19 8
+A
+18 8
+A
+13 80
+ T 0 none~
+#8497
+frosty can of coors light beer~
+a `^F`6r`&o`7s`6t`^y `&C`7a`&n `7of C`&oo`7r`&s L`7i`&g`7h`&t`7~
+A frosty can of Coors Light is here, let's get drunk!~
+unknown~
+drink 0 AO
+0
+30 30 'beer' 0 0
+1 0 10 P
+ T 0 none~
+#8498
+heal poison for testing mobs~
+heal poison for testing mobs~
+HEAL HEAL~
+unknown~
+pill 0 A
+0
+5000 'cure poison' 'cure disease' 'cure blindness' 'reserved'
+1 0 0 P
+ T 0 none~
+#8499
+fists chaos~
+`7Fists of Chaos~
+A pair of gloves lie here, looking chaotic.~
+unknown~
+armor AB AH
+0
+ABF ABF ABF ABF 0
+110 20 1000 P
+A
+20 -2
+A
+19 7
+A
+18 7
+A
+13 60
+ T 0 none~
+#8500
+chaos clan boots~
+`7Chaos Clan Boots~
+A pair of boots lie here, with a skull insignia on them.~
+unknown~
+armor AB AG
+0
+ABF ABF ABF ABF 0
+110 20 1000 P
+A
+20 -6
+A
+13 50
+A
+19 6
+A
+18 6
+ T 0 none~
+#8501
+mask eternal pain~
+`7Mask of Suffering~
+A mask of a frozen pain lies here, screaming eternally.~
+unknown~
+armor AB AR
+0
+ABF ABF ABF ABF 0
+110 20 1000 P
+A
+20 -5
+A
+19 5
+A
+18 5
+A
+13 65
+ T 0 none~
+#8502
+wool satchel~
+a wool satchel~
+A satchel made of wool lies here.~
+unknown~
+container ABYae AL
+0
+250 A 0 250 250
+75 10 1000 P
+A
+19 3
+A
+18 3
+A
+20 -5
+A
+13 50
+ T 0 none~
+#8503
+potion cure blindness~
+a potion of cure blindness~
+A potion of cure blindness is here.~
+unknown~
+potion Ya A
+0
+75 'cure blindness' 'cure blindness' 'reserved' 'reserved'
+50 0 2000 P
+ T 0 none~
+#8504
+wand acid blast~
+a wand of acid blast~
+A wand of acid blast lies here.~
+unknown~
+wand 0 AO
+0
+60 30 30 'acid blast' 5
+50 0 500 P
+ T 0 none~
+#8505
+wand poison missile~
+a wand of poison missile~
+A wand of poison missile is here.~
+unknown~
+wand 0 AO
+0
+60 30 30 'poison missile' 5
+50 0 500 P
+ T 0 none~
+#8506
+wand chain lightning~
+a wand of chain lightning~
+A wand of chain lightning is here.~
+unknown~
+wand 0 AO
+0
+60 15 15 'chain lightning' 2
+50 0 1500 P
+ T 0 none~
+#8507
+wand magic missile~
+a wand of magic missile~
+A wand of magic missile is here.~
+unknown~
+wand 0 AO
+0
+60 30 30 'magic missile' 5
+50 0 500 P
+ T 0 none~
+#8508
+rod acid blast~
+a rod of acid blast~
+A rod of acid blast is here.~
+unknown~
+wand AB AO
+0
+75 20 20 'acid blast' 3
+75 0 1000 P
+ T 0 none~
+#8509
+rod poison missile~
+a rod of poison missile~
+A rod of poison missile is here.~
+unknown~
+wand AB AO
+0
+75 20 20 'poison missile' 3
+75 0 1000 P
+ T 0 none~
+#8510
+rod chain lightning~
+a rod of chain lightning~
+A rod of chain lightning is here.~
+unknown~
+wand AB AO
+0
+75 10 10 'chain lightning' 1
+75 0 3000 P
+ T 0 none~
+#8511
+rod magic missile~
+a rod of magic missile~
+A rod of magic missile is here.~
+unknown~
+wand AB AO
+0
+75 20 20 'magic missile' 3
+75 0 1000 P
+ T 0 none~
+#8512
+heavy sword~
+a heavy sword~
+A heavy sword is here.~
+unknown~
+weapon 0 AN
+0
+sword 50 1 none 0
+50 500 0 P
+ T 0 none~
+#8513
+potion sanctuary~
+a potion of sanctuary~
+A clear potion lies here.~
+unknown~
+potion 0 A
+0
+30 'sanctuary' 'haste' 'reserved' 'reserved'
+10 0 1000 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#8200
+A Guard Post~
+The guard post is where all the guards come to rest for a moment after
+they are releaved, and to check to see when they have to stand guard next. 
+Even the guard post seems guarded.  
+~
+0 0 0
+D2
+~
+~
+0 0 8525
+D3
+~
+~
+0 0 8599
+S
+#8201
+Near the Docks~
+The smell of fish and salt becomes overwhelming as you come closer to the
+docks of Tear.  From this distance you can clearly see just how crowded it
+is, what with sailors, merchants, and fisherman going about their daily
+business.  
+~
+0 0 0
+D0
+~
+~
+0 0 8560
+D2
+~
+~
+0 0 8202
+S
+#8202
+Near the Docks~
+Approaching the docks, it becomes hard to navigate through the massive
+crowd of people who don't seem to notice anyone but themselves.  Some people
+carry baskets on their heads containing fish or fruits, while outland
+merchants make their way to the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 8201
+D2
+~
+~
+0 0 8203
+S
+#8203
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8202
+D1
+~
+~
+0 0 8205
+D2
+~
+~
+0 0 8210
+D3
+~
+~
+0 0 8204
+S
+#8204
+The Docks of Tear~
+The docks are more and more crowded with every step.  Some of the people
+marching along don't even seem to notice you, and might walk over you.  
+~
+0 0 0
+D1
+~
+~
+0 0 8203
+D2
+~
+~
+0 0 8211
+D3
+~
+~
+0 0 8206
+S
+#8205
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D1
+~
+~
+0 0 8208
+D2
+~
+~
+0 0 8214
+D3
+~
+~
+0 0 8203
+S
+#8206
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D1
+~
+~
+0 0 8204
+D2
+~
+~
+0 0 8212
+D3
+~
+~
+0 0 8207
+S
+#8207
+The Docks of Tear~
+On some parts, the docks look as if they need to be repaired.  There are
+a few holes here and there, some rather large.  
+~
+0 0 0
+D1
+~
+~
+0 0 8206
+D2
+~
+~
+0 0 8213
+S
+#8208
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D1
+~
+~
+0 0 8209
+D2
+~
+~
+0 0 8215
+D3
+~
+~
+0 0 8205
+S
+#8209
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D2
+~
+~
+0 0 8216
+D3
+~
+~
+0 0 8208
+S
+#8210
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8203
+D1
+~
+~
+0 0 8214
+D2
+~
+~
+0 0 8217
+D3
+~
+~
+0 0 8211
+S
+#8211
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8204
+D1
+~
+~
+0 0 8210
+D2
+~
+~
+0 0 8218
+D3
+~
+~
+0 0 8212
+S
+#8212
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8206
+D1
+~
+~
+0 0 8211
+D2
+~
+~
+0 0 8219
+D3
+~
+~
+0 0 8213
+S
+#8213
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8207
+D1
+~
+~
+0 0 8212
+D2
+~
+~
+0 0 8220
+S
+#8214
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8205
+D1
+~
+~
+0 0 8215
+D2
+~
+~
+0 0 8221
+D3
+~
+~
+0 0 8210
+S
+#8215
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8208
+D1
+~
+~
+0 0 8216
+D2
+~
+~
+0 0 8222
+D3
+~
+~
+0 0 8214
+S
+#8216
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8209
+D2
+~
+~
+0 0 8223
+D3
+~
+~
+0 0 8215
+S
+#8217
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8210
+D1
+~
+~
+0 0 8221
+D2
+~
+~
+0 0 8232
+D3
+~
+~
+0 0 8218
+S
+#8218
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8211
+D1
+~
+~
+0 0 8217
+D3
+~
+~
+0 0 8219
+S
+#8219
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8212
+D1
+~
+~
+0 0 8218
+D3
+~
+~
+0 0 8220
+S
+#8220
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8213
+D1
+~
+~
+0 0 8219
+D5
+~
+~
+0 0 8309
+S
+#8221
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8214
+D1
+~
+~
+0 0 8222
+D2
+~
+~
+0 0 9736
+D3
+~
+~
+0 0 8217
+S
+#8222
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8215
+D1
+~
+~
+0 0 8223
+D3
+~
+~
+0 0 8221
+S
+#8223
+The Docks of Tear~
+Walking along the docks of Tear, shirtless sailors and dockworkers pass
+you constantly.  Outland merchants step off ships to supervise the unloading
+of their goods.  Seagulls fly overhead, and citizens walk around to get a
+glance of the ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8216
+D2
+~
+~
+0 0 8224
+D3
+~
+~
+0 0 8222
+S
+#8224
+On Board a Seafolk Vessel~
+As you step on board the Sea Folk vessel, Sea Folk sailors rush about. 
+Shirtless women as well as men work to unload their wares from wherever they
+come from.  They carefully handle boxes of fine Sea Folk porcelin.  
+~
+0 0 0
+D0
+~
+~
+0 0 8223
+D2
+~
+~
+0 0 8225
+D5
+~
+~
+0 0 8259
+S
+#8225
+The Rigging~
+Standing by the rigging, it looks like quite a climb to the mast of the
+ship.  Hey, this ship is exactly like the other one!  What a ripoff.  
+~
+0 0 0
+D0
+~
+~
+0 0 8224
+D1
+~
+~
+0 0 8253
+D2
+~
+~
+0 0 8254
+D3
+~
+~
+0 0 8252
+D4
+~
+~
+0 0 8298
+S
+#8226
+On a Roof~
+Jumping from roof to roof is rather dangerous.  A fall would result in a
+few broken bones, not to mention looking foolish and questionable for
+walking around on the roof.  
+~
+0 0 0
+D0
+~
+~
+0 0 8230
+D1
+~
+~
+0 0 8227
+D3
+~
+~
+0 0 8571
+S
+#8227
+On a Tilted Roof~
+Standing on the rooftops of Tairen houses, you can see a lot of activity
+in the city.  You also see that there's more to Tear than what's on the
+ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 8228
+D3
+~
+~
+0 0 8226
+S
+#8228
+A Slate Tiled Roof~
+This roof is hard to keep balanced on, as the tiles threaten to loosen up
+and slide off at any moment.  It looks like a long fall to the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 8229
+D2
+~
+~
+0 0 8227
+D3
+~
+~
+0 0 8231
+S
+#8229
+A Slate Tiled Roof~
+This roof is hard to keep balanced on, as the tiles threaten to loosen up
+and slide off at any moment.  It looks like a long fall to the ground.  
+~
+0 0 0
+D2
+~
+~
+0 0 8228
+D3
+~
+~
+0 0 8261
+S
+#8230
+On the Rooftops~
+Standing on the rooftops of Tairen houses, you can see a lot of activity
+in the city.  You also see that there's more to Tear than what's on the
+ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 8262
+D1
+~
+~
+0 0 8231
+D2
+~
+~
+0 0 8226
+D3
+~
+~
+0 0 8570
+S
+#8231
+On the Rooftops~
+Standing on the rooftops of Tairen houses, you can see a lot of activity
+in the city.  You also see that there's more to Tear than what's on the
+ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 8261
+D1
+~
+~
+0 0 8228
+D3
+~
+~
+0 0 8230
+S
+#8232
+On Board a Tairen Ship~
+As you step on board a Tairen ship, you have to move quickly to avoid the
+sailors who are coming on and off the ship.  Everyone is too busy loading
+and unloading cargo to notice you snooping about.  
+~
+0 0 0
+D0
+~
+~
+0 0 8217
+D1
+~
+~
+0 0 8234
+D2
+~
+~
+0 0 8233
+D3
+~
+~
+0 0 8235
+D5
+~
+~
+0 0 8244
+S
+#8233
+The Rigging~
+Standing by the rigging, it looks like quite a climb to the mast of the
+ship.  Nobody would probably notice if someone climbed it.  
+~
+0 0 0
+D0
+~
+~
+0 0 8232
+D1
+~
+~
+0 0 8236
+D2
+~
+~
+0 0 8241
+D3
+~
+~
+0 0 8237
+D4
+~
+~
+0 0 8238
+S
+#8234
+On the Deck~
+~
+0 0 0
+D2
+~
+~
+0 0 8236
+D3
+~
+~
+0 0 8232
+S
+#8235
+On the Deck~
+~
+0 0 0
+D1
+~
+~
+0 0 8232
+D2
+~
+~
+0 0 8237
+S
+#8236
+On the Deck~
+The deck of this ship looks well kept.  A sailor is mopping the deck
+relentlessly, as if it's getting less and less clean by the moment.  
+~
+0 0 0
+D0
+~
+~
+0 0 8234
+D3
+~
+~
+0 0 8233
+S
+#8237
+On the Deck~
+Here on the deck, the ship sways up and down from the waves in the ocean.
+The activity onboard is overwhelming, as there is seemingly almost always
+someone in your way.  
+~
+0 0 0
+D0
+~
+~
+0 0 8235
+D1
+~
+~
+0 0 8233
+S
+#8238
+Climbing the Rigging~
+The rigging doesn't seem very stable.  It sways in the wind a lot, and
+it's pretty high from the deck, not to mention from the water.  
+~
+0 0 0
+D4
+~
+~
+0 0 8239
+D5
+~
+~
+0 0 8233
+S
+#8239
+Climbing the Rigging~
+The rigging doesn't seem very stable.  It sways in the wind a lot, and
+it's pretty high from the deck, not to mention from the water.  
+~
+0 0 0
+D4
+~
+~
+0 0 8240
+D5
+~
+~
+0 0 8238
+S
+#8240
+The Mast~
+At the mast of the ship, the docks of Tear and the top of the Stone is
+visible.  It's pretty high from the ground though, climbing down might prove
+to be tougher than climbing up.  
+~
+0 0 0
+D5
+~
+~
+0 0 8239
+S
+#8241
+Near the Stern~
+Towards the stern of the ship, the sailors are beginning to notice your
+presence, although no one questions it yet.  Most of them just glance and go
+about their business.  
+~
+0 0 0
+D0
+~
+~
+0 0 8233
+D2
+~
+~
+0 0 8242
+D5
+~
+~
+0 0 8243
+S
+#8242
+The Stern of the Ship~
+Staring out over the stern, the ocean spreads for miles and miles as far
+as the eye can see.  Several other ships are on their way to the docks, as
+well as those leaving.  
+~
+0 0 0
+D0
+~
+~
+0 0 8241
+S
+#8243
+The Captain's Cabin~
+Here the Captain of the ship spends his time when he isn't on deck,
+directing the ship's voyage.  His table is built into the floor, as well as
+the chairs and dressers in the room.  Maps are spread all over the table in
+an unorganized fashion.  
+~
+0 0 0
+D4
+~
+~
+0 0 8241
+S
+#8244
+Beneath the Deck~
+As you walk down some steps to get beneath the deck, you question the
+stability of the ship.  Leaks seem to running throughout the ship.  That
+can't be good.  
+~
+0 0 0
+D2
+~
+~
+0 0 8245
+D4
+~
+~
+0 0 8232
+S
+#8245
+The Bowels of the Ship~
+Deep into the bowels of the ship, the smell of salt water, fish, and
+"unclean" things hang in the air.  It's really quite disturbing.  
+~
+0 0 0
+D0
+~
+~
+0 0 8244
+D2
+~
+~
+0 0 8246
+S
+#8246
+The Galley~
+Here in the galley, the smells are not anymore pleasant than before. 
+There's a huge pot and a crazy looking cook staring at you.  
+~
+0 0 0
+D0
+~
+~
+0 0 8245
+S
+#8247
+A Hallway~
+The hallway is covered in the most expensive Tairen maze-like carpets,
+and the walls are adorned with exotic paintings and pottery.  Every now and
+then a servant passes by, casting its gaze at the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 8574
+D1
+~
+~
+0 0 8248
+D2
+~
+~
+0 0 8249
+S
+#8248
+A Guest Bedroom~
+The guest bedroom is like any other guest room, finely decorated but not
+more exquisite than the High Lord's room, of course.  A four-post bed
+covered in transparent silk drapery rests in the center of the room.  
+~
+0 0 0
+D3
+~
+~
+0 0 8247
+S
+#8249
+A Hallway~
+The hallway is covered in the most expensive Tairen maze-like carpets,
+and the walls are adorned with exotic paintings and pottery.  Every now and
+then a servant passes by, casting its gaze at the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 8247
+D2
+~
+~
+0 0 8251
+D3
+~
+~
+0 0 8250
+S
+#8250
+A Guest Bedroom~
+The guest bedroom is like any other guest room, finely decorated but not
+more exquisite than the High Lord's room, of course.  A four-post bed
+covered in transparent silk drapery rests in the center of the room.  
+~
+0 0 0
+D1
+~
+~
+0 0 8249
+S
+#8251
+The End of the Hall~
+At the end of the hall, the walls seem to curve strangely, making the
+last wall of the hall rather tall.  If you were to fall, you would bawl. 
+Something looks strange about the wall..  
+~
+0 0 0
+D0
+~
+~
+0 0 8249
+D2
+~
+~
+1 0 8585
+S
+#8252
+Walking Around the Deck~
+Standing on the deck, shirtless Atha'an Miere walk around as if nothing's
+happening.  Some of them have a gold chain from their nose to the lobe of
+their ear with several small rings hanging from it.  
+~
+0 0 0
+D1
+~
+~
+0 0 8225
+S
+#8253
+On the Deck~
+Standing here, you notice some of the Sea Folk wearing bits of round
+glass around their eyes, connected to their ears.  These people are strange.
+~
+0 0 0
+D3
+~
+~
+0 0 8225
+S
+#8254
+On the Deck~
+Furthermore you notice that the Sea Folk are extremely dark, darker than
+any other nationality.  They wear baggy pants with a sash, and usually a
+dagger at their hip.  
+~
+0 0 0
+D0
+~
+~
+0 0 8225
+D2
+~
+~
+0 0 8255
+S
+#8255
+The Stern~
+The stern of the Atha'an Miere vessel is more impressive than the Tairen
+ship.  A woman's face is carved into the wood, perhaps to guide the way
+through the waters.  
+~
+0 0 0
+D0
+~
+~
+0 0 8254
+D5
+~
+~
+0 0 8256
+S
+#8256
+Beneath the Deck~
+As you venture down into the vessel, you find yourself in a beautifully
+crafted room for a ship.  This room could pass for a palace bedroom. 
+Beautiful vases line the walls, as well as expensive Tairen rugs on the
+floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 8257
+D4
+~
+~
+0 0 8255
+S
+#8257
+Beneath the Deck~
+All the chairs in the room are carved into the floor, but the strange
+part is how they are made.  There is some sort of latch that connects from
+one arm rest to another, either to keep you from falling out of your seat
+when the water gets rough, or to keep people from leaving.  
+~
+0 0 0
+D0
+~
+~
+0 0 8258
+D2
+~
+~
+0 0 8256
+S
+#8258
+A Small Kitchen~
+The kitchen in this ship is quite nice, rather than being messy and
+smelly as in most ships, this one is well kept, and smells like actual
+spices and herbs rather than unidentifiable things.  
+~
+0 0 0
+D0
+~
+~
+0 0 8259
+D2
+~
+~
+0 0 8257
+S
+#8259
+Beneath the Deck~
+Below the deck, there are less Sea Folk running about.  All the ones down
+here seem to be high rank, or at least of some importance, as they are
+dresser in fine silks and scarfs, and more exquisite jewerly.  
+~
+0 0 0
+D2
+~
+~
+0 0 8258
+D4
+~
+~
+0 0 8224
+S
+#8260
+Inside the House~
+Upon entrance to the house, it becomes somewhat apparent the High Lord
+doesn't spend much time here.  All the furnishings are bland and covered in
+dust.  There is no one in the house, and it looks like it hasn't been
+visited for quite some time.  
+~
+0 0 0
+D2
+~
+~
+0 0 8588
+S
+#8261
+On the Rooftops~
+Standing on the rooftops of Tairen houses, you can see a lot of activity
+in the city.  You also see there's more to Tear than what's on the ground.  
+~
+0 0 0
+D1
+~
+~
+0 0 8229
+D2
+~
+~
+0 0 8231
+D3
+~
+~
+0 0 8262
+S
+#8262
+On the Rooftops~
+Jumping from roof to roof can be rather dangerous, considering the long
+fall to the paved ground.  The people walking below you would also
+complicate things.  
+~
+0 0 0
+D1
+~
+~
+0 0 8261
+D2
+~
+~
+0 0 8230
+D3
+~
+~
+0 0 8263
+S
+#8263
+On a Tilted Roof~
+This roof is hard to keep balanced on, as the tiles threaten to loosen up
+and slide off at any moment.  It looks like a long fall to the ground.  
+~
+0 0 0
+D1
+~
+~
+0 0 8262
+D2
+~
+~
+0 0 8570
+S
+#8264
+A Secret Passage~
+You have managed to find your way into a hidden hallway.  There is no
+lighting down the corridor, who knows where it might lead, but into utter
+darkness.  
+~
+0 8200 0
+D0
+~
+~
+1 0 8536
+D2
+~
+~
+0 0 8265
+S
+#8265
+Further Into the Darkness~
+Deeper into the corridor, the darkness becomes thicker, leaving only the
+illusions of the mind to be seen.  The ground beneath your feet is covered
+in dirt and broken glass, making a loud noise everytime you take a step.  
+~
+0 8200 0
+D0
+~
+~
+0 0 8264
+D2
+~
+~
+0 0 8266
+S
+#8266
+A Pitch Black Room~
+As you step into this room, blackness engulfs you more than before. 
+Looking back down the corridor, you stare into complete darkness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 8265
+D3
+~
+~
+0 0 8267
+S
+#8267
+Chaos Guild House~
+You have found your way into the guild house of the Clan Chaos.  Pure
+evil, they live for the soul purpose of wrecking havoc upon the world.  They
+kill for the pleasure of seeing blood, and steal for the pleasure of causing
+another to feel the loss.  They are indeed dangerous.  
+~
+0 8200 0
+D1
+~
+~
+0 0 8266
+D2
+~
+~
+0 0 8268
+D3
+~
+~
+0 0 8285
+S
+#8268
+A Hallway in Chaos~
+The only way out of the entrance is down this dimly light hallway. 
+Flickering torches line the walls, giving off just enough light to see that
+the hallway leads down, beneath the city.  
+~
+0 8200 0
+D0
+~
+~
+0 0 8267
+D2
+~
+~
+0 0 8269
+S
+#8269
+Further Down the Dimly Lit Hall~
+As the hall leads further down into the ground, paintings begin to
+decorate the walls.  Rather than being painted on canvas, they are painted
+directly onto the stone wall.  One painting depicts a bloody massacre in the
+streets of a far away place, and another shows terror on board a ship.  Some
+of the paint looks to be blood.  The hallway ends abruptly, with a small
+hole in the ground, and a steel pole next to it with a rope tied around it. 
+~
+0 4202504 0
+D0
+~
+~
+0 0 8268
+D5
+~
+~
+0 0 8270
+S
+#8270
+The First Spiral~
+Beneath the first floor of the guild house, a spiral staircase leads to
+parts unknown.  The entire room is round, and leads down into darkness. 
+Aside from the staircase, a small walkway circles the room, allowing you to
+explore the other rooms that are on this spiral.  
+~
+0 4202504 0
+D1
+~
+~
+0 0 8271
+D3
+~
+~
+0 0 8272
+D4
+~
+~
+0 0 8269
+D5
+~
+~
+0 0 8273
+S
+#8271
+The Sadist's Room~
+Scrawled on the wall in blood are these words:
+I find that I can see a light at the end,
+Down beneath my self-indulgent pitiful hole. 
+Defeated, I concede and move closer.
+I may find comfort here, I may find peace
+Within the emptiness.. How pitiful.
+ 
+And in my darkest moment, fetal and weeping,
+The moon tells me a secret, my confidant.
+As full and bright as I am, this light is not my own.
+A million light reflections pass over me,
+It's source is bright and endless.
+ 
+And as I pull my head out, I am without one doubt.
+Don't want to be down here, soothing my narcissism.
+I must crucify the ego, before it's far too late.
+I pray the light lifts me out, before I pine away.
+To leave this place behind, so negative and blind and cynical.
+~
+0 4202504 0
+D3
+~
+~
+0 0 8270
+S
+#8272
+A Chaos Member's Room~
+Scrawled on the wall in blood are these words:
+If I let you, you would make me destroy myself.
+In order to survive you, I must first survive myself.
+I can sink no further, and I cannot forgive you.
+There's no choice but to confront you, to engage you, to erase you.
+I've got to great links to expand my threshold of pain,
+I will use my mistakes against you.. There's no other choice.
+Shameless now, I'm nameless now.. I'm nothing now, I'm no one now.
+But my soul must be iron. Because my fear is naked.. I'm naked
+And fearless, and my fear is naked.
+~
+0 4202504 0
+D1
+~
+~
+0 0 8270
+S
+#8273
+Further Down the Spiral~
+As you descend into the darkness, sounds of fighting are faintly heard
+coming from below you.  At times the sounds seem to be laughter, at other
+times agony and pain.  
+~
+0 4202504 0
+D4
+~
+~
+0 0 8270
+D5
+~
+~
+0 0 8274
+S
+#8274
+At the Bottom of the Spiral~
+Here the spiral staircase ends at the floor of the round room.  There are
+two more doors on either side of the room, and a hatch on the floor.  Blood
+and sweat covers the floor, providing a disgusting scent to fill the room.  
+~
+0 4202504 0
+D1
+~
+~
+0 0 8275
+D3
+~
+~
+0 0 8276
+D4
+~
+~
+0 0 8273
+D5
+~
+~
+1 0 8277
+S
+#8275
+The Necromancer's Room~
+Scrawled on the wall in blood are these words:
+Twisting and spinning towards an inevitable destiny,
+Leaving behind all that holds me here.
+Spiraling into the eye of chaos,
+Staring straight back at insanity.
+Closing my eyes to drown out the spinning,
+Opening my mind to enter the eye.
+ 
+Letting go of a world that confines me,
+Embracing a reality that accepts me.
+Falling into a web of eternity,
+Clinging to the memories of past lives.
+Drifting into a whirlwind of chaos,
+Giving away all my earthly possessions.
+~
+0 4202504 0
+D3
+~
+~
+0 0 8274
+S
+#8276
+A Chaos Member's Room~
+Scrawled on the wall in blood are these words:
+And tangled was I in my own web of deception,
+So much that I was blind to the world around me.
+Given the chance, I would surely go back and
+Change things for the better. But as it is, I
+Am still trapped in the depths of my own mind.
+Let me go: Break the chords which hold me in
+Place, so that I may once again be free to
+Explore the reaches of insanity.
+ 
+To build one's future is to destroy one's
+Past. To destroy the past, is to destroy the very
+Foundation of what we've become. Feed me the very
+Freedom that my soul hungers for. Take me away from
+This disaligned world where there is a consequence
+For every action, and a burden with every consequence.
+Give me serenity, an exit from this web I weave around
+My soul.
+~
+0 4202504 0
+D1
+~
+~
+0 0 8274
+S
+#8277
+The Second Spiral~
+As you enter the second spiral, you notice the rooms on this section are
+open.  Words written in what appears to be blood can barely be seen from
+here.  
+~
+0 4202504 0
+D1
+~
+~
+0 0 8279
+D3
+~
+~
+0 0 8280
+D4
+~
+~
+1 0 8274
+D5
+~
+~
+0 0 8278
+S
+#8278
+Further Down the Second Spiral~
+Deeper into the abyss of darkness, the spiral staircase is wet with fresh
+blood.  The stench of death and decay is overwhelming now, making the path
+down more difficult to continue.  
+~
+0 4202504 0
+D4
+~
+~
+0 0 8277
+D5
+~
+~
+0 0 8281
+S
+#8279
+The Chaos Prophet's Room~
+Scrawled on the wall are these words:
+When the Time of Chaos draws nigh,
+Not a sound will be heard but cries of pain.
+Terror, hatred, divine power will reign above all,
+Leaving only the worms to feast upon the flesh of the Slaughtered.
+When the Blood of the Innocents flows throughout the land,
+Then the Angel of Chaos will ascend from the Underworld.
+With him will be Nine Sages of Darkness,
+To assist in his Ultimate Reign.
+~
+0 4202504 0
+D3
+~
+~
+0 0 8277
+S
+#8280
+The Underlord of Chaos' Room~
+Scrawled on the wall are these words:
+Without Chaos, there would be no order.
+Without order, there will be only Chaos.
+Chaos to drain your life away,
+Chaos to lift your soul away.
+Chaos to bend and mold your will,
+Chaos to steal and corrupt and kill.
+Chaos to enter the depths of your mind,
+Chaos to capture, to shackle and bind.
+Without order, there will be no balance.
+Without Chaos, there will be no beginning.
+~
+0 4202504 0
+D1
+~
+~
+0 0 8277
+S
+#8281
+At the Bottom of the Spiral~
+At the bottom of the second spiral, screaming can be heard clearly below.
+Whatever evil lies inside this place, the heart of it lies below your feet. 
+The hatch leading below is rusted and locked.  
+~
+0 4202504 0
+D1
+~
+~
+0 0 8282
+D3
+~
+~
+0 0 8283
+D4
+~
+~
+0 0 8278
+D5
+~
+~
+4 8409 8284
+S
+#8282
+The Chaos High Lord's Room~
+Scrawled on the wall are these words:
+Deeper into the Heart of Terror lies the truth to our very existence.
+Only when the Soul is introduced to absolute terror and helplessness,
+Does one gain and appreciation of Death. An escape from this world of
+Rules and limits. If you've made your peace with the Master of Darkness,
+Then your Soul is truly free to live in infinite Power, and Divine Wisdom.
+~
+0 4202504 0
+D3
+~
+~
+0 0 8281
+S
+#8283
+The Chaos Delinquent's Room~
+Scrawled on the wall are these words:
+I opened my eyes today..
+I woke up, and nothing was the same.
+While I was asleep for what seemed like years,
+I dreamt beautiful things that brought my eyes tears.
+But when I awoke in this red-tinted world,
+Nothing was the same.
+ 
+I followed my footprints back to my dream..
+To find if anything was as it once seemed.
+I realized then, as the years moved on,
+My footprints dwindled, then faded till gone.
+The memories of my past life, so carefree and pure,
+Is now a tease in this Terror for which I seek a cure.
+ 
+Seems like yesterday, when I laughed and I played,
+And now today I sulk, and I cry, and I pray.
+I pray to a Creator who I've never seen,
+And ask him to once again make my life carefree and clean.
+Now more than yesterday, I ask to see..
+The fading footprints, leading back to my dream.
+~
+0 4202504 0
+D1
+~
+~
+0 0 8281
+S
+#8284
+The Heart of Chaos~
+As you descend into the Heart of Chaos, it's now clear where the screams
+of agony and smell of decay were coming from.  Corpses line the circular
+room, some hanging from the ceiling, half eaten, others torn apart on the
+ground.  The gruesome scene is only made worse by the presence of a massive
+being in the center of the room, obviously the cause of the screams, the
+source of Terror.  Just like the other rooms, there are words scrawled on
+the wall, only these are the words of the victims, not of the Torturer: 
+ 
+Here I sit, dark and cold, ice seeping through the cracks in my bones.
+My mind plays tricks and threatens my sanity, paying the price for my
+Overcharged vanity. I sit and wonder, and after a time, I start to think
+Back, forced to ask why. Lonely subdued, and frightened I dwell, locked
+In this prison, my personal Hell. When fear fades to hate, and hate turns to
+Sorrow, I begin to knot up, in envy of tomorrow. Tomorrow brings another
+Beginning, and my first ending. Darker and darker, and colder I grow. Now
+I know the things that make me so.
+ 
+~
+0 4194317 0
+D4
+~
+~
+4 8409 8281
+S
+#8285
+Chaos Guild House~
+Further into the house, you begin to notice portraits of individuals
+lining the walls, perhaps members of the clan itself.  Many of them look
+very derranged, others are depicated in acts of terror.  
+~
+0 8200 0
+D1
+~
+~
+0 0 8267
+D3
+~
+~
+0 0 8286
+S
+#8286
+Chaos Hall of Honor~
+This hall is dedicated to the members of Chaos who have brought much
+pride and honor to the clan.  There are pictures hanging on the walls
+showing certain members.  The carpet is blood red, adding to the mood of the
+hall.  Aside from the paintings, there isn't much else to be seen.  
+~
+0 8200 0
+D1
+~
+~
+0 0 8285
+D3
+~
+~
+0 0 8287
+S
+#8287
+Chaos Hall of Honor~
+Further down the hall, more paintings adorn the walls, and the same blood
+red carpet covers the long floor.  Looking at the ceiling, you notice
+despite the small size of this house, the ceiling seems to stretch high out
+of sight.  
+~
+0 8200 0
+D1
+~
+~
+0 0 8286
+D3
+~
+~
+0 0 8288
+S
+#8288
+Chaos Hall of Honor~
+The paintings become more life-like the further down the hall you
+venture, depicting Chaos members that seem to be looking at you, or standing
+close to you.  At times they seem to be moving.  
+~
+0 8200 0
+D1
+~
+~
+0 0 8287
+D3
+~
+~
+0 0 8289
+S
+#8289
+Chaos Hall of Honor~
+The paintings become more life-like the further down the hall you
+venture, depicting Chaos members that seem to be looking at you, or standing
+close to you.  At times they seem to be moving.  
+~
+0 8200 0
+D1
+~
+~
+0 0 8288
+D3
+~
+~
+0 0 8290
+S
+#8290
+Chaos Hall of Honor~
+Any feelings of security are abandoned here, as the blood red carpet now
+looks to simply be a carpet covered in blood.  The paintings seem to be
+alive, and sounds of torture and agony can be heard from seemingly
+everywhere.  
+~
+0 8200 0
+D1
+~
+~
+0 0 8289
+D3
+~
+~
+0 0 8291
+S
+#8291
+Chaos Hall of Honor~
+Here the hall seems to be closing in, getting smaller as it continues on.
+The walls seem to bend and twist to your eye.  Perhaps it's just an
+illusion.  
+~
+0 8200 0
+D1
+~
+~
+0 0 8290
+D3
+~
+~
+0 0 8292
+S
+#8292
+Chaos Hall of Honor~
+The walls are definately closing in now, as there is noticeably less room
+from one side of the hall to the other.  Going on could prove to be a
+difficult task.  
+~
+0 8200 0
+D1
+~
+~
+0 0 8291
+D3
+~
+~
+0 0 8293
+S
+#8293
+Chaos Hall of Honor~
+There is absolutely no room at the end of the hall.  The walls have
+closed in, making it impossible for you to go back the way you came.  It
+almost feels as if the ceiling is moving closer to you now.  
+~
+0 2097164 0
+S
+#8294
+Behind Ajala's Smithy~
+Behind the smithy, there are a few workers going about their tasks,
+shoeing horses and oxen, and working on various other projects.  They don't
+really seem to notice you, or the heat.  
+~
+0 0 0
+D2
+~
+~
+0 0 8476
+S
+#8295
+The Business Room~
+This room has been set aside for the specific purpose of dealing with
+just how much a night at the Lusty Tavern will cost.  Fortunately, Malkom
+also deals in other areas.  
+~
+0 4104 0
+D0
+~
+~
+0 0 8500
+S
+#8296
+Storage Room B~
+~
+0 32772 0
+S
+#8297
+Inside a Noble's House~
+As you step inside the noble's house, you notice the extravegant
+decorations that adorn the house.  This noble seems to make quite a living
+for himself.  
+~
+0 8 0
+D0
+~
+~
+0 0 8587
+S
+#8298
+Up the Rigging~
+Climbing up the rigging, it looks like quite a fall into the shallow
+waters that surround the Tairen docks.  Perhaps climbing isn't the best idea
+except for experienced sailors.  
+~
+0 0 0
+D4
+~
+~
+0 0 8299
+D5
+~
+~
+0 0 8225
+S
+#8299
+Up the Rigging~
+Further up the rigging, you can see out into the ocean, as well as over
+the city.  From here, everything looks small and unreal.  It's quite nice.  
+~
+0 0 0
+D4
+~
+~
+0 0 8300
+D5
+~
+~
+0 0 8298
+S
+#8300
+The Mast~
+Looking down from the mast, it's a good 30 feet back to the ship, and
+even further into the water.  
+~
+0 0 0
+D5
+~
+~
+0 0 8299
+S
+#8301
+The Resting Room~
+This room is set aside for the ladies to stop and catch their breath from
+the entertainment, as well as converse about their lives.  Soft cushioned
+chairs line the room, and the smell of sweet perfumes hang in the air.  
+~
+0 8 0
+D0
+~
+~
+1 0 8502
+S
+#8302
+The Sewers~
+You've stepped into a disgusting area, filled with horrible scents and
+rats and whatnot.  Everywhere you step responds with a squish.  This place
+is smelly.  
+~
+0 8 0
+D2
+~
+~
+0 0 8303
+S
+#8303
+The Sewers~
+You've stepped into a disgusting area, filled with horrible scents and
+rats and whatnot.  Everywhere you step responds with a squish.  This place
+is smelly.  
+~
+0 0 0
+D0
+~
+~
+0 0 8302
+D2
+~
+~
+0 0 8304
+S
+#8304
+The Sewers~
+You've stepped into a disgusting area, filled with horrible scents and
+rats and whatnot.  Everywhere you step responds with a squish.  This place
+is smelly.  
+~
+0 0 0
+D0
+~
+~
+0 0 8303
+D2
+~
+~
+0 0 8305
+S
+#8305
+The Sewers~
+You've stepped into a disgusting area, filled with horrible scents and
+rats and whatnot.  Everywhere you step reponds with a squish.  This place is
+smelly.  
+~
+0 0 0
+D0
+~
+~
+0 0 8304
+D1
+~
+~
+0 0 8306
+S
+#8306
+The Sewers~
+You've stepped into a disgusting area, filled with horrible scents and
+rats and whatnot.  Everywhere you step reponds with a squish.  This place is
+smelly.  
+~
+0 0 0
+D2
+~
+~
+0 0 8307
+D3
+~
+~
+0 0 8305
+S
+#8307
+The Sewers~
+You've stepped into a disgusting area, filled with horrible scents and
+rats and whatnot.  Everywhere you step reponds with a squish.  This place is
+smelly.  
+~
+0 8 0
+D0
+~
+~
+0 0 8306
+D2
+~
+~
+0 0 8308
+S
+#8308
+The Sewers~
+You've stepped into a disgusting area, filled with horrible scents and
+rats and whatnot.  Everywhere you step reponds with a squish.  This place is
+smelly.  
+~
+0 0 0
+D0
+~
+~
+0 0 8307
+D2
+~
+~
+0 0 8309
+S
+#8309
+The Sewers~
+You've stepped into a disgusting area, filled with horrible scents and
+rats and whatnot.  Everywhere you step reponds with a squish.  This place is
+smelly.  
+~
+0 8 0
+D0
+~
+~
+0 0 8308
+D4
+~
+~
+0 0 8220
+S
+#8310
+~
+~
+0 4 0
+S
+#8399
+Reggae Room~
+REGGAE MAHN 
+~
+0 4719628 0
+E
+sign~
+Look at me!
+~
+S
+#8400
+The Road to Tear~
+You are now travelling towards the city of Tear.  Even being miles away,
+as you make your way down this well-worn path, the immense Stone of Tear is
+visible, the fortress of legend, where Callandor is located.  
+~
+0 0 2
+D0
+~
+~
+0 0 38857
+D2
+~
+~
+0 0 8401
+S
+#8401
+The Road to Tear~
+As you make your way further down the path, you begin to notice the lack
+of living things surrounding the road.  Everything seems abandoned long ago,
+except for the occasional goat or sheep running about.  Perhaps this place
+wasn't abandoned so long ago.  
+~
+0 0 2
+D0
+~
+~
+0 0 8400
+D2
+~
+~
+0 0 8402
+S
+#8402
+The Road to Tear~
+The road is a bit muddy here and there, from the sporadic rain that is
+common of this area.  Deep indentions in the mud are probably from wagons
+getting stuck and having to push their way out.  
+~
+0 0 2
+D0
+~
+~
+0 0 8401
+D2
+~
+~
+0 0 8403
+S
+#8403
+The Road to Tear~
+Here the road is intersected by another, shorter road.  To the west a
+lake can be seen, and to the east a small shack.  
+~
+0 0 2
+D0
+~
+~
+0 0 8402
+D1
+~
+~
+0 0 8404
+D2
+~
+~
+0 0 8406
+D3
+~
+~
+0 0 8420
+S
+#8404
+Off the Main Road~
+Leaving the main road, the ground is in even worse condition.  Every step
+you take you seem to sink deeper and deeper into the ground.  Pretty soon
+you'll be swimming.  
+~
+0 0 2
+D1
+~
+~
+0 0 8405
+D3
+~
+~
+0 0 8403
+S
+#8405
+A Shack~
+You've entered a small, leaning shack, in need of being torn down. 
+Boards hang on barely by rusty nails.  Light shines in on all sides due to
+the numerous cracks and holes in the structure.  On one side of the room
+there is a small cot, and the smell of fish hangs in the air.  
+~
+0 0 0
+D3
+~
+~
+0 0 8404
+S
+#8406
+Scattered Farmland~
+Back on the main road, scattered farmland can be seen throughout the
+countryside.  Many inhabited, many abandoned.  
+~
+0 0 2
+D0
+~
+~
+0 0 8403
+D2
+~
+~
+0 0 8407
+S
+#8407
+Scattered Farmland~
+The farms are becoming larger now, and more frequent.  Rows of crops can
+be seen for miles.  Sheep and goats are huddle together in pens just as
+often as they are grazing about freely.  
+~
+0 0 0
+D0
+~
+~
+0 0 8406
+D2
+~
+~
+0 0 8408
+S
+#8408
+Closer to Tear~
+As the road comes closer to Tear, it also widens a few paces, to make
+room for the many travelers that come to the city.  The dirt road is well
+worn and less muddy.  Looking around, travelers from Andor, Illian, Kandor,
+seemingly everywhere are making their way to the great city.  
+~
+0 0 0
+D0
+~
+~
+0 0 8407
+D2
+~
+~
+0 0 8418
+D3
+~
+~
+0 0 8409
+S
+#8409
+An Abandoned Farm~
+Standing before an abandoned farm, it looks as though no one has been
+here for quite some time.  Fields where crops used to grow are now infested
+with weeds and insects.  To the west there is an old house.  
+~
+0 0 0
+D1
+~
+~
+0 0 8408
+D3
+~
+~
+0 0 8410
+S
+#8410
+A Stone Pen~
+Before the house, a small stone pen stands, containing a few sheep. 
+Perhaps they remain for the shelter, as the pen was built very sturdy it
+seems.  
+~
+0 0 2
+D1
+~
+~
+0 0 8409
+D3
+~
+~
+0 0 8412
+S
+#8411
+An Abandoned Farmhouse~
+~
+0 4 2
+S
+#8412
+An Abandoned Farmhouse~
+This house is standing on it's last leg.  The shutters are hanging
+loosely from the house, and the ceiling looks as though it's caved in.  The
+door is the only thing on the structure that looks to be in good standing.  
+~
+0 0 2
+D1
+~
+~
+0 0 8410
+D3
+~
+~
+1 8400 8413
+S
+#8413
+Inside the House~
+The inside of the house is even worse than the outside.  Spider webs
+infest every corner of the entrance room, leaving you to wonder just how
+long this place has been empty.  
+~
+0 0 0
+D0
+~
+~
+0 0 8414
+D1
+~
+~
+1 8400 8412
+D3
+~
+~
+0 0 8415
+S
+#8414
+Inside the House~
+The inside of the house is even worse than the outside.  Spider webs
+infest every corner of the entrance room, leaving you to wonder just how
+long this place has been empty.  
+~
+0 0 0
+D2
+~
+~
+0 0 8413
+D3
+~
+~
+0 0 8416
+S
+#8415
+The Living Room~
+The living room is in similar condition to the bedroom, as the furniture
+is still here, although molding and covered with webs.  
+~
+0 0 0
+D0
+~
+~
+0 0 8416
+D1
+~
+~
+0 0 8413
+D2
+~
+~
+0 0 8417
+S
+#8416
+A Bedroom~
+Stepping into the bedroom, whoever left this house left it in a hurry, as
+the bed is still unmade, and all the furniture is still in the room.  In the
+middle of the room, a small chest is covered in dust.  
+~
+0 0 0
+D1
+~
+~
+0 0 8414
+D2
+~
+~
+0 0 8415
+S
+#8417
+The Kitchen~
+Inside the kitchen, long decayed food is still on the table, covered with
+insects.  This place is really disgusting.  There seems to be some noise
+coming from the corner of the room.  
+~
+0 1 0
+D0
+~
+~
+0 0 8415
+S
+#8418
+The Road to Tear~
+Within a few miles of Tear, signs of life can be seen before the city
+wall.  People are bustling about, but from here you can't really make out
+much.  
+~
+0 0 0
+D0
+~
+~
+0 0 8408
+D2
+~
+~
+0 0 8419
+S
+#8419
+The Road to Tear~
+Approaching the city, you can now see people moving about their everyday
+lives.  Many carrying baskets of fish, some pulling caskets of wine by a
+carriage.  A few shops scatter the land, but nothing very spectacular.  
+~
+0 0 0
+D0
+~
+~
+0 0 8418
+D2
+~
+~
+0 0 8440
+S
+#8420
+Off the Road~
+Signs of life are starting to appear slowly.  A few birds are flying
+overhead, and a stray dog is wandering about.  There's even foot prints in
+the dirt that seem to belong to a person.  
+~
+0 0 0
+D1
+~
+~
+0 0 8403
+D3
+~
+~
+0 0 8421
+S
+#8421
+Towards a Small Lake~
+As you move closer to the lake, you notice that it doesn't look very
+healthy.  There is a single tree on the other side, dead perhaps from the
+lack of clean water.  A few weeds stick out of the water, but even they
+can't seem to survive in it.  
+~
+0 0 0
+D1
+~
+~
+0 0 8420
+D3
+~
+~
+0 0 8422
+S
+#8422
+At the Edge of the Lake~
+On the edge of the water, fish can be seen swimming in the lake.  A few
+dead fish seem to have flopped out of the water onto the land, unable to
+flop there way back.  
+~
+0 0 0
+D0
+~
+~
+0 0 8428
+D1
+~
+~
+0 0 8421
+D2
+~
+~
+0 0 8430
+D3
+~
+~
+0 0 8423
+S
+#8423
+In the Water~
+The water in this lake is disgusting and murky.  Some of the fish aren't
+even moving.  
+~
+0 0 6
+D0
+~
+~
+0 0 8424
+D1
+~
+~
+0 0 8422
+D2
+~
+~
+0 0 8425
+D3
+~
+~
+0 0 8433
+S
+#8424
+In the Water~
+The water in this lake is disgusting and murky.  Some of the fish aren't
+even moving.  
+~
+0 0 6
+D0
+~
+~
+0 0 8427
+D1
+~
+~
+0 0 8428
+D2
+~
+~
+0 0 8423
+D3
+~
+~
+0 0 8435
+S
+#8425
+In the Water~
+The water in this lake is disgusting and murky.  Some of the fish aren't
+even moving.  
+~
+0 0 6
+D0
+~
+~
+0 0 8423
+D1
+~
+~
+0 0 8430
+D3
+~
+~
+0 0 8432
+S
+#8426
+In the Water~
+~
+0 0 0
+D3
+~
+~
+0 0 8431
+S
+#8427
+In the Water~
+The water in this lake is disgusting and murky.  Some of the fish aren't
+even moving.  
+~
+0 0 6
+D1
+~
+~
+0 0 8429
+D2
+~
+~
+0 0 8424
+D3
+~
+~
+0 0 8434
+S
+#8428
+At the Edge of the Lake~
+From here you can almost see the water becoming more and more diseased.
+~
+0 0 0
+D0
+~
+~
+0 0 8429
+D2
+~
+~
+0 0 8422
+D3
+~
+~
+0 0 8424
+S
+#8429
+At the Edge of the Lake~
+Looking into the water, you see a few fish swimming about lively.
+~
+0 0 0
+D2
+~
+~
+0 0 8428
+D3
+~
+~
+0 0 8427
+S
+#8430
+At the Edge of the Lake~
+From here you can almost see the water becoming less and less healthy.
+~
+0 0 0
+D0
+~
+~
+0 0 8422
+D3
+~
+~
+0 0 8425
+S
+#8431
+In the Water~
+~
+0 0 0
+D1
+~
+~
+0 0 8426
+S
+#8432
+In the Water~
+The water in this lake is disgusting and murky.  Some of the fish aren't
+even moving.  
+~
+0 0 6
+D0
+~
+~
+0 0 8433
+D1
+~
+~
+0 0 8425
+D3
+~
+~
+0 0 8439
+S
+#8433
+In the Water~
+The water in this lake is disgusting and murky.  Some of the fish aren't
+even moving.  
+~
+0 0 6
+D0
+~
+~
+0 0 8435
+D1
+~
+~
+0 0 8423
+D2
+~
+~
+0 0 8432
+D3
+~
+~
+0 0 8438
+S
+#8434
+In the Water~
+The water in this lake is disgusting and murky.  Some of the fish aren't
+even moving.  
+~
+0 0 6
+D1
+~
+~
+0 0 8427
+D2
+~
+~
+0 0 8435
+D3
+~
+~
+0 0 8436
+S
+#8435
+In the Water~
+The water in this lake is disgusting and murky.  Some of the fish aren't
+even moving.  
+~
+0 0 6
+D0
+~
+~
+0 0 8434
+D1
+~
+~
+0 0 8424
+D2
+~
+~
+0 0 8433
+D3
+~
+~
+0 0 8437
+S
+#8436
+In the Water~
+The water in this lake is disgusting and murky.  Some of the fish aren't
+even moving.  
+~
+0 0 6
+D1
+~
+~
+0 0 8434
+D2
+~
+~
+0 0 8437
+S
+#8437
+In the Water~
+The water in this lake is disgusting and murky.  Some of the fish aren't
+even moving.  
+~
+0 0 6
+D0
+~
+~
+0 0 8436
+D1
+~
+~
+0 0 8435
+D2
+~
+~
+0 0 8438
+S
+#8438
+In the Water~
+The water in this lake is disgusting and murky.  Some of the fish aren't
+even moving.  
+~
+0 0 6
+D0
+~
+~
+0 0 8437
+D1
+~
+~
+0 0 8433
+D2
+~
+~
+0 0 8439
+S
+#8439
+In the Water~
+The water in this lake is disgusting and murky.  Some of the fish aren't
+even moving.  
+~
+0 0 6
+D0
+~
+~
+0 0 8438
+D1
+~
+~
+0 0 8432
+S
+#8440
+Entrance to Tear~
+You are now in the city of Tear.  Glancing about, the citizens outside
+the wall seem to be disgruntled and discouraged.  It almost seems as if
+they've given up hope.  
+~
+0 0 1
+D0
+~
+~
+0 0 8419
+D1
+~
+~
+0 0 8441
+D2
+~
+~
+0 0 8449
+D3
+~
+~
+0 0 8444
+S
+#8441
+On the Outskirts of Tear~
+You are on the outskirts of Tear.  People are move crowded together here,
+coming from and going to the gates.  Outland merchants are here and there,
+trying to sell their wares.  
+~
+0 0 1
+D1
+~
+~
+0 0 8442
+D2
+~
+~
+0 0 8451
+D3
+~
+~
+0 0 8440
+S
+#8442
+On the Outskirts of Tear~
+You are on the outskirts of Tear.  People are move crowded together here,
+coming from and going to the gates.  Outland merchants are here and there,
+trying to sell their wares.  
+~
+0 0 1
+D1
+~
+~
+0 0 8443
+D2
+~
+~
+0 0 8452
+D3
+~
+~
+0 0 8441
+S
+#8443
+On the Outskirts of Tear~
+You are on the outskirts of Tear.  People are move crowded together here,
+coming from and going to the gates.  Outland merchants are here and there,
+trying to sell their wares.  
+~
+0 0 1
+D1
+~
+~
+0 0 8448
+D2
+~
+~
+0 0 8453
+D3
+~
+~
+0 0 8442
+S
+#8444
+On the Outskirts of Tear~
+You are on the outskirts of Tear.  People are move crowded together here,
+coming from and going to the gates.  Outland merchants are here and there,
+trying to sell their wares.  
+~
+0 0 1
+D1
+~
+~
+0 0 8440
+D2
+~
+~
+0 0 8456
+D3
+~
+~
+0 0 8445
+S
+#8445
+On the Outskirts of Tear~
+You are on the outskirts of Tear.  People are move crowded together here,
+coming from and going to the gates.  Outland merchants are here and there,
+trying to sell their wares.  
+~
+0 0 1
+D1
+~
+~
+0 0 8444
+D2
+~
+~
+0 0 8457
+D3
+~
+~
+0 0 8446
+S
+#8446
+On the Outskirts of Tear~
+You are on the outskirts of Tear.  People are move crowded together here,
+coming from and going to the gates.  Outland merchants are here and there,
+trying to sell their wares.  
+~
+0 0 1
+D1
+~
+~
+0 0 8445
+D2
+~
+~
+0 0 8458
+D3
+~
+~
+0 0 8447
+S
+#8447
+On the Outskirts of Tear~
+You are on the outskirts of Tear.  People are move crowded together here,
+coming from and going to the gates.  Outland merchants are here and there,
+trying to sell their wares.  
+~
+0 0 1
+D1
+~
+~
+0 0 8446
+D2
+~
+~
+0 0 8459
+S
+#8448
+On the Outskirts of Tear~
+You are on the outskirts of Tear.  People are move crowded together here,
+coming from and going to the gates.  Outland merchants are here and there,
+trying to sell their wares.  
+~
+0 0 1
+D2
+~
+~
+0 0 8454
+D3
+~
+~
+0 0 8443
+S
+#8449
+A Main Road~
+Almost at the gates, the main road to Tear is moving along rather
+quickly.  The guards at the gates stand at attention, but aren't stopping
+anyone from entering or leaving.  This close to the city itself, sounds of
+life can be heard from inside.  
+~
+0 0 1
+D0
+~
+~
+0 0 8440
+D1
+~
+~
+0 0 8451
+D2
+~
+~
+0 0 8450
+D3
+~
+~
+0 0 8456
+S
+#8450
+At the Gates of Tear~
+Entering the city through the gates, several guards keep a lookout to
+ensure nothing gets out of hand.  Although they aren't stopping anyone, they
+seem to give off an air of danger to anyone who would attempt to commit a
+crime in their presence.  
+~
+0 0 1
+D0
+~
+~
+0 0 8449
+D1
+~
+~
+0 0 8460
+D2
+~
+~
+0 0 8468
+D3
+~
+~
+0 0 8464
+S
+#8451
+Moving Through the Crowd~
+The crowd of people becomes more dense here, some swarming around
+vendors, others just taking their time about moving.  
+~
+0 0 1
+D0
+~
+~
+0 0 8441
+D1
+~
+~
+0 0 8452
+D2
+~
+~
+0 0 8460
+D3
+~
+~
+0 0 8449
+S
+#8452
+In the Streets~
+Finding your way through the labyrinth of streets leading to Tear seem
+difficult.  Perhaps it's a better idea to stick to the main road.  
+~
+0 0 1
+D0
+~
+~
+0 0 8442
+D1
+~
+~
+0 0 8453
+D2
+~
+~
+0 0 8461
+D3
+~
+~
+0 0 8451
+S
+#8453
+A Side Street~
+Finding your way through the labyrinth of streets leading to Tear seem
+difficult.  Perhaps it's a better idea to stick to the main road.  
+~
+0 0 1
+D0
+~
+~
+0 0 8443
+D1
+~
+~
+0 0 8454
+D2
+~
+~
+0 0 8462
+D3
+~
+~
+0 0 8452
+S
+#8454
+A Side Street~
+Finding your way through the labyrinth of streets leading to Tear seem
+difficult.  Perhaps it's a better idea to stick to the main road.  
+~
+0 0 1
+D0
+~
+~
+0 0 8448
+D2
+~
+~
+0 0 8463
+D3
+~
+~
+0 0 8453
+S
+#8456
+An Intersecting Street~
+This street intersects the main road to Tear.  It's very crowded, making
+getting there all the more difficult.  The attitudes of the people here
+haven't improved much, as they all seem to only care for their own well
+being.  
+~
+0 0 1
+D0
+~
+~
+0 0 8444
+D1
+~
+~
+0 0 8449
+D2
+~
+~
+0 0 8464
+D3
+~
+~
+0 0 8457
+S
+#8457
+An Intersecting Street~
+This street intersects the main road to Tear.  It's very crowded, making
+getting there all the more difficult.  The attitudes of the people here
+haven't improved much, as they all seem to only care for their own well
+being.  
+~
+0 0 1
+D0
+~
+~
+0 0 8445
+D1
+~
+~
+0 0 8456
+D2
+~
+~
+0 0 8465
+D3
+~
+~
+0 0 8458
+S
+#8458
+An Intersecting Street~
+This street intersects the main road to Tear.  It's very crowded, making
+getting there all the more difficult.  The attitudes of the people here
+haven't improved much, as they all seem to only care for their own well
+being.  
+~
+0 0 1
+D0
+~
+~
+0 0 8446
+D1
+~
+~
+0 0 8457
+D2
+~
+~
+0 0 8466
+D3
+~
+~
+0 0 8459
+S
+#8459
+End of the Street~
+The street abruptly ends at a drop-off leading into a pit of mud. 
+Judging from the muddy tracks leading away from the pit, and the woman
+flailing about in it, it seems like a dangerous spot.  
+~
+0 0 1
+D0
+~
+~
+0 0 8447
+D1
+~
+~
+0 0 8458
+D2
+~
+~
+0 0 8467
+S
+#8460
+Along the Wall~
+Walking along the wall seperating the outskirts of Tear from the inner
+city, the people surrounding the area look questionable.  There has to be
+some reason why they're outside the city, eyeing you up and down.  
+~
+0 0 1
+D0
+~
+~
+0 0 8451
+D1
+~
+~
+0 0 8461
+D3
+~
+~
+0 0 8450
+S
+#8461
+Further Along the Wall~
+The wall continues to span the entrance to Tear, preventing those who are
+refused entrance to the city for whatever reason from entering without the
+guards noticing.  
+~
+0 0 1
+D0
+~
+~
+0 0 8452
+D1
+~
+~
+0 0 8462
+D3
+~
+~
+0 0 8460
+S
+#8462
+Further Along the Wall~
+The wall continues to span the entrance to Tear, preventing those who are
+refused entrance to the city for whatever reason from entering without the
+guards noticing.  
+~
+0 0 1
+D0
+~
+~
+0 0 8453
+D1
+~
+~
+0 0 8463
+D3
+~
+~
+0 0 8461
+S
+#8463
+Corner of the Wall~
+Here the wall becomes connected and surrounds the side of Tear.  There
+doesn't seem to be anything around it, just grassland and the occassional
+tree.  
+~
+0 0 1
+D0
+~
+~
+0 0 8454
+D3
+~
+~
+0 0 8462
+S
+#8464
+Along the Wall~
+Walking along the wall seperating the outskirts of Tear from the inner
+city, the people surrounding the area look questionable.  There has to be
+some reason why they're outside the city, eyeing you up and down.  
+~
+0 0 1
+D0
+~
+~
+0 0 8456
+D1
+~
+~
+0 0 8450
+D3
+~
+~
+0 0 8465
+S
+#8465
+Further Along the Wall~
+The wall continues to span the entrance to Tear, preventing those who are
+refused entrance to the city for whatever reason from entering without the
+guards noticing.  It seems impossible to climb.  
+~
+0 0 1
+D0
+~
+~
+0 0 8457
+D1
+~
+~
+0 0 8464
+D3
+~
+~
+0 0 8466
+S
+#8466
+Further Along the Wall~
+The wall continues to span the entrance to Tear, preventing those who are
+refused entrance to the city for whatever reason from entering without the
+guards noticing.  It seems impossible to climb.  
+~
+0 0 1
+D0
+~
+~
+0 0 8458
+D1
+~
+~
+0 0 8465
+D3
+~
+~
+0 0 8467
+S
+#8467
+Corner of the Wall~
+Here the wall becomes connected and surrounds the side of Tear.  There
+doesn't seem to be anything around it, just grassland and the occassional
+tree.  
+~
+0 0 1
+D0
+~
+~
+0 0 8459
+D1
+~
+~
+0 0 8466
+S
+#8468
+Within the City~
+In the city now, people are moving about their everyday lives.  Many
+people inhabit the market road, shopping for food and various other items. 
+The attitude inside the wall seems to be much more optimistic than outside,
+perhaps due to the illusion of safety.  
+~
+0 0 1
+D0
+~
+~
+0 0 8450
+D2
+~
+~
+0 0 8469
+S
+#8469
+A Muddy Road~
+As you move towards the Stone of Tear, the main road is rather muddy. 
+Some Tairen citizens trudge about barefoot, while others have wooden
+platforms on the bottoms of their shoes.  A few roads in the city are
+covered in stone to prevent the mud from forming.  
+~
+0 0 1
+D0
+~
+~
+0 0 8468
+D2
+~
+~
+0 0 8470
+S
+#8470
+An Intersection~
+Here a road intersects another to form a four way junction.  Running east
+and west is the market road, where people come to buy their everyday needs
+as well as eccentric goods.  North and south is the main path to the Stone. 
+~
+0 0 1
+D0
+~
+~
+0 0 8469
+D1
+~
+~
+0 0 8471
+D2
+~
+~
+0 0 8507
+D3
+~
+~
+0 0 8494
+S
+#8471
+Market Road~
+Walking down market road, crowds of people line the streets shopping for
+goods.  Various shop line the streets on either side, selling everything you
+could possibly imagine.  
+~
+0 0 1
+D0
+~
+~
+0 0 8475
+D1
+~
+~
+0 0 8472
+D2
+~
+~
+0 0 8474
+D3
+~
+~
+0 0 8470
+S
+#8472
+Market Road~
+Walking down market road, crowds of people line the streets shopping for
+goods.  Various shop line the streets on either side, selling everything you
+could possibly imagine.  
+~
+0 0 1
+D0
+~
+~
+0 0 8476
+D1
+~
+~
+0 0 8473
+D2
+~
+~
+0 0 8478
+D3
+~
+~
+0 0 8471
+S
+#8473
+Market Road~
+Walking down market road, crowds of people line the streets shopping for
+goods.  Various shop line the streets on either side, selling everything you
+could possibly imagine.  
+~
+0 0 1
+D0
+~
+~
+0 0 8492
+D1
+~
+~
+0 0 8491
+D2
+~
+~
+0 0 8493
+D3
+~
+~
+0 0 8472
+S
+#8474
+A Magic Shop~
+This shop has candles lining the entire room, giving off an eerie dull
+glow.  Spider webs occupy the corners of the room, and a musty smell hangs
+in the air.  
+~
+0 8 0
+D0
+~
+~
+0 0 8471
+S
+#8475
+A Wise Woman's House~
+You have entered a Wise Woman's house.  Similar to the herbalist's shop,
+only this woman has a motherly aura about her.  Her warm smile makes you
+feel at ease.  
+~
+0 8 0
+D2
+~
+~
+0 0 8471
+S
+#8476
+Ajala's Smithy~
+As you enter Ajala's Smithy, you notice that it's all one large room with
+no back wall except for two large doors that stand open into a yard for
+shoeing horses and oxen, complete with an ox sling.  Inside the room, there
+are five grinding wheels, six anvils, and three stone-sided forges.  
+~
+0 8 0
+D0
+~
+~
+0 0 8294
+D2
+~
+~
+0 0 8472
+S
+#8478
+The White Crescent Inn~
+Standing inside the entrance to the White Crescent Inn, sounds of
+laughter can be heard from within.  The Inn seems to be in good standing, as
+it is seemingly packed for it's small size.  
+~
+0 8 0
+D0
+~
+~
+0 0 8472
+D2
+~
+~
+0 0 8479
+S
+#8479
+The Common Room~
+The common room of the White Crescent Inn is inhabited by several
+commoners and a few nobles.  Tavern maids whisk back and forth from the
+kitchen fetching food and drinks for the rowdy crowd.  In the center of the
+room, an unknown gleeman is attempting to entertain the group.  
+~
+0 8 0
+D0
+~
+~
+0 0 8478
+D3
+~
+~
+0 0 8480
+D4
+~
+~
+0 0 8482
+S
+#8480
+The Bar~
+There is no room to sit at the bar, as all the stools are occupied by
+nobles and soldiers.  The bartender is pouring mugs of ale as fast as she
+can to keep up with the drunkard's wishes.  
+~
+0 8 0
+D1
+~
+~
+0 0 8479
+D3
+~
+~
+1 8401 8481
+S
+#8481
+Kitchen of the White Crescent Inn~
+The kitchen of the White Crescent Inn is bustling with work.  Several
+cooks try to keep up with the demand of the customers.  
+~
+0 8 0
+D1
+~
+~
+1 8401 8480
+S
+#8482
+A Staircase~
+The stairs leading up to the second floor are very stable.  Not even a
+creak sounds throughout the inn as you ascend to the rooms.  
+~
+0 8 0
+D4
+~
+~
+0 0 8483
+D5
+~
+~
+0 0 8479
+S
+#8483
+A Hallway~
+The hallway to the rooms is small and narrow.  There are only a few
+rooms, despite the numerous people throughout the Inn.  There is a small
+window at the end of the hallway.  
+~
+0 8 0
+D3
+~
+~
+0 0 8484
+D5
+~
+~
+0 0 8482
+S
+#8484
+A Hallway~
+The hallway to the rooms is small and narrow.  There are only a few
+rooms, despite the numerous people throughout the Inn.  There is a small
+window at the end of the hallway.  
+~
+0 8 0
+D0
+~
+~
+0 0 8488
+D1
+~
+~
+0 0 8483
+D2
+~
+~
+0 0 8487
+D3
+~
+~
+0 0 8485
+S
+#8485
+A Hallway~
+The hallway to the rooms is small and narrow.  There are only a few
+rooms, despite the numerous people throughout the Inn.  There is a small
+window at the end of the hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 8486
+D1
+~
+~
+0 0 8484
+D2
+~
+~
+0 0 8489
+S
+#8486
+A Messy Room~
+This room is filthy.  Whoever is staying here is a disgusting person. 
+Discarded scraps of food lie everywhere about the room, as well as dirty
+clothes, chests, and weapons.  This room can't be good for anybody.  
+~
+0 8 0
+D2
+~
+~
+0 0 8485
+S
+#8487
+A Neatly Kept Room~
+This room is perfect.  The bags in the corner of the room are proof that
+someone is staying here, yet all the clothes are folded and stacked neatly
+on the well made bed.  
+~
+0 8 0
+D0
+~
+~
+0 0 8484
+S
+#8488
+A Smelly Room~
+Upon entering this room, the appearance is well enough.  Nothing is
+really out of place, but the smell coming from seemingly everywhere is
+overwhelming.  How anyone can stay in such a room is a mystery.  
+~
+0 8 0
+D2
+~
+~
+0 0 8484
+S
+#8489
+An Ordinary Room~
+This room is rather plain, and seems to be uninhabited.  The bed is well
+made, and there really isn't much else to the room.  There is a dresser in
+the corner of the room to hold whatever items the patron would have.  
+~
+0 8 0
+D0
+~
+~
+0 0 8485
+D3
+~
+~
+1 8402 8490
+S
+#8490
+A Secret Closet~
+You have found a room hidden behind the wall.  Barely wide enough to fit
+you, the only source of light is from the other room.  There is however
+enough light to see a small golden chest lying in the floor.  
+~
+0 8 0
+D1
+~
+~
+1 8402 8489
+S
+#8491
+Market Road~
+Walking down market road, crowds of people line the streets shopping for
+goods.  Various shop line the streets on either side, selling everything you
+could possibly imagine.  
+~
+0 0 1
+D3
+~
+~
+0 0 8473
+S
+#8492
+An Alchemist's Shop~
+This shop smells like mildew and sawdust.  The shopkeeper looks rather
+strange, staring at you upon entrance as if you're the first customer he's
+seen in ages.  
+~
+0 8 0
+D2
+~
+~
+0 0 8473
+S
+#8493
+A Wine Shop~
+The walls of the wine shop hold countless bottles of wine, as well as
+numerous casks that line the room.  The shopkeeper also deals in other types
+of alcohol, but he looks drunk.  
+~
+0 8 0
+D0
+~
+~
+0 0 8473
+S
+#8494
+Market Road~
+Walking down market road, crowds of people line the streets shopping for
+goods.  Various shop line the streets on either side, selling everything you
+could possibly imagine.  
+~
+0 0 1
+D0
+~
+~
+0 0 8495
+D1
+~
+~
+0 0 8470
+D2
+~
+~
+0 0 8496
+D3
+~
+~
+0 0 8497
+S
+#8495
+A Trading Post~
+This is the place where Tairens come to trade their used items in for
+whatever they can get from the trader.  He doesn't look as honest as the
+baker.  
+~
+0 8 0
+D2
+~
+~
+0 0 8494
+S
+#8496
+A Herbalist Shop~
+The herbalist's shop is filled with the aroma of ..  Well, herbs. 
+Various herbs are held in small vials lining shelves in the room, with no
+explanation as to what they do.  You'd have to ask the strange creature who
+owns the shop.  
+~
+0 8 0
+D0
+~
+~
+0 0 8494
+S
+#8497
+Market Road~
+Walking down market road, crowds of people line the streets shopping for
+goods.  Various shop line the streets on either side, selling everything you
+could possibly imagine.  
+~
+0 0 1
+D0
+~
+~
+0 0 8498
+D1
+~
+~
+0 0 8494
+D2
+~
+~
+0 0 8499
+D3
+~
+~
+0 0 8503
+S
+#8498
+A Tairen Bakery~
+The bakery in Tear is filled with the wonderful smell of sweet breads,
+rolls, and numerous other baked goods.  The shop is well-kept and the baker
+seems to be an honest man.  
+~
+0 8 0
+D2
+~
+~
+0 0 8497
+S
+#8499
+The Lusty Tavern~
+You have found your way into the Lusty Tavern.  You don't know what the
+name means, but it certainly seems like a nice place.  A beautiful woman is
+south of here, waiting to greet you.  
+~
+0 8 0
+D0
+~
+~
+0 0 8497
+D2
+~
+~
+0 0 8500
+S
+#8500
+The Common Room of the Lusty Tavern~
+As you walk in the room, you look around to notice several scantily clad
+women looking right at you.  Obviously, they wish to please you and your
+carnal desires.  Don't be shy, because they aren't.  
+~
+0 1032 0
+D0
+~
+~
+0 0 8499
+D1
+~
+~
+0 0 8501
+D2
+~
+~
+0 0 8295
+D3
+~
+~
+0 0 8502
+M 150 H 150
+S
+#8501
+A Lusty Room~
+This room has been set aside specifically for the ladies to do their
+business.  There are several beds lining the room, and even more ladies
+going about their daily job.  Standing in the corner of the room is Thom, a
+reknown Gleeman, awaiting his turn.  
+~
+0 8 0
+D3
+~
+~
+0 0 8500
+S
+#8502
+A Seducing Bedroom~
+Yet another room reserved for the ladies to pleasure the countless men
+who enter the tavern.  They have a look on their face as if nothing is new. 
+One of the ladies resembles Dana, the recent mentor of Gleeman apprentices,
+but that can't be right.  
+~
+0 8 0
+D1
+~
+~
+0 0 8500
+D2
+~
+~
+1 0 8301
+S
+#8503
+Market Road~
+Walking down market road, crowds of people line the streets shopping for
+goods.  Various shop line the streets on either side, selling everything you
+could possibly imagine.  
+~
+0 0 1
+D0
+~
+~
+0 0 8504
+D1
+~
+~
+0 0 8497
+D2
+~
+~
+0 0 8505
+D3
+~
+~
+0 0 8506
+S
+#8504
+A Magic Shop~
+This shop is similar to the other magic shop on Market Road.  There seems
+to be some stiff competition between them, although the crippled guy is
+almost dead from the looks of it.  
+~
+0 8 0
+D2
+~
+~
+0 0 8503
+S
+#8505
+An Antique Shop~
+This shop looks like it doesn't get much business.  All the items would
+be better classified as old junk rather than antiques.  The shopkeeper is
+old, and looks as if she's sleeping.  
+~
+0 8 0
+D0
+~
+~
+0 0 8503
+S
+#8506
+Market Road~
+Walking down market road, crowds of people line the streets shopping for
+goods.  Various shop line the streets on either side, selling everything you
+could possibly imagine.  
+~
+0 0 1
+D1
+~
+~
+0 0 8503
+S
+#8507
+A Muddy Road~
+As you move towards the Stone, the main road is rather muddy.  Some
+Tairen citizens trudge about barefoot, while others have wooden platforms on
+the bottoms of their shoes.  A few roads in the city are covered in stone to
+prevent the mud from forming.  
+~
+0 0 1
+D0
+~
+~
+0 0 8470
+D1
+~
+~
+0 0 8561
+D2
+~
+~
+0 0 8508
+D3
+~
+~
+0 0 8550
+S
+#8508
+A Muddy Road~
+As you move towards the Stone, the main road is rather muddy.  Some
+Tairen citizens trudge about barefoot, while others have wooden platforms on
+the bottoms of their shoes.  A few roads in the city are covered in stone to
+prevent the mud from forming.  
+~
+0 0 0
+D0
+~
+~
+0 0 8507
+D1
+~
+~
+0 0 8514
+D2
+~
+~
+0 0 8519
+D3
+~
+~
+0 0 8509
+S
+#8509
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D1
+~
+~
+0 0 8508
+D2
+~
+~
+0 0 8510
+D3
+~
+~
+0 0 8592
+S
+#8510
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D0
+~
+~
+0 0 8509
+D3
+~
+~
+0 0 8511
+S
+#8511
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D1
+~
+~
+0 0 8510
+D2
+~
+~
+0 0 8512
+S
+#8512
+On the Side of the Stone~
+On the side of the Stone, there are people rushing to and fro.  Despite
+their hurry, they seem to take comfort in being beside the Stone, as if
+knowing that nothing bad can happen as long as the Stone stands.  
+~
+0 0 0
+D0
+~
+~
+0 0 8511
+D3
+~
+~
+0 0 8513
+S
+#8513
+On the Side of the Stone~
+On the side of the Stone, there are people rushing to and fro.  Despite
+their hurry, they seem to take comfort in being beside the Stone, as if
+knowing that nothing bad can happen as long as the Stone stands.  
+~
+0 0 0
+D1
+~
+~
+0 0 8512
+D2
+~
+~
+0 0 8524
+S
+#8514
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D0
+~
+~
+0 0 8590
+D2
+~
+~
+0 0 8515
+D3
+~
+~
+0 0 8508
+S
+#8515
+Surrounding the Stone~
+Standing directly before the entrance to the Stone of Tear, you are in
+awe of it's power.  Said to have been made soon after the Breaking with the
+One Power, it has been besieged or attacked countless times, but never
+successfully.  
+~
+0 0 0
+D0
+~
+~
+0 0 8514
+D1
+~
+~
+0 0 8516
+S
+#8516
+Surrounding the Stone~
+Standing directly before the entrance to the Stone of Tear, you are in
+awe of it's power.  Said to have been made soon after the Breaking with the
+One Power, it has been besieged or attacked countless times, but never
+successfully.  
+~
+0 0 0
+D2
+~
+~
+0 0 8517
+D3
+~
+~
+0 0 8515
+S
+#8517
+On the Side of the Stone~
+On the side of the Stone, there are people rushing to and fro.  Despite
+their hurry, they seem to take comfort in being beside the Stone, as if
+knowing that nothing bad can happen as long as the Stone stands.  
+~
+0 0 0
+D0
+~
+~
+0 0 8516
+D1
+~
+~
+0 0 8518
+S
+#8518
+On the Side of the Stone~
+On the side of the Stone, there are people rushing to and fro.  Despite
+their hurry, they seem to take comfort in being beside the Stone, as if
+knowing that nothing bad can happen as long as the Stone stands.  
+~
+0 0 0
+D1
+~
+~
+0 0 8553
+D2
+~
+~
+0 0 8520
+D3
+~
+~
+0 0 8517
+S
+#8519
+Entrance to the Stone~
+Standing directly before the entrance to the Stone of Tear, you are in
+awe of it's power.  Said to have been made soon after the Breaking with the
+One Power, it has been besieged or attacked countless times, but never
+successfully.  Mentioned twice in the Prophecies of the Dragon, it is said
+to only fall when the People of the Dragon come, and when the Dragon's hand
+falls on Callandor, The Sword That Cannot Be Touched.  In any case, it's an
+amazing fortress.  
+~
+0 0 0
+D0
+~
+~
+0 0 8508
+D2
+~
+~
+0 0 5803
+S
+#8520
+On the Side of the Stone~
+On the side of the Stone, there are people rushing to and fro.  Despite
+their hurry, they seem to take comfort in being beside the Stone, as if
+knowing that nothing bad can happen as long as the Stone stands.  
+~
+0 0 0
+D0
+~
+~
+0 0 8518
+D3
+~
+~
+0 0 8521
+S
+#8521
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D1
+~
+~
+0 0 8520
+D2
+~
+~
+0 0 8522
+S
+#8522
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D0
+~
+~
+0 0 8521
+D3
+~
+~
+0 0 8523
+S
+#8523
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D1
+~
+~
+0 0 8522
+D2
+~
+~
+0 0 8526
+S
+#8524
+On the Side of the Stone~
+On the side of the Stone, there are people rushing to and fro.  Despite
+their hurry, they seem to take comfort in being beside the Stone, as if
+knowing that nothing bad can happen as long as the Stone stands.  
+~
+0 0 0
+D0
+~
+~
+0 0 8513
+D3
+~
+~
+0 0 8525
+S
+#8525
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D0
+~
+~
+0 0 8200
+D1
+~
+~
+0 0 8524
+D2
+~
+~
+0 0 8528
+D3
+~
+~
+0 0 8542
+S
+#8526
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D0
+~
+~
+0 0 8523
+D3
+~
+~
+0 0 8527
+S
+#8527
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D1
+~
+~
+0 0 8526
+D2
+~
+~
+0 0 8533
+D3
+~
+~
+0 0 8532
+S
+#8528
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D0
+~
+~
+0 0 8525
+D1
+~
+~
+0 0 8529
+S
+#8529
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D2
+~
+~
+0 0 8530
+D3
+~
+~
+0 0 8528
+S
+#8530
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D0
+~
+~
+0 0 8529
+D1
+~
+~
+0 0 8531
+S
+#8531
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D2
+~
+~
+0 0 8532
+D3
+~
+~
+0 0 8530
+S
+#8532
+Surrounding the Stone~
+Standing by the Stone, there are countless people entering and leaving,
+some having to check with guards first, others just walking in, probably
+High Lords or Nobles.  
+~
+0 0 0
+D0
+~
+~
+0 0 8531
+D1
+~
+~
+0 0 8527
+S
+#8533
+Between Houses~
+Between two of the High Lord's houses, several people pass back and
+forth, as if not caring who's land they happen to be walking on. 
+Surprisingly, there are no guards here to stop them from doing such.  
+~
+0 0 0
+D0
+~
+~
+0 0 8527
+D1
+~
+~
+0 0 8534
+D2
+~
+~
+0 0 8559
+D3
+~
+~
+0 0 8538
+S
+#8534
+Gates of a Manor~
+The alley ends at the gates of a quite large Manor, probably belonging to
+a High Lord.  Guards stand at the gates, although they don't look as focused
+on their task as they are on the passing Tairen women.  
+~
+0 0 0
+D1
+~
+~
+0 0 8535
+D2
+~
+~
+0 0 8581
+D3
+~
+~
+0 0 8533
+S
+#8535
+An Alley~
+This alley seems rather different than the others in Tear.  For one
+thing, it's clean.  It's also well-lit, and no one seems to be sleeping on
+the ground or feeding on something dead.  Perhaps it leads someplace nice.  
+~
+0 0 0
+D1
+~
+~
+0 0 8536
+D3
+~
+~
+0 0 8534
+S
+#8536
+An Alley~
+As you enter the alley, you notice the building that is on the other
+side.  Something about the wall seems preculiar, as if it's a facade.  Also
+the fact that a heavily armored guard stands in front of it gives reason to
+believe something may be behind it.  
+~
+0 0 0
+D0
+~
+~
+0 0 8558
+D1
+~
+~
+0 0 8537
+D2
+~
+~
+1 0 8264
+D3
+~
+~
+0 0 8535
+S
+#8537
+A Dead End~
+The alley comes to an abrupt ending against the side of a tall
+slate-roofed building.  Several foot prints in the dirt seem to give reason
+to believe that there tends to be quite a bit of activity in this alley,
+despite it's tucked away location.  
+~
+0 0 0
+D3
+~
+~
+0 0 8536
+S
+#8538
+Gates of a Manor~
+You are at the gates of yet another High Lord's house, this one belonging
+to the High Lord Aracome.  From the outside, it looks nearly identical to
+the house east of here.  
+~
+0 0 1
+D1
+~
+~
+0 0 8533
+D2
+~
+~
+0 0 8569
+D3
+~
+~
+0 0 8539
+D4
+~
+~
+0 0 8570
+S
+#8539
+Stone Road~
+You are traveling on a stone road, leading towards the center of Tear. 
+There are several people coming and going, living our their lives.  
+~
+0 0 1
+D1
+~
+~
+0 0 8538
+D3
+~
+~
+0 0 8540
+S
+#8540
+Stone Road~
+You are traveling on a stone road, leading towards the center of Tear. 
+There are several people coming and going, living our their lives.  
+~
+0 0 1
+D1
+~
+~
+0 0 8539
+D3
+~
+~
+0 0 8541
+S
+#8541
+Stone Road~
+You are traveling on a stone road, leading towards the center of Tear. 
+There are several people coming and going, living our their lives.  
+~
+0 0 1
+D0
+~
+~
+0 0 8564
+D1
+~
+~
+0 0 8540
+S
+#8542
+A Street Towards the Stone~
+One of the roads here breaks off from the series of streets and moves
+towards the Stone.  As usual, Tairen people running around doing whatever.  
+~
+0 0 0
+D1
+~
+~
+0 0 8525
+D3
+~
+~
+0 0 8543
+S
+#8543
+A Street Towards the Stone~
+One of the roads here breaks off from the series of streets and moves
+towards the Stone.  As usual, Tairen people running around doing whatever.  
+~
+0 0 0
+D0
+~
+~
+0 0 8598
+D1
+~
+~
+0 0 8542
+D3
+~
+~
+0 0 8544
+S
+#8544
+A Break in the Road~
+One of the roads here breaks off from the series of streets and moves
+towards the Stone.  As usual, Tairen people running around doing whatever.  
+~
+0 0 0
+D0
+~
+~
+0 0 8545
+D1
+~
+~
+0 0 8543
+D2
+~
+~
+0 0 8565
+S
+#8545
+A Paved Road~
+This road is paved in stone, making it's travel much more pleasant. 
+There are several people on horseback here, as well as people traveling on
+foot.  Some people carry baskets of fish or fruit on their head, why can't
+they just hold it in their arms?  
+~
+0 0 0
+D0
+~
+~
+0 0 8546
+D1
+~
+~
+0 0 8597
+D2
+~
+~
+0 0 8544
+S
+#8546
+A Paved Road~
+This road is paved in stone, making it's travel much more pleasant. 
+There are several people on horseback here, as well as people traveling on
+foot.  Some people carry baskets of fish or fruit on their head, why can't
+they just hold it in their arms?  
+~
+0 0 0
+D0
+~
+~
+0 0 8547
+D1
+~
+~
+0 0 8596
+D2
+~
+~
+0 0 8545
+S
+#8547
+A Paved Road~
+This road is paved in stone, making it's travel much more pleasant. 
+There are several people on horseback here, as well as people traveling on
+foot.  Some people carry baskets of fish or fruit on their head, why can't
+they just hold it in their arms?  
+~
+0 0 0
+D1
+~
+~
+0 0 8548
+D2
+~
+~
+0 0 8546
+S
+#8548
+A Gravel Road~
+This road is covered in gravel to make travel easier, and runs around the
+Stone for those who wish to avoid the cramped streets.  To the south there
+is a dirt road, for those who wish to avoid even the small crowd on this
+street.  
+~
+0 0 0
+D1
+~
+~
+0 0 8549
+D2
+~
+~
+0 0 8596
+D3
+~
+~
+0 0 8547
+S
+#8549
+A Gravel Road~
+This road is covered in gravel to make travel easier, and runs around the
+Stone for those who wish to avoid the cramped streets.  To the south there
+is a dirt road, for those who wish to avoid even the small crowd on this
+street.  
+~
+0 0 0
+D1
+~
+~
+0 0 8552
+D2
+~
+~
+0 0 8595
+D3
+~
+~
+0 0 8548
+S
+#8550
+A Gravel Road~
+This road is covered in gravel to make travel easier, and runs around the
+Stone for those who wish to avoid the cramped streets.  To the south there
+is a dirt road, for those who wish to avoid even the small crowd on this
+street.  
+~
+0 0 0
+D1
+~
+~
+0 0 8507
+D2
+~
+~
+0 0 8592
+D3
+~
+~
+0 0 8551
+S
+#8551
+A Gravel Road~
+This road is covered in gravel to make travel easier, and runs around the
+Stone for those who wish to avoid the cramped streets.  To the south there
+is a dirt road, for those who wish to avoid even the small crowd on this
+street.  
+~
+0 0 0
+D1
+~
+~
+0 0 8550
+D2
+~
+~
+0 0 8593
+D3
+~
+~
+0 0 8552
+S
+#8552
+A Gravel Road~
+This road is covered in gravel to make travel easier, and runs around the
+Stone for those who wish to avoid the cramped streets.  To the south there
+is a dirt road, for those who wish to avoid even the small crowd on this
+street.  
+~
+0 0 0
+D1
+~
+~
+0 0 8551
+D2
+~
+~
+0 0 8594
+D3
+~
+~
+0 0 8549
+S
+#8553
+In the Streets~
+You are now walking through the streets that surround the Stone.  There
+are several houses lining the streets, most of which seem to be peasant
+owned, except for a few nobles' houses here and there.  
+~
+0 0 0
+D0
+~
+~
+0 0 8586
+D1
+~
+~
+0 0 8554
+D2
+~
+~
+0 0 8587
+D3
+~
+~
+0 0 8518
+S
+#8554
+In the Streets~
+You are now walking through the streets that surround the Stone.  There
+are several houses lining the streets, most of which seem to be peasant
+owned, except for a few nobles' houses here and there.  
+~
+0 0 0
+D0
+~
+~
+0 0 8588
+D1
+~
+~
+0 0 8555
+D2
+~
+~
+0 0 8589
+D3
+~
+~
+0 0 8553
+S
+#8555
+Crossroads~
+Here two roads meet to form a crossroads.  To the west is the Stone, and
+north seems to lead to nowhere special.  Who reads these things anyway.  
+~
+0 0 0
+D0
+~
+~
+0 0 8563
+D2
+~
+~
+0 0 8556
+D3
+~
+~
+0 0 8554
+S
+#8556
+A Hidden Path~
+You are traveling a narrow and shadowy path, barely visible from the
+street.  Going this way may not be very safe.  
+~
+0 0 0
+D0
+~
+~
+0 0 8555
+D2
+~
+~
+0 0 8557
+S
+#8557
+A Hidden Path~
+You are traveling a narrow and shadowy path, barely visible from the
+street.  Going this way may not be very safe.  
+~
+0 0 0
+D0
+~
+~
+0 0 8556
+D2
+~
+~
+0 0 8558
+S
+#8558
+Nearing a Junction~
+Further down the hidden path, light can be seen clearly up ahead as well
+as another alley between buildings.  
+~
+0 0 0
+D0
+~
+~
+0 0 8557
+D2
+~
+~
+0 0 8536
+S
+#8559
+A Small Road Between Houses~
+You are on a short path between two of the High Lord's houses.  Nothing
+special.  Rather bland.  Kind of boring.  
+~
+0 0 0
+D0
+~
+~
+0 0 8533
+D2
+~
+~
+0 0 8560
+D3
+~
+~
+0 0 8569
+S
+#8560
+Nearing the Docks~
+Nearing the docks, the smell of fish and salt hangs in the air.  A cool
+breeze blows constant from the coast, and several ships are nearing the
+harbor, as well as leaving.  
+~
+0 0 0
+D0
+~
+~
+0 0 8559
+D1
+~
+~
+0 0 8584
+D2
+~
+~
+0 0 8201
+D3
+~
+~
+0 0 8585
+S
+#8561
+A Side Street~
+This street breaks away from the main road in Tear, leading to various
+houses and the like.  From time to time a horse drawn carriage passes by.  
+~
+0 0 1
+D1
+~
+~
+0 0 8562
+D2
+~
+~
+0 0 8590
+D3
+~
+~
+0 0 8507
+S
+#8562
+A Side Street~
+Breaking away from the muddy streets, this road is narrow and hidden. 
+The few people who travel here look questionable.  
+~
+0 0 0
+D1
+~
+~
+0 0 8563
+D3
+~
+~
+0 0 8561
+S
+#8563
+A Curve in the Street~
+Here the street curves around a tall building, leading towards the Stone.
+There's a man here, eyeing you up and down.  
+~
+0 0 0
+D2
+~
+~
+0 0 8555
+D3
+~
+~
+0 0 8562
+S
+#8564
+A Travel-Worn Road~
+This road is nothing more than well worn dirt.  It looks like people have
+been traveling here for hundreds of years.  
+~
+0 0 0
+D0
+~
+~
+0 0 8565
+D2
+~
+~
+0 0 8541
+S
+#8565
+A Travel-Worn Road~
+This road is nothing more than well worn dirt.  It looks like people have
+been traveling here for hundreds of years.  
+~
+0 0 0
+D0
+~
+~
+0 0 8544
+D2
+~
+~
+0 0 8564
+S
+#8566
+On the Rooftops~
+~
+0 4 0
+S
+#8567
+On the Rooftops~
+~
+0 4 0
+S
+#8568
+On the Roof of a High Lord's Manor~
+~
+0 4 0
+S
+#8569
+Before the Manor~
+Standing before the manor, you notice the guards standing erect in front
+of the doors leading inside.  They look well trained, and shouldn't be
+reckoned with.  
+~
+0 0 0
+D0
+~
+~
+0 0 8538
+D1
+~
+~
+0 0 8559
+D2
+~
+~
+0 0 8572
+D4
+~
+~
+0 0 8571
+S
+#8570
+On a Tilted Roof~
+Standing on the rooftops of Tairen houses, you can see a lot of activity
+in the city.  You also see that there's more to Tear than what's on the
+ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 8263
+D1
+~
+~
+0 0 8230
+D2
+~
+~
+0 0 8571
+D5
+~
+~
+0 0 8538
+S
+#8571
+On the Roof of a High Lord's Manor~
+The High Lord's manor is taller than most buildings in the city, giving a
+perfect view of the other rooftops.  
+~
+0 0 0
+D0
+~
+~
+0 0 8570
+D1
+~
+~
+0 0 8226
+D5
+~
+~
+0 0 8569
+S
+#8572
+Inside the Manor~
+Inside the High Lord Aracome's Manor, you begin to wonder how he makes so
+much money to afford such indulgings as these that adorn his house.  
+~
+0 0 0
+D0
+~
+~
+0 0 8569
+D2
+~
+~
+0 0 8573
+S
+#8573
+The Audience Chamber~
+This room is even more elaborate in furnishings than the previous. 
+Finely crafted wooden chairs line the room, surrounding a beautiful table
+where he meets his guests.  Sea Folk porcelin vaces are placed about the
+room, as well as fine silks drapes from Illian.  
+~
+0 0 0
+D0
+~
+~
+0 0 8572
+D2
+~
+~
+0 0 8574
+D3
+~
+~
+0 0 8579
+S
+#8574
+The Hallway~
+The hallway is covered in the most expensive Tairen maze-like carpets,
+and the walls are adorned with exotic paintings and pottery.  Every now and
+then a servant passes by, casting its gaze at the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 8573
+D1
+~
+~
+0 0 8575
+D2
+~
+~
+0 0 8247
+D3
+~
+~
+0 0 8576
+S
+#8575
+The Hallway~
+The hallway is covered in the most expensive Tairen maze-like carpets,
+and the walls are adorned with exotic paintings and pottery.  Every now and
+then a servant passes by, casting its gaze at the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 8577
+D3
+~
+~
+0 0 8574
+S
+#8576
+The Hallway~
+The hallway is covered in the most expensive Tairen maze-like carpets,
+and the walls are adorned with exotic paintings and pottery.  Every now and
+then a servant passes by, casting its gaze at the floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 8574
+D2
+~
+~
+0 0 8578
+S
+#8577
+The Bedroom~
+The High Lord's bedroom is magnificent.  Almost as large as the audience
+chamber, the decorations that add to the beauty of the room look more exotic
+and expensive.  The bed is twice as large as the guest beds, covered with
+several pillows and silk sheets.  His closet is huge, containing more
+clothes than anyone could possibly need.  
+~
+0 0 0
+D2
+~
+~
+0 0 8575
+S
+#8578
+A Private Room~
+This room is Aracome's private room.  There isn't much in here, besides a
+long cushioned chair made for two people to sit on.  Aside from that, there
+is a large window, and a wine cabinet.  
+~
+0 0 0
+D0
+~
+~
+0 0 8576
+S
+#8579
+The Dining Room~
+The dining room is big enough to suit a large audience, with a table
+roughly 40 feet long and 10 feet wide.  A beautiful chandelier hangs above
+the table, adding to the beauty of the room.  
+~
+0 0 0
+D1
+~
+~
+0 0 8573
+D3
+~
+~
+1 0 8580
+S
+#8580
+A Well Kept Kitchen~
+The kitchen is filled with cooks and servants, yet there are no messes to
+be seen.  They seem to be keeping it perfectly intact at the same time that
+they are rushing about to meet their guests' needs.  
+~
+0 0 0
+D1
+~
+~
+1 0 8579
+S
+#8581
+High Lord Gueyam's Manor~
+Inside the High Lord Gueyam's Manor, you can see why guards are necessary
+to protect his home.  Priceless Tairen rugs cover the floor, and the finest
+Sea Folk porcelin vaces are placed in niches carved into the walls.  The
+furniture looks of Kandori quality, and the walls themselves almost seem to
+have been made by Ogier.  
+~
+0 0 0
+D0
+~
+~
+0 0 8534
+D1
+~
+~
+0 0 8582
+S
+#8582
+An Audience Chamber~
+The audience chamber in the High Lord's manor is nonetheless elegant and
+exquisite as the front room.  Exotic paintings and statues line the walls,
+their origin hard to determine.  A huge chandelier hangs from the ceiling,
+right above a beautiful carved square table.  On the north wall, a tattered
+scroll hangs on the wall, depicting a man with red hair wielding a sword
+against a man with eyes of fire in the sky.  
+~
+0 0 0
+D2
+~
+~
+0 0 8583
+D3
+~
+~
+0 0 8581
+S
+#8583
+A Construction Site~
+Strangely enough, the south wall of Gueyam's manor is missing.  It looks
+as if lightning struck the house, or maybe some strange Power is
+responsible.  There are several men working to repair the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 8582
+D3
+~
+~
+0 0 8584
+S
+#8584
+Outside the Manor~
+Near Gueyam's manor, you notice a huge hole in the manor and several
+workers attempting to repair it.  Maybe with a disguise a person could slip
+into the house unnoticed.  
+~
+0 0 0
+D1
+~
+~
+0 0 8583
+D3
+~
+~
+0 0 8560
+S
+#8585
+Outside Aracome's Manor~
+Leaving Aracome's manor, you step outside into his private garden. 
+Shortly to the east begin the docks of Tear, and the activity of sea life.  
+~
+0 0 0
+D0
+~
+~
+1 0 8251
+D1
+~
+~
+0 0 8560
+S
+#8586
+A Lesser Noble's House~
+Entering this noble's house was quite easy, considering there are no
+bodyguards about.  This house is very modest, and from the look of things,
+being unkept, the noble clearly doesn't stay here very often.  
+~
+0 0 0
+D2
+~
+~
+0 0 8553
+S
+#8587
+A Noble's House~
+Standing before another nobles house, the guards here are quite attentive
+to their job.  They eye everyone who passes, even women and children.  Of
+course, some of the children here look rather dangerous...  
+~
+0 0 0
+D0
+~
+~
+0 0 8553
+D2
+~
+~
+0 0 8297
+S
+#8588
+High Lord Meilan's Residence~
+The High Lord Meilan's house seems rather plain for a noble.  Only one
+story, it's not very big and the outside isn't very decorated.  Perhaps the
+High Lord doesn't spend much of his time here.  You also notice there are no
+guards.  
+~
+0 0 0
+D0
+~
+~
+0 0 8260
+D2
+~
+~
+0 0 8554
+S
+#8589
+A Commoner's Home~
+This house is rather plain and small, probably belonging to a fisherman,
+or some other profession that doesn't earn much.  
+~
+0 0 0
+D0
+~
+~
+0 0 8554
+S
+#8590
+Towards the Stone~
+As you move closer towards the Stone, it's immense size is all that feels
+your vision.  It stands high above the city, threatening anyone who has ever
+thought to attempt to invade it.  
+~
+0 0 1
+D0
+~
+~
+0 0 8561
+D1
+~
+~
+0 0 8591
+D2
+~
+~
+0 0 8514
+S
+#8591
+A Square~
+Several people are gathered around the square here to view the
+entertainment that usually goes on.  Despite the busy atmosphere in the
+city, this square is proof that the citizens still have time to enjoy life. 
+~
+0 0 1
+D3
+~
+~
+0 0 8590
+S
+#8592
+A Dirt Road~
+The dirt road runs next to the gravel road, but with less people due to
+it's tendancy to get muddy at times.  It seems less messy than most of the
+dirt roads in Tear, but the gravel road is still more dependable.  
+~
+0 0 0
+D0
+~
+~
+0 0 8550
+D1
+~
+~
+0 0 8509
+D3
+~
+~
+0 0 8593
+S
+#8593
+A Dirt Road~
+The dirt road runs next to the gravel road, but with less people due to
+it's tendancy to get muddy at times.  It seems less messy than most of the
+dirt roads in Tear, but the gravel road is still more dependable.  
+~
+0 0 0
+D0
+~
+~
+0 0 8551
+D1
+~
+~
+0 0 8592
+D3
+~
+~
+0 0 8594
+S
+#8594
+A Dirt Road~
+The dirt road runs next to the gravel road, but with less people due to
+it's tendancy to get muddy at times.  It seems less messy than most of the
+dirt roads in Tear, but the gravel road is still more dependable.  
+~
+0 0 0
+D0
+~
+~
+0 0 8552
+D1
+~
+~
+0 0 8593
+D3
+~
+~
+0 0 8595
+S
+#8595
+A Dirt Road~
+The dirt road runs next to the gravel road, but with less people due to
+it's tendancy to get muddy at times.  It seems less messy than most of the
+dirt roads in Tear, but the gravel road is still more dependable.  
+~
+0 0 0
+D0
+~
+~
+0 0 8549
+D1
+~
+~
+0 0 8594
+D3
+~
+~
+0 0 8596
+S
+#8596
+Towards the Stone~
+As you move closer towards the Stone, it's immense size is all that feels
+your vision.  It stands high above the city, threatening anyone who has ever
+thought to attempt to invade it.  
+~
+0 0 0
+D0
+~
+~
+0 0 8548
+D1
+~
+~
+0 0 8595
+D2
+~
+~
+0 0 8597
+D3
+~
+~
+0 0 8546
+S
+#8597
+Towards the Stone~
+As you move closer towards the Stone, it's immense size is all that fills
+your vision.  It stands high above the city, threatening anyone who has ever
+thought to attempt to invade it.  
+~
+0 0 0
+D0
+~
+~
+0 0 8596
+D2
+~
+~
+0 0 8598
+D3
+~
+~
+0 0 8545
+S
+#8598
+West of the Stone~
+West of the Stone, it is still all that can be seen standing so near. 
+Why anyone would try to invade it is a mystery.  As usual, there are people
+moving about here.  
+~
+0 0 0
+D0
+~
+~
+0 0 8597
+D1
+~
+~
+0 0 8599
+D2
+~
+~
+0 0 8543
+S
+#8599
+A Guard Post~
+The guard post is where all the guards come to rest for a moment after
+they are releaved, and to check to see when they have to stand guard next. 
+Even the guard post seems guarded.  
+~
+0 4 0
+D1
+~
+~
+0 0 8200
+D3
+~
+~
+0 0 8598
+S
+#0
+
+
+
+#SPECIALS
+M 8401 spec_breath_lightning
+M 8410 spec_breath_gas
+M 8413 spec_breath_any
+M 8414 spec_cast_cleric
+M 8415 spec_illuminator
+M 8417 spec_cast_mage
+M 8466 spec_breath_any_but_acid
+M 8599 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 8251 2 1
+D 0 8264 0 1
+D 0 8274 5 1
+D 0 8277 4 1
+D 0 8281 5 2
+D 0 8284 4 2
+D 0 8301 0 1
+D 0 8412 3 2
+D 0 8413 1 2
+D 0 8480 3 2
+D 0 8481 1 2
+D 0 8489 3 2
+D 0 8490 1 2
+D 0 8502 2 1
+D 0 8536 2 1
+D 0 8579 3 1
+D 0 8580 1 1
+D 0 8585 0 1
+M 0 8469 1 8200 1 100 Load a Captain of the Guard
+E 0 8493 0 13 0 100 The captain's belt is loaded around the waist of a Captain of the Guard
+M 0 8468 5 8200 1 100 Load a Tairen Guard
+M 0 8458 25 8201 2 100 Load a Tairen Noble
+M 0 8460 30 8202 2 100 Load a Tairen sailor
+M 0 8460 30 8203 1 100 Load a Tairen sailor
+M 0 8460 30 8205 2 100 Load a Tairen sailor
+M 0 8460 30 8205 2 100 Load a Tairen sailor
+M 0 8460 30 8209 1 100 Load a Tairen sailor
+M 0 8460 30 8210 1 100 Load a Tairen sailor
+M 0 8460 30 8214 1 100 Load a Tairen sailor
+M 0 8460 30 8215 2 100 Load a Tairen sailor
+M 0 8460 30 8217 1 100 Load a Tairen sailor
+M 0 8460 30 8219 1 100 Load a Tairen sailor
+M 0 8460 30 8220 2 100 Load a Tairen sailor
+M 0 8460 30 8221 1 100 Load a Tairen sailor
+M 0 8460 30 8223 2 100 Load a Tairen sailor
+M 0 8449 1 8226 1 100 Load a professional thief
+E 0 8467 0 17 0 100 A ruby-hilted dagger is loaded wielded of a professional thief
+E 0 8479 0 12 0 100 A long black coat is loaded about the shoulders of a professional thief
+E 0 8480 0 1 0 100 A gold signet ring is loaded on the left finger of a professional thief
+M 0 8450 1 8228 1 100 Load a veiled Aiel
+E 0 8468 0 17 0 100 A deadly spear is loaded wielded of a veiled Aiel
+E 0 8477 0 8 0 100 A pair of knee-high boots is loaded on the feet of a veiled Aiel
+E 0 8478 0 21 0 100 A black veil is loaded on the face of a veiled Aiel
+E 0 8481 0 6 0 100 A shoufa is loaded over the head of a veiled Aiel
+E 0 8483 0 5 0 100 Cadin'sor is loaded on the body of a veiled Aiel
+M 0 8465 20 8232 1 100 Load a Tairen sailor
+M 0 8465 20 8240 1 100 Load a Tairen sailor
+M 0 8465 20 8241 1 100 Load a Tairen sailor
+M 0 8462 1 8243 1 100 Load the Captain
+E 0 8491 0 0 0 100 The captain's lantern is loaded as a light of the Captain
+M 0 8465 20 8244 1 100 Load a Tairen sailor
+M 0 8465 20 8245 1 100 Load a Tairen sailor
+M 0 8461 1 8246 1 100 Load the ship's cook
+M 0 8467 5 8254 1 100 Load a Sea Folk sailor
+M 0 8466 1 8255 1 100 Load a Windfinder
+M 0 8467 5 8257 1 100 Load a Sea Folk sailor
+M 0 8467 5 8258 1 100 Load a Sea Folk sailor
+M 0 8467 5 8259 1 100 Load a Sea Folk sailor
+M 0 8451 1 8261 1 100 Load a thief-catcher
+E 0 8469 0 17 0 100 A sword-breaker is loaded wielded of a thief-catcher
+E 0 8476 0 11 0 100 A small iron shield is loaded as a shield of a thief-catcher
+E 0 8486 0 13 0 100 A worn leather belt is loaded around the waist of a thief-catcher
+M 0 8456 1 8262 1 100 Load a darkfriend
+E 0 8475 0 15 0 100 A bone bracelet is loaded on the left wrist of a darkfriend
+E 0 8475 0 16 0 100 A bone bracelet is loaded on the right wrist of a darkfriend
+M 0 8453 1 8263 1 100 Load a female archer
+E 0 8470 0 17 0 100 A long wooden bow is loaded wielded of a female archer
+E 0 8471 0 22 0 100 A sturdy quiver is loaded over the shoulder of a female archer
+E 0 8482 0 3 0 100 A silver medallion is loaded around the neck (1) of a female archer
+M 0 8470 1 8269 1 100 Load a Chaos Assassin
+E 0 8501 0 21 0 100 `7mask of suffering is loaded on the face of a Chaos Assassin
+M 0 8417 1 8271 1 100 Load Voram the sadist
+E 0 8419 0 1 0 100 A sadist's ring is loaded on the left finger of Voram the sadist
+M 0 8416 1 8272 1 100 Load Jaems the Terrible
+E 0 8418 0 7 0 100 A pair of pitch black greaves is loaded on the legs of Jaems the Terrible
+M 0 8419 1 8275 1 100 Load Harald the Necromancer
+E 0 8420 0 10 0 100 The sleeves of necromancy is loaded on the arms of Harald the Necromancer
+M 0 8418 1 8276 1 100 Load an insane Chaos member
+E 0 8421 0 15 0 100 A spiked wrist guard is loaded on the left wrist of an insane Chaos member
+M 0 8414 1 8279 1 100 Load the Chaos Prophet
+E 0 8416 0 20 0 100 An aura of power is loaded floating nearby of the Chaos Prophet
+M 0 8415 1 8280 1 100 Load the Chaos Underlord
+E 0 8417 0 3 0 100 A chaos pendant is loaded around the neck (1) of the Chaos Underlord
+E 0 8502 0 13 0 100 A wool satchel is loaded around the waist of the Chaos Underlord
+M 0 8401 1 8281 1 100 Load Allandra
+E 0 8409 0 3 0 100 A key on a chain is loaded around the neck (1) of Allandra
+E 0 8499 0 9 0 100 `7fists of chaos is loaded on the hands of Allandra
+M 0 8413 1 8282 1 100 Load the Chaos High Lord
+E 0 8415 0 5 0 100 A robe of tranquility is loaded on the body of the Chaos High Lord
+M 0 8411 1 8283 1 100 Load the Chaos delinquent
+E 0 8413 0 6 0 100 `7delinquent's skull is loaded over the head of the Chaos delinquent
+M 0 8410 1 8284 1 100 Load Goul
+E 0 8410 0 0 0 100 The flame of goul is loaded as a light of Goul
+E 0 8494 0 7 0 100 `7leggings of human flesh is loaded on the legs of Goul
+E 0 8496 0 13 0 100 A belt of skulls is loaded around the waist of Goul
+O 0 8423 0 8285 0 100 A wavering image loaded to Chaos Guild House
+O 0 8424 0 8286 0 100 A wavering image loaded to Chaos Hall of Honor
+O 0 8425 0 8287 0 100 A wavering image loaded to Chaos Hall of Honor
+O 0 8426 0 8288 0 100 A wavering image loaded to Chaos Hall of Honor
+O 0 8427 0 8289 0 100 A wavering image loaded to Chaos Hall of Honor
+O 0 8428 0 8290 0 100 A wavering image loaded to Chaos Hall of Honor
+O 0 8429 0 8291 0 100 A wavering image loaded to Chaos Hall of Honor
+O 0 8430 0 8292 0 100 A wavering image loaded to Chaos Hall of Honor
+O 0 8422 0 8293 0 100 A wavering image loaded to Chaos Hall of Honor
+M 0 8430 1 8294 1 100 Load an apprentice
+M 0 8433 1 8294 1 100 Load an enraged oxen
+M 0 8437 1 8295 1 100 Load Malkom the businessman
+M 0 8438 1 8296 1 100 Load Ariana
+M 0 8439 1 8296 1 100 Load Holly
+M 0 8440 1 8296 1 100 Load Doniella
+M 0 8458 25 8297 1 100 Load a Tairen Noble
+M 0 8467 5 8300 1 100 Load a Sea Folk sailor
+M 0 8463 1 8301 1 100 Load Sorenia
+O 0 8492 0 8301 0 100 A soft cushioned chair loaded to The Resting Room
+O 0 8404 0 8405 0 100 The remains of a fire loaded to A Shack
+P 0 8405 1 8404 1 100 Fish remains put inside fish remains
+M 0 8409 10 8407 3 100 Load a traveler
+M 0 8409 10 8407 3 100 Load a traveler
+M 0 8409 10 8407 3 100 Load a traveler
+M 0 8409 10 8408 4 100 Load a traveler
+M 0 8409 10 8408 4 100 Load a traveler
+M 0 8409 10 8408 4 100 Load a traveler
+M 0 8404 1 8410 1 100 Load a small sheep
+M 0 8403 1 8410 1 100 Load a rabid sheep
+G 0 8400 0 0 0 100 A rusty old key is given to a rabid sheep
+M 0 8405 1 8417 1 100 Load a crazy old man
+E 0 8407 0 17 0 100 A barbed chain is loaded wielded of a crazy old man
+M 0 8400 1 8422 1 100 Load a fisherman
+E 0 8406 0 17 0 100 A fisherman's whip is loaded wielded of a fisherman
+E 0 8408 0 6 0 100 A fishing hat is loaded over the head of a fisherman
+M 0 8402 20 8423 3 100 Load a huge fish
+M 0 8402 20 8423 3 100 Load a huge fish
+M 0 8402 20 8423 3 100 Load a huge fish
+M 0 8402 20 8424 3 100 Load a huge fish
+M 0 8402 20 8424 3 100 Load a huge fish
+M 0 8402 20 8427 3 100 Load a huge fish
+M 0 8402 20 8427 3 100 Load a huge fish
+M 0 8402 20 8427 3 100 Load a huge fish
+M 0 8402 20 8434 3 100 Load a huge fish
+M 0 8402 20 8434 3 100 Load a huge fish
+M 0 8402 20 8434 3 100 Load a huge fish
+M 0 8402 20 8435 3 100 Load a huge fish
+M 0 8402 20 8435 3 100 Load a huge fish
+M 0 8402 20 8435 3 100 Load a huge fish
+M 0 8402 20 8437 3 100 Load a huge fish
+M 0 8402 20 8437 3 100 Load a huge fish
+M 0 8402 20 8437 3 100 Load a huge fish
+M 0 8402 20 8439 3 100 Load a huge fish
+M 0 8402 20 8439 3 100 Load a huge fish
+M 0 8402 20 8439 3 100 Load a huge fish
+M 0 8422 20 8440 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8441 2 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8441 2 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8442 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8444 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8445 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8446 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8446 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8447 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8448 1 100 Load a disgruntled Tairen citizen
+M 0 8420 20 8450 1 100 Load a Tairen Guard
+M 0 8421 20 8450 1 100 Load a Tairen Guard
+M 0 8422 20 8452 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8453 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8457 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8460 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8461 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8463 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8465 1 100 Load a disgruntled Tairen citizen
+M 0 8422 20 8467 1 100 Load a disgruntled Tairen citizen
+M 0 8457 30 8468 3 100 Load a citizen of Tear
+M 0 8457 30 8468 3 100 Load a citizen of Tear
+M 0 8457 30 8468 3 100 Load a citizen of Tear
+M 0 8457 30 8469 1 100 Load a citizen of Tear
+M 0 8457 30 8470 2 100 Load a citizen of Tear
+M 0 8457 30 8470 2 100 Load a citizen of Tear
+M 0 8457 30 8471 2 100 Load a citizen of Tear
+M 0 8457 30 8471 2 100 Load a citizen of Tear
+M 0 8472 1 8474 1 100 Load a crippled old man
+G 0 8507 0 0 0 100 A wand of magic missile is given to a crippled old man
+G 0 8506 0 0 0 100 A wand of chain lightning is given to a crippled old man
+G 0 8505 0 0 0 100 A wand of poison missile is given to a crippled old man
+G 0 8504 0 0 0 100 A wand of acid blast is given to a crippled old man
+M 0 8423 1 8475 1 100 Load a Wise Woman
+G 0 8513 0 0 0 100 A potion of sanctuary is given to a Wise Woman
+G 0 8431 0 0 0 100 A potion of heal is given to a Wise Woman
+G 0 8432 0 0 0 100 A potion of translucence is given to a Wise Woman
+G 0 8433 0 0 0 100 A potion of divine sight is given to a Wise Woman
+G 0 8434 0 0 0 100 A potion of dexterity is given to a Wise Woman
+G 0 8435 0 0 0 100 A potion of shielding is given to a Wise Woman
+G 0 8436 0 0 0 100 A potion of flying is given to a Wise Woman
+G 0 8445 0 0 0 100 A potion of return is given to a Wise Woman
+G 0 8503 0 0 0 100 A potion of cure blindness is given to a Wise Woman
+M 0 8429 1 8476 1 100 Load Dermid Ajala
+G 0 8446 0 0 0 100 A long steel sword is given to Dermid Ajala
+G 0 8447 0 0 0 100 A sharp axe is given to Dermid Ajala
+G 0 8448 0 0 0 100 A sharp chrome knife is given to Dermid Ajala
+M 0 8432 1 8480 1 100 Load the barkeep
+G 0 8449 0 0 0 100 A mug of ale is given to the barkeep
+M 0 8431 2 8481 1 100 Load a cook
+O 0 8460 0 8485 0 100 An open window loaded to A Hallway
+O 0 8451 0 8489 0 100 A small golden key loaded to An Ordinary Room
+M 0 8434 1 8489 1 100 Load a paranoid criminal
+O 0 8450 0 8490 0 100 A small golden chest loaded to A Secret Closet
+P 0 8452 20 8450 1 100 A crystal staff put inside a Crystal Staff
+M 0 8457 30 8491 2 100 Load a citizen of Tear
+M 0 8457 30 8491 2 100 Load a citizen of Tear
+M 0 8424 1 8492 1 100 Load the alchemist
+G 0 703 0 0 0 100 A bag of sulfur. is given to the alchemist
+G 0 711 0 0 0 100 A bottle of special water is given to the alchemist
+G 0 707 0 0 0 100 A glass bottle of ammonia. is given to the alchemist
+G 0 706 0 0 0 100 A bag of smelly manure is given to the alchemist
+G 0 705 0 0 0 100 A bag of salt peter is given to the alchemist
+G 0 704 0 0 0 100 A bag of charcol is given to the alchemist
+G 0 713 0 0 0 100 A bag of sleeping powder. is given to the alchemist
+G 0 712 0 0 0 100 A jar of blubber is given to the alchemist
+G 0 714 0 0 0 100 A jar of oil is given to the alchemist
+G 0 716 0 0 0 100 A small bag of poisonous powder. is given to the alchemist
+G 0 717 0 0 0 100 A small bag of sugar is given to the alchemist
+M 0 8425 1 8493 1 100 Load a wine dealer
+E 0 9568 0 19 0 100 A glass of wine is loaded held in the hands of a wine dealer
+G 0 3417 0 0 0 100 A wineflask is given to a wine dealer
+G 0 3001 0 0 0 100 A bottle of beer is given to a wine dealer
+G 0 8437 0 0 0 100 A bottle of tairen wine is given to a wine dealer
+G 0 8438 0 0 0 100 A bottle of andoran brandy is given to a wine dealer
+M 0 8426 1 8495 1 100 Load a Tairen trader
+G 0 8439 0 0 0 100 An old shoe is given to a Tairen trader
+G 0 8405 0 0 0 100 Fish remains is given to a Tairen trader
+G 0 8440 0 0 0 100 A tairen spear is given to a Tairen trader
+M 0 8427 1 8496 1 100 Load Herb the Herbalist
+G 0 8441 0 0 0 100 A green herb of healing is given to Herb the Herbalist
+G 0 8442 0 0 0 100 A herb of curing is given to Herb the Herbalist
+G 0 8444 0 0 0 100 A herb of blessing is given to Herb the Herbalist
+M 0 8457 30 8497 2 100 Load a citizen of Tear
+M 0 8457 30 8497 2 100 Load a citizen of Tear
+M 0 8428 1 8498 1 100 Load a Tairen baker
+G 0 8461 0 0 0 100 A loaf of tairen bread is given to a Tairen baker
+G 0 8462 0 0 0 100 A sweet cake is given to a Tairen baker
+G 0 8463 0 0 0 100 A meat pie is given to a Tairen baker
+G 0 8464 0 0 0 100 An apple pie is given to a Tairen baker
+M 0 8436 1 8500 1 100 Load Brena
+M 0 8441 1 8501 1 100 Load Ezmirelda
+M 0 8473 1 8504 1 100 Load a magic dealer
+G 0 8511 0 0 0 100 A rod of magic missile is given to a magic dealer
+G 0 8510 0 0 0 100 A rod of chain lightning is given to a magic dealer
+G 0 8509 0 0 0 100 A rod of poison missile is given to a magic dealer
+G 0 8508 0 0 0 100 A rod of acid blast is given to a magic dealer
+M 0 8435 1 8505 1 100 Load an old woman
+G 0 8454 0 0 0 100 A small ter'angreal is given to an old woman
+G 0 8455 0 0 0 100 A scroll of searching is given to an old woman
+G 0 8456 0 0 0 100 A scroll of grip is given to an old woman
+G 0 8457 0 0 0 100 A scroll of identify is given to an old woman
+G 0 8458 0 0 0 100 A wand of acid blast is given to an old woman
+M 0 8457 30 8506 2 100 Load a citizen of Tear
+M 0 8457 30 8506 2 100 Load a citizen of Tear
+M 0 8457 30 8508 2 100 Load a citizen of Tear
+M 0 8457 30 8508 2 100 Load a citizen of Tear
+M 0 8458 25 8513 2 100 Load a Tairen Noble
+M 0 8458 25 8514 2 100 Load a Tairen Noble
+M 0 8458 25 8517 2 100 Load a Tairen Noble
+M 0 8458 25 8521 2 100 Load a Tairen Noble
+M 0 8320 1 8526 1 100 Load crazy old man
+E 0 8512 0 17 0 100 A heavy sword is loaded wielded of crazy old man
+M 0 8458 25 8526 2 100 Load a Tairen Noble
+M 0 8458 25 8528 2 100 Load a Tairen Noble
+M 0 8458 25 8530 2 100 Load a Tairen Noble
+M 0 8458 25 8532 2 100 Load a Tairen Noble
+M 0 8443 1 8536 1 100 Load a Chaos Guard
+E 0 8500 0 8 0 100 `7chaos clan boots is loaded on the feet of a Chaos Guard
+M 0 8452 1 8538 1 100 Load a suspicious looking man
+E 0 8484 0 0 0 100 A flickering torch is loaded as a light of a suspicious looking man
+E 0 8485 0 19 0 100 A small angreal is loaded held in the hands of a suspicious looking man
+E 0 8487 0 7 0 100 A pair of britches is loaded on the legs of a suspicious looking man
+M 0 8454 40 8540 3 100 Load a traveler
+M 0 8454 40 8540 3 100 Load a traveler
+M 0 8454 40 8540 3 100 Load a traveler
+M 0 8458 25 8543 2 100 Load a Tairen Noble
+M 0 8458 25 8546 2 100 Load a Tairen Noble
+M 0 8458 25 8550 2 100 Load a Tairen Noble
+M 0 8458 25 8552 2 100 Load a Tairen Noble
+M 0 8457 30 8553 2 100 Load a citizen of Tear
+M 0 8457 30 8553 2 100 Load a citizen of Tear
+M 0 8457 30 8555 2 100 Load a citizen of Tear
+M 0 8457 30 8555 2 100 Load a citizen of Tear
+M 0 8458 25 8559 2 100 Load a Tairen Noble
+M 0 8458 25 8560 2 100 Load a Tairen Noble
+M 0 8458 25 8561 2 100 Load a Tairen Noble
+M 0 8458 25 8561 2 100 Load a Tairen Noble
+M 0 8455 1 8570 1 100 Load an insane woman
+E 0 8488 0 9 0 100 A pair of black leather gloves is loaded on the hands of an insane woman
+E 0 8489 0 10 0 100 A pair of arm guards is loaded on the arms of an insane woman
+E 0 8490 0 20 0 100 Insanity is loaded floating nearby of an insane woman
+M 0 8447 1 8577 1 100 Load High Lord Aracome
+E 0 8466 0 6 0 100 A high lord's helmet is loaded over the head of High Lord Aracome
+M 0 8448 1 8580 1 100 Load a cook
+M 0 8446 1 8582 1 100 Load High Lord Gueyam
+E 0 8465 0 17 0 100 `7gueyam's sword is loaded wielded of High Lord Gueyam
+M 0 8444 1 8583 1 100 Load a Tairen construction worker
+M 0 8445 1 8583 1 100 Load a Tairen foreman
+M 0 8459 2 8587 2 100 Load a Noble Guard
+M 0 8459 2 8587 2 100 Load a Noble Guard
+M 0 8468 5 8599 1 100 Load a Tairen Guard
+S
+
+
+
+#SHOPS
+8423 10 0 0 0 0 100 100 0 23
+8424 0 0 0 0 0 100 100 0 23
+8425 0 0 0 0 0 100 100 0 23
+8426 0 0 0 0 0 100 100 0 23
+8427 26 0 0 0 0 100 100 0 23
+8428 19 0 0 0 0 100 100 0 23
+8429 5 0 0 0 0 100 100 0 23
+8432 0 0 0 0 0 100 100 0 23
+8435 0 0 0 0 0 100 100 0 23
+8437 0 0 0 0 0 100 100 0 24
+8472 0 0 0 0 0 100 100 1 24
+8473 0 0 0 0 0 100 100 0 24
+8599 0 0 0 0 0 100 100 0 24
+0
+
+
+
+#MOBPROGS
+#8399
+say Schlamba Damba Doo-Dah Dey, Reev-us!
+emote blows his whistle.
+piledrive $n
+~
+#8420
+say Move along, move along..
+emote waves you through the gates.
+break
+~
+#8436
+if sex $n == 2
+say Greetings, madam. Are you lost?
+emote eyes you up and down.
+say Or perhaps looking for a job?
+emote grins slyly.
+else
+say Hello stranger, what brings you here?
+emote smiles seductively at you.
+say Welcome to the Lusty Tavern. Enjoy your visit.
+endif
+break
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

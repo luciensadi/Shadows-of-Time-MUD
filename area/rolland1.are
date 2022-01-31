@@ -1,0 +1,1442 @@
+#AREADATA
+Name Brigand Encampment~
+Builders Rolland~
+VNUMs 16200 16300
+Credits Rolland's area.~
+Security 10
+Flags EF
+Version 4
+End
+
+
+
+#MOBILES
+#16200
+rolland bitch~
+Rolland's bitch.~
+Rolland's bitch is here.
+~
+~
+unique~
+0 0
+A 256 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+-55 -55 -55 -55
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#16208
+Woman~
+A pretty young woman.~
+A young woman dressed in a long heavy dress and her hair pulled under a scarf seems to be to busy to notice you.
+~
+A pretty young woman seems to be busy at work collecting eggs
+~
+unique~
+0 0
+AG 0 0 0 0 -1  -400 0
+20 0 5d30+161 0d0+0 4d5+10 beating
+-2 -2 -2 -2
+EFH T Eb 0
+stand stand female 0
+M ABCEF medium unknown
+#16209
+Brigand gardener~
+Brigand gardener~
+A man with a very large build.
+~
+Working in the fields for quite some time this man has dark sun baked
+skin and a large build.  
+~
+unique~
+0 0
+AGHe 0 0 0 0 -1  -200 0
+15 0 5d30+161 0d0+0 3d5+8 beating
+0 0 0 0
+0 AB E G
+stand stand male  1
+M ABCEGH medium unknown
+#16210
+Egg Lady~
+Egg Lady~
+An oversize lady with a basket of eggs.
+~
+A volumetuous mound of woman stands before you.  Although you are certain
+she would keep you cool in the summer and warm in the winter, perhaps she is
+not whom you would want to wake up to.  
+ 
+~
+unique~
+0 0
+AQRTce 0 1104 0 37000 -1  0 0
+200 2 20d1000+15000 20d1000+1000 70d10+25 prick
+-100 -100 -100 -300
+ADEFHK ABEPb JKL DI
+stand stand female 10
+AMV BCDEFL giant unknown
+#16211
+Gate Guard~
+Gate guard~
+A large rough looking man wielding a large sword
+~
+This man is large, dirty and doesnt look to be very happy about standing
+at the gate for long periods.  You might be the one he will take out his
+frustrations on.  
+~
+unique~
+0 0
+ABFGe 0 64 0 0 -1  -400 0
+85 135 10d169+1300 85d5+100 5d12+25 slash
+-12 -12 -12 -12
+FIK AB Qb IN
+stand stand male  1
+AHMV ABCEFM medium unknown
+#16214
+Dirty Butcher~
+A bloody man~
+A bloody man wielding a cleaver
+~
+A large blood covered man who blends in with the meats sitting on the
+tables jumps at you as you enter the the area.  
+~
+amadicia~
+0 0
+ABF 0 66 128 0 -1  -600 0
+85 275 10d175+1000 85d10+100 7d11+15 cleave
+0 0 0 0
+ER IX LQ C
+stand stand male  1
+AHMV ABCDEFGHIJK large unknown
+#16215
+Errand Boy~
+Errand Boy~
+A small boy
+~
+A dirty little boy who seems to be in a hurry running chores for the men
+and women of the camp, they seem to not even see the fighting that goes on
+around them.  
+ 
+~
+amadicia~
+0 0
+ACS 0 64 2048 0 -1  0 0
+25 -32718 8d50+300 25d10+10 5d5+10 shbite
+2 -40 2 2
+F 0 CE I
+stand stand male  1
+AHMV ABCDEFGHIJK small unknown
+#16217
+Brigand~
+Brigand~
+A man walking about.
+~
+This man is of average size and looks, he seems fight with normal skill
+and should prove to be no match for a trained warrior.  
+~
+unique~
+0 0
+ACF 64 1 0 0 -1  -200 0
+45 60 10d61+500 45d10+100 5d10+15 stab
+0 0 0 0
+IKU AB K b
+stand stand male  1
+MV ABCEF medium unknown
+#16225
+Gate keeper~
+A gate keeper~
+A gate keeper keeping out the unwanted
+~
+~
+unique~
+0 0
+ABFGT 320 80 0 4096 -1  0 0
+75 125 10d169+1000 0d0+0 15d6+15 none
+0 0 0 0
+HN A HQ KL
+stand stand none 0
+M ABCDEFGH medium unknown
+#16227
+Large brigand~
+Large brigand~
+A very large man dressed in mix and match armor.
+~
+This man looks very untidy and doesn't smell all that great either, his
+equipment is a mix of things that he might have found along his travels. 
+Mostly old leather and rusty iron armor.  
+~
+unique~
+0 0
+ACGT 64 64 0 0 -1  -400 0
+75 100 15d169+2000 0d0+0 6d10+15 slash
+-15 -15 -15 -15
+FJKU AB J FL
+stand stand male  1
+AMV ABCEF medium unknown
+#16228
+Brigand Thug~
+a short man~
+A short fat dumpy dirty man.
+~
+This man has a little more fight in him than most would expect, he looks
+to have had his way at the dinner table and what he didn't eat went onto his
+clothes.  
+~
+unique~
+0 0
+ABFT 336 0 0 0 -1  -400 0
+100 120 20d170+1500 100d10+100 7d10+25 smash
+-15 -15 -15 0
+EHIJKN AB KLX I
+stand stand male  1
+AMV ABCEFGHIK medium unknown
+#16234
+Brigand worker~
+A brigand laborer~
+A friendly looking man
+~
+He is of normal looking man that would not look out of place working
+around any town or village.  He wears dingy but serviceable clothes.  
+~
+unique~
+0 0
+ACGHe 0 64 0 0 -1  0 0
+10 15 3d22+96 10d10+100 2d5+5 beating
+5 5 5 5
+INU 0 0 0
+stand stand none 1
+MV ABCFGHIJK medium unknown
+#16240
+Hall Guard~
+A large hall guard~
+A man wielding a sweeping blade.
+~
+A rather tall man looking to split you from throat to groin with a long
+single edged sword.  
+ 
+~
+ghealdan~
+0 0
+ABFT 80 64 0 4096 -1  -450 0
+160 250 15d200+2500 15d1+100 50d12+100 slash
+-40 -20 -120 -20
+EJN BJLM EZ IK
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#16200
+bracelet~
+bracelet~
+A bracelete is here.~
+unknown~
+trash 0 AM
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#16210
+Egg shaped Cuendillar pendant.~
+egg shaped Cuendillar pendant.~
+Upon closer inspection you notice it is the fabled cuendillar.  How strange the true power would be used to make such an item.~
+cuendillar~
+armor ABIJK AO
+0
+0 0 0 0 0
+110 0 10000 P
+A
+20 -9
+A
+19 9
+A
+18 9
+A
+13 15
+ T 0 none~
+#16211
+Ice pick~
+(no short description)~
+(no description)~
+silver~
+weapon 0 N
+0
+dagger 75 1 none 0
+110 0 0 P
+A
+18 9
+A
+19 9
+A
+20 -9
+ T 0 none~
+#16226
+old key~
+a very large steel key~
+This key is made of steel but at the same time looks very fragile.~
+Steel~
+key P 0
+0
+0 0 0 0 0
+0 50 0 P
+ T 0 none~
+#16229
+Pentel Pencil~
+blue drafting pencil.~
+0.7mm lead mechanical pencil used for drafting.~
+steel~
+weapon ABI AN
+0
+dagger 75 1 prick CDE
+110 0 10000 P
+A
+13 5
+A
+20 -5
+A
+19 9
+A
+18 9
+A
+13 2000
+A
+18 220
+A
+19 220
+A
+20 -190
+A
+17 -1200
+ T 0 none~
+#16235
+Dried river root~
+dried river root~
+A narly dried up root that is a painful reminder of what your man hood will look like in 70 years.~
+root~
+pill ITU A
+0
+77 'bless' 'frenzy' 'reserved' 'reserved'
+110 500 4000 P
+ T 0 none~
+#16236
+Very large Chest~
+very large Chest~
+A hulking mass of a chest.  Timber post must have been cut down to make the frame.  Leather straps thick enough to strap down cargo stradle its sides.~
+unknown~
+container 0 0
+0
+100 AC 0 5 500
+0 1000 10 P
+ T 0 none~
+#16237
+Dried river weed~
+dried river weed~
+Fishy smelly green scragly nasty sand incrusted river weed that was left out in the sun to long.  Looks tasty.~
+plant~
+pill ITU A
+0
+77 'heal' 'heal' 'reserved' 'reserved'
+110 0 4000 P
+ T 0 none~
+#16240
+Scimitar~
+damascus Scimitar~
+A long sweeping blade with a steel blade that looks to have markings the length of the blade.~
+steel~
+weapon L AN
+0
+sword 18 7 slash CEG
+103 100 0 P
+A
+1 3
+A
+2 3
+A
+18 8
+A
+19 8
+A
+13 16
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#16200
+Trail along the river~
+Small trees and high grass limits vison in all directions.  But a small
+path runs off to the east.  
+~
+0 4 0
+D1
+~
+~
+0 0 16201
+S
+#16201
+Deep into the scrub~
+A sticker bush here grabs at all that passes and the air is still here
+deep inside the tall grass.  Bugs seem to be everywhere flying about.  Off
+in the distance voices can be heard, Brigands have been known to camp around
+here.  
+~
+0 0 2
+D1
+~
+~
+0 0 16202
+D3
+~
+~
+0 0 16200
+S
+#16202
+Turning North~
+The path turns to the North here, the voices can still be heard off to the
+east, but nothing can be seen as of yet. Smoke drifts thru the air but it
+doesn't smell pleasing.  
+~
+0 0 2
+D0
+~
+~
+0 0 16203
+D3
+~
+~
+0 0 16201
+S
+#16203
+Something ahead~
+The sounds get louder as you move closer, There seems to be a small cart
+path ahead coming from the river.  Some movement can also be seen ahead thru
+the brush.  
+~
+0 0 2
+D1
+~
+~
+0 0 16204
+D2
+~
+~
+0 0 16202
+S
+#16204
+On the cart path~
+Up ahead a fort of sorts can be seen, made from tree trunks and limbs it
+makes a suitable wall for keeping out those not wanted inside.  A gate sets
+in the center of the near wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 16205
+D2
+~
+~
+0 0 16207
+D3
+~
+~
+0 0 16203
+S
+#16205
+Closer to the river~
+This cart path seems to have been used for some time by heavily laden
+carts.  Deep ruts make it difficult to walk directly on the path.  The
+sounds of the river can be heard to the north and the camp can still be
+heard to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 16206
+D2
+~
+~
+0 0 16204
+S
+#16206
+The river bank~
+There is a small beach here and it is obvious that small boats or barges
+have been using this area to load and unload cargo.  No craft can be seen
+floating on the river to the north or the south.  
+~
+0 0 2
+D2
+~
+~
+0 0 16205
+S
+#16207
+Opening before the fort~
+This opening brings the fort into full veiw a few people walking outside
+here and there and guards at the gate.  None pay attention to newcomers
+except for the guards at the gate, They keep an eye on all.  
+~
+0 0 2
+D0
+~
+~
+0 0 16204
+D1
+~
+~
+0 0 16208
+S
+#16208
+The guards notice you~
+From here small gardens can be seen to the north and animal pens to the
+south.  The guards seem to take Notice to your advance as do the the others
+in the opening, Who start to whisper to each other and clear the area around
+the guards.  Something tells you there is going to be a fight if you proceed
+to the gate.  
+~
+0 0 2
+D0
+~
+~
+0 0 16209
+D1
+~
+~
+0 0 16211
+D2
+~
+~
+0 0 16210
+D3
+~
+~
+0 0 16207
+S
+#16209
+In the clearing~
+Here people wander around small garden plots collecting food for the many
+people who seem to be inside the walls.  Chickens and ducks also range
+around quick to grab an unfortunate bug.  The wall to the east and some
+prickly brush to the north and west forbid travel in those directions.  
+~
+0 0 2
+D2
+~
+~
+0 0 16208
+S
+#16210
+Hog and chicken pens~
+Some rickity old animal pens barely keep some hogs and a couple old cows
+from moving off here.  The chicken house seems to be made from an large old
+crate.  A woman with an egg basket eye's you warily.  
+~
+0 0 2
+D0
+~
+~
+0 0 16208
+S
+#16211
+A fight breaks out~
+When you advance to the gate the guards jump at you, thru the commotion
+you here a bell sounding inside the walls.  The people who where outside the
+gates seem to disapear into the woods.  You start to wonder if this was a
+good idea.  
+~
+0 0 2
+D1
+~
+gate~
+3 0 16212
+D3
+~
+~
+0 0 16208
+S
+#16212
+Inside the gate~
+Men they be coming from everywhere to squelch the battle, they are not
+well equipped but seem to fight with a vengance.  The alarm bells have quit
+ringing seemingly the toller was sure so few could not be threat.  
+~
+0 0 2
+D0
+~
+~
+0 0 16213
+D1
+~
+~
+0 0 16217
+D2
+~
+~
+0 0 16221
+D3
+~
+~
+3 0 16211
+S
+#16213
+North of the gate~
+An open area North of the gate.  Off to the east is some small buildings
+and an inner wall with another gate.  The North-East corner of the compound
+is just North of here.  
+~
+0 0 2
+D0
+~
+~
+0 0 16214
+D1
+~
+~
+0 0 16216
+D2
+~
+~
+0 0 16212
+S
+#16214
+North West corner~
+Backed into the corner the brigands fight with all their heart, They tap
+into an inner strength fighting to stay alive.  Their faces twist into
+strange shapes as the battle comes to them.  
+~
+0 0 2
+D1
+~
+~
+0 0 16215
+D2
+~
+~
+0 0 16213
+S
+#16215
+Small wall-less structure~
+This small wall-less shack seems to be made to help keep the sun off
+people working under the roof.  Small tables are here with a few chairs
+spred around also.  It looks as if this is some kind of work area preparing
+the crops and meats before cooking. 
+~
+0 0 0
+D2
+~
+~
+0 0 16216
+D3
+~
+~
+0 0 16214
+S
+#16216
+At the Well~
+A large brick well is here, being so close to the river the water is not
+far from the top.  All this fighting makes you wish you could just dunk your
+head in and drink your fill of the cool clear water.  
+~
+0 0 2
+D0
+~
+~
+0 0 16215
+D1
+~
+~
+0 0 16222
+D2
+~
+~
+0 0 16217
+D3
+~
+~
+0 0 16213
+S
+#16217
+Open area~
+This open space gives a clear veiw to the inner wall, men seem to keep
+coming to help fight you off.  There is no grass here all being trampled
+into nonexistence from the steady flow of people.  
+~
+0 0 2
+D0
+~
+~
+0 0 16216
+D1
+~
+~
+0 0 16223
+D2
+~
+~
+0 0 16218
+D3
+~
+~
+0 0 16212
+S
+#16218
+Brush pile~
+This area is used for bonfires for gatherings and who knows what else,
+the ground is charred around the pile and looks like it has been used for
+many years.  
+~
+0 0 2
+D0
+~
+~
+0 0 16217
+D1
+~
+~
+0 0 16224
+D2
+~
+~
+0 0 16219
+D3
+~
+~
+0 0 16221
+S
+#16219
+empty carts~
+Five or six empty carts sit here, Probably used for bring goods from the
+river barges from the mud seen on their wheels 
+~
+0 0 0
+D0
+~
+~
+0 0 16218
+D3
+~
+~
+0 0 16220
+S
+#16220
+South West corner~
+Here the wall turns heading to the inner wall off to the East, There are
+some men looking out over the inner wall starting to look nervous with every
+brigand killed.  
+~
+0 0 0
+D0
+~
+~
+0 0 16221
+D1
+~
+~
+0 0 16219
+S
+#16221
+The fight goes on~
+This small clear area gives the Brigands a chance to swarm their foe, a
+wood pile to the east might be a place to move to.  Or back out the way you
+came would be the best choice.  
+~
+0 0 0
+D0
+~
+~
+0 0 16212
+D1
+~
+~
+0 0 16218
+D2
+~
+~
+0 0 16220
+S
+#16222
+North of the inner gate~
+The gate is just south of here, a few more men stand at entrance guarding
+against intruders.  They look better equiped than the guards at the outer
+gate.  
+~
+0 0 2
+D2
+~
+~
+0 0 16223
+D3
+~
+~
+0 0 16216
+S
+#16223
+The inner gate~
+This gate is alot better build than the previous one and looks to be well
+reinforced, during all the fighting it has been outfitted with a massive
+lock.  
+~
+0 0 2
+D0
+~
+~
+0 0 16222
+D1
+~
+gate~
+3 0 16225
+D2
+~
+~
+0 0 16224
+D3
+~
+~
+0 0 16217
+S
+#16224
+At the inner wall~
+The inner wall is more sound than the outer wall being build mostly of
+timbers and planking, a few men stand at the top of the wall watching the
+action.  
+~
+0 0 2
+D0
+~
+~
+0 0 16223
+D3
+~
+~
+0 0 16218
+S
+#16225
+The inner courtyard~
+Now inside the gate you see that things will probably only get worse,
+picking the lock was alot easyer than killing all these men will be.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 16229
+D1
+~
+~
+0 0 16227
+D2
+~
+~
+0 0 16230
+D3
+~
+gate~
+3 0 16223
+S
+#16226
+~
+~
+0 4 0
+D3
+~
+~
+0 0 16225
+S
+#16227
+heading to the main house~
+The main house is getting closer now and the men are thining out here in
+the courtyard.  The door ahead is guarded by some pretty rugged looking war
+veterans who do not look worryied about your advance.  
+~
+0 4194304 2
+D0
+~
+~
+0 0 16232
+D1
+~
+~
+0 0 16228
+D2
+~
+~
+0 0 16231
+D3
+~
+~
+0 0 16225
+S
+#16228
+To the door~
+A large door blocks the way to the east.  The door looks extrodinarily
+out of place, perhaps a loot from a passing barge.  The golden bracing on
+the door still shines dispite the poor lighting.  
+~
+0 138412032 2
+D1
+~
+~
+1 0 16235
+D3
+~
+~
+0 0 16227
+S
+#16229
+Inner courtyard~
+A large open area where people roam about on their tasks for the
+day, some of them look at the intruders wondering who they might be, but
+others ask no questions, they just attack.
+~
+0 4194304 2
+D0
+~
+~
+0 0 16234
+D1
+~
+~
+0 0 16232
+D2
+~
+~
+0 0 16225
+S
+#16230
+Inner courtyard~
+A large open area where people roam about on their tasks for the day,
+some of them look at the intruders wondering who they might be, but others
+ask no questions, they just attack.  
+~
+0 4194304 2
+D0
+~
+~
+0 0 16225
+D1
+~
+~
+0 0 16231
+S
+#16231
+Inner courtyard~
+A large open area where people roam about on their tasks for the
+day, some of them look at the intruders wondering who they might be, but
+others ask no questions, they just attack.  
+~
+0 4194304 2
+D0
+~
+~
+0 0 16227
+D3
+~
+~
+0 0 16230
+S
+#16232
+Inner courtyard~
+A large open area where people roam about on their tasks for the
+ day, some of them look at the intruders wondering who they might be, but
+others ask no questions, they just attack.
+~
+0 4194304 2
+D0
+~
+~
+0 0 16233
+D2
+~
+~
+0 0 16227
+D3
+~
+~
+0 0 16229
+S
+#16233
+Inner courtyard~
+A large open area where people roam about on their tasks for the
+day, some of them look at the intruders wondering who they might be, but
+others ask no questions, they just attack.
+~
+0 4194304 2
+D2
+~
+~
+0 0 16232
+D3
+~
+~
+0 0 16234
+S
+#16234
+Inner courtyard~
+A large open area where people roam about on their tasks for the
+day, some of them look at the intruders wondering who they might be, but
+others ask no questions, they just attack.
+~
+0 4194304 2
+D1
+~
+~
+0 0 16233
+D2
+~
+~
+0 0 16229
+S
+#16235
+An archer's target.~
+No pirate has ever been trustworthy, so why should they trust anyone
+else?  Perhaps those slits in the doors are more than simply missing boards.
+Speeding arrows ricochet all around, hope one does not hit anything vital.  
+ 
+~
+0 146800640 0
+D0
+~
+~
+3 0 16237
+D1
+~
+~
+0 0 16238
+D2
+~
+~
+3 0 16236
+D3
+~
+~
+1 0 16228
+S
+#16236
+Southern archer's post.~
+An archer's post stands empty.  Apparantly after letting loose his arrows
+the archer has fled his post.  All that is left here is a very large chest
+on the floor.  
+~
+0 408952836 0
+D0
+~
+~
+3 0 16235
+S
+#16237
+Northern archer's post.~
+An archer's post stands empty.  Apparantly after letting loose his arrows
+the archer has fled his post.  All that is left here is a very large chest
+on the floor.  
+~
+0 408952836 0
+D2
+~
+~
+3 0 16235
+S
+#16238
+Safe at last!?!?~
+Away from those nasty archers this hallway seems to an intersection ahead
+to the East, some voices can be heard also.  Darkness prohibits seeing to
+whom they belong.  But they are not the welcome wagon waiting to give you a
+peice of sweetbread.  
+~
+0 406847488 0
+D1
+~
+~
+0 0 16239
+D3
+~
+~
+0 0 16235
+S
+#16239
+An intersection.~
+The hall turns running south or north from here, all the torchs on the
+walls have been extiguished making it impossable to see what lies ahead.  
+~
+0 406847489 0
+D0
+~
+~
+0 0 16241
+D2
+~
+~
+0 0 16240
+D3
+~
+~
+0 0 16238
+S
+#16240
+Dark hallway~
+This hall heading to the south is dark and dank, doors are to the east
+along its length.  A man comes running from the south and Attacks.  More
+voices can be heard to the south and north.  
+~
+0 138412033 0
+D0
+~
+~
+0 0 16239
+D2
+~
+~
+0 0 16250
+S
+#16241
+Dark hallway~
+This hall heading to the north is dark and dank, doors are to the east
+along its length.  A man comes running from the north and Attacks.  More
+voices can be heard to the south and north.  
+~
+0 138412033 0
+D0
+~
+~
+0 0 16242
+D2
+~
+~
+0 0 16239
+S
+#16242
+Dark hallway~
+Doors can be seen ahead in this dreary hallway, the lack of light makes
+it hard to see how far the hall goes on in this direction.  
+ 
+~
+0 138412033 0
+D0
+~
+~
+0 0 16243
+D2
+~
+~
+0 0 16241
+S
+#16243
+Dark hallway~
+Doors can be seen ahead in this dreary hallway, the lack of light makes
+it hard to see how far the hall goes on in this direction.
+~
+0 138412033 0
+D1
+~
+~
+0 0 16244
+D2
+~
+~
+0 0 16242
+S
+#16244
+Dark hallway~
+As the hallway takes a turn some light can be seen up ahead, it flickers
+and dances and must be from an open fire and not a lantern.  Shadows also
+flitter thru the light but nothing can be heard from here.  
+~
+0 138412033 0
+D1
+~
+~
+0 0 16245
+D3
+~
+~
+0 0 16243
+S
+#16245
+Dark hallway~
+To the south you can see movements in the faint light and you wonder if
+it is safe to move on.  The walls feel to be stone here unlike the outer
+hallway.  
+~
+0 138412033 0
+D2
+~
+~
+0 0 16246
+D3
+~
+~
+0 0 16244
+S
+#16246
+Dark hallway~
+To the south you can see movements in the faint light and you wonder if
+it is safe to move on.  The walls feel to be stone here unlike the outer
+hallway. 
+~
+0 138412033 0
+D0
+~
+~
+0 0 16245
+D2
+~
+~
+0 0 16247
+S
+#16247
+Another intersection~
+The hallway comes to an intersection, with halls leading east and west. 
+To the east light a glimmer of light can be seen and to the west a bunk and
+chest can be seen.  
+~
+0 138412033 0
+D0
+~
+~
+0 0 16246
+D1
+~
+~
+0 0 16249
+D3
+~
+~
+0 0 16248
+S
+#16248
+guards room~
+This room belongs to the unmarried guards of the camp, the room is much
+in need of a cleaning and half the things here could be thrown out.  The
+guards are all absent with all the fighting that has been going on.  
+~
+0 138412033 0
+D1
+~
+~
+0 0 16247
+D2
+~
+~
+0 0 16257
+S
+#16249
+Entrance to the great room~
+The light from the large room ahead trickles into the hall here, the
+stone walls rise to a wood and thatch roof.  Doors can be heard closing and
+being bolted and the clatter of swords is coming close.  
+~
+0 138412033 0
+D1
+~
+~
+0 0 16258
+D3
+~
+~
+0 0 16247
+S
+#16250
+Dark hallway~
+Light can bee seen coming from the south, as if a candle or small torch
+is lighting the hall.  Silence consumes the hallway except for soft
+footsteps to the north.  
+~
+0 138412033 0
+D0
+~
+~
+0 0 16240
+D1
+~
+~
+0 0 16251
+D2
+~
+~
+0 0 16252
+D3
+~
+~
+0 0 16253
+S
+#16251
+Private quarters~
+Another private room for one of the families that stay here with little
+or no money to own anything of value.  A small lantern lights the room, the
+stone work here seems to very old and you wonder what this place was before
+being taken over by these brigands.  
+~
+0 406847488 0
+D3
+~
+~
+0 0 16250
+S
+#16252
+Private quarters~
+This room is larger than some of the others and seems to just be a
+hallway that has been closed off on one end to make a room.  Behind the
+drapery hanging to the south a weak wooden wall with large gaps can be seen.
+~
+0 406847488 0
+D0
+~
+~
+0 0 16250
+D2
+~
+~
+0 0 16254
+S
+#16253
+Private quarters~
+This is living quarters for some of the people who reside here.  More
+than likely just manual laborers judgeing from the quality of the items
+here.  Simple clothing, furniture and little of value.  
+~
+0 473957380 0
+D1
+~
+~
+0 0 16250
+S
+#16254
+A dark storage area~
+This area is a jumble of old furniture and odds and ends that must have
+lost their usefullness long ago.  Looking to the north you can see light
+coming thru a hastly built wall.  
+ 
+~
+0 268435457 0
+D0
+~
+~
+0 0 16252
+D1
+~
+~
+0 0 16255
+S
+#16255
+Dark hallway ~
+This dark hallway hasnt been used for some time judging from the dirt on
+the floor , the sharp corner to the west leads the hallway to the North
+Cobwebs cover the walls and ceiling, stringing into your face as you walk
+thru.  
+~
+0 406847489 0
+D1
+~
+~
+0 0 16256
+D3
+~
+~
+0 0 16254
+S
+#16256
+Dank Corner~
+This dark corner in the hallway is quite and almost peacefull after all
+that has come before.  It almost draws you into thinking it would be safe to
+sit down and rest for a bit before going no.  
+~
+0 138412033 0
+D0
+~
+~
+0 0 16257
+D3
+~
+~
+0 0 16255
+S
+#16257
+Corridor~
+This corridor connects to the guards room and serves for a little spare
+room for them to stash their "stash".  What ever they stash it doesnt smell
+all that great.  
+~
+0 1 0
+D0
+~
+~
+0 0 16248
+D2
+~
+~
+0 0 16256
+S
+#16258
+A very large room~
+~
+0 138412033 0
+D3
+~
+~
+0 0 16249
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 16211 1 1
+D 0 16212 3 1
+D 0 16223 1 2
+D 0 16225 3 2
+D 0 16228 1 1
+D 0 16235 0 1
+D 0 16235 2 1
+D 0 16235 3 1
+D 0 16236 0 1
+D 0 16237 2 1
+M 0 16200 1 16200 1 100 Load Rolland's bitch.
+E 0 16200 0 15 0 100 Bracelet is loaded on the left wrist of Rolland's bitch.
+M 0 16209 5 16209 1 100 Load Brigand gardener
+M 0 16210 1 16210 1 100 Load Egg Lady
+E 0 16210 0 19 0 100 Egg shaped cuendillar pendant. is loaded held in the hands of Egg Lady
+M 0 16211 2 16211 2 100 Load Gate guard
+M 0 16211 2 16211 2 100 Load Gate guard
+M 0 16217 5 16214 2 100 Load Brigand
+M 0 16215 5 16215 1 100 Load Errand Boy
+M 0 16214 1 16215 1 100 Load A bloody man
+M 0 16217 6 16217 2 100 Load Brigand
+M 0 16225 1 16225 1 100 Load A gate keeper
+G 0 16226 0 0 0 100 A very large steel key is given to A gate keeper
+M 0 16227 5 16227 3 100 Load Large brigand
+M 0 16228 1 16228 1 100 Load a short man
+M 0 16234 3 16234 1 100 Load A brigand laborer
+O 0 16236 0 16236 0 100 Very large chest loaded to Southern archer's post.
+P 0 16237 1 16236 1 100 Dried river weed put inside dried river weed
+O 0 16236 0 16237 0 100 Very large chest loaded to Northern archer's post.
+P 0 16235 1 16236 1 100 Dried river root put inside dried river root
+M 0 16240 3 16240 1 100 Load A large hall guard
+M 0 16240 3 16241 1 100 Load A large hall guard
+M 0 16240 3 16247 1 100 Load A large hall guard
+E 0 16240 0 17 0 100 Damascus scimitar is loaded wielded of A large hall guard
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

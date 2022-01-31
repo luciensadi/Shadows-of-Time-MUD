@@ -1,0 +1,77 @@
+Quest 12 0 Elden the Brewer~
+End
+Quest 10 0 Raz intro~
+End
+Quest 7 1 Mice for the Cellar Beggar.~
+Step 0 As you kill mice, bring the corpse to the begger for your reward.
+
+~
+End
+Quest 6 7 Westren Woods~
+Step 0 Got to The Gleemans Passage.  Look for a man with a scar on his right cheek and give him the scroll.
+
+~
+Step 1 Go to the Westren Woods and kill the Draghkar's.
+
+~
+Step 2 You have 4 more Draghkar's to kill.
+
+~
+Step 3 You have 3 more Draghkar's to kill.
+
+~
+Step 4 You have 2 more Draghkar's to kill.
+
+~
+Step 5 You have 1 more Draghkar to kill.
+
+~
+Step 6 Go back to the Gleeman for further instructions.
+
+~
+End
+Quest 5 1 Running Man~
+Step 0 Find Justin somewhere near the southren gates of Falme and give him the scroll.
+
+~
+End
+Quest 4 5 Katar's Wish~
+Step 0 Go to the Aes Sedai staying at the Katar Inn on the second floor and recieve a letter
+
+~
+Step 1 Follow the Directions of the Letter Recieved and carry out the Lady's wishes
+
+~
+Step 2 Get Information from Katar's Libarian located within the castle walls
+
+~
+Step 3 Face the Demonic Shadowspawn and name it for what it is "Shadowspawn" then proceed to
+
+slay the Shadowspawn.
+
+~
+Step 4 Once you have Slayed the Demon go to the Lady's Servent and inform her that you have completed the task to claim your prize
+
+~
+End
+Quest 1 0 Test~
+End
+Quest 2 0 Pella Elixer Quest~
+End
+Quest 9 0 ~
+End
+Quest 3 0 Santa Clause Quest~
+End
+Quest 8 0 Machael introduction~
+End
+Quest 13 2 Aruncus~
+Step 0 Go to Four Kings and look for the flower. Then return it for the next step.
+
+~
+Step 1 Goto Caralain Grass and look for a plant growing on the bank of a small
+
+stream.  Bring it to Aruncus.  
+
+~
+End
+#End

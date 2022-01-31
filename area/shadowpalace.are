@@ -1,0 +1,2808 @@
+#AREADATA
+Name Shadowspawn Palace~
+Builders Demandred~
+VNUMs 17000 17100
+Credits `4[`7 Hard `4]`7 Demandred Shadowspawn Palace~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#17000
+Trolloc~
+A Trolloc~
+A Giant Trolloc is standing at the gate here. 
+~
+This trolloc looks bigger than most of the others. 
+~
+giant~
+0 0
+ABTc 80 1024 0 0 -1  -1000 0
+130 100 25000d1+10 0d0+0 1d100+5 slash
+-50 -50 -50 -50
+CEFHIJOPQR AEHMV ABCDEFGHIJK JP
+stand stand male  500
+AHMV ABCDEFGHIJK large unknown
+#17001
+Trolloc~
+A Trolloc~
+A Huge trolloc is standing here 
+~
+This trolloc is enourmous 
+~
+unique~
+0 0
+ABGT 80 1024 0 0 -1  0 0
+121 120 27000d1+30 0d0+0 160d1+50 pierce
+-50 -50 -50 -50
+IKPQR AEHMV ABCDEFGHIJK JKP
+stand stand male  600
+AHMV ABCDEFGHIJK medium unknown
+#17002
+Trolloc Guard~
+A Trolloc Guard~
+A Trolloc Guard wanders about checking on cook pots and other things. 
+~
+Looks like a normal trolloc but with something different 
+~
+unique~
+0 0
+ABGc 16 1024 0 0 -1  -800 0
+120 150 29000d1+501 0d0+0 1d50+25 pound
+-50 -50 -50 -49
+IKPR AHMV ABCDEFGHIJK JKP
+stand stand male  239
+AHMV ABCDEFGHIJK medium unknown
+#17003
+Weird Sentry~
+Weird Sentry~
+A Weird looking Sentry is here patroling the grounds
+~
+This sentry looks like a cross between a fade and a greyman
+~
+unique~
+0 0
+AGTc 320 64 0 0 -1  -1000 0
+123 111 23000d1+111 0d0+0 120d1+0 blast
+-50 -50 -50 -50
+KP AHMV ABCDEFGHIJK KP
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#17004
+Trolloc Sentry~
+A Trolloc Sentry~
+A Massive Trolloc with an armor like scale hide is partoling this area 
+~
+This trolloc is huge is skin looks like some sort of scale mail 
+~
+unique~
+0 0
+ABT 80 1024 0 0 -1  -1000 0
+125 101 25000d1+2 0d0+0 100d1+25 crush
+-50 -50 -50 -50
+CEIKPQR AEHMV ABCDEFGHIJK JKP
+stand stand male  419
+AHMV ABCDEFGHIJK large unknown
+#17005
+A Sister of the Black Ajah~
+A Sister of the Black Ajah~
+A Sister of the Black Ajah is here tending to the wounds of the Great
+Masters Army 
+~
+She looks just like an Aes Sedai 
+~
+unique~
+0 0
+ABac 336 1024 0 0 -1  0 0
+100 200 1000d1+0 20000d1+2 15d1+0 slap
+-50 -50 -50 -50
+0 CG 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 17005 100~
+#17007
+Darkfriend Soldier~
+A DarkFriend Soldier~
+A Darkfriend Soldier is here 
+~
+He looks very angry 
+~
+unique~
+0 0
+ABSc 1104 0 0 0 -1  0 0
+120 95 21000d1+20 0d0+0 1d100+50 none
+-50 -50 -50 -50
+INPQR AHMV ABCDEFGHIJKLQ IJR
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+#17008
+DarkFriend~
+A DarkFriend~
+A Darkfriend is wandering about here trying not to be noticed 
+~
+Looks normal 
+~
+unique~
+0 0
+AGS 0 64 128 0 -1  -1000 0
+123 111 23000d1+12 0d0+0 115d1+1 stab
+-50 -50 -50 -50
+FKPQR 0 BJ HZ
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#17009
+Fade~
+A Fade~
+A Fade is here practiceing various forms 
+~
+Looks like a big fade 
+~
+unique~
+0 0
+ABRT 464 1025 1152 0 -1  -1000 0
+130 100 30000d1+400 100d100+100 1d100+3 slash
+-50 -50 -50 -50
+EFHKPQR AM IQ N
+stand stand none 268
+AHMV ABCDEFGHIJK medium unknown
+#17010
+Darkfriend Guard~
+A DarkFriend Servent~
+A Darkfriend Servent is here sitting in front of a door 
+~
+~
+unique~
+0 0
+ABRc 0 2112 1152 0 -1  0 0
+120 120 20000d1+90 100d100+500 1d120+2 slap
+-50 -50 -50 -50
+DEHIPQR I E B
+stand stand female 300
+AHMV ABCDEFGHIJK medium unknown
+#17011
+Circle Leader~
+A Low Class Circle Leader~
+A Circle Leader is here training her minions
+~
+~
+unique~
+0 0
+ABGSce 260 0 17537 512 -1  -1000 0
+130 120 30000d1+30 0d0+0 90d1+40 slap
+-55 -55 -55 -55
+EFJKN OP HIJ M
+stand stand female 20000
+AHMV ABCDEFGHIJK giant unknown
+M GRALL 17011 100~
+#17012
+Trolloc Soldier~
+A Trolloc Soldier~
+A Trolloc Soldier wanders about here 
+~
+~
+unique~
+0 0
+AGT 80 1024 1024 0 -1  -1000 0
+121 0 21000d1+4 0d0+0 100d1+10 pound
+-50 -50 -50 -50
+FHKPQR AHMV ABCDEFGHIJK JKP
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#17013
+Trolloc Corpse~
+A Trolloc Corpse~
+A Trolloc Corpse is stumbling about here. 
+~
+~
+unique~
+0 0
+ABO 0 24576 0 0 -1  500 0
+120 30 20000d1+200 0d0+0 100d1+5 grep
+-50 -50 -49 -50
+FIKPQR AHMV ABCDEFGHIJK JKP
+stand stand none 500
+AHMV ABCDEFGHIJK medium unknown
+#17014
+Trolloc Archer~
+A Trolloc Archer~
+A Trolloc Archer is here watching for intruders 
+~
+~
+unique~
+0 0
+ABGc 80 1024 1024 0 -1  -1000 0
+126 130 26000d1+2 0d0+0 90d1+8 sting
+-50 -50 -50 -50
+IKPQR AHMV ABCDEFGHIJK JKP
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+#17015
+Fade Archer~
+A Fade Archer~
+A Fade Archer is here keeping watch 
+~
+~
+unique~
+0 0
+ABGTc 80 1024 1024 0 -1  -1000 0
+129 145 29000d1+1 0d0+0 115d1+0 sting
+-50 -50 -50 -50
+IPQU A I N
+stand stand none 333
+AHMV ABCDEFGHIJK medium unknown
+#17017
+Burnt Corpse~
+A Burnt Corpse~
+A Burnt Corpse is standing here. 
+~
+~
+unique~
+0 0
+ABO 0 16384 1024 0 -1  1000 0
+119 10 19000d1+0 0d0+0 50d1+10 bite
+-49 -49 -49 -49
+CKPQR 0 H K
+stand stand none 120
+AHMV ABCDEFGHIJK medium unknown
+#17018
+Trolloc Archer~
+A Trolloc Archer~
+A Trolloc Archer is here 
+~
+~
+unique~
+0 0
+ABT 88 1024 1024 0 -1  -1000 0
+123 99 23000d1+1 0d0+0 100d1+0 sting
+-50 -50 -50 -50
+KPQR AHMV ABCDEFGHIJK JKP
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#17019
+Elite Fade Archer~
+An Elite Fade Archer~
+An Elite Fade Archer is here keeping watch 
+~
+~
+unique~
+0 0
+ABTc 256 64 0 0 -1  -1000 0
+130 150 30000d1+0 0d0+0 120d1+0 sting
+-50 -50 -50 -50
+IPQR E I N
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#17020
+GreyMan~
+A GreyMan~
+A GreyMan is here swiftly practicing the deadly arts 
+~
+~
+unique~
+0 0
+ABFSZc 80 1091 3201 516 -1  -1000 0
+131 150 31000d1+1 100d100+50 95d1+45 stab
+-55 -55 -55 -60
+EIKNPQRU EP BJMO HIZ
+stand stand none 15000
+AHMV ABCDEFGHIJK giant unknown
+#17022
+Trolloc Butcher~
+A Trolloc Butcher~
+A Rather big Trolloc is here covered in blood 
+~
+~
+unique~
+0 0
+ABT 256 64 1024 0 -1  -900 0
+121 100 21000d1+2 0d0+0 90d1+3 cleave
+-50 -50 -50 -50
+FIKPQR AEHMV ABCDEFGHIJK JKP
+stand stand male  213
+AHMV ABCDEFGHIJK medium unknown
+#17025
+Trolloc Beast~
+A Trolloc Beast~
+A Trolloc is wandering about here on four legs 
+~
+~
+unique~
+0 0
+AB 0 0 1024 0 -1  -1000 0
+120 90 20000d1+10 0d0+0 100d1+1 bite
+-50 -50 -50 -50
+FHIKPQR AHMV ABCDEFGHIJK JKP
+stand stand male  314
+AHMV ABCDEFGHIJK medium unknown
+#17026
+Creature~
+A Creature~
+A weird looking Creature is standing here 
+~
+~
+unique~
+0 0
+ABF 0 0 1024 0 -1  -1000 0
+125 0 25000d1+3 0d0+0 150d1+0 slash
+-50 -50 -50 -50
+FKPQR AEHMV ABCDEFGHIJK JKP
+stand stand none 367
+AHMV ABCDEFGHIJK medium unknown
+#17027
+vine monster~
+A Vien Creature~
+A Wierd looking Creature is hanging from a Vein 
+~
+~
+unique~
+0 0
+ABF 0 0 1024 0 -1  500 0
+120 120 20000d1+1 0d0+0 100d1+20 crush
+-48 -48 -48 -49
+FIKNOPQR I H 0
+stand stand none 389
+AHMV ABCDEFGHIJK medium unknown
+#17030
+Fade Torturer~
+A Fade Torturer~
+A Fade is here Torturing someone. 
+~
+~
+unique~
+0 0
+ABT 256 64 1024 0 -1  -1000 0
+128 120 28000d1+1 0d0+0 120d1+5 pound
+-50 -50 -50 -50
+HIKPQR I K H
+stand stand none 421
+AHMV ABCDEFGHIJK medium unknown
+#17031
+Dreadlord Trainer~
+Dreadlord Trainer~
+A Dreadlord is here Teaching his minions new talents
+~
+~
+unique~
+0 0
+ABGb 260 0 1024 0 -1  -500 0
+130 200 30000d1+3 0d0+0 10d50+80 blast
+-50 -50 -50 -50
+0 B 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 17031 100~
+#17032
+Enslaved Aes Sedai~
+An Enslaved Aes Sedai~
+The shadow's personal Enslaved Aes Sedai is chained here.
+~
+~
+unique~
+0 0
+ABGac 340 2 0 0 -1  1000 0
+100 0 1d1+999 100d100+100 30d1+44 slash
+-50 -50 -50 -50
+0 AB CD 0
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 17032 100~
+#17033
+Trolloc Guard~
+A Trolloc Guard~
+A Trolloc Guard is here.
+~
+~
+unique~
+0 0
+ABF 0 16384 0 0 -1  -1000 0
+120 70 20000d1+200 0d0+0 50d1+10 blast
+-50 -50 -50 -50
+KP AHMV ABCDEFGHIJK JKP
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+#17034
+prisoner~
+A Prisoner~
+A Prisioner is here begging for his life.
+~
+~
+unique~
+0 0
+AB 0 16896 1024 0 -1  0 0
+100 2 10000d1+400 0d0+0 30d1+1 pound
+-45 -45 -40 -40
+0 0 0 0
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+#17035
+Trolloc Torture Assistant~
+A Trolloc Torture Assisitant~
+A Torture Assistiant is here examining various tools
+~
+~
+unique~
+0 0
+ABTc 0 8256 0 0 -1  -1000 0
+120 50 20000d1+31 0d0+0 50d1+15 pierce
+-50 -50 -50 -50
+KP AHMV ABCDEFGHIJK KP
+stand stand male  400
+AHMV ABCDEFGHIJK medium unknown
+#17036
+Rotted Corpse~
+A Rotted Corpse~
+A Rotted Corpse is lying in the machine
+~
+~
+unique~
+0 0
+ABGO 0 16896 0 0 -1  500 0
+70 100 7000d1+80 0d0+0 20d1+20 grep
+-30 -30 -30 -30
+E I MQ H
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+#17037
+Weird Creation Creature~
+A Weird Creature~
+A Weird looking Creature is sitting on a giant table near the back of the room.
+~
+This Creation looks like a cross between a trolloc, a fade, a greyman, and
+a Dragkgar
+~
+unique~
+0 0
+ABFOc 336 9280 17408 512 -1  -1000 0
+130 150 30000d1+20 100d100+60 100d1+10 claw
+-65 -65 -65 -70
+BEFHKMQRU EJOPQX BIMP H
+stand stand none 10000
+AHMV ABCDEFGHIJK giant unknown
+#17038
+Weird Creation~
+a Weird Creation~
+A Weird looking Creature is here posing as a lookout.
+~
+This creation is a cross between a Trolloc and a Dragkgar but also has 4 tenticles
+~
+unique~
+0 0
+ABQc 32848 0 0 0 -1  -500 0
+100 50 10000d1+21 100d100+500 40d1+9 whip
+-40 -40 -40 -40
+KP AHMV ABCDEFGHIJK KP
+stand stand male  200
+AHMV ABCDEFGHIJK medium unknown
+#17039
+Archer~
+A Slave Archer~
+A Slave Archer is here watching the grounds.
+~
+~
+unique~
+0 0
+ABFT 16 1024 0 0 -1  -600 0
+100 100 10000d1+2 0d0+0 50d1+5 sting
+-40 -40 -40 -42
+0 0 0 0
+stand stand male  350
+AHMV ABCDEFGHIJK medium unknown
+#17040
+Dreadlord Trainee~
+A Dreadlord Trainee~
+A Dreadlord in training is training here
+~
+~
+unique~
+0 0
+ABFT 33104 8256 1152 4096 -1  -1000 0
+130 150 30000d1+0 100d100+150 100d1+40 slash
+-60 -60 -60 -65
+CEIKPQRU BEOP J 0
+stand stand female 10000
+AHMV ABCDEFGHIJK giant unknown
+#17041
+Circle Leader Trainee~
+A Circle Leader Trainee~
+A Circle Leader in Training is here practicing various fighting stances
+~
+~
+unique~
+0 0
+ABFSe 336 9280 19456 4096 -1  -1000 0
+129 145 29000d1+3 100d100+40 100d1+25 pierce
+-55 -55 -55 -60
+BIJKPQRU EOP I 0
+stand stand male  10000
+AHMV ABCDEFGHIJK giant unknown
+#17042
+Rotted Parts~
+A Mound Of Parts~
+A Mound of flesh and parts is sitting here
+~
+????
+~
+unique~
+0 0
+ABFO 1104 10304 0 0 -1  -1000 0
+120 115 20000d1+20 100d100+500 100d1+0 digestion
+-50 -50 -50 -50
+I AHMV ABCDEFGHIJKLQ IKP
+stand stand none 320
+AHMV ABCDEFGHIJK huge unknown
+#17044
+Friend of the Dark~
+A Friend of the Dark~
+A Friend of the Dark is wandering about here looking over some reports
+~
+~
+unique~
+0 0
+AGTc 16 8257 0 0 -1  -700 0
+122 112 22000d1+30 1d1+2000 90d1+10 slash
+-50 -50 -50 -50
+0 B EF P
+stand stand male  800
+AHMV ABCDEFGHIJK medium unknown
+#17045
+Mutate~
+A Mutate~
+A Mutate crawls around here
+~
+~
+aiel~
+0 0
+ABFGe 2304 64 0 0 -1  0 0
+10 -100 12000d1+2500 100d100+100 25d10+20 punch
+0 0 0 50
+HRU 0 J DH
+stand stand male  20000
+AHMV ABCDEFGHIJK medium unknown
+#17046
+Creature Blob~
+a blob of parts~
+A blob of parts lay here
+~
+~
+modron~
+0 0
+ABGT 80 0 0 0 -1  -1000 0
+100 100 10000d1+1 100d100+100 25d10+25 bite
+-50 -50 -50 -40
+DFHKQR BMNPQ HIK 0
+stand stand none 40000
+H ABCGHJK medium unknown
+#17047
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#17048
+cursed flesh creature~
+A Cursed Flesh Creature~
+A Cursed Flesh creature is here busy with something
+~
+~
+wyvern~
+0 0
+ABFGTe 33024 33792 128 0 -1  -1000 0
+250 300 1d1+50000 100d100+100 100d1+200 sting
+-100 -100 -100 -100
+CEFHK ABL K S
+stand stand none 100000
+ABGZ ACDEFHJKQVX giant unknown
+#17052
+Bone Creature~
+A Creature made of Bone~
+A Creature of Bone stands here
+~
+~
+modron~
+0 0
+ABFGTe 336 1088 0 0 -1  -1000 0
+132 350 32000d1+0 100d100+100 100d1+75 claw
+-75 -75 -75 -70
+CKOQR ABMNPQ HIK 0
+stand stand none 100000
+H ABCGHJK medium unknown
+#17060
+Small White and Black Scorpian~
+A Small White and Black Scorpian~
+A Small White and Black Scorpian crawls about here
+~
+The shell of the scorpian is in the pattern of white and black stripes
+~
+centipede~
+0 0
+ABFTY 0 64 0 0 -1  -1000 0
+120 120 20000d1+500 0d0+0 100d1+25 sting
+-50 -50 -50 -50
+AFHK AH FI E
+stand stand none 10000
+ABGO ACK small unknown
+#17061
+Beetle~
+a giant beetle~
+A giant beetle is crawling about here
+~
+~
+centipede~
+0 0
+ABFZ 336 64 0 0 -1  0 0
+100 -300 10000d1+1000 0d0+0 100d1+60 bite
+-40 -40 -40 -40
+HR 0 FI E
+stand stand none 9000
+ABGO ACK medium unknown
+#17065
+Prison Keeper~
+The Cell Keeper~
+An Old Corpse is lying here on the floor
+~
+~
+dragon~
+0 0
+ABFe 336 1088 0 0 -1  -1000 0
+150 500 20000d1+5 0d0+0 100d1+65 blast
+-100 -100 -100 -100
+ACKOR ABb BCEHIQ S
+stand stand none 10000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+F vul FI
+M GRALL 17065 100~
+#17066
+Zulo~
+A Zulo~
+A Giant Creature is sitting here eating something
+~
+~
+dragon~
+0 0
+ABFGYe 336 1088 0 0 -1  -1000 0
+160 500 30000d1+0 0d0+0 50d50+80 chomp
+-100 -100 -100 -120
+ACDHKR ABLOb BCEHIa S
+stand stand male  20000
+ABGHZ ACDEFGHIJKPQUVX medium unknown
+F vul FI
+M GRALL 17066 100~
+#17067
+giant wasp~
+A Giant Wasp~
+A Giant Wasp is here ready to sting you.
+~
+~
+dragon~
+0 0
+ABFG 80 64 0 0 -1  -1000 0
+120 475 15000d1+860 10000d1+9000 100d1+52 sting
+-100 -100 -100 -100
+ACFK BJOQ EKLT b
+stand stand none 10000
+AHZ ACDEFGHIJKPQUVX giant unknown
+F res BH
+F vul FI
+#17068
+Black Skeleton~
+A Black Skeleton~
+A Black Skeleton is standing here
+~
+This skeleton looks like it has been here for quite some time
+It's bones seem to have been tinted a black colour
+~
+dragon~
+0 0
+ABFe 336 1088 0 0 -1  -1000 0
+155 500 25000d1+600 10000d1+800 100d1+60 slash
+-100 -100 -100 -100
+ADFHKR ABIQb BCEHK 0
+stand stand none 29000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+F vul FI
+M GRALL 17068 100~
+#17069
+Torturer~
+A Torturer~
+Some sort of creature is here playing with various Torture tools
+~
+~
+dragon~
+0 0
+ABFe 336 1088 0 0 -1  -1000 0
+157 500 27000d1+450 8000d1+90 100d1+65 cleave
+-100 -100 -100 -100
+ACKQ BMNPQb BCEHIK 0
+stand stand none 10000
+AHZ ABCDEFGHIJKPQUVX large unknown
+F vul FI
+M GRALL 17069 100~
+#17071
+Nat~
+A Nat~
+A mutated Nat is flying around here
+~
+~
+dragon~
+0 0
+ABFG 80 64 0 0 -1  -1000 0
+110 250 15000d1+1500 30000d1+0 100d1+11 sting
+-60 -60 -60 -100
+CFHR ABL BCEH S
+stand stand none 5000
+ABGHZ ACDEFGHIJKPQUVX small unknown
+F vul FI
+#17073
+Undead Channeler~
+An Undead Channeler~
+A Man in a Dark Cloak is sitting at the desk reading over some papers
+~
+~
+dragon~
+0 0
+ABFc 336 8257 0 0 -1  -1000 0
+160 500 30000d1+200 30000d1+0 100d1+85 drain
+-120 -120 -120 -150
+ADEFHKR ABKb BCDEHb 0
+stand stand male  30000
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+F vul FI
+M GRALL 17073 100~
+#17079
+Infested Channeler~
+An Infested Channeler~
+An Ancient Body is here convered in insects
+~
+~
+dragon~
+0 0
+ABFe 336 64 0 0 -1  -1000 0
+153 500 23000d1+1000 10000d1+1000 100d1+92 frbite
+-140 -140 -140 -140
+AFHKR ABKQb BCDEHL a
+stand stand none 25000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+F vul FI
+M GRALL 17079 100~
+#17080
+Giant White Scorpian~
+A Giant White Scorpian~
+A Giant White Scorpian is standing here
+~
+~
+dragon~
+0 0
+ABFc 336 1088 0 1028 -1  -1000 0
+160 500 30000d1+0 20000d1+90 100d1+107 sting
+-155 -155 -155 -155
+ACFHKMO ABNQRXb BCDEFHI a
+stand stand none 50000
+ABGHOZ ACDEFGHIJKPQUVX huge unknown
+F vul FI
+M GRALL 17080 100~
+#0
+
+
+
+#OBJECTS
+#17000
+Greyman's Armor~
+a Dark plate of Greyman's Armor~
+Some dark armor lays here in a heap.~
+unknown~
+armor ABYa AD
+0
+BCDF BCDF BCDF BCDF 0
+110 120 0 P
+A
+13 40
+A
+19 9
+A
+18 9
+ T 0 none~
+#17001
+black bow~
+a dark black bow~
+a bow lays uncocked here~
+~
+weapon ABCEJU AN
+0
+bow 10 14 pierce E
+110 25 400 P
+A
+18 6
+A
+19 10
+ T 0 none~
+#17002
+dark potion~
+a dark black potion~
+a dark black potion is here~
+~
+potion AB A
+0
+75 'sanctuary' 'haste' 'fly' ''
+100 5 500 P
+A
+0 0
+ T 0 none~
+#17003
+dark black ring~
+a dark black ring~
+a dark black ring lays here~
+~
+armor ABCEGH AB
+0
+0 0 0 0 0
+105 10 500 P
+F
+A   0   0         15
+ T 0 none~
+#17004
+black greaves~
+black long length greaves~
+a pair of unholy greaves lays here.~
+~
+armor ABCE AF
+0
+CE BCDE DF CE 0
+105 20 0 P
+A
+18 8
+A
+19 8
+ T 0 none~
+#17005
+dark sleeves necromancy~
+dark sleeves of necromancy~
+dark sleeves of evil are here.~
+~
+armor ABCEGH AI
+0
+0 0 0 0 0
+105 25 500 P
+A
+13 50
+A
+12 50
+A
+25 -5
+A
+20 5
+A
+18 5
+A
+19 5
+ T 0 none~
+#17009
+Fade's Arm Plates~
+circle Leader Arm Plates~
+A Dark pair of Arm Plates have been left here~
+unknown~
+armor ABJY AI
+0
+BCDE BCDE BCDE BCDE 0
+70 100 0 P
+A
+13 50
+A
+20 -1
+ T 0 none~
+#17034
+weapon test~
+(no short description)~
+(no description)~
+unknown~
+weapon 0 AO
+0
+exotic 0 0 none 0
+1 0 0 P
+ T 0 none~
+#17037
+Creature's Claws~
+creature's Claws~
+A set of claws has been left here~
+unknown~
+armor ABYa AH
+0
+BDE BDE BDE BDE 0
+110 100 0 P
+A
+17 -13
+A
+12 2
+A
+18 8
+A
+19 8
+A
+13 30
+ T 0 none~
+#17038
+Shadow Black Cloak~
+`3The `1Legendary `&Sh`*ad`8ow Cloak `*Of `1Blood`*~
+A cloak is lying here and seems to be bleeding~
+unknown~
+armor ABYd AK
+0
+BCEF BCEF BCEF BCEF 0
+150 100 0 P
+A
+18 11
+A
+19 12
+A
+13 100
+ T 0 none~
+#17039
+Wrist Plate of Blood~
+`8The `&Wris`*tp`8late `*Of `1Blo`!o`1d`*~
+A bleeding wristplate lies here~
+unknown~
+armor ABYd AM
+0
+0 0 0 0 0
+110 100 0 P
+A
+20 -10
+A
+18 10
+A
+19 9
+A
+13 22
+ T 0 none~
+#17040
+Dreadlord's Belt~
+`7Dreadlord's Belt~
+A Fine looking belt has been left here~
+unknown~
+armor AB AL
+0
+ABF ABF ABF ABF 0
+110 50 0 P
+A
+20 -7
+A
+19 8
+A
+18 8
+A
+12 5
+A
+13 20
+ T 0 none~
+#17041
+Circle Leader Helm~
+circle Leader's Helm~
+A Fine looking helmet is lying here~
+unknown~
+armor ABC AE
+0
+ABF ABF ABF ABF 0
+110 10 0 P
+A
+20 -8
+A
+18 8
+A
+19 8
+A
+12 10
+A
+13 10
+ T 0 none~
+#17045
+Legend Power Gauntlets~
+`&(`!Legendary`&) `8Dark `1Gauntlets `&Of `#Po`*w`&er`*~
+Gauntlets of Immence Power are lying here~
+unknown~
+armor GHIYd AH
+0
+BDF BDF BDF BDF 0
+110 100 5000 P
+A
+18 8
+A
+19 8
+A
+13 40
+A
+17 -10
+A
+20 -5
+A
+12 7
+ T 0 none~
+#17046
+Legend Shield Wisdom~
+`&(`!Legendary`&) `1Shield `&Of `^Wi`$sd`4om`*~
+A Legendary Object is lying here~
+unknown~
+armor GHIYd AJ
+0
+BDF BDF BDF BDF 0
+110 100 5000 P
+A
+12 100
+A
+18 6
+A
+19 7
+A
+13 2
+ T 0 none~
+#17047
+Legend Mask Courage~
+`&(`!Legendary`&) `&Light `1Mask `&Of `@Cou`&r`2age`*~
+A legendary Mask is here~
+unknown~
+armor GHIYd AR
+0
+BDF BDF BDF BDF 0
+110 100 5000 P
+A
+13 100
+A
+18 7
+A
+19 6
+A
+12 2
+ T 0 none~
+#17048
+Legend Master Sword~
+`&(`!Legendary`&) `2The `$Mas`4ter `#S`&word`*~
+The Master Sword is lying here~
+unknown~
+weapon GHKYad AN
+0
+sword 76 1 slice ABG
+150 200 900 P
+A
+18 11
+A
+19 11
+A
+20 -5
+A
+13 68
+ T 0 none~
+#17049
+Mark~
+a Heron Mark Blade~
+The sword of a ture swordsmaster is lying here~
+unknown~
+weapon ABGHIYad AN
+0
+sword 75 1 slice ACD
+110 300 0 P
+A
+12 -32
+A
+13 50
+A
+18 10
+A
+20 -10
+A
+19 10
+ T 0 none~
+#17050
+bone leggings~
+a Pair Of Bone Leggings~
+A set of bone leggings lay here~
+unknown~
+armor ABHYa AF
+0
+ABF ABF ABF ABF 0
+110 100 0 P
+A
+12 10
+A
+19 8
+A
+18 8
+A
+20 -5
+A
+13 15
+ T 0 none~
+#17052
+helm of bone~
+a Helmet Of Bone~
+A skull of a bone creature is lying here.~
+unknown~
+armor ABYa AE
+0
+CF CF CF BDF 0
+110 100 0 P
+A
+20 -4
+A
+19 8
+A
+18 8
+A
+13 30
+ T 0 none~
+#17053
+1st Seal~
+`1The `&1st `8Seal`*~
+One of the Dark One's Seal's is lying here~
+cuendillar~
+treasure AHIOYa A
+0
+0 0 0 0 0
+120 100 0 P
+ T 0 none~
+#17054
+2nd Seal~
+`1The `&2nd `8Seal`*~
+The 2nd of the Dark One's Seals is lying here~
+cuendillar~
+treasure AHIOYa A
+0
+0 0 0 0 0
+120 100 0 P
+ T 0 none~
+#17055
+3rd Seal~
+`1The `&3rd `8Seal`*~
+The 3rd of the Dark One's Seals is lying here~
+cuendillar~
+treasure AHIOYa A
+0
+0 0 0 0 0
+120 100 0 P
+ T 0 none~
+#17056
+4th Seal~
+`1The `&4th `8Seal`*~
+The 4th of the Dark One's Seals is lying here~
+cuendillar~
+treasure AHIOYa A
+0
+0 0 0 0 0
+120 100 0 P
+ T 0 none~
+#17057
+5th Seal~
+`1The `&5th `8Seal`*~
+The 5th of the Dark One's Seals is lying here~
+cuendillar~
+treasure AHIOYa A
+0
+0 0 0 0 0
+120 100 0 P
+ T 0 none~
+#17058
+6th Seal~
+`1The `&6th `8Seal`*~
+The 6th of the Dark One's Seals is lying here~
+cuendillar~
+treasure AHOYa A
+0
+0 0 0 0 0
+120 100 0 P
+ T 0 none~
+#17059
+7th Seal~
+`1The `&7th `8Seal`*~
+The 7th of the Dark One's Seals is lying here~
+cuendillar~
+treasure AHOYa A
+0
+0 0 0 0 0
+120 100 0 P
+ T 0 none~
+#17060
+clue tablet~
+`&The `81st `4Tablet`*~
+You will find the second tablet in the ruined city of Jehnnah.  Go 4 east and 1 south from the spot that rand defeated the ancient evil.~
+unknown~
+trash A A
+0
+0 0 0 0 0
+120 100 0 P
+ T 0 none~
+#17061
+clue tablet~
+`&The `82nd `4Tablet`*~
+The last tablet can be found deep within the walls of the Shadow's keep. finding all 3 and placed in the room of the last tablet will bring forth an old and dark evil.~
+unknown~
+trash A A
+0
+0 0 0 0 0
+120 100 0 P
+ T 0 none~
+#17063
+clue tablet~
+`&The `83rd `4Tablet`*~
+This is the Final Tablet place all 3 on the floor and wait .. you will soon not be alone..~
+unknown~
+trash A A
+0
+0 0 0 0 0
+120 100 0 P
+ T 0 none~
+#17065
+Prison Keepers belt~
+a Prison Keepers Belt~
+A belt is lying here, seems like it could hold a few keyrings~
+unknown~
+armor ABY AL
+0
+ACDF ACDF ACDF ACDF 0
+110 100 0 P
+A
+20 -5
+A
+13 10
+A
+18 8
+A
+19 8
+A
+12 25
+ T 0 none~
+#17066
+Zulo's Skull~
+a Zulo's Skull~
+A rather big skull is lying on the ground here~
+unknown~
+armor ABa AE
+0
+ACDF ACDF ACDF ACDF 0
+110 100 0 P
+A
+18 10
+A
+19 10
+A
+12 30
+ T 0 none~
+#17068
+Bone Shield~
+a Black Bone Shield~
+A shield made of black bones lies here~
+unknown~
+armor ABY AJ
+0
+DF DF DF BDF 0
+110 110 0 P
+A
+19 10
+A
+18 8
+A
+20 -10
+ T 0 none~
+#17069
+Dark Collar~
+a Dark Collar~
+A Dark Collar used by a torturer is lying here~
+unknown~
+armor ABY AC
+0
+BDF BDF BDF BDF 0
+110 100 0 P
+A
+20 -10
+A
+13 50
+A
+17 -10
+A
+12 25
+ T 0 none~
+#17073
+large Angreal~
+a Large Angreal~
+A large angreal lies here shining in the light~
+unknown~
+armor ABYa AO
+0
+BDF BDF BDF ACDF 0
+110 100 0 P
+A
+20 -20
+A
+18 5
+A
+19 1
+ T 0 none~
+#17078
+White Scorpian Shell~
+a White Scorpian Shell~
+The shell of a giant white scorpian lies here~
+unknown~
+armor ABYa AD
+0
+BDF BDF BDF ACDF 0
+110 150 0 P
+A
+18 10
+A
+20 -4
+A
+18 10
+A
+13 10
+ T 0 none~
+#17079
+Ancient Polearm~
+an Ancient Polearm~
+An Ancient Polearm is lying here~
+unknown~
+weapon ABY AN
+0
+polearm 75 1 charge ADH
+110 200 0 P
+A
+18 10
+A
+19 11
+A
+20 -2
+A
+13 14
+ T 0 none~
+#17080
+beatiful gold staff~
+a beatiful crystal and gold staff~
+An ancient staff is here~
+unknown~
+staff AB AO
+0
+100 20 15 'heal' 0
+75 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#17000
+Front Door To A Dark Castle~
+The front gate here is partly open. Clouds darken the sky almost
+unnaturaly, The ground is muddy and wet as well as the walls are clean yet
+dark at the same time. 
+~
+0 1 0
+D0
+~
+~
+0 0 17001
+S
+#17001
+Inner Courtyard~
+This is the very inner-most part of the castle. There are sounds coming
+from the north and two doorways to the east and west. There is a partly open
+gate to the south. 
+~
+0 0 0
+D0
+~
+~
+0 0 17002
+D1
+~
+~
+0 0 17012
+D2
+~
+~
+0 0 17000
+D3
+~
+~
+0 0 17016
+S
+#17002
+Courtyard~
+This is the courtyard of the castle. There are various cookpots set up in
+orginized rows. Trollocs wander around here making all kinds of noise. There
+are limbs of butchered people strewn about the place. There is a Main
+Enterence into the castle to the north 
+~
+0 0 0
+D0
+~
+~
+0 0 17003
+D1
+~
+~
+0 0 17013
+D2
+~
+~
+0 0 17001
+D3
+~
+~
+0 0 17017
+S
+#17003
+Inner Hallway~
+This is the inner hallway of the castle. The hallway continues to the
+north, and there are doors to the east and west. Noises seem to be coming
+from the north. 
+~
+0 8 0
+D0
+~
+~
+0 0 17004
+D1
+~
+~
+0 0 17020
+D2
+~
+~
+0 0 17002
+D3
+~
+~
+0 0 17021
+S
+#17004
+Main Room~
+This looks to be the main room of the castle. There are elaborate
+decorations lining the walls and on the floor, also there is a fountin in
+the middle of the room which seems to be spewing a black fluid. There is a
+giant archway leading north. There are doors to the east and west, as well
+as a hallway which leads south. 
+~
+0 8 0
+D0
+~
+~
+0 0 17005
+D1
+~
+~
+0 0 17023
+D2
+~
+~
+0 0 17003
+D3
+~
+~
+0 0 17028
+S
+#17005
+Old Healing Room~
+As you walk into the musty room, there seems to be a strange illuminance
+eminating from a raised platform in the middle of the room.  You notice that
+amongst the platform, there are several items of particular usefulness. 
+Among these are armor, weapons, and items of great worth.  Desc Some of the
+merchandise catches your eye, others dont, but one thing stands out amongst
+it all.  Near the wall directly behind the platform, stands a statue of the
+most beautiful man and woman you have ever laid your eyes on.  You are
+instantly entranced and hardly notice that the statues, which appeared to be
+bronze, are in truth, solid gold.  Yet, as your eyes begin to adjust, you
+notice that they are not statues.  They are people.  
+~
+0 1032 0
+D1
+~
+~
+0 0 17006
+D2
+~
+~
+0 0 17004
+S
+#17006
+Hallway~
+This hallway is well lit with black tortches which emit a blue light
+along this hallway There are blood stains on the plush red carpet, and many
+murals line the wall. 
+~
+0 8 0
+D0
+~
+~
+0 0 17029
+D1
+~
+~
+0 0 17007
+D3
+~
+~
+0 0 17005
+S
+#17007
+Large Room~
+This room is quite big. There are many items of armor and weaponary
+lining the walls and strewn about the floor. All of the items look to be
+very old and unuseable. 
+~
+0 8 0
+D0
+~
+~
+0 0 17008
+D3
+~
+~
+0 0 17006
+S
+#17008
+Giant Hallway~
+This Hallway Is enourmous. Lavish decoriations line the walls and celing.
+There are statues of all the Chosen going down the hall. 
+~
+0 8 0
+D0
+~
+~
+0 0 17009
+D1
+~
+~
+0 0 17030
+D2
+~
+~
+0 0 17007
+S
+#17009
+Fade's Training Room~
+This room is filled the Fade's. They are all moving in one motion going
+over various attacking forms. There are 4 torches on either side of the
+walls. 
+~
+0 8 0
+D1
+~
+~
+0 0 17010
+D2
+~
+~
+0 0 17008
+S
+#17010
+Waiting Room~
+This room is quite small and contains only one desk with various
+papers and items scattered about on the surface of it.  There are
+two chairs on either side of the rather large desk.  There are Giant
+Gold doors leading north.
+~
+0 0 0
+D0
+~
+~
+0 0 17011
+D3
+~
+~
+0 0 17009
+S
+#17011
+Circle Leader's Room~
+This room has many tables set up in the middle of the room.  There are beds
+set along the wall, There is also a great desk in front of a giant door leading north.
+~
+0 8 0
+D0
+~
+~
+0 0 17031
+D2
+~
+~
+0 0 17010
+D3
+~
+~
+0 0 17041
+S
+#17012
+Guard Tower Main Room~
+This room is quite small. It contains a weapon rack which has twisted
+black weapons set up in it. There is a door to the north and a staircase
+leading up. 
+~
+0 0 0
+D0
+~
+~
+0 0 17013
+D3
+~
+~
+0 0 17001
+D4
+~
+~
+0 0 17014
+S
+#17013
+Small Room~
+This is a very small room, it looks like its used more to keep the dead.
+The smell of this room is horrid, rotting corpses literalty fill the edges
+of the room 
+~
+0 0 0
+D0
+~
+~
+1 0 17043
+D2
+~
+~
+0 0 17012
+D3
+~
+~
+0 0 17002
+S
+#17014
+Middle of Guard Tower~
+This is a very small part of the tower. There is a rack with crossbows
+set up in it. As well there are many other pieces of broken equipment. 
+~
+0 0 0
+D4
+~
+~
+0 0 17015
+D5
+~
+~
+0 0 17012
+S
+#17015
+Top Of Guard Tower~
+This room is more or less open. The horizon can be seen all around the
+castle. There are a few rotting trolloc corpses still here. 
+~
+0 0 0
+D5
+~
+~
+0 0 17014
+S
+#17016
+Main Floor Of Guard Tower~
+This is the mainroom to the tower watch. This room is littered with bones
+and shattered pieces of armor and weapons. There is a slight smell coming
+from the north. 
+~
+0 0 0
+D0
+~
+~
+0 0 17017
+D1
+~
+~
+0 0 17001
+D4
+~
+~
+0 0 17018
+S
+#17017
+Small Room~
+This room is very small and looks to be only used to keep whatever was
+left over from the cook pots. There is a slight smell of cooked meat to this
+room 
+~
+0 0 0
+D0
+~
+~
+0 0 17044
+D1
+~
+~
+0 0 17002
+D2
+~
+~
+0 0 17016
+S
+#17018
+Middle of Guard Tower~
+This room is very small there are only a few window set up in stragic
+places to fend off attacks. There are some bone lining the floor 
+~
+0 0 0
+D4
+~
+~
+0 0 17019
+D5
+~
+~
+0 0 17016
+S
+#17019
+Top of Guard Tower~
+This room is open. The horizion can be seen all around the castle. There
+are bunkers set up to protect the archers atop here. 
+~
+0 0 0
+D5
+~
+~
+0 0 17018
+S
+#17020
+GreyMen Training Room~
+This room is pitch black. There is a sound of swift movements but nothing
+else. Faint outlines can barely be seen. 
+~
+0 1 0
+D3
+~
+~
+0 0 17003
+S
+#17021
+Small hallway~
+This hallway dosen't look very special. There are tables set up along the
+walls, as well at torches set right above them. There is a soudn d From
+seeping from the walls 
+~
+0 0 0
+D1
+~
+~
+0 0 17003
+D3
+~
+~
+0 0 17022
+S
+#17022
+A Large Room~
+This room is very messy. There is a table in the middle of the room
+covered in blood. Severed limbs are strewn about here. There is a giant
+cookpot on a crude looking oven. 
+~
+0 0 0
+D1
+~
+~
+0 0 17021
+D4
+~
+~
+0 0 17038
+S
+#17023
+Side Room~
+This room looks more or less empty.. There is dust on the tables and the
+torches look like they need to be replaced. 
+~
+0 0 0
+D1
+~
+~
+0 0 17024
+D3
+~
+~
+0 0 17004
+S
+#17024
+StairWay~
+This room is pretty dark. There is only one blue torch here and it is
+placed over a stairway which leads down. 
+~
+0 0 0
+D3
+~
+~
+0 0 17023
+D5
+~
+~
+0 0 17025
+S
+#17025
+Dark Damp Hallway~
+This hallway is very dark.. The air is moist and the walls are wet. There
+is a slight light in the distance. 
+~
+0 0 0
+D3
+~
+~
+0 0 17026
+D4
+~
+~
+0 0 17024
+S
+#17026
+Dark Cell Room~
+This room is fairly lighted. There is a table in the middle of the room
+There are some freshly dead bodies lying on the floor, and some unfresh
+ones. There is a horrible smell in this room. 
+~
+0 0 0
+D1
+~
+~
+0 0 17025
+D2
+~
+~
+0 0 17042
+D3
+~
+~
+0 0 17027
+S
+#17027
+Damp Hallway~
+This hallway is very damp.. Water seems to be leaking from the celing
+there is an over-abundence of weeds and viens growing here. 
+~
+0 0 0
+D1
+~
+~
+0 0 17026
+D4
+~
+~
+0 0 17028
+S
+#17028
+Old Room~
+This room looks like it is used mainly for storage. There looks to be a
+trap door that is slightly ajar leading down in the middle of the floor 
+~
+0 0 0
+D1
+~
+~
+0 0 17004
+D5
+~
+~
+0 0 17027
+S
+#17029
+Storage Room~
+This room is filled with various items, most of which look to be useless.
+Eveything is covered with dust and spider webs. 
+~
+0 0 0
+D2
+~
+~
+0 0 17006
+D5
+~
+~
+0 0 17033
+S
+#17030
+Torture Room~
+This room is filled with many devices designed to bring the most pain
+possible. Half of the metal objects have rust on them. There is blood
+covering each machine and body parts discarded carelessley about. There are
+a few corpses piled in one corner. 
+~
+0 0 0
+D3
+~
+~
+0 0 17008
+D5
+~
+~
+0 0 17035
+S
+#17031
+Dreadlord's Room~
+This room has a table set up in the center of the room.  There are a few fine
+looking beds set up in the middle of the room.  There is a Giant door leading north.
+~
+0 8204 0
+D0
+~
+~
+0 0 17032
+D1
+~
+~
+0 0 17040
+D2
+~
+~
+0 0 17011
+S
+#17032
+The Nae'blis' Room~
+This room is filled with various treasures and banners of fallen enemies.
+There is a Throne in the middle of the room. A lush red carpet leads to the
+throne. Torches line the walls, providing ample light. The door looks to
+jewels with  gold gold edges encrusted into it. There is a giant bed along the
+back of the wall.
+~
+0 9216 0
+D2
+~
+~
+0 0 17031
+D5
+~
+~
+0 0 17037
+S
+#17033
+Prison Mainroom~
+This room has a table in the middle of it with a couple of guards sitting
+they look to be quite sleepy also there are many bones scattered about.
+~
+0 0 0
+D0
+~
+~
+0 0 17033
+D2
+~
+~
+0 0 17033
+D3
+~
+~
+0 0 17034
+D4
+~
+~
+0 0 17029
+S
+#17034
+Prison Cell~
+This cell is filled with rotting limbs and bones.  There are a few dead bodies
+lining the walls .. chains seem to be hanging down from the celing.
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 17033
+S
+#17035
+A Small Room~
+This room has a table in the middle contains various types of torture tools.
+The table is stained with blood as well as the floor surrounding it.  There are
+chains along the wall, some of which have severed rotted limbs.
+~
+0 1 0
+D0
+~
+~
+0 0 17036
+D4
+~
+~
+0 0 17030
+S
+#17036
+Torture Room~
+This room has one big machine in the middle of it.  Blood covers the walls and
+the floor.  The machine has a rotted magled corpse in it.
+~
+0 1 0
+D2
+~
+~
+0 0 17035
+D5
+~
+~
+0 0 17051
+S
+#17037
+Experiment Room~
+This room has many small tables and trays set up around the room.  There are
+many different body parts of many different species in pails, buckets, on tables,
+and trays.  What kind of creations have been made here?
+~
+0 8 0
+D0
+~
+~
+0 0 17045
+D4
+~
+~
+0 0 17032
+S
+#17038
+Look Out~
+This is a small room designed to look over the inner courtyard of this castle.
+There are four windows which seem to cover the evey inch of the castle
+~
+0 0 0
+D4
+~
+~
+0 0 17039
+D5
+~
+~
+0 0 17022
+S
+#17039
+Lookout~
+This room is designed to look over the whole castle as well as the outer grounds.
+This vantage point allows for easy shots at invaders
+~
+0 0 0
+D5
+~
+~
+0 0 17038
+S
+#17040
+Dreadlord Training Room~
+This room is filled with different types of weapons and other equipment.
+People who have potential or have been found worthy to be a dreadlord train here.
+~
+0 0 0
+D3
+~
+~
+0 0 17031
+S
+#17041
+Circle Leader Training Room~
+This room has a very plush red carpet going wall to wall.  There are a line of
+torches spaced 1 foot apart from each other which cover all four walls.  there are
+lines of every type of weapon lining the walls in neat orders.
+~
+0 0 0
+D1
+~
+~
+0 0 17011
+S
+#17042
+Tiny Hallway~
+This hallway is very narrow.  One man can barely walk though it.  the walls
+jet out in spiked shapes as well as comin from the celing.  There is a foul stench
+coming from the floor
+~
+0 0 0
+D0
+~
+~
+0 0 17026
+D5
+~
+~
+0 0 17043
+S
+#17043
+A Tiny Spiked Room~
+This room is filled with spikes and giant torches.
+~
+0 8388612 0
+D2
+~
+~
+1 0 17013
+D4
+~
+~
+0 0 17042
+S
+#17044
+Friend of the Dark Meeting Room~
+This room has a giant old looking table in the middle of it.  there
+is a side table with various drinks and food.
+~
+0 0 0
+D2
+~
+~
+0 0 17017
+S
+#17045
+Discard Room~
+This rooms looks to have pieces of flesh or mutated creations here.  There
+are blood stains and other objects thrown about.
+~
+0 1 0
+D2
+~
+~
+0 0 17037
+D5
+~
+~
+0 0 17046
+S
+#17046
+Mutate Room~
+This room is full of rotting flesh and who knows what else
+red eyes seem to come out from eveywhere
+~
+0 1 0
+D4
+~
+~
+0 0 17045
+D5
+~
+~
+0 0 17047
+S
+#17047
+Prison Chamber~
+It looks like this prison chamber is closed off and barracaded.  It has
+the look of like it hasen't been used for some time.  There is an awful smell
+coming from the walls and floor, which seem to be covered in dried blood.
+There seems to be quite a recent hole in the floor, pieces of rock and flesh are 
+strewn about the room and an odd sound comes from the hole evey now and then.  There
+is a small makeshift bridge that allows passage over the hole.
+~
+0 5 0
+D0
+~
+~
+0 0 17048
+D4
+~
+~
+0 0 17046
+D5
+~
+~
+0 0 17060
+S
+#17048
+Cell~
+This cell looks like it was made of bones and flesh not stone and iron bars.
+This is where that awful smell comes from.  It seems to look like there is
+a constant fresh stream of blood running down the walls.
+~
+0 4194305 0
+D2
+~
+~
+0 0 17047
+S
+#17051
+A Small Room~
+This room is dark and damp.  There are blood drenched pieces of cloth
+lining the walls and floor .. the celing seems to have arms hanging off
+of them
+~
+0 1 0
+D0
+~
+~
+0 0 17052
+D4
+~
+~
+0 0 17036
+S
+#17052
+An Underground Torture Room~
+This room seems to have Very old looking torture devices .. all of which
+has many bones in the chains and dried blood.  The door leading in and out seems
+to have been broken and boarded up
+~
+0 4194305 0
+D2
+~
+~
+0 0 17051
+S
+#17060
+A Small Cavern~
+This cavern looks quite recent.  The walls look like they have been freshly dug out,
+the ceiling part occasionally drips water into mud puddles.  There is a very crude 
+looking door to the north, and the cavern continues down.  The Air is oddly dry and
+cold.
+~
+0 1 0
+D0
+~
+~
+0 0 17061
+D4
+~
+~
+0 0 17047
+D5
+~
+~
+0 0 17060
+S
+#17061
+A Large Room~
+A large circular room has been dug out here, every now and then there are claw marks
+on the wall which looks to be very big.  The walls themselves seem to be moving slightly,
+and upon closer inspection they are covered in a thick layer of insects.  There is a 
+hole leading down away from the onslaught of insects.
+~
+0 1 0
+D2
+~
+~
+0 0 17060
+D5
+~
+~
+0 0 17062
+S
+#17062
+A Small Room~
+This room has fewer insects crawling along the walls.  The floor is lined with a fine
+white powder which seems to absorb all moisture in the room, it is very hot and dry
+here.  There is a hole leading upwards towards the sounds of crawling and there is a
+very old ladder leading down into the darkness.
+~
+0 1 0
+D4
+~
+~
+0 0 17061
+D5
+~
+~
+0 0 17063
+S
+#17063
+A Small Landing~
+This room consits of a small square landing and a wall to the north.  This is a very
+big cave, yet there is no ground in which to walk.  The space around the landing leads
+into endless darkness.  The wall to the north seems to be made out of scorpian shells
+and bones.  There is a strange black fluid running down the wall.  There is a ladder
+leading upwards and a dug out hole leading north.
+~
+0 1 0
+D0
+~
+~
+0 0 17064
+D4
+~
+~
+0 0 17062
+S
+#17064
+Giant Hallway~
+This part of the hallway looks to be very old yet somehow well kept.  The wall to the
+south is made of scorpian shells and bones, yet the other walls seem to be made out of
+molded stone.  There is a large red carpet covering the floor and looks like it has 
+never been walked on.  Small black torches line the walls letting off next to no light.
+there are doors to the East and West while the hallway continues north.
+~
+0 1 0
+D0
+~
+~
+0 0 17067
+D1
+~
+~
+0 0 17065
+D2
+~
+~
+0 0 17063
+D3
+~
+~
+0 0 17066
+S
+#17065
+Living Quarters~
+This room is quite large, there are many murals along the walls as well as many different
+types of furnature.  The center of the room seems to be clear of anything cept for
+a few stands with weapons lined along them.  The air is cold and humid.  There is a 
+black wooden door to the west.
+~
+0 205520896 0
+D3
+~
+~
+0 0 17064
+S
+#17066
+Holding Cell~
+This room looks to have been used quite often, bones and fresh limbs line the floor as
+well as fresh blood covering the walls.  The gate to the cell lies on the floor here,
+and appears to have been ripped out of the wall.  It is extremley hot and humid in here
+and the only sound is that of something dripping.  There is a hole to the east where
+the cell door once was.
+~
+0 205520896 0
+D1
+~
+~
+0 0 17064
+S
+#17067
+Middle of the Hallway~
+This part of the hallway looks a little more worn out, the walls are lined with dirt
+as well as the red carpet, the murals on the wall have long since fallen to the ground
+and the torches seem to be less frequent.  The hallway continues to the north and south
+while there are two doors to the east and west.
+~
+0 1 0
+D0
+~
+~
+0 0 17070
+D1
+~
+~
+0 0 17068
+D2
+~
+~
+0 0 17064
+D3
+~
+~
+0 0 17069
+S
+#17068
+A Prison Cell~
+This cell looks like it hasen't been used in ages, there are counless bones lining the
+floor and walls.  The metal bars are all bent out of shape and some have even been 
+broken in half.  The air is quite dry in here.  The Cell door seems to have rusted in
+place, making it nearly impossible to close.
+~
+0 205520896 0
+D3
+~
+~
+0 0 17067
+S
+#17069
+Torture Chamber~
+The walls are lined with chains and spikes.  There is a chair in the middle of the room
+with some old looking leather straps.  There are many tables with many trays displaying
+many pieces of torture tools all of which have dried blood on them.  The floor is covered
+in dry blood as well and the room seems like it's been so for many many years.  there is
+a black wooden door to the east
+~
+0 205520896 0
+D1
+~
+~
+0 0 17067
+S
+#17070
+A Giant Hallway~
+This part of the hallway seems older than the other parts.  The walls haven't been 
+made of molded stone, instead they are made of normal stone blocks, the ret carpet is
+clean and the side tables along the way each hold a black lantern which gives off next
+to no light.  The hallway continues to the sound and there is an old set of stairs leading
+down
+~
+0 1 0
+D2
+~
+~
+0 0 17067
+D5
+~
+~
+0 0 17071
+S
+#17071
+Top of the Stairs~
+This stairway leads very far down into the endless darkness, various sounds can be heard
+from within.  The stairs themselves have quite a few bones along the side which seem
+to raidiate a foul smell, the steps are tinted a black colour and seem to shine.  the
+stairway continues up and down.
+~
+0 1 0
+D4
+~
+~
+0 0 17070
+D5
+~
+~
+0 0 17072
+S
+#17072
+Giant Stairway~
+The stairs seem to get more damaged here, giant chips have been taken out of them as
+well as out of the rails, there are also various acid burns and scorch marks every now
+and then.  There is a black candle set on a stand which seems to absorb light rather
+than give off.  There is a black stone door to the south past the black candle, it seems
+to have been very well hidden.  The stairs continue up and down.
+~
+0 1 0
+D2
+~
+~
+0 0 17073
+D4
+~
+~
+0 0 17071
+D5
+~
+~
+0 0 17074
+S
+#17073
+A Small Living Room~
+This is quite a small room, the black stone door to the north is stuck ajar and seems
+like it would take much effort to close it.  The room contains a small desk in the 
+middle of the room which is overlfowing with papers and scrolls and angreal, there is
+a bed not far off and various shelves which also seem to be overflowing with papers and
+books.  The walls are completley hidden by the shelves and the floor is lined with paper
+it seems that someone or something has made residence here.
+~
+0 205520900 0
+D0
+~
+~
+0 0 17072
+S
+#17074
+Giant Stairway~
+The stairs are in horrid shape, giant pieces of are missing while the remaining stairs
+are chipped and cracked.  There is a fresh body lying horribley mangled in the very
+center of stairs, the smell it gives off is heavy and rank.  The Stairs continue downwards
+into the darkness as well as upwards.
+~
+0 1 0
+D4
+~
+~
+0 0 17072
+D5
+~
+~
+0 0 17075
+S
+#17075
+Bottom of the Stairs~
+The landing here is made of a white smooth stone, which seems rather out of place.  The
+walls have various vines hanging every which way.  There is a cold air coming from behind
+them and upon closer inspection it seems that there is a doorway to the north.  There
+is also a damaged stairway leading upwards.
+~
+0 1 0
+D0
+~
+~
+0 0 17076
+D4
+~
+~
+0 0 17074
+S
+#17076
+A Small Storage Room~
+This room looks like it was a storage room a long time ago, there are various molded
+crates and boxes, rusted pieces of armor and weaponary line the walls.  The ground is
+horribly broken and there seems to be a dug out doorway to the east.  The air seems to get
+colder in here.
+~
+0 1 0
+D1
+~
+~
+0 0 17077
+D2
+~
+~
+0 0 17075
+S
+#17077
+Intersection~
+This is a very lavish room, it looks like part of an intersecting hallway.  The floor
+is very well kept as are the walls.  The air is quite warm here.  The Hallway continues
+to the south then ends at a doorway into darkness, where as the bigger and more lavish
+part of the hallway continues to the north .. into darkness, where as the one leading
+to the west stops at a wall and there is a hole in the middle.
+~
+0 1 0
+D0
+~
+~
+0 0 17078
+D2
+~
+~
+0 0 17079
+D3
+~
+~
+0 0 17076
+S
+#17078
+Waiting Chamber~
+This room seems quite out of place.  The walls and floor are a bright white colour.
+There are a few very old pieces of furnature resting along the walls.  The door to the
+south is broken in half and there are two large black double doors leading to the north
+they are partlially open and leads into complete darkness
+~
+0 4 0
+D0
+~
+~
+0 0 17080
+D2
+~
+~
+0 0 17077
+S
+#17079
+Execution Chamber~
+This room looks to be absolutley Ancient.  Pieces of furnature never seen before decorate
+this room.  There are many old looking books lining the back walls, the floor is tinted
+black as are the walls, there is one single candle in the middle of the room.  Off
+to one side is a fresh body of an old man wearing ancient clothes.  The room seems to
+have various insects lining the ceiling as well as the body
+~
+0 205520900 0
+D0
+~
+~
+0 0 17077
+S
+#17080
+Scorpian Pit~
+This room is enourmous and seems to have been carved out of the very earth itself.
+The floor is lined with bones and freshly slaughtered bodies.  The air is heavy, hot
+and dry.  There are two giant double doors leading to the south.
+~
+0 205529088 0
+D2
+~
+~
+0 0 17078
+S
+#0
+
+
+
+#SPECIALS
+M 17065 spec_breath_gas
+M 17066 spec_breath_gas
+M 17067 spec_poison
+M 17068 spec_breath_gas
+M 17069 spec_breath_gas
+M 17071 spec_cast_undead
+M 17073 spec_breath_any
+M 17079 spec_breath_gas
+M 17080 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 17013 0 1
+D 0 17043 2 1
+M 0 17017 1 17000 1 100 Load A Burnt Corpse
+M 0 17017 1 17000 1 100 Load A Burnt Corpse
+M 0 17004 1 17000 1 100 Load A Trolloc Sentry
+M 0 17004 1 17000 1 100 Load A Trolloc Sentry
+E 0 17000 0 10 0 100 A dark plate of greyman's armor is loaded on the arms of A Trolloc Sentry
+M 0 17007 1 17001 1 100 Load A DarkFriend Soldier
+M 0 17015 1 17001 1 100 Load A Fade Archer
+M 0 17008 1 17001 1 100 Load A DarkFriend
+M 0 17010 1 17001 1 100 Load A DarkFriend Servent
+E 0 17001 0 17 0 100 A dark black bow is loaded wielded of A DarkFriend Servent
+M 0 17001 1 17002 1 100 Load A Trolloc
+M 0 17002 1 17002 1 100 Load A Trolloc Guard
+M 0 17014 1 17002 1 100 Load A Trolloc Archer
+M 0 17012 1 17003 1 100 Load A Trolloc Soldier
+M 0 17019 1 17003 1 100 Load An Elite Fade Archer
+M 0 17014 1 17003 1 100 Load A Trolloc Archer
+E 0 17004 0 7 0 100 Black long length greaves is loaded on the legs of A Trolloc Archer
+M 0 17003 5 17003 5 100 Load Weird Sentry
+M 0 17007 1 17004 1 100 Load A DarkFriend Soldier
+M 0 17007 1 17004 1 100 Load A DarkFriend Soldier
+M 0 17007 1 17004 1 100 Load A DarkFriend Soldier
+E 0 17004 0 7 0 100 Black long length greaves is loaded on the legs of A DarkFriend Soldier
+M 0 17005 1 17005 1 100 Load A Sister of the Black Ajah
+M 0 17026 1 17007 1 100 Load A Creature
+M 0 17017 1 17007 1 100 Load A Burnt Corpse
+M 0 17015 1 17007 1 100 Load A Fade Archer
+M 0 17018 1 17007 1 100 Load A Trolloc Archer
+M 0 17019 1 17008 1 100 Load An Elite Fade Archer
+M 0 17030 1 17008 1 100 Load A Fade Torturer
+M 0 17009 1 17009 1 100 Load A Fade
+M 0 17009 1 17009 1 100 Load A Fade
+M 0 17009 1 17009 1 100 Load A Fade
+M 0 17009 1 17009 1 100 Load A Fade
+E 0 17009 0 10 0 100 Circle leader arm plates is loaded on the arms of A Fade
+E 0 17009 0 10 0 100 Circle leader arm plates is loaded on the arms of A Fade
+M 0 17004 1 17010 1 100 Load A Trolloc Sentry
+M 0 17004 1 17010 1 100 Load A Trolloc Sentry
+M 0 17012 1 17010 1 100 Load A Trolloc Soldier
+M 0 17010 1 17010 1 100 Load A DarkFriend Servent
+M 0 17010 1 17010 1 100 Load A DarkFriend Servent
+M 0 17010 1 17010 1 100 Load A DarkFriend Servent
+M 0 17005 1 17011 1 100 Load A Sister of the Black Ajah
+M 0 17011 1 17011 1 100 Load A Low Class Circle Leader
+E 0 17009 0 10 0 100 Circle leader arm plates is loaded on the arms of A Low Class Circle Leader
+M 0 17001 1 17013 1 100 Load A Trolloc
+M 0 17012 1 17013 1 100 Load A Trolloc Soldier
+M 0 17001 1 17014 1 100 Load A Trolloc
+M 0 17012 1 17014 1 100 Load A Trolloc Soldier
+M 0 17014 1 17014 1 100 Load A Trolloc Archer
+M 0 17014 1 17014 1 100 Load A Trolloc Archer
+E 0 17004 0 0 0 100 Black long length greaves is loaded as a light of A Trolloc Archer
+M 0 17014 1 17015 1 100 Load A Trolloc Archer
+M 0 17018 1 17015 1 100 Load A Trolloc Archer
+M 0 17010 1 17015 1 100 Load A DarkFriend Servent
+M 0 17000 1 17017 1 100 Load A Trolloc
+M 0 17000 1 17017 1 100 Load A Trolloc
+M 0 17025 1 17017 1 100 Load A Trolloc Beast
+M 0 17000 1 17017 1 100 Load A Trolloc
+M 0 17014 1 17018 1 100 Load A Trolloc Archer
+M 0 17015 1 17018 1 100 Load A Fade Archer
+M 0 17022 1 17018 1 100 Load A Trolloc Butcher
+M 0 17019 1 17018 1 100 Load An Elite Fade Archer
+E 0 17005 0 0 0 100 Dark sleeves of necromancy is loaded as a light of An Elite Fade Archer
+M 0 17014 1 17019 1 100 Load A Trolloc Archer
+M 0 17018 1 17019 1 100 Load A Trolloc Archer
+M 0 17019 1 17019 1 100 Load An Elite Fade Archer
+M 0 17020 10 17020 5 100 Load A GreyMan
+M 0 17020 10 17020 5 100 Load A GreyMan
+E 0 17000 0 5 0 100 A dark plate of greyman's armor is loaded on the body of A GreyMan
+M 0 17020 6 17020 6 100 Load A GreyMan
+M 0 17022 1 17023 1 100 Load A Trolloc Butcher
+M 0 17012 1 17024 1 100 Load A Trolloc Soldier
+M 0 17012 1 17024 1 100 Load A Trolloc Soldier
+M 0 17019 1 17025 1 100 Load An Elite Fade Archer
+M 0 17027 1 17026 1 100 Load A Vien Creature
+M 0 17027 1 17026 1 100 Load A Vien Creature
+E 0 17003 0 0 0 100 A dark black ring is loaded as a light of A Vien Creature
+M 0 17019 1 17027 1 100 Load An Elite Fade Archer
+M 0 17002 1 17028 1 100 Load A Trolloc Guard
+M 0 17004 1 17028 1 100 Load A Trolloc Sentry
+M 0 17017 1 17029 1 100 Load A Burnt Corpse
+M 0 17019 1 17029 1 100 Load An Elite Fade Archer
+E 0 17002 0 0 0 100 A dark black potion is loaded as a light of An Elite Fade Archer
+M 0 17030 1 17030 1 100 Load A Fade Torturer
+M 0 17030 1 17030 1 100 Load A Fade Torturer
+M 0 17013 1 17030 1 100 Load A Trolloc Corpse
+M 0 17017 1 17030 1 100 Load A Burnt Corpse
+M 0 17031 1 17031 1 100 Load Dreadlord Trainer
+M 0 17032 1 17032 1 100 Load An Enslaved Aes Sedai
+M 0 17033 2 17033 2 100 Load A Trolloc Guard
+M 0 17034 1 17034 1 100 Load A Prisoner
+M 0 17035 1 17035 1 100 Load A Trolloc Torture Assisitant
+M 0 17036 1 17036 1 100 Load A Rotted Corpse
+M 0 17037 1 17037 1 100 Load A Weird Creature
+E 0 17037 0 9 0 100 Creature's claws is loaded on the hands of A Weird Creature
+M 0 17037 2 17037 2 100 Load A Weird Creature
+M 0 17037 3 17037 3 100 Load A Weird Creature
+M 0 17038 1 17038 1 100 Load a Weird Creation
+M 0 17039 2 17039 2 100 Load A Slave Archer
+M 0 17040 4 17040 4 100 Load A Dreadlord Trainee
+E 0 17040 0 13 0 100 `7dreadlord's belt is loaded around the waist of A Dreadlord Trainee
+M 0 17040 5 17040 5 100 Load A Dreadlord Trainee
+E 0 17040 0 13 0 100 `7dreadlord's belt is loaded around the waist of A Dreadlord Trainee
+M 0 17040 6 17040 6 100 Load A Dreadlord Trainee
+M 0 17041 4 17041 4 100 Load A Circle Leader Trainee
+E 0 17041 0 6 0 100 Circle leader's helm is loaded over the head of A Circle Leader Trainee
+M 0 17041 5 17041 5 100 Load A Circle Leader Trainee
+M 0 17042 1 17042 1 100 Load A Mound Of Parts
+M 0 17044 6 17044 6 100 Load A Friend of the Dark
+M 0 17046 1 17045 1 100 Load a blob of parts
+M 0 17046 1 17045 1 100 Load a blob of parts
+M 0 17045 5 17046 5 100 Load A Mutate
+M 0 17048 1 17048 1 100 Load A Cursed Flesh Creature
+E 0 17050 0 7 0 100 A pair of bone leggings is loaded on the legs of A Cursed Flesh Creature
+M 0 17052 1 17052 1 100 Load A Creature made of Bone
+E 0 17052 0 6 0 100 A helmet of bone is loaded over the head of A Creature made of Bone
+M 0 17060 1 17060 1 100 Load A Small White and Black Scorpian
+M 0 17061 9 17061 9 100 Load a giant beetle
+M 0 17071 15 17064 3 100 Load A Nat
+M 0 17065 1 17065 1 100 Load The Cell Keeper
+E 0 17065 0 13 0 100 A prison keepers belt is loaded around the waist of The Cell Keeper
+M 0 17071 15 17065 1 100 Load A Nat
+M 0 17066 1 17066 1 100 Load A Zulo
+E 0 17066 0 6 0 100 A zulo's skull is loaded over the head of A Zulo
+M 0 17071 15 17066 1 100 Load A Nat
+M 0 17067 1 17067 1 100 Load A Giant Wasp
+M 0 17068 1 17068 1 100 Load A Black Skeleton
+E 0 17068 0 11 0 100 A black bone shield is loaded as a shield of A Black Skeleton
+M 0 17071 15 17068 1 100 Load A Nat
+M 0 17069 1 17069 1 100 Load A Torturer
+E 0 17069 0 3 0 100 A dark collar is loaded around the neck (1) of A Torturer
+M 0 17071 15 17069 1 100 Load A Nat
+M 0 17071 15 17071 3 100 Load A Nat
+M 0 17073 1 17073 1 100 Load An Undead Channeler
+E 0 17073 0 19 0 100 A large angreal is loaded held in the hands of An Undead Channeler
+M 0 17071 15 17073 1 100 Load A Nat
+M 0 17071 15 17077 3 100 Load A Nat
+M 0 17079 1 17079 1 100 Load An Infested Channeler
+E 0 17079 0 17 0 100 An ancient polearm is loaded wielded of An Infested Channeler
+M 0 17080 1 17080 1 100 Load A Giant White Scorpian
+E 0 17078 0 5 0 100 A white scorpian shell is loaded on the body of A Giant White Scorpian
+M 0 17071 15 17080 1 100 Load A Nat
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#17005
+if ispc $n
+say You want to be healed ...fine...
+endif
+~
+#17011
+say You wish to learn new skills and become stronger ....we shall see
+~
+#17031
+say Come practice ..the Great Lord has plans for your skills
+~
+#17032
+emote cowers away from you
+~
+#17065
+say You will be Imprisoned!
+~
+#17066
+emote turns around and roars
+~
+#17067
+emote flys right at you
+~
+#17068
+emote slowly gets up and starts advancing
+~
+#17069
+emote turns holding a sharp piece of metal and grins
+~
+#17073
+say You Shall Die for your Intrusion!
+~
+#17079
+emote quickly stands up an draws an ancient looking polearm
+~
+#17080
+say *click click* hisssssssss
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

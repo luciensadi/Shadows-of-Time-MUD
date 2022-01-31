@@ -1,0 +1,1221 @@
+#HELPS
+
+-1 GSKILLS~
+Each guild is granted skills specific to their members. These are both
+deadly and useful in fighting, as well as other situations.
+
+`$NORMAL GUILDS`4:`7
+[`6TINKER`7]                               [`4AIEL`7]
+Not pkillable                          dream
+fix                                    veil
+campfire
+[`5AES SEDAI`7]                            [`8SHADOW`7]
+still                                  pray
+balefire                               shroud
+bond                                   stealth
+                                       taint
+[`$SEANCHAN`7]                             [`!RED HAND`7]
+damane                                 medallion
+blood                                  warcry
+ravage                                 luck
+[`!A`8SHA'`!M`8AN`7]                             [`2GLEEMAN`7]
+firestorem                             dome
+tap                                    daze
+restrain                               ballad
+[`&WHITECLOAK`7]                           [`1WARDER`7]
+cleanse                                void
+stance                                 nohunger
+detect_shroud                          bond
+[`#WOLFBROTHER`7]                          [`4SHA`8i`4DO`7]
+hunt                                   dream
+wolf                                   veil
+permdetect
+howl
+
+`$OTHER GUILDS`4:`7
+[`#G`3U`#I`3D`#E`7]   - No gskills, not even killable. Mediate the mud.
+[`@OUTCAST`7] - All damage they do is reduced by 20% as a penalty. 
+[`!A`1dm`8i`1n`7]   - Immortals who run the mud, they got 'em all!
+~
+-1 GL GUILD_LEADER 'GUILD LEADER' GUILDLEADER~
+Guildleaders are the focal point of a guild. They are the mold by which
+all other members are cast. Dictating policy and actions are the pinnacle
+of their responsibilities. As leaders of their guild, responsibility falls
+on their heads for their member's actions. If you have a problem with any
+member of a guild, just bring it to their leader or guild leaders attention.
+Likewise, members are expected to follow whatever policies their leaders
+decide to bestow, and are expect to roleplay the situations that their 
+leader sets forth. Joining a guild is submitting yourself to the discretion
+of your leader, so keep that in mind when joining.
+
+Also as a leader it is your job to build your guild. This can best be done by
+helping build their skills in roleplaying and pkilling. While not something you
+have to do personally (it can be delegated), any good leader will want all their
+members to be strong. Guide can act as a good resource for proper behavior of a
+guild leader.
+
+`$RULES/GUIDELINES`4:`7
+`^* `&This must be your main character.`7
+`^* `&You are encouraged not to pledge to a Forsaken.`7
+~
+-1 CLANS GUILDS CLANLIST GUILDLIST~
+Guilds are division of clan, society, organization, or common interest. They
+protection each other, help each other out, and provide company. Each guild
+gets a variety of skills specific to their cause.
+
+[`6TINKER`7]      - Pacifists, can't be killed, and they like to fix things.
+[`4AIEL`7]        - Warrior society allied to the Car'a'carn (Rand al'Thor).
+[`5AES SEDAI`7]   - Female organization of channelers, base out of Tar Valon.
+[`8SHADOW`7]      - The evil guild, has mainly forsaken (enhanced characters).
+[`$SEANCHAN`7]    - Have come across Aryth Ocean to reclaim the continent.
+[`!RED HAND`7]    - The Band is in it for fame and money. They have no alliances.
+[`!A`8SHA'`!M`8AN`7]    - Male organization of channelers under the Dragon Reborn.
+[`2GLEEMAN`7]     - Entertainers by profession, travel spreading news and stories.
+[`&WHITECLOAK`7]  - Military organization with askewed views on what is good.
+[`1WARDER`7]      - Male protectors of the Aes Sedai, adept fighters.
+[`!A`1dm`8i`1n`7]       - Staff of the Shadows of Time.
+[`#WOLFBROTHER`7] - Brother to wolves, they dislike cities, and loath Shadowspawn.
+[`4SHA`8i`4DO`7]      - Warrior society who believe other Aiel follow a false leader.
+[`@OUTCAST`7]     - Have been kicked out of their previous guild.
+[`#G`3U`#I`3D`#E`7]       - Helps newbies and resolves player vs. player issues.
+
+Each guild has a help file which can be found at "`^help <guild name>`7" and
+are led by a guildleader (GL) and co-guildleader (Co-GL). They can be contact
+with specific questions which are unresolved by the guilds help files.
+~
+-1 LEAVEGUILD~
+So you want to get out already? Perhaps you should have chosen wiser when
+you guilded? Now you gotta suffer. There's only two ways out; the GL will
+outcast you (but you suffer the 20% less damage to everything) or leaveguild.
+
+When you leaveguild you suffer 30% penalty to all skills and spells.
+
+`$SYNTAX`4: `&leaveguild now`7
+~
+-1 ROSTER PROMOTE GUILDCHAR BESTOW~
+Roster is a way of displaying and manipulating things that relate to the
+other players within the guild. For most changes, only GLs or Co-GLs will
+have the privaledge.
+
+`$SYNTAX`4:`7
+`&roster show`7             - Display a list of current guild members, their
+                              ranks, qps donated to the guild, rplevel, and 
+                              pending actions against them.
+`&roster add <name> #`7     - Add a player to the roster list.
+`&roster remove <name>`7    - Remove a player from the roster list (does not
+                              affect their current status in the guild.
+`&roster <name> outcast`7   - Outcast a player from the guild.
+`&roster <name> promote #`7 - Promote guild member to a new rank.
+`&roster <name> demote #`7  - Demote target guild member to a desired rank.
+`&roster withdraw #`7       - Withdraw amount of QPs from guild coffer.
+`&roster approve`7          - Approve the current withdraw pending.
+`&roster deny`*             - Denies a pending request for qp withdrawal.
+`&roster cancel`*           - Cancels a pending request for qp withdrawal. 
+`&roster withdraw`7         - Withdraw the QPs once it's approved.
+`&donate quest <amount>`7   - Donate QPs to guild coffer.
+~
+-1 ADMIN~
+These are the staff members of Shadows of Time. They are responsible for how
+the MUD is run, designating policies, and preside over players. "HELP WIZLIST"
+will show a current listing and duties included for each Immortal.
+~
+-1 'AES SEDAI' AES_SEDAI AESSEDAI SEDAI~
+Pronounced: EYEZ seh-DEYE
+Old Tongue: "Servant to All"
+
+From within the White Tower in Tar Valon, the Aes Sedai are a female order of
+wielders of the One Power. Utilizing the female half of the True Power, Saidar,
+they live much longer than ordinary people, sometimes hundreds of years. The
+White Tower is sometimes referred to as "The Shining Walls", and has never
+been purged according to rumors. They are divided into Seven Ajahs as follows:
+
+[`$BLUE`7]   - Dedicated to justice and causes.
+[`#YELLOW`7] - Focused on the healing arts of Saidar.
+[`1RED`7]    - Loath men, and hunt particularly those that wield Saidin.
+[`&WHITE`7]  - Devoted to the pursuits of knowledge and truth.
+[`2GREEN`7]  - 'Battle Ajah', sometimes take on multiple Warders.
+[`3BROWN`7]  - Avoid mundane daily existance for the secrets of knowledge.
+[`7GRAY`7]   - Mediators seeking peace and tranquility.
+
+There is rumored to be a Eighth, [`8BLACK`7] Ajah, but the Tower denies this.
+Also important to note is the Three Oaths that they take once they reach the
+rank of full Sedai. Those Three Oaths include:
+
+`4[`$1`4]`7 To speak no word that is not true.
+`4[`$2`4]`7 To make no weapon with which one man may kill another.'
+`4[`$3`4]`7 Never to use the One Power as a weapon except against Shadowspawn, 
+or in the last extreme defense of her own life or that of her Warder or 
+another Aes Sedai
+
+`$OTHER HELPS`4:`7
+`&reqsedai   `7- Requirements for Guilding, and Rank advancement
+`&ranksedai  `7- List of Ranks, and RPing purpose behind them.
+`&still      `7- Gskill allowing ability to sever others from the Source.
+`&balefire   `7- Gskill whch adds damage from surges of Saidar.
+`&bond       `7- Link between a Sedai and their Warder.
+
+`^GL    `7: Sinthya
+`^Co-GL `7: Sabine
+~
+-1 REQSEDAI~
+`$JOINING`4:`7
+Minimum of level `^15`7, and not a Form Master or Warrior.
+Also, there is a roleplaying test given by either GL or Co-GL.
+
+`$PROMOTIONS`4:`7
+`&Accepted`7  - Must be at least RP level 3, at which time you gain both 
+"still" and "balefire".
+`&Aes Sedai`7 - Must be at least RP level 6, and gain acceptance from the
+Sitter for the Ajah which you wish to join.
+`&Sitter`7    - Based solely on performance and consideration given by
+both the GL and Co-GL.
+~
+-1 RANKSEDAI~
+`&Novice`7       - First rank, they are subservient to the other ranks, and remain
+restricted to menial tasks. As with thier position, battle is kept far from
+harms way.
+`&Accepted`7     - The next rank, they are given added responsibility, and begin
+learning what it means to become Sedai. They also choose their Ajah at this
+point in hopes of gaining the Sitter for that Ajah's favor.
+`&Aes Sedai`7    - This rank is where a woman becomes a Full Sedai. Once inducted
+into an Ajah, they may also begin to choose their Warder (Gaidin) to protect
+and accompany them on their duties. While not all are dedicated to battle, a
+Full Sedai is permitted to take arms against the Dark One at the instructions
+of their Amyrlin and Keeper.
+`&Sitter`7       - Each of the seven Ajahs have a leader which is responsible for
+all Aes Sedai under them. They decide the direction that Ajah takes, and acts
+as a voice for their Ajah's will.
+`&Keeper of the Chronicles`7 - The Keeper helps the Amyrlin Seat with her daily
+functions, and is the last word aside from Mother herself. Basically she is the
+one responsible for carrying out the lesser duties that can't be attended.
+`&Amyrlin Seat`7 - The highest power, the Flame of Tar Valon. The Amyrlin Seat is
+of all Ajahs, and is of none. While governed by interests of the Sitters, she
+is the ultimate driving force in the prosperity of the White Tower.
+~
+-1 BALEFIRE~
+Attainable by Accepted, this skill surges the Channeler with a burst of the 
+One Power. Greater Saidar, means more damage to both physical and blows of the
+True Source.
+
+`$SYNTAX`4: `&Automatic`7
+~
+-1 STILL~
+This skill attainable by Accepted, it is perhaps the greatest tool in dealing
+with the forces of Shadow. Severing the target from the True Source, it 
+prevents them from using anything connected with Saidar or Saidin.
+
+`$SYNTAX`4: `&still <target>`7
+~
+-1 BOND~
+Through weaves of Spirit an Aes Sedai can form a permanent bond with her
+Gaidin. This close bond allows the "sensing" of everything from feelings
+and slight nuances in health while at close distances, to the ability to 
+tell what direction they are from far away. This comes at a price however, 
+and if the one bonded with should endure a fatal blow, you will take it 
+almost as if it were done directly to you. The two also enjoy the benefit of
+their frequent groupings in battle, and work so well together that they
+get an attack bonus when grouped close together.
+
+`$SYNTAX`4:`7
+`&bond <target>`7 - Creates the bond with the Gaidin.
+`&sense`*         - Gives the condition vague whereabouts of your bonded Warder.
+~
+-1 AIEL SHAIDO~
+"Till shade is gone, till water is gone,
+into the Shadow with teeth bared,
+Screaming defiance with the last breath,
+to spit in Sightblinder's eye on the last Day." -Aiel Oath
+
+A race of people as fierce and hardy as their rugged environment. These tall
+and fair-haired people are lethal fighters and skilled trackers, with both men
+and women serving as warriors. Believed to be the most deadly fighters on the
+continent, if not in the world, they veil their faces before they kill and have
+established a well-earned reputation for defending their land from outsiders.
+Outsiders call where they live the Wasteland to trollocs it is called Djevik 
+K'Shar, "The Dying Ground". However, the Aiel call it the Three-Fold Land, for
+they believe it is first a shaping stone to make them; second, a testing ground
+to prove their worth; and third, a punishment for their sin -- though the exact
+sin is apparently unknown. Only those select few on friendly terms with the 
+Aiel dare to enter the Waste: peddlers, gleemen, and the Tuatha'an (Tinkers). 
+The Aiel live by a code of honor and obligation called ji'e'toh. Also, they 
+refer to any form of combat against a foe as related to a "dance". There are
+twelve clans from which the Aiel come from and for those who pick up the spears
+to dance there are just as many warrior societies to become a part of as a 
+member. They don a black veil whenever they commit to fight.
+
+`$WARRIOR SOCIETIES`4:`7
+Black Eyes (Seia Doon)                Brothers of the Eagle (Far Aldazar Din)
+Dawn Runners (Rahien Sorei)           Knife Hands (Sovin Nai)
+Maidens of the Spear (Far Dareis Mai) Mountain Dancers (Hama N'dore)
+Night Spears (Cor Darei)              Red Shields (Aethan Dor)
+Stone Dogs (Shae'en M'taal)           Thunder Walkers (Sha'mad Conde)
+True Bloods (Tain Shari)              Water Seekers (Mahdi'in)
+
+`$CLANS`4:`7
+Chareen                               Codarra
+Daryne                                Goshien
+Miagoma                               Nakai
+Reyn                                  Shaarad
+Shaido                                Shiande
+Taardad                               Tomanelle
+Jenn
+
+It's important to note that the Jenn Aiel are the protectors of Rhuidean, and
+remain the only nonviolent clan of Aiel.
+
+`$OTHER HELPS`4:`7
+`&reqaiel`7     - Aiel requirements for joining and advancement.
+`&rankaiel`7    - List of Aiel ranks and descriptions.
+`&reqshaido`7   - Shaido requirements for joining and advancement.
+`&rankshaido`7  - List of Shaido ranks and descriptions.
+`&dream`7       - Ability to move to another place through thought.
+`&veil`7        - Shroud yourself with a black veil to increase damage.
+
+[`4AIEL`7]
+`^GL    `7: Surandha 
+`^Co-GL `7: Rhuarc
+
+[`4SHA`8i`4DO`7]
+`^GL    `7: Grimlock
+`^Co-GL `7: Xavious
+~
+-1 REQAIEL~
+Bug Rianna to get this to me!
+~
+-1 RANKAIEL~
+`&Gai'shan`7     - Taken as prisoners during battle. They are required to wear 
+white and serve their captors for a year and a day. Nothing is heard or seen
+when you are no longer gai'shan.
+`&Scout`7        - Sent out ahead of the others, they scout for potential water
+sources, and hidden dangers.
+`&Spear Dancer`7 - The warriors of the Clans, Spear Dancers take arms for
+ji'e'toh and to take their fifth in battle.
+`&Sept Chief`7   - Very powerful male figures in the societies, they are the 
+battle Lords of the Aiel. 
+`&Wise One`7     - Though they don't engage in combat, and don't claim their
+leadership, respect is still given. Even the Sept Chiefs follow their will.
+~
+-1 REQSHAIDO~
+Bug Khadin and Luthair to get this to me!
+~
+-1 RANKSHAIDO~
+`&Gai'shan`7     - Taken as prisoners during battle. They are required to wear
+white and serve their captors for a year and a day. Nothing is heard or seen
+when you are no longer gai'shan.
+`&Scout`7        - Sent out ahead of the others, they scout for potential water
+sources, and hidden dangers.
+`&Spear Dancer`7 - The warriors of the Clans, Spear Dancers take arms for 
+ji'e'toh and to take their fifth in battle.
+`&Sept Chief`7   - Very powerful male figures in the societies, they are the
+battle Lords of the Aiel.  
+`&Wise One`7     - Though they don't engage in combat, and don't claim their
+leadership, respect is still given. Even the Sept Chiefs follow their will.
+~
+-1 DREAM~
+Through sleeping and dreams, some Aiel are able to venture through
+Tel'aran'rhoid and reappear in a different location. This has no
+encumberance on the One Power, and in fact does not even require
+the ability to touch the True Source.
+
+`$SYNTAX`4:`& dream <target>`7
+~
+-1 VEIL~
+With their veil's donned and their spirits raised, the Aiel will attack with 
+extra power to help them triumph in battle. This grants them added damage to
+both their physical attacks as well as their channeling.
+
+`$SYNTAX`4:`& veil`7 
+~
+-1 ASHAMAN 'ASHA MAN' ASHA_MAN~
+The asha'man are the male counterpart to the current Aes Sedai. They call
+their organization the Black Tower in contrast to the Aes Sedai White Tower,
+and they are headquartered in a rural area near Caemlyn. The Guardians as they
+call themselves are a deadly mix of blademasters and channelers. They use
+Saidin as a weapon, and the weakest is more powerful than the strongest of 
+Aes Sedai. They are truely a force of reckoning on this continent.
+
+`$OTHER HELPS`4:`7
+`&reqasha`7   - Requirements for joining and advancement within Asha'man.
+`&rankasha`7  - List of Asha'man ranks and descriptions.
+`&firestorm`7 - Rolling wall of fire and earth, causes increasing damage.
+`&tap`7       - Places a weave of spirit that syphons your costs from them.
+`&restrain`7  - Using bonds of air you prevent them from taking any action.
+
+`^GL`7    - Veldrin
+`^Co-GL`7 - None
+~
+-1 REQASHA~
+`$JOINING`4:`7
+You must be at least level 5-1, have the sword skill, and pass a private
+roleplaying session to rate your abilities.
+
+`$ADVANCEMENT`4:`7
+`&Soldier`7   - Granted Firestorm, given Restring to string torso to `8Black Coat`7
+`&Dedicated`7 - Granted Tap, RP level 4, string torso to `8Black Coat`7 with a
+`&Silver Pin`7
+`&Asha'man`7  - Granted Restrain, RP level 8, restring torso to `8Black Coat`7
+with a `!D`1r`7a`&g`1o`!n `&Pin`7
+
+Rank advancement is based on RP lvls, noted rp, and guild rp.
+To progress in any rank, an Asha'Man will be required to attend
+a guild lead (either by the M'heal or an appointed member) "class"
+where the teacher instills the finer points of the Power to the
+student.  These sessions are then noted to the M'heal who keeps
+tally of how many classes youve attended.  Two classes are required
+per advancement.
+
+Special Grants: Any member who doesnt wish/cant participate in classes
+or doesnt wish to advance will be granted all gskills at rp level 1-1.
+~
+-1 RANKASHA~
+`&Soldier`7       - The lowest rank, they have no adornment, and are typically
+not strong in Saidin. 
+`&Dedicated`7     - Adorned with a silver sword pin, Dedicated have shown the
+potential of growth to be awarded additional power and responsibilities.
+`&Asha'man`7      - A Full Asha'man is given both the silver sword pin, and a
+dragon pin. They have the promise to be the strong warriors to conquer in
+the name of the light, for the Dragon Reborn.
+`&Attack Leader`7 - Fourth in command, the Attack Leader follows the direction
+of the M'hael, and subsequntly the Storm Leader.
+`&Storm Leader`7  - Third in command, the Attack Leader follows the direction
+of only the M'hael.
+`&M'hael`7        - Second in command only to Rand, the Dragon Reborn himself,
+the M'hael is the voice and spirit of the Asha'man. He is responsible for
+the daily training and refinement of the troops.
+~
+-1 FIRESTORM STORM RELAX~
+The rage within surges and creates a wall of fire and earth, which without
+control will decimate everything with increasing carnage. The only way for
+the madness to stop is for them to focus on releasing the effect with a 
+slow calm effort.
+
+`$SYNTAX`4:`7
+`&firestorm`7 - Starts the chaotic rain of fire and earth
+`&relax`7     - Stops the madness, but not before the damage is done.
+~
+-1 TAP~
+Asha'man have the distinct ability to tap into another's Source while it
+is held. By this all costs of weaves are halved, becoming split with the
+victim of this intricate weave of spirit.
+
+`$SYNTAX`4:`& tap <target>`7
+~
+-1 RESTRAIN~
+With powerful bonds of Air, an Asha'man can restrain his opponent to the point
+where they have no control. They cannot use weaves, move, or even cry for help.
+This powerful skill does not last long, since it is difficult to maintain a
+weave of such strength.
+
+`&SYNTAX`4:`& restrain <target>`7
+~
+-1 GLEEMAN~
+Gleeman are travelling storytellers, musicians, jugglers, tumblers, 
+and all around entertainers.  Known by their trademark cloaks of many 
+colors and patches.  The perform in a variety of settings ranging from
+small villages, to the largest cities. Only royalty scoff at them,
+believing a Court Bard more entertaining company. These enrapturing
+songs can sooth the people listening and restore some of their spirits.
+
+`$OTHER HELPS`4:`7
+`&reqgleeman`7  - Requirements for joining and advancement in Gleeman.
+`&rankgleeman`7 - List of Gleeman ranks and descriptions.
+`&dome`7        - Confuses them in a world of jubilent colors.
+`&daze`7        - Dazes them, reducing their fighting abilities.
+`&ballad`7      - With song and story you revitalize your audience.
+
+`^GL`7    - Algol
+`^Co-GL`7 -
+~
+-1 REQGLEEMAN~
+`$JOINING`4:`7
+You must be at least level `^15`7 and show an interest in entertaining
+people. This will be evident by a conversation with the GL or Co-GL.
+
+`$ADVANCEMENT`4:`7
+This is based solely on your ability to interact with players as a
+Gleeman would be expected to.
+~
+-1 RANKGLEEMAN~
+Musician    - In the beginning you are taught the instruments such as
+the flute. This is easy to learn, but hard to master.
+Dancer      - After learning the beat of the music and structure of
+rhythym, you learn to move with this with great agility and style.
+Singer      - Later with adaption to previous skills, you turn you
+yourself into a eruption of song.
+Poet        - With the physical mastered, you take up the harp, and 
+excercise the spirit of the mind. Drawing in your audience with ever
+inflective word you speak.
+Storyteller - A Gleeman himself may become legendary, and a Storyeteller
+is known for his ability to entrance their audience. It precedes them
+wherever they go.
+Bard        - The highest rank attainable, the Court Bard, is the idol
+if all Gleeman. In the company of Kings and Queens, he tells the stories
+of the land to those who aren't fortunate enough to experience it first-
+hand. However, their pockets are deep enough for it to be recited well.
+~
+-1 DOME~
+When dazed, you enter a Gleeman fantasy world where your surrounds all
+appear the same. You are restricted from Travelling via the One Power,
+as you are lost in colorful bliss.
+
+`$SYNTAX`4:`& dome <target>`7
+~
+-1 DAZE~
+Throwing their opponent off balancing blow, this attack reduces their
+ability to fight and defend themselves. While they regain their head
+quickly, it may be too late.
+
+`$SYNTAX`4: `&daze <target>`7
+~
+-1 BALLAD~
+Gleeman are here to entertain, and the price of laughter comes with
+it's own rewards. You may notice restored vitality, and overall
+rejuvenation of 1/6 of all your stats. It is customary to show your
+appreciation for being their audience by giving donations.
+
+`$SYNTAX`4:`& ballad`7
+~
+-1 GUIDE~
+Whether you are a newbie and unfamilar with the game, or you are
+having a problem with another player/situation; Guide is here to
+help. They handle every issue that deals with mortals, and will
+enforce the rules set out by the Staff.
+
+If you have a problem `!*** `&NOTE GUIDE `!***`7 if you wish it
+to be resolved. Any issues submitted to immortals regarding
+Player vs. Player conflict will be redirected to Guide. So once
+again .. Note Guide if you want anything done.
+
+`@NOTE`2: For Player vs. Player issues please following the following
+course of action:
+
+1) If you feel you are attacked with insufficient RP then note your
+guildleader. If you have no guildleader, then note guide.
+2) Your guildleader will note the guildleader of the attacker, but if
+the attacker has none your guildleader will forward it to guide.
+3) Both guildleaders will attempt to come to a resolution. If the
+situation cannot be resolved then it wll be forwarded to guide.
+
+Guildleaders have one week to come to resolution, or guide will take
+the issue. If the guildleaders are going on vacation, then they will
+appoint someone to handle their issues for them. Repeated failure 
+to respond to a situation could cost the guildleader their position.
+
+`$OTHER HELPS`4:`7
+`&reqguide`7    - Requirements for applying for a Guide
+`&newguide`7    - Guidelines for Guide pertaining to Newbies.
+`&pvpguide`7    - Guidelines for Guide pertaining to PvP conflict.
+
+`^GL`7    - Balwen
+~
+-1 REQGUIDE~
+`$JOINING`4:`7
+1. You must have logged a minimum of 300 hours on your oldest alt 
+charactor and at least one alt charactor at level 75 or above.
+      `^For Example`7: You have two characters, one a lowbie level
+      20 with 40 hours, and one a level 75 with 400, to qualify. 
+      You have six characters with 50 hours each, you do not 
+      qualify. Consistancy is as valuable as time put in. 
+      Dedicated time put in to a character shows a determination
+      as well as a certain amount of know-how.  
+
+2. You must get a minimum of 2 Immortals from this mud to send a
+note addressed to the Immortal in charge of mediating the council,
+endorsing you for the position on this council. 
+
+3. You must get a minimum of 5 mortal charactors from this mud,
+who have no immortal alts, to send a note addressed to the 
+Immortal in charge of mediating the council, endorsing you for the
+position on this council.
+
+4. Final Approval will be granted initially by the single Immortal
+on the council, and further down the road, by a majority vote by
+the Mortal charactors on this council.
+
+5. You may not have an Immortal alt and be a member of Council, 
+unless you are the obligatory Immortal pre-selected by the leading
+Implementors in power.
+~
+-1 NEWGUIDE~
+`$DUTIES AND RESPONSIBILITIES PERTAINING TO NOVICES`4:`7
+
+While the powers-that-be do not expect you to give up excessive
+time on your own charactors, once you have made the decision to be
+a part of this council, you must be prepared to dedicate yourself
+to it appropriately.
+
+Thus, we are allowing your council charactor the freedom of multi-
+playing for the sole purpose of assisting those in need. You are 
+restricted from killing anything with your council member, and any
+abuse of the priviledge given will of course be met with immediate 
+and final action.
+
+Now that we understand that, we come to your true purpose.
+
+1. Your one true purpose and the thing that should be uppermost in 
+your mind at all times, is that you represent this mud and our 
+staff to all the visitors and new players we get.  
+
+2. It falls on you to answer questions, no matter how small you 
+think they are, and provide initial advice to our incoming pbase.
+There is no excuse for treating a new player with disrespect or 
+anything but polite understanding and patience. If you have to 
+leave, or are otherwise occupied, handing questions to trustworthy 
+players is an adequate solution, however, you should then follow up
+on the outcome.
+
+3. It is important to note that there IS such a thing as TOO MUCH 
+help. We are not here to plevel new players, or give hand outs. We
+are teachers, and the best way to learn is through experience.  
+      `^For example`7: don't just give a port to gleeman area; show
+      them the way to walk there. Do not just give them eq; show
+      them which mob loads it. I trust you get the idea.
+
+4. Do not accept rudeness from new players any more than you accept 
+it from our current pbase. Politely excuse yourself and address the
+immortal present with your problem. We do not expect you to be 
+walked on.
+
+5. If your council member is logged, your Novice channel is 
+expected to be on. You have the ability to silence any player on
+the channel for due cause, though, of course, abuse of this ability
+will be quickly corrected.
+      `$SYNTAX`4: `&ntoggle <player name>`7
+~
+-1 PVPGUIDE~
+
+`$DUTIES AND RESPONSIBILITIES PERTAINING TO DISPUTES`4:`7
+
+These responsibilities may be the most frustrating and irritating
+of anything you do with regard to this guild's operation. However; 
+it is the intent of the staff to pick from GUIDE guild our future
+Immortals. Thus, it is your chance to diplay how very level-headed
+and objective you can be in times when tempers flare and people
+are at their nastiest.
+
+If players have an issue, first: each player involved must `&NOTE 
+GUIDE`7. All the members of the guild must have the opportunity to
+examine the issue objectively from BOTH sides. Witnesses to the
+event may also note the guild with exactly what they saw, minus
+speculation as to anything that may have happened prior, or after
+the event.
+
+When no less than three GUIDE guild members as well as the
+mediating Immortal, have had a chance to review the issue, the
+decision reached will be returned to the players.  
+
+Appeals to these decisions may be granted, with cause, by the
+mediating immortal, in which case they will be forwarded to the
+Implementors in charge, with the findings of the guild.
+
+Since each situation you encounter is bound to be different,
+and every battle has at least two sides we can offer these
+basic guidelines to assist you in settling disputes between
+players.
+
+1. Keep heated discussion of the incident off OOC. It only
+adds to the clamor and distorts the facts. Not to mention it
+reflects badly on the mud.
+
+2. Know the Rules. Know the rules as they are written in the
+helps. These are the rules the players know. We cannot go by
+what may have been said in passing a week ago, or by suspected
+intent of the rule-makers.  Use hard text fact to back up your
+knowledge.
+
+3. When in doubt, refer to Imms. There is no shame in saying
+you can't handle their problems right away. We don't expect
+you to feel comfortable passing judgement on every problem
+brought to your attention. Rather than make a bad decision,
+pass the problem on to someone who has the necessary power
+to enforce it.
+
+4. Do Not Take Sides. Regardless of how well you think you
+know the people playing with you on this mud, you will refrain
+from taking sides openly on any issue without having the facts
+presented. If this means you must keep the identity of your 
+Guildmember cloaked, so be it.  Any show of favoritism on the
+part of the GUIDE guild in respect to settling disputes only
+serves to downgrade authority, and damage the respect the
+guild and staff of the mud require to do their jobs.
+
+5. Be nice. Yeah yeah, Roadhouse. Still applies. Be nice. It
+looks good, makes people feel good, and when they feel good,
+understandings can be reached that much quicker.
+~
+-1 OUTCAST~
+When a player is banished from another guild they end up in
+this guild. You cannot enter another guild from Outcast. The
+only way out is to type "leaveguild" and suffer the 30% 
+penalty to all stats. Outcast also suffers a damage reducer
+when fighting other players, the benefit of no gskills.
+~
+-1 'RED HAND' RED_HAND REDHAND~
+The Band of the Red Hand or "Shen an Calhar" was born in the
+time of Manetheren. An elite group of soldiers, dedicated to
+Aemon al Caar al Thorin. According to legend they held to his
+side until the very end, defending against the mass of Trollocs
+that stormed over the thorn in the Dark One's side. Recently
+ressurected by Mat Cauthon, it has grown in size as followers
+flock to join Mat's famed glories of battle and unusual luck.
+Other than the Children of the Light, it remains one of the
+only military organizations that has no alliance to any nation.
+Sometimes called Redarms or the Band, most soldiers have adopted
+their leaders distaste for Aes Sedai meddling, and express an
+interest in the lure of potential wealth.
+
+`$OTHER HELPS`4:`7
+`&reqredhand`7   - Requirements for joining and advancing in
+the army of the Red Hand.
+`&ranksredhand`7 - List of Red Hand ranks and descriptions.
+`&medallion`7    - Chance to reflect or dissipate weaves.
+`&warcry`7       - Battlecry to raise the moral of troops.
+`&luck`7         - A little bit of luck never hurt.
+
+`^GL`7    - Matrim
+`^Co-GL`7 -
+~
+-1 REQREDHAND~
+`$JOINING`4:`7
+There is no pre-requisite for joining, but you must speak with the GL
+or Co-GL to get tested. Each test is usually unique in it's own way.
+
+`$ADVANCEMENT`4:`7
+Upon reaching 75 you may test for an additional rank than what you
+have already earned. Ranks are rewarded specifically for extremely
+good roleplay and pkilling (by pkilling both surviving attempts on
+their life and actually killing them). Also, adhering towards the
+rules set forth by the GL and Co-GL can earn you praise.
+~
+-1 RANKSREDHAND~
+`&Soldier`7          - Minimal wages, but still a good adventure,
+the brunt of the Red Arms forces are consisted of troops. Each man
+is both ready to die, and to really live for the banner of Matrim.
+`&Veteran`7          - Battle worn and scarred, those who live
+demand the respect of those around them. They are given prime
+positions in combat, saluted by Soldiers, and nods from their
+commanders.
+`&Banner-General`7   - Everyone fights, even the Generals. These
+men head the charge up, driving their forces into battle, wailing
+commands to heed. Their tempered knowledge keeps men alive, and
+more importantly wins battle.
+`&Lt. Commander`7    - These men see the bigger picture. Helping
+organize legions of troops, they manuever against the enemy as a
+whole, and not just smaller forces. 
+`&Marshall General`7 - Second in command, Marshall General is
+treated in awe as much as they are respected. Rank is designated
+by how you prove yourself in battle, and unlike other armies the
+highest ranks are the most powerful.
+`&Lord General`7     - Leader of the Band, the Lord General
+strives to increase numbers, push forth issues, and decide when
+it's time to fight. All commands default to their ruling.
+~
+-1 MEDALLION~
+Much like Matrim Cauthon's fox-headed medallion, his troops
+seem to share a similar if not as effective benefit. Adorning
+a medallion they find themselves able to reflect weaves from 
+hitting them, and sometimes even dissipating it completely.
+
+`$SYNTAX`4: `&medallion`7
+~
+-1 WARCRY~
+Shouting the cries of victory for Manetheren gives an inspiring
+effect. It causes you to inflict more damage, strike more often,
+and generally be more resistant to the One Power's affects.
+
+`$SYNTAX`4: `&warcry`7
+~
+-1 LUCK~
+Sometimes things just click. In this instance Red Arms seem to
+be able to toss the dice biased in their favor. With this 
+unusual ability, there is a chance to amplify your damage 
+signifigantly. Sometimes tripling what you would normally do.
+
+`$SYNTAX`4: `&Automatic`7
+~
+-1 SEANCHAN~
+The Seanchan are descendants of the armies that High King
+Artur Hawkwing sent across the Aryth Ocean, and conquered
+the lands there. The Empire is currently ruled by an Empress
+from the Court of Nine Moons, located in Seandar, where he 
+reigns upon the famed Crystal Throne. Protected by the elite
+DeathWatch Guard, he commands the soldiers mainly made up of
+light infrantry known as Fists of Heaven. Also, consisting
+of leashed Damane's lead by their Sul'dam, and numerous
+manner of beasts. The Ever Victorious Army, led by the Hailene
+or "Forerunners", has returned from across the Aryth Ocean to
+reclaim the Hawkwing lands in what they call the Corenne, the
+Return. Many smaller nations buckle under pressure, but even
+the strongest nations fall before their mighty presence.
+
+`$OTHER HELPS`4:`7
+`&reqseanchan`7   - Requirements for joining and advancing.
+`&ranksseanchan`7 - List of Seanchan ranks and descriptions.
+`&damane`7        - Summon a damane to your side and force
+her to channel by your side.
+`&blood`7         - The blood of the descendants is strong.
+`&ravage`7        - Inflict endless pain to those who oppose.
+
+`^GL`7    - Calendros
+`^Co-GL`7 - Tanreall
+~
+-1 REQSEANCHAN~
+Citizen - lvl 15 or higher, able to serve loyaly to the Empire Fist of
+Heaven - lvl 15 or higher, but shows improvement and intrest in the
+Seanchan.  Fist Commander - lvl 60 or higher.  Shows leadership capabilities
+and loyalty to the Seanchan.  Seeker - lvl 60 or high.  RP lvl 3, shows
+loyalty to the guild by logging on often.  Overseer - lvl 60 or higher.  RP
+lvl 3 or higher, is helpful in giveing information and qps to Seanchan.  Has
+to log on often.  Enforcer - lvl 75 minimum.  No rp lvl required.  Has to be
+able to pk good and log often.  High Lord - Has to log on alot, RP lvl 5
+minimum.  Has knowledge of the mud and helps others in the guild.  Offers
+advice to help Seanchan as a guild.  Deathwatch Commander - Has to log on
+the most.  Has knowledge of the mud, and be able to pk good.
+~
+-1 RANKSSEANCHAN~
+`&Citizen`7 - Await and serve.  They pledge their lives for the Empire, and
+will be rewarded with time.  
+`&Fist of Heaven`7 - The light infantry they make up the majority of the Ever
+Victorous Army Fist Commander`7 - They organize the Emperor's army and lead
+them into battle. 
+`&Seeker`7 - They seek truth, and are even feared by the Lords and those of the
+`&Blood Overseer`7 - They watch over the Seekers, Fist, and Citizens.  They collect
+intellegence of the Seanchan's rivals and report to the High Council. 
+`&Enforcer`7 - These are the High Council's elite guards.  They enforce the Seanchan
+law, and carry out task for the High Council no matter how bloody the mission. 
+`&High Lord`7 - They are the Emperor's advisors on internal and external affairs.
+They make sure that each task is carried out swiftly.  High Lord's never 
+tolerate incolence to the Emperor.  
+`&DeathWatch Commander`7 - This is the one in charge of the Enforcers.  He is the 
+Emperor's most elite, and most loyal soldier. No one will touch the Emperor with
+a Deathwatch around.  
+`&Emperor`7 - Sitting upon the Crystal Throne, he issues orders for the conquering 
+of the world. He has power and authority over all Seanchans and can over rule 
+anyone in the High Council.  
+`&The High Council`7 - All members on the High Council are the voice of the Seanchan
+Empire.  They discuss and vote on internal and external affairs. You must be a 
+High Lord, Deathwatch Commander, or the Emperor to be a High Council member.  
+~
+-1 DAMANE~
+Marath'damane cannot stay free for long. With this you
+summon one of the leashed damane, and control her through
+your a'dam. You can force them to take the brunt of damage,
+or order them to use the One Power. Basically whatever you
+will to happen, because they are alive only by your grace.
+
+`&SYNTAX`4:`7
+`&damane`7                - To summon the damane
+`&order damane <action>`7 - Using conventional group/order
+commands you can force them to take action.
+~
+-1 BLOOD~
+With the power of their ancestors, the blood of Hawkwing
+lineage allows an extra powerful attack while fighting.
+While normally requiring you to be born into it, through
+extreme sacrifice the Emperor or Emporess can anoint a
+servant worthy of arising to the blood.
+
+`$SYNTAX`4: `&Automatic`7
+~
+-1 RAVAGE~
+Utilizing the ancestors blood, you can cause pestilence
+to erupt on those unworthy of holding the precious elixir.
+They will suffer pain beyond thought, every hour of their
+shortening lives.
+
+`$SYNTAX`4: `&ravage <target>`7
+~
+-1 SHADOW FORSAKEN CHOSEN~
+The Forsaken were the 13 strongest Aes Sedai during the Age of Legends
+who, all for their own reasons, eventually took vows to the Dark One.
+They were given eternal life by the Dark One and were imprisoned with
+him in Shayol Ghul when the Dragon led his 100 Companions there to seal 
+the prison forever. However, the Dark One lashed out at the force and 
+tainted the male half of the True Source, saidin. Only the male 
+Forsaken who have bonded with the Shadow are sheltered from going mad 
+from the taint. The Forsaken escaped from their prison in the Blight 
+and are strategically placing themselves in power around the world.
+They have minions called Darkfriends of every type and occupation in
+the world. There are rumors of the Black Ajah and Darkfriend Children 
+of the Light even. Both Darkfriends and the Forsaken are evil to the 
+extreme their names are still used to scare children everywhere.
+
+They all strive and plot to win favor of the Great Lord of the Dark, 
+and strive to become Nae'blis, his favorite. Anyone standing in their 
+way should be wary, even other Forsaken. These deadly Chosen reign upon 
+the world with vengeance of the Light; corrupting everything they 
+touch.
+
+`$OTHER HELPS`4:`7
+`&rpshadow`7 - Guidelines for Shadow to follow when playing FS, and
+commands associated with darkfriends.
+`&pray`7     - Retribute some damage you take by inflict it on others.
+`&shroud`7   - Conceal yourself in inpenetrable darkness.
+`&stealth`7  - Mask your movements so they are not seen.
+`&taint`7    - The forges of Thakan'dar corrupt a blade so it causes
+wounds to fester and bleed.
+
+`^FS Oversight`7 - Gypht
+`^GL`7           - Moghedien
+~
+-1 RPSHADOW DARKFRIEND DF ENSLAVE PLEDGE MINION~
+Chosen may take on darkfriends to aide in their pursuits to further
+their own powers and that of the Great Lord of the Dark. These friends
+of the dark do the bidding of their Chosen. Sometimes it would either
+be beneath the Forsaken or bring them out in the open too much.
+
+`$SYNTAX`4:`7
+`&pledge <forsaken>`7    - First the potential darkfriend must pledge
+their undying service to the Great Lord of the Dark.
+`&enslave <darkfriend>`7 - The chosen may then enslave them to their
+particular servitude.
+`&min <message>`7        - Allows both the darkfriend and chosen to
+communicate with each other.
+~
+-1 PRAY~
+Shai'tans protection deals a retributive blow that pains any and all 
+attackers that strike you by reflecting some of the damage back to 
+them. The powers of the Great Lord of the Dark are never fleeting.
+
+`$SYNTAX`4: `&pray`7
+~
+-1 SHROUD~
+Under the veil of darkness, a Chosen may go completely unseen. This
+inpenetrable shroud lasts a short time, but it's function is well
+worth the price paid.
+
+`$SYNTAX`4: `&shroud`7
+~
+-1 STEALTH~
+Soft steps and soundless motion are achieved by a cloud of darkness
+that mutes any audible noises. This allows Forsaken to pass undetected 
+when leaving and entering a room.
+
+`$SYNTAX`$: `&stealth`7
+~
+-1 TAINT~
+Usable by only Shadow and the Darkfriends they choose to bless upon, 
+this ability coats an item with honed darkness. This strengthens an
+item so it does not burn, chip, or break. Also, if a weapon it causes
+damages incured to fester and bleed. The drawback is there is a chance
+that the item may be permanently damage if you die, causing it 
+to crumble into dust.
+
+`$SYNTAX`4: `&taint <item>`7
+~
+-1 TINKER~
+The Tuatha'an are a peaceful people. Led by the Seeker or Mahdi they
+wander aimlessly in search of the Song. The Song is what will heal the
+wounds that violence creates, but it has been lost since the time of
+the Breaking. Also called the Traveling People, they follow the Way of
+the Leaf, which is a crede of nonviolence. Basically they do not fight
+in any form or fashion, and instead pass listfully through life until
+they break away and float gently the ground, as a leaf falling from a
+tree. They are hard workers though, and sometimes mistakenly thought of
+as thieves. With song and spirit they brighten the day almost as much
+as their flamboyant, colored clothing. It is also part of their craft
+that in need to prosper in hard times that they have become exceptional
+handymen, and can fix virtually anything better than new.
+
+Tinkers cannot be killed by any other player, and therefore cannot
+participate in any action including assisting someone engaged in
+violence.
+
+`$OTHER HELPS`4:`7
+`&reqtinker`7  - Requirements for joining and advancement in Tinker.
+`&ranktinker`7 - List of Tinker ranks and descriptions.
+`&fix`7        - Repair damaged equipment
+`&campfire`7   - Benefit from the healing effects of a warm fire.
+
+`^GL`7    - Gehren
+`^Co-GL`7 - Plaid
+~
+-1 REQTINKER~
+`$JOINING`4:`7
+`&You must have a roleplaying understanding of what it means to be a Tinker,
+and not have another Tinker. Newbies are usually given first right to joining.
+
+`$ADVANCEMENT`4:`7
+`&Traveller`7   - RP level 3
+`&Ruespieler`7  - RP level 6
+`&Gypsy Joker`7 - RP level 10
+~
+-1 RANKTINKER~
+`&Hermit`7
+`&Traveller`7
+`&Ruespieler`7
+`&Gypsy Joker`7
+`&Seeker`7
+`&Mahdi`7
+~
+-1 FIX~
+Being non-violent, they are able to dedicate more time to other crafts. This
+includes the gentle art of repairing items. So, if you are in need of a fix
+for something that has become damaged or broken just find a Tinker. There
+might be a small, nominal fee, but the craftmanship is impressive.
+
+`$SYNTAX`4: `&fix <item>`7
+~
+-1 CAMPFIRE~
+Tuatha'an extend their warm hearts to weary travellers. Once welcomed to
+their fires you can enjoy the regenerative powers of their fires. They
+may also charge a small fee for this, usually the cost it takes to make
+the fire. They must purchase flint and steel to ignite the fire, and 
+fuel to burn like wood.
+
+`$SYNTAX`4:`7
+`&build <fuel>`7 - With the fuel in your inventory it makes a usable pile.
+`&ignite fire`7  - Using flint and steel, you ignite the fire.
+~
+-1 WARDER~
+Warders are the protectors of the Sedai. The One Power is a reckoning 
+force, but there are not always times when Aes Sedai are invulnerable.
+Warders, or Gaidin, as referred to by their Sedai hold fast when their
+Sedai is unsteady. The bond between the two is closer than that of love.
+The bonding is a thing of the One Power, an by it, the Warder, gains
+such gifts as quick healing, the ability to go lond periods of time 
+without food, water, or rest, and the ability to sense the taint of the
+Dark One at a distance. So long as a Warder lives, the Aes Sedai to whom
+he is bonded knows he is alive however far away he is, and when he dies
+she will know the moment and manner of his death. While most Ajahs 
+believe that an Aes Sedai may only have one Warder, the Red Ajah refuses
+to bond any Warders at all, while the Green Ajah believes an Aes Sedai
+may bond as many Warders as she wishes. Ethically the Warder must accept
+to the bond, but it has been known to be done involuntarily.  What the
+Aes Sedai gain from the bonding is a closely hid secret. Warders are 
+normally recognized by their color-shifting cloaks and grim apperance.
+They rarely show emotion and are very powerful in the midst of battle.
+
+`$OTHER HELPS`4:`7
+`&reqwarder`7  - Requirements for joining and advancement in Warder.
+`&rankwarder`7 - List of Warder Ranks and descriptions.
+`&void`7       - Assume stillness, and allow a greater volley of attacks.
+`&nohunger`7   - Ability to endure without nourishment.
+`&bond`7       - Link between a Sedai and her Warder.
+
+`^GL`7    - Ravie
+`^Co-GL`7 - Suten
+~
+-1 REQWARDER~
+`$JOINING`4:`7
+You must be at least level 15, have a good understanding of the roleplay behind
+Warder, send in a background of your character, and the reason why you wish to
+become a Warder.
+
+`$ADVANCEMENT`4:`7
+~
+-1 RANKWARDER~
+Student            - Learning basic forms and balance of the sword
+they aren't even ready to leave for battle. 
+Advanced Student   - Once they have reached this rank they have
+begun to learn the dance of battle, and learn to link forms fluidly.
+Warder             - Reaching the full rank of Gaidin, they are ready
+to be bonded and fight the Shadow.
+Master of Students - The most experienced of Gaidin come back and
+to teach the students the artform of battle.
+Dai Shan           - Battle Lord, this is the second most powerful
+warder. He is a living weapon.
+Master of Arms     - The leader of Gaidin is a mix of death and grace.
+He is the inspiration of all others to follow.
+~
+-1 VOID~
+While holding the silent, calm flame of the void a Gaidin can increase
+his fighting abilities signifigantly. At a certain point they become
+one with their blade and the fight itself, slipping into a fury of 
+assault. They strike repeatedly in a masterful exchange.
+
+`$SYNTAX`4: `&Automatic`7
+~
+-1 NOHUNGER NOTHIRST~
+As part of their bonding with Aes Sedai, they do not suffer fatigue
+the same as others. This also extends to hunger and thirst not having
+an affect on their bodies. A very good advantage for long travels.
+
+`$SYNTAX`4: `&Automatic`7
+~
+-1 WHITECLOAK~
+The Children of the Light, or Whitecloaks, are a society of strict ascetic
+beliefs, owing allegiance to no nation and dedicated to the defeat of the
+Dark One and the destruction of all his follows. Founded during the War of
+the Hundred Years to proselytize against an increase in Darkfriends, they
+evolved during the War of a Hundred Years into a completely military
+society.  Extremely rigid in beliefs, and certain that only they know the
+truth and the right feel compelled to question all people thought to be
+darkfriends.  Aes Sedai are also considered to be worse then darkfriends
+as they channel from the True Source. Their symbol is a golden sunburst
+on a field of  white. Along with Matrim Cauthon's Band of the Red Hand
+they are probably the only other army that belongs to no one but themselves.
+They are led on their Field by their Lord Captain Commander and his fellow
+officers. At the Dome of Truth, in Amador, another sect of thier Children
+called Inquisitor's take on a new role. They are responsible for the
+questioning of potential darkfriends, hence their nickname of Questioners.
+They are denoted by a red sheperd's crook, and are led by the High 
+Inquisitor. Ranks in the Children are denoted by silver lightning bolts,
+or golden knots for the officers.
+
+`$OTHER HELPS`4:`7
+`&reqwc`7         - Requirements for joining and advancement in WC.
+`&rankwc`7        - List of WC ranks and descriptions.
+`&cleanse`7       - Purge the tortured souls from their taint.
+`&stance`7        - Take a military stance for greater defense and
+offense capabilities.
+`&detect shroud`7 - Ability to see Shadow even when shrouded.
+
+`^GL`7    - Brakar
+`^Co-GL`7 -
+~
+-1 REQWC~
+`$JOINING`4:`7
+Must be at least level 15 and pass a series of roleplaying and ability tests.
+
+`$ADVANCEMENT`4:`7
+Advancement is based solely on your performance and the disgression of
+the Lord Captain Commander or High Inquisitor.
+~
+-1 RANKWC~
+`&Soldier`7         - The basic Child of the Light in this military
+organization are responsible for the basic discovery of Darkfriends,
+and preserving the Way of the Light.
+`&Captain`7         - Captain of the Children of the Light are denoted
+by their silver lightning bolts or golden knots of rank. They are the
+leaders on the battle field of hundreds of their fellow light sworn.
+`&Inquisitor`7      - The Hand of the Light is better known to others
+as Questioners. It is their divine duty to bring Darkfriends to justice
+and for them to admit the truth that they are servants to the Shadow.
+This is sometimes accomplished with less than pleasant means.
+`&Lord Captain`7    - Lord Captains delegate their authoirty over
+legions of troops. They are the highest ranking troops aside from the
+Lord Captain Commander himself. A Captain of not full rank who is
+serving under Lord Captain is sometimes called Second Captain.
+`&High Inquisitor`7 - The leader of the Hand of the Light, he is the
+only member of this order who does not have the symbol of the golden
+sunburst. Some believe this to be that he is seperate and believed
+to be beyond the laws and rules governed by the Lord Captain Commander.
+`&Lord Captain Commander`7 - The leader of Luthair Mantelar's Children
+of the Light, he is the highest point of light. He bears the sole and
+enormouse responsibility or preserving and furthering the Way of the 
+Light, which requires a strong will and sharp mental wit.
+~
+-1 CLEANSE~
+The taint of shadow is spread throughout the land. It is the job of the
+Children of the Light and Inquisitors of the Hand of Light to route out
+this infection, and purge the shadow from the souls of the world. With
+this divine gift they can cleanse the very soul of the Darkfriends.
+
+`$SYNTAX`4: `&cleanse <target>`7
+~
+-1 STANCE~
+In combat whitecloaks are cold and calculated. From the art of turning
+words around they have developed a partially defensive and offensive
+stance. This stance increases the damage they deal by 25% as well as
+giving bonuses to their blocks, parries, dodges, etc.
+
+`$SYNTAX`4: `&stance`7
+~
+-1 'DETECT SHROUD' DETECTSHROUD DETECT_SHROUD~
+Shadow has it's evil ways to corrupt the eyes of the unpure of character.
+However the Children are not so affected by this, and can penetrate their
+concealled darkness to see what truely lies beyond the shadows.
+
+`$SYNTAX`4: `&Automatic`7
+~
+-1 WOLFBROTHER WB~
+Brothers to wolves. They are normal men who have found themselves in touch
+with nature in a most unexpected way. Through dreams and a tight connection
+with the world of Tel'aran'rhoid they are able to conversate with a wolf.
+Some think this is work of the One Power or even the Dark One, but it is
+something older than time. At first they will appear as normal men but as
+time goes on they develop heightened senses and will even adapt signature
+yellow eyes. They are seperated into three packs dependant on duty. They
+are even distinguished further by their affiliation of circles.
+
+`@Circle Advancement`2:`7
+`&1st Circle`7 - These are the weakest and usually require constant 
+supervision. They are considered always as new cubs.
+`&2nd Circle`7 - More advanced these are the advanced troops, similar
+to what a would be just below an officer if this were military.
+`&3rd Circle`7 - Most advanced rank within a circle, they command repect
+of everyone and treated as leaders among the pack.
+`&Elder`7      - These are the heads of the pack. They determine what
+actions will be taken, avoided, or generally how to deal with a situation.
+
+`@Pack Types`2:`7
+`&Death Pack`7 - Hunting group, experts in killing, and good at running.
+They are sent to solve any "disputes" that the wolves may have.
+`&Defenders`7  - This pack is responsible for defending the pack against
+agressors. While they do not usually take direct action in a situation,
+they are sometimes called upon to assist a Death Pack member.
+`&Collectors`7 - The novices of wolfbrothers, they are restricted to
+mainly just finding shelter, equipment, food, etc. After they learn more
+of the world they can advance onto other advanced packs.
+
+`$OTHER HELPS`4:`7
+`&reqwolf`7    - Requirements for joining and advancement in Wolfbrother.
+`&rankwolf`7   - List of Wolfbrother ranks and descriptions.
+`&hunt`7       - Chance of inflicting additional damage.
+`&wolf`7       - Speak to the wolves to come to your aid.
+`&permdetect`7 - Yellow eyes see all.
+`&howl`7       - Raises your attack and damage with a primal howl.
+
+`^GL`7    - Altho
+`^Co-G`7  - 
+~
+-1 REQWOLF~
+`$JOINING`4:`7
+Must be at least level 15 and pass a series of roleplaying and ability tests.
+
+`$ADVANCEMENT`4:`7
+Advancement is based solely on your performance and the disgression of the
+Leader of the Pack or Denleader.
+~
+-1 RANKWOLF~
+`&Cub`7                - New to the hidden world of wolves they are too
+inexperienced to traverse Tel'aran'rhoid, and instead remain fully in tune
+with the living world.
+`&Yearling`7           - Slightly more wise in the ways of the world,
+they are more in tune with the Dream World. 
+`&WolfBrother`7        - A full Brother to Wolves can manuever with great
+skill, and exists in both world.
+`&Elder WolfBrother`7  - Death dos not stop a wolves life, and the oldest
+of wolves fear nothing.
+`&Denleader`7          - Wolves battle each other for superiority, only the
+strongest lead. This is the strongest of all those in the Den.
+`&Leader of the Pack`7 - The leader of all wolves, they are the strongest in
+spirit, and wisest of all.
+~
+-1 HUNT~
+Searching for the glancing blow, wolves and ther brothers can deal more
+damage than others. It could be because of their nature of being half in
+the living world and half in the dream one, but either way they remain
+deadly advesaries.
+
+`&SYNTAX`4: `&Automatic`7
+~
+-1 WOLF~
+Come.
+We Come.
+
+A single wolf is never alone, and it can be assured that others are nearby.
+This is true for the Brothers of Wolves, and they may summon a Wolf to come
+to their aid whenever needed.
+
+`$SYNTAX`4: `&wolf`7
+~
+-1 PERMDETECT~
+Their yellows eyes are not that of normal men. They see beyond to what is
+not seen. With these eyes they can see weaves that render most invisible
+to the outside world, or notice the finest detail to reveal those unseen
+and hidden.
+
+`&SYNTAX`4: `&Automatic`7
+~
+-1 HOWL~
+With a primal growl, a Wolfbrother sets for the animal within. The rage
+erupts into aggressive attacks which are more powerful and strike true.
+
+`&SYNTAX`4: `&howl`7
+~
+
+-1 $~
+ 
+#$

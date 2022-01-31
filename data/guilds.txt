@@ -1,0 +1,293 @@
+Clan 0
+Name None~
+WhoName `7~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display None~
+Ranks 0
+GSkills 0
+
+Clan 1
+Name tinker~
+WhoName `7[`6T`^i`6nker`7] `7~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Tinker~
+Ranks 10
+0 `!R`1efugee`*~
+1 `$L`4aborer`*~
+2 `^C`6r`^a`6f`^t`6s`^m`6a`^n`*~
+3 `$L`4i`$s`4t`$e`4n`$e`4r`*~
+4 `^T`6uatha'an`*~
+5 `@T`2r`@a`2v`@e`2l`@l`2e`@r`*~
+6 `^Ru`&e`^spie`&l`^er`*~
+7 `@G`2yp`@sy `2Jo`@ke`2r`*~
+8 `6Eld`^e`6r`*~
+9 `6M`^a`6hd`^i`*~
+GSkills 2
+0 Fix~
+1 Build~
+
+Clan 2
+Name ashaman~
+WhoName [`!A`8sha'`!M`8an`7] ~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Blacktower~
+Ranks 10
+0 Dedicated~
+1 Asha'man~
+2 Attack Leader~
+3 M'hael~
+4 Shae'en M'taal~
+5 Sovin Nai~
+6 Far Aldazar Din~
+7 Far Dareis Mai~
+8 CoGL~
+9 GL~
+GSkills 5
+0 veil~
+1 dream~
+2 restrain~
+3 tap~
+4 firestorm~
+
+Clan 3
+Name aessedai~
+WhoName [`&W`7hite `&T`7ower`7] ~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Aes Sedai~
+Ranks 10
+0 `!N`1ovice`7~
+1 `!A`1ccepted`7~
+2 `%S`5ister`7~
+3 `%S`5itter`7~
+4 ~
+5 ~
+6 ~
+7 ~
+8 `%K`5eeper `%o`5f `%t`5he `%C`5hronicles`7~
+9 `^A`6myrlin `^S`6eat`7~
+GSkills 3
+0 still~
+1 balefire~
+2 void~
+
+Clan 4
+Name shadow~
+WhoName [`8Sh`7a`8dow`7] ~
+Vnum 0~
+Display Display Display Shadow~
+Ranks 10
+0 `!M`1aso`8c`1his`!t`*~
+1 `&S`7a`8di`7s`&t`*~
+2 `&H`8uman `&S`8lave`*~
+3 `&F`8riend of the `&D`8ark`*~
+4 `8G`7re`8y M`7a`8n`*~
+5 `8C`1i`8rcl`1e `8L`1ea`8d`1e`8r`*~
+6 `1Dre`!a`8d`!l`1ord`*~
+7 `4Ch`8os`4en`*~
+8 `8D`1a`8rk`7S`8p`1a`8wn`7~
+9 `8Na`7e`&'b`7l`8is`7~
+GSkills 4
+0 stealth~
+1 shroud~
+2 pray~
+3 taint~
+
+Clan 5
+Name seanchan~
+WhoName `7[`$Se`4a`$nchan`7] `7~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Seanchan~
+Ranks 10
+0 `^D`7a`8'`^c`7o`^v`7a`^l`7e~
+1 `6C`7i`6t`7i`6z`7e`6n`*~
+2 `6F`8i`6s`8t `6o`8f `6H`8e`6a`8v`6e`8n`*~
+3 `%S`5u`%l`7'`5d`%a`5m`*~
+4 `^S`6o`7'`^j`6h`^i`6n`*~
+5 `5D`8e`5a`8t`5h`8w`5a`8t`5c`8h `5G`8u`5a`8r`5d`*~
+6 `$N`4o`$b`4l`$e`*~
+7 `^S`6e`^e`6k`^e`6r`*~
+8 `7D`8e`7a`8t`7h`8w`7a`8t`7c`8h `7C`8o`7m`8m`7a`8n`7d`8e`7r`*~
+9 `$E`4m`$p`4e`$r`4o`$r`*~
+GSkills 3
+0 blood~
+1 ravage~
+2 damane~
+
+Clan 6
+Name redhand~
+WhoName [`!R`1ed `!H`1and`7] ~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Red Hand~
+Ranks 10
+0 `!R`1e`!c`1r`!u`1i`!t`7~
+1 `!S`1c`!o`1u`!t`7~
+2 `!S`1o`!l`1d`!i`1e`!r`7~
+3 `!B`1a`!n`1n`!e`1r`!m`1a`!n`7~
+4 `!R`1e`!d`1a`!r`1m`7~
+5 `!V`1e`!t`1e`!r`1a`!n`7~
+6 `!C`1a`!p`1t`!a`1i`!n`7~
+7 `!L`1t`8. `!C`1o`!m`1m`!a`1n`!d`1e`!r`7~
+8 `!M`1a`!r`1s`!h`1a`!l `!G`1e`!n`1e`!r`1a`!l`7~
+9 `!L`1o`!r`!d `!G`1e`!n`1e`!r`1a`!l`7~
+GSkills 3
+0 luck~
+1 warcry~
+2 medallion~
+
+Clan 7
+Name whitecloak~
+WhoName `7[`#W`&hite`#C`&loak`7] `7~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Whitecloak~
+Ranks 10
+0 `#P`&rivate`*~
+1 `#F`&ortress `#G`&uard`*~
+2 `#C`&hild `#o`&f `#t`&he `#L`&ight`*~
+3 `#I`&nquisitor`*~
+4 `#L`&ieutenant `#C`&ommander`*~
+5 `#C`&aptain`*~
+6 `#I`&nquisitor `#S`&pecialist`*~
+7 `#L`&ord `#C`&aptain`*~
+8 `#H`&igh `#I`&nquisitor`*~
+9 `#L`&ord `#C`&aptain `#C`&ommander`*~
+GSkills 2
+0 stance~
+1 cleanse~
+
+Clan 8
+Name admin~
+WhoName [`!A`1dm`8i`!n`7] ~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Admin~
+Ranks 7
+0 `3Builder`*~
+1 `8Supreme`*~
+2 `^Creator`*~
+3 `@GuildMaster`*~
+4 `$HeadBuilder`*~
+5 `&Coder`*~
+6 `!I`1mplementor`*~
+GSkills 0
+
+Clan 9
+Name outcast~
+WhoName `7[`@Outcast`7] `7~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Outcast~
+Ranks 6
+0 Outcast~
+1 Outcast~
+2 Outcast~
+3 Outcast~
+4 Outcast~
+5 Outcast~
+GSkills 0
+
+Clan 10
+Name guide~
+WhoName [`#G`3U`#I`3D`#E`*] ~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Guide~
+Ranks 6
+0 `#G`&uide`*~
+1 `^A`&dvance`^d `^G`&uid`^e`*~
+2 `2M`&aste`2r `2G`&uid`2e`*~
+3 `BI`&mmorta`Bl `BG`&uid`Be`*~
+4 `1I`&mmorta`1l `1M`&ediato`1r`*~
+5 `6H`&ead `6M`&ediator`*~
+GSkills 0
+
+Clan 11
+Name wolfbrother~
+WhoName [`3Wolfbrother`7]~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display wolfbrother~
+Ranks 5
+0 Blank~
+1 Blank~
+2 Blank~
+3 Blank~
+4 Blank~
+GSkills 2
+0 still~
+1 balefire~
+
+Clan 12
+Name furies~
+WhoName [`!D`1r`7ag`8o`&n`7sw`1o`!r`&n`7] ~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display furies~
+Ranks 6
+0 `8Initiate `7~
+1 `8Journeyman `7~
+2 `8Hand of Fate `7~
+3 `8Master Class `7~
+4 `8Council of Three `7~
+5 `8Master Fury `7~
+GSkills 0
+
+Clan 13
+Name gleeman~
+WhoName [`@G`2l`@e`2e`@m`2a`@n`7] ~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Gleeman~
+Ranks 1
+0 Performer~
+GSkills 2
+0 ballad~
+1 daze~
+
+Clan 14
+Name aiel~
+WhoName [`4Aiel`7] ~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Aiel~
+Ranks 10
+0 Aiel~
+1 New Rank~
+2 New Rank~
+3 New Rank~
+4 New Rank~
+5 New Rank~
+6 New Rank~
+7 New Rank~
+8 New Rank~
+9 Clan Leader~
+GSkills 2
+0 veil~
+1 dream~
+
+Clan 15
+Name warder~
+WhoName [`&W`7hite `&T`7ower`7] ~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Warder~
+Ranks 10
+0 `1Recru`&i`1t`7~
+1 `1Advan`&c`1ed`7~
+2 `1Ward`&e`1r`7~
+3 `1Bladem`&a`1ster`7~
+4 `1Instr`&u`1ctor`7~
+5 `1Dean `&o`1f Recru`&i`1ts`7~
+6 `1Dean `&o`1f Advan`&c`1ed`7~
+7 `1Battle Emer`&i`1tus`7~
+8 `1G`8ai `1S`8han`7~
+9 `1M`8aster `7at `1A`8rms`7~
+GSkills 1
+0 void~
+
+Clan 16
+Name shaido~
+WhoName [`4Sha`8i`4do`7] ~
+Vnum 0~
+Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display Display `4Sha`8i`4do`7~
+Ranks 4
+0 Warrior~
+1 Spear Dancer~
+2 New Rank~
+3 `8C`4ar`7'`4a`7'`8C`4arn`7~
+GSkills 2
+0 veil~
+1 dream~
+
+#END

@@ -1,0 +1,296 @@
+Clan 0
+Name None~
+WhoName None~
+Display None~
+Ranks 0
+GSkills 0
+
+Clan 1
+Name tinker~
+WhoName [`6TINKER`7] ~
+Display Tinker~
+Ranks 10
+0 `!R`1efugee`*~
+1 `@T`2raveler`*~
+2 `^T`6uatha`^'`6a`^n`*~
+3 `#R`3uespieler`*~
+4 `$L`4aborer`*~
+5 `%C`5raftsman`*~
+6 `!S`&cout`*~
+7 `$L`5istener`*~
+8 `6Eld`^e`6r`*~
+9 `$M`4ahdi`*~
+GSkills 2
+0 Fix~
+1 Build~
+
+Clan 2
+Name aiel~
+WhoName [`4AIEL`7] ~
+Display Aiel~
+Ranks 10
+0 `&G`7a`8i`7'`&s`8h`7a`&i`8n`7~
+1 `$S`4tone `$D`4ogs`*~
+2 `$T`4hunder `$W`4alkers`*~
+3 `$K`4nife `$H`4ands`*~
+4 `$M`4aidens `*of `8the `$S`4pear`*~
+5 `$R`4ed `$S`4hields`*~
+6 `$W`4ater `$S`4eeker`*~
+7 `7W`8ise `7O`8ne`*~
+8 `!S`1ept `!C`1hief`*~
+9 `!C`1lan `!C`1hief`*~
+GSkills 2
+0 veil~
+1 dream~
+
+Clan 3
+Name sedai~
+WhoName [`&W`7HITE `!T`1OWER`7] `7~
+Display Aes Sedai~
+Ranks 10
+0 Penanced~
+1 `%N`5ovice`*~
+2 `%A`5ccepted`*~
+3 `%A`5es `%S`5edai`*~
+4 `%V`5enerable `%A`5es `%S`5edai`*~
+5 `%M`5istress of `%N`5ovices`*~
+6 `%M`5istress of `%A`5ccepted`*~
+7 `%S`5itter`*~
+8 `%K`5eeper of the `%C`5hronicles`*~
+9 `%A`5myrlin`% S`5eat`*~
+GSkills 2
+0 still~
+1 balefire~
+
+Clan 4
+Name shadow~
+WhoName [`8SHADOW`7] ~
+Display Shadow~
+Ranks 10
+0 `!M`1aso`8c`1his`!t`*~
+1 `&S`7a`8di`7s`&t`*~
+2 `&H`8uman `&S`8lave`*~
+3 `&F`8riend of the `&D`8ark`*~
+4 `8G`7re`8y M`7a`8n`*~
+5 `8C`1i`8rcl`1e `8L`1ea`8d`1e`8r`*~
+6 `1Dre`!a`8d`!l`1ord`*~
+7 `4Ch`8os`4en`*~
+8 `8Ha`7n`&d `8O`*f `&T`7h`8e`& D`7a`8rk`*~
+9 `8Na`7e'`&B`7l`8is`*~
+GSkills 4
+0 stealth~
+1 shroud~
+2 pray~
+3 taint~
+
+Clan 5
+Name seanchan~
+WhoName [`$SEANCHAN`7] ~
+Display Seanchan~
+Ranks 10
+0 `^C`6i`^t`6i`^z`6e`^n`7~
+1 `#S`8o`3ld`#i`3e`#r`*~
+2 `#F`8i`3s`8t `#o`8f `#H`8e`3a`8v`3e`8n`*~
+3 `!o`8f `!t`&h`8e `!B`8lo`1o`!d`*~
+4 `$S`8o`$'j`4h`$i`4n`*~
+5 `%H`5igh `%L`5ord`*/`%L`5ady`*~
+6 `1D`8e`1a`8t`1h`8w`1a`8t`1c`8h `1G`8u`1a`8r`1d`*~
+7 `$T`^h`8e `&S`8e`^ek`$er`*~
+8 `7D`8e`7a`8t`7h`8w`7a`8t`7c`8h`7 C`8o`7m`8m`7a`8n`7d`8e`7r`7~
+9 `$E`^m`&p`8e`&r`^o`$r`*~
+GSkills 3
+0 blood~
+1 ravage~
+2 damane~
+
+Clan 6
+Name redhand~
+WhoName [`!RED HAND`7] ~
+Display Red Hand~
+Ranks 10
+0 `!R`1e`!c`1r`!u`1i`!t`7~
+1 `!S`1c`!o`1u`!t`7~
+2 `!S`1o`!l`1d`!i`1e`!r`7~
+3 `!B`1a`!n`1n`!e`1r`!m`1a`!n`7~
+4 `!R`1e`!d`1a`!r`1m`7~
+5 `!V`1e`!t`1e`!r`1a`!n`7~
+6 `!C`1a`!p`1t`!a`1i`!n`7~
+7 `!L`1t`8. `!C`1o`!m`1m`!a`1n`!d`1e`!r`7~
+8 `!M`1a`!r`1s`!h`1a`!l `!G`1e`!n`1e`!r`1a`!l`7~
+9 `!L`1o`!r`!d `!G`1e`!n`1e`!r`1a`!l`7~
+GSkills 3
+0 luck~
+1 warcry~
+2 medallion~
+
+Clan 7
+Name ashaman~
+WhoName [`!A`8SHA`7'`!M`8AN`7] ~
+Display Asha'man~
+Ranks 10
+0 `!R`8ecruit`*~
+1 `!A`8ttack `!S`8oldier`*~
+2 `!S`8torm `!S`8oldier`*~
+3 `!A`8ttack `!D`8edicated`*~
+4 `!S`8torm `!D`8edicated`*~
+5 `!A`8ttack `!A`8sha'man`*~
+6 `!S`8torm `!A`8sha'man`*~
+7 `!A`8ttack `!L`8eader`*~
+8 `!S`8torm `!L`8eader`*~
+9 `!M`8'hael`*~
+GSkills 3
+0 restrain~
+1 firestorm~
+2 tap~
+
+Clan 8
+Name gleeman~
+WhoName [`2GLEEMAN`7] ~
+Display Gleeman~
+Ranks 10
+0 `@F`#ool`*~
+1 `@A`#pprentice`*~
+2 `@E`#ntertainer`*~
+3 `@A`#mateur `@G`#leeman`*~
+4 `@S`#toryteller`*~
+5 `@M`#usician`*~
+6 `@B`#ard`*~
+7 `@G`#leeman`*~
+8 `@M`#aster `@S`#toryteller`*~
+9 `@M`#aster `@G`#leeman`*~
+GSkills 3
+0 dome~
+1 ballad~
+2 daze~
+
+Clan 9
+Name whitecloak~
+WhoName [`&WHITECLOAK`7] ~
+Display Whitecloak~
+Ranks 10
+0 `#F`7ortress `#S`7ervant~
+1 `#C`7hild of the `#L`7ight~
+2 `#M`7essenger~
+3 `#B`7annerman~
+4 `#U`7nder-`#L`7ieutenant~
+5 `#I`7nquisitor~
+6 `#S`7enior `#L`7ieutenant~
+7 `#L`7ord `#C`7aptain~
+8 `#H`7igh `#I`7nquisitor~
+9 `#L`7ord `#C`7aptain `#C`7ommander~
+GSkills 2
+0 stance~
+1 cleanse~
+
+Clan 10
+Name warder~
+WhoName [`&W`7HITE `!T`1OWER`7] `7~
+Display Warder~
+Ranks 10
+0 `&R`1ecruit`*~
+1 `1Stu`&d`1ent`*~
+2 `&Y`1oungling`*~
+3 `1Adv`&a`1nced Stu`&d`1ent`*~
+4 `1W`!a`1rder`*~
+5 `1Bl`!a`1dem`!a`1ster`*~
+6 `1M`!a`1ster `!of `1S`!t`1udents`*~
+7 `!B`1attle `!C`1ouncil`*~
+8 `1C`8ouncil `1M`8aster`*~
+9 `1M`8aster `1at `1A`8rms`*~
+GSkills 1
+0 void~
+
+Clan 11
+Name admin~
+WhoName [`!A`1dm`8i`1n`7] ~
+Display Admin~
+Ranks 7
+0 `3Builder`*~
+1 `8Supreme`*~
+2 `^Creator`*~
+3 `@GuildMaster`*~
+4 `$HeadBuilder`*~
+5 `&Coder`*~
+6 `!I`1mplementor`*~
+GSkills 0
+
+Clan 12
+Name wolfbrother~
+WhoName [`#WOLFBROTHER`7] ~
+Display Wolfbrother~
+Ranks 10
+0 Cub~
+1 Yearling~
+2 Tracker~
+3 Hunter~
+4 Wolfbrother~
+5 Shadow Stalker~
+6 Pack Elder~
+7 A'vron Do Sei'cair~
+8 Denleader~
+9 Leader of the Pack~
+GSkills 3
+0 wolf~
+1 hunt~
+2 howl~
+
+Clan 13
+Name shaido~
+WhoName `7[`4SHA`8i`4DO`7] `7~
+Display Shaido~
+Ranks 10
+0 Gai'shain~
+1 Duadhe mahdi'in~
+2 Shae'en M'taal~
+3 Aethan Dor~
+4 Cor Darei~
+5 Far Aldazar Din~
+6 Sept Chief~
+7 Clan Chief~
+8 Wise One~
+9 Car'a'Carn~
+GSkills 2
+0 veil~
+1 dream~
+
+Clan 14
+Name outcast~
+WhoName [`@OUTCAST`7] ~
+Display Outcast~
+Ranks 6
+0 Outcast~
+1 Outcast~
+2 Outcast~
+3 Outcast~
+4 Outcast~
+5 Outcast~
+GSkills 0
+
+Clan 15
+Name guide~
+WhoName [`#G`3U`#I`3D`#E`*] ~
+Display Guide~
+Ranks 6
+0 `#G`&uide`*~
+1 `^A`&dvance`^d `^G`&uid`^e`*~
+2 `2M`&aste`2r `2G`&uid`2e`*~
+3 `BI`&mmorta`Bl `BG`&uid`Be`*~
+4 `1I`&mmorta`1l `1M`&ediato`1r`*~
+5 `6H`&ead `6M`&ediator`*~
+GSkills 0
+
+Clan 16
+Name guild~
+WhoName [`8G`7U`&I`7L`8D`*] ~
+Display the Dragon Reborn~
+Ranks 5
+0 Dragon~
+1 nothing~
+2 nothing~
+3 aslfkj~
+4 guildmaster~
+GSkills 2
+0 still~
+1 balefire~
+
+#END

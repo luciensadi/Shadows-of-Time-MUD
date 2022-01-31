@@ -1,0 +1,1400 @@
+#AREADATA
+Name Catacombs~
+Builders Balwen~
+VNUMs 19501 19700
+Credits `4[`7Middle`4]`7 Balwen    Catacombs~
+Security 10
+Flags CF
+Version 4
+End
+
+
+
+#MOBILES
+#19501
+pela~
+`*A woman who resembles someone you once knew.~
+A weak, and chained woman kneels here hoping to bring you peace.
+~
+This weak and filthy woman is clothed in a ragged and torn yellow robe,
+with a matching shawl.  It appears to have a strange symbol embroiderd onto
+her right sleeve.  It is obvious this woman is the victim of the Shadow, and
+has seen many better days.  Her face is bloodied with the blood of others,
+and her crystal blue eyes still hold a tint of hope, and her face holds
+strong.  
+~
+andor~
+0 0
+ABQa 336 0 0 0 -1  -1000 0
+250 0 1d1+999 1d1+999 2d4+30 divine
+-100 -100 -100 -100
+FHIK ABCDK 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium unknown
+#19507
+Jesus H Christ~
+A godly figure is here.~
+Jesus is watching you
+~
+~
+andor~
+0 0
+A 33112 67 22656 41984 -1  0 0
+400 500 100000d1+600000 10000d1+-27680 1000d1+3000 drain
+0 0 0 0
+ABCFHIJKNO EJ CHIJKN 0
+stand stand male  0
+AHMV ABCDEFGHIJK small unknown
+#19570
+Be'lal~
+Be'lal~
+A cloaked man with a firey gaze stands before you
+~
+~
+unique~
+0 0
+A 336 9282 6272 41984 -1  0 0
+400 500 100000d1+400000 10000d1+-27680 1000d1+30000 divine
+0 0 0 0
+BCFHIJKNO EJK DHINb LZ
+stand stand male  0
+0 AU medium unknown
+#0
+
+
+
+#OBJECTS
+#19698
+Dark~
+`1K`8eys `7to the `1D`8ark`1O`8nes `1P`8rison`7~
+A shoulder plate.~
+unknown~
+keyring JKad AU
+J
+300 0 0 0 0
+150 400 50000 P
+A
+14 -50
+A
+13 75
+A
+20 -11
+A
+19 11
+A
+18 11
+ T 0 none~
+#19700
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#19501
+`1Within the Ruined Healing Chamber`*~
+Several trollocs, and fades are gathered within this destroyed and dark
+healing chamber of old.  The once beautiful marble walls, are tainted with
+blood and soot.  Torn bearskin rugs cover the floor, stained with dirt and
+filth.  The chamber is engulfed with a dreadful silence, that seems to ache
+your bones.  To the north is a broken arched doorway that leads into a
+fairly large room, filled with men and women wearing tattered cloaks.  
+~
+0 0 1
+D2
+~
+~
+0 0 19503
+D5
+~
+~
+0 0 19502
+S
+#19502
+`1An Obliterated And Ravaged Donation Pit~
+This room is covered with broken weapons and armor, from battles long
+fought.  You see some beggars and some homeless just walking around looking
+for pieces of their lives long lost in the wars.  There is blood and ash all
+over the room, and a foul stench wafts through as you move about.  
+~
+0 0 0
+D4
+~
+~
+0 0 19501
+S
+#19503
+`1The Remnants Of An Entrance To A Healing Chamber~
+The area is engulfed in flames, from the massive fires that roar to the
+south from the burning buildings, and from the large piles of burning
+corpses.  To the north stands a once beautiful and strong chamber, is
+stained from smoke, and soot from the roaring fires to the south.  The
+outerwalls are covered by faded paintings, that appear to be of battles long
+ago from the Age of Legends.  An overall sense of depression and fear hangs
+over this place, as peasants and townsfolk slowly mill about with sad and
+glum looks playing over their faces.  Blood stained marble steps lead up to
+the entrance of the training grounds.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 19501
+D2
+~
+~
+0 0 19504
+S
+#19504
+`1The Destroyed Northern Square~
+Burning stalls of all kinds of size encompass this section of the square.
+The area is filled with smokes, and commotion as raging fires engulf burning
+bodies.  Within the center of this area is a large fountain, that gushes a
+crimson colored liquid which appears to be blood.  To the north you can see
+a crumbling building, and to the south you can see the remains of the
+falling White Bridge.  The whole area is dwarfed in smoke, as the fires
+continue to roar.  To the east you can make out the area of where an inn
+once stood, its remnants slowly burning.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 19503
+D1
+~
+~
+0 0 19505
+D2
+~
+~
+0 0 19506
+D3
+~
+~
+0 0 19512
+S
+#19505
+`1The Remnants of the Wayfarer's Rest Inn~
+This once spacious inn doesn't appear to have been one of the more
+friendlier establishments in White Bridge.  The ground is covered with ash,
+and dirt from where the walls collapsed from the fires.  A few bones litter
+the ground, if the race of them is unknown.  To the west lies the remaining
+section of a wall, and the doorway.  
+~
+0 8388608 0
+D3
+~
+~
+0 0 19504
+S
+#19506
+`1A Once Beautiful And Magnificent Square~
+The broken, soot stained arch that once gave this town its name leers
+above like a long giant lost from it's land.  The square is covered with
+rubble from where the bridge collapsed, it is covered with glass, and
+obsidian from ages past.  The square is paved with blood, and bones from
+battles that once raged here.  Where many shops once stood, now stand
+buildings ruined by smoke, and fire - abandoned long ago.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 19504
+D1
+~
+~
+0 0 19508
+D2
+~
+~
+0 0 19509
+D3
+~
+~
+0 0 19513
+S
+#19507
+`1Blood Stained Graveled Path`*~
+Bodies line the streets on both sides of this once manicured gravel path.
+Skulls, and bones have been strewn haphazardly all over the area.  There is
+a strong scent of sulfur in the as if fireworks have been shot off in all
+directions, and several trollocs mill about the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 19509
+D1
+~
+~
+0 0 19540
+D3
+~
+~
+0 0 19529
+S
+#19508
+`1A Ruined Paved Street~
+This once beautiful stone paved street lies in complete ruins now, and
+only a few stones remain in place where thousands once paved the road.  The
+now blood paved street runs east to the destroyed gates of the village, and
+back to the west towards the river.  
+~
+0 0 0
+D0
+~
+~
+0 0 19533
+D1
+~
+~
+0 0 19510
+D2
+~
+~
+0 0 19537
+D3
+~
+~
+0 0 19506
+S
+#19509
+`1Blood Stained Graveled Path`*~
+Bodies line the streets on both sides of this once manicured gravel path.
+Skulls, and bones have been strewn haphazardly all over the area.  There is
+a strong scent of sulfur in the as if fireworks have been shot off in all
+directions, and several trollocs mill about the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 19506
+D2
+~
+~
+0 0 19507
+S
+#19510
+`1A Ruined Paved Street~
+This once beautiful stone paved street lies in complete ruins now, and
+only a few stones remain in place where thousands once paved the road.  The
+now blood paved street runs east to the destroyed gates of the village, and
+back to the west towards the river.  
+~
+0 0 0
+D0
+~
+~
+0 0 19535
+D1
+~
+~
+0 0 19511
+D2
+~
+~
+0 0 19536
+D3
+~
+~
+0 0 19508
+S
+#19511
+`1Inside the Ruined and Ravaged Eastern Gates of Whitebridge~
+Hundreds of gigantic trollocs peer over the destroyed town wall.  The
+gate looks to be pulled completely off its once stone hinges.  The perimeter
+road stretches off to the north and south.  A ruined road leads west into
+the city's center.  From here you can see the remains of the once beautiful
+and marvelous White Bridge.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 19550
+D1
+~
+gate~
+3 0 19549
+D2
+~
+~
+0 0 19548
+D3
+~
+~
+0 0 19510
+S
+#19512
+`1Toppled Entrance to the Healers Guild.`*~
+Vicious and evil script has been painted across the wall in dark crimson
+blood.  You can make out the signs of Dha'vol, Ko'bal, Ghar'ghael, and
+Dhai'mon.  You can feel that several vicious and cruel deaths were
+experienced here, and it almost makes your stomach turn as you glance about
+the walls.  
+~
+0 8388608 0
+D1
+~
+~
+0 0 19504
+S
+#19513
+`1Ruined Paved Street`*~
+This once beautiful stone paved street lies in complete ruins now, and
+only a few stones remain in place where thousands once paved the road.  The
+now blood paved street runs east to the destroyed gates of the village, and
+back to the west towards the river.  
+~
+0 0 0
+D0
+~
+~
+0 0 19515
+D1
+~
+~
+0 0 19506
+D2
+~
+~
+0 0 19514
+D3
+~
+~
+0 0 19516
+S
+#19514
+`1Bloody Armory`*~
+The cut off head of the owner lies on the counter, staring at the
+entrance of the room.  Bloody armor with body parts attached lies all over
+the floor.  What kind of creature could have done such a thing?  
+~
+0 0 0
+D0
+~
+~
+0 0 19513
+S
+#19515
+`1A Ruined Bakery~
+This once simple, and pleasant bakery lies in complete ruin as the rest
+of the village.  There is a vicious stench in the air, that resembles mold
+and rot.  A few burning bodies litter the floor.  
+~
+0 0 0
+D2
+~
+~
+0 0 19513
+S
+#19516
+`1Ruined Paved Street`*~
+This once beautiful stone paved street lies in complete ruins now, and
+only a few stones remain in place where thousands once paved the road.  The
+now blood paved street runs east to the destroyed gates of the village, and
+back to the west towards the river.  
+~
+0 0 0
+D0
+~
+~
+0 0 19517
+D1
+~
+~
+0 0 19513
+D2
+~
+~
+0 0 19518
+D3
+~
+~
+0 0 19519
+S
+#19517
+`1Destroyed Magic Shop`*~
+Several potions lie broken on the floor, the contents mixing and forming
+a rather putrid smell.  The severed head of the owned lies on the counter
+staring at the entrance.  The owners body lies stomach down resting in a
+pool of blood.  
+~
+0 0 0
+D2
+~
+~
+0 0 19516
+S
+#19518
+`1Ruined Hall of The Channeler~
+A man in a robe lies on the floor, his bones broken, but he still
+breathes.  The trollocs must have left him to suffer until his death. 
+Several trollocs lie on the floor dead, their heads have been exploded using
+the Power.  Pieces of skull lay scattered about the room and stuck to the
+walls.  Blood drenches the room everything in the room.  
+~
+0 0 0
+D0
+~
+~
+0 0 19516
+S
+#19519
+`1A Destroyed and Pitted Road by the Docks~
+This ruined street continues to the east, and to the obliterated pier to
+the west.  The once called Wharf Road runs north and south along the bank of
+the blood filled river.  
+~
+0 0 0
+D0
+~
+~
+0 0 19569
+D1
+~
+~
+0 0 19516
+D2
+~
+~
+0 0 19520
+D3
+~
+~
+0 0 19532
+S
+#19520
+`1Pitted Wharf Road`7~
+Severed severed heads have been stabbed skewered onto one stick.  Two of
+the heads are of men, one of a woman, and one of a young child no older than
+six months.  Blood covers the walls and the street, along if the weapons of
+the dead and body parts.  
+~
+0 0 0
+D0
+~
+~
+0 0 19519
+D2
+~
+~
+0 0 19521
+S
+#19521
+`1Pitted Wharf Road`7~
+A pothole in the road is filled with blood.  You notice something inside
+of the pothole, and upon further inspection, is the severed finger of a
+child.  A dead trolloc lies nearby, stabbed in the chest more times than you
+can count.  
+~
+0 0 0
+D0
+~
+~
+0 0 19520
+D1
+~
+~
+0 0 19524
+D2
+~
+~
+0 0 19523
+S
+#19522
+`1The Broken Pier`*~
+~
+0 4 0
+S
+#19523
+`1Pitted Wharf Road`7~
+Blood is streaked across the floor, it looks like a body was dragged in
+this direction.  A child lies where the blood streaks end.  One of his
+fingers are severed along with one of his feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 19521
+D2
+~
+~
+0 0 19526
+S
+#19524
+`1A Rubble Filled Street`*~
+The footsteps of blood continue on west.  Swords and spears from fallen
+men lie on the floor.  The walls are covered in blood and appear is if they
+were painted red.  Several dead women are strewn across the floor.  Their
+limbs torn from their body and scattered about.  
+~
+0 0 0
+D0
+~
+~
+0 0 19527
+D1
+~
+~
+0 0 19529
+D2
+~
+~
+0 0 19528
+D3
+~
+~
+0 0 19521
+S
+#19525
+`1The Shattered Docks`*~
+~
+0 4 0
+S
+#19526
+`1Before the Darkfriend's Lair`7~
+What used to be the entrance to the darkfriend's layer now lies in a heap
+of rubble.  The trollocs must have caused the collapse.  The way south and
+east are barred with unpassable rubble and enormous boulders.  
+~
+0 0 0
+D0
+~
+~
+0 0 19523
+S
+#19527
+`1Burned out Leather Shop`*~
+~
+0 0 0
+D2
+~
+~
+0 0 19524
+S
+#19528
+`1A Ruined Temple`*~
+The temple has been defaced, blood covering the statues and body parts
+placed in mocking positions.  A child's dead body has been dragged here and
+laid out on the alter.  
+~
+0 0 0
+D0
+~
+~
+0 0 19524
+S
+#19529
+`1A Rubble Filled Street`*~
+Footsteps of blood, apparently made by trollocs, lead off west.  Several
+bodies are strewn about the walls of both trolloc and human.  Several barbed
+arrows lie on the floor covered with blood and pieces of flesh.  
+~
+0 0 0
+D0
+~
+~
+0 0 19530
+D1
+~
+~
+0 0 19507
+D2
+~
+~
+0 0 19531
+D3
+~
+~
+0 0 19524
+S
+#19530
+`1A Destroyed Shop`*~
+~
+0 0 0
+D2
+~
+~
+0 0 19529
+S
+#19531
+`1Desolate Inn`*~
+The inn looks as if it hasn't been touched.  The people must have fled
+before the trollocs arrived.  Outside the sign blows in the wind, making a
+screeching sound.  The only thing you notice is that the chairs lay
+overturned and tossed about the room, as if everyone had ran for the room at
+once.  
+~
+0 0 0
+D0
+~
+~
+0 0 19529
+S
+#19532
+`1A Sunken Pier of Whitebridge~
+Fires rage across the now crimson colored river to the west.  There are
+boats sinking along the pier, and traffic down river is not close to
+extensive.  The rubbled lined streets of Whitebridge begin to the east.  The
+pier is largely englufed by the large rocks, and boulders produced from the
+crumbling White Bridge.  
+~
+0 0 0
+D1
+~
+~
+0 0 19519
+D3
+~
+~
+0 0 19534
+S
+#19533
+`1The Ruined General Store~
+You are standing within the destroyed general store of White Bridge.  All
+sorts of items lay strewn across the floor, some containers open with their
+contents on the floor.  
+~
+0 0 0
+D2
+~
+~
+0 0 19508
+S
+#19534
+`1The Sunken Docks of Whitebridge~
+Fires rage across the now crimson colored river to the west.  There are
+boats sinking along the pier, and traffic down river is not close to
+extensive.  The rubbled lined streets of Whitebridge begin to the east.  The
+pier is largely englufed by the large rocks, and boulders produced from the
+crumbling White Bridge.  
+~
+0 0 0
+D1
+~
+~
+0 0 19532
+S
+#19535
+`1Bloodied Weapons Shop`*~
+A weapons rack hung against the wall now lies empty except for a small
+dagger or two.  On the floor lie several weapons, drenched in blood.  The
+counter has the severed head of the owner lying on top, staring you in the
+eye.  
+~
+0 0 0
+D2
+~
+~
+0 0 19510
+S
+#19536
+`1Destroyed Guild Hall`*~
+Two halberds lie on the floor covered in blood.  The guards to the guild
+hall lie in a corner lifeless.  They appear to have been shot full of holes
+by trolloc archers.  Three trollocs lie dead on the floor.  Their weapons a
+crimson red from the blood of the guards.  
+~
+0 0 0
+D0
+~
+~
+0 0 19510
+D2
+~
+~
+1 0 19557
+S
+#19537
+`1Smelly Sidestreet`*~
+A dead body lies on the floor, obviously belonging to a woman despite the
+lack of a head.  Maggots crawl all over it, eating the dead flesh.  The body
+is drenched in its own blood.  Two barbed arrows lie on the ground, covered
+in blood and flesh.  
+~
+0 0 0
+D0
+~
+~
+0 0 19508
+D2
+~
+~
+0 0 19539
+D3
+~
+~
+0 0 19538
+S
+#19538
+`1Ransacked Jewel Shop`*~
+~
+0 0 0
+D1
+~
+~
+0 0 19537
+S
+#19539
+`1Bloody Sidestreet`*~
+A small child lies motionless on the floor.  A barbed arrow portrudes
+from his back.  A nearby trash can moves slighty, there appears to be a cat
+inside, hiding from the chaos.  As you get closer, you notice the cat is
+dead, and is being eaten by a darkhound.  
+~
+0 0 0
+D0
+~
+~
+0 0 19537
+D2
+~
+~
+0 0 19540
+S
+#19540
+`1A Bloody Intersection`*~
+A man sits slumped over in a corner.  A trolloc blade is stabbed through
+his neck, nearly severing his head from his body.  Blood covers the walls
+and floor, almost forming a puddle.  Near the man lies a Trolloc with
+several arrows stuck in his skull and his chest.  
+~
+0 0 0
+D0
+~
+~
+0 0 19539
+D1
+~
+~
+0 0 19542
+D3
+~
+~
+0 0 19507
+S
+#19541
+~
+~
+0 4 0
+S
+#19542
+`1A Deserted Back Alley`*~
+The alley becomes somewhat wider to the west, and you can see a few shops
+a little ways down.  To the north is a fairly small, and secluded shop, that
+appears to dabble in some sort of brewing and the smell that emits from the
+store over takes you.  There appears to be some sort of abandoned warehouse
+directly towards the south. 
+~
+0 0 0
+D0
+~
+~
+0 0 19543
+D1
+~
+~
+0 0 19545
+D2
+~
+~
+0 0 19544
+D3
+~
+~
+0 0 19540
+S
+#19543
+`1Ranshacked Potion Shop`*~
+A severed head sits on a dusty, and blood soaked counter, bones lie all
+over the destroyed shop.  Several holes let light filter in, that obviously
+have been punched in by large fists, and horns.  
+~
+0 0 0
+D2
+~
+~
+0 0 19542
+S
+#19544
+`1A Destroyed Warehouse`*~
+You are inside the only room that appears to be left in this old
+warehouse.  The place is very dusty and bloody, it appears to have been
+unused for many years.  The skylight spills violet-tinged light.  
+~
+0 0 0
+D0
+~
+~
+0 0 19542
+S
+#19545
+`1Crumbling Walls of Whitebridge`*~
+Large rocks, and boulders are scattered all over this destroyed section
+of what use to be the Eastbridge Avenue.  The smell of smoke fills the air,
+and large flames dance over the city, and the air is filled with noise of
+fighting from all directions.  To the west lies a path that is partially
+blocked by rocks, but it appears accessible.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 19547
+D2
+~
+~
+0 0 19546
+D3
+~
+~
+0 0 19542
+S
+#19546
+`1A Blocked Off Path~
+The avenue appears to of continued to the south, but is now blocked by
+large sections of rock, that cover the road.  The smell of smoke fills the
+air, and large flames dance over the city, and the air is filled with noise
+of fighting from all directions.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 19545
+S
+#19547
+`1Crumbling Walls of Whitebridge`*~
+Large rocks, and boulders are scattered all over this destroyed section
+of what use to be the Eastbridge Avenue.  The smell of smoke fills the air,
+and large flames dance over the city, and the air is filled with noise of
+fighting from all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 19548
+D2
+~
+~
+0 0 19545
+S
+#19548
+`1Crumbling Walls of Whitebridge`*~
+Large rocks, and boulders are scattered all over this destroyed section
+of what use to be the Eastbridge Avenue.  The smell of smoke fills the air,
+and large flames dance over the city, and the air is filled with noise of
+fighting from all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 19511
+D2
+~
+~
+0 0 19547
+S
+#19549
+`1Before the Broken Gates of Whitebridge`*~
+You are standing by a gap in the destroyed wall of what use to be the
+main entrance to the small village of Whitebridge.  You can see the burning
+and crumbled arch of what remains of the White Bridge as it extends west
+from the city's center.  Two ravaged and flaming tall towers stand on both
+sides of the worn and rusted iron gate.  
+~
+0 0 0
+D1
+~
+~
+0 0 19555
+D3
+~
+gate~
+3 0 19511
+S
+#19550
+`1Destroyed Eastbridge Avenue~
+This large rubble filled avenue runs right inside the small Whitebridge
+wall, passing the gate to the south.  You can see soot covered arch of the
+destroyed White Bridge as it sprouts from the town's center to the west.  A
+small square building use to stand to the west but now is blocked by several
+large heaps of rocks from the outer wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 19556
+D2
+~
+~
+0 0 19511
+S
+#19551
+~
+~
+0 4 0
+S
+#19552
+~
+~
+0 0 0
+D1
+~
+~
+1 0 19551
+S
+#19553
+~
+~
+0 4 0
+S
+#19554
+~
+~
+0 4 0
+S
+#19555
+`1Caemlyn Road~
+The road stretches onwards to the east.  To the west you see a small
+city, and the road leads right up to the gate.  From the center of town an
+enormous bridge of unbelievable beauty rises and spans the river which lies
+on the western bank of the city.  
+~
+0 0 0
+D3
+~
+~
+0 0 19549
+S
+#19556
+`1Destroyed Eastbridge Avenue~
+This large rubble filled avenue runs right inside the small Whitebridge
+wall, passing the gate to the south.  You can see soot covered arch of the
+destroyed White Bridge as it sprouts from the town's center to the west.  A
+small avenue use to be paved on to the west, but is now blocked by large
+piles of rocks.  
+~
+0 0 0
+D0
+~
+~
+0 0 19557
+D2
+~
+~
+0 0 19550
+S
+#19557
+`1Destroyed Eastbridge Avenue~
+This large rubble filled avenue runs right inside the small Whitebridge
+wall, passing the gate to the south.  You can see soot covered arch of the
+destroyed White Bridge as it sprouts from the town's center to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 19558
+D2
+~
+~
+0 0 19556
+S
+#19558
+`1Ruined Bend on the Eastbridge Avenue~
+The road bends here to the south and west along the north-east corner of
+this destroyed section of road.  You can make out the city gates off to the
+south.  
+~
+0 0 0
+D2
+~
+~
+0 0 19557
+D3
+~
+~
+0 0 19559
+S
+#19559
+`1North Wall of Whitebridge`*~
+You're standing along what use to be the northern section of Whitebridge,
+it now appears to be left in ruin.  Rocks, and dirt and soot are everywhere,
+you catch a whiff of sulfer, and smoke lingering in the air.  In the distant
+you can hear the harsh crackling of fires raging.  
+~
+0 0 0
+D1
+~
+~
+0 0 19558
+D3
+~
+~
+0 0 19560
+S
+#19560
+`1North Wall of Whitebridge`*~
+You're standing along what use to be the northern section of Whitebridge,
+it now appears to be left in ruin.  Rocks, and dirt and soot are everywhere,
+you catch a whiff of sulfer, and smoke lingering in the air.  In the distant
+you can hear the harsh crackling of fires raging.  
+~
+0 0 0
+D1
+~
+~
+0 0 19559
+D3
+~
+~
+0 0 19561
+S
+#19561
+`1Northern Gates of Whitebridge`*~
+Within the gates of the broken city bodies lay strewn about.  The Red
+coats of the City Guard litter the area and broken spears and bloody shields
+lay about.  Bones and rotting corpses are quickly dismissed...  Prepare for
+Battle.  
+~
+0 0 0
+D0
+~
+gate~
+3 0 19562
+D1
+~
+~
+0 0 19560
+D3
+~
+~
+0 0 19564
+S
+#19562
+`1Before the Northern Gates`*~
+At the Northern Gates the destruction becomes more real and the gloom is
+teasing your mind.  Your nose is filled with the stench of trolloc and
+gutteral grunts can be heard.  The hair on your neck begins to rise as you
+proceed toward impending doom.  
+~
+0 0 0
+D0
+~
+~
+0 0 19563
+D2
+~
+gate~
+3 0 19561
+S
+#19563
+`1Approaching the Ruined City of Whitebridge`*~
+Approaching from the north you notice the City of Whitebridge in
+blackened shambels.  A stench is eminating from the city and an unerring
+gloom hovers over its walls.  Smouldering buildings and crumbling walls
+greet you as you near its gates.  
+~
+0 0 0
+D2
+~
+~
+0 0 19562
+S
+#19564
+`1North Wall of Whitebridge`*~
+You're standing along what use to be the northern section of Whitebridge,
+it now appears to be left in ruin.  Rocks, and dirt and soot are everywhere,
+you catch a whiff of sulfer, and smoke lingering in the air.  In the distant
+you can hear the harsh crackling of fires raging.  
+~
+0 0 0
+D1
+~
+~
+0 0 19561
+D3
+~
+~
+0 0 19565
+S
+#19565
+`1North Wall of Whitebridge`*~
+You're standing along what use to be the northern section of Whitebridge,
+it now appears to be left in ruin.  Rocks, and dirt and soot are everywhere,
+you catch a whiff of sulfer, and smoke lingering in the air.  In the distant
+you can hear the harsh crackling of fires raging.  
+~
+0 0 0
+D1
+~
+~
+0 0 19564
+D3
+~
+~
+0 0 19566
+S
+#19566
+`1North Wall of Whitebridge`*~
+You're standing along what use to be the northern section of Whitebridge,
+it now appears to be left in ruin.  Rocks, and dirt and soot are everywhere,
+you catch a whiff of sulfer, and smoke lingering in the air.  In the distant
+you can hear the harsh crackling of fires raging.  
+~
+0 0 0
+D1
+~
+~
+0 0 19565
+D3
+~
+~
+0 0 19567
+S
+#19567
+`1Ruined Bend on the Eastbridge Avenue`*~
+The road bends here to the south and west along the north-east corner of
+this destroyed section of road.  You can make out the destroyed pier off to
+the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 19566
+D2
+~
+~
+0 0 19568
+S
+#19568
+`1Crumbling Wall of Whitebridge`*~
+This ruined street continues to the east, and to the obliterated pier to
+the west.  The once called Wharf Road runs north and south along the bank of
+the blood filled river.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 19567
+D2
+~
+~
+0 0 19569
+S
+#19569
+`1Pitted Warf Road`*~
+This ruined street continues to the east, and to the obliterated pier to
+the west.  The once called Wharf Road runs north and south along the bank of
+the blood filled river.  
+~
+0 0 0
+D0
+~
+~
+0 0 19568
+D2
+~
+~
+0 0 19519
+S
+#19570
+~
+~
+0 4 0
+S
+#19607
+~
+~
+0 0 0
+D1
+~
+~
+0 0 19608
+S
+#19608
+~
+~
+0 0 0
+D1
+~
+~
+0 0 19609
+D3
+~
+~
+0 0 19607
+S
+#19609
+~
+~
+0 0 0
+D2
+~
+~
+0 0 19610
+D3
+~
+~
+0 0 19608
+S
+#19610
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19609
+D2
+~
+~
+0 0 19611
+S
+#19611
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19610
+D2
+~
+~
+0 0 19612
+S
+#19612
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19611
+D3
+~
+~
+0 0 19613
+S
+#19613
+~
+~
+0 0 0
+D1
+~
+~
+0 0 19612
+D3
+~
+~
+1 0 19614
+S
+#19614
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19615
+D1
+~
+~
+1 0 19613
+D2
+~
+~
+0 0 19674
+D3
+~
+~
+0 0 19619
+S
+#19615
+~
+~
+0 0 0
+D2
+~
+~
+0 0 19614
+S
+#19619
+~
+~
+0 0 0
+D1
+~
+~
+0 0 19614
+S
+#19674
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19614
+S
+#0
+
+
+
+#SPECIALS
+M 19501 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 19536 2 1
+D 0 19552 1 1
+D 0 19561 0 1
+D 0 19562 2 1
+D 0 19613 3 1
+D 0 19614 1 1
+M 0 19501 1 19501 1 100 Load `*A woman who resembles someone you once knew.
+O 0 2001 0 19504 0 100 Brona's torture chair. loaded to `1The Destroyed Northern Square
+M 0 19507 1 19570 1 100 Load A godly figure is here.
+M 0 19570 1 19570 1 100 Load Be'lal
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

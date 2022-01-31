@@ -1,0 +1,6 @@
+Armor 234
+Shield 575
+Bless 751
+Sanc 353
+Restore 280
+Bonus 771

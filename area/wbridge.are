@@ -1,0 +1,4429 @@
+#AREADATA
+Name Whitebridge~
+Builders Cain~
+VNUMs 6500 6775
+Credits `4[`7Lowbie`4]`7 Cain      Whitebridge~
+Security 5
+Flags 0
+Version 3
+End
+
+
+
+#MOBILES
+#6500
+Mother Alnora~
+Mother Alnora~
+Mother Alnora is here to heal the sick and needy.
+~
+A woman with gray hair and yet with a face of a middle-aged woman is
+beaming a motherly smile down at you.  You feel comfortable around her and
+she seems like a nice person.  She is known for being able to heal all sorts
+of diseases with her herbs and that she brought a man back to life once. 
+All gossip of course.  
+~
+unique~
+ABGJKQRUab 336 1024 0 0 -1  0 0
+100 500 50d100+10000 50d100+1000 20d20+100 slash
+-150 -150 -150 -150
+CDFHIKNO ABCD 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#6501
+Aleis Carand~
+Aleis Carand~
+Aleis Carand, the herb specialist is here tending to the sick as well as selling herbs and liquid concoctions.
+~
+Aleis Carand is a young pretty woman with red hair and dull blue eyes. 
+She is taller than most men in the city and looks down at you whenever you
+approach her.  She is a specialist with herbs and is selling potions to make
+some profit of her knowledge.  
+~
+aiel~
+ABQR 336 1024 0 0 -1  0 0
+100 50 10d100+5000 10d100+3000 10d10+350 slash
+-100 -100 -100 0
+CFHIJKO ABCD 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#6502
+TestMob65~
+TestMob65~
+A Test Mob is waiting here to be attacked.
+~
+Boo
+~
+ghealdan~
+ABGZ 0 16 0 0 -1  -1000 0
+85 65 50d15+4500 1d1+1 2d7+36 wrath
+-30 -30 -30 -40
+FIN ABH Jab EFIQ
+stand stand none 100
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#6503
+TestMob50 Test~
+TestMob50~
+Testmob50 is waiting here to be tested.
+~
+~
+unique~
+ABGZ 1024 0 0 0 -1  -1000 0
+90 60 50d15+4000 1d1+1 2d7+30 wrath
+-27 -27 -27 -37
+FIN ABH Jab ELNQ
+stand stand none 100
+HMV BCDEFGHIM medium unknown
+#6504
+TestMob75 Test~
+TestMob75~
+TestMob75 is waiting to be tested.
+~
+~
+unique~
+AGZ 1024 0 0 0 -1  -1000 0
+117 72 10d50+5000 1d1+1 2d7+43 wrath
+-40 -40 -40 -50
+FIN ABH Jab EL
+stand stand none 100
+HMV CDEFGHIM medium unknown
+#0
+
+
+
+#OBJECTS
+#6500
+Comfortable Bed~
+a Comfortable Bed in Mother Alnora's Home~
+A comfortable bed is here that is used to help heal the sick back to health.~
+unknown~
+furniture 0 0
+0
+B DFGHIJ HK DGH DGH
+0 0 0 P
+ T 0 none~
+#6501
+Cupboard~
+a Cupboard~
+A cupboard behind the herb specialist holding unknown things is here.~
+wood~
+container 0 0
+0
+1000 ABCD 6502 10 50
+150 100 100 P
+ T 0 none~
+#6502
+Cupboard Key~
+`7Cupboard Key~
+A key that goes to the cupboard in Mother Alnora's home.~
+unknown~
+key FHTU A
+0
+0 0 0 0 0
+10 50 5000 P
+ T 0 none~
+#6503
+doon dai ticket~
+not a ticket anymore~
+This ticket can't be used for anything.~
+unknown~
+potion 0 A
+0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 10 0 P
+ T 0 none~
+#6504
+Upstairs Key~
+a Trapdoor Key~
+You see a key that was stolen from Mother Alnora's home.~
+metal~
+key FTa A
+0
+0 0 0 0 0
+110 10 5000 P
+ T 0 none~
+#6505
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#6500
+Dusty Gravel Road~
+You come upon a road that is considerably wide.  You can tell the
+hard-packed dirt road has been used often, yet note recently.  Trees line
+the road on either side blocking much of the view ahead of you.  Many cart
+tracks and footprints lead eastward toward something you will have to see
+for yourself.  
+~
+0 0 8
+D1
+~
+~
+0 0 6501
+S
+#6501
+Dusty Gravel Road~
+Continuing along the hard-packed dirt road more tracks begin to appear
+going eastward.  A strong breeze blows creates a tiny twister of dirt on the
+path.  The breeze moves some of the trees and one would be able to see
+something white up ahead if they look.
+~
+0 0 8
+D1
+~
+~
+0 0 6502
+D3
+~
+~
+0 0 6500
+S
+#6502
+Dusty Gravel Road~
+Continuing along the dirt road and the breeze that is going westward
+seems to become a little stronger than before.  The leatherleaf trees are
+back in place and nothing can be seen up ahead but wooded land.  All that
+you can see besides the trees in your path is a glimmer of the sun beaming
+down on you.  
+~
+0 0 8
+D1
+~
+~
+0 0 6503
+D3
+~
+~
+0 0 6501
+S
+#6503
+Dusty Gravel Road~
+Continuing along the hard-packed dirt road one could notice that the
+leatherleaf trees are becoming less and the area is not as densely wooded as
+before.  Glancing towards the west all you can see are trees behind the
+path.  Eastward is something that resembles a bridge.  
+~
+0 0 8
+D1
+~
+~
+0 0 6504
+D3
+~
+~
+0 0 6502
+S
+#6504
+Dusty Gravel Road~
+Eastward on the hard-packed dirt road is something that slightly
+resembles a bridge or staircase.  However, up ahead it seems like it looks
+more like a very big and thick cloud.  Westward is too dense with trees to
+see anything but a dirt path and some tiny critters.  
+~
+0 0 8
+D1
+~
+~
+0 0 6505
+D3
+~
+~
+0 0 6503
+S
+#6505
+Dusty Gravel Road~
+Eastward on this hard-packed dirt road a large cloud that resembles a
+staircase or bridge upward is in plain sight for a few seconds.  However,
+all of a sudden everything disappears and all that can be seen by the human
+eye is flat land.  
+~
+0 0 8
+D1
+~
+~
+0 0 6506
+D3
+~
+~
+0 0 6504
+S
+#6506
+Dusty Gravel Road~
+Westward all that can be seen are leatherleaf trees for as far as the eye
+can see.  Nothing can be seen eastward all that is there is flat land and
+what you think might be a path downward.  Little critters are litter the
+floor and even though they cannot speak or communicate they seem to urge all
+other living things to continue eastward.  
+~
+0 0 8
+D1
+~
+~
+0 0 6507
+D3
+~
+~
+0 0 6505
+S
+#6507
+Dusty Gravel Road~
+Westward is packed as much as possible with leatherleaf trees and not
+much more than half a mile can be seen.  Eastward something ahead slightly
+shifts.  It almost looks like a fold in the air which is impossible.  Many
+of the critters continue to go eastward where they seem to be beckoned by
+something strange.  
+~
+0 0 8
+D1
+~
+~
+0 0 6508
+D3
+~
+~
+0 0 6506
+S
+#6508
+Dusty Gravel Road~
+Westward is covered in leatherleaf trees and impossible to see much more
+than a mile.  Eastward does not have many trees except for a few pine trees
+on the sides of the road.  You can see something shift quite a bit eastward.
+It looks like a curved line in the air which seems very odd.  As if reality
+is changing and folding.  
+~
+0 0 8
+D1
+~
+~
+0 0 6509
+D3
+~
+~
+0 0 6507
+S
+#6509
+Dusty Gravel Road~
+Westward is littered with tons of trees and it is impossible to see more
+than a mile to the west.  Eastward, there is a curved line folding in the
+air.  It seems to shift most when strong breezes come from the east and blow
+westward.  It almost seems like its an invisible curtain.  
+~
+0 0 8
+D1
+~
+~
+0 0 6581
+D3
+~
+~
+0 0 6508
+S
+#6510
+.~
+~
+0 0 8
+S
+#6511
+.~
+~
+0 0 8
+S
+#6512
+.~
+~
+0 0 8
+S
+#6513
+.~
+~
+0 0 8
+S
+#6514
+.~
+~
+0 0 8
+S
+#6515
+.~
+~
+0 0 8
+S
+#6516
+.~
+~
+0 0 8
+S
+#6517
+Inside the Western Gates~
+~
+0 0 1
+D1
+~
+~
+0 0 6587
+D3
+~
+~
+0 0 6586
+S
+#6518
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the north you can see a bunch of shops and merchants.  To the
+south you can see most of the houses.  
+~
+0 0 1
+D0
+~
+~
+0 0 6523
+D1
+~
+~
+0 0 6519
+D2
+~
+~
+0 0 6533
+D3
+~
+~
+0 0 6589
+S
+#6519
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+northward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6532
+D1
+~
+~
+0 0 6520
+D2
+~
+~
+0 0 6539
+D3
+~
+~
+0 0 6518
+S
+#6520
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+southward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6531
+D1
+~
+~
+0 0 6521
+D2
+~
+~
+0 0 6540
+D3
+~
+~
+0 0 6519
+S
+#6521
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  A bunch of merchants are in this square but you think you see a
+majority of them lined up in a street to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 6530
+D1
+~
+~
+0 0 6522
+D2
+~
+~
+0 0 6541
+D3
+~
+~
+0 0 6520
+S
+#6522
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+southward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6529
+D1
+~
+~
+0 0 6661
+D2
+~
+~
+0 0 6542
+D3
+~
+~
+0 0 6521
+S
+#6523
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the north you can see a bunch of shops and merchants.  To the
+south you can see most of the houses.  
+~
+0 0 1
+D0
+~
+~
+0 0 6524
+D1
+~
+~
+0 0 6532
+D2
+~
+~
+0 0 6518
+S
+#6524
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the west is the path to the docks where merchant ships are
+coming in, and to the north is a bunch of shops and merchants.  
+~
+0 0 1
+D0
+~
+~
+0 0 6623
+D1
+~
+~
+0 0 6525
+D2
+~
+~
+0 0 6523
+D3
+~
+~
+0 0 6543
+S
+#6525
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the west is the path to the docks where merchant ships are
+coming in.  All the inns are also in this square and you can see one to the
+north called the Wayfarer's Rest.  
+~
+0 0 1
+D0
+~
+~
+0 0 6590
+D1
+~
+~
+0 0 6526
+D2
+~
+~
+0 0 6532
+D3
+~
+~
+0 0 6524
+S
+#6526
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the west is the path to the docks where merchant ships are
+coming in.  All the inns are also in this square and you can see one to the
+south.  
+~
+0 0 1
+D1
+~
+~
+0 0 6527
+D2
+~
+~
+0 0 6531
+D3
+~
+~
+0 0 6525
+S
+#6527
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  A bunch of merchants are in this square but you think you see a
+majority of them lined up northward at Hawker's Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6611
+D1
+~
+~
+0 0 6528
+D2
+~
+~
+0 0 6530
+D3
+~
+~
+0 0 6526
+S
+#6528
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the west is the path to the docks where merchant ships are
+coming in.  All the inns are also in this square and you can see one to the
+south.  
+~
+0 0 1
+D2
+~
+~
+0 0 6529
+D3
+~
+~
+0 0 6527
+S
+#6529
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+southward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6528
+D2
+~
+~
+0 0 6522
+D3
+~
+~
+0 0 6530
+S
+#6530
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  A bunch of merchants are in this square but you think you see a
+majority of them lined up in a street to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 6527
+D1
+~
+~
+0 0 6529
+D2
+~
+~
+0 0 6521
+D3
+~
+~
+0 0 6531
+S
+#6531
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+southward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6526
+D1
+~
+~
+0 0 6530
+D2
+~
+~
+0 0 6520
+D3
+~
+~
+0 0 6532
+S
+#6532
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+northward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6525
+D1
+~
+~
+0 0 6531
+D2
+~
+~
+0 0 6519
+D3
+~
+~
+0 0 6523
+S
+#6533
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the north you can see a bunch of shops and merchants.  To the
+south you can see most of the houses.  
+~
+0 0 1
+D0
+~
+~
+0 0 6518
+D1
+~
+~
+0 0 6539
+D2
+~
+~
+0 0 6534
+S
+#6534
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes to this city needs to pass through this square in order
+to leave.  To the south you can see a bunch of houses.  Southward is the
+beginning of Leatherleaf Street, and far to the east is the beginning of
+Cedan Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6533
+D1
+~
+~
+0 0 6535
+D2
+~
+~
+0 0 6624
+S
+#6535
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes to this city needs to pass through this square in order
+to leave.  Far to the north you can see one of the many inns in this city,
+and far to the east is the beginning of Cedan Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6539
+D1
+~
+~
+0 0 6536
+D3
+~
+~
+0 0 6534
+S
+#6536
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes to this city needs to pass through this square in order
+to leave.  To the south is the entrance to an inn named The River's Bend,
+and a little to the east is the beginning of Cedan Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6540
+D1
+~
+~
+0 0 6537
+D2
+~
+~
+0 0 6754
+D3
+~
+~
+0 0 6535
+S
+#6537
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  A bunch of merchants are in this square and you think you can see
+a few more in a street far to the north.  A little to the east lies the
+beginning of Cedan Street as well as the back door to a building.  
+~
+0 0 1
+D0
+~
+~
+0 0 6541
+D1
+~
+~
+0 0 6538
+D3
+~
+~
+0 0 6536
+S
+#6538
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes to this city needs to pass through this square in order
+to leave.  To the south is the entrance to an inn named The Drunken Sailor,
+and to the east is the beginning of Cedan Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6542
+D1
+~
+~
+0 0 6641
+D2
+~
+~
+0 0 6763
+D3
+~
+~
+0 0 6537
+S
+#6539
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+northward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6519
+D1
+~
+~
+0 0 6540
+D2
+~
+~
+0 0 6535
+D3
+~
+~
+0 0 6533
+S
+#6540
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+southward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6520
+D1
+~
+~
+0 0 6541
+D2
+~
+~
+0 0 6536
+D3
+~
+~
+0 0 6539
+S
+#6541
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  A bunch of merchants are in this square but you think you see a
+majority of them lined up in a street to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 6521
+D1
+~
+~
+0 0 6542
+D2
+~
+~
+0 0 6537
+D3
+~
+~
+0 0 6540
+S
+#6542
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+southward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6522
+D2
+~
+~
+0 0 6538
+D3
+~
+~
+0 0 6541
+S
+#6543
+Path to the Docks~
+~
+0 0 1
+D1
+~
+~
+0 0 6524
+D3
+~
+~
+0 0 6544
+S
+#6544
+Path to the Docks~
+~
+0 0 1
+D0
+~
+~
+0 0 6545
+D1
+~
+~
+0 0 6543
+S
+#6545
+Path to the Docks~
+~
+0 0 1
+D2
+~
+~
+0 0 6544
+D3
+~
+~
+0 0 6546
+S
+#6546
+Path to the Docks~
+~
+0 0 1
+D1
+~
+~
+0 0 6545
+D5
+~
+~
+0 0 6547
+S
+#6547
+Path to the Docks~
+~
+0 0 1
+D3
+~
+~
+0 0 6548
+D4
+~
+~
+0 0 6546
+S
+#6548
+Path to the Docks~
+~
+0 0 1
+D1
+~
+~
+0 0 6547
+D5
+~
+~
+0 0 6549
+S
+#6549
+End of the Path to the Docks~
+~
+0 0 1
+D3
+~
+~
+0 0 6550
+D4
+~
+~
+0 0 6548
+S
+#6550
+Docks~
+~
+0 0 1
+D0
+~
+~
+0 0 6553
+D1
+~
+~
+0 0 6549
+D2
+~
+~
+0 0 6563
+D3
+~
+~
+0 0 6551
+S
+#6551
+Docks~
+~
+0 0 1
+D0
+~
+~
+0 0 6555
+D1
+~
+~
+0 0 6550
+D2
+~
+~
+0 0 6561
+D3
+~
+~
+0 0 6552
+S
+#6552
+Edge of the Dock~
+~
+0 0 1
+D0
+~
+~
+0 0 6557
+D1
+~
+~
+0 0 6551
+D2
+~
+~
+0 0 6559
+S
+#6553
+Edge of the Dock~
+~
+0 0 1
+D0
+~
+~
+0 0 6554
+D2
+~
+~
+0 0 6550
+D3
+~
+~
+0 0 6555
+S
+#6554
+Corner of the Dock~
+~
+0 0 1
+D2
+~
+~
+0 0 6553
+D3
+~
+~
+0 0 6556
+S
+#6555
+Docks~
+~
+0 0 1
+D0
+~
+~
+0 0 6556
+D1
+~
+~
+0 0 6553
+D2
+~
+~
+0 0 6551
+D3
+~
+~
+0 0 6557
+S
+#6556
+Edge of the Dock~
+~
+0 0 1
+D0
+~
+~
+0 0 6565
+D1
+~
+~
+0 0 6554
+D2
+~
+~
+0 0 6555
+D3
+~
+~
+0 0 6558
+S
+#6557
+Edge of the Dock~
+~
+0 0 1
+D0
+~
+~
+0 0 6558
+D1
+~
+~
+0 0 6555
+D2
+~
+~
+0 0 6552
+S
+#6558
+Corner of the Dock~
+~
+0 0 1
+D1
+~
+~
+0 0 6556
+D2
+~
+~
+0 0 6557
+S
+#6559
+Edge of the Dock~
+~
+0 0 1
+D0
+~
+~
+0 0 6552
+D1
+~
+~
+0 0 6561
+D2
+~
+~
+0 0 6560
+S
+#6560
+Corner of the Dock~
+~
+0 0 1
+D0
+~
+~
+0 0 6559
+D1
+~
+~
+0 0 6562
+D5
+~
+~
+0 0 6579
+S
+#6561
+Docks~
+~
+0 0 1
+D0
+~
+~
+0 0 6551
+D1
+~
+~
+0 0 6563
+D2
+~
+~
+0 0 6562
+D3
+~
+~
+0 0 6559
+S
+#6562
+Edge of the Dock~
+~
+0 0 1
+D0
+~
+~
+0 0 6561
+D1
+~
+~
+0 0 6564
+D3
+~
+~
+0 0 6560
+S
+#6563
+Edge of the Dock~
+~
+0 0 1
+D0
+~
+~
+0 0 6550
+D2
+~
+~
+0 0 6564
+D3
+~
+~
+0 0 6561
+S
+#6564
+Corner of the Dock~
+~
+0 0 1
+D0
+~
+~
+0 0 6563
+D3
+~
+~
+0 0 6562
+S
+#6565
+Ramp to a Ship~
+~
+0 0 1
+D0
+~
+~
+0 0 6566
+D2
+~
+~
+0 0 6556
+S
+#6566
+Ramp to a Ship~
+~
+0 0 1
+D0
+~
+~
+0 0 6567
+D2
+~
+~
+0 0 6565
+S
+#6567
+End of the Ramp~
+~
+0 0 1
+D0
+~
+~
+0 0 6568
+D2
+~
+~
+0 0 6566
+S
+#6568
+On Board~
+~
+0 0 1
+D0
+~
+~
+0 0 6721
+D2
+~
+~
+0 0 6567
+D3
+~
+~
+0 0 6720
+S
+#6569
+In Air~
+~
+0 0 1
+D5
+~
+~
+0 0 6570
+S
+#6570
+Falling Downward~
+~
+0 0 1
+D5
+~
+~
+0 0 6571
+S
+#6571
+Above the Water~
+~
+0 0 1
+D5
+~
+~
+0 0 6572
+S
+#6572
+In the Arinelle~
+~
+0 0 1
+D0
+~
+~
+0 0 6576
+D1
+~
+~
+0 0 6578
+D2
+~
+~
+0 0 6577
+D3
+~
+~
+0 0 6573
+S
+#6573
+In the Arinelle~
+~
+0 0 0
+D0
+~
+~
+0 0 6574
+D1
+~
+~
+0 0 6572
+D2
+~
+~
+0 0 6575
+S
+#6574
+In the Arinelle~
+~
+0 0 0
+D1
+~
+~
+0 0 6576
+D2
+~
+~
+0 0 6573
+S
+#6575
+In the Arinelle~
+~
+0 0 0
+D0
+~
+~
+0 0 6573
+D1
+~
+~
+0 0 6577
+S
+#6576
+In the Arinelle~
+~
+0 0 0
+D1
+~
+~
+0 0 6579
+D2
+~
+~
+0 0 6572
+D3
+~
+~
+0 0 6574
+S
+#6577
+In the Arinelle~
+~
+0 0 0
+D0
+~
+~
+0 0 6572
+D1
+~
+~
+0 0 6580
+D3
+~
+~
+0 0 6575
+S
+#6578
+In the Arinelle~
+~
+0 0 0
+D0
+~
+~
+0 0 6579
+D2
+~
+~
+0 0 6580
+D3
+~
+~
+0 0 6572
+S
+#6579
+In the Arinelle~
+~
+0 0 0
+D2
+~
+~
+0 0 6578
+D3
+~
+~
+0 0 6576
+D4
+~
+~
+0 0 6560
+S
+#6580
+In the Arinelle~
+~
+0 0 1
+D0
+~
+~
+0 0 6578
+D3
+~
+~
+0 0 6577
+S
+#6581
+Before an Invisible Curtain~
+~
+0 0 0
+D1
+~
+invisible~
+1 0 6582
+D3
+~
+~
+0 0 6509
+S
+#6582
+Bridge of Clouds~
+~
+0 0 8
+D1
+~
+~
+0 0 6583
+D3
+~
+~
+1 0 6581
+S
+#6583
+Bridge of Clouds~
+~
+0 0 8
+D3
+~
+~
+0 0 6582
+D4
+~
+~
+0 0 6584
+S
+#6584
+Bridge of Clouds~
+~
+0 0 8
+D0
+~
+~
+0 0 6569
+D1
+~
+~
+0 0 6585
+D5
+~
+~
+0 0 6583
+S
+#6585
+Bridge of Clouds~
+~
+0 0 8
+D3
+~
+~
+0 0 6584
+D4
+~
+~
+0 0 6586
+S
+#6586
+Outside the Western Gates~
+~
+0 0 8
+D1
+~
+~
+0 0 6517
+D5
+~
+~
+0 0 6585
+S
+#6587
+Path of Clouds~
+~
+0 0 8
+D1
+~
+~
+0 0 6588
+D3
+~
+~
+0 0 6517
+S
+#6588
+Path of Clouds~
+~
+0 0 1
+D1
+~
+~
+0 0 6589
+D3
+~
+~
+0 0 6587
+S
+#6589
+Path of Clouds~
+~
+0 0 1
+D1
+~
+~
+0 0 6518
+D3
+~
+~
+0 0 6588
+S
+#6590
+Entrance to the Wayfarer's Rest~
+~
+0 0 0
+D0
+~
+~
+0 0 6591
+D2
+~
+~
+0 0 6525
+S
+#6591
+Common Room of the Wayfarer's Rest~
+~
+0 0 0
+D1
+~
+~
+0 0 6592
+D2
+~
+~
+0 0 6590
+D3
+~
+~
+0 0 6593
+S
+#6592
+Common Room of the Wayfarer's Rest~
+~
+0 0 0
+D0
+~
+~
+0 0 6596
+D3
+~
+~
+0 0 6591
+S
+#6593
+Common Room of the Wayfarer's Rest~
+~
+0 0 0
+D0
+~
+~
+0 0 6594
+D1
+~
+~
+0 0 6591
+S
+#6594
+Common Room of the Wayfarer's Rest~
+~
+0 0 0
+D0
+~
+~
+0 0 6595
+D2
+~
+~
+0 0 6593
+S
+#6595
+Common Room of the Wayfarer's Rest~
+~
+0 0 0
+D1
+~
+~
+0 0 6598
+D2
+~
+~
+0 0 6594
+S
+#6596
+Common Room of the Wayfarer's Rest~
+~
+0 0 0
+D0
+~
+~
+0 0 6597
+D2
+~
+~
+0 0 6592
+S
+#6597
+Common Room of the Wayfarer's Rest~
+~
+0 0 0
+D2
+~
+~
+0 0 6596
+D3
+~
+~
+0 0 6598
+D4
+~
+~
+0 0 6600
+S
+#6598
+Bar of the Wayfarer's Rest~
+~
+0 0 0
+D0
+~
+~
+0 0 6599
+D1
+~
+~
+0 0 6597
+D3
+~
+~
+0 0 6595
+S
+#6599
+Kitchen of the Wayfarer's Rest~
+~
+0 0 0
+D2
+~
+~
+0 0 6598
+S
+#6600
+Hallway to Bedrooms~
+~
+0 0 0
+D3
+~
+~
+0 0 6601
+D5
+~
+~
+0 0 6597
+S
+#6601
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6609
+D1
+~
+~
+0 0 6600
+D2
+~
+~
+0 0 6610
+D3
+~
+~
+0 0 6602
+S
+#6602
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6606
+D1
+~
+~
+0 0 6601
+D2
+~
+~
+0 0 6607
+D3
+~
+~
+0 0 6603
+S
+#6603
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6604
+D1
+~
+~
+0 0 6602
+D2
+~
+~
+0 0 6605
+S
+#6604
+Inkeeper's Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6603
+S
+#6605
+Large Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6603
+S
+#6606
+Medium-Sized Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6602
+S
+#6607
+Medium-Sized Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6602
+S
+#6609
+Small Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6601
+S
+#6610
+Small Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6601
+S
+#6611
+Hawker's Street~
+~
+0 0 1
+D0
+~
+~
+0 0 6612
+D2
+~
+~
+0 0 6527
+S
+#6612
+Hawker's Street~
+~
+0 0 1
+D0
+~
+~
+0 0 6613
+D2
+~
+~
+0 0 6611
+S
+#6613
+Hawker's Street~
+~
+0 0 1
+D0
+~
+~
+0 0 6614
+D2
+~
+~
+0 0 6612
+D3
+~
+~
+0 0 6649
+S
+#6614
+Hawker's Street~
+~
+0 0 1
+D0
+~
+~
+0 0 6615
+D2
+~
+~
+0 0 6613
+S
+#6615
+Intersection of Hawker's and Merchant's Street~
+~
+0 0 1
+D2
+~
+~
+0 0 6614
+D3
+~
+~
+0 0 6616
+S
+#6616
+Merchant's Street~
+~
+0 0 1
+D0
+~
+~
+0 0 6648
+D1
+~
+~
+0 0 6615
+D3
+~
+~
+0 0 6617
+S
+#6617
+Merchant's Street~
+~
+0 0 1
+D1
+~
+~
+0 0 6616
+D2
+~
+~
+0 0 6647
+D3
+~
+~
+0 0 6618
+S
+#6618
+Merchant's Street~
+~
+0 0 1
+D0
+~
+~
+0 0 6646
+D1
+~
+~
+0 0 6617
+D3
+~
+~
+0 0 6619
+S
+#6619
+Intersection of Merchant's and Shopkeeper's Street~
+~
+0 0 1
+D1
+~
+~
+0 0 6618
+D2
+~
+~
+0 0 6620
+S
+#6620
+Shopkeeper's Street~
+~
+0 0 1
+D0
+~
+~
+0 0 6619
+D2
+~
+~
+0 0 6621
+D3
+~
+~
+0 0 6642
+S
+#6621
+Shopkeeper's Street~
+~
+0 0 1
+D0
+~
+~
+0 0 6620
+D1
+~
+~
+0 0 6643
+D2
+~
+~
+0 0 6622
+S
+#6622
+Shopkeeper's Street~
+~
+0 0 1
+D0
+~
+~
+0 0 6621
+D2
+~
+~
+0 0 6623
+D3
+~
+~
+0 0 6644
+S
+#6623
+Shopkeeper's Street~
+~
+0 0 1
+D0
+~
+~
+0 0 6622
+D1
+~
+~
+0 0 6645
+D2
+~
+~
+0 0 6524
+S
+#6624
+Leatherleaf Street~
+You are on a stone-paved street called Leatherleaf Street.  This is the
+residential area of Whitebridge where a few successful merchants live.  All
+the houses are made of red bricks and have signs with the family name over
+the door.  
+~
+0 0 1
+D0
+~
+~
+0 0 6534
+D2
+~
+~
+0 0 6625
+S
+#6625
+Intersection of Leatherleaf and Oak Street~
+You are on a stone-paved street called Leatherleaf Street.  This is the
+residential area of Whitebridge where a few successful merchants live.  To
+the east is Oak Street and north and south of here Leatherleaf Street
+continues.  
+~
+0 0 1
+D0
+~
+~
+0 0 6624
+D1
+~
+~
+0 0 6628
+D2
+~
+~
+0 0 6626
+S
+#6626
+Leatherleaf Street~
+You continue on a stone-paved street called Leatherleaf Street.  This is
+the residential area of Whitebridge where a few successful merchants live. 
+There aren't actually any houses on this street but if you go north or south
+there are intersections that will lead to the red brick houses.  
+~
+0 0 1
+D0
+~
+~
+0 0 6625
+D2
+~
+~
+0 0 6627
+S
+#6627
+Intersection of Leatherleaf and Evergreen Street~
+You are on a stone-paved street called Leatherleaf Street.  This is a
+residential area of Whitebridge where a few successful merchants live.  In
+fact to the east you can see two red brick houses with signs that have their
+family name written on them.  To the east is Evergreen Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6626
+D1
+~
+~
+0 0 6629
+S
+#6628
+Oak Street~
+You are on a stone-paved street called Oak Street.  This is a residential
+area of Whitebridge where a few successful merchants live.  To the east are
+two red brick houses with signs over their doors.  To the west is the
+intersection for Leatherleaf Street.  
+~
+0 0 1
+D1
+~
+~
+0 0 6638
+D3
+~
+~
+0 0 6625
+S
+#6629
+Evergreen Street~
+You are on a stone-paved street called Evergreen Street.  This is a
+residential area of Whitebridge where a few successful merchants live.  To
+the south is a red brick house with a sign over the door.  The sign has the
+words, "The Toren's" inscribed on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 6630
+D2
+~
+~
+0 0 6712
+D3
+~
+~
+0 0 6627
+S
+#6630
+Evergreen Street~
+You are on a stone-paved street called Evergreen Street.  This is a
+residential area of Whitebridge where a few successful merchants live. 
+Close to the west is a house and farther is the intersection for Leatherleaf
+street.  A little farther to the east is another house and further on is Cedan Street.
+Cedan Street.  
+~
+0 0 1
+D1
+~
+~
+0 0 6631
+D3
+~
+~
+0 0 6629
+S
+#6631
+Evergreen Street~
+You are on a stone-paved street called Evergreen Street.  This is a
+residential area of Whitebridge where a few successful merchants live.  A
+little to the west is a house and farther is the intersection for
+Leatherleaf Street.  Close to the east is another house and further on is
+Cedan Street.  
+~
+0 0 1
+D1
+~
+~
+0 0 6632
+D3
+~
+~
+0 0 6630
+S
+#6632
+Evergreen Street~
+You are on a stone-paved street called Evergreen Street.  This is a
+residential area of Whitebridge where a few successful merchants live.  To
+the south is a red brick house with a sign over the door.  The sign has the
+words, "The Dearn's" engraved on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 6633
+D2
+~
+~
+0 0 6704
+D3
+~
+~
+0 0 6631
+S
+#6633
+Intersection of Evergreen and Cedan Street~
+You are on a stone-paved street called Evergreen Street.  This is a
+residential area of Whitebridge where a few successful merchants live.  In
+fact to the west you can see two red brick houses with signs that have their
+family name written on them.  To the north is Cedan Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6635
+D3
+~
+~
+0 0 6632
+S
+#6634
+Cain's New Room~
+~
+0 4 0
+S
+#6635
+Cedan Street~
+You are on a stone-paved street called Cedan Street.  This is a
+residential area of Whitebridge where a few successful merchants live. 
+There aren't actually any houses on this street but if you go north or south
+there are intersections that will lead to the red brick houses.  
+~
+0 0 1
+D0
+~
+~
+0 0 6636
+D2
+~
+~
+0 0 6633
+S
+#6636
+Intersection of Cedan and Oak Street~
+You are on a stone-paved street called Cedan Street.  This is the
+residential are of Whitebridge where a few successful merchants live.  To
+the west is Oak Street where a few houses are.  If you go north or south you
+will be on Cedan Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6637
+D2
+~
+~
+0 0 6635
+D3
+~
+~
+0 0 6640
+S
+#6637
+Cedan Street~
+You are on a stone-paved street called Cedan Street.  This is a
+residential area of Whitebridge where a few successful merchants live.  The
+aren't actually any houses on this street, however, to the north the back
+door of someone's home leads into the street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6641
+D2
+~
+~
+0 0 6636
+S
+#6638
+Oak Street~
+You are on a stone-paved street called Oak Street.  This is a residential
+area of Whitebridge where a few successful merchants live.  To the south is
+a red brick house with a sign over the door.  The sign has the words, "The
+Mull's" engraved on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 6639
+D2
+~
+~
+0 0 6688
+D3
+~
+~
+0 0 6628
+S
+#6639
+Oak Street~
+You are on a stone-paved street called Oak Street.  This is a residential
+area of Whitebridge where a few successful merchants live.  To the south is
+a red brick house with a sign over the door.  The sign has the words, "The
+Neres'" engraved on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 6640
+D2
+~
+~
+0 0 6689
+D3
+~
+~
+0 0 6638
+S
+#6640
+Oak Street~
+You are on a stone-paved street called Oak Street.  This is a residential
+area of Whitebridge where a few successful merchants live.  To the west are
+two red brick houses with signs over their doors.  To the east is the
+intersection for Cedan Street.  
+~
+0 0 1
+D1
+~
+~
+0 0 6636
+D3
+~
+~
+0 0 6639
+S
+#6641
+Cedan Street~
+You are on a stone-paved street called Cedan Street.  This is the
+residential area of Whitebridge where a few successful merchants live.  All
+the houses are made of red bricks and have signs with the family name over
+the door.  To your east is a back door to someone's home.  West will lead
+you into a stone-paved square and southward Cedan Street continues.  
+~
+0 0 1
+D1
+~
+~
+1 0 6670
+D2
+~
+~
+0 0 6637
+D3
+~
+~
+0 0 6538
+S
+#6642
+Seamstress~
+~
+0 0 0
+D1
+~
+~
+0 0 6620
+S
+#6643
+Bakery~
+~
+0 0 0
+D3
+~
+~
+0 0 6621
+S
+#6644
+Tannery~
+~
+0 0 0
+D1
+~
+~
+0 0 6622
+S
+#6645
+Produce Shop~
+~
+0 0 0
+D3
+~
+~
+0 0 6623
+S
+#6646
+Goldsmith~
+~
+0 0 0
+D2
+~
+~
+0 0 6618
+S
+#6647
+Silversmith~
+~
+0 0 0
+D0
+~
+~
+0 0 6617
+S
+#6648
+Blacksmith~
+~
+0 0 0
+D2
+~
+~
+0 0 6616
+S
+#6649
+Back Alley~
+~
+0 0 1
+D1
+~
+~
+0 0 6613
+D3
+~
+~
+0 0 6650
+S
+#6650
+Back Alley~
+~
+0 0 1
+D1
+~
+~
+0 0 6649
+D3
+~
+~
+0 0 6651
+S
+#6651
+Dead End~
+~
+0 0 1
+D1
+~
+~
+0 0 6650
+D5
+~
+secret~
+1 0 6652
+S
+#6652
+Smuggler's Square~
+~
+0 0 0
+D0
+~
+~
+0 0 6658
+D1
+~
+~
+0 0 6656
+D2
+~
+~
+0 0 6653
+D3
+~
+~
+0 0 6657
+D4
+~
+secret~
+1 0 6651
+S
+#6653
+Smuggler's Square~
+~
+0 0 0
+D0
+~
+~
+0 0 6652
+D1
+~
+~
+0 0 6655
+D3
+~
+~
+0 0 6654
+S
+#6654
+Smuggler's Square~
+~
+0 0 0
+D0
+~
+~
+0 0 6656
+D1
+~
+~
+0 0 6653
+S
+#6655
+Smuggler's Square~
+~
+0 0 0
+D0
+~
+~
+0 0 6657
+D3
+~
+~
+0 0 6653
+S
+#6656
+Smuggler's Square~
+~
+0 0 0
+D0
+~
+~
+0 0 6659
+D2
+~
+~
+0 0 6654
+D3
+~
+~
+0 0 6652
+S
+#6657
+Smuggler's Square~
+~
+0 0 0
+D0
+~
+~
+0 0 6660
+D1
+~
+~
+0 0 6652
+D2
+~
+~
+0 0 6655
+S
+#6658
+Smuggler's Square~
+~
+0 0 0
+D1
+~
+~
+0 0 6659
+D2
+~
+~
+0 0 6652
+D3
+~
+~
+0 0 6660
+S
+#6659
+Smuggler's Square~
+~
+0 0 0
+D2
+~
+~
+0 0 6656
+D3
+~
+~
+0 0 6658
+S
+#6660
+Smuggler's Square~
+~
+0 0 0
+D1
+~
+~
+0 0 6658
+D2
+~
+~
+0 0 6657
+S
+#6661
+Stone-Paved Path~
+You are on a stone-paved path.  Westward is a large stone-paved square
+where a few of the merchants cry their wares.  Most of the entrances to the
+towns inns are also over there.  To the east is the Eastern Gate which leads
+to the Caemlyn Road.  
+~
+0 0 1
+D1
+~
+~
+0 0 6662
+D3
+~
+~
+0 0 6522
+S
+#6662
+Stone-Paved Path~
+You are now on a stone-paved path.  Westward the path leads to a large
+stone-paved square where a lot of merchants are set up yelling their wares. 
+Southward leads to the local healer.  They call her Mother Alnora here and
+she will shelter any sick person who is in need.  To the east is the eastern
+gate of the city and the Caemlyn Road.  
+~
+0 0 1
+D1
+~
+~
+0 0 6663
+D2
+~
+~
+0 0 6669
+D3
+~
+~
+0 0 6661
+S
+#6663
+Inside the Eastern Gate~
+You are inside the eastern gate of Whitebridge.  The gatekeepers are
+really close by now and are eyeballing each person that walks through the
+gates and marking tallies for each person that walks through.  To the east
+is a road called Caemlyn that will lead to Four Kings and Caemlyn.  
+~
+0 0 1
+D1
+~
+gate~
+1 0 6664
+D3
+~
+~
+0 0 6662
+S
+#6664
+Outside the Eastern Gate~
+You are outside the eastern gate of Whitebridge.  Two arched iron gates
+are blocking your path to the west.  The gatekeepers are inside the city
+watching the steady flow of merchants come through the gates.  To the east
+is a road that continues eastward to Caemlyn called Caemlyn Road.  
+~
+0 0 1
+D1
+~
+~
+0 0 6665
+D3
+~
+gate~
+1 0 6663
+S
+#6665
+Dusty Gravel Road~
+You are on a hard-packed dirt road called Caemlyn road which runs through
+the city to the west.  The arched iron gates and the two gatekeepers lie to
+the west and a steady stream of merchants flow in and out of the gates.  If
+you were to go to the east it could possibly be days before you see
+civilization.  
+~
+0 0 8
+D1
+~
+~
+0 0 6666
+D3
+~
+~
+0 0 6664
+S
+#6666
+Dusty Gravel Road~
+You continue on the hard-packed dirt road.  Far to the east lies Four
+Kings and Caemlyn but it will take a long time to reach those places.  The
+White Bridge is much closer and you wonder if the bridge will break as the
+people pass on it.  The eastern gate to Whitebridge to the west is much
+closer up now and you can see the stream of merchants leaving the city.  
+~
+0 0 8
+D1
+~
+~
+0 0 6667
+D3
+~
+~
+0 0 6665
+S
+#6667
+Dusty Gravel Road~
+You continue on the hard-packed dirt road.  You can see the White Bridge
+to the west much clearer now.  The gate is a little to the west and you can
+make out the gatekeepers.  Far to the east is Four Kings and Caemlyn but it
+will take days or even weeks to reach there.  
+~
+0 0 8
+D1
+~
+~
+0 0 6668
+D3
+~
+~
+0 0 6666
+S
+#6668
+Dusty Gravel Road~
+A hard-packed dirt road leads eastward toward Caemlyn and westward toward
+Whitebridge.  From here you can see the White Bridge to the west.  A large
+gleaming white structure that looks to be made of glass, ready to break at a
+touch.  The eastern gate of the city to the west is not to far away.  
+~
+0 0 8
+D3
+~
+~
+0 0 6667
+S
+#6669
+Stone Paved-Path~
+You are on a stone-paved path.  Northward the path continues but to the
+south is the local healer, Mother Alnora and her assistant, an expert on
+herbs.  To the south they will shelter any sick person and help them get
+better for a price.  
+~
+0 0 1
+D0
+~
+~
+0 0 6662
+D2
+~
+~
+0 0 6670
+S
+#6670
+Entrance of Mother Alnora's Home~
+You are now in Mother Alnora's house.  Northward will take you to a
+stone-paved path and to the west is a door that leads out to Cedan Street
+and some inns.  Upward you notice stairs leading into the ceiling but there
+is a latch on the wall.  Its probably another room.  
+~
+0 1049600 0
+D0
+~
+~
+0 0 6669
+D3
+~
+~
+1 0 6641
+D4
+~
+trapdoor~
+4 6504 6671
+S
+#6671
+Bedrooms of Mother Alnora's Home~
+You are now in the room where Mother Alnora shelters her sick patients. 
+You notice a woman in the far back behind a desk.  Behind her is a cupboard
+and a bunch of shelves.  The shelves are filled with rows of jars that have
+orange, pink, blue, green, and all sorts of colored liquid concoctions.  She
+must be the herb specialist that works with Mother Alnora.  You notice price
+tags next to those jars.  Looks like she's selling some healing herbs and
+potions.  
+~
+0 2106368 0
+D5
+~
+trapdoor~
+4 0 6670
+S
+#6672
+Common Room of The River Bend~
+~
+0 0 0
+D0
+~
+~
+0 0 6754
+D1
+~
+~
+0 0 6676
+D2
+~
+~
+0 0 6762
+D3
+~
+~
+0 0 6750
+S
+#6673
+Common Room of The Drunken Sailor~
+who
+~
+0 0 0
+D0
+~
+~
+0 0 6763
+D1
+~
+~
+0 0 6764
+D2
+~
+~
+0 0 6775
+D3
+~
+~
+0 0 6678
+S
+#6674
+Common Room of The Drunken Sailor~
+~
+0 0 0
+D0
+~
+~
+0 0 6764
+D2
+~
+~
+0 0 6765
+D3
+~
+~
+0 0 6775
+S
+#6675
+Common Room of The River Bend~
+~
+0 0 0
+D0
+~
+~
+0 0 6751
+D1
+~
+~
+0 0 6753
+S
+#6676
+Common Room of The River Bend~
+~
+0 0 0
+D2
+~
+~
+0 0 6677
+D3
+~
+~
+0 0 6672
+S
+#6677
+Common Room of The River Bend~
+~
+0 0 0
+D0
+~
+~
+0 0 6676
+D2
+~
+~
+0 0 6752
+D3
+~
+~
+0 0 6762
+D4
+~
+~
+0 0 6680
+S
+#6678
+Common Room of The Drunken Sailor~
+~
+0 0 0
+D1
+~
+~
+0 0 6673
+D2
+~
+~
+0 0 6679
+S
+#6679
+Common Room of The Drunken Sailor~
+~
+0 0 0
+D0
+~
+~
+0 0 6678
+D1
+~
+~
+0 0 6775
+D2
+~
+~
+0 0 6767
+D4
+~
+~
+0 0 6684
+S
+#6680
+Hallway to Bedrooms~
+~
+0 0 0
+D3
+~
+~
+0 0 6681
+D5
+~
+~
+0 0 6677
+S
+#6681
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6682
+D1
+~
+~
+0 0 6680
+D2
+~
+~
+0 0 6683
+D3
+~
+~
+0 0 6756
+S
+#6682
+Small Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6681
+S
+#6683
+Small Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6681
+S
+#6684
+Hallway to Bedrooms~
+~
+0 0 0
+D1
+~
+~
+0 0 6685
+D5
+~
+~
+0 0 6679
+S
+#6685
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6686
+D1
+~
+~
+0 0 6769
+D2
+~
+~
+0 0 6687
+D3
+~
+~
+0 0 6684
+S
+#6686
+Small Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6685
+S
+#6687
+Small Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6685
+S
+#6688
+Entrance to the Mull's Home~
+~
+0 0 0
+D0
+~
+~
+0 0 6638
+D2
+~
+~
+0 0 6700
+D3
+~
+~
+0 0 6691
+S
+#6689
+Entrance to the Neres' Home~
+~
+0 0 0
+D0
+~
+~
+0 0 6639
+D1
+~
+~
+0 0 6690
+D2
+~
+~
+0 0 6692
+S
+#6690
+Kitchen of the Neres' Home~
+~
+0 0 0
+D2
+~
+~
+0 0 6693
+D3
+~
+~
+0 0 6689
+S
+#6691
+Mull's Dining Room~
+~
+0 0 0
+D1
+~
+~
+0 0 6688
+D2
+~
+~
+0 0 6698
+S
+#6692
+Neres' Dining Room~
+~
+0 0 0
+D0
+~
+~
+0 0 6689
+D1
+~
+~
+0 0 6693
+S
+#6693
+Neres' Stairway to Bedrooms~
+~
+0 0 0
+D0
+~
+~
+0 0 6690
+D3
+~
+~
+0 0 6692
+D4
+~
+~
+0 0 6694
+S
+#6694
+End of Stairway~
+~
+0 0 0
+D3
+~
+~
+0 0 6695
+D5
+~
+~
+0 0 6693
+S
+#6695
+Neres' Hallway to Bedrooms~
+~
+0 0 0
+D0
+~
+~
+0 0 6696
+D1
+~
+~
+0 0 6694
+D2
+~
+~
+0 0 6697
+S
+#6696
+Neres' Master Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6695
+S
+#6697
+Neres' Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6695
+S
+#6698
+Mull's Stairway to Bedrooms~
+~
+0 0 0
+D0
+~
+~
+0 0 6691
+D1
+~
+~
+0 0 6700
+D4
+~
+~
+0 0 6699
+S
+#6699
+End of the Stairway~
+~
+0 0 0
+D1
+~
+~
+0 0 6701
+D5
+~
+~
+0 0 6698
+S
+#6700
+Mull's Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 6688
+D3
+~
+~
+0 0 6698
+S
+#6701
+Mull's Hallway to Bedrooms~
+~
+0 0 0
+D0
+~
+~
+0 0 6702
+D2
+~
+~
+0 0 6703
+D3
+~
+~
+0 0 6699
+S
+#6702
+Mull's Master Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6701
+S
+#6703
+Mull's Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6701
+S
+#6704
+Entrance to the Dearn's Home~
+~
+0 0 0
+D0
+~
+~
+0 0 6632
+D2
+~
+~
+0 0 6706
+D3
+~
+~
+0 0 6705
+S
+#6705
+Dearn's Dining Room~
+~
+0 0 0
+D1
+~
+~
+0 0 6704
+D2
+~
+~
+0 0 6707
+S
+#6706
+Dearn's Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 6704
+D3
+~
+~
+0 0 6707
+S
+#6707
+Dearn's Stairway to Bedrooms~
+~
+0 0 0
+D0
+~
+~
+0 0 6705
+D1
+~
+~
+0 0 6706
+D4
+~
+~
+0 0 6708
+S
+#6708
+End of Stairway~
+~
+0 0 0
+D1
+~
+~
+0 0 6709
+D5
+~
+~
+0 0 6707
+S
+#6709
+Dearn's Hallway to Bedrooms~
+~
+0 0 0
+D0
+~
+~
+0 0 6710
+D2
+~
+~
+0 0 6711
+D3
+~
+~
+0 0 6708
+S
+#6710
+Dearn's Master Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6709
+S
+#6711
+Dearn's Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6709
+S
+#6712
+Entrance to the Toren's Home~
+~
+0 0 0
+D0
+~
+~
+0 0 6629
+D1
+~
+~
+0 0 6713
+D2
+~
+~
+0 0 6714
+S
+#6713
+Toren's Dining Room~
+~
+0 0 0
+D2
+~
+~
+0 0 6715
+D3
+~
+~
+0 0 6712
+S
+#6714
+Toren's Stairway to Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6712
+D1
+~
+~
+0 0 6715
+D4
+~
+~
+0 0 6716
+S
+#6715
+Toren's Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 6713
+D3
+~
+~
+0 0 6714
+S
+#6716
+End of Stairway~
+~
+0 0 0
+D1
+~
+~
+0 0 6717
+D5
+~
+~
+0 0 6714
+S
+#6717
+Toren's Hallway to Bedrooms~
+~
+0 0 0
+D0
+~
+~
+0 0 6718
+D2
+~
+~
+0 0 6719
+D3
+~
+~
+0 0 6716
+S
+#6718
+Toren's Master Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6717
+S
+#6719
+Toren's Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6717
+S
+#6720
+Port Side Bow~
+~
+0 0 0
+D0
+~
+~
+0 0 6722
+D1
+~
+~
+0 0 6568
+D3
+~
+~
+0 0 6726
+S
+#6721
+Bow~
+~
+0 0 0
+D0
+~
+~
+0 0 6723
+D1
+~
+~
+1 0 6739
+D2
+~
+~
+0 0 6568
+D3
+~
+~
+0 0 6722
+S
+#6722
+Bow~
+~
+0 0 0
+D0
+~
+~
+0 0 6724
+D1
+~
+~
+0 0 6721
+D2
+~
+~
+0 0 6720
+D3
+~
+~
+0 0 6726
+S
+#6723
+Ladder to Amidships~
+~
+0 0 0
+D2
+~
+~
+0 0 6721
+D3
+~
+~
+0 0 6724
+D4
+~
+~
+0 0 6728
+S
+#6724
+Starboard Side Bow~
+~
+0 0 0
+D1
+~
+~
+0 0 6723
+D2
+~
+~
+0 0 6722
+D3
+~
+~
+0 0 6725
+S
+#6725
+Starboard Side Bow~
+~
+0 0 0
+D1
+~
+~
+0 0 6724
+D2
+~
+~
+0 0 6726
+D3
+~
+~
+0 0 6727
+S
+#6726
+Port Side Bow~
+~
+0 0 0
+D0
+~
+~
+0 0 6725
+D1
+~
+~
+0 0 6720
+D3
+~
+~
+0 0 6727
+S
+#6727
+Bow~
+~
+0 0 0
+D1
+~
+~
+0 0 6726
+S
+#6728
+Amidships~
+~
+0 0 0
+D1
+~
+~
+0 0 6731
+D2
+~
+~
+0 0 6729
+D5
+~
+~
+0 0 6723
+S
+#6729
+Amidships~
+~
+0 0 0
+D0
+~
+~
+0 0 6728
+D1
+~
+~
+0 0 6732
+D2
+~
+~
+0 0 6730
+S
+#6730
+Amidships~
+~
+0 0 0
+D0
+~
+~
+0 0 6729
+D1
+~
+~
+0 0 6733
+S
+#6731
+Ladder to Stern~
+~
+0 0 0
+D2
+~
+~
+0 0 6732
+D3
+~
+~
+0 0 6728
+D4
+~
+~
+0 0 6734
+S
+#6732
+Amidships~
+~
+0 0 0
+D0
+~
+~
+0 0 6731
+D2
+~
+~
+0 0 6733
+D3
+~
+~
+0 0 6729
+S
+#6733
+Amidships~
+~
+0 0 0
+D0
+~
+~
+0 0 6732
+D3
+~
+~
+0 0 6730
+S
+#6734
+Stern~
+~
+0 0 0
+D1
+~
+~
+0 0 6737
+D2
+~
+~
+0 0 6735
+D5
+~
+~
+0 0 6731
+S
+#6735
+Stern~
+~
+0 0 0
+D0
+~
+~
+0 0 6734
+D1
+~
+~
+0 0 6738
+D2
+~
+~
+0 0 6736
+S
+#6736
+Stern~
+~
+0 0 0
+D0
+~
+~
+0 0 6735
+D1
+~
+~
+0 0 6738
+S
+#6737
+Stern~
+~
+0 0 0
+D2
+~
+~
+0 0 6738
+D3
+~
+~
+0 0 6734
+S
+#6738
+Stern~
+~
+0 0 0
+D0
+~
+~
+0 0 6737
+D3
+~
+~
+0 0 6736
+S
+#6739
+Stairs to Lower Deck~
+~
+0 0 0
+D3
+~
+~
+1 0 6721
+D5
+~
+~
+0 0 6740
+S
+#6740
+End of Stairs~
+~
+0 0 0
+D1
+~
+~
+0 0 6741
+D4
+~
+~
+0 0 6739
+S
+#6741
+Lower Deck Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6743
+D1
+~
+~
+0 0 6742
+D2
+~
+~
+0 0 6749
+D3
+~
+~
+0 0 6740
+S
+#6742
+Lower Deck Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6744
+D1
+~
+~
+0 0 6746
+D2
+~
+~
+0 0 6745
+D3
+~
+~
+0 0 6741
+S
+#6743
+Galleys~
+~
+0 0 0
+D2
+~
+~
+0 0 6741
+S
+#6744
+Captains Cabin~
+~
+0 0 0
+D2
+~
+~
+0 0 6742
+S
+#6745
+Crews Cabin~
+~
+0 0 0
+D0
+~
+~
+0 0 6742
+S
+#6746
+Lower Deck Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6747
+D2
+~
+~
+0 0 6748
+D3
+~
+~
+0 0 6742
+S
+#6747
+Passenger's Cabin~
+~
+0 0 0
+D2
+~
+~
+0 0 6746
+S
+#6748
+Passenger's Cabin~
+~
+0 0 0
+D0
+~
+~
+0 0 6746
+S
+#6749
+Storage Room~
+~
+0 0 0
+D0
+~
+~
+0 0 6741
+S
+#6750
+Common Room of The River Bend~
+~
+0 0 0
+D1
+~
+~
+0 0 6672
+D2
+~
+~
+0 0 6751
+S
+#6751
+Common Room of The River Bend~
+~
+0 0 0
+D0
+~
+~
+0 0 6750
+D1
+~
+~
+0 0 6762
+D2
+~
+~
+0 0 6675
+S
+#6752
+Common Room of The River Bend~
+~
+0 0 0
+D0
+~
+~
+0 0 6677
+D3
+~
+~
+0 0 6753
+S
+#6753
+Bar of The River Bend~
+~
+0 0 0
+D0
+~
+~
+0 0 6762
+D1
+~
+~
+0 0 6752
+D2
+~
+~
+0 0 6755
+D3
+~
+~
+0 0 6675
+S
+#6754
+Entrance to The River Bend~
+~
+0 0 0
+D0
+~
+~
+0 0 6536
+D2
+~
+~
+0 0 6672
+S
+#6755
+Kitchen of The River Bend~
+~
+0 0 0
+D0
+~
+~
+0 0 6753
+S
+#6756
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6758
+D1
+~
+~
+0 0 6681
+D2
+~
+~
+0 0 6759
+D3
+~
+~
+0 0 6757
+S
+#6757
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6760
+D1
+~
+~
+0 0 6756
+D2
+~
+~
+0 0 6761
+S
+#6758
+Medium-Sized Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6756
+S
+#6759
+Medium-Sized Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6756
+S
+#6760
+Inkeeper's Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6757
+S
+#6761
+Large Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6757
+S
+#6762
+Stage of The River Bend~
+~
+0 0 0
+D0
+~
+~
+0 0 6672
+D1
+~
+~
+0 0 6677
+D2
+~
+~
+0 0 6753
+D3
+~
+~
+0 0 6751
+S
+#6763
+Entrance to The Drunken Sailor~
+You have entered an inn called The Drunken Sailor.  To the south is the
+common room.  The walls look pretty old and a little dirty.  When you glance
+into the common room you can see a bunch of drunken men singing rauciously
+and raising their mugs together.  I guess this inn's description fits the
+name.  
+~
+0 0 0
+D0
+~
+~
+0 0 6538
+D2
+~
+~
+0 0 6673
+S
+#6764
+Common Room of The Drunken Sailor~
+~
+0 0 0
+D2
+~
+~
+0 0 6674
+D3
+~
+~
+0 0 6673
+S
+#6765
+Common Room of The Drunken Sailor~
+~
+0 0 0
+D0
+~
+~
+0 0 6674
+D3
+~
+~
+0 0 6766
+S
+#6766
+Bar of The Drunken Sailor~
+~
+0 0 0
+D0
+~
+~
+0 0 6775
+D1
+~
+~
+0 0 6765
+D2
+~
+~
+0 0 6768
+D3
+~
+~
+0 0 6767
+S
+#6767
+Common Room of The Drunken Sailor~
+~
+0 0 0
+D0
+~
+~
+0 0 6679
+D1
+~
+~
+0 0 6766
+S
+#6768
+Kitchen of the Drunken Sailor~
+~
+0 0 0
+D0
+~
+~
+0 0 6766
+S
+#6769
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6770
+D1
+~
+~
+0 0 6772
+D2
+~
+~
+0 0 6771
+D3
+~
+~
+0 0 6685
+S
+#6770
+Medium-Sized Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6769
+S
+#6771
+Medium-Sized Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6769
+S
+#6772
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6773
+D2
+~
+~
+0 0 6774
+D3
+~
+~
+0 0 6769
+S
+#6773
+Inkeeper's Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 6772
+S
+#6774
+Large Bedroom~
+~
+0 0 0
+D0
+~
+~
+0 0 6772
+S
+#6775
+Stage of The Drunken Sailor~
+~
+0 0 0
+D0
+~
+~
+0 0 6673
+D1
+~
+~
+0 0 6674
+D2
+~
+~
+0 0 6766
+D3
+~
+~
+0 0 6679
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 6581 1 1
+D 0 6582 3 1
+D 0 6641 1 1
+D 0 6651 5 1
+D 0 6652 4 1
+D 0 6663 1 1
+D 0 6664 3 1
+D 0 6670 3 1
+D 0 6670 4 2
+D 0 6671 5 2
+D 0 6721 1 1
+D 0 6739 3 1
+M 0 6500 1 6670 1 100 Load Mother Alnora
+O 0 6500 0 6671 0 100 A comfortable bed in mother alnora's home loaded to Bedrooms of Mother Alnora's Home
+O 0 6501 0 6671 0 100 A cupboard loaded to Bedrooms of Mother Alnora's Home
+M 0 6501 1 6671 1 100 Load Aleis Carand
+G 0 6502 0 0 0 100 `7cupboard key is given to Aleis Carand
+S
+
+
+
+#SHOPS
+6501 31 26 10 18 0 100 100 0 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

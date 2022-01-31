@@ -1,0 +1,3120 @@
+#AREADATA
+Name For Quest Items~
+Builders Sellers~
+VNUMs 24401 24600
+Credits `4[`7 None `4]`7 Asmodeus  Quest Items~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#24401
+monolith high priest~
+The Priest~
+The Priest of the High Monolith, decends apon you.
+~
+~
+aiel~
+0 0
+AFGTU 336 41024 0 0 -1  0 0
+175 250 1d1+32000 0d0+0 10d100+25 stab
+-90 -90 -90 -90
+0 0 HJK 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#24402
+doon dai spear dancer~
+A Doon'Dai Spear Dancer~
+A tall man stands here, with a TALL spear.
+~
+~
+aiel~
+0 0
+AFTU 336 32835 16512 4 -1  0 0
+250 500 50d500+100 0d0+0 4d150+100 sting
+-50 -50 -50 -50
+BHO HK 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#24403
+machin shin~
+`7M`&a`8ch`&i`7n `8S`&h`8i`&n`7~
+`7M`&a`8ch`&i`7n `8S`&h`8i`&n`7
+~
+~
+unique~
+0 0
+AG 0 32832 129 512 -1  -250 0
+450 650 14999d1+1 15d15+1000 400d20+300 pound
+-300 -300 -300 -300
+EFHIJK KZ AK I
+stand stand none 1000
+K 0 huge unknown
+#24404
+gate way~
+an Ogier `@W`2a`@y `2G`@a`2t`@e`7~
+An Ogier `@W`2a`@y `2G`@a`2t`@e`7
+~
+~
+unique~
+0 0
+AB 0 2048 0 1536 -1  -1400 0
+500 1000 12d12+1000 12d12+1000 12d12+1000 pound
+-400 -400 -400 -400
+EFHIKO ACK AK I
+stand stand none 1000
+E 0 huge unknown
+#24405
+myrddraal~
+The `8M`&y`7r`&d`8d`&r`7a`&a`8l`7~
+The `8M`&y`7r`&d`8d`&r`7a`&a`8l`7
+~
+~
+unique~
+0 0
+ABG 256 34897 1153 13824 -1  -500 0
+450 750 25000d1+1 16d16+2000 16d16+2000 pound
+-250 -300 -350 -240
+ADEFHIKN ABK ABKL I
+stand stand none 1000
+E 0 huge unknown
+#24406
+goto Feafe Quest~
+Feafe~
+Feafe is here, serving as a goto mob because Jasin can't remember the vnum of the room.
+~
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+1 0 10d1+100 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand none 0
+0 0 medium unknown
+#24407
+mob breaker worlds domination~
+`1Br`!ea`1k`!e`1r`7 of `8W`7o`&rl`7d`8s`7~
+A man stands here, clutching a `1R`!o`1d`7 of `8Do`7mi`&na`7ti`8on`7.
+~
+Fear grips your stomach and you clutch your head in pain. He is the Master of
+this Realm. The Destroyer of Worlds. Even the Chosen quiver before his might.
+A shrill scream tears at your ears ... Another has died, will you be next?
+~
+unique~
+0 0
+AFQRT 49488 3408 0 8 -1  0 0
+775 600 1d1+31999 1d1+31999 1d1+499 divine
+-75 -75 -75 -75
+AFHKMO CNQZ DK 0
+stand stand male  0
+0 0 medium unknown
+#24408
+bubbah~
+Bubbah ~
+A 400 pound Black Man is here, grinning at your every movement.
+~
+~
+unique~
+0 0
+AF 256 8448 0 0 -1  0 0
+0 0 100d100+900 0d0+0 0d0+0 pierce
+-100 -100 -100 -100
+0 A 0 0
+stand stand none 0
+0 0 medium unknown
+#24409
+hassan~
+`&H`#a`3ss`#a`&n`7~
+The defender has returned to protect his beloved city.
+~
+He has become aged since his retirement, but still meets wide-eyed gazes with
+a cold ice blue stare. Gliding from step-to-step, his fluid movement marks him with
+dangerous grace. The man is a true blademaster, and something to be frigthened
+of despite his aged, white tufts above each ear.
+~
+andor~
+0 0
+ABGHQRTZe 24656 3377 0 8 -1  1000 0
+999 999 1d1+29999 1d1+29999 20d24+20 cleave
+0 0 0 0
+AEFJKNOR ABJX 0 a
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#24410
+myrddraal fade eyeless shadowspawn~
+`8My`7rd`&d`7ra`8al`7~
+A hooded figure glides like death to you, peircing with its eyeless gaze.
+~
+It looks like a man of average gaze in a black cloak, but in fact it is a member
+of the Shadowspawn. Drawing it's cloak, it glides forward revealing a pasty white
+face. The Eyeless' stare drives fear cold to your bones.
+~
+saldaea~
+0 0
+ABFOQTZe 41296 1107 1024 32768 -1  -1000 0
+500 500 1d1+49999 1d1+9999 20d24+50 drain
+0 0 0 0
+ACEFIJKNR ABJN D La
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#24411
+trolloc shadowspawn~
+`1Tr`!o`&ll`!o`1c`7~
+A huge, man-shaped beast snarls and strikes with it's scythe-like sword.
+~
+With the body of a man, it has been twisted into a beastly Shadowspawn. It towers
+over most everyone at over eight feet tall. It snarls and mutters a gutteral curse
+in a strange language.
+~
+saldaea~
+0 0
+ABFHTZe 41024 1025 0 4096 -1  -1000 0
+250 0 1d1+9999 1d1+9999 1d1+99 none
+-10 -10 -10 -10
+AFJKNOR ABJL C DNa
+stand stand either 0
+AHMV ABCDEFGHIJK huge unknown
+#24424
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#24441
+swamp armor~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#24442
+warped embodiment agony despair~
+the `8embodiment `7of `!agony `7and `8despair`7~
+The `8W`&a`7rp`&e`8d Emb`&o`7di`&m`8ent`7 of `!Agony `7and `8Despair`7 reaches out to you.
+~
+Devil speak of the way in which he'll manifest..
+Angels bleed from the tainted touch of my caress..
+~
+unique~
+0 0
+ABTe 336 80 128 0 -1  0 0
+450 450 120000d1+1000 29000d1+1000 10d1+420 drain
+-100 -100 -100 -100
+CDFHK 0 0 0
+stand stand none 0
+0 0 medium unknown
+#24443
+angel serenity peace~
+the `&Angel `7of `3Serenity `7and `&Peace`7~
+The `&Angel `7of `3Serenity `7and `&Peace `7levatates here, attempting to cleanse your soul.
+~
+Give me one more medicated peaceful moment..
+~
+unique~
+0 0
+ABTe 336 80 128 0 -1  0 0
+450 450 120000d1+1000 0d0+0 10d1+420 none
+-100 -100 -100 -100
+CDFHK 0 0 0
+stand stand none 0
+0 0 medium unknown
+#24444
+ghost dante~
+the Ghost of Dante~
+The ghost of Dante is here, weeping over his lost soul.
+~
+~
+unique~
+0 0
+ABKTe 336 80 128 0 -1  0 0
+300 350 29000d1+1000 0d0+0 10d1+300 drain
+-100 -100 -100 -100
+CDFHK 0 0 0
+stand stand none 0
+0 0 medium unknown
+#24445
+embodiment pure evil~
+the `&Embodiment `7of the `#L`3i`#g`3h`#t`7~
+The `&Embodiment `7of the `#L`3i`#g`3h`#t `7is here.
+~
+Good.  
+~
+unique~
+0 0
+ABTe 336 2128 128 32768 -1  0 0
+450 500 49000d1+1000 29000d1+1000 10d1+480 wrath
+-100 -100 -100 -100
+CDFHKO 0 HIJK 0
+stand stand none 0
+0 0 medium unknown
+#24466
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#24583
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#24401
+Ancient Necklace Sun~
+`&(`$Ancient`&) `&Nec`*k`3pl`*a`#te `&Of `!The `#Sun`*~
+A Very Bright Neckplate is lying here~
+unknown~
+armor HIYad AC
+0
+BDF BDF BDF BDF 0
+110 100 5000 P
+A
+18 9
+A
+19 8
+A
+20 -10
+A
+13 20
+A
+12 2
+ T 0 none~
+#24402
+Ancient Wristplate Moon~
+`&(`$Ancient`&) `#Glo`*w`3ing `1Wristplate `2Of `&Moo`*nli`8ght`*~
+A glowing wristplate is floating here~
+unknown~
+light HIYd A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 100 5000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 17
+ T 0 none~
+#24403
+ring tanchico noble~
+a ring of the `%G`5reat `%T`5anchico `%N`5oble`*~
+A gold ring with the signet of a large noble house in Tanchico lies here.~
+unknown~
+armor ABd AB
+0
+BDF BDF BDF BDF 0
+110 100 7500 P
+A
+18 7
+A
+19 7
+A
+17 -10
+A
+20 -10
+A
+13 30
+A
+12 2
+ T 0 none~
+#24404
+presence of the nym~
+`&(`8Ta`&i`8n`&te`8d`&) `2Pr`@e`2s`@e`2n`@ce `&of `8the `2N`2y`8m`7~
+An aura seems to glow softly in the waining sun~
+unknown~
+armor d AQ
+0
+BDF BDF BDF BDF 0
+110 0 5000 P
+A
+13 50
+A
+12 50
+A
+18 5
+A
+19 5
+A
+20 -3
+A
+17 -2
+ T 0 none~
+#24405
+Ancient Apoclipse~
+`1(`&A`8ncient`1) `&L`*e`8g `&Pl`*at`8es `1of `1A`8p`1o`8c`1l`8i`1p`8s`1e`*~
+Some Very Ancient leg plate are lying here~
+unknown~
+armor GHYad AF
+0
+BDF BDF BDF BDF 0
+110 100 0 P
+A
+20 -9
+A
+18 8
+A
+19 8
+A
+13 32
+ T 0 none~
+#24406
+Pwipe bag~
+this is the `!PWIPE`7 safety bag.~
+(no description)~
+unknown~
+container de A
+0
+10000 0 0 10000 50
+0 100 0 P
+ T 0 none~
+#24407
+skin doon dai~
+`#T`3he `#S`3kin `#O`3f `#T`3he `#D`3oon `#D`3ai`7~
+A pile of skin lays here, human like.~
+unknown~
+container ABYd AL
+0
+500 ABCD 24409 100 0
+41 5 4000 P
+A
+18 6
+A
+19 6
+A
+13 25
+ T 0 none~
+#24408
+spear dancer shoulder plate~
+a `#S`3houlder `@P`2late `7with a `$S`4pear `7E`8mblem`7~
+A plate lays here.~
+unknown~
+armor ABd AS
+0
+BDF BDF BDF BDF 0
+110 100 5000 P
+A
+13 50
+A
+18 8
+A
+19 8
+A
+20 -7
+A
+12 2
+ T 0 none~
+#24409
+key midgaard~
+a beautiful key~
+A key lays here.~
+unknown~
+key d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#24410
+Canteen Eternity~
+`8(`&Silver`8) `!C`&anteen `1Of `&Eternity`*~
+A Silver Canteen is here~
+unknown~
+drink ABYd AP
+0
+1000000000 1000000000 'blood' 0 0
+110 90 0 P
+ T 0 none~
+#24411
+Aginor Armor~
+`1A`8ginor's `1B`8odyarmor `1Of `&Bone`*~
+A magical set of bone armour is here~
+unknown~
+armor ABGYd AD
+0
+BDF BDF BDF BDF 0
+110 150 0 P
+A
+18 10
+A
+19 10
+A
+13 67
+ T 0 none~
+#24412
+monolith key~
+the key to the monolith~
+A key of great power lays burried in dust.~
+unknown~
+key ABd A
+0
+0 0 0 0 0
+0 1 2000 P
+ T 0 none~
+#24413
+key monolith~
+`&a key to the monolith`7~
+`&a powerfull key lays here, burried in the dust.~
+unknown~
+key ABd A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#24414
+Asha Arm~
+`!A`8sha'`!M`8an `!A`8rm `!P`8lates`*~
+A set of Asha'Man arm plates is lying here discarded~
+unknown~
+armor GIYd AI
+0
+BDF BDF BDF BDF 0
+110 100 0 P
+A
+13 60
+A
+12 60
+A
+20 -5
+A
+18 5
+A
+19 5
+A
+14 -56
+ T 0 none~
+#24415
+Medallion Knowledge~
+`#T`3he `#M`3edallion `&of `#K`3nowledge`*~
+The medallion of ultimate knowledge was left here by someone very smart.  Ironic isn't it?~
+unknown~
+armor ad AC
+0
+F F F F 0
+105 20 100000 P
+A
+20 -15
+A
+18 7
+A
+19 7
+A
+13 6
+ T 0 none~
+#24416
+pwipe~
+(no short description)~
+(no description)~
+unknown~
+container d A
+0
+10000 0 0 10000 10000
+0 0 0 P
+ T 0 none~
+#24417
+Battle Neckplate~
+`&(`8Ta`&i`8nt`&e`8d`&) (`!S`1p`8i`1k`8e`1d`&) `8a `1Batt`8l`1e `8Ne`1c`8kp`1l`8ate`*~
+An ancient looking neckplate is lying here~
+unknown~
+armor d AC
+0
+BDF BDF BDF ACDF 0
+110 100 0 P
+A
+20 -8
+A
+13 17
+A
+18 10
+A
+19 10
+A
+12 10
+ T 0 none~
+#24418
+Combat Belt~
+`!(`&Plated`!) `2Combat `4B`$elt`*~
+A plated combat belt is lying here~
+unknown~
+armor GHKLad AL
+0
+BDF BDF BDF BDF 0
+110 100 0 P
+A
+19 10
+A
+18 10
+A
+20 -10
+A
+17 -10
+A
+13 7
+ T 0 none~
+#24419
+Gauntlets of Fire~
+`&(`!Fir`#e`!y Au`#r`!a`&) `&Gau`*ntl`8ets`* of `!Fi`#re`*~
+A warm pair of gauntlets lie here~
+unknown~
+armor Yd AH
+0
+BDF BDF BDF ACDF 0
+110 100 0 P
+A
+19 10
+A
+18 10
+A
+17 -9
+A
+13 30
+A
+20 -5
+ T 0 none~
+#24420
+blue ion stone~
+the `%M`5agical `$B`4lue `^I`6on `&S`8tone`7~
+A precious gem is here.~
+magical rock~
+treasure ABd AO
+0
+0 0 0 0 0
+110 3 9500 P
+A
+13 70
+A
+12 70
+A
+17 -5
+A
+18 2
+A
+19 2
+A
+14 2
+ T 0 none~
+#24421
+Lightforge Boots~
+`#(`&L`#i`&ght`#)`& L`8i`&g`&h`8t`&f`8o`&rge `!B`1o`!o`1t`8s`*~
+A pair of Lightforge boots are lying here~
+unknown~
+armor GHIYd AG
+0
+BDF BDF BDF BDF 0
+110 100 5000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+17 -10
+A
+13 2
+ T 0 none~
+#24422
+dragon tattoo~
+`8drag`&o`8n tatt`&oo`7~
+A powerful tattoo lies on the ground covered in dragon insignia.~
+unknown~
+armor ABd AM
+0
+BDF BDF BDF BDF 0
+110 100 5000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+17 -10
+A
+14 5
+ T 0 none~
+#24423
+survivor medal~
+`#S`3u`#r`3v`#i`3v`#o`3r `$W`4i`$n`4n`$e`$r`*~
+This is a medal that is just lying on the ground~
+unknown~
+armor AHad AK
+0
+BDF BDF BDF BDF 0
+110 100 5000 P
+A
+13 50
+A
+20 -5
+A
+18 7
+A
+19 8
+A
+14 15
+ T 0 none~
+#24424
+gloves~
+`!G`8l`!o`8v`!e`8s `&o`7f `!S`8t`!r`8e`!n`8g`!t`8h`*~
+Some very powerful gloves are here~
+unknown~
+armor ABFYad AH
+0
+BDF BDF BDF BDF 0
+110 100 5000 P
+A
+1 5
+A
+18 6
+A
+19 10
+A
+13 49
+E
+gloves~
+These gloves brought to you by `$D`7r`$e`7y`$u`7s`*.
+~
+ T 0 none~
+#24425
+Tag Belt~
+`&1/10 `8Of `1The `6Handicapped `8Tag `4Team `#Titles`*~
+One of the 10 handicapped tag titles is lying here~
+unknown~
+armor ABd AS
+0
+ACDF ACDF ACDF ACDF 0
+110 120 0 P
+A
+19 10
+A
+18 9
+A
+20 -6
+A
+13 40
+A
+12 2
+ T 0 none~
+#24426
+valour medallion~
+`&The `^M`8e`^d`8a`^l`8l`^i`8o`^n `&of `^V`8a`^l`8o`^u`8r`7~
+The Medallion of Valour, a symbol of appreciation from the White Tower, is here.~
+unknown~
+armor ad AC
+0
+DF DF DF DF 0
+110 20 10000 P
+A
+18 9
+A
+19 9
+A
+20 -8
+A
+13 27
+ T 0 none~
+#24427
+quest dagger fierce~
+a `8silent `8d`a`8gger`7, tipped with `2p`7o`2is`7o`2n`7~
+A green dagger is here, waiting to poison.~
+unknown~
+weapon ABKd AN
+0
+dagger 75 1 stab BDH
+110 10 4000 P
+A
+18 10
+A
+19 10
+A
+13 25
+A
+12 25
+A
+14 25
+A
+17 -1
+ T 0 none~
+#24428
+valour belt~
+`&The `^B`8e`^l`8t `&of `^V`8a`^l`8o`^u`8r`7~
+The Belt of Valour, a symbol of appreciation from the White Tower, is here.~
+unknown~
+armor ad AL
+0
+DF DF DF DF 0
+110 20 10000 P
+A
+20 -10
+A
+17 -20
+A
+13 20
+A
+12 20
+A
+19 3
+A
+18 4
+A
+14 4
+ T 0 none~
+#24430
+Wrist Plate of Blood~
+`8The `&Wris`*tp`8late `*Of `1Blo`!o`1d`*~
+A wristplate covered in blood is lying here~
+unknown~
+armor ABYd AM
+0
+BDF BDF BDF BDF 0
+110 100 0 P
+A
+20 -10
+A
+18 10
+A
+19 10
+A
+13 17
+ T 0 none~
+#24431
+zhar light torch lamp~
+`!T`1h`!e `1L`!a`1m`!p `7of `^F`6oresight`7 `7and `#S`3t`#r`3e`#n`3g`#t`3h`7~
+A magical light~
+unknown~
+light ABd A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 5 2000 P
+A
+18 10
+A
+19 10
+S 'detect invis'   0  80  -1  25   0          4
+S 'detect hidden'   0  80  -1  25   0          6
+S 'fly'   0  80  -1  25   0         20
+A
+14 -15
+ T 0 none~
+#24432
+first nine rods domination~
+`1F`!i`1rst`7 of `1N`!i`1n`!e`7 Rods of `8Do`7mi`&na`7ti`8on`7~
+A cuendillar rod lies here drawing in weaves of spirit.~
+heartstone~
+armor OSTYad AO
+0
+ACDF ACDF ACDF ACDF 0
+150 100 50000 P
+A
+1 3
+A
+18 11
+A
+19 11
+A
+20 -11
+A
+13 10
+ T 0 none~
+#24433
+second nine rods domination~
+`1S`!e`1c`!o`1nd`7 of `1N`!i`1n`!e`7 Rods of `8Do`7mi`&na`7ti`8on`7~
+A cuendillar rod lies here drawing in weaves of spirit.~
+heartstone~
+armor OSTYad AO
+0
+BCEF BCEF BCEF BCEF 0
+150 100 50000 P
+A
+13 50
+A
+12 50
+A
+20 -10
+A
+18 2
+A
+19 2
+A
+17 -10
+A
+14 10
+ T 0 none~
+#24434
+third nine rods domination~
+`1Th`!i`1rd`7 of `1N`!i`1n`!e`7 Rods of `8Do`7mi`&na`7ti`8on`7~
+A cuendillar rod lies here drawing in weaves of spirit.~
+heartstone~
+armor OSTYad AO
+0
+BCEF BCEF BCEF BCEF 0
+150 100 50000 P
+A
+2 3
+A
+13 75
+A
+12 50
+A
+20 -5
+A
+18 5
+ T 0 none~
+#24435
+fourth nine rods domination~
+`1F`!ou`1rth`7 of `1N`!i`1n`!e`7 Rods of `8Do`7mi`&na`7ti`8on`7~
+A cuendillar rod lies here drawing in weaves of spirit.~
+heartstone~
+armor OSTYad AO
+0
+BCEF BCEF BCEF BCEF 0
+150 100 50000 P
+A
+18 11
+A
+19 11
+A
+13 80
+A
+20 -1
+A
+14 -10
+ T 0 none~
+#24436
+fifth nine rods domination~
+`1F`!i`1fth`7 of `1N`!i`1n`!e`7 Rods of `8Do`7mi`&na`7ti`8on`7~
+A cuendillar rod lies here drawing in weaves of spirit.~
+heartstone~
+armor OSTYad AO
+0
+BCEF BCEF BCEF BCEF 0
+150 100 50000 P
+A
+18 8
+A
+19 8
+A
+12 80
+A
+17 -10
+A
+20 -3
+ T 0 none~
+#24437
+sixth nine rods domination~
+`1S`!i`1xth`7 of `1N`!i`1n`!e`7 Rods of `8Do`7mi`&na`7ti`8on`7~
+A cuendillar rod lies here drawing in weaves of spirit.~
+heartstone~
+armor OSTYad AO
+0
+BCEF BCEF BCEF BCEF 0
+150 100 50000 P
+A
+18 10
+A
+19 10
+A
+13 90
+ T 0 none~
+#24438
+seventh nine rods domination~
+`1S`!e`1v`!e`1nth`7 of `1N`!i`1n`!e`7 Rods of `8Do`7mi`&na`7ti`8on`7~
+A cuendillar rod lies here drawing in weaves of spirit.~
+heartstone~
+armor OSTYad AO
+0
+BCEF BCEF BCEF BCEF 0
+150 100 50000 P
+A
+12 90
+A
+20 -10
+A
+17 -10
+A
+19 3
+A
+18 4
+ T 0 none~
+#24439
+eighth nine rods domination~
+`!Ei`1ghth`7 of `1N`!i`1n`!e`7 Rods of `8Do`7mi`&na`7ti`8on`7~
+A cuendillar rod lies here drawing in weaves of spirit.~
+heartstone~
+armor OSTYad AO
+0
+BCEF BCEF BCEF BCEF 0
+150 100 50000 P
+A
+18 11
+A
+20 -10
+A
+13 50
+A
+12 30
+A
+19 1
+ T 0 none~
+#24440
+ninth nine rods domination~
+`1N`!i`1nth`7 of `1N`!i`1n`!e`7 Rods of `8Do`7mi`&na`7ti`8on`7~
+A cuendillar rod lies here drawing in weaves of spirit.~
+heartstone~
+armor OSTYad AO
+0
+BCEF BCEF BCEF BCEF 0
+150 100 50000 P
+A
+17 -15
+A
+18 11
+A
+19 11
+A
+20 -10
+A
+13 9
+ T 0 none~
+#24441
+bark armor~
+`#B`3ark `&o`8f `@A`2vendesora`*~
+Armor made from the Tree of Life is here.~
+unknown~
+armor ABCFTYad AD
+0
+BDF BDF BDF BDF 0
+110 100 0 P
+A
+18 10
+A
+19 10
+A
+20 -5
+A
+13 14
+ T 0 none~
+#24442
+Helmet of Divine Wisdom~
+`*`8T`*h`&e `8H`*el`&met `8of `8D`*iv`&ine `8W`*is`&dom`*~
+The Helmet of Divine Wisdom lies here, obviously not left by it's owner because that would be very dumb.~
+unknown~
+armor d AE
+0
+DF DF DF DF 0
+110 80 20000 P
+A
+18 10
+A
+19 10
+A
+20 -3
+A
+12 50
+A
+17 -1
+A
+13 2
+ T 0 none~
+#24443
+mirrored cuendillar disc saidin~
+`4M`$i`^r`&ro`^r`$e`4d `1C`!u`1e`!n`1d`!i`1l`!l`1a`!r`7 Disc of `8Saidin`7~
+A reflective metal disc lies pulsing with the One Power.~
+heartstone~
+armor JYad AJ
+0
+BCEF BCEF BCEF BCEF 0
+150 100 50000 P
+A
+18 11
+A
+19 11
+A
+20 -10
+A
+13 50
+ T 0 none~
+#24444
+mirrored cuendillar disc saidar~
+`4M`$i`^r`&ro`^r`$e`4d `1C`!u`1e`!n`1d`!i`1l`!l`1a`!r`7 Disc of `&Saidar`7~
+A reflective metal disc lies pulsing with the One Power.~
+heartstone~
+armor KYad AJ
+0
+BCEF BCEF BCEF BCEF 0
+150 100 50000 P
+A
+20 -10
+A
+13 100
+A
+12 50
+A
+18 1
+A
+19 1
+ T 0 none~
+#24445
+divine barrier chaos protection~
+`&Divine `3B`#a`&r`3r`#i`&e`3r `7of [`%CHAOS`7] `4P`$r`^ot`&ec`^ti`$o`4n`7~
+A long dedicated service to maintaining tranquility has bestowed this reward.~
+heartstone~
+armor Yad AJ
+0
+BDF BDF BDF BDF 0
+110 100 50000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+1 1
+A
+13 2
+ T 0 none~
+#24446
+pestilent barrier order repulsion~
+`8Pestilent `3B`#a`&r`3r`#i`&e`3r `7of [`&ORDER`7] `4R`$e`^p`&uls`^i`$o`4n`7~
+Foul and random acts of violence have reaped their sweet rewards.~
+heartstone~
+armor Yad AJ
+0
+BDF BDF BDF BDF 0
+110 100 50000 P
+A
+20 -10
+A
+13 100
+A
+2 1
+A
+12 2
+ T 0 none~
+#24447
+shoulder plate bloody talon emblem~
+a `#S`3houlder `@P`2late`* with a `!B`1loody `*T`8alon `*E`8mblem`*~
+A shoulder plate is lying here~
+Stainless steel~
+armor ABHLMad AS
+0
+BDF BDF BDF BDF 0
+110 150 0 P
+A
+18 10
+A
+19 10
+A
+13 60
+A
+12 7
+ T 0 none~
+#24448
+shield army darkness~
+`8(`!B`#u`!rn`#t`8) `&Sh`7i`8e`&l`8d `7of the `8Ar`&m`8y of Da`7r`&k`8n`&e`8ss`*~
+Discarded in the corner is a charred black shield.~
+heartstone~
+armor d AJ
+0
+ABCDF ABCDF ABCDF ABCDF 0
+110 100 50000 P
+A
+20 -5
+A
+18 5
+A
+19 5
+A
+13 90
+A
+17 -1
+A
+12 2
+ T 0 none~
+#24449
+deadite mask~
+`8(`!B`#u`!rn`#t`8)`& De`7a`8d`&i`8te`7'`8s `!Ma`8s`!k`*~
+Discarded in the corner is a burnt mask.~
+unknown~
+armor d AR
+0
+DF DF DF DF 0
+110 50 0 P
+A
+18 10
+A
+19 10
+A
+13 50
+A
+17 -10
+A
+12 2
+ T 0 none~
+#24450
+silver aelfinn snake-head pendant~
+`&S`7ilver `!A`1elfinn `@S`2n`@a`2k`@e`7-`@H`2ead `4P`$e`6n`^d`6a`$n`4t`7~
+The head of a snake waiting for fateful questions to be asked.~
+unknown~
+armor JKYd AC
+0
+BCEF BCEF BCEF BCEF 0
+150 50 50000 P
+A
+13 75
+A
+20 -10
+A
+19 10
+A
+18 10
+ T 0 none~
+#24451
+silver eelfinn fox-head pendant~
+`&S`7ilver `!E`1elfinn `#F`3o`#x`7-`#H`3e`#a`3d `4P`$e`6n`^d`6a`$n`4t`7~
+The head of a fox here waits for terms to be met and paid.~
+unknown~
+armor JKYd AC
+0
+BCEF BCEF BCEF BCEF 0
+150 50 50000 P
+A
+12 25
+A
+13 100
+A
+20 -10
+A
+19 5
+A
+18 5
+ T 0 none~
+#24452
+hassan's scimitar~
+`&H`#a`3ss`#a`&n`7'`&s S`#ci`3mi`#ta`&r`7~
+The huge carved blade of Whitebridge's retired protector lies here.~
+unknown~
+weapon ABHIMYd AN
+0
+sword 10 14 cleave CEG
+110 120 50000 P
+A
+14 -10
+A
+2 -2
+A
+1 -2
+A
+19 10
+A
+18 10
+A
+13 75
+ T 0 none~
+#24458
+leather quest gloves~
+`&(`$H`4and`!f`1aces`&) `8L`*ea`8t`*h`8e`*r `8G`*lo`8ve`*s~
+Some leather gloves lie here freaking out.~
+leather~
+armor AGad AH
+0
+BDF BDF BDF BDF 0
+110 100 1000 P
+A
+18 7
+A
+19 7
+A
+13 80
+A
+20 -1
+A
+17 -1
+A
+12 2
+ T 0 none~
+#24459
+bloody emporer's grand katana~
+`1Bl`!oo`1dy`7 `@E`2mp`@e`2r`@o`2r's `&Grand Katana`7~
+A bloody katana with a green hilt lies here.~
+unknown~
+weapon JKYd AN
+0
+sword 75 1 acbite CEH
+150 110 1001 P
+A
+14 15
+A
+19 10
+A
+18 10
+A
+13 50
+A
+20 -10
+ T 0 none~
+#24460
+heartstone dagger~
+`!H`1e`!a`1r`!t`1s`!t`1o`!n`1e `!D`1a`!g`1g`!e`1r`7~
+A cuendillar dagger clatters as it chips away the stone floor.~
+unknown~
+weapon Yad AN
+ACEF
+dagger 75 1 shbite CEG
+150 80 100000 P
+A
+13 50
+A
+20 -10
+A
+19 10
+A
+18 10
+A
+14 -25
+ T 0 none~
+#24461
+black-halfted, raven-marked ashandarei~
+`8Black-Halfted, Raven-Marked Ashandarei`7~
+A long black spear with a curved blade burns brightly.~
+unknown~
+weapon ABJKYd AN
+0
+spear 76 1 thrust BCDH
+150 400 901 P
+A
+18 11
+A
+19 11
+A
+20 -11
+A
+17 -11
+A
+13 27
+A
+12 1
+ T 0 none~
+#24462
+corrosive scepter of corruption~
+`3C`#or`&ros`#iv`3e `&Scepter`7 of `8Corruption`7~
+A scepter dripping with acid sears the ground beneath it.~
+unknown~
+weapon JKYd AN
+0
+mace 75 1 acbite CEH
+150 100 1000 P
+A
+14 15
+A
+13 50
+A
+20 -10
+A
+19 10
+A
+18 10
+ T 0 none~
+#24463
+half-mooned axe of glory~
+`#Half`3-`#Mooned `&Axe`7 of `#G`3l`#o`3r`#y`7~
+A large half-mooned axe lies here, waiting to bring glory to one that holds it.~
+unknown~
+weapon JKYd AN
+0
+axe 75 1 thwack AEG
+150 100 1000 P
+A
+12 10
+A
+13 50
+A
+20 -10
+A
+19 10
+A
+18 10
+ T 0 none~
+#24464
+icy bow of frost~
+`$I`^c`&y `$B`^o`&w `7of `$F`^r`&o`^s`$t`7~
+A frost covered bow lies here~
+unknown~
+weapon JKYad AN
+E
+bow 75 1 frbite BEG
+150 100 1000 P
+A
+13 50
+A
+20 -10
+A
+19 10
+A
+18 10
+A
+12 1
+ T 0 none~
+#24465
+Quarterstaff~
+`&(`8Pi`*t`8te`&d)(`8Et`&c`8h`*e`8d`&) `!Ancient `3Q`8uar`*te`8rst`&af`8f`*~
+A Quarterstaff is lying here~
+unknown~
+weapon JKYd AN
+0
+staff 75 1 drain AEG
+150 190 1000 P
+A
+13 50
+A
+20 -10
+A
+18 11
+A
+19 11
+ T 0 none~
+#24466
+crackling ancient shocklance~
+`3(`#Crackling`3) `&Ancient Shocklance`7~
+A device of the Age of Legends lies here.~
+unknown~
+weapon JKYad AN
+0
+polearm 75 1 shock CEG
+150 200 1000 P
+A
+18 11
+A
+19 11
+A
+20 -10
+A
+12 38
+ T 0 none~
+#24467
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#24469
+Holy Crystal Shield Protection~
+`&(`#Gl`&o`#wi`!n`#g`&) Holy `^C`&r`^y`&s`^t`&a`^l `1Shi`!e`1ld `8of `&P`#r`&o`#t`&e`#c`&t`#i`&o`#n`*~
+A Shineing shield is lying here~
+Crystal~
+armor GIKLSTYd AJ
+0
+ABCDF BCDF EF ACDF 0
+110 150 500 P
+A
+20 -3
+A
+18 10
+A
+19 10
+A
+17 -35
+A
+13 1
+ T 0 none~
+#24475
+axe glory~
+`&(`@F`2iery`&) `8T`*h`8e `!A`1x`!e `8o`*f `#G`3l`#or`3y`*~
+A sharp, double bladed axe lies here.~
+steel~
+weapon ABGMad AN
+0
+axe 75 1 cleave CDG
+110 300 3000 P
+A
+20 -9
+A
+18 10
+A
+19 10
+ T 0 none~
+#24476
+firey sword of glory~
+`&(`!F`1iery`&) `8T`*h`8e `!S`1w`!o`1r`!d `8o`*f `#G`3l`#o`3r`#y`*~
+The sword of glory lies here~
+Unbreakable Steel~
+weapon ABGHMTad AN
+0
+sword 5 29 slash ADG
+110 200 25 P
+A
+18 10
+A
+19 10
+A
+13 32
+ T 0 none~
+#24477
+Horn valere~
+`!H`1o`!r`1n `&o`7f `@V`2a`#l`3e`$r`4e`*~
+A large horn, waiting to be blown, is here.~
+unknown~
+armor Bd AQ
+0
+CF BF ABF ABF 0
+110 50 100 P
+A
+12 27
+A
+13 25
+A
+20 -5
+A
+18 9
+A
+19 9
+ T 0 none~
+#24478
+Ring hundred~
+`&R`*i`&n`*g `^o`6f `*t`8h`*e `!H`1u`!n`1d`!r`1e`!d`*~
+A ring of the Hundred Companions is here.~
+unknown~
+armor ABd AB
+0
+ACDF ACDF ACDF ACDF 0
+110 40 0 P
+A
+12 7
+A
+13 30
+A
+20 -8
+A
+18 9
+A
+19 9
+ T 0 none~
+#24479
+gloves hero~
+`%G`5loves `&o`8f `1a `#W`3arrior`*~
+Gloves of a long lost warrior are here.~
+unknown~
+armor d AH
+0
+BCEF BCEF BCEF BCEF 0
+150 100 100 P
+A
+17 -10
+A
+20 -10
+A
+18 11
+A
+19 11
+A
+13 40
+ T 0 none~
+#24480
+gloves channeler~
+`!G`1loves `&o`7f `3a `8C`&hanneler`*~
+Some gloves from a hero channeler, long dead, are here.~
+unknown~
+armor ABd AH
+0
+BCEF BCEF ACEF ABCEF 0
+150 100 0 P
+A
+12 15
+A
+18 5
+A
+19 5
+A
+20 -10
+A
+13 100
+ T 0 none~
+#24481
+horn valere chann~
+`!H`1o`!r`!n `&o`7f `@V`2a`#l`3e`$r`4e`*~
+A large horn, waiting to be blown, is here.~
+unknown~
+armor ABd AQ
+0
+ACDF ACDF ACDF ACDF 0
+110 50 0 P
+A
+13 67
+A
+18 6
+A
+19 6
+A
+12 40
+ T 0 none~
+#24482
+ring hundred chann~
+`&R`8i`&n`8g `6o`^f `7t`8h`7e `!H`1u`!n`1d`!r`1e`!d`*~
+A ring of the Hundred Companions is here.~
+unknown~
+armor ABd AB
+0
+ACDF ACDF ACDF ACDF 0
+110 40 0 P
+A
+18 6
+A
+19 6
+A
+13 40
+A
+12 67
+ T 0 none~
+#24483
+black mage quest legend~
+`!B`8lack `&S`8tudded `$C`8orset`*~
+A black corset is here.~
+unknown~
+armor JKd AD
+0
+BCEF BCEF BCEF BCEF 0
+150 160 100 P
+A
+12 80
+A
+20 -9
+A
+13 100
+ T 0 none~
+#24484
+black warrior quest legend~
+`!B`8lack `&S`8tudded `$C`8orset`*~
+A black corset is here.~
+unknown~
+armor JKd AC
+0
+BCEF BCEF BCEF BCEF 0
+150 160 1000 P
+A
+18 11
+A
+19 11
+A
+17 -30
+A
+20 -10
+A
+13 20
+ T 0 none~
+#24485
+quest warrior collar~
+`&L`1eather `$S`8tudded `!C`4ollar`*~
+A leather studded collar is here.~
+unknown~
+armor ABKd AC
+0
+ADF BDF BDF BDF 0
+110 30 0 P
+A
+19 9
+A
+18 9
+A
+13 37
+A
+20 -9
+ T 0 none~
+#24486
+quest mage collar~
+`&L`1eather `$S`8tudded `!C`4ollar`*~
+A magical leather studded collar is here.~
+unknown~
+armor ABGKd AC
+0
+BDF BDF ADF BDF 0
+110 30 0 P
+A
+12 60
+A
+18 4
+A
+19 4
+A
+13 72
+ T 0 none~
+#24487
+golden ring~
+`#G`3olden `#R`3ing`*~
+A golden ring with strange symbols is here.~
+unknown~
+armor d AB
+0
+ABF ADF BDF BDF 0
+110 20 0 P
+A
+12 27
+A
+18 9
+A
+19 9
+A
+13 50
+ T 0 none~
+#24488
+legend golden ring~
+`#G`3olden `#R`3ing`*~
+A golden ring with strange symbols is here.~
+unknown~
+armor ABd AB
+0
+BCEF BCEF ACEF BCEF 0
+150 0 0 P
+A
+20 -3
+A
+18 10
+A
+19 10
+A
+13 100
+ T 0 none~
+#24489
+mage ghost sith~
+`$G`4host `8o`*f a `&S`7it`8h`*~
+The ghost of a long dead Sith Lord is here, floating above the ground.~
+unknown~
+armor Hd AQ
+0
+ABDF ABDF ABDF ABDF 0
+110 10 0 P
+A
+12 67
+A
+13 100
+ T 0 none~
+#24490
+warrior ghost sith~
+`$G`4host `8o`*f a `&S`*it`8h`*~
+The ghost of a long dead Sith Lord is here, floating above the ground.~
+unknown~
+armor Hd AQ
+0
+ABDF CDF CDF CDF 0
+110 10 0 P
+A
+14 34
+A
+20 -10
+A
+18 10
+A
+19 10
+ T 0 none~
+#24491
+legend mage ghost sith~
+`4(`8Le`7ge`&n`7da`8ry`4) `$G`4host `8o`*f a `&S`7it`8h`*~
+The ghost of a long dead Sith Lord is here, floating above the ground.~
+unknown~
+armor JKd AQ
+0
+BEF ABCEF ABCEF ABCEF 0
+150 20 0 P
+A
+20 -5
+A
+12 100
+A
+13 100
+ T 0 none~
+#24492
+legend warrior ghost sith~
+`4(`8Le`7ge`&n`7da`8ry`4) `$G`4host `8o`*f a `&S`7it`8h`*~
+The ghost of a long dead Sith Lord is here, floating above the ground.~
+unknown~
+armor JKd AQ
+0
+BEF ABCEF ABCEF ABCEF 0
+150 20 0 P
+A
+12 25
+A
+13 35
+A
+20 -11
+A
+18 11
+A
+19 11
+ T 0 none~
+#24493
+prison collar mage~
+`!P`1r`8i`*s`1o`!n `8C`*o`!l`1l`*a`8r`*~
+A prison shackle is here, ready to be used.~
+unknown~
+armor Bd AC
+0
+BDF BDF BDF BDF 0
+110 50 5000 P
+A
+19 4
+A
+18 5
+A
+13 61
+A
+12 61
+ T 0 none~
+#24494
+prison collar warrior~
+`!P`1r`8i`*s`1o`!n `8C`*o`!l`1l`*a`8r`*~
+A prison shackle is here, waiting to be used.~
+unknown~
+armor ABd AC
+0
+ADF ADF ADF BDF 0
+110 50 0 P
+A
+19 9
+A
+18 9
+A
+20 -9
+A
+17 -15
+A
+14 22
+ T 0 none~
+#24495
+police signet mage~
+`8P`7ol`&ic`7em`8an's `$S`4i`$g`4n`$e`4t `!R`1i`!n`1g`*~
+A signet ring of a policeman is here.~
+unknown~
+armor BJKd AB
+0
+BEF ABCEF ABCEF ABCEF 0
+150 80 0 P
+A
+13 100
+A
+12 50
+A
+19 6
+A
+18 6
+A
+20 -3
+ T 0 none~
+#24496
+police signet warrior~
+`8P`7ol`&ic`7em`8an's `$S`4i`$g`4n`$e`4t `!R`1i`!n`1g`*~
+A signet ring of a policeman is here.~
+unknown~
+armor ABJKd AB
+0
+BEF ABCEF ABCEF ABCEF 0
+150 80 5000 P
+A
+18 11
+A
+19 11
+A
+20 -11
+A
+13 35
+A
+12 25
+ T 0 none~
+#24498
+wing dove~
+`&(`8Ta`&i`8n`&te`8d`&) `7W`&i`7ng`&s `&o`7f `7t`&h`7e `&D`7o`&v`7e~
+The wings of a dove are lying here~
+feather~
+armor IYad AI
+0
+BDF BDF BDF BDF 0
+110 100 500 P
+A
+18 10
+A
+19 10
+A
+20 -7
+A
+13 22
+ T 0 none~
+#24499
+Wrist Forearm Armor Plate~
+`$(`!Glowing`$) `8Dark `&Sp`*ik`8ed `1Wrist `4and `#F`3orearm `&Pl`*at`8es`*~
+This Wristplate covers from the wrist all the way to just before the elbow and has various small spikes sticking out of it.  There is a V shape that goes out to the top of the hand and it looks like a chain can be attached to the end.~
+silver~
+armor IYad AM
+0
+BDF BDF BDF BDF 0
+110 200 500 P
+A
+20 -10
+A
+13 100
+A
+19 1
+A
+17 -1
+A
+12 2
+ T 0 none~
+#24500
+Finger Armor~
+`$(`!Glowing`$) `&A `8Dark `1Ruby `&Fi`*ng`8er `2Armor`*~
+This ring completley surrounds the middle finger of the hand and extends to the wrist where it can connect to the corrisponding bracelet.  The ring ends at a point making it useful to use as a claw~
+silver~
+armor GHYad AB
+0
+BDF BDF BDF BDF 0
+110 90 500 P
+A
+18 10
+A
+19 10
+A
+17 -10
+A
+20 -8
+A
+13 2
+ T 0 none~
+#24501
+seanchan boots~
+`$A `&S`4l`8ee`$k `&Pair of `$Se`8a`&n`$ch`8a`&n `$B`8oo`$t`&s`*~
+A Sleek Pair of a Seanchan's boots lie here glittering in the sunlight.~
+unknown~
+armor AGYd AG
+0
+ACF BDF ACF BDF 0
+100 100 1000 P
+A
+20 -10
+A
+13 100
+A
+12 5
+ T 0 none~
+#24502
+shadow claw~
+`&T`*h`8e `&Sh`*ad`8ow `&Cl`8aw`*~
+A claw is lying here half hidden in shadows~
+unknown~
+weapon ABGHYd AN
+0
+exotic 75 1 claw ABE
+110 30 9000 P
+A
+13 41
+A
+18 10
+A
+19 10
+A
+20 -2
+A
+12 1
+ T 0 none~
+#24503
+Assassin Armor~
+`3The `1Legendary `8Black `&Armor `*Of `8The `&Ass`*as`8sin`*~
+The legenday armor is lying here shifting in the shadows~
+unknown~
+armor ABGYd AD
+0
+BCEF BCEF BCEF BCEF 0
+150 150 2001 P
+A
+13 100
+A
+18 11
+A
+19 11
+A
+2 1
+ T 0 none~
+#24504
+shadow blook cloak~
+`3The `1Legendary `&Sh`*ad`8ow Cloak `*Of `1Blood`*~
+A cloak is lying here and seems to bleed~
+unknown~
+armor ABGYd AK
+0
+BCEF BCEF BCEF BCEF 0
+150 100 2002 P
+A
+18 11
+A
+13 100
+A
+19 11
+A
+20 -1
+ T 0 none~
+#24505
+Keyring Blood~
+`3The `1Legendary `8Keyring `&Of `!B`1lood`*~
+A keyring is here glowing a faint red colour~
+unknown~
+keyring ABYd AU
+0
+300 0 0 0 0
+150 10 9000 P
+A
+18 11
+A
+19 11
+A
+20 -10
+A
+12 35
+A
+13 20
+ T 0 none~
+#24506
+daemon bone floating skull~
+`&(`#Bu`!r`#ning`&) `1Daem`!o`1n`#'`1s `$F`4loating `&Bone `8Sk`!u`8ll`*~
+A very important peice of eq.~
+bone~
+light ABJLTUd A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 10 5000 P
+A
+13 100
+A
+12 50
+A
+18 1
+A
+19 1
+A
+20 -1
+A
+17 -3
+ T 0 none~
+#24507
+daemon bone belt~
+`&(`#Bu`!r`#ning`&) `1Da`!e`1mon`#'`1s `$P`4lated `&Bone `1B`!e`8lt`*~
+A very important peice of eq.~
+bone~
+armor ABd AL
+0
+ABDF BDF BDF BDF 0
+110 10 5000 P
+A
+18 10
+A
+19 10
+A
+20 -11
+A
+13 12
+ T 0 none~
+#24508
+dunce cap~
+a `8D`7u`&n`7c`8e C`&a`8p`7~
+A cyllindrical cap is here, looking to embarrass you.~
+unknown~
+armor d AE
+0
+BDF BDF BDF BDF 0
+110 10 2000 P
+A
+4 -2
+A
+3 -5
+A
+18 10
+A
+19 10
+A
+13 100
+A
+17 -1
+A
+12 2
+ T 0 none~
+#24509
+burning myrddraal skull~
+`8(`!B`1ur`!n`1in`!g`8) `7a `8M`&y`7r`8dd`&r`7aa`&l`7'`8s S`&k`7u`&l`8l`7~
+A Myrddraal's skull lies here, burning.~
+bone~
+light Yd A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+150 20 9000 P
+A
+20 -7
+A
+13 100
+A
+12 50
+A
+18 3
+A
+19 3
+ T 0 none~
+#24510
+burning fade skull~
+`8(`!B`1ur`!n`1in`!g`8) `7a `8F`7a`&d`8e`7's `8S`&k`7u`&l`8l`7~
+A Fade's skull lies here, burning.~
+bone~
+light Yd A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+150 20 900 P
+A
+13 50
+A
+20 -10
+A
+18 11
+A
+19 11
+A
+3 1
+ T 0 none~
+#24511
+burning trolloc skull~
+`8(`!B`1ur`!n`1in`!g`8) `7a `8T`&r`7o`&ll`7o`8c`7's `8S`&k`7u`&l`8l`7~
+The skull of a Trolloc lies here, burning.~
+bone~
+light Yd A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 80 500 P
+A
+18 5
+A
+19 5
+A
+13 100
+A
+20 -3
+A
+12 2
+ T 0 none~
+#24512
+burning darkhound skull~
+`8(`!B`1ur`!n`1in`!g`8) `7a `8D`&a`7rk`8h`&ou`7n`8d`7's `8S`&k`7u`&l`8l`7~
+A Darkhound's skull lies here, still burning.~
+bone~
+light Yd A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 20 500 P
+A
+13 27
+A
+20 -8
+A
+19 10
+A
+18 10
+ T 0 none~
+#24513
+super punch out gloves~
+`7a `@P`2a`@i`2r `7of `!S`1u`!p`1e`!r `$P`4u`$n`4c`$h`7-`8Out`7 `&G`7l`&o`7v`&e`7s~
+Mike Tyson gloves lie here, studdering in ebonics.~
+gloves~
+armor Yad AH
+0
+CDF CDF CDF CDF 0
+110 50 800 P
+A
+18 8
+A
+19 7
+A
+13 60
+A
+20 -4
+A
+17 -1
+A
+12 2
+ T 0 none~
+#24514
+jack's inflamed sense of rejection~
+`8Jack's `!I`1nf`!la`1me`!d S`1e`!n`1s`!e `7of `8Rejection`7~
+The inflamed sense of rejection of a psycho boy lies here.~
+unknown~
+armor d AQ
+0
+BDF BDF BDF BDF 0
+110 10 5000 P
+A
+13 50
+A
+20 -10
+A
+18 6
+A
+19 6
+A
+17 -5
+A
+12 1
+ T 0 none~
+#24515
+robe ryu~
+`7The `&R`7ob`&e `7of the `#G`3rea`#t `8F`&ig`8hter `!R`1yu`7~
+A robe is here, dropped by the greatest warrior in Street Fighter history.~
+unknown~
+armor d AK
+0
+BCEF BCEF BCEF BCEF 0
+150 200 1000 P
+A
+13 100
+A
+20 -10
+A
+18 11
+A
+19 2
+ T 0 none~
+#24516
+robe ken~
+`7The `&R`7ob`&e `7of the `!G`1rea`!t `8F`&ig`8hter `#K`3en`7~
+Sul~
+unknown~
+armor d AK
+0
+BCEF BCEF BCEF BCEF 0
+150 200 1000 P
+A
+20 -10
+A
+18 11
+A
+19 11
+A
+13 40
+A
+12 15
+ T 0 none~
+#24517
+cloak m.bison~
+`7The `8C`7l`&o`7a`8k `7of `!M`8.`!B`1iso`!n`7~
+A cloak is here, carelessly thrown by someone.~
+unknown~
+armor d AK
+0
+CDF CDF CDF CDF 0
+110 200 1000 P
+A
+13 50
+A
+18 5
+A
+19 5
+A
+20 -10
+A
+12 17
+ T 0 none~
+#24518
+dhalsim loin cloth~
+`7The `8Lo`&i`8n `&Cl`7o`&th `7of `#D`3ha`#l`3si`#m`7~
+A stinky loin cloth is here.~
+unknown~
+armor d AK
+0
+CDF CDF CDF CDF 0
+110 150 1000 P
+A
+18 10
+A
+19 10
+A
+20 -5
+A
+17 -5
+A
+13 36
+ T 0 none~
+#24519
+spiked arm guards shao khan~
+`8Sp`7i`8k`7e`8d `!A`1r`!m Gu`1ar`!ds `7of `8Shao Khan`7~
+A pair of spiked arm guards lie here.~
+crap~
+armor Yd AI
+0
+CDF CDF CDF CDF 0
+110 100 900 P
+A
+18 9
+A
+19 9
+A
+20 -9
+A
+13 30
+A
+17 -1
+A
+12 2
+ T 0 none~
+#24520
+studded arm guards shang tsung~
+`8St`7u`8dd`7e`8d `$A`4r`$m Gu`4ar`$ds `7of `8S`&h`7a`&n`8g T`&s`7u`&n`8g`7~
+A pair of studded arm guards lie here.~
+crap~
+armor Yd AI
+0
+CDF CDF CDF CDF 0
+110 100 900 P
+A
+13 80
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+13 12
+ T 0 none~
+#24521
+sceptre good light~
+`$(`&Good`$)`7 the `&Sceptre `7of `#L`3i`#g`3h`#t`7~
+The Sceptre of Light is here, shining brightly.~
+unknown~
+armor Yd AO
+0
+CEF CEF CEF CEF 0
+110 90 900 P
+A
+18 10
+A
+19 10
+A
+20 -5
+A
+13 42
+ T 0 none~
+#24522
+sceptre evil darkness~
+`$(`!Evil`$) `7the `1Sceptre `7of `8Darkness`7~
+The Sceptre of Darkness is here, swallowing the light.~
+unknown~
+armor Yd AO
+0
+BDF BDF BDF BDF 0
+110 90 999 P
+A
+13 80
+A
+20 -10
+A
+18 3
+A
+19 3
+A
+12 7
+ T 0 none~
+#24523
+protective aura light~
+`$(`&Good`$)`7 `&Protective Aura `7of `#L`3i`#g`3h`#t`7~
+The protective aura of the light is here, shielding from all evil.~
+unknown~
+armor Yd AJ
+0
+BDF BDF BDF BDF 0
+110 0 999 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 20
+ T 0 none~
+#24524
+protective shroud darkness~
+`$(`!Evil`$)`7 `1Protective `8Shroud `7of `8Darkness`7~
+The protective shroud of darkness is here, reflecting all which is good.~
+unknown~
+armor Yd AJ
+0
+BDF BDF BDF BDF 0
+110 100 666 P
+A
+13 100
+A
+20 -10
+A
+18 1
+A
+19 1
+A
+12 7
+ T 0 none~
+#24525
+evil quiver darkness~
+`$(`!Evil`$)`7 `1Quiver `7of `8Darkness`7~
+The quiver of darkness lies here.~
+unknown~
+quiver Yd AS
+0
+600 900 0 20419 0
+110 50 666 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+17 -10
+A
+13 2
+ T 0 none~
+#24526
+crowbar fate~
+`7The `1C`!ro`1w`!ba`1r `7of `8F`&a`7t`8e`7~
+A crowbar is here, waiting for a next victim.~
+unknown~
+weapon ABd AN
+0
+sword 75 1 beating ACE
+110 200 900 P
+A
+13 20
+A
+18 10
+A
+19 10
+A
+17 -20
+ T 0 none~
+#24527
+heavy weapons guy armor~
+`8A`7r`&m`7o`8r `7of the `&H`7eav`&y `!W`1ea`!p`1on`!s `8Guy`7~
+Thick padded armor is laying here.~
+unknown~
+armor Ad AD
+0
+ABDF ABDF ABDF ABDF 0
+110 150 1000 P
+A
+13 27
+A
+20 -8
+A
+19 10
+A
+18 10
+ T 0 none~
+#24528
+spike plated leg gear~
+`8S`7p`&i`7k`8e `7P`&l`7at`&e`7d `$L`4e`$g `!G`1ea`!r`7~
+Some spike plated leg gear has been left here.~
+unknown~
+armor Ad AF
+0
+ABDF ABDF ABDF ABDF 0
+110 100 1000 P
+A
+12 2
+A
+20 -3
+A
+19 5
+A
+18 5
+A
+13 100
+ T 0 none~
+#24529
+rib cage giant mutant turkey~
+the `!R`1i`!b `8C`&a`7g`8e `7of a `@M`2u`@ta`2n`@t `#Tu`3rk`#ey`7~
+The rib cage of a giant mutant turkey is here.~
+unknown~
+armor d AK
+0
+BDF BDF BDF BDF 0
+110 90 1000 P
+A
+20 -5
+A
+13 80
+A
+18 5
+A
+19 5
+A
+12 12
+ T 0 none~
+#24530
+giant mutant turkey skull~
+a `8G`&i`7a`&n`8t `@M`2u`@ta`2n`@t `#Tu`3rk`#ey `8S`&k`7u`&l`8l`7~
+A giant mutant turkey skull is here, being all giant and what not.~
+unknown~
+armor d AE
+0
+BDF BDF BDF BDF 0
+110 90 1000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+12 17
+ T 0 none~
+#24531
+b33r kr3w t-shirt shirt official~
+an Official `3b`#33`3r `#k`3r`#3`3w `7T-shirt~
+An official t-shirt of the infamous b33r kr3w is here, stained with .. b33r.~
+unknown~
+armor d AD
+0
+BDF BDF BDF BDF 0
+110 40 500 P
+A
+18 9
+A
+19 9
+A
+13 20
+A
+12 50
+A
+14 10
+A
+17 -2
+ T 0 none~
+#24532
+feafe insignia~
+an Official `8F`&e`7a`&f`8e K`&r`7e`8w `7Insignia~
+An official insignia of the infamous Feafe Krew is here, being official and whatnot.~
+unknown~
+armor d AO
+0
+BDF BDF BDF BDF 0
+110 100 1000 P
+A
+18 5
+A
+19 9
+A
+13 60
+A
+12 37
+ T 0 none~
+#24533
+circlet shimmering light~
+a `#C`3i`#r`3c`#l`3e`#t `7of `^S`6hi`7m`&me`7r`6in`^g `&L`7i`&ght`7~
+A circlet of shimmering light is here.~
+unknown~
+armor KOad AM
+0
+BCEF BCEF BCEF BCEF 0
+150 100 1000 P
+A
+13 100
+A
+12 100
+A
+19 1
+A
+18 1
+ T 0 none~
+#24534
+circlet eternal darkness~
+a `8Circlet `7of `!E`&t`!e`1r`!n`&a`!l `8Darkness`7~
+A circlet of eternal darkness is here.~
+unknown~
+armor JKad AM
+0
+BCEF BCEF BCEF BCEF 0
+150 80 1000 P
+A
+18 11
+A
+19 11
+A
+13 70
+A
+20 -11
+ T 0 none~
+#24535
+belt virtue~
+a `#B`3el`#t `7of `^V`6i`&rt`6u`^e`7~
+A virtuous belt is here.~
+unknown~
+armor Oad AL
+0
+BDF BDF BDF BDF 0
+110 60 1000 P
+A
+12 80
+A
+20 -8
+A
+19 4
+A
+18 3
+A
+13 2
+ T 0 none~
+#24536
+belt misery~
+a `!B`1el`!t `7of `8Misery`7~
+A belt of misery is here.~
+unknown~
+armor Oad AL
+0
+BDF BDF BDF BDF 0
+110 60 900 P
+A
+18 10
+A
+19 10
+A
+12 50
+A
+20 -1
+A
+13 2
+ T 0 none~
+#24537
+Newbie armor of Protection~
+`&(`#H`&o`#l`&y `#A`&u`#r`&a) `#N`3e`#w`3b`#i`3e `8Bod`*y`8ar`&mo`8r `1of `&Div`8in`&e `!P`&rot`#ect`&ion`*~
+Some bodyarmor crafted by the immortals to protect newbies~
+heartstone~
+armor HKLZad AD
+0
+BD BD BD B 0
+25 100 1000 P
+A
+18 5
+A
+19 5
+A
+20 -2
+A
+17 -5
+A
+13 4
+ T 0 none~
+#24555
+Zanzutskan~
+`$Z`4a`$n`4t`$e`4t`$s`4u`$k`4a`$n`*~
+The legendray Zanzutskan is laying in the ground here~
+Adamantite~
+weapon GHIKLSYad AN
+0
+sword 75 1 cleave ABD
+110 20 9000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 12
+ T 0 none~
+#24556
+Masmune~
+`1M`4a`1s`4a`1m`4u`1n`4e`*~
+The legendary Masmune is here~
+unknown~
+weapon GIKTYad AN
+0
+sword 75 1 slash BDG
+110 100 8000 P
+A
+18 9
+A
+19 10
+A
+17 -10
+A
+13 28
+ T 0 none~
+#24557
+Excalbur~
+`#E`&x`#c`&a`#l`&i`#b`&u`#r`*~
+The Legendary Excalbur is here~
+unknown~
+weapon GHIKLTad AN
+0
+sword 76 1 flbite ABE
+150 180 900 P
+A
+18 11
+A
+19 11
+A
+20 -11
+A
+13 25
+ T 0 none~
+#24558
+Excalpour~
+`!E`1x`!c`1a`!l`1i`!p`1u`!r`*~
+The legendary Excalpour is here~
+unknown~
+weapon GIKMTYad AN
+0
+sword 75 1 slice CEG
+150 170 9000 P
+A
+17 -10
+A
+20 -10
+A
+12 50
+A
+13 63
+ T 0 none~
+#24560
+Archer Whitecloak Helm~
+`8(`!Legendary`8) `#W`&hitecloak `#A`&rcher's `#H`&elmet `1of `#T`&rue `!A`8im`*~
+The legendary archers helm is lying here bearing the children of the light's insignia~
+heartstone~
+armor IKYad AE
+E
+ACDF ACDF ACDF BCDF 0
+150 100 9000 P
+A
+17 -10
+A
+13 50
+A
+20 -5
+A
+18 11
+A
+19 11
+A
+12 10
+ T 0 none~
+#24561
+Shadow Skull Dreadlord Forsaken~
+`8(`!Legendary`8)(`&Ta`8in`*t`8ed) `&Dr`8e`*a`&dlo`8rd's `1Sk`!u`1ll`*~
+An evil looking skull is lying here~
+unknown~
+armor CYad AE
+0
+ACDF ACDF ACDF ACDF 0
+150 20 9000 P
+A
+13 50
+A
+20 -8
+A
+18 11
+A
+19 11
+A
+12 5
+ T 0 none~
+#24562
+Seanchan sleeves armplates~
+`8(`2Shi`@m`2meri`@`2ng`8) `$S`4e`$a`4n`$c`4h`$a`4n `1Sp`!i`8k`1ed `&Arm`8p`&la`$t`8e`4s`*~
+A pair of seanchan armplates are lying here~
+unknown~
+armor IKad AI
+D
+BDF BDF ABDF CDF 0
+110 20 9000 P
+A
+12 1
+A
+17 -5
+A
+13 30
+A
+20 -5
+A
+19 10
+A
+18 10
+ T 0 none~
+#24563
+Shadow Helmet Talon Symbol~
+`8(`!Legendary`8)(`1S`&p`1i`8k`1ed`8)(`8Ta`&in`8t`*e`&d`8) `!T`1alon `&B`8a`&t`8t`&l`8e `1H`8e`1l`8m`1e`8t`*~
+A helmet with various spikes is lying here~
+unknown~
+armor CYad AE
+F
+ACDF ACDF ACDF ABCDF 0
+150 20 9000 P
+A
+20 -10
+A
+18 11
+A
+19 11
+A
+13 45
+ T 0 none~
+#24564
+shadow armor plate body combat~
+`8(`8T`&ai`8n`&t`8e`&d`8)(Shi`&mme`8ri`&n`8g) `1De`8ath`&pl`8a`1t`8e `8of `&Bo`*n`&e`*~
+Platearmor made from bone is lying here~
+unknown~
+armor ABCKLYad AD
+A
+BDF BDF BDF ACDF 0
+110 30 9000 P
+A
+20 -11
+A
+18 11
+A
+19 11
+A
+13 7
+ T 0 none~
+#24565
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#24566
+The Lost Song Of The Ancients quest~
+`^T`6he `$Lo`4st So`8ng Of `4The A`$ncie`6nts`*~
+The Lost Song Of The Ancients floats here waiting to be discovered.~
+unknown~
+armor Gad AQ
+0
+ACDF ACDF ACDF ACDF 0
+110 10 100 P
+A
+17 -5
+A
+13 100
+A
+14 -200
+A
+20 -10
+A
+19 10
+A
+18 10
+ T 0 none~
+#24580
+gloves of demonhide legend~
+(`8L`7eg`&end`7ar`8y`7)(`!B`1u`8r`1n`!i`8n`!g`7) `&G`8loves `3of `!D`1e`!m`1o`!n`1h`!i`1d`!e`7~
+A pair of burnt gloves lie here.~
+unknown~
+armor Yad AH
+0
+CEF CEF CEF CEF 0
+150 0 0 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 55
+ T 0 none~
+#24581
+claw of demonhide legend~
+(`8L`7eg`&end`7ar`8y`7)(`!B`1u`8r`1n`!i`8n`!g`7) `&C`8law `&B`8oots `3of `1D`!e`1m`!o`1n`!h`1i`!d`1e`7~
+A pair of burnt leggings lie here.~
+unknown~
+armor Yad AG
+0
+CEF CEF CEF CEF 0
+150 0 0 P
+A
+18 4
+A
+19 4
+A
+13 100
+A
+20 -12
+ T 0 none~
+#24582
+gloves of demonhide~
+(`1B`!u`8r`!n`1i`8n`1g`7) `&G`8loves `3of `1D`!e`1m`!o`1n`!h`1i`!d`1e`7~
+(no description)~
+unknown~
+armor AB AH
+0
+ACDF ACDF ACDF ACDF 0
+110 0 0 P
+A
+20 -10
+A
+18 4
+A
+19 4
+A
+13 50
+ T 0 none~
+#24583
+boots of demonhide~
+(`1B`!u`8r`!n`1i`8n`1g`7) `8Claw `&B`8oots `3of `1D`!e`1m`!o`1n`!h`1i`!d`1e`7~
+(no description)~
+unknown~
+armor AB AG
+0
+ACDF ACDF ACDF ACDF 0
+110 0 0 P
+A
+18 10
+A
+19 10
+A
+13 40
+ T 0 none~
+#24584
+quest band ring wood~
+`$(`8Legendary`$) `7A `&B`7a`&n`7d `3of `!B`1u`8r`1n`!t `3W`8o`7o`3d`7~
+A legendary ring lies here.~
+unknown~
+armor Yad AB
+0
+ACEF ACEF ACEF ACEF 0
+150 0 0 P
+A
+13 55
+A
+20 -10
+A
+19 10
+A
+18 10
+ T 0 none~
+#24585
+lowbie quest traym sellers~
+a thing~
+A special peice of quest is here, only for those certain few.~
+unknown~
+armor 0 AD
+0
+CE CE CE CE 0
+19 0 0 P
+A
+18 4
+A
+19 4
+A
+13 9
+ T 0 none~
+#24586
+band ring quest~
+`7A `&B`7a`&n`7d `3of `!B`1u`8r`1n`!t `3W`8o`7o`3d`7~
+A legendary ring lies here.~
+unknown~
+armor Yad AB
+0
+ACDF ACDF ACDF ACDF 0
+110 0 0 P
+A
+13 50
+A
+19 10
+A
+18 10
+ T 0 none~
+#24587
+mask wood legendary quest~
+`$(`8Legendary`$) `7A `&M`7a`&s`7k `3of `!B`1u`8r`1n`!t `3W`8o`7o`3d`7~
+A legendary mask lies here.~
+unknown~
+armor Yad AR
+0
+ACEF ACEF ACEF ACEF 0
+150 0 0 P
+A
+20 -11
+A
+13 100
+A
+19 5
+A
+18 5
+ T 0 none~
+#24588
+wood mask quest~
+`7A `&M`7a`&s`7k `3of `!B`1u`8r`1n`!t `3W`8o`7o`3d`7~
+A legendary mask lies here.~
+unknown~
+armor Yad AR
+0
+ACDF ACDF ACDF ACDF 0
+110 0 0 P
+A
+20 -5
+A
+19 3
+A
+18 3
+A
+13 100
+ T 0 none~
+#24594
+quest~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#24600
+aiel keyring~
+`8Aiel Keyring`*~
+Deus~
+Leather~
+keyring Had AU
+0
+1000 0 0 0 0
+150 20 0 P
+A
+20 -11
+A
+13 150
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#24401
+For Quest Items~
+~
+0 4227084 0
+S
+#24413
+~
+~
+0 4 0
+S
+#24421
+The Palace gates~
+A set of grand golden gates holds you from the palace grounds.  They show
+no signs of rust or any other marks that resemble even the littlest amount
+of age.  
+~
+0 0 0
+D0
+~
+~
+0 0 24422
+S
+#24422
+Within the gates of time~
+Everything seems newer on this side of the gate.  It seems as if
+everything is locked in a trace or a stasis where time no longer exists.  
+~
+0 0 0
+D0
+~
+~
+0 0 24423
+D2
+~
+~
+0 0 24421
+S
+#24423
+~
+~
+0 0 0
+D2
+~
+~
+0 0 24422
+S
+#24458
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 24401 spec_breath_acid
+M 24445 spec_breath_any
+S
+
+
+
+#RESETS
+M 0 24406 1 24401 1 100 Load Feafe
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

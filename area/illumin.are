@@ -1,0 +1,876 @@
+#AREADATA
+Name Illuminators Guild House~
+Builders None~
+VNUMs 5900 5999
+Credits `4[`7 Hard `4]`7 Saradin   Illum. Chapter House~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#5900
+leader illuminator~
+The Leader of the Illuminators~
+One of the elusive Illuminators is here working on one of his creations
+~
+~
+cairhien~
+0 0
+ABFGRSTZ 80 3 0 0 -1  0 11700
+95 50 100d12+25700 1d10+6000 10d1+70 thwack
+-70 -70 -70 -69
+BEFJKRU ABKZ BCDJ HZ
+stand stand either 10000
+AHMV ABCDEFGHIJK medium unknown
+#5901
+expert illuminator~
+An Expert Illuminator~
+Another of the Illuminators is here watching as the Leader works.
+~
+~
+cairhien~
+0 0
+ABFT 340 64 0 0 -1  0 0
+150 200 100d10+5000 0d0+0 5d50+50 slash
+-70 -70 -70 -70
+CHRU ABJ I 0
+stand stand none 1000
+AHMV ABCDEFGHIJKX medium unknown
+#5902
+illuminator apprentice~
+The Apprentice~
+An Apprentice of the Illuminators is here studying.
+~
+~
+cairhien~
+0 0
+ABT 88 1024 1024 0 -1  -1000 0
+123 99 12d12+4600 0d0+0 12d12+58 blast
+-50 -50 -50 -50
+KPQR AHMV ABCDEFGHIJK JKP
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#5903
+smoke bomb~
+The Smoke Bomb~
+A little blue ball is on the floor with a fuse hanging out to one side,
+~
+~
+cairhien~
+0 0
+ABR 80 1088 0 0 -1  -1000 0
+135 48 12d12+21000 0d0+0 12d12+130 none
+-35 -35 -35 -35
+ARU AB 0 HIJK
+stand stand none 3200
+AHMV ABCDEFGHIJK medium unknown
+#5904
+no name~
+An Illuminator~
+A white-clad figure covered in ash and soot from her experiments
+~
+~
+cairhien~
+0 0
+AB 256 64 0 0 -1  -1000 0
+0 170 12d12+3400 0d0+0 78d1+2 pierce
+-13 -13 -13 -13
+DHIK AB 0 0
+stand stand either 3400
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#5900
+illuminators gloves protection~
+`7Illuminators Gloves of Protection~
+A simple pair of leather gloves is over in the corner~
+fire~
+armor 0 AH
+0
+ABF ABF ABF ABF 0
+110 120 1000 P
+A
+12 30
+A
+13 50
+A
+20 -6
+A
+1 6
+ T 0 none~
+#5901
+no name~
+(no short description)~
+(no description)~
+unknown~
+armor 0 AH
+0
+BCE BCE BCE BCE 0
+110 0 0 P
+ T 0 none~
+#5902
+ammonia~
+`*A Bottle of Ammonia~
+A small brown vial of an unknown substance is here.~
+ammonia~
+ingredient 0 A
+0
+F 0 0 0 0
+20 5 5000 P
+ T 0 none~
+#5903
+secret water~
+`7Small Vial of Water~
+Blue as the Aryth, some type of secretive water covers the inside of a vial.~
+secret water~
+ingredient 0 A
+0
+H 0 0 0 0
+15 50 5000 P
+ T 0 none~
+#5904
+manure~
+`7Sack of Manure~
+A small brown sack is here letting out a horrible smell ~
+manure~
+ingredient 0 A
+0
+E 0 0 0 0
+1 50 3000 P
+ T 0 none~
+#5905
+sulfur~
+`7A Sulfuric Tablet~
+A small yellow tablet has been discarded and is now lying on the floor.~
+sulfur~
+ingredient 0 A
+0
+A 0 0 0 0
+10 20 600 P
+ T 0 none~
+#5906
+charcol~
+charcol~
+Small black rock of charcol is here.~
+char~
+ingredient 0 A
+0
+B 0 0 0 0
+15 20 1500 P
+ T 0 none~
+#5907
+salt peter~
+sack of Salt Peter~
+A bag of white powder lies here.~
+salt peter~
+ingredient 0 A
+0
+C 0 0 0 0
+20 30 2000 P
+ T 0 none~
+#5908
+oil~
+`7Jar of Oil~
+A small jar filled to the brim with a murky black substance is on the ground.~
+oil~
+ingredient 0 A
+0
+K 0 0 0 0
+0 50 1700 P
+ T 0 none~
+#5909
+blubber~
+`7A Jar of Blubber~
+A large jar of a gooey white substance lies here.~
+blubber~
+ingredient 0 A
+0
+I 0 0 0 0
+30 50 3000 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#5900
+Entrance Into a House~
+In front of you is a fairly large house with hardly any windows.  A
+simple sign on the door reads, "Keep Out."  The house is composed of mostly
+wood with a moderatly nice roof.  The door looks to be very sturdy made of
+what looks to be iron.  What ever happens in there is only meant to be seen
+by a select few.  
+~
+0 0 0
+D0
+~
+~
+0 0 5901
+S
+#5901
+Entrance Hall~
+Inside the house, several candles light the entrance hallway.  Further
+down the hall you can see several doors on each side.  There is no sign of
+any people but noises seem to be coming from under the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 5902
+D2
+~
+~
+0 0 5900
+D3
+~
+~
+0 0 5911
+S
+#5902
+Main Room~
+Upon entering the mystreious house, you've walked into a fairly large
+room with at least some furniture in it.  Layers of dust cover the furniture
+and everything else in the floor.  Whoever does live here must not spend
+much time in this part of the house.  
+~
+0 0 0
+D0
+~
+~
+0 0 5903
+D2
+~
+~
+0 0 5901
+D3
+~
+~
+0 0 5907
+S
+#5903
+Back of the Main Room~
+Further into the main room more things become visible.  Several doors
+line the wall to the right as well as other pieces of smaller furniture like
+chests.  A small fan is above you and actually 
+~
+0 0 0
+D0
+~
+~
+0 0 5904
+D1
+~
+~
+0 0 5906
+D2
+~
+~
+0 0 5902
+S
+#5904
+Fireplace~
+Wandering all the way to the back of the house, a large fireplace dominates the last room.
+Ash is in the bottom as well as charcoal.  Several pieces of freshly chopped wood are beside
+it in a box waiting to be used.
+~
+0 0 0
+D1
+~
+~
+0 0 5905
+D2
+~
+~
+0 0 5903
+D3
+~
+~
+0 0 5920
+S
+#5905
+Storage Room~
+Inside a musty room, you see many different things all around the floor. 
+Several long cylinders are standing end on end in one corner and fill up
+more than half the room.  Boxes upon boxes of other things cover the rest of
+the floor but a thin space down the middle that serves as a walkway through
+the mess.  
+~
+0 0 0
+D3
+~
+~
+0 0 5904
+S
+#5906
+Apprentices Room~
+Managing to get past the huge creeking oak door, you have made your way
+into a bedroom of some sort.  A small bed, big enough for a single person is
+in one of the corners.  A desk as well as a chair are covered with hundreds
+of papers on the side of the room as well as a few paintings that hang on
+the wall covered with dust.  
+~
+0 0 0
+D3
+~
+~
+0 0 5903
+S
+#5907
+In the Front Hall~
+Walking down a simple hall with a few lights on each side is lined with
+several doors in both directions.  The polished grey stone looks old and
+worn but at the same time as strong as any other.  
+~
+0 0 0
+D0
+~
+~
+0 0 5908
+D1
+~
+~
+0 0 5902
+D3
+~
+~
+0 0 5909
+S
+#5908
+Book Keeping Office~
+Entering into the room a table sits directly across from you filled with papers.  Looking more closely
+~
+0 0 0
+D2
+~
+~
+0 0 5907
+S
+#5909
+Further Down the Main Hall~
+Walking further down the main hallway, more doors appear and you can see
+the hall as it curves ahead of you.  Several candles and torches line the
+walls giving enough light to see clearly.  
+~
+0 0 0
+D1
+~
+~
+0 0 5907
+D2
+~
+~
+0 0 5912
+D3
+~
+~
+0 0 5913
+S
+#5910
+~
+~
+0 4 0
+S
+#5911
+Side Hall~
+After walking through one of the doors on the left side of the entry
+hall, another hall takes shape.  Two candles provide the bare minimum of
+light making it difficult to notice any details.  Once again, there is no
+sign of life in this hall and no doors at all leading from it except the one
+you came through.  
+~
+0 0 0
+D1
+~
+~
+0 0 5901
+D3
+~
+~
+0 0 5912
+S
+#5912
+Further Down the Candle-Lit Hall~
+Further down the candle-lit hall it abruptly switches directions.  The
+dark walls give an eerie fell to the hall as if someone was watching, but
+where?  Looking down the hall to the north you can see more light that
+appears to be another hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 5909
+D1
+~
+~
+0 0 5911
+S
+#5913
+Towards the End of the Main Hall~
+Still walking down the main hallway inside the what looks to be abandoned
+house, you can see clearly that the hallway abruptly turns ahead of you and
+leads off into another area of the house.  There is only a single door left
+to go into before the hallway ends.  
+~
+0 0 0
+D0
+~
+~
+0 0 5914
+D1
+~
+~
+0 0 5909
+D3
+~
+~
+0 0 5915
+S
+#5914
+Kitchen and Dining Room~
+Inside the kitchen and dining room, evidence of life can be seen.  There
+is a stove in the corner of the room as well as counters and cabinets
+throughout the room.  On the other side of the room there is a large oak
+table with enough chairs around it to sit close to twenty people.  
+~
+0 0 0
+D2
+~
+~
+0 0 5913
+S
+#5915
+The End of the Main Hall~
+Coming towards the end of the Main hallway another has become visible
+going off towards the back of the house.  It is well lit by torches hanging
+from the walls.  It appears to be a normal hall just stretching from the
+fron to the back of the house with no doors on either side.  
+~
+0 0 0
+D0
+~
+~
+0 0 5916
+D1
+~
+~
+0 0 5913
+S
+#5916
+Lounging Room Covered with Dust~
+Moving further towards the back part of the house, dust has grown to
+cover everything in the room, and while walking through it kicks up into
+your face and makes breathing quite irritable.  No doors appear to be on
+either side of the wall, but then again if their were would you even be able
+to see them through the dust.  
+~
+0 0 0
+D0
+~
+~
+0 0 5917
+D2
+~
+~
+0 0 5915
+S
+#5917
+Small Room in the Back Part of the House~
+The smell of something encircles you as you walk down the back of the
+hall.  All types of new sounds and smells seem to surround you from all over
+different parts of the room.  Looking around you can see that their are
+several different air ducts that will trasnmit the sounds to all over the
+house, so where its coming from you dont know.  The hall continues both to
+the east and to the south down two seperate hallways.  
+~
+0 0 0
+D1
+~
+~
+0 0 5918
+D2
+~
+~
+0 0 5916
+S
+#5918
+Walking Down a Desolate Hall~
+Walking further and further down the hallway you can see that there are
+no more doors on either side of the hall.  An actual picture is hanging on
+the wall to your left.  It is a picture of what looks to be the White Tower
+surrounded by bursts of color, which thinking back on, seem to be what
+fireworks have been discribed to look like.  
+~
+0 0 0
+D1
+~
+~
+0 0 5919
+D3
+~
+~
+0 0 5917
+S
+#5919
+Into the Depths of the Desolate House~
+Further down the hallway a door leads to the south.  It is made of iron
+and looks to be very very sturdy.  It is the only iron door in the whole
+house you have seen so what lies beyond must be something different or
+valuable.  The hallway though, continues to go towards the back far end of
+the house.  
+~
+0 0 0
+D1
+~
+~
+0 0 5920
+D2
+~
+~
+0 0 5921
+D3
+~
+~
+0 0 5918
+S
+#5920
+In the Back of the House~
+Still walking in what looks to be a vacant house you start to notice
+signs of life.  The walls are actually a polished grey color with torches
+lit and hanging.  Comparing the amount of dust on the floor to the main hall
+there is hardly any.  Sounds coming from what seems to be below you have
+become barely audible as well as a few doors becoming visible further down
+the hall.  
+~
+0 0 0
+D1
+~
+~
+0 0 5904
+D3
+~
+~
+0 0 5919
+S
+#5921
+Inside the Illuminator Guild House~
+Upon entering another of the small rooms, you finally have discovered who
+lives in this house.  It is one of the secretive Illuminator Guild Houses. 
+Several are known to exist but their where abouts are a complete mystery
+except to their members.  
+~
+0 0 0
+D0
+~
+~
+0 0 5919
+D5
+~
+~
+0 0 5922
+S
+#5922
+Bottom of a Secret Staircase~
+Finally at the bottom of the unstable staircase, three different
+passageways to almost all directions is all that is visible.  There is
+hardly any light in the room making it near impossible to see if anything
+lurkes in the shadows.  Strange noises can be heard from further back inside
+the basement.  
+~
+0 0 0
+D0
+~
+~
+0 0 5923
+D1
+~
+~
+0 0 5932
+D2
+~
+~
+0 0 5927
+D4
+~
+~
+0 0 5921
+S
+#5923
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5922
+D3
+~
+~
+0 0 5924
+S
+#5924
+Hallway Through the Basement of the House~
+Walking further through the basement, audible sounds can finally be heard
+from what seems to be ahead of you.  It sounds like a mix of machinery and
+people talking overtop the noise.  Dust still covers the walls but the
+floors are clean except from a few black scorched marks throughout the hall.
+~
+0 0 0
+D1
+~
+~
+0 0 5923
+D3
+~
+~
+0 0 5925
+S
+#5925
+Firework Developement Department~
+Walking Further through the doors and halls in the basement you've come
+upon the developement room.  Barrels of unlabeled material are scattered
+throughout the messy room.  A single table is all that looks to be half-way
+well kept in the room.  Upon looking closer at the table you realize that
+the papers that are scattered accross it are formulas and ingrediants.  
+~
+0 0 0
+D0
+~
+~
+0 0 5926
+D1
+~
+~
+0 0 5924
+S
+#5926
+Testing Chamber~
+Here is where the Illuminators test all their new devices and fireworks. 
+The room is about fifty feet from the floor to the ceiling, Dark black
+splotches cover the walls from previous experinments gone bad.  Scratches
+cover every wall in the room but it still looks to be in relatively good
+shape.  
+~
+0 0 0
+D2
+~
+~
+0 0 5925
+S
+#5927
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5922
+D3
+~
+~
+0 0 5928
+S
+#5928
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5927
+D3
+~
+~
+0 0 5930
+S
+#5929
+~
+~
+0 4 0
+S
+#5930
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5928
+S
+#5931
+~
+~
+0 4 0
+S
+#5932
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5933
+D1
+~
+~
+0 0 5938
+D3
+~
+~
+0 0 5922
+S
+#5933
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5934
+D2
+~
+~
+0 0 5932
+S
+#5934
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5935
+D2
+~
+~
+0 0 5933
+S
+#5935
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5936
+D3
+~
+~
+0 0 5934
+S
+#5936
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5937
+D3
+~
+~
+0 0 5935
+S
+#5937
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5936
+S
+#5938
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5939
+D3
+~
+~
+0 0 5932
+S
+#5939
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5938
+D2
+~
+~
+0 0 5940
+S
+#5940
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5939
+D1
+~
+~
+0 0 5941
+S
+#5941
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5940
+S
+#0
+
+
+
+#SPECIALS
+M 5900 spec_cast_mage
+M 5901 spec_illuminator
+M 5903 spec_breath_any
+S
+
+
+
+#RESETS
+M 0 5902 4 5906 2 100 Load The Apprentice
+M 0 5902 4 5906 2 100 Load The Apprentice
+M 0 5902 4 5914 2 100 Load The Apprentice
+M 0 5901 4 5921 2 100 Load An Expert Illuminator
+M 0 5901 4 5921 2 100 Load An Expert Illuminator
+M 0 5900 1 5921 1 100 Load The Leader of the Illuminators
+E 0 5900 0 9 0 100 `7illuminators gloves of protection is loaded on the hands of The Leader of the Illuminators
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

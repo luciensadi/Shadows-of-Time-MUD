@@ -1,0 +1,3254 @@
+#AREADATA
+Name Emond's Field~
+Builders Ziles~
+VNUMs 6200 6399
+Credits `4[`7 None `4]`7 Lynn      Emond's Field~
+Security 10
+Flags F
+Version 4
+End
+
+
+
+#MOBILES
+#6200
+good wife~
+good wife~
+A good wife is running some errands.
+~
+~
+andor~
+0 0
+AGW 80 0 0 0 -1  350 0
+30 50 3000d1+100 3000d1+5 5d19+10 slap
+-12 -12 -12 -12
+0 A 0 0
+stand stand female 250
+AHMV ABCDEFGHIJK medium unknown
+#6201
+Ryallin doll~
+The doll~
+A large doll sculpted in the likings of Ryallin
+~
+This Doll, depicting Ryallin's girlish side, stands before you modeling
+off the fantastic guide equiptment created by the lovely Lynn and Ryallin.  
+~
+doll~
+0 0
+AFGZc 0 0 0 0 -1  0 0
+110 1000 10d169+500 0d0+0 0d0+0 none
+0 0 0 0
+0 ABILMNPQR ES GHJKO
+stand stand female 0
+EJMc ABCGHK medium unknown
+#6202
+Gandalf~
+Gandalf~
+Gandalf stands here chanting words that you do not understand.
+~
+A tall old man with a wise face that is covered with an immensely long
+grey beard, bushy eyebrows, and adorned in grey robes.  
+~
+dragon~
+0 0
+AFRTZ 16720 64 16384 40960 -1  0 0
+200 200 99d50+45050 99d50+25050 200d100+100 beating
+-500 -500 -500 -500
+CFGHJKNT ABQ C D
+stand stand male  0
+AHZ ACDEFGHIJKPQUVX medium unknown
+F res BEH
+F vul FI
+#6203
+Saruman~
+Sarumon~
+Desc Sarumon stands here commanding Sauron's dark army.
+~
+A tall, old man with long silver white hair adorned in pure white robes.  
+~
+dragon~
+0 0
+AFRT 336 64 16384 32768 -1  0 0
+200 110 99d50+45050 99d50+25050 20d30+60 divine
+40 40 40 40
+0 AB C D
+stand stand male  0
+AHZ ACDEFGHIJKPQUVX medium unknown
+F res BEH
+F vul FI
+#6205
+Balrog~
+`!B`#a`!lr`#o`!g`n~
+`!B`#a`!lr`#o`!g`n stands here.
+~
+~
+unique~
+0 0
+ABFTZ 336 2112 0 40964 -1  0 0
+200 250 99d50+35050 99d50+20050 10d20+120 wrath
+0 0 0 0
+CDEFHKO ABH JK I
+stand stand none 0
+0 0 medium unknown
+#6206
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6210
+Neysa Ayellin~
+Neysa Ayellin~
+Neysa Ayellin
+~
+Women's Circle
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6211
+Marin Al'Vere~
+Marin al'Vere~
+Marin al'Vere is slaving over the stove preparing food for the Inn.
+~
+Winespring Inn cook
+Bran Al'Vere's wife
+member of the Women's Circle
+~
+andor~
+0 0
+ABGYe 0 64 0 0 -1  0 0
+45 45 650d1+50 0d0+0 5d5+5 none
+-9 -9 -9 -9
+0 A 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK small unknown
+#6212
+wisdom daise congar~
+Daise Congar~
+Wisdom Daise is here.
+~
+As tall as most men and wider, the Wisdom of Emond's Field has a hard
+face and not an ounce of fat on her.  
+~
+andor~
+0 0
+ABGKWYabe 256 48 0 0 -1  750 0
+125 60 800d1+50 800d1+200 10d5+5 none
+-30 -30 -30 -30
+A A D 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#6213
+Alsbet Luhhan~
+Alsbet Luhhan~
+Alsbet Luhhan is looking for her husband.
+~
+A large woman, fairly tall for the Two River's, she is stoutly built with
+a round face.  
+~
+andor~
+0 0
+AGW 0 0 0 0 -1  250 0
+40 30 600d1+200 0d0+0 5d5+5 none
+-9 -9 -9 -9
+H A 0 0
+stand stand female 250
+AHMV ABCDEFGHIJK medium unknown
+#6214
+Samel Crawe~
+Samel Crawe~
+Samel is here talking to his friend.
+~
+Village Council
+horse-faced w/ a long nose
+~
+andor~
+0 0
+ABGY 0 64 0 0 -1  200 0
+50 30 700d1+50 0d0+0 10d5+5 none
+-10 -10 -10 -10
+H A 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#6215
+Rowan Hurn~
+Rowan Hurn~
+Rowan is here with his friend.
+~
+Village Council
+~
+andor~
+0 0
+ABGY 0 80 0 0 -1  250 0
+50 40 750d1+50 0d0+0 10d5+5 none
+-10 -10 -10 -10
+H A 0 0
+stand stand male  500
+AHMV ABCDEFGHIJK medium unknown
+#6216
+Haral Luhhan~
+Haral Luhhan~
+Haral is hard at work making some new horseshoes.
+~
+Village Council
+Blacksmith
+tallest man in emond's field with arms like tree trunks
+~
+andor~
+0 0
+ABGYe 16384 16 0 0 -1  300 0
+50 50 900d1+50 0d0+0 10d5+4 none
+-9 -9 -9 -9
+H A 0 0
+stand stand male  500
+AHMV ABCDEFGHIJK medium unknown
+#6217
+Jon Thane~
+Jon Thane~
+Jon Thane is busy working.
+~
+Miller
+Village Council
+~
+andor~
+0 0
+ABGYe 0 16 0 0 -1  450 0
+55 0 800d1+1 0d0+0 10d5+5 none
+-15 -15 -15 -15
+C A 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#6218
+Cenn Buie~
+Cenn Buie~
+Cenn Buie
+~
+Thatcher
+Village Council
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6219
+Alwyn al'Van~
+Alwyn al'Van~
+Alwyn al'Van is hovering over a pair of leather boots.
+~
+Cobbler
+~
+andor~
+0 0
+ABGYe 0 0 0 0 -1  0 0
+50 0 700d1+50 0d0+0 5d5+10 none
+-10 -10 -10 -10
+0 A 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#6220
+Eward Candwin~
+Eward Candwin~
+Eward Candwin has his back to you as he is taking inventory.
+~
+Cooper
+stalky
+~
+andor~
+0 0
+AGYe 0 0 0 0 -1  400 0
+40 60 800d1+50 0d0+0 10d5+5 none
+-15 -15 -15 -15
+0 A 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#6221
+Buel Dowtry~
+Buel Dowtry~
+Buel Dowtry is here finishing a long bow.
+~
+A short old man with stingy grey hair.  He is wearing tattered pants and
+shirt that are smeared with dirt.  He keeps an eye on you as you pass by and
+giving an ignorant smirk to your unknown face.  
+~
+andor~
+0 0
+ABGYe 0 0 0 0 -1  350 0
+50 25 700d1+50 0d0+0 4d4+5 none
+-10 -10 -10 -10
+0 A 0 D
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#6222
+Tuck Padwhin~
+Tuck Padwhin~
+Tuck Padwhin is riffeling through his tools, obviously looking for something.
+~
+A tall heavy built man with a special belt around his waiste holding his
+tools for carpentry.  His clothing soaked with sweat and with small wood
+chips spread across.  His hair pulled back with small wood bits in it, his
+silver eyes looks into yours as he asks, "What will it be for you today".  
+~
+andor~
+0 0
+ABGYe 0 80 0 0 -1  500 0
+50 60 700d1+200 0d0+0 10d5+10 none
+-10 -10 -10 -10
+CN A 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#6223
+Pel Aydaer~
+Pel Aydaer~
+Pel Aydaer is staining a newly finished cabinet.
+~
+Cabinet maker
+~
+andor~
+0 0
+ABGYe 0 0 0 0 -1  350 0
+50 65 700d1+50 0d0+0 4d5+10 none
+-10 -10 -10 -10
+0 A 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#6224
+Bran al'Vere~
+Bran al'Vere~
+Bran al'Vere is busy helping his customers.
+~
+Mayor of Emond's Field
+Innkeeper at the Winespring Inn
+~
+andor~
+0 0
+ABGYe 80 1024 0 0 -1  500 0
+60 75 800d1+100 0d0+0 10d5+15 none
+-25 -25 -25 -20
+CN A 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 6225 ale~
+M ACT 6224 sit~
+#6225
+Tad~
+Tad~
+Tad is here cleaning a stall.
+~
+His lanky body makes him look as if he were half starved.
+~
+andor~
+0 0
+ABG 256 64 0 0 -1  430 0
+25 65 100d100+5 500d1+100 2d30+5 none
+-25 -25 -25 -25
+NR K 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#6226
+Hu~
+Hu~
+Hu is bringing in some water for the horses.
+~
+He is quite lanky, just like his friend Tad.
+~
+andor~
+0 0
+ABG 256 64 0 0 -1  430 0
+25 65 1000d1+100 500d1+100 2d30+5 grep
+-25 -25 -25 -25
+NR DFGHJK 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#6227
+horse~
+A Horse~
+A Horse stands here.
+~
+Looks like a horse.
+~
+fido~
+0 0
+ABDe 1104 1040 0 0 -1  -600 0
+30 15 10d10+1000 0d0+0 5d5+30 slash
+-30 -30 -30 -30
+CDEFHOR 0 BEHILQ CFI
+stand stand none 0
+ABGHMVZ ABCDEFGHIJKQ medium unknown
+F par V
+#6228
+Ailys Candwin~
+Ailys Candwin~
+Ailys Candwin is here doing house work.
+~
+Eward Candwin's wife
+cooper's wife
+~
+andor~
+0 0
+ABGY 0 80 0 0 -1  800 0
+40 40 700d1+10 0d0+0 5d5+5 none
+-8 -8 -8 -8
+H A 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#6229
+Elam Doutry~
+Elam Doutry~
+Elam Doutry is looking for his dog.
+~
+Buel Dowtry's son
+has a long nose and cowlick
+~
+andor~
+0 0
+AGW 0 64 0 0 -1  300 0
+35 15 300d1+50 0d0+0 2d2+5 none
+-5 -5 -5 -5
+H A 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#6230
+Jared Aydaer~
+Jared Aydaer~
+Jared Aydaer is widdeling a wooden figurine.
+~
+Cabinet maker's son
+~
+andor~
+0 0
+AGW 0 0 0 0 -1  250 0
+30 20 400d1+25 0d0+0 3d3+5 none
+0 0 0 0
+H A 0 0
+stand stand male  250
+AHMV ABCDEFGHIJK medium unknown
+#6231
+travelling gleeman~
+travelling gleeman~
+A travelling gleeman is wondering through the village.
+~
+~
+kandor~
+0 0
+AGWY 256 16 0 0 -1  0 0
+75 100 1500d1+1 1000d1+100 15d5+5 none
+-20 -20 -20 -20
+0 A 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 6231 85~
+#6232
+local farmer~
+local farmer~
+A local farmer is here.
+~
+Typical of most farmers of Two Rivers, the farmer is wearing dirty trousers and a light tunic.
+His hair is slightly mussed, from running sweaty hands through it every now and then.
+Dark skin tells of countless hours spent toiling under the hot sun.
+~
+andor~
+0 0
+AGW 88 0 0 0 -1  250 0
+40 50 1000d1+50 0d0+0 10d5+5 none
+-10 -10 -10 -10
+0 A 0 0
+stand stand male  200
+AHMV ABCDEFGHIJK medium unknown
+#6299
+large dog~
+large dog~
+A large dog is wandering aimlessly.
+~
+A normal dog, maybe a bit large to your standards.  It's grayish-brown
+fur isn't matted and tangled like many of the wild dogs you've seen.  The
+dog is obviously tame, because it doesn't seem to be bothered by your
+presence.  
+~
+dog~
+0 0
+AGWY 80 64 0 0 -1  350 0
+40 50 1000d1+100 3000d1+5 5d19+10 none
+-4 -4 -4 -4
+H A 0 0
+stand stand male  50
+AGV ABCDEFGHIJKUV medium unknown
+#6308
+hellhound~
+`1H`8ellhound`7~
+`1H`8ellhound `7stands here mouth foaming.`7
+~
+~
+wolf~
+0 0
+ABOTZe 49488 64 0 512 -1  0 0
+700 500 170000d1+5000 5000d1+2000 100d10+20 flbite
+-150 -150 -150 -150
+AFHKO ABN EIKOb 0
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+#6341
+rat~
+A rat~
+A rat is hidden in the hay.
+~
+A rat is here hiding in the hay.  A constant problem for the stable hands
+here.  
+~
+dog~
+0 0
+ACG 0 2 0 0 -1  0 0
+30 15 200d1+10 5d5+5 10d1+5 none
+-3 -3 -3 -3
+FH A 0 0
+stand stand none 25
+AGV ACDEFHJKQUV medium unknown
+#0
+
+
+
+#OBJECTS
+#6200
+guide robe~
+`4T`$h`4e `$fl`4owi`$ng `&wh`8i`&te `4ro`$be`4s of a `#G`&ui`#de`*~
+The linen material of these robes caresses the skin softly, and surrounds you with the security of your position~
+linen~
+armor HTa AK
+0
+ACDF ACDF ACDF ACDF 0
+110 2000 0 P
+A
+4 10
+A
+3 10
+ T 0 none~
+#6201
+Guide Whoop-Ass Stick~
+`#G`3u`&i`3d`#e`4 W`$0`4o`$p`&-`1A`!ss`4 S`$t`4i`$c`4k`n~
+(no description)~
+unknown~
+weapon ITU AN
+0
+polearm 0 0 beating DE
+110 0 0 P
+ T 0 none~
+#6202
+aura common sence~
+`&(`#Sh`3imm`*eri`8ng`&) `4Pr`$o`4tec`$ti`4ve `6a`^ur`6a `$o`4f `#Com`3m`#on `3S`#en`3se`*~
+A glittering cloud of.. something.. is here.~
+unknown~
+armor PU AQ
+0
+DF DF DF DF 0
+110 0 0 P
+ T 0 none~
+#6203
+keys guide jail~
+`3G`#u`&i`#d`3e`8 J`1a`8i`1l`4 K`$e`6y`^s`n~
+(no description)~
+unknown~
+keyring U AU
+0
+0 0 0 0 0
+110 0 0 P
+ T 0 none~
+#6204
+booke rules~
+`1A`!ll`6 K`^n`6o`^w`6i`^n`6g`4 B`$oo`4k`1 o`!f`& R`8u`&l`8e`&s`n~
+(no description)~
+unknown~
+armor U AO
+0
+0 0 0 0 0
+110 0 0 P
+ T 0 none~
+#6205
+Narsil sword legendary~
+`!(`1Legendary`!)`8 Th`&e`7 Gr`8ea`7t`& Nar`8s`&il`n~
+A broken sword used to rid Sauron of the One Ring lies here.~
+unknown~
+weapon ad AN
+0
+sword 75 1 slash BCE
+110 10 0 P
+A
+18 10
+A
+19 10
+A
+20 -5
+A
+13 15
+ T 0 none~
+#6206
+gnarled staff crowned stones~
+`!(`2Gnarled`!)`# S`3ta`#f`3f`$ C`4ro`$wn`4e`$d`@ w`2i`2t`@h`& S`*t`8o`8n`*e`&s`n~
+A long slaff belonging to Gandalf rests here.~
+unknown~
+weapon ad AN
+0
+exotic 75 1 divine CG
+110 0 0 P
+A
+20 -9
+A
+19 5
+A
+18 5
+A
+13 55
+ T 0 none~
+#6207
+ring vilya healing~
+`^(`4Ancient`^)`2 E`@l`2vi`@s`2h`# r`3i`#n`3g`4 V`$i`&l`$y`4a`n~
+A small golden ring with a small blue jewel lies here.~
+unknown~
+armor Yad AB
+0
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+18 8
+A
+19 8
+A
+20 -4
+A
+13 20
+A
+12 37
+ T 0 none~
+#6208
+narya fire ring~
+`^(`4Ancient`^)`2 E`@l`2v`@e`2n`# r`&i`3n`#g `!N`#a`&r`!y`#a`n~
+A ring made of unknown material with a red jewel in the center lies here.~
+unknown~
+armor ad AB
+0
+BCEF BCEF BCEF BCEF 0
+150 0 0 P
+A
+20 -10
+A
+19 7
+A
+18 7
+A
+13 85
+ T 0 none~
+#6209
+ring Nanya~
+`^(`4Ancient`^)`@ E`2l`@v`2e`@n`# r`&i`3n`#g`& N`7a`&n`7y`&a`n~
+A small mithril ring with a small adamant jewel rests here.~
+unknown~
+armor ad AB
+0
+BCEF BCEF BCEF BCEF 0
+150 0 0 P
+A
+18 12
+A
+19 12
+A
+20 -10
+A
+13 35
+ T 0 none~
+#6210
+rusty dagger~
+rusty dagger~
+A small rusty dagger lies in the dirt.~
+unknown~
+weapon AH AN
+0
+dagger 27 2 stab C
+40 20 20 P
+A
+18 5
+A
+19 5
+A
+20 -3
+ T 0 none~
+#6220
+chair table~
+a wooden table~
+A wooden dining table is here.~
+unknown~
+furniture 0 0
+0
+BC FHJKPQ D DGH DGH
+50 1000 0 P
+ T 0 none~
+#6221
+bar~
+the bar~
+The bar runs the length of this corner.~
+unknown~
+furniture 0 0
+0
+AB EIJKN D BCEH BCEH
+50 0 0 P
+ T 0 none~
+#6222
+archers sign~
+the sign~
+A sign posted on the doors.~
+unknown~
+light 0 O
+0
+0 0 0 0 0
+0 0 0 P
+E
+blah~
+~
+ T 0 none~
+#6223
+bed~
+the bed~
+A small bed is positioned in the corner of the room.~
+unknown~
+furniture 0 0
+0
+A CEFGHI DGJ CDFI CDFI
+5 0 0 P
+ T 0 none~
+#6224
+mug ale~
+mug of ale~
+A large mug of ale.~
+unknown~
+drink PU A
+0
+5 3 'beer' 0 0
+20 0 5 P
+ T 5 none~
+#6236
+throne~
+`8D`7ar`8k `&C`8l`7ou`8d`7~
+A throne made of thick `8D`7ar`8k `&C`8l`7ou`8d`&s`7 is here.~
+unknown~
+furniture 0 0
+0
+D FHJKPQ EH DGH E
+1 0 0 P
+ T 0 none~
+#6242
+Gypht bag~
+`8G`7y`8p`&h`8t`&'`8s `&bag `8of `&S`8o`7rr`&o`8w`7~
+A bag lies here.~
+unknown~
+container Ta ALP
+0
+1000 A 0 1000 500
+110 20 0 P
+ T 0 none~
+#6250
+map~
+map of somewhere~
+Map of somewhere~
+unknown~
+map 0 A
+0
+0 0 0 0 0
+0 10 1 P
+ T 0 none~
+#6299
+fresh water spring~
+fresh water spring~
+A fresh water spring is fed by the cool water of the Winespring.~
+unknown~
+fountain 0 0
+0
+0 0 'water' 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#6200
+Quarry Road in Westwood Forest~
+Towering trees border the simple gravel road to the north and south.  To
+the west, the tops of the Mountains of Mist are just visible in the distance
+beyond the Sand Hills.  The small rocks crunch underfoot, counterbalancing
+the sounds of the forest on either side.  Quarry road stretches further on
+to the east, toward the village of Emond's Field.  
+~
+0 4194304 3
+D1
+~
+~
+0 0 6201
+D3
+~
+~
+0 0 37555
+S
+#6201
+Quarry Road in Westwood Forest~
+Dappled light filters through branches overhead, shifting the shadows
+underfoot in time with the whim of the wind.  Small rustlings in the brush
+on the forest floor to either side of the road give away the presence of
+hidden inhabitants.  The narrow track continues further on to the east,
+while to the west, the forest looms.  
+~
+0 4194304 3
+D1
+~
+~
+0 0 6202
+D3
+~
+~
+0 0 6200
+S
+#6202
+Quarry Road in Westwood Forest~
+Birds call out to each other from branches heavy with leaves.  Old
+evidence of the Fall season litters ground and serves to feed the growth of
+short ferns and sticky brush at the edge of the road.  The road itself
+remains clear of plantlife, the sharp gravel and constant travel
+discouraging greenery among the wagonwheel ruts and hoofprints.  
+~
+0 0 3
+D1
+~
+~
+0 0 6203
+D3
+~
+~
+0 0 6201
+S
+#6203
+Quarry Road~
+Quarry road begins to widen here, and the trees surrounding it thin,
+allowing a glimpse of neatly tilled pastures to the north and south. 
+Occasionally the sound of a sheep's bleating can be heard on the breeze
+washing in from further east, towards the small village of Emond's Field. 
+Faintly, from the north and east, comes the sound of running water.  
+~
+0 0 8
+D1
+~
+~
+0 0 6204
+D3
+~
+~
+0 0 6202
+S
+#6204
+Quarry Road~
+Approaching the small Village of Emond's Field, the distant sounds of
+activity filter through the thinning trees.  The Westwood forest continues
+to relinquish its hold on the fields, and wide clearings rich with growing
+grass become more commonplace.  
+~
+0 0 8
+D1
+~
+~
+0 0 6205
+D3
+~
+~
+0 0 6203
+S
+#6205
+Quarry Road Nearing Emond's Field~
+The distant sound of a hammer ringing on anvil floats on the breeze, and
+the clearings through the trees show the obvious signs of livestock grazing.
+The soft chuckling of running water comes from a short distance to the
+north.  
+~
+0 0 8
+D0
+~
+~
+0 0 6296
+D1
+~
+~
+0 0 6206
+D3
+~
+~
+0 0 6204
+S
+#6206
+Quarry Road through The Green~
+The sounds of children playing at different games, and other sounds of a
+small village are quite noticeable here.  There are people walking about,
+carrying water buckets from the Winespring, lugging their dirty and freshly
+washed laundry, and various other daily chores.  
+~
+0 0 8
+D1
+~
+~
+0 0 6207
+D3
+~
+~
+0 0 6205
+S
+#6207
+Quarry Road through The Green~
+The path is well-worn here, from daily use, as people walk by and
+children play with other children.  It begins to grow more crowded as you
+near the village of Emond's Field.  From the north, the sounds of water
+running can be heard, faintly.  
+~
+0 0 8
+D1
+~
+~
+0 0 6208
+D3
+~
+~
+0 0 6206
+S
+#6208
+Quarry Road in Emond's Field~
+As Emond's Field comes into plain view, the villagers, Two Rivers and
+outlanders, can be seen, scurrying about between the slate-roofed buildings.
+Freshly built houses and some that are not quite finished can be seen in the
+mix with some that seem to have been standing for generations.  
+~
+0 0 8
+D1
+~
+~
+0 0 6209
+D3
+~
+~
+0 0 6207
+S
+#6209
+Village Path~
+As Quarry Road emerges into the main path through Emond's Field, people
+can be seen walking from place to place, buying food or other goods. 
+Children can be seen running around, playing at their games, dodging the
+adults that look at them with disapproving eyes as often as not.  
+~
+0 0 8
+D0
+~
+~
+0 0 6210
+D2
+~
+~
+0 0 6216
+D3
+~
+~
+0 0 6208
+S
+#6210
+Village Path Before Wagon's Bridge~
+The road continues to the Wagon Bridge over the Winespring River.  The
+street gets a little more crowded here as people cross the bridge slowly
+behind wagons and horses.  The water of the Winespring can be heard rather
+plainly here, over the sounds of the village.  
+~
+0 0 8
+D0
+~
+~
+0 0 6211
+D1
+~
+~
+0 0 6228
+D2
+~
+~
+0 0 6209
+S
+#6211
+Wagon's Bridge~
+The bridge over the Winespring is old and creaky, but plenty strong
+enough to hold as many people as need to pass at any one time.  There are
+loaded wagons, mounted travellers, and even more people afoot than the
+others, some doing chores, some seeming to be looking for a place to rest
+and have a drink.  
+~
+0 0 8
+D0
+~
+~
+0 0 6212
+D2
+~
+~
+0 0 6210
+S
+#6212
+Village Path Before Wagon's Bridge~
+The path at the foot of this side of the wagon bridge hard packed from
+many generations of horses, and people, and wagons travelling across.  The
+water of the Winespring can be heard clearly this close to the river, and
+the smell of water is apparent.  
+~
+0 0 8
+D0
+~
+~
+0 0 6213
+D1
+~
+~
+0 0 6226
+D2
+~
+~
+0 0 6211
+D3
+~
+~
+0 0 6225
+S
+#6213
+Village Path~
+The path approaching the Wagon Bridge is heavily worn, from boots,
+horses' hooves, and wagon wheels alike.  To the west, lies the green, where
+people can be seen conversing and children playing.  North is the way to
+Watch Hill, by the North Road.  East leads to the main of the village of
+Emond's Field.  
+~
+0 0 8
+D0
+~
+~
+0 0 6214
+D1
+~
+~
+0 0 6223
+D2
+~
+~
+0 0 6212
+D3
+~
+~
+0 0 6224
+S
+#6214
+Village Path~
+The Village Path is not as crowded here as it is further into the
+village.  To the west is the Aydaer House, and the east, the Cobblers's
+Shop, with people walking in with old leather items, and out with new and
+renewed boots.  It is fairly crowded here, but not quite so as more towards
+the main square in the village.  
+~
+0 0 8
+D0
+~
+~
+0 0 6215
+D1
+~
+~
+0 0 6222
+D2
+~
+~
+0 0 6213
+D3
+~
+~
+0 0 6292
+S
+#6215
+North Road~
+As the main path in the village turns out into the old road heading north
+towards Watch Hill, the trees begin to thicken, and the grass grows taller
+with less bare spots.  It is obvious that the long journey to the next
+village to the north is not travelled much.  
+~
+0 0 8
+D0
+~
+~
+0 0 6221
+D2
+~
+~
+0 0 6214
+S
+#6216
+Village Path~
+The sounds of a carpenter's shop drift through the air as people walk in
+and out, usually coming out with something newly made, or repaired.  The
+path continues south towards Devin Ride as it narrows and grows a bit less
+crowded.  
+~
+0 0 8
+D0
+~
+~
+0 0 6209
+D2
+~
+~
+0 0 6217
+D3
+~
+~
+0 0 6227
+S
+#6217
+Village Path~
+The crowd grows sparse as it nears the edge of the village.  The sounds
+of the village are still quite apparent, but no longer deafening, as they
+were in the village itself.  On the Old Road leaving Emond's Field, towards
+Devin Ride, a few travellers can be seen making that long trek.  
+~
+0 0 8
+D0
+~
+~
+0 0 6216
+D2
+~
+~
+0 0 6218
+S
+#6218
+Old Road~
+The Old Road widens here into the main village path through Emond's
+Field.  There are quite a few more people here than on road behind, most
+entering or leaving the village.  The village ahead seems to be bustling
+with activity, from children playing, to villagers doing daily chores.  
+~
+0 0 8
+D0
+~
+~
+0 0 6217
+D2
+~
+~
+0 0 6219
+S
+#6219
+Old Road~
+The road widens a bit as the village of Emond's Field comes into sight, a
+few tindrils of smoke rise from chimneys of the Winespring Inn and some
+houses.  There are few travellers on the road here, and the trees are far
+from sparse next to the road on both sides.  
+~
+0 0 8
+D0
+~
+~
+0 0 6218
+D2
+~
+~
+0 0 6220
+S
+#6220
+Old Road~
+The road narrows even more, and the trees grow more thickly here than
+closer to the village.  Wildlife can be heard from the woods to each side. 
+The trees grow taller and wider as the road continues towards the village of
+Devin Ride.  
+~
+0 0 8
+D0
+~
+~
+0 0 6219
+S
+#6221
+North Road~
+The old road heading north towards Watch Hill seems deserted at first,
+but there are wagon tracks and footprints that can be seen faintly.  The
+treeline closes in on each side of the road as it continues away from
+Emond's Field, the various animals grow more confident further away from the
+village.  
+~
+0 0 8
+D2
+~
+~
+0 0 6215
+S
+#6222
+Cobbler's Shop~
+The whole shop is cluttered with old and new boots, some waiting to be
+resoled, some waiting to be thrown out.  There are leather tools lying about
+in various places, some seemingly not used in some time.  The work pending
+has the look of quality although it is not quite finished.  
+~
+0 0 0
+D3
+~
+~
+0 0 6214
+S
+#6223
+Cooper's Shop~
+The shop is filled with barrels of different sizes and types, from large
+to small, thin to wide.  There are metal bands lying in a corner, waiting
+for a barrel to hold together.  The cooper is busy checking his inventory,
+making sure nothing has been stolen.  
+~
+0 0 0
+D3
+~
+~
+0 0 6213
+S
+#6224
+Fletcher's Shop~
+~
+0 0 0
+D1
+~
+~
+0 0 6213
+D3
+~
+~
+1 0 6283
+S
+#6225
+Cabinet Maker's Shop~
+The main room's walls are lined with cabinets, to give the customers a
+peek at the differnt types of work that is offered here.  There are
+different shades of stains and paints in a corner where the cabinets stop to
+allow some storage.  To one side, there is stain spilled on the floor,
+apparently where most of the work gets done.  
+~
+0 0 0
+D1
+~
+~
+0 0 6212
+S
+#6226
+Small Path~
+~
+0 0 8
+D1
+~
+~
+0 0 6266
+D3
+~
+~
+0 0 6212
+S
+#6227
+Carpenter's Shop~
+~
+0 0 0
+D1
+~
+~
+0 0 6216
+S
+#6228
+Small Path~
+The path just south of the Winespring is hard packed dirt, with a few
+places where the water wets the ground just enough to make it muddy.  There
+are small houses scattered about, some with thatched roofs and some with
+tile, all in good repair.  
+~
+0 0 8
+D1
+~
+~
+0 0 6229
+D2
+~
+~
+0 0 6341
+D3
+~
+~
+0 0 6210
+S
+#6229
+Small Path~
+The path leading to the Green is all but crowded, and the few people here
+do not look as if they wish to be bothered.  There is a little dust in the
+air, stirred up by the mild gusts, that seem to be few and far apart.  To
+the east, on the Green, People can be seen doing odd chores or disciplining
+their children.  
+~
+0 0 8
+D1
+~
+~
+0 0 6236
+D3
+~
+~
+0 0 6228
+S
+#6230
+Blacksmith~
+The shop is quite airy, with the large fire burning hot, Master Luhhan,
+made a habit of leaving the side shudders open.  Along the walls were lined
+miscellaneous farm tools, horseshoes, and a few axes and hatchets.  There is
+a door against the back wall, that must lead to the blacksmith's personal
+quarters.  To the left, Master Luhhan is hard at work on some new
+horseshoes.  
+~
+0 4 0
+D0
+~
+~
+1 0 6231
+D2
+~
+~
+0 0 6264
+S
+#6231
+Private Quarters~
+A small room.  By the looks of things this is the living quarters of
+Master Luhhan's apprentice.  There is a small bed in the corner, a dresser
+against the far wall, and a window centered in the wall to your left.  It's
+small, cozy, and well used.  
+~
+0 9220 0
+D1
+~
+~
+0 0 6232
+D2
+~
+~
+1 0 6230
+D3
+~
+~
+0 0 6233
+S
+#6232
+Private Kitchen~
+A stove sits in the corner with a tea kettle beginning to steam making a
+soft whistling sound.  A cutting board is seen on the counter with a knife
+close by.  The smell of fresh baked bread emanates from the loaf sitting
+near the stove.  
+~
+0 4 0
+D3
+~
+~
+0 0 6231
+S
+#6233
+Reading Room~
+A well lit room with just a small desk and a comfortable looking
+chair are all that can be seen here. A fireplace rests on the
+western wall keeping the room at a cozy temperature.
+~
+0 4 0
+D1
+~
+~
+0 0 6231
+D4
+~
+~
+0 0 6234
+S
+#6234
+Garret~
+A cool breeze blows from outside rustling some of the loose papers
+that are stored among the many chests and old clothes.
+~
+0 4 2
+D5
+~
+~
+0 0 6233
+S
+#6235
+Winespring River~
+~
+0 4 6
+S
+#6236
+Small Path~
+Just stepping out of the green, chattering voices can be heard from the 
+Winespring Inn which sits just slightly to the south. Its red roof tiles,
+the only such roof in the village, glittered in the weak sunlight, and 
+smoke drifted from three of the inn's dozen tall chimneys.
+~
+0 0 8
+D1
+~
+~
+0 0 6245
+D2
+~
+~
+0 0 6237
+D3
+~
+~
+0 0 6229
+S
+#6237
+Winespring Inn~
+Inside the inn the floor is covered in river rock giving the room
+a welcome look to it. Although the foundation is of older stone some
+said come from the mountains, the place is very well built. Service 
+maids make themselves busy attending patrons filling the inn.
+~
+0 4 0
+D0
+~
+~
+0 0 6236
+D1
+~
+~
+0 0 6246
+D2
+~
+~
+0 0 6238
+D3
+~
+~
+3 0 6239
+S
+#6238
+Winespring Inn~
+Dining tables are setup for the many patrons of the inn to sit and enjoy
+their meals.  Over in the corner of the room, the bar can be seen, where
+some of the men and women have chosen to rest instead of sitting at one of
+the numerous tables.  
+~
+0 0 0
+D0
+~
+~
+0 0 6237
+D1
+~
+~
+0 0 6244
+D2
+~
+~
+0 0 6242
+D3
+~
+~
+0 0 6240
+S
+#6239
+Storage Closet~
+In this dimly lit closet there are not many things to see, other than a couple 
+brooms and other cleaning supplies. Also among the few items a small stool 
+rests in back of the closet. 
+~
+0 0 0
+D1
+~
+~
+3 0 6237
+S
+#6240
+Winespring Inn~
+Here is another room for patrons to sit and rest their feet.
+Some are enjoying a hot meal while others are enjoying the 
+company of there many friends from the village.
+~
+0 0 0
+D1
+~
+~
+0 0 6238
+D2
+~
+~
+0 0 6241
+S
+#6241
+Winespring Inn~
+stairs leading to the rooms
+~
+0 4 0
+D0
+~
+~
+0 0 6240
+D1
+~
+~
+0 0 6242
+D4
+~
+~
+0 0 6267
+S
+#6242
+Winespring Inn~
+bar
+~
+0 1024 0
+D0
+~
+~
+0 0 6238
+D1
+~
+~
+0 0 6243
+D3
+~
+~
+0 0 6241
+S
+#6243
+Winespring Inn~
+bar
+exiting towards Bran's quarters
+~
+0 1024 0
+D0
+~
+~
+0 0 6244
+D1
+~
+~
+1 0 6335
+D3
+~
+~
+0 0 6242
+D4
+~
+~
+1 0 6277
+S
+#6244
+Winespring Inn~
+bar
+~
+0 1024 0
+D0
+~
+~
+0 0 6246
+D2
+~
+~
+0 0 6243
+D3
+~
+~
+0 0 6238
+S
+#6245
+Small Path~
+Walking along the path, there are few houses and shops scattered about
+that can be seen.  Most of the people are either out doing chores or inside
+away from the heat, leaving the streets fairly empty.  Some of the villagers
+do manage to walk around, going into shops or houses, or just walking about
+looking bored.  
+~
+0 0 8
+D1
+~
+~
+0 0 6248
+D3
+~
+~
+0 0 6236
+S
+#6246
+Winespring Inn~
+stairs leading to the rooms
+~
+0 1028 0
+D2
+~
+~
+0 0 6244
+D3
+~
+~
+0 0 6237
+D4
+~
+~
+0 0 6271
+S
+#6247
+The Archers' Inn~
+This tower structure still seems to be under construction.  There is a
+well crafted sign hanging above the door showing the symbol of an archer. 
+The workers eye the passersby as if they might try and harm them.  
+~
+0 0 0
+E
+sign~
+The Archers Inn is still under construction.
+Please come back when we open.
+ 
+Thank you.
+~
+D0
+~
+~
+0 0 6255
+D4
+~
+~
+0 0 6348
+S
+#6248
+Small Path~
+South of the Winespring, the path running parallel to it is seemingly
+almost uninhabited, as most of the people here seem to want to stay indoors
+for the day.  There are a few trees here and there between the buildings,
+some old and tall, some young and short, but almost all of them look dry and
+withered.  
+~
+0 0 8
+D1
+~
+~
+0 0 6252
+D3
+~
+~
+0 0 6245
+S
+#6249
+The Loft~
+~
+0 0 0
+D5
+~
+~
+0 0 6250
+S
+#6250
+Wisdom's Sitting Room~
+~
+0 0 0
+D3
+~
+~
+0 0 6251
+D4
+~
+~
+0 0 6249
+S
+#6251
+Wisdom Daise's Cottage~
+~
+0 0 0
+D0
+~
+~
+0 0 6252
+D1
+~
+~
+0 0 6250
+S
+#6252
+Small Path~
+The path before the Cottage of the Wisdom, Daise Congar, is much like the
+rest of the path, in that it is almost empty of travelers.  This does seem
+to be the place that recieves the most traffic of the entire path, though. 
+Inside the cottage, the smell of freshly baked honeycakes is drifting
+through the air.  
+~
+0 0 8
+D1
+~
+~
+0 0 6253
+D2
+~
+~
+0 0 6251
+D3
+~
+~
+0 0 6248
+S
+#6253
+Small Path~
+Further along the path, it grows a little more populated, and less quiet,
+with more people running from place to place, doing whatever needs to be
+done.  The few buildings here do not have many people going in and out, but
+they do have a few.  There is a certain air of alertness in this part of the
+village.  
+~
+0 0 8
+D1
+~
+~
+0 0 6254
+D3
+~
+~
+0 0 6252
+S
+#6254
+Small Path~
+Towards the eastern side of the village, there are a few stray animals
+scattered about, some looking as though they do not eat at all, and some as
+though they eat entirely too much.  Some people wander from place to place,
+some looking lost and as if they are trying to find their way home.  
+~
+0 0 8
+D1
+~
+~
+0 0 6255
+D3
+~
+~
+0 0 6253
+S
+#6255
+Small Path~
+Before the Archers' Inn, there can be seen some people seemingly hard at
+work trying to put the final touches on it.  At first sight, it seems as
+though it is already finished, but after further examination, it can be seen
+that some work still remains to be done.  
+~
+0 0 8
+D1
+~
+~
+0 0 6256
+D2
+~
+~
+0 0 6247
+D3
+~
+~
+0 0 6254
+S
+#6256
+Before a Footbridge over the Winespring~
+The ground is dry, but not cracked from the dry heat of the weather. 
+There is the smell of water emmanating from the river to the north.  There
+are obviously not many people that take this path through the village, since
+the path is not worn much.  
+~
+0 0 8
+D0
+~
+~
+0 0 6257
+D3
+~
+~
+0 0 6255
+S
+#6257
+Small Bridge over the Winespring River~
+The waters of the Winespring flow steadily under the bridge, short
+railings on either side keeping the unwary on the bridge itself.  The smooth
+stones underfoot show the wear of many past travelers, moss growing in the
+cracks between the neatly cut cobbles.  
+~
+0 0 8
+D0
+~
+~
+0 0 6258
+D2
+~
+~
+0 0 6256
+D5
+~
+~
+0 0 6330
+S
+#6258
+Small Path~
+The path approaching the small bridge over the Winespring River is small,
+and overgrown with grass, some of it smashed to the ground from people
+walking on it.  The water of the Winespring can be heard from under the
+bridge to the south.  
+~
+0 0 8
+D2
+~
+~
+0 0 6257
+D3
+~
+~
+0 0 6259
+S
+#6259
+Small Path~
+Towards the end of the hard dirt path, the sounds of running water can be
+heard, obviously coming from the Winespring River to the immediate south. 
+Past the buildings here, the treeline is clearly more than four hundred
+paces away, to make sure nobody comes in uninvited.  
+~
+0 0 8
+D1
+~
+~
+0 0 6258
+D3
+~
+~
+0 0 6260
+S
+#6260
+Small Path~
+Standing before the mill, the sounds of wood being cut and sanded can be
+heard clearly.  
+~
+0 0 8
+D0
+~
+~
+0 0 6337
+D1
+~
+~
+0 0 6259
+D3
+~
+~
+0 0 6261
+S
+#6261
+Small Path~
+~
+0 0 8
+D1
+~
+~
+0 0 6260
+D3
+~
+~
+0 0 6262
+S
+#6262
+Small Path~
+~
+0 0 8
+D1
+~
+~
+0 0 6261
+D3
+~
+~
+0 0 6263
+S
+#6263
+Small Path~
+The path here is small and dry and cracked, but there is plenty of
+activity, from people walking to and from shops, to carrying loaves of bread
+to various destinations.  There is a feeling of confidence in almost
+everyone that walks by.  
+~
+0 0 8
+D1
+~
+~
+0 0 6262
+D3
+~
+~
+0 0 6264
+S
+#6264
+Small Path~
+As the path leads to the Blacksmith, the pinging and clanging of hammer
+on anvil fills the air.  There is a sign on the front of the building with a
+large, black, faded horseshoe on it.  The Blacksmith seems to be getting
+quite a bit of business today.  
+~
+0 0 8
+D0
+~
+~
+0 0 6230
+D1
+~
+~
+0 0 6263
+D3
+~
+~
+0 0 6265
+S
+#6265
+Small Path~
+~
+0 524288 8
+D1
+~
+~
+0 0 6264
+D3
+~
+~
+0 0 6266
+S
+#6266
+Small Path~
+~
+0 4 8
+D1
+~
+~
+0 0 6265
+D3
+~
+~
+0 0 6226
+S
+#6267
+Hallway~
+~
+0 0 0
+D0
+~
+~
+1 0 6274
+D1
+~
+~
+0 0 6268
+D5
+~
+~
+0 0 6241
+S
+#6268
+Hallway~
+~
+0 0 0
+D0
+~
+~
+1 0 6273
+D1
+~
+~
+0 0 6269
+D3
+~
+~
+0 0 6267
+S
+#6269
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6270
+D1
+~
+~
+1 0 6276
+D3
+~
+~
+0 0 6268
+S
+#6270
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6271
+D2
+~
+~
+0 0 6269
+D3
+~
+~
+1 0 6275
+S
+#6271
+Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 6270
+D3
+~
+~
+1 0 6272
+D5
+~
+~
+0 0 6246
+S
+#6272
+Inn Room~
+~
+0 0 0
+D1
+~
+~
+1 0 6271
+S
+#6273
+Inn Room~
+~
+0 0 0
+D2
+~
+~
+1 0 6268
+S
+#6274
+Inn Room~
+~
+0 0 0
+D2
+~
+~
+1 0 6267
+S
+#6275
+Inn Room~
+~
+0 0 0
+D1
+~
+~
+1 0 6270
+S
+#6276
+Bran's Home~
+~
+0 0 0
+D2
+~
+~
+0 0 6277
+D3
+~
+~
+1 0 6269
+S
+#6277
+Bran's Home~
+~
+0 0 0
+D0
+~
+~
+0 0 6276
+D3
+~
+~
+0 0 6278
+D5
+~
+~
+1 0 6243
+S
+#6278
+Bran's Home~
+~
+0 0 0
+D1
+~
+~
+0 0 6277
+S
+#6279
+al'Van House~
+A cozy cottage, comfortable in its simplicity.  The room is full of light
+from the windows, and a small fireplace set into the eastern wall.  Next to
+the fireplace, some distance from the warmed bricks, is an entryway into the
+sitting room.  To the south, the solid wooden door keeps out the evening
+chill.  
+~
+0 4 0
+D1
+~
+~
+0 0 6280
+D2
+~
+~
+1 0 6284
+S
+#6280
+Sitting Room~
+~
+0 0 0
+D3
+~
+~
+0 0 6279
+D4
+~
+~
+0 0 6318
+S
+#6281
+Northwest of the Green~
+~
+0 0 0
+D1
+~
+~
+0 0 6282
+S
+#6282
+North of the Green~
+~
+0 0 0
+D1
+~
+~
+0 0 6283
+D3
+~
+~
+0 0 6281
+S
+#6283
+Outside the Fletcher's Shop~
+~
+0 0 0
+D0
+~
+~
+0 0 6284
+D1
+~
+~
+1 0 6224
+D3
+~
+~
+0 0 6282
+S
+#6284
+Outside the al'Van House~
+Neatly tilled pastures surround you in all directions.  The cool breeze
+drifts in from the west through the Westwood Forest and over the Green
+pastures.  You can hear the fait sound of running water off in the distance 
+To the north is a small abode.
+~
+0 0 2
+D0
+~
+~
+1 0 6279
+D1
+~
+~
+0 0 6285
+D2
+~
+~
+0 0 6283
+S
+#6285
+A Gravel Road~
+Neatly tilled pastures surround you in all directions.  The faint sound
+of running water can be heard in the distance.  You can see outlines of
+buildings to the east.  
+~
+0 4 2
+D1
+~
+~
+0 0 6286
+D3
+~
+~
+0 0 6284
+S
+#6286
+A Gravel Road~
+~
+0 4 0
+D0
+~
+~
+0 0 6287
+D2
+~
+~
+0 0 6288
+D3
+~
+~
+0 0 6285
+S
+#6287
+The Baker's Shop~
+~
+0 4 0
+D2
+~
+~
+0 0 6286
+S
+#6288
+The General Store~
+~
+0 4 2
+D0
+~
+~
+0 0 6286
+S
+#6289
+A Junction~
+Neatly tilled pastures surround you in all directions.  The faint sound
+of running water can be heard in the distance.  You can see outlines of
+buildings to the east.  
+~
+0 0 2
+D1
+~
+~
+0 0 6290
+D2
+~
+~
+0 0 6295
+S
+#6290
+The Road through Emond's Field~
+~
+0 0 0
+D2
+~
+~
+0 0 6296
+D3
+~
+~
+0 0 6289
+S
+#6291
+In the Winespring River~
+~
+0 0 6
+D1
+~
+~
+0 0 6346
+S
+#6292
+Aydaer House~
+~
+0 0 0
+D0
+~
+~
+0 0 6293
+D1
+~
+~
+0 0 6214
+S
+#6293
+Sitting Room~
+~
+0 0 0
+D1
+~
+~
+0 0 6294
+D2
+~
+~
+0 0 6292
+D4
+~
+~
+0 0 6317
+S
+#6294
+Bedroom~
+~
+0 4 0
+D3
+~
+~
+0 0 6293
+S
+#6295
+Road through Emond's Field~
+Neatly tilled pastures surround you in all directions.  You hear
+travellers on the Quarry Road south of here.  The sound of running water can
+be heard as well.  There must be a river near by.  
+~
+0 0 2
+D0
+~
+~
+0 0 6289
+D1
+~
+~
+0 0 6296
+S
+#6296
+On the banks of the Winespring~
+The treeline breaks here into a verdent pasture of waving grasses, split
+by the sudden eruption of a running spring of crystal clear water.  The
+water flows up from deep beneath the ground, spouting merrily from between
+two large boulders and flowing east.  The water of the river, over time, has
+worn deeply into the banks, and the vegetation grows thick there.  
+~
+0 0 2
+D0
+~
+~
+0 0 6290
+D1
+~
+~
+0 0 6297
+D2
+~
+~
+0 0 6205
+D3
+~
+~
+0 0 6295
+S
+#6297
+On the banks of the Winespring~
+The vegetation at the rivers edge seems to be lush and full of life. 
+Crystal clear water flows gracefully down river making small ripples in  
+the waters surface. 
+~
+0 0 2
+D0
+~
+~
+0 0 6298
+D3
+~
+~
+0 0 6296
+S
+#6298
+A Small Mere~
+A quiet spot off to the side of the flowing river has made a small mere.
+The pond of standing cool blue water is perfect for swimming or wading.
+Shade trees not to far off for those that wish to stay on land blow in 
+slight breeze.
+~
+0 0 2
+D2
+~
+~
+0 0 6297
+D4
+~
+~
+0 0 6299
+S
+#6299
+A Forgotten Path~
+Stepping out of the mere a small hidden path comes into view. It seems like
+it hasn't been used in years. Lush green grass grows all around the trail.
+Beautiful flowers in all colors are mixed in with the lush green grass giving 
+the place a sense serenity.
+~
+0 1 2
+D0
+~
+~
+0 0 6300
+D5
+~
+~
+0 0 6298
+S
+#6300
+Hopeless Ends~
+The sounds of nature seem to fade, birds can no longer be heard singing,
+nor crickets chriping.  The tree's thickening canopy blocks out the sunlight
+making it appear more like twilight than the middle of the afternoon. 
+Hopelessness seems to fill the air.  
+~
+0 1 2
+D1
+~
+~
+0 0 6301
+D2
+~
+~
+0 0 6299
+S
+#6301
+Deserted Field~
+Life in this field has long been seen, browned grass and waist high weeds
+are everywhere.  Vutures circle overhead, hoping to get an evening meal. 
+Abandoned farming equipment and personal belongings are scattered all
+around.  It looks as if the families that lived here left only with what
+they could carry.  
+~
+0 1 2
+D2
+~
+~
+0 0 6302
+D3
+~
+~
+0 0 6300
+S
+#6302
+Deserted Field~
+Trolloc tracks lead everywhere among the dead grass and weeds.  Abandoned
+farming equipment and personal belongings are scattered all around.  A
+slight breeze beings to pick up, stirring the dust along the fields floor.  
+~
+0 1 2
+D0
+~
+~
+0 0 6301
+D1
+~
+~
+0 0 6303
+S
+#6303
+Castle Road~
+The field ends in a row dead or dying trees.  A small path through the
+forest can be seen under the dead vegetation.  Still no sounds of life can
+be heard.  The path although creepy still looks rather inviting.  
+~
+0 0 3
+D1
+~
+~
+0 0 6307
+D3
+~
+~
+0 0 6302
+S
+#6304
+Loft~
+~
+0 9216 0
+D5
+~
+~
+0 0 6305
+S
+#6305
+Sitting Room~
+~
+0 0 0
+D0
+~
+~
+0 0 6296
+D2
+~
+~
+0 0 6306
+D4
+~
+~
+0 0 6304
+S
+#6306
+Candwin House~
+~
+0 0 0
+D0
+~
+~
+0 0 6305
+S
+#6307
+A Castle Gateway~
+An old iron gateway stands baring the path.  One of the gates doors leans
+slight ajar looking as if the only thing holding it in place is the chain
+that is still tighly secure.  Vines and weeds wind their way around the gate
+showings it age.  
+~
+0 0 3
+D3
+~
+~
+0 0 6303
+D4
+~
+~
+0 0 6308
+S
+#6308
+The Castle~
+An eerie shadow falls over the castle as a cloud conceals the full moon. 
+Moss can be seen growing open north in the walls.  Vines have taken over
+most of the castles exterior masking the crumbling walls from view.  A
+tattered flags still flies on the rusted flag pole, a small part of what
+would seem to be a dragon's head can be seen.  
+~
+0 1 3
+D0
+~
+~
+0 0 6309
+D5
+~
+~
+0 0 6307
+S
+#6309
+Within the Castle~
+Untended wooden furniture lines the inside of the castle's main entry. 
+Dust and cobwebs cover most of what is within the room.  Faded tapestries
+hang on the walls, the scenes depicted in them long lost.  
+~
+0 0 0
+D1
+~
+~
+0 0 6310
+D2
+~
+~
+0 0 6308
+S
+#6310
+Main Entry Way~
+~
+0 1 0
+D3
+~
+~
+0 0 6309
+D4
+~
+~
+0 0 6315
+S
+#6312
+Padwhin House~
+~
+0 0 0
+D2
+~
+~
+0 0 6313
+S
+#6313
+Sitting Room~
+~
+0 0 0
+D0
+~
+~
+0 0 6312
+D1
+~
+~
+1 0 6315
+D4
+~
+~
+1 0 6314
+S
+#6314
+Loft~
+~
+0 9216 0
+D5
+~
+~
+1 0 6313
+S
+#6315
+Grand Staircase~
+~
+0 0 0
+D3
+~
+~
+1 0 6313
+D4
+~
+~
+0 0 6316
+D5
+~
+~
+0 0 6310
+S
+#6316
+Master Floor~
+Not much to be seen here other than a couple stands with empty vases
+covered in a thick layer of dust and cobwebs.  The vases seem to be in good
+condition considering the rest of the castle's appearance.  
+~
+0 0 2
+D1
+~
+~
+0 0 6319
+D3
+~
+~
+0 0 6321
+D5
+~
+~
+0 0 6315
+S
+#6317
+Loft~
+~
+0 0 0
+D5
+~
+~
+0 0 6293
+S
+#6318
+Loft~
+~
+0 9216 0
+D5
+~
+~
+0 0 6280
+S
+#6319
+East Wing~
+Nothing fills this hallway but a bunch of dust and broken furniture. 
+~
+0 4 6
+D1
+~
+~
+0 0 6320
+D3
+~
+~
+0 0 6316
+S
+#6320
+East Wing~
+~
+0 4 6
+D3
+~
+~
+0 0 6319
+S
+#6321
+West Wing~
+Endless rows of doors and tables line the hallway.  Looks as though
+someone has pasted through here, is that a foot print?  
+~
+0 4 6
+D1
+~
+~
+0 0 6316
+D3
+~
+~
+0 0 6322
+S
+#6322
+West Wing~
+More doors and tables line this hallway along with more footprints...
+~
+0 4 6
+D1
+~
+~
+0 0 6321
+S
+#6323
+Below the Wagon's Bridge on the Winespring River~
+~
+0 0 6
+D1
+~
+~
+0 0 6324
+D3
+~
+~
+0 0 6347
+D4
+~
+~
+0 0 6211
+S
+#6324
+In the Winespring River~
+~
+0 0 6
+D1
+~
+~
+0 0 6325
+D3
+~
+~
+0 0 6323
+S
+#6325
+In the Winespring River~
+~
+0 0 6
+D1
+~
+~
+0 0 6326
+D3
+~
+~
+0 0 6324
+S
+#6326
+In the Winespring River~
+~
+0 0 6
+D1
+~
+~
+0 0 6327
+D3
+~
+~
+0 0 6325
+S
+#6327
+In the Winespring River~
+~
+0 0 6
+D1
+~
+~
+0 0 6328
+D3
+~
+~
+0 0 6326
+S
+#6328
+In the Winespring River~
+~
+0 0 6
+D1
+~
+~
+0 0 6329
+D3
+~
+~
+0 0 6327
+S
+#6329
+In the Winespring River~
+~
+0 0 6
+D1
+~
+~
+0 0 6330
+D3
+~
+~
+0 0 6328
+S
+#6330
+In the Winespring River~
+The clear winespring water flows away to the east, while upstream to the
+west lies the center of the village of Emond's Field.  Here, the shadow of a
+small footbridge lies over the tumbled rocks in the water, a narrow track to
+the side offering a way up the steep embankment.  
+~
+0 0 6
+D1
+~
+~
+0 0 6331
+D3
+~
+~
+0 0 6329
+D4
+~
+~
+0 0 6257
+S
+#6331
+The Winespring into the Waterwood~
+The smooth flow of the river continues east, though its way weaves
+slightly to the north between uneven banks.  Tall trees lean over the water,
+dropping leaves to swirl in the eddies.  
+~
+0 0 6
+D0
+~
+~
+0 0 6332
+D3
+~
+~
+0 0 6330
+S
+#6332
+The Winespring into the Waterwood~
+The clear water of the River continues to rush to the east, though it
+appears to become more and more shallow as it travels.  The river's banks
+become less steep, and the vegetation to either side becomes noticeably
+different.  
+~
+0 0 6
+D1
+~
+~
+0 0 6333
+D2
+~
+~
+0 0 6331
+S
+#6333
+A Branch of the Winespring~
+The slowing waters of the Winespring branch off to the north, south, and
+continue east, funneling into smaller and smaller streams and pools.  In the
+distance to the east and south, the stench of the Mire rises on the wind.  
+~
+0 0 6
+D2
+~
+~
+0 0 6334
+D3
+~
+~
+0 0 6332
+S
+#6334
+The Mire~
+The surrounding water becomes shallow here, draining into an expanse of
+marsh stretching out as far as the eye can see.  The stench of rotting
+vegetation permeates the air, and small clouds of buzzing insects float on
+the light breeze.  
+~
+0 0 6
+D0
+~
+~
+0 0 6333
+S
+#6335
+Winespring Inn Kitchen~
+~
+0 0 0
+D3
+~
+~
+1 0 6243
+S
+#6336
+Mill~
+~
+0 0 0
+D1
+~
+~
+0 0 6337
+S
+#6337
+Mill~
+~
+0 0 0
+D0
+~
+~
+1 0 6338
+D2
+~
+~
+0 0 6260
+D3
+~
+~
+0 0 6336
+S
+#6338
+Thane House~
+~
+0 0 0
+D2
+~
+~
+1 0 6337
+D3
+~
+~
+0 0 6340
+D4
+~
+~
+0 0 6339
+S
+#6339
+Loft~
+~
+0 9216 0
+D5
+~
+~
+0 0 6338
+S
+#6340
+Kitchen~
+~
+0 0 0
+D1
+~
+~
+0 0 6338
+S
+#6341
+Path to the Stable~
+~
+0 0 8
+D0
+~
+~
+0 0 6228
+D2
+~
+~
+0 0 6342
+S
+#6342
+Stable Doors~
+~
+0 0 0
+D0
+~
+~
+0 0 6341
+D2
+~
+~
+0 0 6343
+S
+#6343
+Stables~
+~
+0 0 0
+D0
+~
+~
+0 0 6342
+D1
+~
+~
+1 0 6345
+D3
+~
+~
+1 0 6344
+S
+#6344
+Stall~
+~
+0 0 0
+D1
+~
+~
+1 0 6343
+S
+#6345
+Stall~
+~
+0 0 0
+D3
+~
+~
+1 0 6343
+S
+#6346
+In the Winespring River~
+~
+0 0 6
+D1
+~
+~
+0 0 6347
+D3
+~
+~
+0 0 6291
+S
+#6347
+In the Winespring River~
+~
+0 0 6
+D1
+~
+~
+0 0 6323
+D3
+~
+~
+0 0 6346
+S
+#6348
+~
+~
+0 0 0
+D4
+~
+~
+0 0 6349
+D5
+~
+~
+0 0 6247
+S
+#6349
+~
+~
+0 0 0
+D5
+~
+~
+0 0 6348
+S
+#6399
+Guide Outfitting Room~
+~
+0 138413060 0
+S
+#0
+
+
+
+#SPECIALS
+M 6299 spec_fido
+S
+
+
+
+#RESETS
+D 0 6224 3 1
+D 0 6230 0 1
+D 0 6231 2 1
+D 0 6237 3 1
+D 0 6239 1 1
+D 0 6243 1 1
+D 0 6243 4 1
+D 0 6267 0 1
+D 0 6268 0 1
+D 0 6269 1 1
+D 0 6270 3 1
+D 0 6271 3 1
+D 0 6272 1 1
+D 0 6273 2 1
+D 0 6274 2 1
+D 0 6275 1 1
+D 0 6276 3 1
+D 0 6277 5 1
+D 0 6279 2 1
+D 0 6283 1 1
+D 0 6284 0 1
+D 0 6313 1 1
+D 0 6313 4 1
+D 0 6314 5 1
+D 0 6315 3 1
+D 0 6335 3 1
+D 0 6337 0 1
+D 0 6338 2 1
+D 0 6343 1 1
+D 0 6343 3 1
+D 0 6344 1 1
+D 0 6345 3 1
+M 0 6231 2 6210 1 100 Load travelling gleeman
+E 0 6210 0 17 0 100 Rusty dagger is loaded wielded of travelling gleeman
+M 0 6200 5 6214 1 100 Load good wife
+M 0 6200 5 6216 1 100 Load good wife
+M 0 6219 1 6222 1 100 Load Alwyn al'Van
+M 0 6220 1 6223 1 100 Load Eward Candwin
+M 0 6221 1 6224 1 100 Load Buel Dowtry
+E 0 6210 0 17 0 100 Rusty dagger is loaded wielded of Buel Dowtry
+M 0 6222 1 6227 1 100 Load Tuck Padwhin
+O 0 6299 0 6229 0 100 Fresh water spring loaded to Small Path
+M 0 6216 1 6230 1 100 Load Haral Luhhan
+O 0 6223 0 6231 0 100 The bed loaded to Private Quarters
+O 0 6220 0 6238 0 100 A wooden table loaded to Winespring Inn
+O 0 6220 0 6240 0 100 A wooden table loaded to Winespring Inn
+M 0 6214 1 6242 1 100 Load Samel Crawe
+M 0 6215 1 6242 1 100 Load Rowan Hurn
+O 0 6221 0 6242 0 100 The bar loaded to Winespring Inn
+O 0 6221 0 6243 0 100 The bar loaded to Winespring Inn
+M 0 6224 1 6243 1 100 Load Bran al'Vere
+G 0 6224 0 0 0 100 Mug of ale is given to Bran al'Vere
+O 0 6221 0 6244 0 100 The bar loaded to Winespring Inn
+O 0 6222 0 6247 0 100 The sign loaded to The Archers' Inn
+M 0 6213 1 6248 1 100 Load Alsbet Luhhan
+O 0 6223 0 6249 0 100 The bed loaded to The Loft
+M 0 6212 1 6251 1 100 Load Daise Congar
+M 0 6231 2 6252 1 100 Load travelling gleeman
+M 0 6299 5 6254 1 100 Load large dog
+M 0 6299 5 6256 1 100 Load large dog
+M 0 6200 5 6257 1 100 Load good wife
+M 0 6299 5 6259 1 100 Load large dog
+M 0 6200 5 6261 1 100 Load good wife
+M 0 6299 5 6262 1 100 Load large dog
+M 0 6200 5 6265 1 100 Load good wife
+M 0 6299 5 6266 1 100 Load large dog
+M 0 6232 5 6282 1 100 Load local farmer
+M 0 6232 5 6290 1 100 Load local farmer
+M 0 6230 1 6291 1 100 Load Jared Aydaer
+M 0 6232 5 6295 1 100 Load local farmer
+O 0 6223 0 6304 0 100 The bed loaded to Loft
+M 0 6228 1 6305 1 100 Load Ailys Candwin
+O 0 6223 0 6314 0 100 The bed loaded to Loft
+O 0 6223 0 6318 0 100 The bed loaded to Loft
+M 0 6211 1 6335 1 100 Load Marin al'Vere
+M 0 6217 1 6337 1 100 Load Jon Thane
+O 0 6223 0 6339 0 100 The bed loaded to Loft
+M 0 6226 1 6342 1 100 Load Hu
+M 0 6341 10 6343 2 100 Load A rat
+M 0 6225 1 6344 1 100 Load Tad
+M 0 6341 30 6344 5 100 Load A rat
+M 0 6341 10 6345 3 100 Load A rat
+M 0 6227 2 6345 2 100 Load A Horse
+M 0 6201 1 6399 1 100 Load The doll
+E 0 5434 0 0 0 100 `$a `#gl`&o`#w `4o`$f sa`4fe p`$ass`4age`*   is loaded as a light of The doll
+E 0 5436 0 13 0 100 `4a s`$as`4h of `&b`*r`8a`!i`8d`*e`&d `$li`4ne`$n`* is loaded around the waist of The doll
+E 0 5435 0 8 0 100 `4com`$fo`4rtab`$le `3le`&ath`3er `4sa`$nd`4als`* is loaded on the feet of The doll
+E 0 6201 0 17 0 100 `#g`3u`&i`3d`#e`4 w`$0`4o`$p`&-`1a`!ss`4 s`$t`4i`$c`4k`n is loaded wielded of The doll
+E 0 6202 0 20 0 100 `&(`#sh`3imm`*eri`8ng`&) `4pr`$o`4tec`$ti`4ve `6a`^ur`6a `$o`4f `#com`3m`#on `3s`#en`3se`* is loaded floating nearby of The doll
+E 0 6203 0 14 0 100 `3g`#u`&i`#d`3e`8 j`1a`8i`1l`4 k`$e`6y`^s`n is loaded on belt of The doll
+E 0 6204 0 19 0 100 `1a`!ll`6 k`^n`6o`^w`6i`^n`6g`4 b`$oo`4k`1 o`!f`& r`8u`&l`8e`&s`n is loaded held in the hands of The doll
+E 0 6200 0 5 0 100 `4t`$h`4e `$fl`4owi`$ng `&wh`8i`&te `4ro`$be`4s of a `#g`&ui`#de`* is loaded on the body of The doll
+S
+
+
+
+#SHOPS
+6216 0 9 5 0 0 50 25 9 17
+6219 0 0 0 0 0 50 25 9 17
+6220 0 0 0 0 0 50 25 9 17
+6221 0 5 43 44 0 50 25 9 17
+6222 0 35 12 0 0 50 25 9 17
+6223 0 12 35 0 0 50 25 9 17
+0
+
+
+
+#MOBPROGS
+#6200
+emote lifts their voice to the heavens in song!
+emote sings, '`%Yodelayyy!!`*'
+emote loudly clears their voice.
+emote sings, '`%Yodelayyy heeee hoooo!!`*'
+mob recho You are blown away by the beauty of the sound!
+~
+#6224
+if isgood $n
+say What can I get for you today?
+break
+else
+if isneutral $n
+say What can I get for you today?
+break
+else
+if isevil $n
+say We don't serve your kind here, $n.
+say Now get out!
+mob transfer $n 6236
+yell And stay out!
+break
+endif
+~
+#6225
+if carries $n 'mug ale'
+  say Try finishing up the one you have!
+else
+  say Coming right up.
+  give mug $n
+mob oload 6224
+break
+~
+#6226
+say I'm sorry, but we're all out of that.
+say How about an ale?
+
+~
+#6231
+say Hey, there traveller, I'm just passing through.
+say Well, I'll be around the Winespring Inn for a while.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

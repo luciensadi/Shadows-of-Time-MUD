@@ -1,0 +1,832 @@
+#AREADATA
+Name Dismal Area~
+Builders Dismal~
+VNUMs 16705 16805
+Credits Dismal - Area in Progress~
+Security 10
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#16705
+desert stone~
+A desert stone~
+A worn desert stone lies here amongst the sand.
+~
+The stone is worn and smooth on its surface. Its impossible to tell how deep this stone goes.
+~
+unique~
+0 0
+AGZae 1104 1024 0 0 -1  0 0
+150 150 1000d1+0 1000d1+0 100d1+100 divine
+0 0 0 0
+0 ABCD 0 0
+stand stand none 0
+E 0 large unknown
+#16706
+desert harbinger~
+A desert harbinger~
+A large desert reptile is here, claws and spines poised to strike.
+~
+Resembling dragons from fairy tales, the desert harbinger's emmense
+body is covered with scales that seem has tough as diamonds. Its claws
+and teeth glisten like they've been polished every day of the beast's
+life. The ball of bone that makes up the tip of its tail is clearly for
+stunning its victims before it completes the kill.
+~
+lizard~
+0 0
+AFGS 1088 1024 0 0 -1  -1000 0
+100 150 1d2000+4000 100d1+0 100d2+75 claw
+-20 -20 -20 -20
+MN 0 L I
+stand stand either 0
+AGXc ACDEFHKQV large unknown
+M GRALL 16705 20~
+#16707
+superior sand scorpion~
+A superior sand scorpion~
+A large scorpion glares at you, pincers snapping.
+~
+A large scorpion, its color blends it perfectly with the surrounding
+area. Its camoflauge is so perfect, in fact, it can only be seen with
+anything resembling clarity when its moving. Its claws appear to have
+the power to crush a boulder with ease, and its tail can strike with a
+deadly speed and accuracy.
+~
+centipede~
+0 0
+ACFGHS 0 2 0 0 -1  -500 0
+120 200 1d1000+3000 100d1+0 200d2+50 crush
+-15 -15 -15 -15
+O ABLQ FI E
+stand stand either 0
+ABGO ACKQU medium unknown
+M FIGHT 16706 30~
+#16708
+inferior sand scorpion~
+An inferior sand scorpion~
+A sand scorpion poises its stinger in preparation.
+~
+Large for a scorpion, its camoflauge is nearly perfect in hiding it from view.
+Its left pincer is larger than its right one, meaning it probably uses one to
+holds its prey while the smaller claw tears them apart.
+~
+centipede~
+0 0
+ACGHS 0 2 0 0 -1  -500 0
+90 150 1d1000+3000 100d1+0 150d2+50 pound
+-10 -10 -10 -10
+OR ABLQ FI E
+stand stand either 0
+ABGO ACKQU medium unknown
+M FIGHT 16706 20~
+#16709
+superior sand scorpion~
+A superior sand scorpion~
+A large scorpion glares at you, pincers snapping.
+~
+A large scorpion, its color blends it perfectly with the surrounding
+area. Its camoflauge is so perfect, in fact, it can only be seen with
+anything resembling clarity when its moving. Its claws appear to have
+the power to crush a boulder with ease, and its tail can strike with a
+deadly speed and accuracy.
+~
+centipede~
+0 0
+ACFGS 0 2 0 0 -1  -500 0
+150 200 1d1000+4000 100d1+0 250d2+50 crush
+-20 -20 -20 -20
+O ABLQ FI E
+stand stand either 0
+ABGO ACKQU medium unknown
+M FIGHT 16706 35~
+#16710
+desert ironback tortoise~
+A desert ironback tortoise~
+An old desert tortoise is tromps along at its own slow pace.
+~
+~
+lizard~
+0 0
+AGSe 64 9216 0 4096 -1  -250 0
+125 175 1d2000+5000 100d1+0 100d2+25 charge
+-30 -30 -30 -30
+0 AB CLQ I
+stand stand either 0
+AGXc ACDEFHKQV large unknown
+#16711
+blood stalker~
+The blood stalker~
+Slipping in and out of the darkness, a stalker presses its advantage.
+~
+~
+dragon~
+0 0
+ACFST 64 1026 0 4096 -1  -500 0
+170 200 8000d1+0 0d0+0 250d2+50 none
+-20 -20 -20 -20
+B AB EHQ K
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX large unknown
+F res B
+F vul FI
+#0
+
+
+
+#OBJECTS
+#16705
+sand~
+a patch of sand~
+`7~
+sand~
+furniture OT 0
+0
+CFG DHIJM EHK BD BD
+150 0 0 P
+ T 0 none~
+#16706
+scorpion stinger~
+the Scorpion's Stinger~
+The stinger of a large desert scorpion is here.~
+stinger~
+weapon S AN
+0
+sword 35 1 sting DH
+54 80 0 P
+A
+19 6
+A
+18 6
+A
+20 -3
+ T 0 none~
+#16707
+stone metal chair~
+a hard, copper colored chair~
+Several dozen seats made of the same materials as the rest of this place are here.~
+stone metal~
+furniture T 0
+0
+CD DHIJM E 0 0
+150 0 0 P
+ T 0 none~
+#16708
+glass screen~
+the glass~
+`7~
+unknown~
+window T 0
+0
+ADFGIO 0 A 0 0
+150 0 0 P
+ T 0 none~
+#16805
+Book of Dismal~
+book of Dismal~
+This is the Book of Dismal~
+unknown~
+trash 0 AO
+0
+0 0 0 0 0
+0 0 0 P
+O ACT 16805 nod~
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#16705
+The entrance to an Ancient Tower~
+The desert sand covers the floor, dulling the metallic echo that the walls
+produce in response to footsteps. Its nearly impossible to distinguish between
+the sand and the metal, the two colors have blended together almost perfectly
+over the years. Despite the affects of the sound, however, footsteps can still
+be heard somewhere inside...
+~
+0 138944525 0
+E
+wall~
+The wall is made of a very strong, though very old, type of metal. It seems
+to have more in common with stone than metal, and only the faint ring when its
+struck gives any sign of its metallic truth.
+~
+D0
+~
+~
+0 0 16732
+D1
+~
+~
+0 0 16706
+D2
+~
+rock~
+3 0 16745
+M 0 H 0
+S
+#16706
+The Southern Corner of an Ancient Tower~
+The sand thins mildly deeper into the tower, though it doesn't help
+the aged appearance of the walls. Echos of footsteps ring louder here
+than before, indicating that the sand doesn't proceed very deeply into
+the area.
+~
+0 138944521 0
+E
+wall~
+The wall is made of a very strong, though very old, type of metal. It seems
+to have more in common with stone than metal, and only the faint ring when its
+struck gives any sign of its metallic truth.
+~
+D0
+~
+~
+0 0 16707
+D3
+~
+~
+0 0 16705
+S
+#16707
+Beside the Inner Southern Wall~
+The wall to the north is brighter and apparently in better shape than
+the walls that formed the area's outer walls. The sand stops near the
+northern wall, and along the bottom a series of holes are carved into
+the wall, too deep to see into.
+~
+0 138944521 0
+E
+wall~
+The walls here are made of a strong, ancient form of metal. It appears
+to have more in common with stone than metal, though only a faint ring
+when its struck gives any clue that its a metal.
+~
+D1
+~
+~
+0 0 16708
+D2
+~
+~
+0 0 16706
+D3
+~
+~
+0 0 16732
+S
+#16708
+The Southeastern Corner of an Ancient Tower~
+Farther from the door, the sand has thinned out greatly, and in a few
+spots on the floor, the metallic surface can be seen. The wall's color
+now seems a bit less dull than the sand, though its still difficult
+to tell where one stops and the other begins. Markings in the sand and
+other more obvious marks seem to suggest that this place isn't entirely
+uninhabited. Life survives.
+~
+0 138944521 0
+E
+wall~
+The walls here are made of a strong, ancient form of metal. It appears
+to have more in common with stone than metal, though only a faint ring
+when its struck gives any clue that its a metal.
+~
+D0
+~
+~
+0 0 16709
+D3
+~
+~
+0 0 16707
+S
+#16709
+Beside the Inner Southeastern Wall~
+The sand has all but vanished now, and the condition of the walls seem
+to have improved a little. The holes along the bottom of the walls are
+also in better condition here, and the oval shape is much easier to make
+out. Also, a faint sound can be heard from the holes, though nothing still
+can be seen inside of them.
+~
+0 138944521 0
+E
+wall~
+The walls here are made of a strong, ancient form of metal. It appears
+to have more in common with stone than metal, though only a faint ring
+when its struck gives any clue that its a metal.
+~
+D1
+~
+~
+0 0 16710
+D2
+~
+~
+0 0 16708
+S
+#16710
+The Eastsouthern Corner of an Ancient Tower~
+The sand is now all gone, and the wall's desert yellow color has given
+way to something more resembling copper than anything. Or maybe the wall
+has always been this color, and the sand matched the walls. The walls
+from the entrance and the further walls seem to be closest to one another
+here, though that doesn't seem to change anything. The holes on in inner
+wall continue here shortly, but stop suddenly without any visible reason.
+~
+0 138944521 0
+E
+wall~
+The walls here are made of a strong, ancient form of metal. It appears
+to have more in common with stone than metal, though only a faint ring
+when its struck gives any clues that its a metal.
+~
+D0
+~
+~
+0 0 16711
+D3
+~
+~
+0 0 16709
+S
+#16711
+Beside the Inner Eastern Wall~
+The walls here are now decorated with an odd assortment of small pieces of metal
+of assorted colors and shapes. Some can be pressed and caused to move, while most
+are stuck firmly in their positions. Several squares of glass are also located on
+the wall, but they are all black and nothing can be seen or mirrored in them.
+~
+0 138944521 0
+E
+wall~
+The walls here are of the same metal the rest of the area seems to be made of.
+Many metal shapes are on the wall in different colors and sizes, as well as pieces
+of glass in fairly regular shapes.
+~
+E
+glass~
+They are small, barely a hand across, and very dark. However, nothing seems to
+so much as cause a scratch in them.
+~
+D0
+~
+~
+0 0 16714
+D1
+~
+~
+0 0 16712
+D2
+~
+~
+0 0 16710
+S
+#16712
+The Eastern Corner of an Ancient Tower~
+The floor and walls are difficult to make out where one begins and one ends
+here because of the color of the area. The only color breaks, it seems, are
+by the scorpions and other roving beasts that have made their home within the
+tower. The dull echos of their movements are enough to remind anything just how
+not dead this place truly is.
+~
+0 0 0
+E
+wall~
+The walls here are made of a strong, ancient form of metal. It appears
+to have more in common with stone than metal, though only a faint ring
+when its struck gives any clues that its a metal.
+~
+D0
+~
+~
+0 0 16713
+D3
+~
+~
+0 0 16711
+S
+#16713
+An Eastern Corner of an Ancient Tower~
+The scenery of coppers walls and floor is broken up by what almost appears to
+be a collection of chairs made of the same materials as the floor and walls.
+Hardly comfortable, they seem to be the first clue of intelligent life that may
+have once dwelled in these now desolate halls of metal and sand.
+~
+0 138944521 0
+E
+wall~
+The walls here ae made of a strong, ancient form of metal. It appears
+to have more in common with stone than metal, though only a faint ring
+when its struck gives any clues that its a metal.
+~
+E
+chair~
+Rows of chairs, worn and uncomfortable.
+~
+D2
+~
+~
+0 0 16712
+D3
+~
+~
+0 0 16714
+S
+#16714
+Next to the Inner Eastern Wall~
+The decorations of metal and glass continue here, though something is different
+here. While before all of the glass was black, on this wall a solitary piece
+of glass seems to reveal something. Its not a reflection of what is before it,
+but it doesn't appear to be a simple piece of glass. In this towering rock of
+metal and secrets, the glass seems to fit right in.
+~
+0 138944521 0
+E
+wall~
+The walls here are of the same metal the rest of the area seems to be made of.
+Many metal shapes are on the wall in different colors and sizes, as well as pieces
+of glass in fairly regular shapes. One of them seems to reflect something strange.
+~
+E
+glass~
+If you look into it, perhaps you can see the object more clearly.
+~
+D0
+~
+~
+0 0 16715
+D1
+~
+~
+0 0 16713
+D2
+~
+~
+0 0 16711
+S
+#16715
+The Eastnorthern Corner of an Ancient Tower~
+~
+0 0 0
+D2
+~
+~
+0 0 16714
+D3
+~
+~
+0 0 16716
+S
+#16716
+Beside the Inner Northeastern Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 16717
+D1
+~
+~
+0 0 16715
+S
+#16717
+The Northeastern Corner of an Ancient Tower~
+~
+0 0 0
+D2
+~
+~
+0 0 16716
+D3
+~
+~
+0 0 16718
+S
+#16718
+Beside the Inner Eastern Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 16719
+D1
+~
+~
+0 0 16717
+D2
+~
+wall~
+3 0 16733
+D3
+~
+~
+0 0 16721
+S
+#16719
+The Northern Corner of an Ancient Tower~
+~
+0 0 0
+D2
+~
+~
+0 0 16718
+D3
+~
+~
+0 0 16720
+S
+#16720
+A Northern Corner of an Ancient Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 16719
+D2
+~
+~
+0 0 16721
+S
+#16721
+Next to the Inner Eastern Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 16720
+D1
+~
+~
+0 0 16718
+D3
+~
+~
+0 0 16722
+S
+#16722
+The Northwestern Corner of an Ancient Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 16721
+D2
+~
+~
+0 0 16723
+S
+#16723
+Beside the Inner Northwestern Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 16722
+D3
+~
+~
+0 0 16724
+S
+#16724
+The Westnorthern Corner of an Ancient Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 16723
+D2
+~
+~
+0 0 16725
+S
+#16725
+Next to the Inner Western Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 16724
+D2
+~
+~
+0 0 16728
+D3
+~
+~
+0 0 16726
+S
+#16726
+The Western Corner of an Ancient Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 16725
+D2
+~
+~
+0 0 16727
+S
+#16727
+A Western Corner of an Ancient Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 16726
+D1
+~
+~
+0 0 16728
+S
+#16728
+Beside the Inner Western Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 16725
+D2
+~
+~
+0 0 16729
+D3
+~
+~
+0 0 16727
+S
+#16729
+The Westsouthern Corner of an Ancient Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 16728
+D1
+~
+~
+0 0 16730
+S
+#16730
+Beside the Inner Southwestern Wall~
+~
+0 0 0
+D2
+~
+~
+0 0 16731
+D3
+~
+~
+0 0 16729
+S
+#16731
+The Southwestern Corner of an Ancient Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 16730
+D1
+~
+~
+0 0 16732
+S
+#16732
+Next to the Inner Southern Wall~
+~
+0 0 0
+D1
+~
+~
+0 0 16707
+D2
+~
+~
+0 0 16705
+D3
+~
+~
+0 0 16731
+S
+#16733
+~
+~
+0 0 0
+D0
+~
+~
+3 0 16718
+S
+#16745
+A crack in the rocks.~
+The beast of sand and heat seems to have a reprieve in the form of a huge shaded rock. The sand
+here is soft and cool, and like a comfortable bed when compared to the dry, rugged mounds of sand
+that make up the rest of the desert beyond this small spot of shade. The rock that makes up this
+patch of shade enormous, and no rational thought can explain why its impossible to see from any
+further out than a hundred yards. Perhaps... its a mirage?
+~
+0 67109892 10
+E
+rock~
+Though it seemed to be a solid rock a moment ago, you can make out lines that
+indicate there might be a door here...
+~
+D0
+~
+rock~
+3 0 16705
+R RANDOM 16705 20~
+S
+#0
+
+
+
+#SPECIALS
+M 16706 spec_poison
+S
+
+
+
+#RESETS
+D 0 16705 2 1
+D 0 16718 2 1
+D 0 16733 0 1
+D 0 16745 0 1
+M 0 16706 2 16708 1 100 Load A desert harbinger
+M 0 16708 2 16708 1 100 Load An inferior sand scorpion
+M 0 16706 2 16709 1 100 Load A desert harbinger
+M 0 16706 2 16709 1 100 Load A desert harbinger
+M 0 16707 2 16710 1 100 Load A superior sand scorpion
+M 0 16706 2 16710 1 100 Load A desert harbinger
+M 0 16707 1 16711 1 100 Load A superior sand scorpion
+M 0 16708 2 16712 1 100 Load An inferior sand scorpion
+O 0 16707 0 16713 0 100 A hard, copper colored chair loaded to An Eastern Corner of an Ancient Tower
+O 0 16708 0 16714 0 100 The glass loaded to Next to the Inner Eastern Wall
+M 0 16710 2 16715 1 100 Load A desert ironback tortoise
+M 0 16708 2 16715 1 100 Load An inferior sand scorpion
+M 0 16710 2 16716 1 100 Load A desert ironback tortoise
+M 0 16707 2 16716 1 100 Load A superior sand scorpion
+M 0 16706 2 16717 1 100 Load A desert harbinger
+M 0 16708 2 16717 1 100 Load An inferior sand scorpion
+M 0 16709 1 16718 1 100 Load A superior sand scorpion
+G 0 16706 0 0 0 100 The scorpion's stinger is given to A superior sand scorpion
+O 0 16705 0 16745 0 100 A patch of sand loaded to A crack in the rocks.
+M 0 16705 1 16745 1 100 Load A desert stone
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#16705
+mob echo The desert harbinger hisses viciously.
+~
+#16706
+mob echo With lightning speed, the tail of $I strikes!
+mob echoat $n The stinger stabs into your side, and you can feel its stabbing weaken you.
+mob damage $n 200 400
+~
+#0
+
+#OBJPROGS
+#16705
+~
+#16805
+obj force schala dance
+obj force valika sing
+obj force allen wiggle
+obj force allen trust dismal 80
+obj force solice giggle
+~
+#0
+
+#ROOMPROGS
+#16705
+room echo A desert gust blows through, riling the sands before passing by.
+~
+#0
+
+#$

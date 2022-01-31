@@ -1,0 +1,130 @@
+CC      = gcc
+CPP     = g++
+PROF    = -O -g -ggdb
+NOCRYPT =
+C_FLAGS =  -Wall $(PROF) $(NOCRYPT) -D__USE_UNIX98 -DMCCP -DDNS_SLAVE
+CXX_FLAGS =  -Wall $(PROF) $(NOCRYPT) -D__USE_UNIX98 -DMCCP -DDNS_SLAVE
+L_FLAGS =  $(PROF) -pthread -lz -L/usr/lib/mysql
+LIBS	= -lcrypt -lmysqlclient
+
+O_FILES = act_comm.o act_enter.o act_info.o act_move.o act_obj.o act_skills.o act_wiz.o \
+          alias.o ban.o comm.o const.o db.o db2.o effects.o fight.o \
+	  handler.o healer.o interp.o lookup.o magic.o magic2.o \
+	  music.o recycle.o save.o skills.o special.o tables.o \
+ 	  update.o mob_cmds.o mob_prog.o olc.o olc_act.o olc_save.o bit.o \
+	  mem.o string.o olc_mpcode.o hedit.o guild_skills.o quest.o\
+	  bank.o pipe.o note.o auction.o rdns_cache.o mkwSys.o\
+          roleprize.o hunt.o fight_bow.o bitsys.o bomb.o herb.o\
+	  web.o ispell.o tournament.o stores.o mccp.o mount.o\
+	  riddles.o disguise.o mapmaker.o roster.o dice.o\
+	  system.o account.o help.o mysql.o quest2.o
+ 
+sot: $(O_FILES)
+	rm -f sot
+	$(CPP) $(L_FLAGS) -o sot $(O_FILES) $(LIBS)
+
+ccmalloc: $(O_FILES)
+	rm -f sot
+	/home/shadows/ccmalloc/bin/ccmalloc $(CPP) $(L_FLAGS) -o sot $(O_FILES) $(LIBS)
+
+dns: dns_slave.o
+	rm -f dns_slave
+	$(CC) $(D_FLAGS) -o dns_slave dns_slave.o
+	chmod g+w dns_slave
+	chmod a+x dns_slave
+	chmod g+w dns_slave.o
+
+clean: $(O_FILES)
+	rm -f *.o
+
+.c.o: merc.h Makefile
+	$(CC) -c $(C_FLAGS) $<
+
+.cpp.o: merc.h Makefile
+	$(CPP) -c $(CXX_FLAGS) $<
+
+# DO NOT DELETE
+
+account.o: merc.h recycle.h telnet.h account.h interp.h
+act_comm.o: merc.h interp.h recycle.h tables.h lookup.h account.h
+act_enter.o: merc.h interp.h
+act_info.o: merc.h interp.h magic.h recycle.h tables.h lookup.h
+act_info.o: tournament.h olc.h web.h
+act_move.o: merc.h interp.h tables.h lookup.h
+act_note.o: merc.h act_note.h
+act_obj.o: merc.h  interp.h tables.h bomb.h lookup.h
+act_skills.o: merc.h  interp.h tables.h bomb.h
+act_wiz.o: merc.h  interp.h recycle.h tables.h lookup.h db.h magic.h
+act_wiz.o: rdns_cache.h telnet.h dns_slave.h stores.h
+alias.o: merc.h 
+arena.o: merc.h 
+asciimap.o: merc.h  olc.h
+auction.o: merc.h  tables.h lookup.h
+ban.o: merc.h  recycle.h
+bank.o: merc.h  magic.h
+bit.o: merc.h  tables.h lookup.h
+bitsys.o: merc.h  tables.h lookup.h olc.h
+bomb.o: merc.h  bomb.h tables.h
+comm.o: merc.h  interp.h recycle.h tables.h olc.h telnet.h mccp.h
+comm.o: riddles.h tournament.h lookup.h account.h
+const.o: merc.h  magic.h interp.h bomb.h
+db.o: merc.h  db.h recycle.h music.h tables.h lookup.h olc.h web.h
+db2.o: merc.h  db.h tables.h lookup.h
+dice.o: merc.h  dice.h
+disguise.o: merc.h 
+effects.o: merc.h  recycle.h
+fight.o: merc.h  interp.h tables.h recycle.h lookup.h
+fight_bow.o: merc.h 
+flags.o: merc.h  tables.h
+guild_skills.o: merc.h  interp.h recycle.h tables.h lookup.h
+guild_skills.o: tournament.h
+handler.o: merc.h  interp.h magic.h recycle.h tables.h lookup.h
+healer.o: merc.h  magic.h tables.h
+hedit.o: merc.h  tables.h olc.h lookup.h recycle.h
+herb.o: merc.h  interp.h recycle.h tables.h lookup.h
+hunt.o: merc.h  interp.h recycle.h tables.h
+interp.o: merc.h  interp.h
+ispell.o: merc.h  recycle.h
+kyt.o: merc.h  kyt.h tables.h lookup.h
+lookup.o: merc.h  tables.h
+magic.o: merc.h  interp.h magic.h recycle.h tables.h
+magic2.o: merc.h  interp.h magic.h
+mapmaker.o: merc.h  tables.h olc.h mapmaker.h
+mark.o: merc.h  recycle.h tables.h olc.h mark.h lookup.h
+mccp.o: merc.h  telnet.h
+mem.o: merc.h 
+mkwSys.o: merc.h  db.h
+mnote.o: merc.h  recycle.h tables.h web.h lookup.h
+mnote.o: mysql.h
+mob_cmds.o: merc.h  mob_cmds.h
+mob_prog.o: merc.h  tables.h lookup.h recycle.h
+mount.o: merc.h 
+music.o: merc.h  music.h recycle.h
+note.o: merc.h  recycle.h tables.h web.h lookup.h
+note.o: mysql.h
+olc.o: merc.h  tables.h olc.h recycle.h
+olc_act.o: merc.h  tables.h olc.h recycle.h lookup.h web.h
+olc_mpcode.o: merc.h  tables.h olc.h recycle.h
+olc_save.o: merc.h  tables.h olc.h
+pipe.o: merc.h 
+quest.o: merc.h  tables.h quest.h
+rdns_cache.o: rdns_cache.h
+recycle.o: merc.h  recycle.h
+rent.o: merc.h  recycle.h
+riddles.o: merc.h  recycle.h tables.h olc.h riddles.h
+roleprize.o: merc.h  tables.h
+roster.o: merc.h  interp.h recycle.h tables.h lookup.h
+save.o: merc.h  recycle.h tables.h lookup.h
+scan.o: merc.h 
+skedit.o: include.h merc.h  tables.h magic.h lookup.h olc.h recycle.h
+skills.o: merc.h  interp.h magic.h recycle.h
+social-edit.o: merc.h  db.h interp.h
+special.o: merc.h  interp.h magic.h bomb.h
+stores.o: merc.h  recycle.h tables.h olc.h stores.h lookup.h
+string.o: merc.h  tables.h olc.h
+system.o: merc.h  recycle.h
+tables.o: merc.h  tables.h magic.h
+tournament.o: merc.h  lookup.h tournament.h
+update.o: merc.h  interp.h music.h tables.h lookup.h recycle.h magic.h
+web.o: merc.h  tables.h olc.h lookup.h web.h
+quest2.o: quest2.h merc.h

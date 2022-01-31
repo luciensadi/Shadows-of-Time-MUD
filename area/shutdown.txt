@@ -1,0 +1,1782 @@
+[ 3700] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 3054] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 3700] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 6400] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 8199] Cammaedros: Alignment: -1000.  
+[ 1212] Cammaedros: `*You are standing on an immense, grey stone floor that stretches as far as you
+
+can see in all directions.  Rough winds plunging from the dark, starless sky
+
+tear savagely at your fragile body.
+
+[ 3700] Cammaedros: `*This is the entrance to the Merc Mud School.  Go north to go through mud
+
+school.  If you have been here before and want to go directly to the arena,
+
+go south.
+
+
+A sign warns 'You may not pass these doors once you have passed level 5.'
+
+[ 3054] Cammaedros: Shutdown by Cammaedros.
+[ 1212] Cammaedros: Shutdown by Cammaedros.
+[ 3054] Cammaedros: Shutdown by Cammaedros.
+[ 3700] Cammaedros: Shutdown by Cammaedros.
+[ 3054] Cammaedros: `*You are by the temple altar in the northern end of the Temple of Mota.
+
+A huge altar made from white polished marble is standing in front of you and
+
+behind it is a ten foot tall sitting statue of Odin, the King of the Gods.
+
+The back of the altar opens into a a beautiful atrium, above which can be
+
+seen a rainbow.
+
+[ 1221] Asmodeus: Shutdown by Asmodeus.
+[ 1221] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[15960] Asmodeus: Shutdown by Asmodeus.
+[ 1212] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 1212] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 1037] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 6400] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 1212] Cammaedros: `*You are standing on an immense, grey stone floor that stretches as far as you
+
+can see in all directions.  Rough winds plunging from the dark, starless sky
+
+tear savagely at your fragile body.
+
+[ 1212] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 1212] Cammaedros: `*This is the entrance to the Merc Mud School.  Go north to go through mud
+
+school.  If you have been here before and want to go directly to the arena,
+
+go south.
+
+
+A sign warns 'You may not pass these doors once you have passed level 5.'
+
+[ 1212] Cammaedros: Shutdown by Cammaedros.
+[    5] Asmodeus: `7You OOC: '`#tell me when to relog`7'
+
+[    5] Asmodeus: `7You OOC: '`#ok, brb up`7'
+
+[    5] Asmodeus: `7You OOC: '`#got 14823 left`7'
+
+[ 1212] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) `7(`^AFK`7) Cammaedros.`*`*
+
+[ 8199] Cammaedros: Shutdown by Cammaedros.
+[ 3054] Cammaedros: Shutdown by Cammaedros.
+[ 1212] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros`*
+
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 9367] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[    1] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Cammaedros: Shutdown by Cammaedros.
+[ 3054] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[    2] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Cammaedros: for 24 hours
+[ 5417] Cammaedros: for 20 hours
+[ 5417] Cammaedros: permanently
+[ 5417] Cammaedros: Rank    
+[ 5417] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 5417] Cammaedros: permanently
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Cammaedros: `*You are by the temple altar in the northern end of the Temple of Mota.
+
+A huge altar made from white polished marble is standing in front of you and
+
+behind it is a ten foot tall sitting statue of Odin, the King of the Gods.
+
+The back of the altar opens into a a beautiful atrium, above which can be
+
+seen a rainbow.
+
+[    9] Cammaedros: `*
+[ 1212] Cammaedros: `*You are standing on an immense, grey stone floor that stretches as far as you
+
+can see in all directions.  Rough winds plunging from the dark, starless sky
+
+tear savagely at your fragile body.
+
+[ 3054] Cammaedros: `*You are by the temple altar in the northern end of the Temple of Mota.
+
+A huge altar made from white polished marble is standing in front of you and
+
+behind it is a ten foot tall sitting statue of Odin, the King of the Gods.
+
+The back of the altar opens into a a beautiful atrium, above which can be
+
+seen a rainbow.
+
+[ 1212] Cammaedros: permanently
+[ 1212] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) `7(`^AFK`7) Cammaedros.`*`*
+
+[ 1212] Cammaedros: permanently
+[ 1212] Cammaedros: permanently
+[ 1212] Cammaedros: permanently
+[ 1212] Cammaedros: Rank       Newbie
+
+[ 1212] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) `7(`^AFK`7) Cammaedros.`*`*
+
+[ 1212] Cammaedros: permanently
+[ 1212] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) `7(`^AFK`7) Cammaedros.`*`*
+
+[ 7581] Cammaedros: `*Bright orange and red cover the walls while a sheet hangs over the middle
+
+of the giant wagon seperating the healing room from the meeting room. A
+
+single Tinker is here tending to the sick or injured. Not one of the sick
+
+Tinkers is in because of a person vs person convict, because Tinkers follow
+
+the Way of the Leaf and will never raise a hand in violence.
+
+[ 1212] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) `7(`^AFK`7) Cammaedros.`*`*
+
+[ 1212] Cammaedros: 5114
+[ 1212] Cammaedros: `*You are standing on an immense, grey stone floor that stretches as far as you
+
+can see in all directions.  Rough winds plunging from the dark, starless sky
+
+tear savagely at your fragile body.
+
+[ 7581] Cammaedros: `*Bright orange and red cover the walls while a sheet hangs over the middle
+
+of the giant wagon seperating the healing room from the meeting room. A
+
+single Tinker is here tending to the sick or injured. Not one of the sick
+
+Tinkers is in because of a person vs person convict, because Tinkers follow
+
+the Way of the Leaf and will never raise a hand in violence.
+
+[ 7581] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 7581] Cammaedros: `*Bright orange and red cover the walls while a sheet hangs over the middle
+
+of the giant wagon seperating the healing room from the meeting room. A
+
+single Tinker is here tending to the sick or injured. Not one of the sick
+
+Tinkers is in because of a person vs person convict, because Tinkers follow
+
+the Way of the Leaf and will never raise a hand in violence.
+
+[ 7581] Cammaedros: `*Bright orange and red cover the walls while a sheet hangs over the middle
+
+of the giant wagon seperating the healing room from the meeting room. A
+
+single Tinker is here tending to the sick or injured. Not one of the sick
+
+Tinkers is in because of a person vs person convict, because Tinkers follow
+
+the Way of the Leaf and will never raise a hand in violence.
+
+[ 3899] Cammaedros: `*All around you are dirt walls, and small torches lined on each side of
+
+you.  The amount of light down here is very limited and shadows seem to be
+
+throwing images of things across your vision.  The floor however is made of
+
+marble and not one particle of dirt has fallen on it.  It looks slippery to
+
+step on but actually has very good traction when you begin to move.  
+
+[14004] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) `7(`^AFK`7) Cammaedros.`*`*
+
+[14004] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[14004] Cammaedros: `*Inside a musty dim-lit room, several female figures bustle over beds of
+
+injured or sick people.  The smell in here is nausiating and sickening. 
+
+Moans, groans, and other sounds that go with sickness can be heard from all
+
+over the room.  The women tending to the wounded wear a silver a'dam around
+
+their neck identifying them as Seanchan damane.  Their masters, the sul'dam
+
+can not be far away.  
+
+[ 1212] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 5125] Cammaedros: for 31 hours
+[ 1212] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 1212] Cammaedros: for 154 hours
+[14004] Cammaedros: `*Inside a musty dim-lit room, several female figures bustle over beds of
+
+injured or sick people.  The smell in here is nausiating and sickening. 
+
+Moans, groans, and other sounds that go with sickness can be heard from all
+
+over the room.  The women tending to the wounded wear a silver a'dam around
+
+their neck identifying them as Seanchan damane.  Their masters, the sul'dam
+
+can not be far away.  
+
+[ 1212] Cammaedros: for 65 hours
+[14004] Cammaedros: `8[`1++ `1 IMPLEMENTOR `7 `1++`8]`7[`!*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros.`*`*
+
+[ 5402] Asmodeus: Shutdown by Asmodeus.
+[ 5499] Asmodeus: Shutdown by Asmodeus.
+[ 5498] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[21848] Asmodeus: Shutdown by Asmodeus.
+[21848] Asmodeus: Shutdown by Asmodeus.
+[ 5549] Asmodeus: Shutdown by Asmodeus.
+[ 5549] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 2447] Asmodeus: Shutdown by Asmodeus.
+[ 2447] Asmodeus: Shutdown by Asmodeus.
+[ 2447] Asmodeus: Shutdown by Asmodeus.
+[ 2447] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Diem: Shutdown by Diem.
+[    1] Diem: Shutdown by Diem.
+[ 8199] Cammaedros: `*There are barrels lined up against the walls here. They permiate of old
+
+ale and wine. The walls and shelves are coated with a thick, gray dust or
+
+dirt. The room is very large and there seems to be cots and beds all around.
+
+A gleeman is standing in the center offering ballads. 
+
+[ 1212] Cammaedros: `*You are standing on an immense, grey stone floor that stretches as far as you
+
+can see in all directions.  Rough winds plunging from the dark, starless sky
+
+tear savagely at your fragile body.
+
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[   10] Asmodeus: Shutdown by Asmodeus.
+[ 3026] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[ 8199] Cammaedros: Shutdown by Cammaedros.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 5481] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 1212] Cammaedros: Shutdown by Cammaedros.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 3005] Asmodeus: Shutdown by Asmodeus.
+[15949] Cammaedros: Shutdown by Cammaedros.
+[11856] Cammaedros: Shutdown by Cammaedros.
+[14004] Cammaedros: Shutdown by Cammaedros.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 1212] Cammaedros: `*You are standing on an immense, grey stone floor that stretches as far as you
+
+can see in all directions.  Rough winds plunging from the dark, starless sky
+
+tear savagely at your fragile body.
+
+[ 1212] Cammaedros: Shutdown by Cammaedros.
+[ 6400] Cammaedros: Shutdown by Cammaedros.
+[ 3014] Cammaedros: Shutdown by Cammaedros.
+[ 3001] Cammaedros: `*You are in the southern end of the temple hall in the Temple of Mota.
+
+The temple has been constructed from giant marble blocks, eternal in
+
+appearance, and most of the walls are covered by ancient wall paintings
+
+picturing gods, giants and peasants.
+
+   Large steps lead down through the grand temple gate, descending the huge
+
+mound upon which the temple is built and ends on the temple square below.
+
+   Equally large steps lead UP through a small door into the ENTRANCE to MUD 
+
+SCHOOL.  (type 'up' to go to MUD SCHOOL.)  A small plaque is on this wall.
+
+[ 3014] Cammaedros: `*You are standing on the market square, the famous Square of Midgaard.
+
+A large, peculiar looking statue is standing in the middle of the square.
+
+Roads lead in every direction, north to the temple square, south to the
+
+common square, east and westbound is the main street.
+
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 1212] Cammaedros: `*You are standing on an immense, grey stone floor that stretches as far as you
+
+can see in all directions.  Rough winds plunging from the dark, starless sky
+
+tear savagely at your fragile body.
+
+[ 1213] Cammaedros: `*You have reached the end of the Rainbow Bridge.  Asgard stretches out above 
+
+you.  Looking around, you search for the legendary guardian of Asgard.  The
+
+clouds are far below you and a sense of beauty and peacefulness surrounds you. 
+
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3391] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3391] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3391] Asmodeus: Shutdown by Asmodeus.
+[ 3391] Asmodeus: Shutdown by Asmodeus.
+[ 3391] Asmodeus: Shutdown by Asmodeus.
+[ 3391] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3007] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 1212] Asmodeus: Shutdown by Asmodeus.
+[ 1212] Cammaedros: `8[`1++ `1IMPLEMENTOR`7 `1++`8]`7[`$*`*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) `7(`^AFK`7) Cammaedros.`*`*
+
+[ 1212] Cammaedros: permanently
+[ 1212] Cammaedros: permanently
+[ 1212] Cammaedros: Hˇè
+[ 5455] Cammaedros: Shutdown by Cammaedros.
+[ 6400] Cammaedros: `*An old man is writing up adventures for those brave enough. Men with deep
+
+scars, and obvious wounds are walking out with priceless items. 
+
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[17040] Asmodeus: Shutdown by Asmodeus.
+[17040] Asmodeus: Shutdown by Asmodeus.
+[17040] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Cammaedros: `*An old man is writing up adventures for those brave enough. Men with deep
+
+scars, and obvious wounds are walking out with priceless items. 
+
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Cammaedros: Shutdown by Cammaedros.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 3391] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[17003] Asmodeus: Shutdown by Asmodeus.
+[11941] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Cammaedros: `*You are by the temple altar in the northern end of the Temple of Mota.
+
+A huge altar made from white polished marble is standing in front of you and
+
+behind it is a ten foot tall sitting statue of Odin, the King of the Gods.
+
+The back of the altar opens into a a beautiful atrium, above which can be
+
+seen a rainbow.
+
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: `7You OOC: '`#goin down now`7'
+
+[    1] Cammaedros: `*You are floating in nothing. 
+
+[    1] Cammaedros: 
+[ 3150] Cammaedros: Shutdown by Cammaedros.
+[ 3001] Cammaedros: `*You are in the southern end of the temple hall in the Temple of Mota.
+
+The temple has been constructed from giant marble blocks, eternal in
+
+appearance, and most of the walls are covered by ancient wall paintings
+
+picturing gods, giants and peasants.
+
+   Large steps lead down through the grand temple gate, descending the huge
+
+mound upon which the temple is built and ends on the temple square below.
+
+   Equally large steps lead UP through a small door into the ENTRANCE to MUD 
+
+SCHOOL.  (type 'up' to go to MUD SCHOOL.)  A small plaque is on this wall.
+
+[    5] Asmodeus: use switch for a while..`*
+
+[    5] Asmodeus: use switch for a while..`*
+
+[    5] Asmodeus: use switch for a while..`*
+
+[    5] Asmodeus: use switch for a while..`*
+
+[    5] Asmodeus: use switch for a while..`*
+
+[    5] Asmodeus: 
+
+[    5] Asmodeus: 
+[    5] Asmodeus: `7You OOC: '`#coming right back up`7'
+
+[    5] Asmodeus: `8[`1++   `8SUPREME`7   `1++`8]`7[`$*`*`7] [`8SHADOW`7] `*`*Lynn the `&La`*g`&ad`*el`&ic`*`*`*
+
+[    5] Asmodeus: `7You OOC: '`#heh`7'
+
+[ 1212] Cammaedros: `*You are standing on an immense, grey stone floor that stretches as far as you
+
+can see in all directions.  Rough winds plunging from the dark, starless sky
+
+tear savagely at your fragile body.
+
+[ 3001] Cammaedros: `8[`1++ `1IMPLEMENTOR`7 `1++`8]`7[`$*`*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros...`*`*
+
+[ 3001] hassan Cammaedros: `*You are in the southern end of the temple hall in the Temple of Mota.
+
+The temple has been constructed from giant marble blocks, eternal in
+
+appearance, and most of the walls are covered by ancient wall paintings
+
+picturing gods, giants and peasants.
+
+   Large steps lead down through the grand temple gate, descending the huge
+
+mound upon which the temple is built and ends on the temple square below.
+
+   Equally large steps lead UP through a small door into the ENTRANCE to MUD 
+
+SCHOOL.  (type 'up' to go to MUD SCHOOL.)  A small plaque is on this wall.
+
+[ 1212] Cammaedros: Shutdown by Cammaedros.
+[ 3150] Cammaedros: Shutdown by Cammaedros.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3700] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 4451] Asmodeus: Shutdown by Asmodeus.
+[25514] Asmodeus: Shutdown by Asmodeus.
+[ 4450] Asmodeus: [109] Wilderness 2                  (4450 - 4499) wild2.are    [1] [None      ]
+
+[ 4450] Asmodeus: `8[`1++ `1IMPLEMENTOR`7 `1++`8]`7[`$*`*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Asmodeus Crash weren't my fault!`*`*
+
+[ 4450] Asmodeus: `*
+[ 8199] Cammaedros: Shutdown by Cammaedros.
+[ 8199] Cammaedros: `*There are barrels lined up against the walls here. They permiate of old
+
+ale and wine. The walls and shelves are coated with a thick, gray dust or
+
+dirt. The room is very large and there seems to be cots and beds all around.
+
+A gleeman is standing in the center offering ballads. 
+
+[    5] Asmodeus: Shutdown by Asmodeus.
+[11871] Cammaedros: `*You are wandering the Mountains of Dhoom. Do you have any idea where you
+
+are or which direction to go from here. All you can see in any direction is
+
+the mountains. 
+
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: `8[`1++ `1IMPLEMENTOR`7 `1++`8]`7[`$*`*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Asmodeus Crash weren't my fault!`*`*
+
+[ 4450] Asmodeus: `8[`1++ `1IMPLEMENTOR`7 `1++`8]`7[`$*`*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Asmodeus Crash weren't my fault!`*`*
+
+[ 1212] Cammaedros: `*You are standing on an immense, grey stone floor that stretches as far as you
+
+can see in all directions.  Rough winds plunging from the dark, starless sky
+
+tear savagely at your fragile body.
+
+[  615] Asmodeus: `*The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+
+[  605] Asmodeus:  parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+
+[ 3150] Cammaedros: `*The smells of baking bread and simmering stew lead you dancing through
+
+the doorway of the diner.  No greasy spoons to be seen here-- the
+
+booth walls are covered in casual paisleys; the chairs are carved wood,
+
+rescued from garage sales.  Most tables have chess or backgammon boards
+
+carved and painted on their fingertip-smooth tops.  The refrain of some
+
+musical or other from the 1930's blends with the dusty golden light and the
+
+wonderful smells to put you completely at ease.  A huge picture window
+
+looks out over the Midgaard River, and a doorway leads north onto the dock
+
+and the South Bank river landing, while the main entrance to the south
+
+returns you to Austral Square.
+
+On most days you will find Kate here, testing a batch of stew or brewing
+
+a special pot of cinnamon coffee, eerily just in time for your arrival
+
+Pull up a chair, perhaps play a game, and take time out to talk.
+
+[    3] Cammaedros: `*
+[ 3150] Cammaedros: `*The smells of baking bread and simmering stew lead you dancing through
+
+the doorway of the diner.  No greasy spoons to be seen here-- the
+
+booth walls are covered in casual paisleys; the chairs are carved wood,
+
+rescued from garage sales.  Most tables have chess or backgammon boards
+
+carved and painted on their fingertip-smooth tops.  The refrain of some
+
+musical or other from the 1930's blends with the dusty golden light and the
+
+wonderful smells to put you completely at ease.  A huge picture window
+
+looks out over the Midgaard River, and a doorway leads north onto the dock
+
+and the South Bank river landing, while the main entrance to the south
+
+returns you to Austral Square.
+
+On most days you will find Kate here, testing a batch of stew or brewing
+
+a special pot of cinnamon coffee, eerily just in time for your arrival
+
+Pull up a chair, perhaps play a game, and take time out to talk.
+
+[ 3871] Asmodeus: `8[`1++ `1IMPLEMENTOR`7 `1++`8]`7[`$*`*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Asmodeus Crash weren't my fault!`*`*
+
+[ 3015] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: [81 Mag] Asmodeus         8024/7995 hp 17711/17676 mana 1265/1265 mv 162000 xp
+
+[    5] Asmodeus: Legends                   0        0   
+
+[    5] Asmodeus: `8[`1+ `1IMPLEMENTOR`7 `1+`8]`7[`$*`*`7] `*`*`7(`5W`7) Asmodeus Crash weren't my fault!`*`*
+
+[    5] Asmodeus: `8[`1+ `1IMPLEMENTOR`7 `1+`8]`7[`$*`*`7] `*`*`7(`5W`7) Asmodeus Crash weren't my fault!`*`*
+
+[    5] Asmodeus: Legends                   0        0   
+
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3390] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3005] Asmodeus: Shutdown by Asmodeus.
+[ 3005] Asmodeus: Shutdown by Asmodeus.
+[ 3005] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3030] Asmodeus: Shutdown by Asmodeus.
+[ 3030] Asmodeus: Shutdown by Asmodeus.
+[ 3025] Asmodeus: Shutdown by Asmodeus.
+[ 3014] Asmodeus: Shutdown by Asmodeus.
+[ 3014] Asmodeus: Shutdown by Asmodeus.
+[ 3016] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[26001] Asmodeus: Shutdown by Asmodeus.
+[26001] Asmodeus: Shutdown by Asmodeus.
+[26001] Asmodeus: Shutdown by Asmodeus.
+[26001] Asmodeus: Shutdown by Asmodeus.
+[26001] Asmodeus: Shutdown by Asmodeus.
+[26001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[10008] Asmodeus: Shutdown by Asmodeus.
+[21602] Lysergic: Shutdown by Lysergic.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 1403] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3150] Cammaedros: `8[`1+ `1IMPLEMENTOR`7 `1+`8]`7[`$*`*`7] [`!A`1dm`8i`1n`7] `*`*`7(`5W`7) Cammaedros...`*`*
+
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[21602] Lysergic: Shutdown by Lysergic.
+[21602] Eratia: Shutdown by Eratia.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 7526] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3877] Asmodeus: Shutdown by Asmodeus.
+[ 3877] Asmodeus: Shutdown by Asmodeus.
+[ 3877] Asmodeus: Shutdown by Asmodeus.
+[ 3877] Asmodeus: Shutdown by Asmodeus.
+[ 3877] Asmodeus: Shutdown by Asmodeus.
+[ 3877] Asmodeus: Shutdown by Asmodeus.
+[21914] Asmodeus: Shutdown by Asmodeus.
+[21914] Asmodeus: Shutdown by Asmodeus.
+[21914] Asmodeus: Shutdown by Asmodeus.
+[21914] Asmodeus: Shutdown by Asmodeus.
+[21914] Asmodeus: Shutdown by Asmodeus.
+[21587] Asmodeus: Shutdown by Asmodeus.
+[21587] Asmodeus: Shutdown by Asmodeus.
+[21587] Asmodeus: Shutdown by Asmodeus.
+[21587] Asmodeus: Shutdown by Asmodeus.
+[ 3301] Asmodeus: Shutdown by Asmodeus.
+[    8] Asmodeus: Shutdown by Asmodeus.
+[11679] Asmodeus: Shutdown by Asmodeus.
+[13150] Asmodeus: Shutdown by Asmodeus.
+[30102] Asmodeus: Shutdown by Asmodeus.
+[ 5921] Asmodeus: Shutdown by Asmodeus.
+[ 5921] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Cammaedros: `*The common square, people pass you, talking to each other.  To the west is
+
+the poor alley and to the east is the dark alley.  To the north, this square
+
+is connected to the market square.  From the south you notice a nasty smell.
+
+[ 3025] Cammaedros: `*The common square, people pass you, talking to each other.  To the west is
+
+the poor alley and to the east is the dark alley.  To the north, this square
+
+is connected to the market square.  From the south you notice a nasty smell.
+
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3025] Cammaedros: `*The dump, where the people from the city drop their garbage.  Through the
+
+garbage you can see a large junction of pipes, looks like the entrance to the
+
+sewer system.  South of here you see the river and to the north is the common
+
+square.  A rickety old bridge leads south to the promenade.
+
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 5921] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[21602] Lysergic: Shutdown by Lysergic.
+[ 1212] Cammaedros: `8[`1+ `1IMPLEMENTOR`7 `1+`8]`7[`$*`*`7] [`1WARDER`7] `*`*`7(`5W`7) Cammaedros...`*`*
+
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[ 6401] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Eratia: Shutdown by Eratia.
+[ 8283] Asmodeus: Shutdown by Asmodeus.
+[ 8283] Asmodeus: Shutdown by Asmodeus.
+[ 8283] Asmodeus: Shutdown by Asmodeus.
+[ 8283] Asmodeus: Shutdown by Asmodeus.
+[ 8283] Asmodeus: Shutdown by Asmodeus.
+[ 8283] Asmodeus: Shutdown by Asmodeus.
+[ 8283] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 6401] Asmodeus: Shutdown by Asmodeus.
+[11669] Asmodeus: Shutdown by Asmodeus.
+[10855] Asmodeus: Shutdown by Asmodeus.
+[11697] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[20949] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[21916] Asmodeus: Shutdown by Asmodeus.
+[21916] Asmodeus: Shutdown by Asmodeus.
+[21916] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 8272] Asmodeus: Shutdown by Asmodeus.
+[ 8272] Asmodeus: Shutdown by Asmodeus.
+[ 8272] Asmodeus: Shutdown by Asmodeus.
+[ 8272] Asmodeus: Shutdown by Asmodeus.
+[ 8272] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[ 7709] Asmodeus: Shutdown by Asmodeus.
+[ 7709] Asmodeus: `*Asmodeus gossiped '`^test`*'
+[ 7709] Asmodeus: `*Asmodeus gossiped '`^test`*'
+[ 7709] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3014] Asmodeus: Shutdown by Asmodeus.
+[20359] Asmodeus: Shutdown by Asmodeus.
+[21853] Asmodeus: Shutdown by Asmodeus.
+[ 6401] Asmodeus: Shutdown by Asmodeus.
+[20953] Asmodeus: Shutdown by Asmodeus.
+[14129] Asmodeus: Shutdown by Asmodeus.
+[20939] Asmodeus: Shutdown by Asmodeus.
+[21840] Egwene: Shutdown by Egwene.
+[21587] Asmodeus: Shutdown by Asmodeus.
+[ 2411] Asmodeus: Shutdown by Asmodeus.
+[ 2411] Asmodeus: Shutdown by Asmodeus.
+[ 2411] Asmodeus: Shutdown by Asmodeus.
+[ 2411] Asmodeus: Shutdown by Asmodeus.
+[ 2411] Asmodeus: Shutdown by Asmodeus.
+[ 2411] Asmodeus: Shutdown by Asmodeus.
+[ 2411] Asmodeus: Shutdown by Asmodeus.
+[ 2411] Asmodeus: Shutdown by Asmodeus.
+[ 2411] Asmodeus: Shutdown by Asmodeus.
+[ 2411] Asmodeus: Shutdown by Asmodeus.
+[ 2411] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[20953] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[   16] Asmodeus: Shutdown by Asmodeus.
+[   16] Asmodeus: Shutdown by Asmodeus.
+[   16] Asmodeus: Shutdown by Asmodeus.
+[   16] Asmodeus: Shutdown by Asmodeus.
+[   16] Asmodeus: Shutdown by Asmodeus.
+[   16] Asmodeus: Shutdown by Asmodeus.
+[   16] Asmodeus: Shutdown by Asmodeus.
+[ 8199] Thom: Shutdown by Thom.
+[ 8199] Thom: Shutdown by Thom.
+[ 8199] Thom: Shutdown by Thom.
+[   11] Thom: Shutdown by Thom.
+[   11] Thom: Shutdown by Thom.
+[   11] Thom: Shutdown by Thom.
+[   11] Thom: Shutdown by Thom.
+[ 8279] Thom: ../log/imm/997821006.log
+[    1] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Thom: Shutdown by Thom.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[   11] Thom: Shutdown by Thom.
+[ 3001] Thom: Shutdown by Thom.
+[ 1101] Thom: Shutdown by Thom.
+[ 8600] Thom: Shutdown by Thom.
+[ 8600] Thom: Shutdown by Thom.
+[ 8600] Thom: Shutdown by Thom.
+[ 8600] Thom: Shutdown by Thom.
+[ 5835] Asmodeus: Shutdown by Asmodeus.
+[ 5834] Asmodeus: Shutdown by Asmodeus.
+[ 5834] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[20512] Asmodeus: 60344.log
+[20512] Asmodeus: Shutdown by Asmodeus.
+[20512] Asmodeus: Shutdown by Asmodeus.
+[20512] Asmodeus: Shutdown by Asmodeus.
+[ 5549] Asmodeus: Shutdown by Asmodeus.
+[ 8271] Thom: Shutdown by Thom.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[10382] Asmodeus: Shutdown by Asmodeus.
+[10382] Asmodeus: Shutdown by Asmodeus.
+[10382] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 3708] Asmodeus: Shutdown by Asmodeus.
+[ 3708] Asmodeus: Shutdown by Asmodeus.
+[ 3708] Asmodeus: Shutdown by Asmodeus.
+[ 3708] Asmodeus: Shutdown by Asmodeus.
+[ 3708] Asmodeus: Shutdown by Asmodeus.
+[ 7527] Asmodeus: Shutdown by Asmodeus.
+[ 3315] Asmodeus: Shutdown by Asmodeus.
+[    1] Cammaedros: 49188.log
+[    1] Cammaedros: 49947.log
+[    5] Asmodeus: 44087.log
+[    5] Asmodeus: 44248.log
+[    5] Asmodeus: 44379.log
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[ 8199] Thom: Shutdown by Thom.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    2] Cammaedros: 32527.log
+[   15] Thom: 48789.log
+[14283] Asmodeus: Shutdown by Asmodeus.
+[   18] Asmodeus: 56874.log
+[ 3701] Asmodeus: Shutdown by Asmodeus.
+[ 3701] Asmodeus: Shutdown by Asmodeus.
+[ 3701] Cammaedros: 68252.log
+[ 3701] Cammaedros: 68918.log
+[ 3701] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 7581] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[21602] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Cammaedros: 90813.log
+[ 6400] Cammaedros: 91248.log
+[ 6400] Cammaedros: 21727.log
+[ 6400] Cammaedros: 23280.log
+[ 6400] Cammaedros: 23957.log
+[ 6400] Cammaedros: 24953.log
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3150] Cammaedros: 04860.log
+[ 3150] Cammaedros: 05196.log
+[ 3150] Cammaedros: 06233.log
+[ 3150] Cammaedros: 06553.log
+[ 5417] Cammaedros: 03721.log
+[ 5382] Cammaedros oldstyle fido dog: 05161.log
+[ 5382] Cammaedros oldstyle fido dog: 05564.log
+[ 5382] Cammaedros oldstyle fido dog: 06340.log
+[ 5382] Cammaedros oldstyle fido dog: 08002.log
+[ 5382] Cammaedros: 09359.log
+[ 5417] Cammaedros: 99900.log
+[ 5417] Cammaedros: 00430.log
+[ 5382] Cammaedros: 00747.log
+[ 5382] Cammaedros: 00895.log
+[ 5417] Cammaedros: 01312.log
+[ 5417] Cammaedros: 01829.log
+[10241] Cammaedros: 64145.log
+[ 3001] Asmodeus: 10159.log
+[ 3001] Asmodeus: 10210.log
+[ 3001] Asmodeus: 10295.log
+[ 1212] Cammaedros: Shutdown by Cammaedros.
+[ 3054] Cammaedros: Shutdown by Cammaedros.
+[ 1212] Cammaedros: Shutdown by Cammaedros.
+[ 5383] Cammaedros: Shutdown by Cammaedros.
+[ 1212] Cammaedros: Shutdown by Cammaedros.
+[ 5382] Cammaedros: Shutdown by Cammaedros.
+[ 5382] Cammaedros: Shutdown by Cammaedros.
+[ 1212] Cammaedros: Shutdown by Cammaedros.
+[ 5382] Cammaedros: Shutdown by Cammaedros.
+[ 5382] Cammaedros: Shutdown by Cammaedros.
+[ 5382] Cammaedros: Shutdown by Cammaedros.
+[ 5417] Cammaedros: Shutdown by Cammaedros.
+[ 8199] Cammaedros: Shutdown by Cammaedros.
+[ 1212] Cammaedros: Shutdown by Cammaedros.
+[ 1212] Cammaedros: Shutdown by Cammaedros.
+[ 1212] Cammaedros: Shutdown by Cammaedros.
+[    1] Cammaedros: 27966.log
+[ 5417] Cammaedros: 47411.log
+[ 5417] Cammaedros: 47623.log
+[ 5417] Cammaedros: 47658.log
+[ 5417] Cammaedros: 47990.log
+[ 5417] Cammaedros: 50730.log
+[ 5810] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 3393] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 1212] Cammaedros: 88256.log
+[ 1212] Cammaedros: 89342.log
+[ 1212] Cammaedros: 92088.log
+[ 1212] Cammaedros: 92734.log
+[ 1212] Cammaedros: 93672.log
+[ 1212] Cammaedros: 93961.log
+[ 1212] Cammaedros: 94334.log
+[ 1212] Cammaedros: 94621.log
+[ 1212] Cammaedros: 95141.log
+[ 1212] Cammaedros: 95380.log
+[ 1212] Cammaedros: 96583.log
+[ 1212] Cammaedros: 96779.log
+[ 1212] Cammaedros: 96995.log
+[ 1212] Cammaedros: 97272.log
+[ 1212] Cammaedros: 97480.log
+[ 3016] Cammaedros: 02097.log
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 5850] Asmodeus: Shutdown by Asmodeus.
+[ 4352] Cammaedros: 25232.log
+[   25] Asmodeus: Shutdown by Asmodeus.
+[   25] Asmodeus: Shutdown by Asmodeus.
+[   25] Asmodeus: Shutdown by Asmodeus.
+[   25] Asmodeus: Shutdown by Asmodeus.
+[   25] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 1212] Cammaedros: ../log/imm/1007003170.log
+[ 1212] Cammaedros: ../log/imm/1007003334.log
+[ 1212] Cammaedros: ../log/imm/1007004027.log
+[ 3005] Asmodeus: Shutdown by Asmodeus.
+[ 5407] Asmodeus: Shutdown by Asmodeus.
+[17005] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 5850] Asmodeus: Shutdown by Asmodeus.
+[ 5850] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[    1] Diem: Shutdown by Diem.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[10368] Cammaedros: ../log/imm/1007999291.log
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8555] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[  899] Asmodeus: Shutdown by Asmodeus.
+[ 8408] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8408] Jasin: Shutdown by Jasin.
+[ 8199] Cammaedros: Shutdown by Cammaedros.
+[14004] Cammaedros: Shutdown by Cammaedros.
+[30510] Cammaedros: ../log/imm/1008528087.log
+[    1] Cammaedros: ../log/imm/1008528815.log
+[ 5417] Asmodeus: Shutdown by Asmodeus.
+[   23] Cammaedros: ../log/imm/1008657216.log
+[   21] Cammaedros: ../log/imm/1008657522.log
+[ 1212] Cammaedros: ../log/imm/1008713944.log
+[   13] Jasin: Shutdown by Jasin.
+[   13] Thom: ../log/imm/1008807673.log
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[ 5417] Cammaedros: ../log/imm/1008921273.log
+[   11] Thom: Shutdown by Thom.
+[   11] Thom: Shutdown by Thom.
+[   11] Thom: Shutdown by Thom.
+[   11] Thom: Shutdown by Thom.
+[ 1212] Cammaedros: ../log/imm/1009088627.log
+[   11] Thom: Shutdown by Thom.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[30510] Cammaedros: ../log/imm/1009415937.log
+[14004] Cammaedros: ../log/imm/1009416755.log
+[30510] Cammaedros: ../log/imm/1009418201.log
+[14004] Cammaedros: ../log/imm/1009418314.log
+[14004] Cammaedros: ../log/imm/1009425228.log
+[14004] Cammaedros: ../log/imm/1009556096.log
+[14004] Cammaedros: ../log/imm/1009560034.log
+[14004] Cammaedros: ../log/imm/1009614040.log
+[ 1212] Cammaedros: ../log/imm/1009614986.log
+[ 1212] Cammaedros: ../log/imm/1009815730.log
+[ 1212] Cammaedros: ../log/imm/1009816338.log
+[14004] Cammaedros: ../log/imm/1009894500.log
+[ 2448] Asmodeus: Shutdown by Asmodeus.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[ 3054] Asmodeus: Shutdown by Asmodeus.
+[ 3014] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Lynn: Shutdown by Lynn.
+[ 5417] Lynn: Shutdown by Lynn.
+[ 9165] Diem: Shutdown by Diem.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 5417] Cammaedros: ../log/imm/1010620769.log
+[ 3054] Cammaedros: ../log/imm/1011032560.log
+[ 5549] Cammaedros: ../log/imm/1011034490.log
+[ 5549] Cammaedros: ../log/imm/1011034663.log
+[ 5549] Cammaedros: ../log/imm/1011034930.log
+[ 5549] Cammaedros: ../log/imm/1011035237.log
+[    3] Asmodeus: Shutdown by Asmodeus.
+[    3] Asmodeus: Shutdown by Asmodeus.
+[    3] Asmodeus: Shutdown by Asmodeus.
+[ 8199] Cammaedros: ../log/imm/1011191238.log
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3054] Cammaedros: ../log/imm/1011834701.log
+[ 3054] Cammaedros: ../log/imm/1011834934.log
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 6400] Asmodeus: Shutdown by Asmodeus.
+[ 5835] Cammaedros: ../log/imm/1012282178.log
+[ 5836] Cammaedros: ../log/imm/1012282598.log
+[12030] Cammaedros: ../log/imm/1012283578.log
+[ 5841] Cammaedros: ../log/imm/1012284821.log
+[ 5841] Cammaedros: ../log/imm/1012285130.log
+[ 5837] Cammaedros: ../log/imm/1012285264.log
+[ 5842] Cammaedros: ../log/imm/1012285956.log
+[ 2008] Cammaedros: Shutdown by Cammaedros.
+[ 2008] Cammaedros: Shutdown by Cammaedros.
+[ 6400] Cammaedros: ../log/imm/1012871759.log
+[ 6400] Cammaedros: ../log/imm/1012872201.log
+[ 3150] Cammaedros: ../log/imm/1012876467.log
+[18421] Cammaedros: ../log/imm/1012881946.log
+[    1] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Jasin: Shutdown by Jasin.
+[ 3001] Jasin: Shutdown by Jasin.
+[ 3001] Jasin: Shutdown by Jasin.
+[ 3001] Jasin: Shutdown by Jasin.
+[ 3001] Jasin: Shutdown by Jasin.
+[ 3255] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[   13] Jasin: Shutdown by Jasin.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Jasin: Shutdown by Jasin.
+[ 3014] Jasin: Shutdown by Jasin.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[   13] Jasin: Shutdown by Jasin.
+[30154] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Asmodeus: Shutdown by Asmodeus.
+[24123] Asmodeus: Shutdown by Asmodeus.
+[24123] Asmodeus: Shutdown by Asmodeus.
+[24123] Asmodeus: Shutdown by Asmodeus.
+[24123] Asmodeus: Shutdown by Asmodeus.
+[24123] Asmodeus: Shutdown by Asmodeus.
+[24123] Asmodeus: Shutdown by Asmodeus.
+[24123] Asmodeus: Shutdown by Asmodeus.
+[24123] Asmodeus: Shutdown by Asmodeus.
+[    3] Modo: ../log/imm/1015325663.log
+[24123] Asmodeus: Shutdown by Asmodeus.
+[    1] Diem: Shutdown by Diem.
+[ 1201] Lynn: Shutdown by Lynn.
+[   13] Jasin: Shutdown by Jasin.
+[ 3390] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3001] Thom: Shutdown by Thom.
+[ 3005] Thom: Shutdown by Thom.
+[   13] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3258] Asmodeus: Shutdown by Asmodeus.
+[ 3258] Asmodeus: Shutdown by Asmodeus.
+[ 3258] Asmodeus: Shutdown by Asmodeus.
+[ 5850] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: ../log/imm/1019870797.log
+[    5] Asmodeus: ../log/imm/1019871297.log
+[    5] Asmodeus: ../log/imm/1019872130.log
+[    5] Asmodeus: ../log/imm/1019874820.log
+[    5] Asmodeus: ../log/imm/1019875039.log
+[    5] Asmodeus: ../log/imm/1019875149.log
+[    5] Asmodeus: ../log/imm/1019875718.log
+[    5] Asmodeus: ../log/imm/1019876673.log
+[    5] Asmodeus: ../log/imm/1019876765.log
+[    5] Asmodeus: ../log/imm/1019876793.log
+[    5] Asmodeus: ../log/imm/1019876927.log
+[    5] Asmodeus: ../log/imm/1019877064.log
+[ 3005] Asmodeus: Shutdown by Asmodeus.
+[ 3005] Asmodeus: Shutdown by Asmodeus.
+[ 3005] Asmodeus: Shutdown by Asmodeus.
+[ 3005] Asmodeus: Shutdown by Asmodeus.
+[ 3005] Asmodeus: Shutdown by Asmodeus.
+[ 3005] Asmodeus: Shutdown by Asmodeus.
+[40000] Asmodeus: Shutdown by Asmodeus.
+[40000] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 2050] Asmodeus: ../log/imm/1020827843.log
+[ 6400] Thom: Shutdown by Thom.
+[ 3054] Thom: Shutdown by Thom.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[18433] Diem: Shutdown by Diem.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[   99] Lynn: ../log/imm/1024664879.log
+[24273] Asmodeus: Shutdown by Asmodeus.
+[24273] Asmodeus: Shutdown by Asmodeus.
+[ 3390] Asmodeus: Shutdown by Asmodeus.
+[24117] Asmodeus: Shutdown by Asmodeus.
+[24117] Asmodeus: Shutdown by Asmodeus.
+[    3] Diem: Shutdown by Diem.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3005] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    4] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3729] Asmodeus: Shutdown by Asmodeus.
+[ 3740] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 5835] Asmodeus: Shutdown by Asmodeus.
+[ 5829] Asmodeus: Shutdown by Asmodeus.
+[21800] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 3030] Asmodeus: Shutdown by Asmodeus.
+[ 3030] Asmodeus: Shutdown by Asmodeus.
+[ 3030] Asmodeus: Shutdown by Asmodeus.
+[ 3030] Asmodeus: Shutdown by Asmodeus.
+[ 3030] Asmodeus: Shutdown by Asmodeus.
+[ 3030] Asmodeus: Shutdown by Asmodeus.
+[ 3030] Asmodeus: Shutdown by Asmodeus.
+[20453] Asmodeus: Shutdown by Asmodeus.
+[    3] Diem: Shutdown by Diem.
+[ 3001] Diem: ../log/imm/1043475087.log
+[    5] Asmodeus: Shutdown by Asmodeus.
+[ 1205] Astaelan: Shutdown by Astaelan.
+[    1] Diem: Shutdown by Diem.
+[ 9998] Diem: Shutdown by Diem.
+[16402] Demiscus: Shutdown by Demiscus.
+[ 3001] Demiscus: Shutdown by Demiscus.
+[ 5850] Demiscus: Shutdown by Demiscus.
+[ 6399] Demiscus: Shutdown by Demiscus.
+[ 6511] Demiscus: Shutdown by Demiscus.
+[    9] Demiscus: Shutdown by Demiscus.
+[    9] Demiscus: Shutdown by Demiscus.
+[ 6400] Demiscus: Shutdown by Demiscus.
+[18277] Demiscus: Shutdown by Demiscus.
+[ 3700] Diem: Shutdown by Diem.
+[ 3014] Demiscus: Shutdown by Demiscus.
+[ 8199] Demiscus: Shutdown by Demiscus.
+[ 3054] Demiscus: Shutdown by Demiscus.
+[ 3054] Jaromir: Shutdown by Jaromir.
+[ 3054] Jaromir: Shutdown by Jaromir.
+[ 3001] Jaromir: Shutdown by Jaromir.
+[ 3001] Demiscus: ../../public_html/imm_logs/1164757179.html
+[ 3001] Demiscus: ../../public_html/imm_logs/1164775819.html
+[ 3001] Demiscus: ../../public_html/imm_logs/1164775886.html
+[ 3001] Demiscus: ../../public_html/imm_logs/1164776238.html
+[ 3001] Demiscus: ../../public_html/imm_logs/1164776941.html
+[ 3001] Demiscus: ../../public_html/imm_logs/1164777115.html
+[ 3001] Demiscus: ../../public_html/imm_logs/1164777212.html
+[ 3001] Demiscus: ../../public_html/imm_logs/1164777555.html
+[ 3054] Demiscus: ../../public_html/imm_logs/1164773450.html
+[16402] Jaromir: Shutdown by Jaromir.
+[ 3054] Jaromir: Shutdown by Jaromir.
+[ 3254] Demiscus: Shutdown by Demiscus.
+[35876] Demiscus: Shutdown by Demiscus.
+[38000] Demiscus: Shutdown by Demiscus.
+[40864] Demiscus: Shutdown by Demiscus.
+[40077] Demiscus: Shutdown by Demiscus.
+[40077] Demiscus: Shutdown by Demiscus.
+[41583] Demiscus: Shutdown by Demiscus.
+[ 3054] Jaromir: Shutdown by Jaromir.
+[41107] Demiscus: Shutdown by Demiscus.
+[ 3700] Demiscus: Shutdown by Demiscus.
+[ 3054] Jaromir: Shutdown by Jaromir.
+[ 3054] Demiscus: Shutdown by Demiscus.
+[    9] Jaromir: Shutdown by Jaromir.
+[ 7585] Jaromir: Shutdown by Jaromir.
+[37789] Jaromir: Shutdown by Jaromir.
+[ 5850] Jaromir: Shutdown by Jaromir.
+[37789] Demiscus: ../../public_html/imm_logs/1165025303.html
+[35337] Demiscus: ../../public_html/imm_logs/1165026311.html
+[37789] Demiscus: ../../public_html/imm_logs/1165036398.html
+[ 3352] Jaromir: Shutdown by Jaromir.
+[ 3001] Demiscus: Shutdown by Demiscus.
+[ 3001] Demiscus: ../../public_html/imm_logs/1165084134.html
+[ 3014] Demiscus: ../../public_html/imm_logs/1165099357.html
+[ 3001] Demiscus: ../../public_html/imm_logs/1165100024.html
+[ 3054] Demiscus: ../../public_html/imm_logs/1165100462.html
+[ 3054] Demiscus: Shutdown by Demiscus.
+[ 3896] Jaromir: Shutdown by Jaromir.
+[ 3001] Demiscus: Shutdown by Demiscus.
+[ 3054] Demiscus: Shutdown by Demiscus.

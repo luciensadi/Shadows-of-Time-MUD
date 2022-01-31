@@ -1,0 +1,2408 @@
+#AREADATA
+Name Limbo~
+Builders Allen Maurick Valika~
+VNUMs 1 99
+Credits `4[`7 None `4]`7 Diku      Limbo~
+Security 10
+Flags EF
+Version 4
+End
+
+
+
+#MOBILES
+#1
+gambling janitorgamb~
+The Dealer~
+A janitor is here, cleaning up all the tokens.
+~
+~
+aiel~
+0 0
+AZ 336 0 0 0 -1  0 0
+100 1000 1d1+1000 0d0+0 1d1+1000 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 8 nods.~
+#2
+dealergambling~
+The Dealer~
+A dealer wearing a green visor stands by the table, speaking of riches to win.
+~
+~
+aiel~
+0 0
+ABGTZ 336 0 0 0 -1  0 0
+100 1000 1d1+1000 0d0+0 1d1+1000 slice
+-100 -100 -100 -100
+CEFJK AB 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 3 all~
+M ACT 4 shrivels up into a ball and simply disappears.~
+M SPEECH 2 lets gamble~
+#3
+black dragon~
+`8B`7l`&a`7c`8k D`7r`&ag`7o`8n`7~
+A black dragon stands, guarding the secrets of Gypht.
+~
+The slave of Gypht, ready to obey her order at any time.
+Beware, dont BITE this one.
+~
+unique~
+0 0
+ABT 1360 64 128 0 -1  0 0
+5000 1 30000d1+80000 10d100+25000 5d100+250 acbite
+-200 -200 -200 -200
+ACDFHK 0 0 L
+stand stand male  0
+0 0 medium unknown
+#4
+wolf~
+A magical Wolf~
+A magical Wolf
+~
+A magical Wolf
+~
+wolf~
+0 0
+AM 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH AV ACEFJKQV 0
+stand stand none 0
+AGV ACDEFJKQV tiny unknown
+#5
+dark tower guard~
+MMage's Guard~
+Maniaclemage's Guard is here with the key to everything.
+~
+~
+unique~
+0 0
+ABRTU 49488 9280 0 0 -1  -1000 0
+200 200 1d1000+12000 100d100+2000 5d100+400 magic
+-80 -80 -80 -80
+BCHK AHIJK ACHIJKNQ 0
+stand stand none 0
+0 0 giant unknown
+#6
+damane slave seanchan~
+A Damane~
+A slave stands here willing to do anything at its masters call.
+~
+~
+unique~
+0 0
+AMQR 0 0 0 0 -1  0 0
+0 0 0d0+0 100d100+100 0d0+0 none
+-10 -10 -10 -10
+FH 0 D 0
+stand stand none 0
+0 0 medium unknown
+#7
+Cashier~
+The Cashier~
+A Cashier stands to the side of the dealer, waiting for bets to be cashed in.
+~
+~
+aiel~
+0 0
+ABGTZ 336 0 0 0 -1  0 0
+100 1000 1d1+1000 0d0+0 1d1+1000 slice
+-100 -100 -100 -100
+CEFJK AB 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 5 42~
+#8
+blindworm~
+a blindworm~
+A blindworm is here.
+~
+~
+unique~
+0 0
+AITe 49408 1137 0 0 -1  0 0
+0 0 1d1+100 1d5+500 1d1+75 none
+0 0 0 0
+CEFHILN ABCDEFGHIJKb ACEFJKQ 0
+stand stand none 0
+0 AC huge unknown
+#10
+Shopkeep~
+Shopkeep~
+A Shopkeeper stands here ready to help you.
+~
+A Shopkeeper stands here ready to show you his wares and take
+your money.
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+0 0 10d10+10 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#11
+poem man~
+A man of poems~
+A man of poems is here, ready to spit out his lyrics.
+~
+~
+dragon~
+0 0
+ABGTZae 256 0 0 0 -1  0 0
+81 50 1d1+999 0d0+0 50d1+50 slash
+-10 -10 -10 -10
+0 AB BEH FI
+stand stand male  0
+AHZ ACDEFGHIJKPQUVX medium unknown
+M SPEECH 11 alisha~
+#12
+mafia~
+A Member of the Mafia~
+A member of the mafia is standing here watching the casino.
+~
+~
+unique~
+0 0
+ABFTe 256 64 0 0 -1  0 0
+250 300 600000d1+1 1000d1+100 10d1+290 slap
+-100 -100 -100 -100
+EU A 0 DK
+stand stand male  0
+0 0 medium unknown
+M GRALL 12 100~
+#15
+mr. cogburn~
+Mr. Cogburn~
+Mr. Cogburn is here, looking very sexy and desirable.
+~
+Mr.  Cogburn glances at you, giggling and giving his quality smile that
+everyone seems to enjoy.  He adjusts his glasses and suspenders, then begins
+walking towards you grinning.  
+~
+dog~
+0 0
+ABJb 0 0 0 0 -1  0 0
+110 0 1000d1+2000 0d0+0 0d0+0 none
+-100 -100 -100 -100
+H 0 0 0
+stand stand male  0
+AGV ACDEFHJKUV medium unknown
+M GRALL 10 1000~
+#16
+Puff The Magic Dragon~
+`@P`2uff `$T`4he `$M`4agic `@D`2ragon`7~
+`@P`2uff `$T`4he `$M`4agic `@D`2ragon `7stands before you.
+~
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M GRALL 16 100~
+M GREET 16 100~
+#17
+b33r kr3w member~
+a `3b`#33`3r `#k`3r`#3`3w`7 member~
+A member of `3b`#33`3r `#k`3r`#3`3w`7 is here, coming at you in a drunken stupor.
+~
+*hurls a beer can at you*
+~
+shienar~
+0 0
+ABFTe 336 64 128 0 -1  0 0
+300 200 34000d1+1000 0d0+0 10d1+400 punch
+-100 -100 -100 -100
+CDFHKU 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18
+crazy turkey leg~
+a `!c`1r`!a`1z`!y `7`#Tu`3rk`#ey`7 `&L`7e`&g`7~
+A `!c`1r`!a`1z`!y `#Tu`3rk`#ey `&L`7e`&g `7is here, swinging wildly at you.
+~
+BAGOCK!
+~
+unique~
+0 0
+ABFT 256 16 0 0 -1  0 0
+210 250 40000d1+1000 0d0+0 10d1+250 thwack
+-100 -100 -100 -100
+CDHU 0 0 0
+stand stand none 0
+0 0 medium unknown
+#19
+dallas cowboy~
+a `8D`&a`8ll`&a`8s`7 `8C`7o`&wb`7o`8y`7~
+A `8D`&a`8ll`&a`8s`7 `8C`7o`&wb`7o`8y `7is here, trying his best to score on you.
+~
+WE HAVE SUCKED SINCE SUPER BOWL 30
+~
+unique~
+0 0
+ABFT 256 16 128 0 -1  0 0
+250 300 29000d1+1000 0d0+0 10d1+300 slap
+-100 -100 -100 -100
+CDHU 0 0 0
+stand stand male  0
+0 0 medium unknown
+#20
+giant mutated turkey~
+a `&Gi`7a`&nt `@M`2ut`@a`2te`@d `#Tu`3rk`#ey`7~
+A `&Gi`7a`&nt `@M`2ut`@a`2te`@d `#Tu`3rk`#ey`7, very pissed off that you ate his cousin last year.
+~
+GOBBLE GOBBLE
+~
+unique~
+0 0
+ABFT 336 80 128 0 -1  0 0
+450 500 69000d1+1000 0d0+0 10d1+470 peck
+-200 -200 -200 -200
+ACDFK Q 0 0
+stand stand none 0
+0 0 giant unknown
+M ACT 22 has fled!~
+M ACT 21 has arrived from the~
+M HPCNT 20 100~
+#21
+butterfly intricate~
+an Intricate Butterfly~
+A butterfly struggles for its life on the floor.
+~
+A butterfly screams the pains of sorrow.  You can't hear them, but feel
+the pain that it endures as it struggles for it's life.  Becoming weaker by
+the minute, in due time it will give into the inevitable end.  Pain courses
+through it's body.  How can someone be so sadistic as to rip it's wings off
+and allow it to suffer like this?  Cruelty comes in many forms.  You
+suddenly realize that in a way, we're all butterflies, struggling day by day
+against the wind, nature, and other factors that bind us to our desolate
+lives.  Soon we'll break free and not have to worry anymore.  
+~
+unique~
+0 0
+ABZ 0 0 0 0 -1  1000 0
+200 1000 40000d1+5000 0d0+0 10d1+990 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#23
+mafia traym~
+A Member of the Mafia~
+A member of the mafia is standing here, guarding the door to the only exit.
+~
+~
+unique~
+0 0
+AZabd 256 64 0 0 -1  0 0
+0 0 5d1000+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#25
+black robed man~
+a `8black`7 robed man~
+A `8black`7 robed man stands here, peering towards the floor quietly.
+~
+~
+aiel~
+0 0
+ABGTe 336 1104 16384 2 -1  1000 0
+79 600 1d1+30000 1d1+30000 1d1+1000 firestorm
+-300 -300 -300 -300
+CEFK 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK huge unknown
+M ACT 25 goes to sleep.~
+#27
+no name~
+The Gnome~
+A gnome stands here, beating all those that enter this house.
+~
+~
+unique~
+0 0
+AKe 0 0 0 0 -1  0 0
+150 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+#30
+old withered man~
+an Old Withered Man~
+An old man is here, mumbling to himself about wealth.
+~
+The old man looks pale and withered.  His long, bony fingers shake when
+he extends them out every once in a while.  His age has left hin blind, but
+capable of sensing anything around him for some odd reason.  He utters words
+that you cannot understand 
+~
+unique~
+0 0
+ABa 1360 0 0 0 -1  0 0
+200 150 20000d1+5000 0d0+0 10d1+140 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+M SPEECH 32 no~
+M SPEECH 31 yes~
+M GRALL 30 100~
+#31
+old withered man~
+an Old Withered Man~
+An old man is here, mumbling to himself about wealth.
+~
+The old man looks pale and withered.  His long, bony fingers shake when
+he extends them out every once in a while.  His age has left hin blind, but
+capable of sensing anything around him for some odd reason.  He utters words
+that you cannot understand 
+~
+unique~
+0 0
+ABa 1360 0 0 0 -1  0 0
+200 150 20000d1+5000 0d0+0 10d1+140 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+M SPEECH 33 10~
+M SPEECH 33 9~
+M SPEECH 33 8~
+M SPEECH 33 7~
+M SPEECH 33 6~
+M SPEECH 33 5~
+M SPEECH 33 4~
+M SPEECH 33 3~
+M SPEECH 33 2~
+M SPEECH 33 1~
+#32
+old withered man~
+an Old Withered Man~
+An old man is here, mumbling to himself about wealth.
+~
+The old man looks pale and withered.  His long, bony fingers shake when
+he extends them out every once in a while.  His age has left hin blind, but
+capable of sensing anything around him for some odd reason.  He utters words
+that you cannot understand 
+~
+unique~
+0 0
+ABa 1360 0 0 0 -1  0 0
+200 150 20000d1+5000 0d0+0 10d1+140 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+M SPEECH 34 10~
+M SPEECH 34 9~
+M SPEECH 34 8~
+M SPEECH 34 7~
+M SPEECH 34 6~
+M SPEECH 34 5~
+M SPEECH 34 4~
+M SPEECH 34 3~
+M SPEECH 34 2~
+M SPEECH 34 1~
+#33
+old withered man~
+an Old Withered Man~
+An old man is here, mumbling to himself about wealth.
+~
+The old man looks pale and withered.  His long, bony fingers shake when
+he extends them out every once in a while.  His age has left hin blind, but
+capable of sensing anything around him for some odd reason.  He utters words
+that you cannot understand 
+~
+unique~
+0 0
+ABa 1360 0 0 0 -1  0 0
+200 150 20000d1+5000 0d0+0 10d1+140 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+M SPEECH 35 10~
+M SPEECH 35 9~
+M SPEECH 35 8~
+M SPEECH 35 7~
+M SPEECH 35 6~
+M SPEECH 35 5~
+M SPEECH 35 4~
+M SPEECH 35 3~
+M SPEECH 35 2~
+M SPEECH 35 1~
+#43
+boredom master~
+Feafe~
+Feafe the Boredom Masta is here, staring at the wall.
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+1000 0 1d1+1 0d0+0 1d1+1 slap
+0 0 0 0
+0 A 0 0
+stand stand male  0
+0 0 medium unknown
+#44
+football official~
+The Football Official~
+The Football Official is standing here, taking bets.
+~
+~
+unique~
+0 0
+ABGZ 336 0 0 0 -1  0 0
+100 500 1d1+100 0d0+0 1d1+499 slap
+-10 -10 -10 -10
+0 AB 0 0
+stand stand male  0
+0 0 large unknown
+M SPEECH 44 dallas cowboys will win~
+#50
+Test mob~
+test mob~
+Test mob
+~
+~
+andor~
+0 0
+ABZ 80 1024 0 8192 -1  0 0
+10 1000 10d1000+0 0d0+0 0d0+0 crush
+-90 -90 -90 -90
+I 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 51 quest131~
+#55
+notme~
+`*Statue of Allen~
+The Statue of Allen stands here.
+~
+The Statue of Allen is covered in colorfull robes and garments.  Flowers
+and lush green vines creap over him giveing the feeling of peace.  
+~
+cat~
+0 0
+ABGe 80 0 0 0 -1  0 0
+1 1 100d1+1 1d10+10 1d1+1 claw
+5 5 5 10
+FH AB C D
+rest stand male  0
+AGV ACDEFHJKQUV medium unknown
+#56
+Valerie~
+Valerie~
+Valerie here is waiting to give you a nice massage from a long day's work.
+~
+Here is a tall yet slender woman wearing a tight white t-shirt
+along with a pair of low cut jeans with a black belt sitting 
+on her hips. A dark hunter green pouch hangs from her belt with 
+some lavender scented lotion.
+~
+andor~
+0 0
+AGZ 80 0 0 0 -1  8 0
+175 2 10d100+100 10d100+100 10d100+100 none
+-10 -10 -10 -10
+AHIKN ACEFHKQR CDEKQ X
+stand stand female 550
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 57 yes~
+M GRALL 55 100~
+M SPEECH 54 no~
+#77
+Luck Dragon~
+`7`4L`7u`4c`7k `4D`7r`4a`7g`4o`7n~
+A `7`4L`7u`4c`7k `4D`7r`4a`7g`4o`7n sits here peacefully.
+~
+~
+dragon~
+0 0
+ABZ 336 0 0 0 -1  1000 0
+110 250 6000d1+5000 1000d1+500 100d10+100 flbite
+-100 -100 -100 -100
+AFHJK ABCEFG BEHb FIY
+stand stand male  2000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#78
+Chan Aya~
+The Chan~
+The Chan stands here, anxiously awaiting Acebo's next request.
+~
+This is da' Chan, a gift to Acebo from Tonia.
+Thanks for helping me with my quest, Acebo. Enjoy.
+~
+tear~
+0 0
+ABZ 336 64 0 0 -1  1000 0
+110 100 10000d1+1 3000d1+1 100d1+1 frbite
+-70 -70 -70 -70
+DEFHIK CD CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#96
+Big Wheel~
+Merkaba's Big Wheel~
+Merkaba's Big Wheel sits here, ready to roll!
+~
+Black wheels of heavy duty plastic, tough enough for rolling over the
+hardest terrain, and a bright red body with white racing stripes.  Bright
+yellow and orange tassles hang from the black grips on the handlebars,
+streaming in the slightest breeze.  A evil, laughing clown's face decorates
+the rear of the scooped seat, cackling at victims left in the dust of this
+monster machine.  
+~
+unique~
+0 0
+ABD 0 16 0 0 -1  0 0
+1 2 2d10+5 0d0+0 2d5+20 crush
+2 2 2 2
+0 A 0 0
+stand stand none 0
+0 0 medium unknown
+#97
+Speck~
+`8.~
+.
+~
+~
+unique~
+0 0
+ABJ 0 0 0 0 -1  0 0
+200 0 2500d200+100 0d0+0 25d20+1 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#99
+connection creature~
+her connection~
+A small creature cowers in the leaves.
+~
+This sniveling, whining, bloated creature weaves and stumbles around the
+room, clumsily smacking into things and giving himself bruises and scrapes. 
+So erratic is his behavior, and so weak he looks, he could probably keel
+over dead at any moment.  
+
+~
+pig~
+0 0
+ABZ 12288 2 0 1 -1  0 0
+150 500 100d2+20 0d0+0 110d500+50 none
+50 50 50 50
+CDFIK ABCDEFGHIJKLMNOPQRTXYZab 0 0
+stand stand none 0
+AGV ACDEFHJK small unknown
+M ACT 98 sighs~
+M ACT 99 glare~
+#0
+
+
+
+#OBJECTS
+#1
+coin silver gcash~
+a silver coin~
+One miserable silver coin.~
+silver~
+money 0 A
+0
+A 0 0 0 0
+1 10 0 P
+ T 0 none~
+#2
+coin gold gcash~
+a gold coin~
+One valuable gold coin.~
+gold~
+money 0 A
+0
+0 A 0 0 0
+0 10 0 P
+ T 0 none~
+#3
+coins gold gcash~
+%d gold coins~
+A pile of gold coins.~
+gold~
+money 0 A
+0
+0 0 0 0 0
+0 10 0 P
+ T 0 none~
+#4
+coins silver gcash~
+%d silver coins~
+A pile of silver coins.~
+silver~
+money 0 A
+0
+0 0 0 0 0
+0 10 0 P
+ T 0 none~
+#5
+coins silver gold gcash~
+%d silver coins and %d gold coins~
+A pile of coins.~
+gold~
+money 0 A
+0
+0 0 0 0 0
+0 10 0 P
+ T 0 none~
+#6
+head catfish flaming~
+`!F`1laming `#H`3ead `4Of `@A `^C`6atfish`7~
+The head of a catfish lies here, sweet god it is on fire!~
+unknown~
+light ABGIY AP
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 10 69 P
+A
+18 3
+A
+19 3
+ T 0 none~
+#7
+figurine ivory necklace~
+`$A `!F`1igurine `#M`3ade `7of `8I`&vory`7~
+A figureine lies on the floor.~
+unknown~
+armor ABGIY AC
+0
+CE CE CE ABC 0
+26 7 10000 P
+A
+18 4
+A
+19 4
+A
+13 20
+A
+14 14
+ T 0 none~
+#8
+rachel~
+a standard issue kama~
+A worthless dagger is here on the ground.~
+unknown~
+weapon AB AN
+0
+dagger 10 12 scratch CDE
+75 0 0 P
+ T 0 none~
+#9
+wave~
+a small blue vial~
+A small blue vial is here~
+unknown~
+potion 0 A
+0
+300 'bless' 'sanctuary' 'armor' 'shield'
+0 0 0 P
+ T 0 none~
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+npc_corpse 0 A
+0
+0 0 0 A 0
+0 1000 0 D
+ T 0 none~
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+pc_corpse O A
+0
+0 0 0 A 0
+0 1000 0 D
+ T 0 none~
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+meat~
+money 0 A
+0
+0 0 0 0 0
+0 50 0 D
+ T 0 none~
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+meat~
+food 0 A
+0
+E E 0 0 0
+0 20 0 D
+ T 0 none~
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+meat~
+food 0 A
+0
+CE CE 0 0 0
+0 50 0 D
+ T 0 none~
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+meat~
+food 0 A
+0
+CE CE 0 0 0
+0 50 0 D
+ T 0 none~
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+meat~
+food 0 A
+0
+AC AC 0 A 0
+0 20 0 D
+ T 0 none~
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+meat~
+food 0 A
+0
+BD BD 0 0 0
+0 20 0 D
+ T 0 none~
+#18
+Juicy Red Berry~
+`!A Juicy Red Berry`*~
+A `!Juicy Red Berry`* is lying on the ground here, getting all cold and decomposed.~
+food~
+food 0 A
+0
+D D 0 0 0
+0 10 0 P
+ T 0 none~
+#19
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.~
+food~
+food 0 A
+0
+D D 0 0 0
+0 10 0 P
+ T 0 none~
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+energy~
+light A A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+ T 0 none~
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+water~
+fountain G 0
+0
+100000 100000 'water' 0 0
+0 0 0 P
+ T 0 none~
+#23
+disc disk floating black~
+a floating disc~
+A floating black disc hangs in the air.~
+energy~
+container GMPUYZ AQ
+0
+0 E 0 0 0
+0 0 0 P
+A
+18 5
+A
+19 5
+ T 0 none~
+#24
+dark green cloak with golden tags~
+(`4W`$a`4v`$i`4n`$g`7) `@D`2ark `@G`2reen `8C`7loak~
+A cloak lies on the ground~
+unknown~
+weapon JKad AD
+DK
+exotic 0 0 none 0
+150 200 0 P
+A
+14 10
+A
+13 100
+A
+19 11
+A
+18 11
+ T 0 none~
+#25
+gate portal~
+a shimmering gate~
+A shimmering black gate rises from the ground, leading to parts unknown.~
+shadow~
+portal GOT 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#26
+blood~
+a pool of blood~
+A small pool of splattered `!b`1lood`* lies here.~
+unknown~
+blood 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#27
+doobie~
+the Sword~
+A sword lies here.~
+diamond~
+weapon 0 AN
+0
+exotic 2000000 1 slice 0
+300 0 0 P
+A
+18 30000
+A
+19 30000
+ T 0 none~
+#28
+legs~
+a pair of %s's `!b`1loody`* legs~
+A pair of %s's severed legs lie here twitching...~
+unknown~
+weapon 0 AN
+0
+exotic 10 10 crush 0
+90 0 0 P
+ T 0 none~
+#29
+Standard Fire~
+a Fire is Here~
+A Burning fire is here.~
+unknown~
+fire 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#30
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existent objects~
+~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#31
+arrow~
+an arrow~
+A wooden arrow is here.~
+unknown~
+arrow 0 AO
+0
+0 1 8 0 J
+75 1 0 P
+ T 0 none~
+#32
+quiver~
+a quiver~
+A leather quiver lies here.~
+unknown~
+quiver 0 AS
+0
+0 1 8 0 0
+0 0 0 P
+ T 0 none~
+#33
+Dummy Bomb~
+dummy Bomb~
+Dummy Bomb~
+unknown~
+bomb 0 A
+0
+C 'bomb_explosion' C 100 0
+0 0 0 P
+ T 0 none~
+#34
+blue chip~
+a `$blue `*chip~
+Desc `$A `&[`4BLUE`&] `$chip for the blue team!`*~
+glass~
+treasure PT A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#35
+token~
+dummy for QP Tokens~
+Dummy for QP Tokens~
+unknown~
+token 0 A
+0
+0 0 0 0 0
+0 1 0 P
+ T 0 none~
+#36
+cock and Musscle Chair comfy~
+molotov Cocktail Comfy Chair~
+A very luxerious chair is here~
+unknown~
+furniture 0 0
+0
+A CFJOSUVY FIKR ABCDEFGHIJKLMNOPQRSTUVWXYZabcde ABCDENOPQRSTZc
+1 0 0 P
+ T 0 none~
+#37
+daemon bone floating skull~
+`1daemon bone floating skull`7~
+A very important peice of eq.~
+unknown~
+light ABT A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 10 0 P
+A
+13 60
+A
+12 40
+A
+20 -15
+A
+17 -25
+ T 0 none~
+#40
+silver coins pile~
+50000 silver coins~
+A pile of silver coins lies here.~
+unknown~
+money 0 A
+0
+EGIJOP 0 0 0 0
+78 0 0 P
+ T 0 none~
+#41
+computer chair~
+`7Vooshka's computer chair~
+Vooshka's gay computer chair is here, ready to make your ass sore.~
+unknown~
+furniture 0 0
+0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcde ABCDEFGHIJKLMNOPQRSTUVWXYZabcde FI ABCDEFGHIJKLMNOPQRSTUVWXYZabcde ABCDEFGHIJKLMNOPQRSTUVWXYZabcde
+1 0 0 P
+ T 0 none~
+#42
+tokena chance~
+a Token of Chance~
+A Token of Chance lays on the ground here, ready to be taken.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+1 0 0 P
+O GET 42 100~
+ T 5 A Chance Token shrivels up into a ball and simply disappears.~
+#43
+tokenb chance~
+a Token of Chance~
+A Token of Chance lays on the ground here, ready to be taken.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+1 0 0 P
+O GET 43 100~
+ T 5 none~
+#44
+feafe prize token gambling~
+a Prize Token for Gambling~
+A token from the dealer is here, floating quietly.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+78 0 0 P
+ T 0 none~
+#45
+gambling key~
+a gambling key~
+A key floats in mid air, humming softly.~
+unknown~
+key 0 AO
+0
+0 0 0 0 0
+78 0 0 P
+ T 0 none~
+#46
+winners bag~
+a winner's bag~
+I bag~
+unknown~
+container 0 A
+0
+100000 ABCD 45 10000 0
+0 0 0 P
+ T 0 none~
+#47
+tokenc chance~
+a Token of Chance~
+A Token of Chance lays on the ground here, ready to be taken.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+1 0 0 P
+O GET 43 100~
+ T 0 none~
+#48
+bet bag~
+a `8b`7e`8t b`&a`8g`7~
+A bag is laying on the ground, a slip of paper hanging out of the end.~
+unknown~
+container 0 A
+0
+100000 ACD 45 10000 0
+78 0 0 P
+ T 0 none~
+#49
+reckliner~
+`7Jasin's old ass plaid reck-lin-er~
+Jasin's old ass plaid reck-lin-er is here, beckoning.~
+unknown~
+furniture 0 0
+0
+A 0 EH 0 0
+0 0 0 P
+ T 0 none~
+#50
+test map~
+a map~
+A map is here.~
+unknown~
+map 0 A
+0
+0 0 0 0 0
+100 0 0 P
+E
+map~
+`7 ======    =    =      =    =    =   ========    =       =
+`7 =     =  = =   =       =   =   =    =           ==      =
+`7 =     = =   =  =        =  =  =     =           = =     =
+`7 ======  =====  =        =  =  =     =======     =  =    =
+`7 =     = =   =  =        =  =  =     =           =   =   =
+`7 =     = =   =  =         = = =      =           =    =  =
+`7 ======  =   =  =======    ===       ========    =     ===
+ 
+ 
+BLOWS!
+~
+ T 0 none~
+#51
+drug chair~
+`$S`4aradins `8R`&ecliner`7~
+`$S`4aradins `7recliner is here already reclinged for him.~
+unknown~
+furniture 0 0
+0
+B GJOQRST EFHIKL FHJKPQ FHJKPQ
+0 300 0 P
+ T 0 none~
+#53
+sword of living death~
+sword of living death~
+A sword is here.~
+unknown~
+weapon Ha AN
+0
+sword 65 1 prayer ACEGH
+16 300 0 P
+A
+18 5
+A
+19 5
+ T 0 none~
+#54
+brown wooden chest~
+a brown wooden chest~
+A brown chest is here.~
+unknown~
+container 0 0
+0
+0 ACD 0 500 0
+0 0 0 P
+ T 0 none~
+#55
+Alter of Thanks.~
+`*Alter of Thanks.~
+An alter is here, waiting for sacrifices and what not to the Great God Allen.~
+stone~
+furniture 0 0
+0
+AB EIJKN FIL CDEHIJKLMNOPQRSTUVWXYZabcdef CDEHIJKLMNOPQRSTUVWXYZabcdef
+0 0 0 P
+ T 0 none~
+#66
+Marijuanna leaves~
+a Giant `2Marijuanna`* Plant~
+A Giant `2Marijuanna`* Plant is growing here~
+unknown~
+furniture A 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#67
+bong~
+a Giant Bong~
+An Enourmous 10 foot Bong is standing upright here~
+unknown~
+window 0 0
+0
+ABD AC A 0 0
+0 0 0 P
+ T 0 none~
+#68
+waterbed bed~
+`$D`7rey's `#L`4ove `@B`8ed`*~
+(no description)~
+unknown~
+furniture AB 0
+0
+BD EGIJOP HK CDFI CDFI
+0 -11072 0 P
+ T 0 none~
+#69
+blah~
+blah~
+Need not say anymore~
+unknown~
+weapon 0 AN
+0
+exotic 0 0 none 0
+69 0 0 P
+ T 0 none~
+#70
+pleasure chair~
+`!C`8h`7ai`&r `8of `&P`7le`&a`8su`7r`!e`7~
+The `!C`8h`7ai`&r `8of `&P`7le`&a`8su`7r`!e`7 is waiting to please.~
+suede~
+furniture 0 0
+0
+D DFGHIJ EHK CEFGHI CEFGHI
+0 0 0 P
+O SPEECH 16705 catch~
+ T 0 none~
+#77
+Throne of Mist~
+`7`$T`4h`$r`4o`$n`4e `$o`4f `$M`4i`$s`4t`7~
+`7`%C`5eleste's `7throne of `7`$m`4i`$s`4t`7 sits here.~
+mist~
+furniture O 0
+0
+B EIJKN EHK DGH DGH
+110 100 0 P
+ T 0 none~
+#78
+Patchwork Blanket~
+a patchwork blanket~
+A soft `^p`&a`7t`^c`&h`^w`&o`7r`^k  `7blanket is here, perfect for relaxing on.~
+blanket~
+furniture O 0
+0
+ABCD DFGHIJ EHKR CDFI CDFI
+110 0 0 P
+ T 0 none~
+#79
+hoody~
+`$T`4he `$m`4os`$t `8co`6mf`*o`8r`*t`6ab`8le`* `8h`6o`*o`6d`8y `$i`4n `$t`4he `$w`4orl`$d`*~
+This is the most comfortable hoody you've ever worn.  `/It wraps around you like the arms of a lover, and keeps `/you warm in the most miserable weather.~
+100%_cotton~
+armor PTU AD
+ABCDF
+CE CE CE CE 0
+0 0 0 P
+S 'detect hidden'   0  20  -1  25   0          6
+S 'detect invis'   0  20  -1  25   0          4
+A
+5 -3
+A
+4 -3
+ T 0 none~
+#93
+pants~
+`*A `8loose pair of `!sc`1re`8a`1mi`!ng r`1e`!d `8pants`*~
+`#O`3h `#M`3y `#G`3od!!!  `&What the `!HELL `&are you wearing on your `!legs`&??!!`/`/`/`*Happy B-day, Ace :)`/-Love, Lynn.~
+cloth~
+armor 0 AF
+0
+CEFGHI CEFGHI CEFGHI CEFGHI 0
+160 0 0 P
+A
+4 20
+A
+3 10
+A
+11 -100
+A
+10 50
+ T 0 none~
+#94
+Note Sign Message~
+a note~
+A tiny slip of paper is here, pinned under a rock.~
+unknown~
+furniture 0 O
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#95
+bag~
+a generic bag~
+A Generic bag generates the VNUM for tan~
+unknown~
+container 0 0
+0
+50 0 0 0 0
+15 0 0 P
+ T 0 none~
+#96
+bunk bed~
+a bunk-bed~
+Vooshka's bunk-beds are here, waiting for you to lay down.~
+diamond~
+furniture T 0
+0
+DGH GIKLQR EHK DGH DGH
+10 50 100000000 P
+ T 0 none~
+#97
+chair~
+a comfortable chair~
+`*~
+unknown~
+furniture OT A
+G
+A EIJKN FI DGH DGH
+160 16960 0 P
+ T 0 none~
+#98
+sign~
+a sign~
+A sign is here, asking for you to look at it.~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#99
+transparent shapeless chair~
+a transparent, shapeless chair~
+A transparent chair sits alone in the corner, shapeless in absence of time.~
+unknown~
+furniture A 0
+0
+AB CFG BEHK 0 0
+0 16960 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#1
+Sinking into the Lake~
+You are sinking in the Lake!  Allen's shrine was here, but sank too!
+~
+0 276832268 2
+D5
+~
+~
+1 0 3054
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of
+physical matter, surrounded by swirling glowing light, which fades into the
+relative darkness around you without any trace of edges or shadow. There is
+a "No Tipping" notice pinned to the darkness. 
+~
+0 138413064 1
+D4
+~
+~
+0 -1 3001
+S
+#3
+Story room~
+Ishamael, once stood in this room, as Diem stood next to him in great
+awe, Ishamael just had to wonder - does Diem really love me?  The years
+passed, and Ishamael always wondered if Diem really loved him, and in all
+actuality he didnt.  Diem secretly loved Ishamael's pet Kangaroo, "Slaver
+the crazy mad Raver."  So as time continued to wane on, Diem fell in more
+love with Ishamael's pet Kangaroo, "Slaver the crazy mad Raver."  Ishamael
+got terribly jealous by this, and very upset - and killed the Kangaroo, and
+Diem cried and killed Ishamael.  The end.  
+~
+0 426254340 0
+D0
+~
+~
+0 0 3001
+S
+#4
+Path towards the Dark Tower~
+~
+0 35651588 0
+S
+#5
+Stoic's Fried Pie Shop~
+Fried Pies Bitches. Buy them.
+~
+0 52228 0
+O Asmodeus~
+R GRALL 5 100~
+S
+#6
+Demandred's Acid Room~
+`?So `?m`?a`?n`?y `?c`?o`?l`?o`?u`?r`?s `?...`?....`?.....
+`?So `?m`?a`?n`?y `?c`?o`?l`?o`?u`?r`?s `?...`?....`?.....
+`?So `?m`?a`?n`?y `?c`?o`?l`?o`?u`?r`?s `?...`?....`?.....
+`?So `?m`?a`?n`?y `?c`?o`?l`?o`?u`?r`?s `?...`?....`?.....
+`?So `?m`?a`?n`?y `?c`?o`?l`?o`?u`?r`?s `?...`?....`?.....
+`?So `?m`?a`?n`?y `?c`?o`?l`?o`?u`?r`?s `?...`?....`?.....
+`?So `?m`?a`?n`?y `?c`?o`?l`?o`?u`?r`?s `?...`?....`?.....
+`?So `?m`?a`?n`?y `?c`?o`?l`?o`?u`?r`?s `?...`?....`?.....
+`?So `?m`?a`?n`?y `?c`?o`?l`?o`?u`?r`?s `?...`?....`?.....
+`?So `?m`?a`?n`?y `?c`?o`?l`?o`?u`?r`?s `?...`?....`?.....
+`?So `?m`?a`?n`?y `?c`?o`?l`?o`?u`?r`?s `?...`?....`?.....
+`?So `?m`?a`?n`?y `?c`?o`?l`?o`?u`?r`?s `?...`?....`?.....
+`?y`?a`?h`*..
+~
+0 406856708 0
+D0
+~
+~
+1 0 7
+S
+#7
+The Immortal bathroom~
+Aw jeez...  What be you duin inside dis bathroom?  Da stench be awful,
+and what be worse...  Claw marks on da wallz be showin dat sumtin haz made
+itz home heer.  
+~
+0 4203524 0
+D1
+~
+~
+0 0 11
+D2
+~
+~
+1 0 6
+S
+#8
+Saradins Building Room~
+Mean streets of denison = Dumais wells
+Tower of the Damned = Tarwins Gap
+~
+0 8196 0
+S
+#9
+`4S`$aradins `1G`!ameroom`7~
+IDEAS FOR FUTURE GUILD BENEFITS, LIKE WHAT THEY WILL BUY WITH QPS ON OTHER PORT WHEN WE TRANSFER THERE.
+ 
+Guild Safe area - small 10 rooms max
+Guild Guard - different lvls, so hes killable at first then godly
+Guild Practice Area
+Guild Healer
+Guild Safe acts as qm, train, prac, all of which cost qps
+Guild Eq - basically renamed stock, not to expensive but free to all guild members, might give it a small bonus
+ 
+POST YOUR OWN IDEAS IN THE ROOM DESC
+ 
+Some ideas for items: (Demi)
+ 
+I think each guild should get 1 item, based on what they had in books.
+
+AES SEDAI ITEM:
+Should get a shawl for their Ajah, with different affects...Let's say your Red Ajah, you have a stronger resistance
+to male channelers.  Let's say your Yellow Ajah, the shawl provides you excellent healing.  If your Blue Ajah,
+your excellent at Travelling (Moiraine).
+ 
+WARDERS:
+Warders cloak, which is color-shifting.  Maybe when Warders move around, you don't see (Lan arrives from North), instead
+their movement is cloaked...Since they can camouflage themselves.
+ 
+AIEL:
+Aiels should get a veil, I say you remove "A veiled figure" short description, and change it so they only get it
+when they wear the Veil.
+ 
+WHITECLOAK:
+A special key, The Whitecloaks should get a special key where they can jail other mortals (No one else has access, even
+if they loot the key).  They can only jail for an hour at a time, and MUST RP it out.
+ 
+ 
+Asha'Man:
+A Pin from the Dragon Reborn.  Pin can have various affects.
+ 
+Gleeman:
+Throwing Knives, they can throw knives at players (across rooms).
+~
+0 138454021 0
+S
+#10
+Chamber of Decision and Punishment~
+Please ask an Immortal for assisstance, you are in here for a reason.
+~
+0 140518404 0
+S
+#11
+Matt's Basement~
+This is the place where Demandred goes to relax with his pal matt.  They usually 
+organize what they are going to do for the day, smoke a joint, arrange paint and hide
+shit that they don't want anyone to find
+~
+0 172007937 0
+D3
+~
+~
+0 0 7
+D4
+~
+~
+0 0 19851
+S
+#12
+Traym's Underground Casino~
+The casino is run by Traym, you got a problem, then shut the fuck up.
+~
+0 406856708 0
+S
+#13
+Stoic's Bar~
+`8.===================================================================.`7
+`8||                            ___                                  ||`7
+`8||                          .'   '.                                ||`7
+`8||                         /       \           oOoOo               ||`7
+`8||                        |         |       ,==|||||               ||`7
+`8||                         \       /       _|| |||||               ||`7
+`8||                          '.___.'    _.-'^|| |||||               ||`7
+`8||                        __/_______.-'     '==HHHHH               ||`7
+`8||                   _.-'' /                   """""               ||`7
+`8||                .-'     /   oOoOo                                ||`7
+`8||                '-._   / ,==|||||                                ||`7
+`8||                    '-/._|| |||||                                ||`7
+`8||                     /  ^|| |||||                                ||`7
+`8||                    /    '==HHHHH                                ||`7
+`8||                   /________"""""                                ||`7
+`8||                   '\       '\                                   ||`7
+`8||                     \        '\   /                             ||`7
+`8||                      \         '\/                              ||`7
+`8||                      /                                          ||`7
+`8||                     /                                           ||`7
+`8||                    /_____                                       ||`7
+`8||                                                                 ||`7
+`8'==================================================================='`7
+~
+0 21504012 0
+E
+sign~
+Black then white are all I see in my infancy.
+red and yellow then came to be, reaching out to me. 
+lets me see.
+as below, so above and beyond, I imagine
+drawn beyond the lines of reason.
+Push the envelope. Watch it bend.
+Over thinking, over analyzing separates the body from the mind.
+Withering my intuition, missing opportunities and I must
+Feed my will to feel my moment drawing way outside the lines.
+Black then white are all i see in my infancy.
+red and yellow then came to be, reaching out to me.
+lets me see there is so much more and
+beckons me to look thru to these infinite possibilities.
+as below, so above and beyond, I imagine
+drawn outside the lines of reason.
+Push the envelope. Watch it bend.
+over thinking, over analyzing separates the body from the mind.
+Withering my intuition leaving all these opportunities behind.
+Feed my will to feel this moment urging me to cross the line.
+Reaching out to embrace the random. 
+Reaching out to embrace whatever may come.
+I embrace my desire to
+feel the rhythm, to feel connected enough to step aside and weep like a widow
+to weep like a widow, to fathom the power, to witness the beauty,
+to bathe in the fountain, 
+to swing on the spiral of our divinity and still be a human.
+With my feet upon the ground I move myself 
+between the sounds and open wide to suck it in. 
+I feel it move across my skin. 
+I'm reaching up and reaching out. 
+I'm reaching for the random or what ever will bewilder me.
+And following our will and wind we may just go where no one's been.
+We'll ride the spiral to the end and may just go where no one's been.
+Spiral out. Keep going. 
+~
+D1
+~
+~
+0 0 7
+S
+#14
+Jasin's Store~
+Jasin's store is waiting to be decorated and filled.~
+0 1028 0
+S
+#15
+Morgue~
+A morgue is a place for dead people, if you're here lie still you're dead.
+~
+0 4194304 0
+D4
+~
+~
+0 0 3054
+S
+#16
+Eventine's Room~
+The walls here are covered in candles hanging from ornimental iron
+holders.  The dim candle light is the only discernable light in the room,
+yet it is very bright.  A large round table sits in the center of the room,
+surrounded by large wooden chairs.  This is a place obvisously ment for
+meetings by kings and the like.  
+~
+0 4228104 0
+D0
+~
+~
+0 0 17
+S
+#17
+feafe~
+Look at name, or type "look sign".
+~
+0 184582664 0
+E
+sign~
+`!  LEAVE`7 `!  ME`7 `!  ALONE`7 
+~
+D2
+~
+~
+0 0 16
+S
+#18
+Empty store~
+~
+0 33555456 0
+D2
+~
+~
+0 0 3314
+D4
+~
+~
+0 0 3381
+S
+#19
+Site of Future Store~
+~
+0 1028 0
+S
+#20
+Sulwen's Store~
+Sulwen's store is waiting to be decorated and filled.~
+0 1028 0
+S
+#21
+Allen's House if iLL Compute~
+if ispc $n
+if rand 70
+kill $n
+else
+emote snarls at you as it's tail lowers and the hair on it's back starts to raise.
+endif
+endif
+~
+0 140518404 0
+O allen~
+S
+#22
+Allen's white board.~
+Level 75 quest
+Diff: HARD
+quest mob vnum 11822
+Starting Mob sends players on a hunt for items:
+4117 Moria - A staff loaded by a mob - done
+Kill teh Aelfin Councle for the second peice.. - progs in place. Just need to make the object and load - vnum 20433
+Mob puts items togher to make a weapon (most likely a staff)
+Mob proceeds to weild the new weapon (mob oload item) and kick the players ass.
+ 
+ 
+~
+0 140510724 0
+O allen~
+S
+#23
+Sellers' Mafia Office~
+This is Sellers' Mafia Office, get the fuck out unless you wanna die.
+~
+0 409994245 0
+S
+#24
+Allens White Board.~
+Shadow Check:
+if clan $n 'shadow'
+stop
+else
+ 
+ 
+Check if player has yet to do quest #
+if !hasquest $n 10  #10 being quest 10
+ 
+Add player to quest 10
+mob addquest $n 10
+ 
+Mark player as completeing quest:
+mob updatequeststatus $n 10 completed
+ 
+Mark player as completeing quest step :
+mob updatequeststatus $n 10 1  where 1 is step 1 of the quest, then 2, then 3 and so fourth
+ 
+Quest check / Quest step check
+if hascompletedquest $n x  x
+ 
+Usefull site for progs and building in general:
+http://sage.n-connect.net/gank/OLC
+ 
+~
+0 4 0
+S
+#25
+Demandred Room of Gambling~
+To place a bet, give the `!dealer`7 any item you wish.
+ 
+Then pick a token up after he drops two of them.  If you `!win`7, you will need to
+give your winning token to the `!cashier`7 quickly.  If you `!lose`7, then you're
+out of luck and you lose your eq.
+ 
+Now type '`&osay lets gamble`7'
+~
+0 138421252 0
+R ACT 43 the dealer sacrifices a token of chance to the creator.~
+S
+#26
+Bad~
+~
+0 4 0
+S
+#27
+Silas's Gnome Home~
+~
+0 4 0
+S
+#50
+The Proveing Grounds~
+~
+0 138936320 0
+D1
+~
+~
+0 0 51
+S
+#51
+The Proveing Grounds~
+This area for testing new progs before introduction to production areas.
+~
+0 138936320 0
+D3
+~
+~
+0 0 50
+S
+#54
+Hidden chamber~
+~
+0 4194308 0
+S
+#55
+Valika's Get Away Spa~
+This is a nice place that allows you to sit back and relax from a long
+day at work.  You can hear the fountain in the middle twinkling.  Along with
+the birds outside singing.  Enjoy it while you can for you may be back in to
+the real world in a short amount of time.  
+~
+0 140518412 0
+O Valika~
+S
+#56
+~
+~
+0 4 0
+S
+#60
+Admist the fog~
+~
+0 408945668 0
+S
+#61
+Tinker's Festival~
+~
+0 140510212 0
+S
+#67
+Acebo's Room~
+This is Acebo's room. No loitering.
+`#[`^MAJ`#] `8[`!RFC`8] `2{`@FAIR`2} `&[`*LPDC`&] `$[`3R&R`$] `%[`6NCDM`%] `1{`&UNITE`1} `*[`8WA`*]  `@[`4R&RC`@]  `5[`2MM`5]`*
+~
+0 270542340 0
+S
+#68
+Dreyus' second room~
+This room has been created for many reasons, none of which actually make
+any sense.  Be that as it may though, Dreyus created this room, and he must
+have had some kind of reason to do it.  
+~
+0 4 0
+D3
+~
+~
+4 0 69
+S
+#69
+Armond's Pleasure Room~
+Nothing but pure chaotic sex takes place here, creating a vast
+masterpiece of human passion.
+~
+0 138421253 0
+D1
+~
+~
+4 0 68
+S
+#77
+Chamber of the Heavens ~
+~
+0 138420228 0
+D4
+~
+~
+0 0 78
+S
+#78
+~
+The twin `^w`7at`&erfa`7ll`^s `7spill into a large lake of clear blue water.
+It is always dusk here and the three moons and their neighboring stars are
+always shining upon this field of tall grass.  The breeze is gentle and cool
+and softly caresses everything it touches.  The soothing music of the crickets
+are the only other sound that can be heard besides the rushing water from the
+falls.  Fireflies blink their greetings to one another as the sky, shades of
+deep blues and purples, embrace this peaceful and romantic land.
+~
+0 205529092 2
+D5
+~
+~
+0 0 77
+S
+#97
+`8Lynn's Chill Room`*~
+`8...Deep Breath...
+
+
+
+
+...........Count to ten...
+
+
+
+
+`8.................Now 'look' again...
+
+
+
+
+
+~
+0 2122240 0
+D4
+~
+~
+3 0 98
+S
+#98
+`&L`*ynn's `!P`1it `&o`*f `$D`4espair`*~
+`&
+`&
+`&
+`&
+`#Pr`3a`#c`3tic`#e `&M`*ak`&es `3Pe`#r`3fe`#ct.`*
+
+
+
+
+ 
+ 
+~
+0 141058564 0
+D5
+~
+~
+3 0 97
+S
+#99
+`&L`*ynn's `@R`2etreat`*~
+Towering trees stretch branches heavy with leaves high overhead.  Twisted
+by age and weather, they intertwine themselves into a natural canopy,
+sheltering those below.  Tiny spears of dappled light filter through
+miniscule gaps, to paint the ground at your feet in jumping patterns of dark
+browns and greys.  Fallen leaves spark golds and brilliant yellows in this
+quiet glade, undisturbed by the gentle breeze wafting through like kisses
+from the gods.
+
+Soft sounds of birds rustling overhead pause at the scene beneath the
+natural ceiling.  Two figures, seated on a mossy boulder, seem to 
+jostle over the position, each claiming the surface for themselves for
+a short time, until one twists 'round cunningly, plopping the other to 
+the leaf-littered floor.
+
+They laugh, and their hilarity is contagious, filling the clearing
+with an invigorating new hope that whatever brings you here for refuge, 
+will soon pass.
+
+~
+0 138421256 0
+E
+paper~
+`* Sellers is a highly trained expert of picking out minute details in a
+room only minutes after he enters it.  Sources say he could be a spy...  
+
+
+~
+D0
+~
+~
+0 0 26065
+D1
+~
+~
+0 0 26076
+D2
+~
+~
+0 0 26067
+D3
+~
+~
+0 0 26069
+D4
+~
+~
+0 0 5525
+S
+#0
+
+
+
+#SPECIALS
+M 3 spec_breath_acid
+M 6 spec_breath_any
+M 12 spec_questmaster
+M 21 spec_questmaster
+M 23 spec_questmaster
+M 25 spec_breath_any_but_acid
+M 27 spec_questmaster
+M 56 spec_questmaster
+M 77 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 1 5 1
+D 0 6 0 1
+D 0 7 2 1
+D 0 68 3 2
+D 0 69 1 2
+D 0 97 4 2
+D 0 98 5 2
+M 0 5 1 4 1 40 Load MMage's Guard
+O 0 51 0 6 0 100 `$s`4aradins `8r`&ecliner`7 loaded to Demandred's Acid Room
+O 0 3895 0 6 0 100 `8de`&m`8andred`7's throne loaded to Demandred's Acid Room
+O 0 21194 0 7 0 100 A wooden stall loaded to The Immortal bathroom
+O 0 21196 0 7 0 100 A stained urinal loaded to The Immortal bathroom
+M 0 21196 1 7 1 100 Load Bathroom Man
+G 0 21193 0 0 0 100 "the soap" is given to Bathroom Man
+O 0 21197 0 7 0 100 A shitter loaded to The Immortal bathroom
+O 0 51 0 9 0 100 `$s`4aradins `8r`&ecliner`7 loaded to `4S`$aradins `1G`!ameroom`7
+M 0 25 1 10 1 100 Load a `8black`7 robed man
+O 0 66 0 11 0 100 A giant `2marijuanna`* plant loaded to Matt's Basement
+O 0 67 0 11 0 100 A giant bong loaded to Matt's Basement
+O 0 36 0 11 0 100 Molotov cocktail comfy chair loaded to Matt's Basement
+M 0 12 1 12 1 100 Load A Member of the Mafia
+O 0 2470 0 13 0 100 A token worth 1000 qps loaded to Stoic's Bar
+M 0 8599 1 13 1 100 Load Travis
+O 0 36 0 13 0 100 Molotov cocktail comfy chair loaded to Stoic's Bar
+E 0 8403 0 19 0 100 A beer is loaded held in the hands of Travis
+M 0 16 1 16 1 100 Load `@P`2uff `$T`4he `$M`4agic `@D`2ragon`7
+O 0 98 0 17 0 100 A sign loaded to feafe
+M 0 23 1 23 1 100 Load A Member of the Mafia
+M 0 7 1 25 1 100 Load The Cashier
+E 0 45 0 19 0 100 A gambling key is loaded held in the hands of The Cashier
+M 0 2 1 25 1 100 Load The Dealer
+M 0 27 1 27 1 100 Load The Gnome
+M 0 50 1 51 1 100 Load test mob
+M 0 4308 1 54 1 100 Load A man
+E 0 4314 0 17 0 100 A sword is loaded wielded of A man
+M 0 56 1 55 1 100 Load Valerie
+M 0 78 1 67 1 100 Load The Chan
+O 0 97 0 68 0 100 A comfortable chair loaded to Dreyus' second room
+O 0 70 0 69 0 100 `!c`8h`7ai`&r `8of `&p`7le`&a`8su`7r`!e`7 loaded to Armond's Pleasure Room
+O 0 77 0 77 0 100 `7`$t`4h`$r`4o`$n`4e `$o`4f `$m`4i`$s`4t`7 loaded to Chamber of the Heavens 
+M 0 77 1 77 1 100 Load `7`4L`7u`4c`7k `4D`7r`4a`7g`4o`7n
+O 0 78 0 78 0 100 A patchwork blanket loaded to 
+O 0 78 0 78 0 100 A patchwork blanket loaded to 
+O 0 97 0 97 0 100 A comfortable chair loaded to `8Lynn's Chill Room`*
+M 0 99 1 99 1 100 Load her connection
+E 0 79 0 5 0 100 `$t`4he `$m`4os`$t `8co`6mf`*o`8r`*t`6ab`8le`* `8h`6o`*o`6d`8y `$i`4n `$t`4he `$w`4orl`$d`* is loaded on the body of her connection
+M 0 96 1 99 1 100 Load Merkaba's Big Wheel
+O 0 5417 0 99 0 100 A rock loaded to `&L`*ynn's `@R`2etreat`*
+O 0 19895 0 99 0 100 `$m`4erkaba'`$s b`4i`$g w`4hee`$l`* loaded to `&L`*ynn's `@R`2etreat`*
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#2
+say LLLLLLLLLETS GET READY TO GAMBLLLLLLLLLLLLLLE!!!!!!!
+~
+#3
+say You have now placed your bet, $n.
+mob delay 1
+if rand 90
+mob oload 47
+mob oload 43
+else
+if rand 45
+mob oload 42
+mob oload 43
+else
+if rand 1
+mob oload 43
+mob oload 42
+endif
+endif
+endif
+say Choose your fate and pick one of the tokens.
+if rand 50
+drop token
+else
+drop 2.token
+endif
+drop token
+break
+endif
+~
+#4
+mob delay 1
+say Game's over.  You waited much too long to play the game.
+~
+#5
+mob goto 2798
+mob transfer dealergambling
+mob force dealergambling drop all
+get all
+drop chance
+sac chance
+mob oload 44
+mob oload 46
+unlock bag
+open bag
+put all bag
+close bag
+lock bag
+mob transfer dealergambling 25
+mob goto 25
+say And here's your prize, $n.
+give bag $n
+~
+#6
+mob at 2798 drop all
+~
+#7
+say Please feel free to 'dropkick' or 'piledrive' me
+say I'm BATHROOM MAN!!
+emote dropkicks you.
+~
+#8
+sac token
+sac token
+mob goto 2799
+mob purge janitor
+~
+#10
+say RIDE.. OR.. DIE!
+emote drops his beer can and flings poo at you.
+pinch $n
+~
+#11
+emote is initiating poem in 3....2.....1......
+if rand 91
+say Alisha, Alisha, she's our man!
+say If she can't do it, well...Pam prolly can.
+else
+if rand 85
+say What do you call 3 beds, 2 fat guys, and 4 dollars?
+say A great night for Alisha!
+else
+if rand 80 
+say This is a -True Story-
+say Instead of making a shortcut for ICQ onto her desktop....
+say Alisha just dl'ed it everytime she needed to use it.
+say S-M-R-T! I guess she really needed 70 ICQ's.
+else
+if rand 75
+say What do you call ((2 * 5) - 10) * 4500?
+say Besides math....
+say It's the # of friends Alisha has!
+else
+if rand 1
+say More to Come...
+endif
+break
+~
+#12
+~
+#13
+if clan $n guide
+osay Hello
+else
+osay goodbye
+break
+~
+#16
+if sex $n == 0
+say $n, What a hottie
+else
+say $n, I don't go for men
+endif
+say Hello
+~
+#17
+say Sup yo.
+~
+#20
+MOB DAMAGE all 200 300 lethal
+mob echoat $n A `&Gi`7a`&nt `@M`2ut`@a`2te`@d `#Tu`3rk`#ey`7's gobble gobble `!<> `1HURTS `!<>`7 you!
+~
+#21
+say GOBBLE GOBBLE!
+break
+~
+#22
+say BAGOCK!
+break
+~
+#23
+MOB DAMAGE all 200 300 lethal
+mob echoat $n A `8D`&a`8ll`&a`8s`7 `8C`7o`&wb`7o`8y`7's horrible defense `&### DiSGUSTS ### `7you!
+~
+#25
+mob delay 1
+wake $n
+emote shakes his head slowly.
+say You cannot sleep here $n, the Immortals do not allow it.
+~
+#26
+mob delay 1
+goto $n
+mob trans $n
+goto $n
+say You cannot escape that easily, $n.  Sit tight.
+~
+#30
+say Greetings traveller, do you like to gamble?
+~
+#31
+Say Excellent, then let's play a game. I am thinking of a number between one and ten.
+say You have 3 guesses. If you guess correctly, then you will be rewarded very greatly.
+say However, if you guess wrong 3 times, you will meet your fate.
+say Now, pick a number.
+mob mload 31
+mob goto 14
+mob purge
+
+~
+#32
+say No? Well then let you die wandering within the void!
+mob echoaround $n A vortex opens, and $n is suddenly sucked into it!
+mob transfer $n 5375
+~
+#33
+if rand 90
+say You guessed correctly! Here is your prize..
+mob echoat $n A vortex opens before you and you are suddenly sucked in!
+mob transfer $n 10393
+mob mload 30
+mob goto 14
+mob purge
+else
+say I'm sorry, you have 2 more chances.. Guess again.
+mob mload 32
+mob goto 14
+mob purge
+endif
+~
+#34
+if rand 90
+say You guessed correctly! Here is your prize..
+mob echoat $n A vortex opens before you and you are suddenly sucked in!
+mob transfer $n 10393
+mob mload 30
+mob goto 14
+mob purge
+else
+say I'm sorry, you only have one chance left.. Guess again.
+mob mload 33
+mob goto 14
+mob purge
+endif
+~
+#35
+if rand 90
+say You guessed correctly! Here is your prize..
+mob echoat $n A vortex opens before you and you are suddenly sucked in!
+mob transfer $n 10393
+mob mload 30
+mob goto 14
+mob purge
+else
+say How unfortunate, you did not guess correctly.. Here is your punishment.
+emote grins.
+mob echoaround $n A vortex opens, and $n is suddenly sucked into it!
+mob transfer $n 8284
+mob mload 30
+mob goto 14
+mob purge
+endif
+~
+#43
+if class $n 'warrior'
+osay Hello, warrior. care to play a game?
+else
+if class $n 'mage'
+osay Hello, mage. Care to play a game?
+endif
+endif
+~
+#44
+mob oload 48
+mob oload 49
+mob goto 2798
+unlock bag
+open bag
+put token bag
+put dallas bag
+close bag
+lock bag
+mob goto Jasin
+give bag $n
+say Your bet has been placed, $n.
+say Please turn this bag into Jasin after the game.
+~
+#50
+~
+#51
+say Hello $n.
+if PC_WEIGHT $n >= 600
+Holy macroni $n, you weigh over 600 pounds!
+else
+say You aren't too heavy yet $n.
+endif
+~
+#54
+say Well fine then. Get out of here.
+~
+#55
+say My you look tired $n.
+say Would you like a nice long back massage?
+emote waits patiently for your answer.
+~
+#57
+say Ahh..then lay down here and I will begin.
+emote massages your back.
+~
+#77
+say Ok!
+emote kneels down.
+say I am to please you, Master!
+emote takes your penis into her mouth and swirls her tounge around.
+emote starts bobbing her head up and down.
+~
+#78
+say Oooh baby, so you want a lap dance from me?
+emote wiggles her bottom towards you.
+emote begins to remove her clothing, one article at a time.
+emote takes off her top, then skirt, and dances around the room in her underwear.
+emote fondles you.
+emote smiles mischievously as she unfastens her bra.
+Now topless, she begins to fondle you, wrapping her voluptuous breasts
+around your head.
+With a wink, she reaches down and jerks off her panties.
+Now completely nude, she dances seductively around the room and winks 
+suggestivley at you.
+With one more giggle, Lilith grabs up her discarded clothing and covers her
+exposed body, then runs to the next room to re-clothe herself. Returning
+fully clothed, she waits for the next lapdance
+~
+#97
+if level $n<81
+wake $n
+endif
+~
+#98
+pmote looks up at Lynn adoringly.
+pmote crawls to her lap and curls up, snuggling.
+~
+#99
+mobdelay 1
+emote grovels on its belly in the dirt
+mobdelay 2
+emote pleads, '`%I didn't do anything, please, have mercy!`*'
+break
+~
+#0
+
+#OBJPROGS
+#42
+obj echo `1The correct token has been picked up.  $n has won.`7
+obj echoat $n `1To cash in your prize token, give it to the cashier.`7
+obj otransfer tokenb 2799
+~
+#43
+obj mload 1
+obj echo `1The incorrect token has been picked up.  $n has lost.`7
+obj force $n drop token
+obj transfer dealergamb 2799
+obj otransfer tokena 2799
+obj otransfer token 2799
+obj force dealergamb drop all
+obj transfer dealergamb 25
+obj goto 25
+obj force cashier nod
+~
+#44
+obj echo `1The correct token has been selected.  $n has won.`7
+obj echoat $n `1Turn the token into the cashier quickly!`7
+obj otransfer tokenb 2799
+~
+#45
+obj echo `1The incorrect token has been selected.  $n has lost.`7
+obj otransfer tokena 2799
+obj force $n drop tokenb
+obj force $n sac tokenb
+~
+#47
+~
+#0
+
+#ROOMPROGS
+#1
+room echo Boom chicka bow bow, boom chicka chicka bow bow.
+~
+#2
+room echo A soft glow emanates from the lamps and candles, and in the background soft music plays.
+~
+#3
+room echo As the lights dim, you can hear music come on, and a spotlight activates, highlighting the bed.
+~
+#5
+room echo `&Welcome to Asmo's Fantasy Land`*
+~
+#13
+if clan $n 'seanchan'
+echo FUCK
+else
+echo FUCKNO
+endif
+~
+#21
+~
+#30
+room echo FEAFE
+~
+#43
+room force dealergamb sac token
+room force dealergamb sac token
+~
+#51
+~
+#67
+room echo The lights dim, and the Chan slowly gets up on stage to the delight of viewers everywhere.
+~
+#68
+room echo The world is on fire as she slowly walks over to you, and you say those final words, 'strip'
+~
+#97
+wake $n
+endif
+~
+#0
+
+#$

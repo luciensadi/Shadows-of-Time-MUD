@@ -1,0 +1,986 @@
+#AREADATA
+Name Furies Guild Area~
+Builders None~
+VNUMs 7526 7550
+Credits `4[`7 None `4]`7 Deviant   Furies Safe~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#7526
+-=inferno~
+Inferno~
+The misty statue of the great warrior Inferno is here.
+~
+~
+dragon~
+0 0
+ABJKZab 256 0 0 0 -1  0 0
+100 50 1d1+31999 10d10+100 10d10+100 none
+-10 -10 -10 -10
+FI CD UV 0
+stand stand male  500
+AHZ ACDEFGHIJKPQUVX medium unknown
+F res BEH
+F vul FI
+#7527
+honorable assassin fate fury~
+Honorable Assassin of Fate~
+A shrouded nondescript fury bows before you.
+~
+~
+cairhien~
+0 0
+ABFTZe 57680 1104 0 32776 -1  -301 0
+775 500 1d1+29999 1d1+9999 2d200+100 divine
+-10 -10 -10 -10
+CEFGIJKNOR ABJN 0 DKL
+stand stand none 50000
+AHMV ABCDEFGHIJK giant unknown
+#7528
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#7529
+-=leatherwolf~
+Leatherwolf~
+The misty statue of the great warrior Leatherwolf is here.
+~
+~
+school monster~
+0 0
+ABTUZe 320 1088 0 1 -1  0 0
+1 1000 1d1+31999 0d0+0 0d0+0 none
+0 0 0 0
+FHR ABCD 0 C
+stand stand none 0
+AMV ABCDEFHJKQU medium unknown
+#7530
+-=reznr~
+Reznr~
+The misty statue of the great warrior Reznr is here.
+~
+~
+school monster~
+0 0
+ABTUZe 320 1088 0 1 -1  0 0
+1 1000 1d1+31999 0d0+0 0d0+0 none
+0 0 0 0
+FHR ABCD 0 C
+stand stand none 0
+AMV ABCDEFHJKQU medium unknown
+#7531
+-=decadence~
+Decadence~
+The misty statue of the great warrior Decadence is here.
+~
+~
+school monster~
+0 0
+ABTUZe 320 1088 0 1 -1  0 0
+1 1000 1d1+31999 0d0+0 0d0+0 none
+0 0 0 0
+FHR ABCD 0 C
+stand stand none 0
+AMV ABCDEFHJKQU medium unknown
+#7532
+-=horatio~
+`7Horatio~
+The misty statue of the great warrior Horatio is here.
+~
+~
+song bird~
+0 0
+ABTUZe 320 1088 0 1 -1  0 0
+1 1000 1d1+31999 0d0+0 0d0+0 none
+0 0 0 0
+FHR CD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AGW
+F par ACDEFHKP
+#7533
+assassin sanctuary furies~
+`7Assassin of Sanctuary~
+An assassin stands inside the protective aura of Sanctuary.
+~
+~
+unique~
+0 0
+ABQZae 336 1024 0 0 -1  0 0
+100 0 1d1+31999 0d0+0 0d0+0 none
+-500 -500 -500 0
+0 CD 0 0
+stand stand none 0
+0 0 medium unknown
+#7534
+personal assassin~
+`7Personal Assassin~
+A personal assassin stands at attention, wary of any unexpected company.
+~
+~
+cairhien~
+0 0
+ABFZ 33104 1106 0 0 -1  0 0
+775 775 1d1+4999 0d0+0 1d1+49 none
+-100 -100 -100 -100
+FJKNR 0 CDNQ 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#7535
+red mob~
+the `!RED`7 Mob~
+The `!RED`7 Mob is here, standing with his hand on his hips.
+~
+~
+andor~
+0 0
+ABGTZe 49472 64 128 1 -1  0 0
+500 500 1d1+35000 0d0+0 1d1+500 sting
+-200 -200 -200 -200
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK huge unknown
+#7536
+blue mob~
+the `$BLUE`7 Mob~
+The `$BLUE`7 Mob is here, standing with his hand on his hips.
+~
+~
+andor~
+0 0
+ABGTZe 49472 64 128 1 -1  0 0
+500 500 1d1+35000 0d0+0 1d1+500 sting
+-200 -200 -200 -200
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK huge unknown
+#0
+
+
+
+#OBJECTS
+#7526
+window gateway ter'angreal~
+ter'angreal gateway~
+A twisted ter'angreal gateway shimmers nearby.~
+heartstone~
+window ABOT 0
+0
+ABCFGIKLM 0 0 0 0
+0 0 0 P
+ T 0 none~
+#7527
+window gateway ter'angreal~
+ter'angreal gateway~
+A twisted ter'angreal gateway shimmers nearby.~
+heartstone~
+window ABOT 0
+0
+ADEFHIJL 0 0 0 0
+0 0 0 P
+ T 0 none~
+#7528
+window gateway ter'angreal machael~
+ter'angreal gateway~
+A twisted ter'angreal gateway shimmers nearby.~
+heartstone~
+window ABOT 0
+0
+ADFGIKLM 0 0 0 0
+0 0 0 P
+ T 0 none~
+#7529
+window gateway ter'angreal adventuremaster~
+ter'angreal gateway~
+A twisted ter'angreal gateway shimmers nearby.~
+heartstone~
+window ABOT 0
+0
+DFGIKLM 0 0 0 0
+0 0 0 P
+ T 0 none~
+#7530
+window gateway ter'angreal yellow~
+ter'angreal gateway~
+A twisted ter'angreal gateway shimmers nearby.~
+heartstone~
+window ABOT 0
+0
+BEFGIKLM 0 0 0 0
+150 0 0 P
+ T 0 none~
+#7531
+divine throne fate~
+`7Divine Throne of Fate~
+A massive black hand outstretches to form a throne.~
+heartstone~
+furniture OT 0
+0
+C EGHIJK EHK BCEH BCEH
+0 0 0 P
+ T 0 none~
+#7532
+fuligin cloak torturer guild~
+`7Fuligin Cloak of the Executioner~
+A cloak lies here, so black you can't see the folds in the cloth.~
+heartstone~
+armor ABIY AK
+0
+ACDF ACDF ACDF ACDF 0
+150 50 50000 P
+A
+13 30
+A
+20 -10
+A
+19 10
+A
+18 10
+ T 0 none~
+#7533
+terminus est~
+`7Terminus Est~
+A cool smooth bladed weapon lies motionless, waiting to bring death.~
+heartstone~
+weapon ABIMY AN
+0
+dagger 76 1 drain ACE
+150 80 50000 P
+A
+13 87
+A
+1 5
+A
+20 -10
+ T 0 none~
+#7534
+window gateway ter'angreal~
+ter'angreal gateway~
+A twisted ter'angreal gateway shimmers nearby.~
+heartstone~
+window ABOT 0
+0
+BCEFGIKLM 0 0 0 0
+150 50 50000 P
+ T 0 none~
+#7535
+seering darkness soul reaver~
+`7Searing Darkness of a Soul Reaver~
+Pain strokes your mind as an old familar friend, forever shackled to your  wrists.~
+heartstone~
+armor ABJKY AM
+0
+ACDF ACDF ACDF ACDF 0
+150 50 50000 P
+A
+13 50
+A
+19 10
+A
+18 10
+A
+20 -8
+ T 0 none~
+#7536
+fuligin cord heartstone~
+`7Fuligin Cord of Heartstone~
+The cool black metal feels like a noose around your neck.~
+heartstone~
+armor ABJKY AC
+0
+ACDF ACDF ACDF ACDF 0
+150 50 50000 P
+A
+13 50
+A
+20 -8
+A
+19 10
+A
+18 10
+ T 0 none~
+#7537
+thin air bag~
+`7thin air~
+The air around this area is more dense that anything you have felt, impenetrable~
+heartstone~
+container ABHTYZa AQ
+0
+500 AB 0 500 25
+150 500 50000 P
+A
+12 55
+A
+13 100
+ T 0 none~
+#7538
+window gateway ter'angreal~
+ter'angrael gateway~
+A twisted ter'angreal gateway shimmers nearby.~
+heartstone~
+window ABOT 0
+0
+BDFGIKLM 0 0 0 0
+76 10 10000 P
+ T 0 none~
+#7539
+elixir divinity~
+`7Elixir of Divinity~
+A small glowing vial pulsates with regenerative powers.~
+heartstone~
+potion ABYa A
+0
+150 'heal' 'teleport' 'refresh' 'reserved'
+76 10 10000 P
+ T 0 none~
+#7540
+circle divine honor~
+`7Circle of Divine Honor~
+The bond of your word cannot be broken. It is signified by this unending circle.~
+heartstone~
+armor ABY AB
+0
+ACDF ACDF ACDF ACDF 0
+150 50 50000 P
+A
+13 100
+A
+12 30
+A
+20 -10
+ T 0 none~
+#7541
+ruby-hilted heartstone dagger~
+`7Ruby-Hilted Heartstone Dagger~
+The most powerful weapon possible lies before your grasp!~
+heartstone~
+weapon ABIMOTYa AN
+0
+dagger 75 1 divine ACE
+150 70 99999 P
+ T 0 none~
+#7542
+window gateway ter'angreal~
+ter'angreal gateway~
+A twisted ter'angreal gateway shimmers nearby.~
+heartstone~
+window ABOT 0
+0
+BCDFGIKLM 0 0 0 0
+150 0 0 P
+ T 0 none~
+#7543
+assassin touch~
+`7Assassin's Touch~
+The touch of death can be painless.~
+heartstone~
+weapon ABHMOTZ 0
+0
+exotic 0 0 none 0
+0 100 0 P
+A
+19 -3
+ T 0 none~
+#7544
+mask thousand faces~
+`7Mask of a Thousand Faces~
+I cor~
+heartstone~
+armor AB AE
+0
+ABF ABF ABF ABF 0
+110 100 50000 P
+S 'detect invis'   0  80  -1  25   0          4
+S 'detect hidden'   0  80  -1  25   0          6
+A
+19 9
+A
+18 9
+ T 0 none~
+#7545
+chance potion~
+`7Potion of Chance~
+Your future lies before you. Choose and let fate decide.~
+heartstone~
+potion ABTYa A
+0
+1 'magic missile' 'reserved' 'reserved' 'reserved'
+1 10 0 P
+ T 0 none~
+#7546
+chance potion~
+`7Potion of Chance~
+Your future lies before you. Choose and let fate decide.~
+heartstone~
+potion ABTYa A
+0
+1 'bless' 'reserved' 'reserved' 'reserved'
+1 10 0 P
+ T 0 none~
+#7547
+no name~
+`7~
+`7~
+heartstone~
+window ABOT 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#7548
+no name~
+`7~
+`7~
+heartstone~
+window ABOT 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#7549
+no name~
+`7~
+`7~
+heartstone~
+window ABOT 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#7550
+hand fate signet ring~
+`7Hand of Fate Signet Ring~
+The divine mark of the assassin is dangerous to possess.~
+heartstone~
+key ABYZa AB
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#7526
+Furies Meeting Chamber~
+~
+0 138421252 1
+D0
+~
+~
+4 7550 7528
+D2
+~
+~
+4 7550 6400
+D4
+~
+~
+4 7550 7550
+S
+#7527
+`7[`8F`7U`&RI`7E`8S`7] Guild Store~
+The shrieking winds of a monstrous storm surround you, spinning you
+around in an endless web of fury.  But then, in the middle of turmoil, you
+find a strange calm.  You find yourself hovering in a calm eye of a
+hurricane.  All around you is the destruction caused by the powerful storm. 
+White hot flashes of lightning flicker from the depths of the hurricane. 
+But everything is strangely peaceful in here, with the sun shining in from
+above and a flock of birds winging across the sky.  You stretch out and
+relax, this storm is going to be here a while.  
+~
+0 1024 0
+D5
+~
+~
+0 0 7550
+S
+#7528
+Sanctum of Glory~
+~
+0 205529088 0
+D2
+~
+~
+4 7550 7526
+S
+#7529
+Hand of Fate Tribunal~
+~
+0 4 0
+S
+#7530
+Outer Circle of Honor~
+~
+0 4202496 5
+D1
+~
+~
+0 0 7531
+D2
+~
+~
+0 0 7545
+D5
+~
+~
+4 7550 3054
+S
+#7531
+Outer Circle of Honor~
+~
+0 4202496 5
+D1
+~
+~
+0 0 7532
+D3
+~
+~
+0 0 7530
+D5
+~
+~
+4 7550 3054
+S
+#7532
+Outer Circle of Honor~
+~
+0 4202496 5
+D1
+~
+~
+0 0 7533
+D2
+~
+~
+0 0 7547
+D3
+~
+~
+0 0 7531
+D5
+~
+~
+4 7550 3054
+S
+#7533
+Outer Circle of Honor~
+~
+0 4202496 5
+D1
+~
+~
+0 0 7534
+D3
+~
+~
+0 0 7532
+D5
+~
+~
+4 7550 3054
+S
+#7534
+Outer Circle of Honor~
+~
+0 4202496 5
+D2
+~
+~
+0 0 7535
+D3
+~
+~
+0 0 7533
+D5
+~
+~
+4 7550 3054
+S
+#7535
+Outer Circle of Honor~
+~
+0 4202496 5
+D0
+~
+~
+0 0 7534
+D2
+~
+~
+0 0 7536
+D5
+~
+~
+4 7550 3054
+S
+#7536
+Outer Circle of Honor~
+~
+0 4202496 5
+D0
+~
+~
+0 0 7535
+D2
+~
+~
+0 0 7537
+D3
+~
+~
+0 0 7548
+D5
+~
+~
+4 7550 3054
+S
+#7537
+Outer Circle of Honor~
+~
+0 4202496 5
+D0
+~
+~
+0 0 7536
+D2
+~
+~
+0 0 7538
+D5
+~
+~
+4 7550 3054
+S
+#7538
+Outer Circle of Honor~
+~
+0 4202496 5
+D0
+~
+~
+0 0 7537
+D3
+~
+~
+0 0 7539
+D5
+~
+~
+4 7550 3054
+S
+#7539
+Outer Circle of Honor~
+~
+0 4202496 5
+D1
+~
+~
+0 0 7538
+D3
+~
+~
+0 0 7540
+D5
+~
+~
+4 7550 3054
+S
+#7540
+Outer Circle of Honor~
+~
+0 4202496 5
+D0
+~
+~
+0 0 7549
+D1
+~
+~
+0 0 7539
+D3
+~
+~
+0 0 7541
+D5
+~
+~
+4 7550 3054
+S
+#7541
+Outer Circle of Honor~
+~
+0 4202496 5
+D1
+~
+~
+0 0 7540
+D3
+~
+~
+0 0 7542
+D5
+~
+~
+4 7550 3054
+S
+#7542
+Outer Circle of Honor~
+~
+0 4202496 5
+D0
+~
+~
+0 0 7543
+D1
+~
+~
+0 0 7541
+D5
+~
+~
+4 7550 3054
+S
+#7543
+Outer Circle of Honor~
+~
+0 4202496 5
+D0
+~
+~
+0 0 7544
+D2
+~
+~
+0 0 7542
+D5
+~
+~
+4 7550 3054
+S
+#7544
+Outer Circle of Honor~
+~
+0 4202496 5
+D0
+~
+~
+0 0 7545
+D1
+~
+~
+0 0 7546
+D2
+~
+~
+0 0 7543
+D5
+~
+~
+4 7550 3054
+S
+#7545
+Outer Circle of Honor~
+~
+0 4202496 5
+D0
+~
+~
+0 0 7530
+D2
+~
+~
+0 0 7544
+D5
+~
+~
+4 7550 3054
+S
+#7546
+Inner Circle of Honor~
+~
+0 4202496 5
+D1
+~
+~
+0 0 7550
+D3
+~
+~
+0 0 7544
+D5
+~
+~
+4 7550 3054
+S
+#7547
+Inner Circle of Honor~
+~
+0 4202496 5
+D0
+~
+~
+0 0 7532
+D2
+~
+~
+0 0 7550
+D5
+~
+~
+4 7550 3054
+S
+#7548
+Inner Circle of Honor~
+~
+0 4202496 5
+D1
+~
+~
+0 0 7536
+D3
+~
+~
+0 0 7550
+D5
+~
+~
+4 7550 3054
+S
+#7549
+Inner Circle of Honor~
+~
+0 4202496 5
+D0
+~
+~
+0 0 7550
+D2
+~
+~
+0 0 7540
+D5
+~
+~
+4 7550 3054
+S
+#7550
+Sanctuary, the Heart of Honor~
+~
+0 138420224 5
+D0
+~
+~
+0 0 7547
+D1
+~
+~
+0 0 7548
+D2
+~
+~
+0 0 7549
+D3
+~
+~
+0 0 7546
+D5
+~
+~
+4 7550 7526
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 7526 0 2
+D 0 7526 4 2
+D 0 7528 2 2
+D 0 7530 5 2
+D 0 7531 5 2
+D 0 7532 5 2
+D 0 7533 5 2
+D 0 7534 5 2
+D 0 7535 5 2
+D 0 7536 5 2
+D 0 7537 5 2
+D 0 7538 5 2
+D 0 7539 5 2
+D 0 7540 5 2
+D 0 7541 5 2
+D 0 7542 5 2
+D 0 7543 5 2
+D 0 7544 5 2
+D 0 7545 5 2
+D 0 7546 5 2
+D 0 7547 5 2
+D 0 7548 5 2
+D 0 7549 5 2
+D 0 7550 5 2
+O 0 7526 0 7526 0 100 Ter'angreal gateway loaded to Furies Meeting Chamber
+M 0 7526 1 7526 1 100 Load Inferno
+E 0 7541 0 17 0 100 `7ruby-hilted heartstone dagger is loaded wielded of Inferno
+O 0 7527 0 7527 0 100 Ter'angreal gateway loaded to `7[`8F`7U`&RI`7E`8S`7] Guild Store
+M 0 7533 1 7527 1 100 Load `7Assassin of Sanctuary
+O 0 7529 0 7529 0 100 Ter'angreal gateway loaded to Hand of Fate Tribunal
+M 0 7527 1 7529 1 100 Load Honorable Assassin of Fate
+E 0 7544 0 6 0 100 `7mask of a thousand faces is loaded over the head of Honorable Assassin of Fate
+E 0 7550 0 1 0 100 `7hand of fate signet ring is loaded on the left finger of Honorable Assassin of Fate
+E 0 7536 0 3 0 100 `7fuligin cord of heartstone is loaded around the neck (1) of Honorable Assassin of Fate
+E 0 7536 0 4 0 100 `7fuligin cord of heartstone is loaded around the neck (2) of Honorable Assassin of Fate
+E 0 7532 0 12 0 100 `7fuligin cloak of the executioner is loaded about the shoulders of Honorable Assassin of Fate
+E 0 7540 0 2 0 100 `7circle of divine honor is loaded on the right finger of Honorable Assassin of Fate
+E 0 7537 0 20 0 100 `7thin air is loaded floating nearby of Honorable Assassin of Fate
+P 0 7539 5 7537 5 100 `7elixir of divinity put inside `7Elixir of Divinity
+E 0 7533 0 19 0 100 `7terminus est is loaded held in the hands of Honorable Assassin of Fate
+M 0 7534 1 7529 1 100 Load `7Personal Assassin
+E 0 7535 0 16 0 100 `7searing darkness of a soul reaver is loaded on the right wrist of `7Personal Assassin
+E 0 7541 0 17 0 100 `7ruby-hilted heartstone dagger is loaded wielded of `7Personal Assassin
+E 0 7535 0 15 0 100 `7searing darkness of a soul reaver is loaded on the left wrist of `7Personal Assassin
+O 0 7530 0 7530 0 100 Ter'angreal gateway loaded to Outer Circle of Honor
+O 0 7534 0 7534 0 100 Ter'angreal gateway loaded to Outer Circle of Honor
+O 0 7538 0 7538 0 100 Ter'angrael gateway loaded to Outer Circle of Honor
+O 0 7542 0 7542 0 100 Ter'angreal gateway loaded to Outer Circle of Honor
+O 0 7531 0 7550 0 100 `7divine throne of fate loaded to Sanctuary, the Heart of Honor
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

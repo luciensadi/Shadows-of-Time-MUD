@@ -1,0 +1,18436 @@
+#AREADATA
+Name Amador~
+Builders Deviant~
+VNUMs 17601 19100
+Credits `4[`7 High `4]`7 Deviant   Amador~
+Security 2
+Flags 0
+Version 3
+End
+
+
+
+#MOBILES
+#18101
+azgar spymaster~
+`7Azgar~
+The Spymaster sits here gathering information and disseminating it.
+~
+A deep, resonant voice beckons into you ear, "`%I have information for the Lord Captain
+Commander, out of my way or suffer the consequences.`7" He is a man of medium height with
+a bold face and dark eyes that appear deep and thoughtful. A commanding and fearless fool
+responsible for the gathering of information, and he serves as the "eyes-and-ears" for
+the Children of the Light. His dark eyes are framed by white bushy brows resembling wings.
+~
+amadicia~
+ABJKabde 336 1024 0 0 -1  0 0
+100 0 1d1+1 1d1+1 1d1+1 divine
+-100 -100 -100 -100
+0 CD 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 18104 key 2~
+M SPEECH 18103 key 1~
+M ACT 18101 bows before you~
+M SPEECH 18102 key list~
+M SPEECH 18105 key 3~
+M SPEECH 18106 key 4~
+M SPEECH 18107 key 5~
+M SPEECH 18108 key 6~
+#18102
+eamon valda lord captain commander~
+`7Eamon Valda~
+The Lord Captain Commander of the Children of Light stands before you.
+~
+A man of medium height stands before you, marked by his large crooked nose. He has a
+powerful face, and stern expression on his face. As leader of the Children of the
+Light, it has taken it's toll. His eye sockets appear gaunt and describe a man weary
+and tired of the struggle of the Shadow. This relentless determination calls to the
+thousands of soldiers at his command. There is no question who is in control here.
+~
+amadicia~
+ABCTZe 57680 1104 0 32768 -1  1000 0
+775 775 1d1+29999 1d1+14999 1d1+400 divine
+-50 -50 -50 -50
+ACEFIJKNOR CNQ 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18103
+rhadam asuwana high inquisitor~
+`7Rhadam Asuwana~
+The High Inquisitor of the Hand of Light stands before you.
+~
+Before you stands a tall and graying man with a gaunt face and deep-set eyes. His
+thick gray eyes show the age and wisdom of being able to search out and quickly
+identify the darkfriends that lie everywhere. Emanciated faces stare blankly back
+at their Questioner, and a small smile creeps from the corners of his mouth. The
+snowy white cloak with only a red sheperd's crook of the Hand of Light draws as
+always attention to who he is, which is registered in the crowds when they part
+for his slight gaze.
+~
+amadicia~
+ABCTZe 57680 1104 0 32768 -1  1000 0
+775 775 1d1+29999 1d1+14999 1d1+400 divine
+-50 -50 -50 -50
+ACEFIJKNOR CNQ 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18104
+personal guard~
+`7Personal Guard~
+A personal guard stands at attention, wary of potential assassins.
+~
+By any standards you would think this man nothing but a thug. However, with the
+eyes show a deeper understanding. He has been guarding his master for years, coming
+to understand all threats and where they may come from. The last line of defense
+is a serious matter, reflected even more strongly on his stern face.
+~
+amadicia~
+ABFZe 49488 1106 0 0 -1  1000 0
+775 775 1d1+4999 0d0+0 1d1+49 none
+-100 -100 -100 -100
+CFJKNR CDNQ 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18105
+child light guard~
+`7A Child of Light~
+A Child of the Light stands at attention, looking straight ahead.
+~
+Bearing a golden sunburst across his left breast, a Child of the Light stands at
+attention. Eyes never wavering form the path ahead, it is doubtful if he would
+notice anything from either side. He is wearing extremely white and clean clothing
+surpassed only by the gleam of his highly polished armor. Others may wonder whether
+a man this fine is even able to fight, but judging by the way he carries his sword
+he is skilled enough to cleave a path through any doubters.
+~
+amadicia~
+ABCGS 16464 1025 0 0 -1  1000 0
+100 50 1d1+3499 1d1+999 12d4+20 beating
+-20 -20 -20 -20
+EJR ABJNQ 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18106
+whitecloak child light patrol~
+`7A Child of Light~
+A Child of Light walks on patrol past you, looking straight ahead.
+~
+Bearing a golden sunburst across his left breast, a Child of the Light patrols back
+and forth looking for potential darkfriends. In passing he bellows, "`%Walk in the
+Light`7" to other soldiers that pass. Eyes never wavering from the path ahead, it is
+doubtful if he would notice anything from either side. He is wearing extremely white
+and clean clothing surpassed only by the gleam of his highly polished armor. Others
+may wonder whether a man this fine is even able to fight, but judging by the way he
+carries his sword, he is skilled enough to cleave a path through any doubters.
+~
+amadicia~
+ACGHS 0 1024 0 0 -1  1000 0
+117 50 1d1+2749 1d1+999 1d1+16 beating
+-15 -15 -15 -15
+EJ ABJN 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK small unknown
+#18107
+lord inquisitor hand light~
+`7Lord Inquisitor~
+A Lord Inquisitor rests idly waiting for the next Darkfriend to question.
+~
+~
+amadicia~
+ABTe 8528 1104 0 0 -1  1000 0
+250 500 1d1+19999 1d1+999 1d1+250 cleanse
+-75 -75 -75 -75
+CEFJNOR ABNQ 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18108
+inquisitor hand light~
+`7Inquisitor~
+A Hand of Light burns with fury in his eyes, and attacks.
+~
+~
+amadicia~
+ABCFSZe 336 1089 0 0 -1  1000 0
+100 100 1d1+9999 1d1+999 1d1+100 beating
+-35 -35 -35 -35
+ACEJOR ABJN 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18109
+lord captain~
+`7Lord Captain~
+A member of the Council of the Anointed scribbles down orders.
+~
+~
+amadicia~
+ABTe 8528 1104 0 0 -1  1000 0
+200 500 1d1+19999 1d1+999 1d1+250 beating
+0 0 0 0
+CEJKNOR ABNQ C Da
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18110
+senior lieutenant~
+`7Senior Lieutenant~
+A man bearing the golden knots of high rank talks softly to himself.
+~
+~
+amadicia~
+ABTe 336 1024 0 0 -1  1000 0
+160 150 1d1+17499 1d1+999 4d8+75 beating
+-10 -10 -10 -10
+CEFJKNOR ABCb 0 Da
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18111
+lieutenant~
+`7Lieutenant~
+Adorned with a single golden knot, a Lieutenant awaits orders.
+~
+~
+amadicia~
+ABTe 336 1024 0 0 -1  1000 0
+140 100 1d1+12499 1d1+999 1d1+89 beating
+-15 -15 -15 -15
+CEFJKNOR ABCb 0 Da
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18112
+under-lieutenant lieutenant~
+`7Under-lieutenant~
+A man wearing double silver lightning bolts sits reading a book.
+~
+~
+amadicia~
+ABTe 336 1088 0 0 -1  1000 0
+120 100 1d1+9999 1d1+999 1d1+69 beating
+-20 -20 -20 -20
+CEFJKNOR ABCb 0 Da
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18113
+bannerman unit commander~
+`7Bannerman~
+The unit commander paces slowly inspecting his soldiers.
+~
+~
+amadicia~
+ABG 336 1025 0 0 -1  1000 0
+125 60 1d1+7499 1d1+999 12d4+50 beating
+-30 -30 -30 -30
+ACEFJKR ABJ 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18114
+lothair mantelar~
+`7Lothair Mantelar~
+A priest in long white robes kneels as he chants words of the Way of the Light.
+~
+~
+amadicia~
+ABCFTZe 57680 16 0 0 -1  1000 0
+775 775 1d1+29999 1d1+14999 1d1+300 divine
+-40 -40 -40 -40
+ACEFIJKNOR AJNQ C 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18115
+dain bornhald lord captain~
+`7Dain Bornhald~
+A Lord Captain fumes over his father's death, checking everyone who approaches.
+~
+A narrow faced man looks everyone approaching up and down. A quiet fury rages
+beneath his sad eyes. Other than a sullen gaze, he stands at full attention. With
+extreme hatred he tells a story to the other Children standing around him about
+a man named Perrin Aybara with yellow eyes, who killed his father. A man according
+to him who will eventually pay dearly.
+~
+amadicia~
+ABTZe 8528 1104 0 0 -1  1000 0
+250 500 1d1+19999 1d1+999 1d1+250 beating
+-75 -75 -75 -75
+CEFJKNOR ABNQb 0 a
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18116
+lifeless hanging darkfriend~
+`7Lifeless Darkfriend~
+A lifeless darkfriend hangs by his neck making a perfect practice dummy.
+~
+~
+amadicia~
+ABTZe 336 1088 0 0 -1  1000 0
+50 -1000 1d1+29999 0d0+0 1d1+0 none
+10 10 10 10
+FKR CD 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 18109 disarm~
+#18117
+hari~
+`7Hari~
+An Amadician storekeeper stands here waiting patiently.
+~
+~
+amadicia~
+ABTZ 80 1024 0 0 -1  1000 0
+100 1000 1d1+99999 0d0+0 1d1+199 none
+-100 -100 -100 -100
+0 CD 0 0
+stand stand male  50000
+AHMV ABCDEFGHIJK medium unknown
+#18118
+abdel omerna~
+`7Abdel Omerna~
+A high ranking Child of the Light stands here whispering to himself.
+~
+A tall man with a bold, fearless face stands here. His strong chin is matched with
+a pair of wavy white hair at his temples. Staring with dark eyes looking around at
+every shadow as though expecting something to jump out. This is the supposed Spymaster
+of the Children of the Light, however he is merely a witless cover.
+~
+amadicia~
+ABTZ 336 1024 0 0 -1  1000 0
+100 1000 1d1+99999 0d0+0 1d1+199 none
+-100 -100 -100 -100
+0 CD 0 0
+stand stand male  50000
+AHMV ABCDEFGHIJK medium unknown
+#18119
+einor saren~
+`7Einor Saren~
+An Inquisitor of the Hand of the Light stands awaiting instructions.
+~
+A tall man stands here bearing a red sheperd's crook of the Hand of the Light. A
+gleam of certainty shines in his eyes. A sniff with his hook nose as he stands at
+attention awaiting orders from the High Inquisitor.
+~
+amadicia~
+ABTZ 336 1024 0 0 -1  1000 0
+100 1000 1d1+99999 0d0+0 1d1+199 none
+-100 -100 -100 -100
+0 CD 0 0
+stand stand male  50000
+AHMV ABCDEFGHIJK medium unknown
+#18120
+king ailron~
+`7King Ailron~
+The King of Amadicia sits upon his throne motioning for a wine glass.
+~
+~
+amadicia~
+ABCQTZe 57680 16 0 32768 -1  0 0
+775 775 1d1+29999 1d1+9999 1d1+300 beating
+-100 -100 -100 -100
+CEFIJKNOR DJNQb 0 a
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18121
+royal amadician palace guard~
+`7Royal Amadician Palace Guard~
+An Amadician Royal Palace Guard holds his station.
+~
+~
+amadicia~
+ABT 336 1024 0 0 -1  600 0
+160 150 1d1+17499 1d1+999 4d8+75 slash
+-100 -100 -100 -100
+CEFJKNOR BDJLb C a
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18122
+royal amadician palace guard patrol~
+`7Royal Amadician Palace Guard~
+An Amadician Royal Palace Guard patrols his designated route.
+~
+~
+amadicia~
+ABT 336 1024 0 0 -1  0 0
+160 150 1d1+17499 1d1+999 4d8+75 slash
+-100 -100 -100 -100
+CEFJKNOR BDJLb C a
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#18123
+red gold livery servant palace~
+`7Palace Servant~
+A palace servant in red and gold livery wanders by.
+~
+~
+amadicia~
+AGR 0 1088 0 0 -1  600 0
+100 75 1d1+2749 1d1+999 1d1+16 pierce
+-30 -30 -30 -30
+EJN ABJN D 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#18101
+key sunburst key fortress light~
+`7Golden Sunburst Key to the Fortress of Light~
+A large golden key adorned with a golden surburst lies here.~
+heartstone~
+key AYa A
+0
+0 0 0 0 0
+1 0 10000 P
+ T 0 none~
+#18102
+whitecloak mirrored steel key~
+`7[`&WHITECLOAK`7] Inquisitor's Mirrored Steel Key~
+[`&WHITECLOAK`7] A Hand of Light must have dropped this.~
+heartstone~
+key AYa A
+0
+0 0 0 0 0
+1 0 0 P
+ T 0 none~
+#18103
+golden sunburst key golden knots~
+`7Golden Sunburst Key adorned with Golden Knots~
+A pair of golden knots with slots resembling a key lies here.~
+heartstone~
+key AYa A
+0
+0 0 0 0 0
+0 0 10000 P
+ T 0 none~
+#18104
+golden sunburst officer signet key~
+`7Golden Sunburst Officer's Signet Key~
+A glowing sunburst glimmers in the shape of a key.~
+heartstone~
+key AYa A
+0
+0 0 0 0 0
+1 0 10000 P
+ T 0 none~
+#18105
+golden sunburst key council anointed~
+`7Golden Sunburst Key of the Council of the Anointed~
+A long intricate key adorned with twelve sunbursts lies here.~
+heartstone~
+key AYa A
+0
+0 0 0 0 0
+1 0 10000 P
+ T 0 none~
+#18106
+key whitecloak sliver pure light~
+`7[`&WHITECLOAK`7] Sliver of Pure Light~
+A blinding light illuminates all of the surroundings in the room.~
+heartstone~
+key AYa AO
+0
+0 0 0 0 0
+1 0 0 P
+ T 0 none~
+#18107
+window portal gateway tapestry~
+`7War of a Hundred Years Tapestry~
+A tapestry hangs here displaying the battles of the War of a Hundred Years.~
+heartstone~
+window AOYa 0
+0
+ABFIJKO 0 0 0 0
+150 0 0 P
+ T 0 none~
+#18108
+hand truth purity~
+`7Hand of Truth and Purity~
+A set of white gloves lie here glowing with sanctity and purity.~
+heartstone~
+armor ABKYa AH
+0
+ACDF ACDF ACDF ACDF 0
+150 50 50000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 50
+A
+14 -50
+ T 0 none~
+#18109
+ascending faith light~
+`7Ascending Faith in the Light~
+A ball of pure light floats nearby obliterating any darkness around it.~
+unknown~
+armor ABKYa AQ
+0
+ACDF ACDF ACDF ACDF 0
+150 50 50000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 50
+A
+14 -50
+ T 0 none~
+#18110
+halo righteousness~
+`7Halo of Righteousness~
+A eerie soft white light eminates from a solid ring of a strange material.~
+heartstone~
+armor ABKYa AE
+0
+ACDF ACDF ACDF ACDF 0
+150 50 50000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 50
+A
+14 -50
+ T 0 none~
+#18111
+`7~
+`7~
+`7~
+unknown~
+armor 0 AJ
+0
+0 0 0 0 0
+110 0 0 P
+ T 0 none~
+#18112
+way of the light~
+`7Way of the Light~
+A heron-marked non-descript weapon lies here pulsing with light.~
+unknown~
+weapon ABKYa AN
+0
+axe 75 1 blast CDG
+110 100 25000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 40
+A
+14 -45
+ T 0 none~
+#18113
+way of the light~
+`7Way of the Light~
+A heron-marked non-descript weapon lies here pulsing with light.~
+unknown~
+weapon ABKYa AN
+0
+flail 75 1 blast CDG
+110 100 25000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 40
+A
+14 -45
+ T 0 none~
+#18114
+way of the light~
+`7Way of the Light~
+A heron-marked non-descript weapon lies here pulsing with light.~
+unknown~
+weapon ABKYa AN
+0
+polearm 75 1 blast CDG
+110 100 25000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 40
+A
+14 -45
+ T 0 none~
+#18115
+way of the light~
+`7Way of the Light~
+A heron-marked non-descript weapon lies here pulsing with light.~
+unknown~
+weapon ABKYa AN
+0
+staff 75 1 blast CDG
+110 100 25000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 40
+A
+14 -45
+ T 0 none~
+#18116
+way of the light~
+`7Way of the Light~
+A heron-marked non-descript weapon lies here pulsing with light.~
+unknown~
+weapon ABKYa AN
+0
+spear 75 1 blast CDG
+110 100 25000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 40
+A
+14 -45
+ T 0 none~
+#18117
+way of the light~
+`7Way of the Light~
+A heron-marked non-descript weapon lies here pulsing with light.~
+unknown~
+weapon ABKYa AN
+0
+whip 75 1 blast CDG
+110 100 25000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 40
+A
+14 -45
+ T 0 none~
+#18118
+way of the light~
+`7Way of the Light~
+A heron-marked non-descript weapon lies here pulsing with light.~
+unknown~
+weapon ABKYa AN
+0
+dagger 75 1 blast CDG
+110 100 25000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 40
+A
+14 -45
+ T 0 none~
+#18119
+way of the light~
+`7Way of the Light~
+A heron-marked non-descript weapon lies here pulsing with light.~
+unknown~
+weapon ABKYa AN
+0
+mace 75 1 blast CDG
+110 100 25000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 40
+A
+14 -45
+ T 0 none~
+#18120
+way of the light~
+`7Way of the Light~
+A heron-marked non-descript weapon lies here pulsing with light.~
+unknown~
+weapon ABKYa AN
+0
+exotic 75 1 blast CDG
+110 50 25000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 40
+A
+14 -45
+ T 0 none~
+#18121
+gold embroidered satchel of virtue~
+`7Gold-Embroidered Satchel of Virtue~
+`7A pure white satchel with gold trim lies here.~
+unknown~
+container ABKYae AL
+0
+500 AB 0 50 50
+110 50 25000 P
+A
+18 10
+A
+19 10
+A
+13 35
+ T 0 none~
+#18122
+gold embroidered bag righteousness~
+`7Gold-Embroidered Bag of Righteousness~
+A pure white bag with gold trim lies here.~
+unknown~
+container ABHKTYa AL
+0
+100 AB 0 300 50
+110 50 10000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+14 -50
+A
+13 40
+ T 0 none~
+#18123
+belt twelve golden sunbursts~
+`7Belt of Twelve Golden Sunbursts~
+A white belt adorned with twelve golden sunbursts lies here.~
+unknown~
+armor ABKY AL
+0
+ABF ABF ABF ABF 0
+110 50 25000 P
+A
+18 10
+A
+19 10
+A
+17 -10
+A
+20 -5
+A
+14 -50
+A
+13 30
+ T 0 none~
+#18124
+steel lantern carved with lightning bolts~
+`7Steel Lantern carved with Lightning Bolts~
+A steel lantern carved with lightning bolts lies here.~
+heartstone~
+light ABLY A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18125
+silver lightning bolt signet ring~
+`7Silver Lightning Bolt Signet Ring~
+A ring engraved with silver lightning bolts lies here.~
+heartstone~
+armor ABLY AB
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18126
+pair silver lightning bolts pin~
+`7A Pair of Silver Lightning Bolts Pin~
+A pin in the shape of two lightning bolts lies here.~
+heartstone~
+armor ABLY AC
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18127
+white tabbard bearing silver lightning bolts~
+`7White Tabbard bearing Silver Lightning Bolts~
+A white tabbard embroidered with silver lightning bolts lies here.~
+heartstone~
+armor ABLY AD
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18128
+polished conical steel helm~
+`7Polished Conical Steel Helm~
+A well-polished conical steel helm lies here.~
+heartstone~
+armor ABLY AE
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18129
+polished steel leggings~
+`7A Pair of Polished Steel Leggings~
+A pair of well-polished steel leggings lie here.~
+heartstone~
+armor ABLY AF
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18130
+immaculate white leather boots~
+`7Immaculate White Leather Boots~
+A pair of extremely clean white leather boots lie here.~
+heartstone~
+armor ABLY AG
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18131
+immaculate white leather gloves~
+`7Immaculate White Leather Gloves~
+A pair of extremely clean white leather glvoes lie here.~
+heartstone~
+armor ABLY AH
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18132
+polished steel arm plates~
+`7Polished Steel Arm Plates~
+A pair of well-polished steel arm plates lie here.~
+heartstone~
+armor ABLY AI
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18133
+polished steel tower shield~
+`7Polished Steel Tower Shield~
+A full length well-polished steel tower shield lies here.~
+heartstone~
+armor ABLY AJ
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18134
+immaculate white cloak golden sunburst~
+`7Immaculate White Cloak bearing a Golden Sunburst~
+An extremely clean white cloak bearing a golden sunburst lies here.~
+heartstone~
+armor ABLY AK
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18135
+immaculate white leather belt~
+`7Immaculate White Leather Belt~
+An extremely clean white leather belt lies here.~
+heartstone~
+armor ABLY AL
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18136
+polished steel bracer silver lightning bolts~
+`7Polished Steel Bracer with Silver Lightning Bolts~
+A well-polished steel bracer with silver lightning bolts lies here.~
+heartstone~
+armor ABLY AM
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18137
+manual light~
+`7Manual of the Light~
+A book bound in bright white lies here.~
+heartstone~
+armor ABLY AO
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18138
+sphere pure light~
+`7Sphere of Pure Light~
+A sphere glowing with a soft white light floats nearby.~
+heartstone~
+armor ABLY AQ
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18139
+polished steel visor~
+`7Polished Steel Visor~
+A well-polished steel visor lies here.~
+heartstone~
+armor ABLY AR
+0
+ACE ACE ACE ACE 0
+54 0 0 P
+A
+12 -1
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18140
+silver lantern carved with golden sunbursts~
+`7Silver Lantern carved with Golden Sunbursts~
+A silver lantern carved with golden sunbursts lies here.~
+heartstone~
+light ABY A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18141
+golden sunburst signet ring~
+`7Golden Sunburst Signet Ring~
+A key engraved with a golden sunburst lies here.~
+heartstone~
+armor ABY AB
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18142
+pair golden knots pin~
+`7A Pair of Golden Knots Pin~
+A pin in the shape of two golden knots lies here.~
+heartstone~
+armor ABY AC
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18143
+white tabbard golden sunburst~
+`7White Tabbard bearing a Golden Sunburst~
+An extremely clean white tabbard bearing a golden sunburst lies here.~
+heartstone~
+armor ABY AD
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18144
+polished conical silver helm~
+`7Polished Conical Silver Helm~
+A well-polished conical silver helm lies here.~
+heartstone~
+armor ABY AE
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18145
+polished silver leggings~
+`7A Pair of Polished Silver Leggings~
+A pair of well-polished silver leggings lie here.~
+heartstone~
+armor ABY AF
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18146
+gold trimmed immaculate white leather boots~
+`7Gold-Trimmed Immaculate White Leather Boots~
+A gold-trimmed extremely clean pair of white leather boots lies here.~
+heartstone~
+armor ABY AG
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18147
+gold trimmed immaculate white leather gloves~
+`7Gold-Trimmed Immaculate White Leather Gloves~
+A pair of gold-trimmed extremely clean white leather gloves lie here.~
+heartstone~
+armor ABY AH
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18148
+polished silver tower shield~
+`7Polished Silver Tower Shield~
+A full length well-polished silver tower shield lies here.~
+heartstone~
+armor ABY AJ
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18149
+gold trimmed immaculate white cloak golden sunburst~
+`7Gold-Trimmed Immaculate White Cloak bearing a Golden Sunburst~
+A gold-trimmed, extremely clean white cloak bearing a golden sunburst lies here.~
+heartstone~
+armor ABY AK
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18150
+gold trimmed immaculate white leather belt~
+`7Gold-Trimmed Immaculate White Leather Belt~
+A gold-trimmed, extremely clean white leather belt lies here.~
+heartstone~
+armor ABY AL
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18151
+polished silver bracer golden knots~
+`7Polished Silver Bracer with Golden Knots~
+A well-polished silver bracer with golden knots lies here.~
+heartstone~
+armor ABY AM
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18152
+way light lothair mantelar~
+`7"Way of the Light" by Lothair Mantelar~
+A book bound in bright white titled, "Way of the Light" lies here.~
+heartstone~
+armor ABY AO
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18153
+revolving brilliant golden sunburst~
+`7Revolving Brilliant Golden Sunburst~
+A brilliant golden sunburst revolves around the room.~
+heartstone~
+armor ABY AQ
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18154
+polished silver visor~
+`7Polished Silver Visor~
+A well-polished silver visor lies here.~
+heartstone~
+armor ABY AR
+0
+F F F BCDE 0
+96 50 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18155
+half-mooned polished battle axe~
+`7Half-Mooned Polished Battle Axe~
+A well-polished, half-mooned battle axe lies here.~
+heartstone~
+weapon ABLY AN
+0
+axe 19 4 pound CD
+54 30 0 P
+A
+12 -11
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18156
+single-chained iron sunburst morningstar~
+`7Single-Chained Iron Sunburst Morningstar~
+A single-chained morningstar lies here.~
+heartstone~
+weapon ABLY AN
+0
+flail 19 4 pound CD
+54 30 0 P
+A
+12 -11
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18157
+thinly carved quarterstaff~
+`7Thinly Carved Quarterstaff~
+A thinly carved quarterstaff lies here.~
+heartstone~
+weapon ABLY AN
+0
+staff 19 4 pound CD
+54 30 0 P
+A
+12 -11
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18158
+single-edged steel throwing spear~
+`7Single-Edged Steel Throwing Spear~
+A short spear with a single edge lies here.~
+heartstone~
+weapon ABLY AN
+0
+spear 19 4 pound CD
+54 30 0 P
+A
+12 -11
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18159
+immaculate white leather whip~
+`7Immaculate White Leather Whip~
+An extremely clean white leather whip lies here.~
+heartstone~
+weapon ABLY AN
+0
+whip 19 4 pound CD
+54 30 0 P
+A
+12 -11
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18160
+polished steel dagger~
+`7Polished Steel Dagger~
+A well-polished steel dagger lies here.~
+heartstone~
+weapon ABLY AN
+0
+dagger 19 4 pound CD
+54 30 0 P
+A
+12 -11
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18161
+polished steel mallot~
+`7Polished Steel Mallot~
+A well-polished steel mallot lies here.~
+heartstone~
+weapon ABLY AN
+0
+mace 19 4 pound CD
+54 30 0 P
+A
+12 -11
+A
+13 25
+A
+20 -4
+A
+19 5
+A
+18 5
+ T 0 none~
+#18162
+double half-mooned polished battle axe~
+`7Double Half-Mooned Polished Battle Axe~
+A well-polished, double half-mooned battle axe lies here.~
+heartstone~
+weapon ABLY AN
+0
+axe 17 7 pound CD
+96 30 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18163
+triple-chained iron sunburst morningstar~
+`7Triple-Chained Iron Sunburst Morningstar~
+A triple-chained morningstar lies here.~
+heartstone~
+weapon ABLY AN
+0
+flail 17 7 pound CD
+96 30 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18164
+full-length golden waxwood staff~
+`7Full-Length Golden Waxwood Staff~
+A full-length golden waxwood staff lies here.~
+heartstone~
+weapon ABLY AN
+0
+staff 17 7 pound CD
+96 30 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18165
+double-edged silver spear~
+`7Double-Edged Silver Spear~
+A double-edged silver spear lies here.~
+heartstone~
+weapon 0 AN
+0
+spear 17 7 pound CD
+96 30 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18166
+immaculate white barbed leather whip~
+`7Immaculate White Barbed Leather Whip~
+An extremely clean barbed leather whip lies here.~
+heartstone~
+weapon ABLY AN
+0
+whip 17 7 pound CD
+96 30 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18167
+golden sunburst-hilted polished silver dagger~
+`7Golden Sunburst-hilted Polished Silver Dagger~
+A well-polished silver dagger with a golden sunburst hilt lies here.~
+heartstone~
+weapon ABLY AN
+0
+dagger 17 7 pound CD
+96 30 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18168
+polished silver mace~
+`7Polished Silver Mace~
+A well-polished silver mace lies here.~
+heartstone~
+weapon ABLY AN
+0
+exotic 17 7 pound CD
+96 30 10000 P
+A
+13 26
+A
+14 -10
+A
+12 -10
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#18169
+rod truth~
+`7Rod of Truth~
+A thin, white rod lies here, giving off a sharp white light.~
+heartstone~
+wand ABHYa AO
+0
+70 20 20 'energy drain' 1
+70 20 5000 P
+A
+19 8
+A
+18 8
+A
+20 -10
+ T 0 none~
+#18170
+darkfriend gallows~
+`7Darkfriend's Gallows~
+A large wooden gallows stands here with the bodies of darkfriends hung taught.~
+unknown~
+furniture ABO 0
+0
+C 0 EHK BCEH BCEH
+150 0 0 P
+ T 0 none~
+#18171
+rod prayer~
+`7Rod of Prayer~
+A rod with several long slots lies here, flickering with the light.~
+unknown~
+wand ABHYa AO
+0
+70 20 20 'word of recall' 1
+70 30 5000 P
+A
+19 8
+A
+18 8
+A
+20 -10
+ T 0 none~
+#18172
+creator talisman light~
+`7Creator's Talisman of Light~
+A white talisman engraved with strange symbols and a crystal lies here.~
+heartstone~
+staff ABYa AO
+0
+70 20 20 'mass healing' 2
+70 30 5000 P
+A
+19 8
+A
+18 8
+A
+20 -10
+ T 0 none~
+#18173
+list darkfriends~
+`7List of Darkfriends~
+A scroll bound with a red sheperd's crook lies rolled up.~
+unknown~
+scroll ABYa AO
+0
+67 'heal' 'refresh' 'teleport' 'reserved'
+75 10 5000 P
+ T 0 none~
+#18174
+amadician sweet liquor~
+`7Amadician Sweet Liquor~
+A dram of clear liquid lies bottled up on the ground.~
+unknown~
+potion Ya AO
+0
+67 'heal' 'refresh' 'teleport' 'reserved'
+75 10 2500 P
+ T 0 none~
+#18175
+amadician brandywine torte~
+`7Amadician Brandywine Torte~
+A pastry of some sort lies here waiting to be consumed.~
+unknown~
+pill Ya AO
+0
+67 'heal' 'refresh' 'teleport' 'reserved'
+75 10 2500 P
+ T 0 none~
+#18176
+polished silver arm plates~
+`7Polished Silver Arm Plates~
+A pair of well-polished silver arm plates lie here.~
+heartstone~
+armor ABY AI
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 9
+A
+19 9
+A
+20 -5
+A
+12 -10
+A
+14 -10
+A
+13 26
+ T 0 none~
+#18177
+window portal gateway tapestry~
+`7Hanging Darkfriend Tapestry~
+A tapestry hangs here displaying a darkfriend hung by the gallows.~
+unknown~
+window AOYa 0
+0
+ABCEFGHJKO 0 0 0 0
+150 0 0 P
+ T 0 none~
+#18178
+dying breathe~
+`7Dying Breathe~
+A darkfriend's last gasp of breathe floats nearby.~
+unknown~
+weapon HMNZ AN
+0
+exotic 0 0 none 0
+1 100 0 P
+A
+19 -3
+ T 0 none~
+#18179
+polished steel lance~
+`7Polished Steel Lance~
+A very long well-polished steel lance lies here.~
+unknown~
+weapon ABLY AN
+0
+polearm 19 4 pound CD
+54 30 0 P
+A
+18 5
+A
+19 5
+A
+20 -4
+A
+13 25
+A
+12 -11
+ T 0 none~
+#18180
+polished silver lance~
+`7Polished Silver Lance~
+A very long well-polished silver lance lies here.~
+unknown~
+weapon ABLY AN
+0
+polearm 17 7 pound CD
+96 30 0 P
+A
+18 9
+A
+19 9
+A
+20 -5
+A
+12 -10
+A
+14 -10
+A
+13 26
+ T 0 none~
+#18181
+six-pointed silver candlestick~
+`7Six-Pointed Silver Candlestick~
+A silver candlestick burns softly before you.~
+unknown~
+light ABL A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18182
+ornate golden ring with blue flecks~
+`7Ornate Golden Ring with Blue Flecks~
+A blue-flecked ring of gold lies here.~
+unknown~
+armor ABLY AB
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18183
+red leaf thistle on a silver chain~
+`7Red Leaf Thistle on a Silver Chain~
+A red leaf on a silver chain lies here.~
+unknown~
+armor ABLY AC
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18184
+blue and gold banded mail~
+`7Blue and Gold Banded Mail~
+A blue and gold peice of armor lies here.~
+unknown~
+armor ABLY AD
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18185
+red hat trimmed in gold livery~
+`7Red Hat Trimmed in Gold Livery~
+A brimmed red and gold hat lies here.~
+unknown~
+armor ABLY AE
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18186
+a pair of silver banded leggings~
+`7A Pair of Silver Banded Leggings~
+A pair of silver banded leggings lie here.~
+unknown~
+armor ABLY AF
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18187
+red boots trimmed in gold livery~
+`7Red Boots Trimmed in Gold Livery~
+A pair of red and gold boots lie here.~
+unknown~
+armor ABLY AG
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18188
+a pair of blue and gold silk sleeves~
+`7A Pair of Blue and Gold Silk Sleeves~
+A pair of blue and gold silk sleeves lie here.~
+unknown~
+armor ABLY AI
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18189
+red gloves trimmed in gold livery~
+`7Red Gloves Trimmed in Gold Livery~
+A pair of red and gold gloves lie here.~
+unknown~
+armor ABLY AH
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18190
+interlocking six-pointed star silver bracelet~
+`7Interlockign Six-Pointed Star Silver Bracelet~
+A bracelet in the form of a band of stars lie here.~
+unknown~
+armor ABLY AM
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18191
+a large round silver star shield~
+`7A Large Round Silver Star Shield~
+A round shield bearing a silver star lies here.~
+unknown~
+armor ABLY AJ
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18192
+a large red thistle leaf~
+`7A Large Red Thistle Leaf~
+A large red leaf lies here.~
+unknown~
+armor ABLY AO
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18193
+gold and blue globe of swirling energy~
+`7Gold and Blue Globe of Swirling Energy~
+A swirling blue and gold globe lies here.~
+unknown~
+armor ABLY AQ
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18194
+red and gold painted mask~
+`7Red and Gold Painted Mask~
+A red and gold painted mask lies here.~
+unknown~
+armor ABLY AR
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18195
+gold cloak emblazoned with a red thistle~
+`7Gold Cloak Emblazoned with a Red Thistle~
+A gold cloak with a red leaf lies here.~
+unknown~
+armor ABLY AK
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18196
+blue tanned belt with a gold buckle~
+`7Blue Tanned Belt with a Gold Buckle~
+A smooth blue belt bearing a gold buckle lies here.~
+unknown~
+armor ABLY AL
+0
+F F F BCDE 0
+96 50 10000 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+14 -10
+A
+13 66
+ T 0 none~
+#18197
+red handled silver knife~
+`7Red Handled Silver Knife~
+A silver knife with a red handle lies here.~
+unknown~
+weapon ABILY AN
+0
+dagger 17 7 stab CD
+96 30 10000 P
+A
+20 -5
+A
+13 80
+A
+12 21
+ T 0 none~
+#18198
+silver spear with a red shaft~
+`7Silver Spear with a Red Shaft~
+A silver spear with a red shaft lies here.~
+unknown~
+weapon ABILY AN
+0
+spear 17 7 stab CD
+96 30 10000 P
+A
+20 -5
+A
+13 80
+A
+12 21
+ T 0 none~
+#18199
+red handled silver mace~
+`7Red Handled Silver Mace~
+A silver mace with a red handle lies here.~
+unknown~
+weapon ABILY AN
+0
+mace 17 7 crush CD
+96 30 10000 P
+A
+20 -5
+A
+13 80
+A
+12 21
+ T 0 none~
+#18200
+red handled silver battle axe~
+`7Red Handled Silver Battle Axe~
+A silver battle axe with a red handle lies here.~
+unknown~
+weapon ABILY AN
+0
+axe 17 7 cleave CD
+96 30 10000 P
+A
+20 -5
+A
+13 80
+A
+12 21
+ T 0 none~
+#18201
+razor-tipped silver morning star~
+`7Razor-Tipped Silver Morning Star~
+A silver morning star with razor tips lies here.~
+unknown~
+weapon ABILY AN
+0
+flail 17 7 slash CD
+96 30 10000 P
+A
+20 -5
+A
+13 80
+A
+12 21
+ T 0 none~
+#18202
+red leather whip with silver barbs~
+`7Red Leather Whip with Silver Barbs~
+A red leather whip with silver barbs lies here.~
+unknown~
+weapon ABILY AN
+0
+whip 17 7 slice CD
+96 30 10000 P
+A
+20 -5
+A
+13 80
+A
+12 21
+ T 0 none~
+#18203
+ornately carved red-stained quarterstaff~
+`7Ornately Carved Red-Stained Quarterstaff~
+An ornately carved red-stained quarterstaff lies here.~
+unknown~
+weapon ABILY AN
+0
+polearm 17 7 thwack CD
+96 30 10000 P
+A
+20 -5
+A
+13 80
+A
+12 21
+ T 0 none~
+#18204
+serenda palace key~
+`7Serenda Palace Key~
+A star-shaped key of blue and gold lies here.~
+unknown~
+key Ya A
+0
+0 0 0 0 0
+1 0 10000 P
+ T 0 none~
+#18205
+king ailron's personal seal~
+`7King Ailron's Personal Seal~
+King Ailron's personal seal lies here where it should not be.~
+unknown~
+key Ya A
+0
+0 0 0 0 0
+1 0 10000 P
+ T 0 none~
+#18206
+king ailron's six-pointed star signet ring~
+`7King Ailron's Six-Pointed Star Signet Ring~
+King Ailron's signet ring lies here waiting to be abused.~
+unknown~
+armor ABYa AB
+0
+ABF ABF ABF ABF 0
+110 0 5000 P
+A
+20 -6
+A
+12 100
+ T 0 none~
+#18207
+king ailron's red thistle chain~
+`7King Ailron's Red Thistle Chain~
+King Ailron's red thistle chain lies here collecting dust.~
+unknown~
+armor ABYa AC
+0
+ABF ABF ABF ABF 0
+110 0 5000 P
+A
+20 -6
+A
+12 100
+ T 0 none~
+#18208
+king ailron's blue and gold bracer~
+`7King Ailron's Blue and Gold Bracer~
+King Ailron's blue and gold bracer clatters on the ground.~
+unknown~
+armor ABYa AM
+0
+ABF ABF ABF ABF 0
+110 0 5000 P
+A
+20 -6
+A
+12 100
+ T 0 none~
+#18209
+king ailron's enlarging gut~
+`7King Ailron's Enlarging Gut~
+Somehow King Ailron's big 'ole belly fell on the ground!~
+unknown~
+armor ABYa AL
+0
+ABF ABF ABF ABF 0
+110 0 5000 P
+A
+20 -6
+A
+12 100
+ T 0 none~
+#18210
+king ailron's thistle and star banner~
+`7King Ailron's Thistle and Star Banner~
+A blue and gold stripped banner of King Ailron flaps harmlessly.~
+unknown~
+light ABYa A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 0 5000 P
+A
+20 -6
+A
+12 100
+ T 0 none~
+#18211
+king ailron's crest of amador~
+`7King Ailron's Crest of Amador~
+King Ailron's crest doesn't look threatening, but does look old.~
+unknown~
+armor ABYa AJ
+0
+ABF ABF ABF ABF 0
+110 0 5000 P
+A
+20 -6
+A
+12 100
+ T 0 none~
+#18212
+king ailron's crown of amador~
+`7King Ailron's Crown of Amador~
+A golden crown lies here waiting for it's next Whitecloak pawn.~
+unknown~
+armor ABYa AE
+0
+ABF ABF ABF ABF 0
+110 0 5000 P
+A
+20 -6
+A
+12 100
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#18432
+Northeast Pinnacle of Light~
+~
+0 4194312 0
+D3
+~
+~
+0 0 18199
+D4
+~
+~
+0 0 18307
+S
+#18433
+Reflection Chamber~
+~
+0 207627277 0
+D5
+~
+~
+4 18106 18277
+S
+#18435
+~
+~
+0 4 0
+S
+#18436
+~
+~
+0 4 0
+S
+#18437
+~
+~
+0 4 0
+S
+#18438
+~
+~
+0 4 0
+S
+#18439
+Northern Blue Servant's Quarters~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18447
+S
+#18440
+Northern Blue Servant's Quarters~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18448
+S
+#18441
+Northern Blue Servant's Quarters~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18449
+S
+#18442
+Northern Blue Servant's Quarters~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18450
+S
+#18443
+Northern Blue Servant's Quarters~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18451
+S
+#18444
+Northern Blue Servant's Quarters~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18452
+S
+#18445
+Serenda Palace Staircase~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18446
+D4
+~
+~
+0 0 18537
+S
+#18446
+Western Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18447
+D2
+~
+~
+0 0 18454
+D3
+~
+~
+0 0 18445
+S
+#18447
+Northern Blue Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18439
+D1
+~
+~
+0 0 18448
+D3
+~
+~
+0 0 18446
+S
+#18448
+Northern Blue Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18440
+D1
+~
+~
+0 0 18449
+D3
+~
+~
+0 0 18447
+S
+#18449
+Northern Blue Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18441
+D1
+~
+~
+0 0 18450
+D3
+~
+~
+0 0 18448
+S
+#18450
+Northern Blue Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18442
+D1
+~
+~
+0 0 18451
+D3
+~
+~
+0 0 18449
+S
+#18451
+Northern Blue Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18443
+D1
+~
+~
+0 0 18452
+D3
+~
+~
+0 0 18450
+S
+#18452
+Northern Blue Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18444
+D3
+~
+~
+0 0 18451
+S
+#18453
+Royal Bodyguard Garrison~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18461
+S
+#18454
+Western Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18446
+D2
+~
+~
+0 0 18462
+S
+#18455
+Northern Gold Servant's Quarters~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18463
+S
+#18456
+Northern Gold Servant's Quarters~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18464
+S
+#18457
+Northern Gold Servant's Quarters~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18465
+S
+#18458
+Northern Gold Servant's Quarters~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18466
+S
+#18459
+Northern Gold Servant's Quarters~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18467
+S
+#18460
+Northern Gold Servant's Quarters~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18468
+S
+#18461
+Royal Bodyguard Garrison~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18453
+D1
+~
+~
+4 18204 18462
+D2
+~
+~
+0 0 18469
+S
+#18462
+Western Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18454
+D2
+~
+~
+0 0 18470
+D3
+~
+~
+4 18204 18461
+S
+#18463
+Northern Gold Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18455
+D1
+~
+~
+0 0 18464
+S
+#18464
+Northern Gold Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18456
+D1
+~
+~
+0 0 18465
+D3
+~
+~
+0 0 18463
+S
+#18465
+Northern Gold Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18457
+D1
+~
+~
+0 0 18466
+D3
+~
+~
+0 0 18464
+S
+#18466
+Northern Gold Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18458
+D1
+~
+~
+0 0 18467
+D3
+~
+~
+0 0 18465
+S
+#18467
+Northern Gold Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18459
+D1
+~
+~
+0 0 18468
+D3
+~
+~
+0 0 18466
+S
+#18468
+Northern Gold Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18460
+D2
+~
+~
+0 0 18476
+D3
+~
+~
+0 0 18467
+S
+#18469
+Royal Bodyguard Garrison~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18461
+S
+#18470
+Western Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18462
+D1
+~
+~
+4 18204 18471
+D2
+~
+~
+0 0 18480
+S
+#18471
+Side Hallway before the Grand Audience Chamber~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18472
+D3
+~
+~
+4 18204 18470
+S
+#18472
+Pillars of the Grand Audience Chamber~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18473
+D2
+~
+~
+0 0 18482
+D3
+~
+~
+0 0 18471
+S
+#18473
+Pillars of the Grand Audience Chamber~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18474
+D2
+~
+~
+0 0 18483
+D3
+~
+~
+0 0 18472
+S
+#18474
+Pillars of the Grand Audience Chamber~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18475
+D2
+~
+~
+0 0 18484
+D3
+~
+~
+0 0 18473
+S
+#18475
+Pillars of the Grand Audience Chamber~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18485
+D3
+~
+~
+0 0 18474
+S
+#18476
+Eastern Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18468
+D2
+~
+~
+0 0 18486
+S
+#18477
+Serenda Palace Gatehouse~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18487
+S
+#18478
+Serenda Palace Gatehouse~
+~
+0 0 1
+D2
+~
+~
+0 0 18488
+S
+#18479
+Serenda Palace Staircase~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18480
+D4
+~
+~
+0 0 18570
+S
+#18480
+Western Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18470
+D2
+~
+~
+0 0 18492
+D3
+~
+~
+0 0 18479
+S
+#18481
+Blessed Throne of Amadician~
+~
+0 138412045 0
+D1
+~
+~
+0 0 18482
+S
+#18482
+Grand Audience Chamber~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18472
+D1
+~
+~
+0 0 18483
+D2
+~
+~
+0 0 18494
+D3
+~
+~
+0 0 18481
+S
+#18483
+Grand Audience Chamber~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18473
+D1
+~
+~
+0 0 18484
+D2
+~
+~
+0 0 18495
+D3
+~
+~
+0 0 18482
+S
+#18484
+Grand Audience Chamber~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18474
+D1
+~
+~
+0 0 18485
+D2
+~
+~
+0 0 18496
+D3
+~
+~
+0 0 18483
+S
+#18485
+Grand Audience Chamber~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18475
+D1
+~
+~
+0 0 18486
+D2
+~
+~
+0 0 18497
+D3
+~
+~
+0 0 18484
+S
+#18486
+Hallway before Grand Audience Chamber~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18476
+D1
+~
+~
+4 18204 18487
+D2
+~
+~
+0 0 18498
+D3
+~
+~
+0 0 18485
+S
+#18487
+Inside the Gate to Serenda Palace~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18477
+D1
+~
+~
+4 18204 18488
+D2
+~
+~
+0 0 18499
+D3
+~
+~
+4 18204 18486
+S
+#18488
+Outside the Gate to Serenda Palace~
+~
+0 0 1
+D0
+~
+~
+0 0 18478
+D1
+~
+~
+0 0 18489
+D2
+~
+~
+0 0 18500
+D3
+~
+~
+4 18204 18487
+S
+#18489
+Western Road to Serenda Palace~
+~
+0 1 1
+D1
+~
+~
+0 0 18490
+D3
+~
+~
+0 0 18488
+S
+#18490
+Western Road to Serenda Palace~
+~
+0 1 1
+D1
+~
+~
+0 0 18855
+D3
+~
+~
+0 0 18489
+S
+#18491
+Royal Bodyguard Garrison~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18501
+S
+#18492
+Western Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18480
+D1
+~
+~
+4 18204 18493
+D2
+~
+~
+0 0 18502
+S
+#18493
+Side Hallway before the Grand Audience Chamber~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18494
+D3
+~
+~
+4 18204 18492
+S
+#18494
+Pillars of the Grand Audience Chamber~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18482
+D1
+~
+~
+0 0 18495
+D3
+~
+~
+0 0 18493
+S
+#18495
+Pillars of the Grand Audience Chamber~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18483
+D1
+~
+~
+0 0 18496
+D3
+~
+~
+0 0 18494
+S
+#18496
+Pillars of the Grand Audience Chamber~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18484
+D1
+~
+~
+0 0 18497
+D3
+~
+~
+0 0 18495
+S
+#18497
+Pillars of the Grand Audience Chamber~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18485
+D3
+~
+~
+0 0 18496
+S
+#18498
+Eastern Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18486
+D2
+~
+~
+0 0 18508
+S
+#18499
+Serenda Palace Gatehouse~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18487
+S
+#18500
+Serenda Palace Gatehouse~
+~
+0 0 1
+D0
+~
+~
+0 0 18488
+S
+#18501
+Royal Bodyguard Garrison~
+~
+0 138412045 0
+D0
+~
+~
+0 0 18491
+D1
+~
+~
+4 18204 18502
+D2
+~
+~
+0 0 18509
+S
+#18502
+Western Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18492
+D2
+~
+~
+0 0 18510
+D3
+~
+~
+4 18204 18501
+S
+#18503
+Southern Gold Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18504
+D2
+~
+~
+4 18204 18511
+S
+#18504
+Southern Gold Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18505
+D2
+~
+~
+4 18204 18512
+D3
+~
+~
+0 0 18503
+S
+#18505
+Southern Gold Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18506
+D2
+~
+~
+4 18204 18513
+D3
+~
+~
+0 0 18504
+S
+#18506
+Southern Gold Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18507
+D2
+~
+~
+4 18204 18514
+D3
+~
+~
+0 0 18505
+S
+#18507
+Southern Gold Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18508
+D2
+~
+~
+4 18204 18515
+D3
+~
+~
+0 0 18506
+S
+#18508
+Southern Gold Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18498
+D2
+~
+~
+4 18204 18516
+D3
+~
+~
+0 0 18507
+S
+#18509
+Royal Bodyguard Garrison~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18501
+S
+#18510
+Western Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18502
+D2
+~
+~
+0 0 18518
+S
+#18511
+Southern Gold Servant's Quarters~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18503
+S
+#18512
+Southern Gold Servant's Quarters~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18504
+S
+#18513
+Southern Gold Servant's Quarters~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18505
+S
+#18514
+Southern Gold Servant's Quarters~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18506
+S
+#18515
+Southern Gold Servant's Quarters~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18507
+S
+#18516
+Southern Gold Servant's Quarters~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18508
+S
+#18517
+Serenda Palace Staircase~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18518
+D4
+~
+~
+0 0 18604
+S
+#18518
+Western Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18510
+D1
+~
+~
+0 0 18519
+D3
+~
+~
+0 0 18517
+S
+#18519
+Southern Blue Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18520
+D2
+~
+~
+4 18204 18525
+D3
+~
+~
+0 0 18518
+S
+#18520
+Southern Blue Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18521
+D2
+~
+~
+4 18204 18526
+D3
+~
+~
+0 0 18519
+S
+#18521
+Southern Blue Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18522
+D2
+~
+~
+4 18204 18527
+D3
+~
+~
+0 0 18520
+S
+#18522
+Southern Blue Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18523
+D2
+~
+~
+4 18204 18528
+D3
+~
+~
+0 0 18521
+S
+#18523
+Southern Blue Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18524
+D2
+~
+~
+4 18204 18529
+D3
+~
+~
+0 0 18522
+S
+#18524
+Southern Blue Hallway~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18530
+D3
+~
+~
+0 0 18523
+S
+#18525
+Southern Blue Servant's Quarters~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18519
+S
+#18526
+Southern Blue Servant's Quarters~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18520
+S
+#18527
+Southern Blue Servant's Quarters~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18521
+S
+#18528
+Southern Blue Servant's Quarters~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18522
+S
+#18529
+Southern Blue Servant's Quarters~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18523
+S
+#18530
+Southern Blue Servant's Quarters~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18524
+S
+#18531
+Second Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18532
+D2
+~
+~
+0 0 18539
+S
+#18532
+Second Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18533
+D3
+~
+~
+0 0 18531
+S
+#18533
+Second Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18534
+D3
+~
+~
+0 0 18532
+S
+#18534
+Second Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18535
+D2
+~
+~
+4 18204 18542
+D3
+~
+~
+0 0 18533
+S
+#18535
+Second Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18536
+D3
+~
+~
+0 0 18534
+S
+#18536
+Second Point of Silver Hallway~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18544
+D3
+~
+~
+0 0 18535
+S
+#18537
+Serenda Palace Staircase~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18538
+D2
+~
+~
+0 0 18545
+D4
+~
+~
+0 0 18618
+D5
+~
+~
+0 0 18445
+S
+#18538
+First Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18539
+D3
+~
+~
+0 0 18537
+S
+#18539
+First Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18531
+D3
+~
+~
+0 0 18538
+S
+#18540
+Double Star Private Hallway~
+~
+0 138412041 0
+D1
+~
+~
+4 18204 18541
+D2
+~
+~
+0 0 18548
+S
+#18541
+Double Star Bedroom~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18542
+D2
+~
+~
+0 0 18549
+D3
+~
+~
+4 18204 18540
+S
+#18542
+Double Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18534
+D1
+~
+~
+0 0 18543
+D2
+~
+~
+0 0 18550
+D3
+~
+~
+0 0 18541
+S
+#18543
+Double Star Bedroom~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18551
+D3
+~
+~
+0 0 18542
+S
+#18544
+Third Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18536
+D2
+~
+~
+0 0 18552
+S
+#18545
+First Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18537
+D2
+~
+~
+0 0 18553
+S
+#18546
+Single Star Bedroom~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18547
+D2
+~
+~
+0 0 18554
+S
+#18547
+Single Star Bedroom~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18555
+D3
+~
+~
+0 0 18546
+S
+#18548
+Double Star Private Study~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18540
+S
+#18549
+Double Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18541
+D1
+~
+~
+0 0 18550
+S
+#18550
+Double Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18542
+D1
+~
+~
+0 0 18551
+D3
+~
+~
+0 0 18549
+S
+#18551
+Double Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18543
+D3
+~
+~
+0 0 18550
+S
+#18552
+Third Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18544
+D2
+~
+~
+0 0 18560
+S
+#18553
+First Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18545
+D1
+~
+~
+4 18204 18554
+D2
+~
+~
+0 0 18561
+S
+#18554
+Single Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18546
+D1
+~
+~
+0 0 18555
+D2
+~
+~
+0 0 18562
+D3
+~
+~
+4 18204 18553
+S
+#18555
+Single Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18547
+D2
+~
+~
+0 0 18563
+D3
+~
+~
+0 0 18554
+S
+#18556
+Triple Star Private Hallway~
+~
+0 138412041 0
+D1
+~
+~
+4 18204 18557
+D2
+~
+~
+0 0 18564
+S
+#18557
+Triple Star Bedroom~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18558
+D2
+~
+~
+0 0 18565
+D3
+~
+~
+4 18204 18556
+S
+#18558
+Triple Star Bedroom~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18559
+D2
+~
+~
+0 0 18566
+D3
+~
+~
+0 0 18557
+S
+#18559
+Triple Star Bedroom~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18567
+D3
+~
+~
+0 0 18558
+S
+#18560
+Third Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18552
+D2
+~
+~
+0 0 18568
+S
+#18561
+First Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18553
+D2
+~
+~
+0 0 18570
+S
+#18562
+Single Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18554
+D1
+~
+~
+0 0 18563
+S
+#18563
+Single Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18555
+D3
+~
+~
+0 0 18562
+S
+#18564
+Triple Star Private Study~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18556
+S
+#18565
+Triple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18557
+D1
+~
+~
+0 0 18566
+S
+#18566
+Triple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18558
+D1
+~
+~
+0 0 18567
+D2
+~
+~
+4 18204 18575
+D3
+~
+~
+0 0 18565
+S
+#18567
+Triple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18559
+D3
+~
+~
+0 0 18566
+S
+#18568
+Third Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18560
+D1
+~
+~
+4 18204 18569
+D2
+~
+~
+0 0 18577
+S
+#18569
+King's Private Study~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18578
+D3
+~
+~
+4 18204 18568
+S
+#18570
+Serenda Palace Staircase~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18561
+D1
+~
+~
+0 0 18571
+D2
+~
+~
+0 0 18579
+D4
+~
+~
+0 0 18640
+D5
+~
+~
+0 0 18479
+S
+#18571
+Sixth Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18572
+D3
+~
+~
+0 0 18570
+S
+#18572
+Sixth Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18573
+D3
+~
+~
+0 0 18571
+S
+#18573
+Sixth Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18574
+D3
+~
+~
+0 0 18572
+S
+#18574
+Sixth Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18575
+D3
+~
+~
+0 0 18573
+S
+#18575
+Sixth Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18566
+D1
+~
+~
+0 0 18576
+D2
+~
+~
+4 18204 18584
+D3
+~
+~
+0 0 18574
+S
+#18576
+Sixth Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18577
+D3
+~
+~
+0 0 18575
+S
+#18577
+Sixth Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18568
+D2
+~
+~
+0 0 18586
+D3
+~
+~
+0 0 18576
+S
+#18578
+King's Private Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18569
+D2
+~
+~
+0 0 18587
+S
+#18579
+Fifth Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18570
+D2
+~
+~
+0 0 18588
+S
+#18580
+Quintuple Star Bedroom~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18581
+D2
+~
+~
+0 0 18589
+S
+#18581
+Quintuple Star Bedroom~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18590
+D3
+~
+~
+0 0 18580
+S
+#18582
+Sextuple Star Private Study~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18591
+S
+#18583
+Sextuple Star Bedroom~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18584
+D2
+~
+~
+0 0 18592
+S
+#18584
+Sextuple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18575
+D1
+~
+~
+0 0 18585
+D2
+~
+~
+0 0 18593
+D3
+~
+~
+0 0 18583
+S
+#18585
+Sextuple Star Bedroom~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18594
+D3
+~
+~
+0 0 18584
+S
+#18586
+Third Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18577
+D1
+~
+~
+4 18204 18587
+D2
+~
+~
+0 0 18595
+S
+#18587
+King's Private Audience Chamber~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18578
+D3
+~
+~
+4 18204 18586
+S
+#18588
+Fifth Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18579
+D1
+~
+~
+4 18204 18589
+D2
+~
+~
+0 0 18596
+S
+#18589
+Quintuple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18580
+D1
+~
+~
+0 0 18590
+D2
+~
+~
+0 0 18597
+D3
+~
+~
+4 18204 18588
+S
+#18590
+Quintuple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18581
+D2
+~
+~
+0 0 18598
+D3
+~
+~
+0 0 18589
+S
+#18591
+Sextuple Star Private Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18582
+D1
+~
+~
+4 18204 18592
+S
+#18592
+Sextuple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18583
+D1
+~
+~
+0 0 18593
+D3
+~
+~
+4 18204 18591
+S
+#18593
+Sextuple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18584
+D1
+~
+~
+0 0 18594
+D3
+~
+~
+0 0 18592
+S
+#18594
+Sextuple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18585
+D3
+~
+~
+0 0 18593
+S
+#18595
+Third Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18586
+D2
+~
+~
+0 0 18603
+S
+#18596
+Fifth Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18588
+D2
+~
+~
+0 0 18604
+S
+#18597
+Quintuple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18589
+D1
+~
+~
+0 0 18598
+S
+#18598
+Quintuple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18590
+D3
+~
+~
+0 0 18597
+S
+#18599
+Quadruple Star Private Study~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18607
+S
+#18600
+Quadruple Star Bedroom~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18601
+D2
+~
+~
+0 0 18608
+S
+#18601
+Quadruple Star Bedroom~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18602
+D2
+~
+~
+0 0 18609
+D3
+~
+~
+0 0 18600
+S
+#18602
+Quadruple Star Bedroom~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18610
+D3
+~
+~
+0 0 18601
+S
+#18603
+Third Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18595
+D2
+~
+~
+0 0 18611
+S
+#18604
+Serenda Palace Staircase~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18596
+D1
+~
+~
+0 0 18605
+D4
+~
+~
+0 0 18662
+D5
+~
+~
+0 0 18517
+S
+#18605
+Fifth Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18606
+D3
+~
+~
+0 0 18604
+S
+#18606
+Fifth Point of Silver Hallway~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18612
+D3
+~
+~
+0 0 18605
+S
+#18607
+Quadruple Star Private Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18599
+D1
+~
+~
+4 18204 18608
+S
+#18608
+Quadruple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18600
+D1
+~
+~
+0 0 18609
+D3
+~
+~
+4 18204 18607
+S
+#18609
+Quadruple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18601
+D1
+~
+~
+0 0 18610
+D2
+~
+~
+4 18204 18615
+D3
+~
+~
+0 0 18608
+S
+#18610
+Quadruple Star Bedroom~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18602
+D3
+~
+~
+0 0 18609
+S
+#18611
+Third Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18603
+D2
+~
+~
+0 0 18617
+S
+#18612
+Fourth Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18606
+D1
+~
+~
+0 0 18613
+S
+#18613
+Fourth Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18614
+D3
+~
+~
+0 0 18612
+S
+#18614
+Fourth Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18615
+D3
+~
+~
+0 0 18613
+S
+#18615
+Fourth Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18609
+D1
+~
+~
+0 0 18616
+D3
+~
+~
+0 0 18614
+S
+#18616
+Fourth Point of Silver Hallway~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18617
+D3
+~
+~
+0 0 18615
+S
+#18617
+Fourth Point of Silver Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18611
+D3
+~
+~
+0 0 18616
+S
+#18618
+Serenda Palace Staircase~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18619
+D2
+~
+~
+0 0 18624
+D5
+~
+~
+0 0 18537
+S
+#18619
+Crimson Solstice of Summer~
+~
+0 138412041 0
+D1
+~
+~
+4 18205 18620
+D2
+~
+~
+0 0 18625
+D3
+~
+~
+0 0 18618
+S
+#18620
+Crimson Solstice of Summer~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18621
+D3
+~
+~
+4 18205 18619
+S
+#18621
+Crimson Solstice of Spring~
+~
+0 138412041 0
+D1
+~
+~
+4 18205 18622
+D3
+~
+~
+0 0 18620
+S
+#18622
+Crimson Solstice of Spring~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18623
+D2
+~
+~
+0 0 18628
+D3
+~
+~
+4 18205 18621
+S
+#18623
+Crimson Solstice of Spring~
+~
+0 138412041 0
+D2
+~
+~
+0 0 18629
+D3
+~
+~
+0 0 18622
+S
+#18624
+Crimson Solstice of Summer~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18618
+D1
+~
+~
+0 0 18625
+D2
+~
+~
+0 0 18630
+S
+#18625
+Crimson Solstice of Summer~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18619
+D1
+~
+~
+4 18204 18626
+D2
+~
+~
+4 18204 18631
+D3
+~
+~
+0 0 18624
+S
+#17601
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19099
+D1
+~
+~
+0 0 17602
+S
+#18626
+Summer Solstice Study~
+~
+0 138412041 0
+D3
+~
+~
+4 18204 18625
+S
+#17602
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19100
+D3
+~
+~
+0 0 17601
+S
+#18627
+Spring Solstice Study~
+~
+0 138412041 0
+D1
+~
+~
+4 18204 18628
+S
+#17603
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17604
+D2
+~
+~
+0 0 17606
+D5
+~
+~
+0 0 19059
+S
+#18628
+Crimson Solstice of Spring~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18622
+D1
+~
+~
+0 0 18629
+D2
+~
+~
+4 18204 18632
+D3
+~
+~
+4 18204 18627
+S
+#17604
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17605
+D2
+~
+~
+0 0 17607
+D3
+~
+~
+0 0 17603
+S
+#18629
+Crimson Solstice of Spring~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18623
+D2
+~
+~
+0 0 18633
+D3
+~
+~
+0 0 18628
+S
+#17605
+~
+~
+0 9 0
+D2
+~
+~
+0 0 17608
+D3
+~
+~
+0 0 17604
+S
+#18630
+Crimson Solstice of Summer~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18624
+D2
+~
+~
+0 0 18634
+S
+#17606
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17603
+D1
+~
+~
+0 0 17607
+S
+#18631
+Summer Solstice Study~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18625
+S
+#17607
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17604
+D1
+~
+~
+0 0 17608
+D2
+~
+~
+0 0 17610
+D3
+~
+~
+0 0 17606
+S
+#18632
+Spring Solstice Study~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18628
+S
+#17608
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17605
+D1
+~
+~
+0 0 17609
+D2
+~
+~
+0 0 17611
+D3
+~
+~
+0 0 17607
+S
+#18633
+Crimson Solstice of Spring~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18629
+D2
+~
+~
+0 0 18639
+S
+#17609
+~
+~
+0 9 0
+D3
+~
+~
+0 0 17608
+S
+#18634
+Crimson Solstice of Summer~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18630
+D2
+~
+~
+0 0 18640
+S
+#17610
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17607
+D1
+~
+~
+0 0 17611
+D2
+~
+~
+0 0 17612
+S
+#18635
+The Thistle and Star Guest Room~
+~
+0 0 0
+D2
+~
+~
+4 18204 18641
+S
+#17611
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17608
+D2
+~
+~
+0 0 17613
+D3
+~
+~
+0 0 17610
+S
+#18636
+The Thistle and Star Guest Rooms~
+~
+0 0 0
+D2
+~
+~
+4 18204 18642
+S
+#17612
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17610
+D1
+~
+~
+0 0 17613
+S
+#18637
+The Thistle and Star Guest Rooms~
+~
+0 0 0
+D2
+~
+~
+4 18204 18643
+S
+#17613
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17611
+D3
+~
+~
+0 0 17612
+S
+#18638
+The Thistle and Star Guest Rooms~
+~
+0 0 0
+D2
+~
+~
+4 18204 18644
+S
+#17614
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17615
+D2
+~
+~
+0 0 17616
+D5
+~
+~
+0 0 19089
+S
+#18639
+Crimson Solstice of Spring~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18633
+D2
+~
+~
+0 0 18645
+S
+#17615
+~
+~
+0 9 0
+D2
+~
+~
+0 0 17617
+D3
+~
+~
+0 0 17614
+S
+#18640
+Serenda Palace Staircase~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18634
+D1
+~
+~
+0 0 18641
+D2
+~
+~
+0 0 18646
+D5
+~
+~
+0 0 18570
+S
+#17616
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17614
+D1
+~
+~
+0 0 17617
+D2
+~
+~
+0 0 17618
+S
+#18641
+Red Thistle Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18635
+D1
+~
+~
+0 0 18642
+D2
+~
+~
+4 18204 18647
+D3
+~
+~
+0 0 18640
+S
+#17617
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17615
+D2
+~
+~
+0 0 17619
+D3
+~
+~
+0 0 17616
+S
+#18642
+Red Thistle Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18636
+D1
+~
+~
+0 0 18643
+D2
+~
+~
+4 18204 18648
+D3
+~
+~
+0 0 18641
+S
+#17618
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17616
+D1
+~
+~
+0 0 17619
+S
+#18643
+Red Thistle Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18637
+D1
+~
+~
+0 0 18644
+D2
+~
+~
+4 18204 18649
+D3
+~
+~
+0 0 18642
+S
+#17619
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17617
+D3
+~
+~
+0 0 17618
+S
+#18644
+Red Thistle Hallway~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18638
+D1
+~
+~
+0 0 18645
+D2
+~
+~
+4 18204 18650
+D3
+~
+~
+0 0 18643
+S
+#17620
+~
+~
+0 9 0
+D1
+~
+~
+0 0 18838
+D5
+~
+~
+3 0 17669
+S
+#18645
+Red Thistle Hallway~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18639
+D2
+~
+~
+0 0 18651
+D3
+~
+~
+0 0 18644
+S
+#17621
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17665
+D2
+~
+~
+0 0 17670
+S
+#18646
+Crimson Solstice of Autumn~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18640
+D2
+~
+~
+0 0 18652
+S
+#18647
+The Thistle and Star Guest Rooms~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18641
+S
+#18648
+The Thistle and Star Guest Rooms~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18642
+S
+#17624
+~
+~
+0 9 0
+D1
+~
+~
+0 0 18846
+S
+#18649
+The Thistle and Star Guest Rooms~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18643
+S
+#17625
+~
+~
+0 9 0
+D1
+~
+~
+0 0 18870
+S
+#18650
+The Thistle and Star Guest Rooms~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18644
+S
+#17626
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17627
+D2
+~
+~
+0 0 17629
+S
+#18651
+Crimson Solstice of Winter~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18645
+D2
+~
+~
+0 0 18655
+S
+#17627
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17628
+D2
+~
+~
+0 0 17630
+D3
+~
+~
+0 0 17626
+S
+#18652
+Crimson Solstice of Autumn~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18646
+D2
+~
+~
+0 0 18656
+S
+#17628
+~
+~
+0 9 0
+D2
+~
+~
+0 0 17631
+D3
+~
+~
+0 0 17627
+S
+#18653
+Autumn Solstice Study~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18657
+S
+#17629
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17626
+D1
+~
+~
+0 0 17630
+D2
+~
+~
+0 0 17632
+S
+#18654
+Winter Solstice Study~
+~
+0 138412041 0
+D2
+~
+~
+4 18204 18660
+S
+#17630
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17627
+D1
+~
+~
+0 0 17631
+D2
+~
+~
+0 0 17633
+D3
+~
+~
+0 0 17629
+S
+#18655
+Crimson Solstice of Winter~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18651
+D2
+~
+~
+0 0 18661
+S
+#17631
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17628
+D2
+~
+~
+0 0 17634
+D3
+~
+~
+0 0 17630
+S
+#18656
+Crimson Solstice of Autumn~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18652
+D1
+~
+~
+0 0 18657
+D2
+~
+~
+0 0 18662
+S
+#17632
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17629
+D1
+~
+~
+0 0 17633
+S
+#18657
+Crimson Solstice of Autumn~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18653
+D1
+~
+~
+4 18204 18658
+D2
+~
+~
+0 0 18663
+D3
+~
+~
+0 0 18656
+S
+#17633
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17630
+D1
+~
+~
+0 0 17634
+D2
+~
+~
+0 0 17635
+D3
+~
+~
+0 0 17632
+S
+#18658
+Autumn Solstice Study~
+~
+0 138412041 0
+D3
+~
+~
+4 18204 18657
+S
+#17634
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17631
+D1
+~
+~
+0 0 18893
+D2
+~
+~
+0 0 17636
+D3
+~
+~
+0 0 17633
+S
+#18659
+Winter Solstice Study~
+~
+0 138412041 0
+D1
+~
+~
+4 18204 18660
+S
+#17635
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17633
+D1
+~
+~
+0 0 17636
+S
+#18660
+Crimson Solstice of Winter~
+~
+0 138412041 0
+D0
+~
+~
+4 18204 18654
+D1
+~
+~
+0 0 18661
+D2
+~
+~
+0 0 18666
+D3
+~
+~
+4 18204 18659
+S
+#17636
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17634
+D3
+~
+~
+0 0 17635
+S
+#18661
+Crimson Solstice of Winter~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18655
+D2
+~
+~
+0 0 18667
+D3
+~
+~
+0 0 18660
+S
+#17637
+~
+~
+0 9 0
+D2
+~
+~
+0 0 17638
+S
+#18662
+Serenda Palace Staircase~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18656
+D1
+~
+~
+0 0 18663
+D5
+~
+~
+0 0 18604
+S
+#17638
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17637
+D1
+~
+~
+0 0 17639
+D2
+~
+~
+0 0 18918
+S
+#18663
+Crimson Solstice of Autumn~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18657
+D1
+~
+~
+4 18205 18664
+D3
+~
+~
+0 0 18662
+S
+#17639
+~
+~
+0 9 0
+D3
+~
+~
+0 0 17638
+S
+#18664
+Crimson Solstice of Autumn~
+~
+0 138412041 0
+D1
+~
+~
+0 0 18665
+D3
+~
+~
+4 18205 18663
+S
+#17640
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17641
+D2
+~
+~
+0 0 17652
+S
+#18665
+Crimson Solstice of Winter~
+~
+0 138412041 0
+D1
+~
+~
+4 18205 18666
+D3
+~
+~
+0 0 18664
+S
+#17641
+~
+~
+0 9 0
+D2
+~
+~
+0 0 17653
+D3
+~
+~
+0 0 17640
+S
+#18666
+Crimson Solstice of Winter~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18660
+D1
+~
+~
+0 0 18667
+D3
+~
+~
+4 18205 18665
+S
+#17642
+~
+~
+0 9 0
+D0
+~
+~
+0 0 18912
+D1
+~
+~
+0 0 17643
+D2
+~
+~
+0 0 17654
+S
+#18667
+Crimson Solstice of Winter~
+~
+0 138412041 0
+D0
+~
+~
+0 0 18661
+D3
+~
+~
+0 0 18666
+S
+#17643
+~
+~
+0 9 0
+D2
+~
+~
+0 0 17655
+D3
+~
+~
+0 0 17642
+D4
+~
+~
+0 0 17665
+S
+#18668
+Road to Murandy~
+~
+0 0 8
+D2
+~
+~
+0 0 18669
+S
+#17644
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17645
+D2
+~
+~
+0 0 17656
+S
+#18669
+Road to Murandy~
+~
+0 0 8
+D0
+~
+~
+0 0 18668
+D2
+~
+~
+0 0 18670
+S
+#17645
+~
+~
+0 9 0
+D2
+~
+~
+0 0 17657
+D3
+~
+~
+0 0 17644
+D4
+~
+~
+0 0 17667
+S
+#18670
+Road to Murandy~
+~
+0 0 8
+D0
+~
+~
+0 0 18669
+D2
+~
+~
+0 0 18671
+S
+#17646
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17647
+D2
+~
+~
+0 0 17658
+S
+#18671
+Road to Murandy~
+~
+0 0 8
+D0
+~
+~
+0 0 18670
+D2
+~
+~
+0 0 18672
+S
+#17647
+~
+~
+0 9 0
+D0
+~
+~
+0 0 18917
+D2
+~
+~
+0 0 17659
+D3
+~
+~
+0 0 17646
+S
+#18672
+Outside Lugard Gate~
+~
+0 0 8
+D0
+~
+~
+0 0 18671
+D2
+~
+~
+0 0 18699
+D3
+~
+~
+0 0 18991
+S
+#17648
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17649
+S
+#18673
+Northwest Corner of the Wall~
+~
+0 0 1
+D1
+~
+~
+0 0 18674
+D2
+~
+~
+0 0 18700
+S
+#17649
+~
+~
+0 9 0
+D0
+~
+~
+0 0 18919
+D1
+~
+~
+0 0 17650
+D3
+~
+~
+0 0 17648
+S
+#18674
+Northwest Corner of the Wall~
+~
+0 1 1
+D1
+~
+~
+0 0 18675
+D3
+~
+~
+0 0 18673
+S
+#17650
+~
+~
+0 9 0
+D3
+~
+~
+0 0 17649
+S
+#18675
+Northwest Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18676
+D2
+~
+~
+0 0 18993
+D3
+~
+~
+0 0 18674
+S
+#17651
+~
+~
+0 9 0
+D1
+~
+~
+0 0 18927
+D2
+~
+~
+0 0 17663
+S
+#18676
+Northwest Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18677
+D3
+~
+~
+0 0 18675
+S
+#17652
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17640
+D1
+~
+~
+0 0 17653
+D3
+~
+~
+0 0 18931
+S
+#18677
+Northwest Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18678
+D3
+~
+~
+0 0 18676
+S
+#17653
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17641
+D3
+~
+~
+0 0 17652
+S
+#18678
+Northwest Wall at Commons Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18679
+D2
+~
+~
+0 0 18701
+D3
+~
+~
+0 0 18677
+S
+#17654
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17642
+D1
+~
+~
+0 0 17655
+S
+#18679
+Northwest Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18680
+D3
+~
+~
+0 0 18678
+S
+#17655
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17643
+D3
+~
+~
+0 0 17654
+S
+#18680
+Northwest Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18681
+D2
+~
+~
+0 0 18997
+D3
+~
+~
+0 0 18679
+S
+#17656
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17644
+D1
+~
+~
+0 0 17657
+S
+#18681
+Northwest Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18682
+D3
+~
+~
+0 0 18680
+S
+#17657
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17645
+D2
+~
+~
+0 0 18942
+D3
+~
+~
+0 0 17656
+S
+#18682
+North Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18683
+D3
+~
+~
+0 0 18681
+S
+#17658
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17646
+D1
+~
+~
+0 0 17659
+S
+#18683
+North Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18684
+D3
+~
+~
+0 0 18682
+S
+#17659
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17647
+D3
+~
+~
+0 0 17658
+S
+#18684
+North Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18685
+D3
+~
+~
+0 0 18683
+S
+#17660
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17661
+S
+#18685
+North Wall at Street of Gold~
+~
+0 1 1
+D1
+~
+~
+0 0 18686
+D2
+~
+~
+0 0 18702
+D3
+~
+~
+0 0 18684
+S
+#17661
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17662
+D2
+~
+~
+0 0 18946
+D3
+~
+~
+0 0 17660
+S
+#18686
+North Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18687
+D3
+~
+~
+0 0 18685
+S
+#17662
+~
+~
+0 9 0
+D3
+~
+~
+0 0 17661
+S
+#18687
+North Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18688
+D3
+~
+~
+0 0 18686
+S
+#17663
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17651
+S
+#18688
+North Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18689
+D3
+~
+~
+0 0 18687
+S
+#18689
+West of the Fortress of Light~
+~
+0 1 1
+D1
+~
+~
+0 0 18690
+D3
+~
+~
+0 0 18688
+S
+#17665
+~
+~
+0 9 0
+D2
+~
+~
+0 0 17671
+D3
+~
+~
+0 0 17621
+D5
+~
+~
+0 0 17643
+S
+#18690
+Northern End of Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18101
+D1
+~
+~
+0 0 18691
+D2
+~
+~
+0 0 18703
+D3
+~
+~
+0 0 18689
+S
+#17666
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17667
+D2
+~
+~
+0 0 17672
+S
+#18691
+East of the Fortress of Light~
+~
+0 1 1
+D1
+~
+~
+0 0 18692
+D3
+~
+~
+0 0 18690
+S
+#17667
+~
+~
+0 9 0
+D2
+~
+~
+0 0 17673
+D3
+~
+~
+0 0 17666
+D5
+~
+~
+0 0 17645
+S
+#18692
+Northeast Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18693
+D3
+~
+~
+0 0 18691
+S
+#18693
+Northeast Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18694
+D3
+~
+~
+0 0 18692
+S
+#17669
+~
+~
+0 9 0
+D3
+~
+~
+0 0 17768
+D4
+~
+~
+3 0 17620
+S
+#18694
+Northeast Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18695
+D3
+~
+~
+0 0 18693
+S
+#17670
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17621
+D1
+~
+~
+0 0 17671
+S
+#18695
+Northeast Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18696
+D3
+~
+~
+0 0 18694
+S
+#17671
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17665
+D3
+~
+~
+0 0 17670
+S
+#18696
+Northeast Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18697
+D3
+~
+~
+0 0 18695
+S
+#17672
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17666
+D1
+~
+~
+0 0 17673
+S
+#18697
+Northeast Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18698
+D3
+~
+~
+0 0 18696
+S
+#17673
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17667
+D3
+~
+~
+0 0 17672
+S
+#18698
+West of Lugard Gate~
+~
+0 1 1
+D1
+~
+~
+0 0 18699
+D3
+~
+~
+0 0 18697
+S
+#17674
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17768
+D2
+~
+~
+0 0 17676
+S
+#18699
+Inside Lugard Gate~
+~
+0 1 1
+D0
+~
+~
+0 0 18672
+D2
+~
+~
+0 0 18704
+D3
+~
+~
+0 0 18698
+S
+#17675
+~
+~
+0 9 0
+D2
+~
+~
+0 0 17677
+S
+#18700
+Northwest Corner of the Wall~
+~
+0 1 1
+D0
+~
+~
+0 0 18673
+D2
+~
+~
+0 0 18705
+S
+#17676
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17674
+D1
+~
+~
+0 0 17677
+S
+#18701
+Commons Road~
+~
+0 1 1
+D0
+~
+~
+0 0 18678
+D1
+~
+~
+0 0 18996
+D2
+~
+~
+0 0 18706
+S
+#17677
+~
+~
+0 9 0
+D0
+~
+~
+0 0 17675
+D3
+~
+~
+0 0 17676
+S
+#18702
+Lower Side of Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18685
+D2
+~
+~
+0 0 18707
+D3
+~
+~
+0 0 19002
+S
+#18703
+Northern End of Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18690
+D2
+~
+~
+0 0 18708
+S
+#18704
+South of Lugard Gate~
+~
+0 1 1
+D0
+~
+~
+0 0 18699
+D2
+~
+~
+0 0 18717
+S
+#18705
+Northwest Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18700
+D2
+~
+~
+0 0 18718
+S
+#18706
+Commons Road~
+~
+0 1 1
+D0
+~
+~
+0 0 18701
+D1
+~
+~
+0 0 19007
+D2
+~
+~
+0 0 18720
+S
+#18707
+Lower Side of Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18702
+D2
+~
+~
+0 0 18722
+D3
+~
+~
+4 0 19012
+S
+#18708
+Intersection of Lothair Way at Bellon Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18703
+D1
+~
+~
+0 0 18709
+D2
+~
+~
+0 0 18724
+S
+#18709
+Bellon Street~
+~
+0 1 1
+D1
+~
+~
+0 0 18710
+D3
+~
+~
+0 0 18708
+S
+#18710
+Bellon Street~
+~
+0 1 1
+D1
+~
+~
+0 0 18711
+D3
+~
+~
+0 0 18709
+S
+#18711
+Bellon Street~
+~
+0 1 1
+D1
+~
+~
+0 0 18712
+D3
+~
+~
+0 0 18710
+S
+#18712
+Bellon Street~
+~
+0 1 1
+D1
+~
+~
+0 0 18713
+D3
+~
+~
+0 0 18711
+S
+#18713
+Bellon Street at A Dark Alley~
+~
+0 1 1
+D1
+~
+~
+0 0 18714
+D2
+~
+~
+0 0 18726
+D3
+~
+~
+0 0 18712
+S
+#18714
+Bellon Street~
+~
+0 1 1
+D1
+~
+~
+0 0 18715
+D3
+~
+~
+0 0 18713
+S
+#18715
+Bellon Street~
+~
+0 1 1
+D1
+~
+~
+0 0 18716
+D3
+~
+~
+0 0 18714
+S
+#18716
+Bellon Street~
+~
+0 1 1
+D1
+~
+~
+0 0 18717
+D3
+~
+~
+0 0 18715
+S
+#18717
+Northeast Wall at Bellon Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18704
+D2
+~
+~
+0 0 18727
+D3
+~
+~
+0 0 18716
+S
+#18718
+Northwest Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18705
+D2
+~
+~
+0 0 18728
+S
+#18719
+Silver Star Market~
+~
+0 1 1
+D2
+~
+~
+0 0 18730
+D3
+~
+~
+0 0 19015
+S
+#18720
+Commons Road~
+~
+0 1 1
+D0
+~
+~
+0 0 18706
+D2
+~
+~
+0 0 18731
+S
+#18721
+Silver Star Market~
+~
+0 1 1
+D1
+~
+~
+0 0 19016
+D2
+~
+~
+0 0 18732
+S
+#18722
+Lower Side of Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18707
+D2
+~
+~
+0 0 18734
+D3
+~
+~
+0 0 19020
+S
+#18723
+Creator's Square~
+~
+0 1 1
+D2
+~
+~
+0 0 18736
+S
+#18724
+Northern End of Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18708
+D2
+~
+~
+0 0 18737
+S
+#18725
+Creator's Square~
+~
+0 0 1
+D2
+~
+~
+0 0 18738
+S
+#18726
+A Dark Alley~
+~
+0 1 1
+D0
+~
+~
+0 0 18713
+D2
+~
+~
+0 0 18740
+S
+#18727
+Northeast Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18717
+D2
+~
+~
+0 0 18741
+S
+#18728
+North of Tanchico Gate~
+~
+0 1 1
+D0
+~
+~
+0 0 18718
+D2
+~
+~
+0 0 18742
+S
+#18729
+Silver Star Market~
+~
+0 1 1
+D0
+~
+~
+0 0 19015
+D1
+~
+~
+0 0 18730
+S
+#18730
+Silver Star Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18719
+D1
+~
+~
+0 0 18731
+D2
+~
+~
+0 0 18746
+D3
+~
+~
+0 0 18729
+S
+#18731
+Silver Star Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18720
+D1
+~
+~
+0 0 18732
+D2
+~
+~
+0 0 18747
+D3
+~
+~
+0 0 18730
+S
+#18732
+Silver Star Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18721
+D1
+~
+~
+0 0 18733
+D2
+~
+~
+0 0 18748
+D3
+~
+~
+0 0 18731
+S
+#18733
+Silver Star Market~
+~
+0 1 1
+D1
+~
+~
+0 0 19023
+D3
+~
+~
+0 0 18732
+S
+#18734
+Lower Side of Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18722
+D2
+~
+~
+0 0 18754
+S
+#18735
+Creator's Square~
+~
+0 1 1
+D1
+~
+~
+0 0 18736
+S
+#18736
+Creator's Square~
+~
+0 1 1
+D0
+~
+~
+0 0 18723
+D1
+~
+~
+0 0 18737
+D2
+~
+~
+0 0 18758
+D3
+~
+~
+0 0 18735
+S
+#18737
+Creator's Square~
+~
+0 1 1
+D0
+~
+~
+0 0 18724
+D1
+~
+~
+0 0 18738
+D2
+~
+~
+0 0 18759
+D3
+~
+~
+0 0 18736
+S
+#18738
+Creator's Square~
+~
+0 1 1
+D0
+~
+~
+0 0 18725
+D1
+~
+~
+0 0 18739
+D2
+~
+~
+0 0 18760
+D3
+~
+~
+0 0 18737
+S
+#18739
+Creator's Square~
+~
+0 0 1
+D3
+~
+~
+0 0 18738
+S
+#18740
+A Dark Alley~
+~
+0 1 1
+D0
+~
+~
+0 0 18726
+D2
+~
+~
+0 0 18764
+S
+#18741
+Northeast Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18727
+D2
+~
+~
+0 0 18768
+S
+#18742
+Inside Tanchico Gate~
+~
+0 1 1
+D0
+~
+~
+0 0 18728
+D1
+~
+~
+0 0 18743
+D2
+~
+~
+0 0 18769
+D3
+~
+~
+0 0 18985
+S
+#18743
+Western Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18744
+D3
+~
+~
+0 0 18742
+S
+#18744
+Western Tarabon Road~
+~
+0 1 1
+D0
+~
+~
+0 0 19022
+D1
+~
+~
+0 0 18745
+D3
+~
+~
+0 0 18743
+S
+#18745
+Western Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18746
+D3
+~
+~
+0 0 18744
+S
+#18746
+Western Tarabon Road~
+~
+0 1 1
+D0
+~
+~
+0 0 18730
+D1
+~
+~
+0 0 18747
+D2
+~
+~
+0 0 18771
+D3
+~
+~
+0 0 18745
+S
+#18747
+Silver Star Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18731
+D1
+~
+~
+0 0 18748
+D2
+~
+~
+0 0 18772
+D3
+~
+~
+0 0 18746
+S
+#18748
+Silver Star Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18732
+D1
+~
+~
+0 0 18749
+D2
+~
+~
+0 0 18773
+D3
+~
+~
+0 0 18747
+S
+#18749
+Along the Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18750
+D3
+~
+~
+0 0 18748
+S
+#18750
+Along the Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18751
+D3
+~
+~
+0 0 18749
+S
+#18751
+Along the Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18752
+D3
+~
+~
+0 0 18750
+S
+#18752
+Along the Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18753
+D3
+~
+~
+0 0 18751
+S
+#18753
+Along the Tarabon Road~
+~
+0 1 1
+D0
+~
+~
+0 0 19026
+D1
+~
+~
+0 0 18754
+D3
+~
+~
+0 0 18752
+S
+#18754
+Centre of Amadicia~
+~
+0 1 1
+D0
+~
+~
+0 0 18734
+D1
+~
+~
+0 0 18755
+D2
+~
+~
+0 0 18775
+D3
+~
+~
+0 0 18753
+S
+#18755
+Along the Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18756
+D3
+~
+~
+0 0 18754
+S
+#18756
+Along the Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18757
+D3
+~
+~
+0 0 18755
+S
+#18757
+Along the Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18758
+D3
+~
+~
+0 0 18756
+S
+#18758
+Creator's Square~
+~
+0 1 1
+D0
+~
+~
+0 0 18736
+D1
+~
+~
+0 0 18759
+D2
+~
+~
+0 0 18777
+D3
+~
+~
+0 0 18757
+S
+#18759
+Creator's Square~
+~
+0 1 1
+D0
+~
+~
+0 0 18737
+D1
+~
+~
+0 0 18760
+D2
+~
+~
+0 0 18778
+D3
+~
+~
+0 0 18758
+S
+#18760
+Creator's Square~
+~
+0 1 1
+D0
+~
+~
+0 0 18738
+D1
+~
+~
+0 0 18761
+D2
+~
+~
+0 0 18779
+D3
+~
+~
+0 0 18759
+S
+#18761
+Eastern Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18762
+D3
+~
+~
+0 0 18760
+S
+#18762
+Eastern Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18763
+D3
+~
+~
+0 0 18761
+S
+#18763
+Eastern Tarabon Road at Sienda Street~
+~
+0 1 1
+D1
+~
+~
+0 0 18764
+D2
+~
+~
+0 0 18781
+D3
+~
+~
+0 0 18762
+S
+#18764
+Eastern Tarabon Road at A Dark Alley~
+~
+0 1 1
+D0
+~
+~
+0 0 18740
+D1
+~
+~
+0 0 18765
+D3
+~
+~
+0 0 18763
+S
+#18765
+Eastern Tarabon Road at Abila Street~
+~
+0 1 1
+D1
+~
+~
+0 0 18766
+D2
+~
+~
+0 0 18782
+D3
+~
+~
+0 0 18764
+S
+#18766
+Eastern Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18767
+D3
+~
+~
+0 0 18765
+S
+#18767
+Eastern Tarabon Road~
+~
+0 1 1
+D1
+~
+~
+0 0 18768
+D3
+~
+~
+0 0 18766
+S
+#18768
+Northeast Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18741
+D2
+~
+~
+0 0 18783
+D3
+~
+~
+0 0 18767
+S
+#18769
+South of Tanchico Gate~
+~
+0 8 1
+D0
+~
+~
+0 0 18742
+D1
+~
+~
+0 0 19027
+D2
+~
+~
+0 0 18784
+S
+#18770
+Silver Star Market~
+~
+0 1 1
+D1
+~
+~
+0 0 18771
+D3
+~
+~
+0 0 19028
+S
+#18771
+Silver Star Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18746
+D1
+~
+~
+0 0 18772
+D2
+~
+~
+0 0 18785
+D3
+~
+~
+0 0 18770
+S
+#18772
+Silver Star Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18747
+D1
+~
+~
+0 0 18773
+D2
+~
+~
+0 0 18786
+D3
+~
+~
+0 0 18771
+S
+#18773
+Silver Star Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18748
+D1
+~
+~
+0 0 18774
+D2
+~
+~
+0 0 18787
+D3
+~
+~
+0 0 18772
+S
+#18774
+Silver Star Market~
+~
+0 1 1
+D1
+~
+~
+0 0 19037
+D3
+~
+~
+0 0 18773
+S
+#18775
+Lower Side of Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18754
+D2
+~
+~
+0 0 18788
+S
+#18776
+Creator's Square~
+~
+0 1 1
+D1
+~
+~
+0 0 18777
+S
+#18777
+Creator's Square~
+~
+0 1 1
+D0
+~
+~
+0 0 18758
+D1
+~
+~
+0 0 18778
+D2
+~
+~
+0 0 18789
+D3
+~
+~
+0 0 18776
+S
+#18778
+Creator's Square~
+~
+0 1 1
+D0
+~
+~
+0 0 18759
+D1
+~
+~
+0 0 18779
+D2
+~
+~
+0 0 18790
+D3
+~
+~
+0 0 18777
+S
+#18779
+Creator's Square~
+~
+0 1 1
+D0
+~
+~
+0 0 18760
+D1
+~
+~
+0 0 18780
+D2
+~
+~
+0 0 18791
+D3
+~
+~
+0 0 18778
+S
+#18780
+Creator's Square~
+~
+0 1 1
+D3
+~
+~
+0 0 18779
+S
+#18781
+Sienda Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18763
+D2
+~
+~
+0 0 18792
+S
+#18782
+Abila Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18765
+D2
+~
+~
+0 0 18793
+S
+#18783
+Northeast Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18768
+D2
+~
+~
+0 0 18794
+S
+#18784
+Northwest Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18769
+D2
+~
+~
+0 0 18795
+S
+#18785
+Silver Star Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18771
+D3
+~
+~
+0 0 19031
+S
+#18786
+Commons Road~
+~
+0 1 1
+D0
+~
+~
+0 0 18772
+D2
+~
+~
+0 0 18796
+S
+#18787
+Silver Star Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18773
+D1
+~
+~
+0 0 19032
+S
+#18788
+Lower Side of Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18775
+D2
+~
+~
+0 0 18797
+S
+#18789
+Creator's Square~
+~
+0 1 1
+D0
+~
+~
+0 0 18777
+S
+#18790
+Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18778
+D2
+~
+~
+0 0 18798
+S
+#18791
+Creator's Square~
+~
+0 1 1
+D0
+~
+~
+0 0 18779
+S
+#18792
+Sienda Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18781
+D2
+~
+~
+0 0 18799
+S
+#17768
+~
+~
+0 9 0
+D1
+~
+~
+0 0 17669
+D2
+~
+~
+0 0 17674
+S
+#18793
+Abila Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18782
+D2
+~
+~
+0 0 18800
+S
+#18794
+Northeast Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18783
+D2
+~
+~
+0 0 18801
+S
+#18795
+Northwest Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18784
+D2
+~
+~
+0 0 18802
+S
+#18796
+Commons Road~
+~
+0 1 1
+D0
+~
+~
+0 0 18786
+D2
+~
+~
+0 0 18807
+S
+#18797
+Middle of the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18788
+D2
+~
+~
+0 0 18814
+S
+#18798
+Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18790
+D2
+~
+~
+0 0 18815
+S
+#18799
+Sienda Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18792
+D2
+~
+~
+0 0 18816
+S
+#18800
+Abila Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18793
+D2
+~
+~
+0 0 18817
+S
+#18801
+Northeast Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18794
+D2
+~
+~
+0 0 18818
+S
+#18802
+West Wall at Murandy Lane~
+~
+0 1 1
+D0
+~
+~
+0 0 18795
+D1
+~
+~
+0 0 18803
+D2
+~
+~
+0 0 18819
+S
+#18803
+Murandy Lane~
+~
+0 1 1
+D1
+~
+~
+0 0 18804
+D3
+~
+~
+0 0 18802
+S
+#18804
+Murandy Lane~
+~
+0 1 1
+D1
+~
+~
+0 0 18805
+D3
+~
+~
+0 0 18803
+S
+#18805
+Murandy Lane~
+~
+0 1 1
+D0
+~
+~
+0 0 19030
+D1
+~
+~
+0 0 18806
+D3
+~
+~
+0 0 18804
+S
+#18806
+Murandy Lane~
+~
+0 1 1
+D1
+~
+~
+0 0 18807
+D3
+~
+~
+0 0 18805
+S
+#18807
+Murandy Lane at Commons Road~
+~
+0 1 1
+D0
+~
+~
+0 0 18796
+D1
+~
+~
+0 0 18808
+D3
+~
+~
+0 0 18806
+S
+#18808
+Murandy Lane~
+~
+0 1 1
+D1
+~
+~
+0 0 18809
+D3
+~
+~
+0 0 18807
+S
+#18809
+Murandy Lane~
+~
+0 1 1
+D1
+~
+~
+0 0 18810
+D3
+~
+~
+0 0 18808
+S
+#18810
+Murandy Lane~
+~
+0 1 1
+D1
+~
+~
+0 0 18811
+D3
+~
+~
+0 0 18809
+S
+#18811
+Murandy Lane~
+~
+0 1 1
+D1
+~
+~
+0 0 18812
+D2
+~
+~
+4 0 19042
+D3
+~
+~
+0 0 18810
+S
+#18812
+Murandy Lane~
+~
+0 1 1
+D1
+~
+~
+0 0 18813
+D3
+~
+~
+0 0 18811
+S
+#18813
+Murandy Lane~
+~
+0 1 1
+D1
+~
+~
+0 0 18814
+D3
+~
+~
+0 0 18812
+S
+#18814
+Intersection of Murdany Lane at Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18797
+D2
+~
+~
+0 0 18820
+D3
+~
+~
+0 0 18813
+S
+#18815
+Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18798
+D2
+~
+~
+0 0 18821
+S
+#18816
+Center of Sienda Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18799
+D2
+~
+~
+0 0 18822
+S
+#18817
+Center of Abila Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18800
+D2
+~
+~
+0 0 18823
+S
+#18818
+East Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18801
+D2
+~
+~
+0 0 18824
+S
+#18819
+West Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18802
+D2
+~
+~
+0 0 18825
+S
+#18820
+Middle of the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18814
+D2
+~
+~
+0 0 18826
+S
+#18821
+Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18815
+D2
+~
+~
+0 0 18827
+S
+#18822
+Center of Sienda Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18816
+D2
+~
+~
+0 0 18828
+S
+#18823
+Center of Abila Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18817
+D2
+~
+~
+0 0 18829
+S
+#18824
+East Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18818
+D2
+~
+~
+0 0 18830
+S
+#18825
+West Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18819
+D2
+~
+~
+0 0 18831
+S
+#18826
+Middle of the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18820
+D2
+~
+~
+0 0 18832
+S
+#18827
+Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18821
+D2
+~
+~
+0 0 18833
+S
+#18828
+Center of Sienda Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18822
+D2
+~
+~
+0 0 18834
+S
+#18829
+Center of Abila Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18823
+D2
+~
+~
+0 0 18835
+S
+#18830
+East Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18824
+D2
+~
+~
+0 0 18836
+S
+#18831
+West Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18825
+D2
+~
+~
+0 0 18837
+S
+#18832
+Middle of the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18826
+D2
+~
+~
+0 0 18838
+D3
+~
+~
+0 0 19052
+S
+#18833
+Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18827
+D2
+~
+~
+0 0 18840
+S
+#18834
+Sienda Street~
+~
+0 0 1
+D0
+~
+~
+0 0 18828
+D2
+~
+~
+0 0 18842
+S
+#18835
+Abila Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18829
+D2
+~
+~
+0 0 18843
+S
+#18836
+East Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18830
+D2
+~
+~
+0 0 18844
+S
+#18837
+West Wall of Amador~
+~
+0 0 0
+D0
+~
+~
+0 0 18831
+D2
+~
+~
+0 0 18845
+S
+#18838
+Middle of the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18832
+D2
+~
+~
+0 0 18846
+D3
+~
+~
+0 0 17620
+S
+#18839
+Red Thistle Market~
+~
+0 1 1
+D2
+~
+~
+0 0 18848
+S
+#18840
+Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18833
+D2
+~
+~
+0 0 18849
+S
+#18841
+Red Thistle Market~
+~
+0 1 1
+D2
+~
+~
+0 0 18850
+S
+#18842
+Sienda Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18834
+D2
+~
+~
+0 0 18852
+S
+#18843
+Abila Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18835
+D2
+~
+~
+0 0 18853
+S
+#18844
+East Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18836
+D2
+~
+~
+0 0 18854
+S
+#18845
+West Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18837
+D2
+~
+~
+0 0 18878
+S
+#18846
+Middle of the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18838
+D2
+~
+~
+0 0 18855
+D3
+~
+~
+0 0 17624
+S
+#18847
+Red Thistle Market~
+~
+0 1 1
+D1
+~
+~
+0 0 18848
+S
+#18848
+Red Thistle Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18839
+D1
+~
+~
+0 0 18849
+D2
+~
+~
+0 0 18859
+D3
+~
+~
+0 0 18847
+S
+#18849
+Red Thistle Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18840
+D1
+~
+~
+0 0 18850
+D2
+~
+~
+0 0 18860
+D3
+~
+~
+0 0 18848
+S
+#18850
+Red Thistle Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18841
+D1
+~
+~
+0 0 18851
+D2
+~
+~
+0 0 18861
+D3
+~
+~
+0 0 18849
+S
+#18851
+Red Thistle Market~
+~
+0 1 1
+D3
+~
+~
+0 0 18850
+S
+#18852
+Sienda Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18842
+D2
+~
+~
+0 0 18864
+S
+#18853
+Abila Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18843
+D2
+~
+~
+0 0 18866
+S
+#18854
+East Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18844
+D2
+~
+~
+0 0 18869
+S
+#18855
+Serenda Palace Crossing at Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18846
+D1
+~
+~
+0 0 18856
+D2
+~
+~
+0 0 18870
+D3
+~
+~
+0 0 18490
+S
+#18856
+Western Road to Serenda Palace~
+~
+0 1 1
+D1
+~
+~
+0 0 18857
+D3
+~
+~
+0 0 18855
+S
+#18857
+Western Road to Serenda Palace~
+~
+0 1 1
+D1
+~
+~
+0 0 18858
+D3
+~
+~
+0 0 18856
+S
+#18858
+Western Road to Serenda Palace~
+~
+0 1 1
+D1
+~
+~
+0 0 18859
+D3
+~
+~
+0 0 18857
+S
+#18859
+Red Thistle Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18848
+D1
+~
+~
+0 0 18860
+D2
+~
+~
+0 0 18872
+D3
+~
+~
+0 0 18858
+S
+#18860
+Red Thistle Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18849
+D1
+~
+~
+0 0 18861
+D2
+~
+~
+0 0 18873
+D3
+~
+~
+0 0 18859
+S
+#18861
+Red Thistle Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18850
+D1
+~
+~
+0 0 18862
+D2
+~
+~
+0 0 18874
+D3
+~
+~
+0 0 18860
+S
+#18862
+Eastern Road to Serenda Palace~
+~
+0 1 1
+D1
+~
+~
+0 0 18863
+D3
+~
+~
+0 0 18861
+S
+#18863
+Eastern Road to Serenda Palace~
+~
+0 1 1
+D1
+~
+~
+0 0 18864
+D3
+~
+~
+0 0 18862
+S
+#18864
+Serenda Palace Crossing at Sienda Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18852
+D1
+~
+~
+0 0 18865
+D3
+~
+~
+0 0 18863
+S
+#18865
+Serenda Palace Crossing at Mardecin Avenue~
+~
+0 1 1
+D1
+~
+~
+0 0 18866
+D2
+~
+~
+0 0 18876
+D3
+~
+~
+0 0 18864
+S
+#18866
+Serenda Palace Crossing at Abila Street~
+~
+0 1 1
+D0
+~
+~
+0 0 18853
+D1
+~
+~
+0 0 18867
+D3
+~
+~
+0 0 18865
+S
+#18867
+Eastern Road to Serenda Palace~
+~
+0 1 1
+D1
+~
+~
+0 0 18868
+D3
+~
+~
+0 0 18866
+S
+#18868
+Eastern Road to Serenda Palace~
+~
+0 1 1
+D1
+~
+~
+0 0 18869
+D3
+~
+~
+0 0 18867
+S
+#18869
+East Wall at the Road to Serenda Palace~
+~
+0 1 1
+D0
+~
+~
+0 0 18854
+D2
+~
+~
+0 0 18877
+D3
+~
+~
+0 0 18868
+S
+#18870
+Middle of the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18855
+D2
+~
+~
+0 0 18881
+D3
+~
+~
+0 0 17625
+S
+#18871
+Red Thistle Market~
+~
+0 1 1
+D1
+~
+~
+0 0 18872
+S
+#18872
+Red Thistle Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18859
+D1
+~
+~
+0 0 18873
+D2
+~
+~
+0 0 18882
+D3
+~
+~
+0 0 18871
+S
+#18873
+Red Thistle Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18860
+D1
+~
+~
+0 0 18874
+D2
+~
+~
+0 0 18883
+D3
+~
+~
+0 0 18872
+S
+#18874
+Red Thistle Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18861
+D1
+~
+~
+0 0 18875
+D2
+~
+~
+0 0 18884
+D3
+~
+~
+0 0 18873
+S
+#18875
+Red Thistle Market~
+~
+0 1 1
+D3
+~
+~
+0 0 18874
+S
+#18876
+North Mardecin Avenue~
+~
+0 1 1
+D0
+~
+~
+0 0 18865
+D2
+~
+~
+0 0 18885
+S
+#18877
+Southeast Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18869
+D2
+~
+~
+0 0 18886
+S
+#18878
+West Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18845
+D2
+~
+~
+0 0 18879
+S
+#18879
+Southwest Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18878
+D2
+~
+~
+0 0 18880
+S
+#18880
+Southwest Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18879
+D2
+~
+~
+0 0 18887
+S
+#18881
+Upper Side of the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18870
+D2
+~
+~
+0 0 18888
+S
+#18882
+Red Thistle Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18872
+S
+#18883
+Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18873
+D2
+~
+~
+0 0 18889
+S
+#18884
+Red Thistle Market~
+~
+0 1 1
+D0
+~
+~
+0 0 18874
+S
+#18885
+North Mardecin Avenue~
+~
+0 1 1
+D0
+~
+~
+0 0 18876
+D2
+~
+~
+0 0 18890
+S
+#18886
+Southeast Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18877
+D2
+~
+~
+0 0 18891
+S
+#18887
+Southwest Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18880
+D2
+~
+~
+0 0 18892
+S
+#18888
+Upper Side of the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18881
+D2
+~
+~
+0 0 18893
+S
+#18889
+Southern End of Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18883
+D2
+~
+~
+0 0 18894
+S
+#18890
+North Mardecin Avenue~
+~
+0 1 1
+D0
+~
+~
+0 0 18885
+D2
+~
+~
+0 0 18895
+S
+#18891
+Southeast Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18886
+D2
+~
+~
+0 0 18896
+S
+#18892
+Southwest Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18887
+D2
+~
+~
+0 0 18897
+S
+#18893
+Upper Side of the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18888
+D2
+~
+~
+0 0 18898
+D3
+~
+~
+0 0 17634
+S
+#18894
+Southern End of Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18889
+D2
+~
+~
+0 0 18903
+S
+#18895
+North Mardecin Avenue~
+~
+0 1 1
+D0
+~
+~
+0 0 18890
+D2
+~
+~
+0 0 18904
+S
+#18896
+Southeast Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18891
+D2
+~
+~
+0 0 18908
+S
+#18897
+Southwest Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18892
+D2
+~
+~
+0 0 18909
+S
+#18898
+Street of Gold at Jeremel Junction~
+~
+0 1 1
+D0
+~
+~
+0 0 18893
+D1
+~
+~
+0 0 18899
+D2
+~
+~
+0 0 18922
+S
+#18899
+Jeremel Junction~
+~
+0 1 1
+D1
+~
+~
+0 0 18900
+D3
+~
+~
+0 0 18898
+S
+#18900
+Jeremel Junction~
+~
+0 1 1
+D1
+~
+~
+0 0 18901
+D3
+~
+~
+0 0 18899
+S
+#18901
+Jeremel Junction~
+~
+0 1 1
+D1
+~
+~
+0 0 18902
+D3
+~
+~
+0 0 18900
+S
+#18902
+Jeremel Junction~
+~
+0 1 1
+D1
+~
+~
+0 0 18903
+D3
+~
+~
+0 0 18901
+S
+#18903
+Lothair Way at Jeramel Junction~
+~
+0 1 1
+D0
+~
+~
+0 0 18894
+D2
+~
+~
+0 0 18923
+D3
+~
+~
+0 0 18902
+S
+#18904
+Mardecin Avenue at King's Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18895
+D1
+~
+~
+0 0 18905
+D2
+~
+~
+0 0 18924
+S
+#18905
+King's Way~
+~
+0 1 1
+D1
+~
+~
+0 0 18906
+D3
+~
+~
+0 0 18904
+S
+#18906
+King's Way~
+~
+0 1 1
+D1
+~
+~
+0 0 18907
+D3
+~
+~
+0 0 18905
+S
+#18907
+King's Way~
+~
+0 1 1
+D1
+~
+~
+0 0 18908
+D3
+~
+~
+0 0 18906
+S
+#18908
+Southeast Wall at King's Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18896
+D2
+~
+~
+0 0 18925
+D3
+~
+~
+0 0 18907
+S
+#18909
+Southwest Wall at Altara Avenue~
+~
+0 1 1
+D0
+~
+~
+0 0 18897
+D1
+~
+~
+0 0 18910
+D2
+~
+~
+0 0 18926
+S
+#18910
+Altara Avenue~
+~
+0 1 1
+D1
+~
+~
+0 0 18911
+D3
+~
+~
+0 0 18909
+S
+#18911
+Altara Avenue~
+~
+0 1 1
+D1
+~
+~
+0 0 18912
+D3
+~
+~
+0 0 18910
+S
+#18912
+Altara Avenue~
+~
+0 1 1
+D1
+~
+~
+0 0 18913
+D2
+~
+~
+0 0 17642
+D3
+~
+~
+0 0 18911
+S
+#18913
+Altara Avenue~
+~
+0 1 1
+D1
+~
+~
+0 0 18914
+D3
+~
+~
+0 0 18912
+S
+#18914
+Altara Avenue~
+~
+0 1 1
+D1
+~
+~
+0 0 18915
+D3
+~
+~
+0 0 18913
+S
+#18915
+Altara Avenue~
+~
+0 1 1
+D1
+~
+~
+0 0 18916
+D3
+~
+~
+0 0 18914
+S
+#18916
+Altara Avenue~
+~
+0 1 1
+D1
+~
+~
+0 0 18917
+D3
+~
+~
+0 0 18915
+S
+#18917
+Altara Avenue~
+~
+0 1 1
+D1
+~
+~
+0 0 18918
+D2
+~
+~
+0 0 17647
+D3
+~
+~
+0 0 18916
+S
+#18918
+Altara Avenue~
+~
+0 1 1
+D0
+~
+~
+0 0 17638
+D1
+~
+~
+0 0 18919
+D3
+~
+~
+0 0 18917
+S
+#18919
+Altara Avenue~
+~
+0 1 1
+D1
+~
+~
+0 0 18920
+D2
+~
+~
+0 0 17649
+D3
+~
+~
+0 0 18918
+S
+#18920
+Altara Avenue~
+~
+0 1 1
+D1
+~
+~
+0 0 18921
+D3
+~
+~
+0 0 18919
+S
+#18921
+Altara Avenue~
+~
+0 1 1
+D1
+~
+~
+0 0 18922
+D3
+~
+~
+0 0 18920
+S
+#18922
+Intersection of Street of Gold and Altara Avenue~
+~
+0 1 1
+D0
+~
+~
+0 0 18898
+D2
+~
+~
+0 0 18927
+D3
+~
+~
+0 0 18921
+S
+#18923
+Southern End of Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18903
+D2
+~
+~
+0 0 18928
+S
+#18924
+South Mardecin Avenue~
+~
+0 1 1
+D0
+~
+~
+0 0 18904
+D2
+~
+~
+0 0 18929
+S
+#18925
+Southeast Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18908
+D2
+~
+~
+0 0 18930
+S
+#18926
+Southwest Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18909
+D2
+~
+~
+0 0 18931
+S
+#18927
+Upper Side of the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18922
+D2
+~
+~
+0 0 18932
+D3
+~
+~
+0 0 17651
+S
+#18928
+Southern End of Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18923
+D2
+~
+~
+0 0 18933
+S
+#18929
+South Mardecin Avenue~
+~
+0 1 1
+D0
+~
+~
+0 0 18924
+D2
+~
+~
+0 0 18934
+S
+#18930
+Southeast Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 18925
+D2
+~
+~
+0 0 18935
+S
+#18931
+Southwest Corner of the Wall~
+~
+0 1 1
+D0
+~
+~
+0 0 18926
+D1
+~
+~
+0 0 17652
+D2
+~
+~
+0 0 18936
+S
+#18932
+Upper Side of the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18927
+D2
+~
+~
+0 0 18949
+S
+#18933
+Southern End of Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18928
+D2
+~
+~
+0 0 18954
+S
+#18934
+South Mardecin Avenue~
+~
+0 1 1
+D0
+~
+~
+0 0 18929
+D2
+~
+~
+0 0 18959
+S
+#18935
+North of Ebou Dar Gate~
+~
+0 1 1
+D0
+~
+~
+0 0 18930
+D2
+~
+~
+0 0 18963
+S
+#18936
+Southwest Corner of the Wall~
+~
+0 1 1
+D0
+~
+~
+0 0 18931
+D1
+~
+~
+0 0 18937
+S
+#18937
+Southwest Corner of the Wall~
+~
+0 1 1
+D1
+~
+~
+0 0 18938
+D3
+~
+~
+0 0 18936
+S
+#18938
+Southwest Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18939
+D3
+~
+~
+0 0 18937
+S
+#18939
+Southwest Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18940
+D3
+~
+~
+0 0 18938
+S
+#18940
+Southwest Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18941
+D3
+~
+~
+0 0 18939
+S
+#18941
+Southwest Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18942
+D3
+~
+~
+0 0 18940
+S
+#18942
+Southwest Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 17657
+D1
+~
+~
+0 0 18943
+D3
+~
+~
+0 0 18941
+S
+#18943
+Southwest Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18944
+D3
+~
+~
+0 0 18942
+S
+#18944
+Southwest Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18945
+D3
+~
+~
+0 0 18943
+S
+#18945
+South Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18946
+D3
+~
+~
+0 0 18944
+S
+#18946
+South Wall of Amador~
+~
+0 1 1
+D0
+~
+~
+0 0 17661
+D1
+~
+~
+0 0 18947
+D3
+~
+~
+0 0 18945
+S
+#18947
+South Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18948
+D3
+~
+~
+0 0 18946
+S
+#18948
+South Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18949
+D3
+~
+~
+0 0 18947
+S
+#18949
+South Wall at the Street of Gold~
+~
+0 1 1
+D0
+~
+~
+0 0 18932
+D1
+~
+~
+0 0 18950
+D3
+~
+~
+0 0 18948
+S
+#18950
+South Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18951
+D3
+~
+~
+0 0 18949
+S
+#18951
+South Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18952
+D3
+~
+~
+0 0 18950
+S
+#18952
+South Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18953
+D3
+~
+~
+0 0 18951
+S
+#18953
+South Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18954
+D3
+~
+~
+0 0 18952
+S
+#18954
+South Wall at Lothair Way~
+~
+0 1 1
+D0
+~
+~
+0 0 18933
+D1
+~
+~
+0 0 18955
+D3
+~
+~
+0 0 18953
+S
+#18955
+Southeast Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18956
+D3
+~
+~
+0 0 18954
+S
+#18956
+Southeast Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18957
+D3
+~
+~
+0 0 18955
+S
+#18957
+Southeast Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18958
+D3
+~
+~
+0 0 18956
+S
+#18958
+Southeast Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18959
+D3
+~
+~
+0 0 18957
+S
+#18959
+Southeast Wall at Mardecin Avenue~
+~
+0 1 1
+D0
+~
+~
+0 0 18934
+D1
+~
+~
+0 0 18960
+D3
+~
+~
+0 0 18958
+S
+#18960
+Southeast Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18961
+D3
+~
+~
+0 0 18959
+S
+#18961
+Southeast Wall of Amador~
+~
+0 1 1
+D1
+~
+~
+0 0 18962
+D3
+~
+~
+0 0 18960
+S
+#18962
+West of Ebou Dar Gate~
+~
+0 1 1
+D1
+~
+~
+0 0 18963
+D3
+~
+~
+0 0 18961
+S
+#18963
+Inside Ebou Dar Gate~
+~
+0 0 0
+D0
+~
+~
+0 0 18935
+D2
+~
+~
+0 0 18964
+D3
+~
+~
+0 0 18962
+S
+#18964
+Outside Ebou Dar Gate~
+~
+0 0 8
+D0
+~
+~
+0 0 18963
+D2
+~
+~
+0 0 18965
+D3
+~
+~
+0 0 18971
+S
+#18965
+Road to Altara~
+~
+0 0 8
+D0
+~
+~
+0 0 18964
+D2
+~
+~
+0 0 18966
+S
+#18966
+Road to Altara~
+~
+0 0 8
+D0
+~
+~
+0 0 18965
+D2
+~
+~
+0 0 18967
+S
+#18967
+Road to Altara~
+~
+0 0 8
+D0
+~
+~
+0 0 18966
+D2
+~
+~
+0 0 18968
+S
+#18968
+Road to Altara~
+~
+0 0 8
+D0
+~
+~
+0 0 18967
+S
+#18969
+Southern Garrison~
+~
+0 9 0
+D1
+~
+~
+0 0 18970
+D2
+~
+~
+0 0 18973
+S
+#18970
+Southern Garrison~
+~
+0 9 0
+D1
+~
+~
+4 0 18971
+D2
+~
+~
+0 0 18974
+D3
+~
+~
+0 0 18969
+S
+#18971
+Children of the Light Garrison~
+~
+0 0 8
+D1
+~
+~
+0 0 18964
+D3
+~
+~
+4 0 18970
+S
+#18972
+Garrison Commander's Office~
+~
+0 521 0
+D1
+~
+~
+4 0 18973
+S
+#18973
+Southern Garrison~
+~
+0 9 0
+D0
+~
+~
+0 0 18969
+D1
+~
+~
+0 0 18974
+D3
+~
+~
+4 0 18972
+S
+#18974
+Southern Garrison~
+~
+0 9 0
+D0
+~
+~
+0 0 18970
+D3
+~
+~
+0 0 18973
+S
+#18975
+Garrison Commander's Office~
+~
+0 521 0
+D2
+~
+~
+4 0 18976
+S
+#18976
+West Garrison~
+~
+0 9 0
+D0
+~
+~
+4 0 18975
+D1
+~
+~
+0 0 18977
+D2
+~
+~
+0 0 18978
+S
+#18977
+West Garrison~
+~
+0 9 0
+D2
+~
+~
+0 0 18979
+D3
+~
+~
+0 0 18976
+S
+#18978
+West Garrison~
+~
+0 9 0
+D0
+~
+~
+0 0 18976
+D1
+~
+~
+0 0 18979
+S
+#18979
+West Garrison~
+~
+0 9 0
+D0
+~
+~
+0 0 18977
+D2
+~
+~
+4 0 18980
+D3
+~
+~
+0 0 18978
+S
+#18980
+Children of the Light Garrison~
+~
+0 0 8
+D0
+~
+~
+4 0 18979
+D2
+~
+~
+0 0 18985
+S
+#18981
+Road to Tarabon~
+~
+0 0 8
+D1
+~
+~
+0 0 18982
+S
+#18982
+Road to Tarabon~
+~
+0 0 8
+D1
+~
+~
+0 0 18983
+D3
+~
+~
+0 0 18981
+S
+#18983
+Road to Tarabon~
+~
+0 0 8
+D1
+~
+~
+0 0 18984
+D3
+~
+~
+0 0 18982
+S
+#18984
+Road to Tarabon~
+~
+0 0 8
+D1
+~
+~
+0 0 18985
+D3
+~
+~
+0 0 18983
+S
+#18985
+Outside Tanchico Gate~
+~
+0 0 8
+D0
+~
+~
+0 0 18980
+D1
+~
+~
+0 0 18742
+D3
+~
+~
+0 0 18984
+S
+#18986
+Garrison Commander's Office~
+~
+0 521 0
+D1
+~
+~
+4 0 18987
+S
+#18987
+North Garrison~
+~
+0 9 0
+D1
+~
+~
+0 0 18988
+D2
+~
+~
+0 0 18989
+D3
+~
+~
+4 0 18986
+S
+#18988
+North Garrison~
+~
+0 9 0
+D2
+~
+~
+0 0 18990
+D3
+~
+~
+0 0 18987
+S
+#18989
+North Garrison~
+~
+0 9 0
+D0
+~
+~
+0 0 18987
+D1
+~
+~
+0 0 18990
+S
+#18990
+North Garrison~
+~
+0 9 0
+D0
+~
+~
+0 0 18988
+D1
+~
+~
+4 0 18991
+D3
+~
+~
+0 0 18989
+S
+#18991
+Children of the Light Garrison~
+~
+0 0 8
+D1
+~
+~
+0 0 18672
+D3
+~
+~
+4 0 18990
+S
+#18992
+~
+~
+0 9 0
+D1
+~
+~
+0 0 18993
+D4
+~
+~
+0 0 19054
+S
+#18993
+~
+~
+0 9 0
+D0
+~
+~
+0 0 18675
+D1
+~
+~
+0 0 18994
+D3
+~
+~
+0 0 18992
+S
+#18994
+~
+~
+0 9 0
+D1
+~
+~
+0 0 18995
+D3
+~
+~
+0 0 18993
+S
+#18995
+~
+~
+0 9 0
+D2
+~
+~
+0 0 19006
+D3
+~
+~
+0 0 18994
+S
+#18996
+~
+~
+0 9 0
+D3
+~
+~
+0 0 18701
+D4
+~
+~
+0 0 19058
+S
+#18997
+~
+~
+0 9 0
+D0
+~
+~
+0 0 18680
+S
+#18998
+~
+~
+0 9 0
+D1
+~
+~
+0 0 18999
+D2
+~
+~
+0 0 19009
+D4
+~
+~
+0 0 19059
+S
+#18999
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19001
+D2
+~
+~
+0 0 19010
+D3
+~
+~
+0 0 18998
+S
+#19000
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19052
+D3
+~
+~
+0 0 19053
+S
+#19001
+~
+~
+0 9 0
+D2
+~
+~
+0 0 19011
+D3
+~
+~
+0 0 18999
+S
+#19002
+~
+~
+0 9 0
+D1
+~
+~
+0 0 18702
+S
+#19003
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19004
+D2
+~
+~
+0 0 19013
+S
+#19004
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19005
+D2
+~
+~
+0 0 19014
+D3
+~
+~
+0 0 19003
+S
+#19005
+~
+~
+0 9 0
+D2
+~
+~
+0 0 19015
+D3
+~
+~
+0 0 19004
+S
+#19006
+~
+~
+0 9 0
+D0
+~
+~
+0 0 18995
+S
+#19007
+~
+~
+0 9 0
+D3
+~
+~
+0 0 18706
+S
+#19008
+~
+~
+0 9 0
+D2
+~
+~
+0 0 19016
+S
+#19009
+~
+~
+0 9 0
+D0
+~
+~
+0 0 18998
+D1
+~
+~
+0 0 19010
+S
+#19010
+~
+~
+0 9 0
+D0
+~
+~
+0 0 18999
+D2
+~
+~
+0 0 19018
+D3
+~
+~
+0 0 19009
+S
+#19011
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19001
+D1
+~
+~
+4 0 19012
+D2
+~
+~
+0 0 19019
+S
+#19012
+~
+~
+0 9 0
+D1
+~
+~
+4 0 18707
+D3
+~
+~
+4 0 19011
+S
+#19013
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19003
+D1
+~
+~
+0 0 19014
+D2
+~
+~
+0 0 19021
+S
+#19014
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19004
+D1
+~
+~
+0 0 19015
+D3
+~
+~
+0 0 19013
+S
+#19015
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19005
+D1
+~
+~
+0 0 18719
+D2
+~
+~
+0 0 18729
+D3
+~
+~
+0 0 19014
+S
+#19016
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19008
+D3
+~
+~
+0 0 18721
+S
+#19017
+~
+~
+0 9 0
+D2
+~
+~
+0 0 19023
+S
+#19018
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19010
+D1
+~
+~
+0 0 19019
+D2
+~
+~
+0 0 19024
+S
+#19019
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19011
+D2
+~
+~
+0 0 19025
+D3
+~
+~
+0 0 19018
+S
+#19020
+~
+~
+0 9 0
+D1
+~
+~
+0 0 18722
+S
+#19021
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19013
+D4
+~
+~
+0 0 19075
+S
+#19022
+~
+~
+0 9 0
+D2
+~
+~
+0 0 18744
+S
+#19023
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19017
+D3
+~
+~
+0 0 18733
+S
+#19024
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19018
+D1
+~
+~
+0 0 19025
+S
+#19025
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19019
+D3
+~
+~
+0 0 19024
+S
+#19026
+~
+~
+0 9 0
+D2
+~
+~
+0 0 18753
+S
+#19027
+~
+~
+0 9 0
+D3
+~
+~
+0 0 18769
+S
+#19028
+~
+~
+0 9 0
+D1
+~
+~
+0 0 18770
+S
+#19029
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19030
+D4
+~
+~
+0 0 19082
+S
+#19030
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19031
+D2
+~
+~
+0 0 18805
+D3
+~
+~
+0 0 19029
+S
+#19031
+~
+~
+0 9 0
+D1
+~
+~
+0 0 18785
+D3
+~
+~
+0 0 19030
+S
+#19032
+~
+~
+0 9 0
+D3
+~
+~
+0 0 18787
+S
+#19033
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19037
+D1
+~
+~
+0 0 19034
+S
+#19034
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19038
+D1
+~
+~
+0 0 19035
+D3
+~
+~
+0 0 19033
+D4
+~
+~
+0 0 19086
+S
+#19035
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19039
+D1
+~
+~
+0 0 19036
+D3
+~
+~
+0 0 19034
+S
+#19036
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19040
+D3
+~
+~
+0 0 19035
+S
+#19037
+~
+~
+0 9 0
+D2
+~
+~
+0 0 19033
+D3
+~
+~
+0 0 18774
+S
+#19038
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19039
+D2
+~
+~
+0 0 19034
+S
+#19039
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19040
+D2
+~
+~
+0 0 19035
+D3
+~
+~
+0 0 19038
+S
+#19040
+~
+~
+0 9 0
+D2
+~
+~
+0 0 19036
+D3
+~
+~
+0 0 19039
+S
+#19041
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19042
+D2
+~
+~
+0 0 19045
+S
+#19042
+~
+~
+0 9 0
+D0
+~
+~
+4 0 18811
+D1
+~
+~
+0 0 19043
+D2
+~
+~
+0 0 19046
+D3
+~
+~
+0 0 19041
+S
+#19043
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19044
+D2
+~
+~
+0 0 19047
+D3
+~
+~
+0 0 19042
+S
+#19044
+~
+~
+0 9 0
+D2
+~
+~
+0 0 19048
+D3
+~
+~
+0 0 19043
+D4
+~
+~
+0 0 19092
+S
+#19045
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19041
+D1
+~
+~
+0 0 19046
+D2
+~
+~
+0 0 19049
+S
+#19046
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19042
+D1
+~
+~
+0 0 19047
+D2
+~
+~
+0 0 19050
+D3
+~
+~
+0 0 19045
+S
+#19047
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19043
+D1
+~
+~
+0 0 19048
+D3
+~
+~
+0 0 19046
+S
+#19048
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19044
+D3
+~
+~
+0 0 19047
+S
+#19049
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19045
+D1
+~
+~
+0 0 19050
+S
+#19050
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19046
+D3
+~
+~
+0 0 19049
+S
+#19051
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19052
+D2
+~
+~
+0 0 19053
+D4
+~
+~
+0 0 19098
+S
+#19052
+~
+~
+0 9 0
+D1
+~
+~
+0 0 18832
+D2
+~
+~
+0 0 19000
+D3
+~
+~
+0 0 19051
+S
+#19053
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19051
+D1
+~
+~
+0 0 19000
+S
+#19054
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19055
+D5
+~
+~
+0 0 18992
+S
+#19055
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19056
+D3
+~
+~
+0 0 19054
+S
+#19056
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19057
+D3
+~
+~
+0 0 19055
+S
+#19057
+~
+~
+0 9 0
+D3
+~
+~
+0 0 19056
+S
+#19058
+~
+~
+0 9 0
+D5
+~
+~
+0 0 18996
+S
+#19059
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19060
+D2
+~
+~
+0 0 19066
+D4
+~
+~
+0 0 17603
+D5
+~
+~
+0 0 18998
+S
+#19060
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19061
+D2
+~
+~
+0 0 19067
+D3
+~
+~
+0 0 19059
+S
+#19061
+~
+~
+0 9 0
+D2
+~
+~
+0 0 19068
+D3
+~
+~
+0 0 19060
+S
+#19062
+~
+~
+0 0 0
+D1
+~
+~
+0 0 19063
+D2
+~
+~
+0 0 19070
+S
+#19063
+~
+~
+0 0 0
+D1
+~
+~
+0 0 19064
+D2
+~
+~
+0 0 19071
+D3
+~
+~
+0 0 19062
+S
+#19064
+~
+~
+0 0 0
+D2
+~
+~
+0 0 19072
+D3
+~
+~
+0 0 19063
+S
+#19066
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19059
+D1
+~
+~
+0 0 19067
+S
+#19067
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19060
+D1
+~
+~
+0 0 19068
+D2
+~
+~
+0 0 19073
+D3
+~
+~
+0 0 19066
+S
+#19068
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19061
+D1
+~
+~
+0 0 19069
+D2
+~
+~
+0 0 19074
+D3
+~
+~
+0 0 19067
+S
+#19069
+~
+~
+0 0 0
+D3
+~
+~
+0 0 19068
+S
+#19070
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19062
+D1
+~
+~
+0 0 19071
+D2
+~
+~
+0 0 19075
+S
+#19071
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19063
+D1
+~
+~
+0 0 19072
+D3
+~
+~
+0 0 19070
+S
+#19072
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19064
+D3
+~
+~
+0 0 19071
+S
+#19073
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19067
+D1
+~
+~
+0 0 19074
+D2
+~
+~
+0 0 19076
+S
+#19074
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19068
+D2
+~
+~
+0 0 19077
+D3
+~
+~
+0 0 19073
+S
+#19075
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19070
+D5
+~
+~
+0 0 19021
+S
+#19076
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19073
+D1
+~
+~
+0 0 19077
+S
+#19077
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19074
+D3
+~
+~
+0 0 19076
+S
+#19078
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19079
+D2
+~
+~
+0 0 19085
+S
+#19079
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19080
+D2
+~
+~
+0 0 19086
+D3
+~
+~
+0 0 19078
+S
+#19080
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19081
+D2
+~
+~
+0 0 19087
+D3
+~
+~
+0 0 19079
+S
+#19081
+~
+~
+0 9 0
+D2
+~
+~
+0 0 19088
+D3
+~
+~
+0 0 19080
+S
+#19082
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19083
+D5
+~
+~
+0 0 19029
+S
+#19083
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19084
+D3
+~
+~
+0 0 19082
+S
+#19084
+~
+~
+0 9 0
+D3
+~
+~
+0 0 19083
+S
+#19085
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19078
+D1
+~
+~
+0 0 19086
+S
+#19086
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19079
+D1
+~
+~
+0 0 19087
+D3
+~
+~
+0 0 19085
+D5
+~
+~
+0 0 19034
+S
+#19087
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19080
+D1
+~
+~
+0 0 19088
+D3
+~
+~
+0 0 19086
+S
+#19088
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19081
+D3
+~
+~
+0 0 19087
+S
+#19089
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19090
+D2
+~
+~
+0 0 19093
+D4
+~
+~
+0 0 17614
+S
+#19090
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19091
+D2
+~
+~
+0 0 19094
+D3
+~
+~
+0 0 19089
+S
+#19091
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19092
+D2
+~
+~
+0 0 19095
+D3
+~
+~
+0 0 19090
+S
+#19092
+~
+~
+0 9 0
+D2
+~
+~
+0 0 19096
+D3
+~
+~
+0 0 19091
+D5
+~
+~
+0 0 19044
+S
+#19093
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19089
+D1
+~
+~
+0 0 19094
+D2
+~
+~
+0 0 19097
+S
+#19094
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19090
+D1
+~
+~
+0 0 19095
+D2
+~
+~
+0 0 19098
+D3
+~
+~
+0 0 19093
+S
+#19095
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19091
+D1
+~
+~
+0 0 19096
+D3
+~
+~
+0 0 19094
+S
+#19096
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19092
+D3
+~
+~
+0 0 19095
+S
+#19097
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19093
+D1
+~
+~
+0 0 19098
+S
+#19098
+~
+~
+0 9 0
+D0
+~
+~
+0 0 19094
+D3
+~
+~
+0 0 19097
+D5
+~
+~
+0 0 19051
+S
+#19099
+~
+~
+0 9 0
+D1
+~
+~
+0 0 19100
+D2
+~
+~
+0 0 17601
+S
+#19100
+~
+~
+0 9 0
+D2
+~
+~
+0 0 17602
+D3
+~
+~
+0 0 19099
+S
+#18101
+Northern End of Lothair Way~
+~
+0 4 1
+D0
+~
+~
+0 0 18102
+D2
+~
+~
+0 0 18690
+S
+#18102
+Northern End of Lothair Way~
+~
+0 0 1
+D0
+~
+~
+0 0 18104
+D2
+~
+~
+0 0 18101
+S
+#18103
+Western Gate of the Fortress of Light~
+~
+0 0 1
+D0
+~
+~
+4 18101 18107
+D1
+~
+~
+0 0 18104
+S
+#18104
+Fortress of Light Guard Post~
+~
+0 0 1
+D1
+~
+~
+0 0 18105
+D2
+~
+~
+4 0 18102
+D3
+~
+~
+0 0 18103
+S
+#18105
+Eastern Gate of the Fortress of Light~
+~
+0 0 1
+D0
+~
+~
+4 18101 18108
+D3
+~
+~
+0 0 18104
+S
+#18106
+Gatehouse Barracks~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18110
+D1
+~
+~
+0 0 18107
+S
+#18107
+Western Gatehouse of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18111
+D2
+~
+~
+4 18101 18103
+S
+#18108
+Eastern Gatehouse of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18112
+D2
+~
+~
+4 18101 18105
+S
+#18109
+Gatehouse Barracks~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18113
+D3
+~
+~
+0 0 18108
+S
+#18110
+Gatehouse Barracks~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18114
+D1
+~
+~
+4 18103 18111
+D2
+~
+~
+0 0 18106
+S
+#18111
+Western Gatehouse of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18115
+D2
+~
+~
+0 0 18107
+D3
+~
+~
+4 18103 18110
+S
+#18112
+Eastern Gatehouse of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18116
+D1
+~
+~
+4 18103 18113
+D2
+~
+~
+0 0 18108
+S
+#18113
+Gatehouse Barracks~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18117
+D2
+~
+~
+0 0 18109
+D3
+~
+~
+4 18103 18112
+S
+#18114
+Gatehouse Barracks~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18115
+D2
+~
+~
+0 0 18110
+S
+#18115
+Western Gatehouse of Light~
+~
+0 138412040 0
+D0
+~
+~
+4 18101 18120
+D2
+~
+~
+0 0 18111
+S
+#18116
+Eastern Gatehouse of Light~
+~
+0 138412040 0
+D0
+~
+~
+4 18101 18121
+D2
+~
+~
+0 0 18112
+S
+#18117
+Gatehouse Barracks~
+~
+0 138412040 0
+D2
+~
+~
+0 0 18113
+D3
+~
+~
+0 0 18116
+S
+#18118
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18124
+D1
+~
+~
+0 0 18119
+S
+#18119
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18125
+D1
+~
+~
+0 0 18120
+D3
+~
+~
+0 0 18118
+S
+#18120
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+4 18103 18126
+D2
+~
+~
+4 18101 18115
+D3
+~
+~
+0 0 18119
+S
+#18121
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+4 18103 18128
+D1
+~
+~
+0 0 18122
+D2
+~
+~
+4 18101 18116
+S
+#18122
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18129
+D1
+~
+~
+0 0 18123
+D3
+~
+~
+0 0 18121
+S
+#18123
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18130
+D3
+~
+~
+0 0 18122
+S
+#18124
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18133
+D2
+~
+~
+0 0 18118
+S
+#18125
+Hand of Light Register Office~
+~
+0 205520908 0
+D2
+~
+~
+0 0 18119
+S
+#18126
+End of the Southern Path of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18127
+D2
+~
+~
+4 18103 18120
+S
+#18127
+Fork in the Southern Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18136
+D1
+~
+~
+0 0 18128
+D3
+~
+~
+0 0 18126
+S
+#18128
+End of the Southern Path of Light~
+~
+0 138412040 0
+D2
+~
+~
+4 18103 18121
+D3
+~
+~
+0 0 18127
+S
+#18129
+Hand of Light Register Office~
+~
+0 205520908 0
+D2
+~
+~
+0 0 18122
+S
+#18130
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18139
+D2
+~
+~
+0 0 18123
+S
+#18131
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18142
+D1
+~
+~
+0 0 18132
+S
+#18132
+Inside the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18133
+D3
+~
+~
+0 0 18131
+S
+#18133
+Inside the Fortress of Light~
+~
+0 138412040 0
+D2
+~
+~
+0 0 18124
+D3
+~
+~
+0 0 18132
+S
+#18134
+Southwest Pinnacle of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18135
+D4
+~
+~
+0 0 18226
+S
+#18135
+Near the Pinnacle of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18136
+D3
+~
+~
+0 0 18134
+S
+#18136
+Southern Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18146
+D1
+~
+~
+0 0 18137
+D2
+~
+~
+0 0 18127
+D3
+~
+~
+0 0 18135
+S
+#18137
+Near the Pinnacle of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18138
+D3
+~
+~
+0 0 18136
+S
+#18138
+Southeast Pinnacle of Light~
+~
+0 138412040 0
+D3
+~
+~
+0 0 18137
+D4
+~
+~
+0 0 18230
+S
+#18139
+Inside the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18140
+D2
+~
+~
+0 0 18130
+S
+#18140
+Inside the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18141
+D3
+~
+~
+0 0 18139
+S
+#18141
+Inside of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18150
+D3
+~
+~
+0 0 18140
+S
+#18142
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18151
+D2
+~
+~
+0 0 18131
+S
+#18143
+Downward Spiraling Staircase~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18153
+S
+#18144
+Reflection Chamber~
+~
+0 140518409 0
+D0
+~
+~
+4 18102 18154
+S
+#18145
+Reflection Chamber~
+~
+0 140518409 0
+D1
+~
+~
+4 18102 18146
+S
+#18146
+Southern Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18156
+D1
+~
+~
+4 18102 18147
+D2
+~
+~
+0 0 18136
+D3
+~
+~
+4 18102 18145
+S
+#18147
+Reflection Chamber~
+~
+0 140518409 0
+D3
+~
+~
+4 18102 18146
+S
+#18148
+Reflection Chamber~
+~
+0 140518409 0
+D0
+~
+~
+4 18102 18158
+S
+#18149
+Downward Spiraling Staircase~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18159
+S
+#18150
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18161
+D2
+~
+~
+0 0 18141
+S
+#18151
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18162
+D2
+~
+~
+0 0 18142
+S
+#18152
+Reflection Chamber~
+~
+0 140518409 0
+D4
+~
+~
+4 18102 18163
+S
+#18153
+A Slightly Dimmed Hallway~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18164
+D2
+~
+~
+0 0 18143
+S
+#18154
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18165
+D1
+~
+~
+0 0 18155
+D2
+~
+~
+4 18102 18144
+S
+#18155
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18166
+D1
+~
+~
+0 0 18156
+D3
+~
+~
+0 0 18154
+S
+#18156
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18167
+D1
+~
+~
+0 0 18157
+D2
+~
+~
+0 0 18146
+D3
+~
+~
+0 0 18155
+S
+#18157
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18168
+D1
+~
+~
+0 0 18158
+D3
+~
+~
+0 0 18156
+S
+#18158
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18169
+D2
+~
+~
+4 18102 18148
+D3
+~
+~
+0 0 18157
+S
+#18159
+A Slightly Dimmed Hallway~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18170
+D2
+~
+~
+0 0 18149
+S
+#18160
+Reflection Chamber~
+~
+0 140518409 0
+D4
+~
+~
+4 18102 18171
+S
+#18161
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18172
+D2
+~
+~
+0 0 18150
+S
+#18162
+End of the Western Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18173
+D1
+~
+~
+4 18103 18163
+D2
+~
+~
+0 0 18151
+S
+#18163
+Western Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+4 18102 18174
+D1
+~
+~
+0 0 18164
+D2
+~
+~
+4 18102 18152
+D3
+~
+~
+4 18103 18162
+S
+#18164
+Western Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18175
+D1
+~
+~
+0 0 18165
+D2
+~
+~
+0 0 18153
+D3
+~
+~
+0 0 18163
+S
+#18165
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18176
+D1
+~
+~
+0 0 18166
+D2
+~
+~
+0 0 18154
+D3
+~
+~
+0 0 18164
+S
+#18166
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18177
+D1
+~
+~
+0 0 18167
+D2
+~
+~
+0 0 18155
+D3
+~
+~
+0 0 18165
+S
+#18167
+Golden Sunburst Courtyard~
+~
+0 138936320 0
+D0
+~
+~
+0 0 18178
+D1
+~
+~
+0 0 18168
+D2
+~
+~
+0 0 18156
+D3
+~
+~
+0 0 18166
+D4
+~
+~
+4 18106 18276
+D5
+~
+~
+4 18106 18433
+S
+#18168
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18179
+D1
+~
+~
+0 0 18169
+D2
+~
+~
+0 0 18157
+D3
+~
+~
+0 0 18167
+S
+#18169
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18180
+D1
+~
+~
+0 0 18170
+D2
+~
+~
+0 0 18158
+D3
+~
+~
+0 0 18168
+S
+#18170
+Eastern Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18181
+D1
+~
+~
+0 0 18171
+D2
+~
+~
+0 0 18159
+D3
+~
+~
+0 0 18169
+S
+#18171
+Eastern Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+4 18102 18182
+D1
+~
+~
+4 18103 18172
+D2
+~
+~
+4 18102 18160
+D3
+~
+~
+0 0 18170
+S
+#18172
+End of the Eastern Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18183
+D2
+~
+~
+0 0 18161
+D3
+~
+~
+4 18103 18171
+S
+#18173
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18184
+D2
+~
+~
+0 0 18162
+S
+#18174
+Reflection Chamber~
+~
+0 140518409 0
+D4
+~
+~
+4 18102 18163
+S
+#18175
+A Slightly Dimmed Hallway~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18185
+D2
+~
+~
+0 0 18164
+S
+#18176
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D0
+~
+~
+4 18102 18186
+D1
+~
+~
+0 0 18177
+D2
+~
+~
+0 0 18165
+S
+#18177
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18178
+D2
+~
+~
+0 0 18166
+D3
+~
+~
+0 0 18176
+S
+#18178
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18188
+D1
+~
+~
+0 0 18179
+D2
+~
+~
+0 0 18167
+D3
+~
+~
+0 0 18177
+S
+#18179
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18180
+D2
+~
+~
+0 0 18168
+D3
+~
+~
+0 0 18178
+S
+#18180
+Golden Sunburst Courtyard~
+~
+0 138412040 0
+D0
+~
+~
+4 18102 18190
+D2
+~
+~
+0 0 18169
+D3
+~
+~
+0 0 18179
+S
+#18181
+A Slightly Dimmed Hallway~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18191
+D2
+~
+~
+0 0 18170
+S
+#18182
+Reflection Chamber~
+~
+0 140518409 0
+D4
+~
+~
+4 18102 18171
+S
+#18183
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18192
+D2
+~
+~
+0 0 18172
+S
+#18184
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18193
+D2
+~
+~
+0 0 18173
+S
+#18185
+Downward Spiraling Staircase~
+~
+0 138412040 0
+D2
+~
+~
+0 0 18175
+S
+#18186
+Reflection Chamber~
+~
+0 140518409 0
+D2
+~
+~
+4 18102 18176
+S
+#18187
+Reflection Chamber~
+~
+0 140518409 0
+D4
+~
+~
+4 18102 18188
+S
+#18188
+Northern Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18198
+D1
+~
+~
+4 18102 18189
+D2
+~
+~
+0 0 18178
+D3
+~
+~
+4 18102 18187
+S
+#18189
+Reflection Chamber~
+~
+0 140518409 0
+D4
+~
+~
+4 18102 18188
+S
+#18190
+Reflection Chamber~
+~
+0 140518409 0
+D2
+~
+~
+4 18102 18180
+S
+#18191
+Downward Spiraling Staircase~
+~
+0 138412040 0
+D2
+~
+~
+0 0 18181
+S
+#18192
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18202
+D2
+~
+~
+0 0 18183
+S
+#18193
+Inside the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18194
+D2
+~
+~
+0 0 18184
+S
+#18194
+Inside the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18195
+D3
+~
+~
+0 0 18193
+S
+#18195
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18203
+D3
+~
+~
+0 0 18194
+S
+#18196
+Northwest Pinnacle of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18197
+D4
+~
+~
+0 0 18303
+S
+#18197
+Near the Pinnacle of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18198
+D3
+~
+~
+0 0 18196
+S
+#18198
+Northern Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18205
+D1
+~
+~
+0 0 18199
+D2
+~
+~
+0 0 18188
+D3
+~
+~
+0 0 18197
+S
+#18199
+Near the Pinnacle of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18432
+D3
+~
+~
+0 0 18198
+S
+#18200
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18207
+D1
+~
+~
+0 0 18201
+S
+#18201
+Inside the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18202
+D3
+~
+~
+0 0 18200
+S
+#18202
+Inside the Fortress of Light~
+~
+0 138412040 0
+D2
+~
+~
+0 0 18192
+D3
+~
+~
+0 0 18201
+S
+#18203
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18208
+D2
+~
+~
+0 0 18195
+S
+#18204
+End of the Northern Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18210
+D1
+~
+~
+0 0 18205
+S
+#18205
+Fork in the Northern Path of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18206
+D2
+~
+~
+0 0 18198
+D3
+~
+~
+0 0 18204
+S
+#18206
+End of the Northern Path of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18212
+D3
+~
+~
+0 0 18205
+S
+#18207
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18214
+D2
+~
+~
+0 0 18200
+S
+#18208
+Inside the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18209
+D2
+~
+~
+0 0 18203
+S
+#18209
+Inside the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18210
+D3
+~
+~
+0 0 18208
+S
+#18210
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18215
+D2
+~
+~
+0 0 18204
+D3
+~
+~
+0 0 18209
+S
+#18211
+Shrine of Lothair Mantelar~
+~
+0 138477580 0
+S
+#18212
+Inside the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18217
+D1
+~
+~
+0 0 18213
+D2
+~
+~
+0 0 18206
+S
+#18213
+Inside the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18214
+D3
+~
+~
+0 0 18212
+S
+#18214
+Inside the Fortress of Light~
+~
+0 138412040 0
+D2
+~
+~
+0 0 18207
+D3
+~
+~
+0 0 18213
+S
+#18215
+Inside the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18216
+D2
+~
+~
+0 0 18210
+S
+#18216
+Inside the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18217
+D3
+~
+~
+0 0 18215
+S
+#18217
+Inside the Fortress of Light~
+~
+0 138412040 0
+D2
+~
+~
+0 0 18212
+D3
+~
+~
+0 0 18216
+S
+#18218
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18225
+D1
+~
+~
+0 0 18219
+S
+#18219
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18220
+D3
+~
+~
+0 0 18218
+S
+#18220
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18221
+D3
+~
+~
+0 0 18219
+S
+#18221
+End of the Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18228
+D1
+~
+~
+0 0 18222
+D3
+~
+~
+0 0 18220
+S
+#18222
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18223
+D3
+~
+~
+0 0 18221
+S
+#18223
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18224
+D3
+~
+~
+0 0 18222
+S
+#18224
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18231
+D3
+~
+~
+0 0 18223
+S
+#18225
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18234
+D2
+~
+~
+0 0 18218
+S
+#18226
+Southwest Pinnacle of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18235
+D1
+~
+~
+0 0 18227
+D4
+~
+~
+0 0 18321
+D5
+~
+~
+0 0 18134
+S
+#18227
+Hallway of Enlightenment~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18228
+D3
+~
+~
+0 0 18226
+S
+#18228
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18237
+D1
+~
+~
+0 0 18229
+D2
+~
+~
+0 0 18221
+D3
+~
+~
+0 0 18227
+S
+#18229
+Hallway of Enlightenment~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18230
+D3
+~
+~
+0 0 18228
+S
+#18230
+Southeast Pinnacle of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18239
+D3
+~
+~
+0 0 18229
+D4
+~
+~
+0 0 18325
+D5
+~
+~
+0 0 18138
+S
+#18231
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18240
+D2
+~
+~
+0 0 18224
+S
+#18232
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18243
+D1
+~
+~
+0 0 18233
+S
+#18233
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18234
+D3
+~
+~
+0 0 18232
+S
+#18234
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D2
+~
+~
+0 0 18225
+D3
+~
+~
+0 0 18233
+S
+#18235
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18246
+D2
+~
+~
+0 0 18226
+S
+#18236
+Senior Lieutenant's Quarters~
+~
+0 140517389 0
+D1
+~
+~
+4 18104 18237
+S
+#18237
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18248
+D1
+~
+~
+4 18104 18238
+D2
+~
+~
+0 0 18228
+D3
+~
+~
+4 18104 18236
+S
+#18238
+Senior Lieutenant's Quarters~
+~
+0 140517389 0
+D3
+~
+~
+4 18104 18237
+S
+#18239
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18250
+D2
+~
+~
+0 0 18230
+S
+#18240
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18241
+D2
+~
+~
+0 0 18231
+S
+#18241
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18242
+D3
+~
+~
+0 0 18240
+S
+#18242
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18253
+D3
+~
+~
+0 0 18241
+S
+#18243
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18254
+D2
+~
+~
+0 0 18232
+S
+#18244
+Lieutenant's Quarters~
+~
+0 140517389 0
+D0
+~
+~
+4 18104 18255
+S
+#18245
+Lieutenant's Quarters~
+~
+0 140517389 0
+D0
+~
+~
+4 18104 18256
+S
+#18246
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18257
+D2
+~
+~
+0 0 18235
+S
+#18247
+Senior Lieutenant's Quarters~
+~
+0 140517389 0
+D1
+~
+~
+4 18104 18248
+S
+#18248
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18259
+D1
+~
+~
+4 18104 18249
+D2
+~
+~
+0 0 18237
+D3
+~
+~
+4 18104 18247
+S
+#18249
+Senior Lieutenant's Quarters~
+~
+0 140517389 0
+D3
+~
+~
+4 18104 18248
+S
+#18250
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18261
+D2
+~
+~
+0 0 18239
+S
+#18251
+Lieutenant's Quarters~
+~
+0 140517389 0
+D0
+~
+~
+4 18104 18262
+S
+#18252
+Lieutenant's Quarters~
+~
+0 140517389 0
+D0
+~
+~
+4 18104 18263
+S
+#18253
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18264
+D2
+~
+~
+0 0 18242
+S
+#18254
+End of the Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18265
+D1
+~
+~
+0 0 18255
+D2
+~
+~
+0 0 18243
+S
+#18255
+Hallway of Enlightenment~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18256
+D2
+~
+~
+4 18104 18244
+D3
+~
+~
+0 0 18254
+S
+#18256
+Hallway of Enlightenment~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18257
+D2
+~
+~
+4 18104 18245
+D3
+~
+~
+0 0 18255
+S
+#18257
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18268
+D2
+~
+~
+0 0 18246
+D3
+~
+~
+0 0 18256
+S
+#18258
+Senior Lieutenant's Quarters~
+~
+0 140517389 0
+D1
+~
+~
+4 18104 18259
+S
+#18259
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18270
+D1
+~
+~
+4 18104 18260
+D2
+~
+~
+0 0 18248
+D3
+~
+~
+4 18104 18258
+S
+#18260
+Senior Lieutenant's Quarters~
+~
+0 140517389 0
+D3
+~
+~
+4 18104 18259
+S
+#18261
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18272
+D1
+~
+~
+0 0 18262
+D2
+~
+~
+0 0 18250
+S
+#18262
+Hallway of Enlightenment~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18263
+D2
+~
+~
+4 18104 18251
+D3
+~
+~
+0 0 18261
+S
+#18263
+Hallway of Enlightenment~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18264
+D2
+~
+~
+4 18104 18252
+D3
+~
+~
+0 0 18262
+S
+#18264
+End of the Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18275
+D2
+~
+~
+0 0 18253
+D3
+~
+~
+0 0 18263
+S
+#18265
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18278
+D1
+~
+~
+4 18104 18266
+D2
+~
+~
+0 0 18254
+S
+#18266
+Under-lieutenant's Quarters~
+~
+0 140517389 0
+D3
+~
+~
+4 18104 18265
+S
+#18267
+Under-lieutenant's Quarters~
+~
+0 138420233 0
+D1
+~
+~
+4 18104 18268
+S
+#18268
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18281
+D2
+~
+~
+0 0 18257
+D3
+~
+~
+4 18104 18267
+S
+#18269
+Senior Lieutenant's Quarters~
+~
+0 140517389 0
+D1
+~
+~
+4 18104 18270
+S
+#18270
+Hallway of Enlightenment~
+~
+0 138412044 0
+D0
+~
+~
+0 0 18283
+D1
+~
+~
+4 18104 18271
+D2
+~
+~
+0 0 18259
+D3
+~
+~
+4 18104 18269
+S
+#18271
+Senior Lieutenant's Quarters~
+~
+0 140517389 0
+D3
+~
+~
+4 18104 18270
+S
+#18272
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18285
+D1
+~
+~
+4 18104 18273
+D2
+~
+~
+0 0 18261
+S
+#18273
+Under-lieutenant's Quarters~
+~
+0 140517385 0
+D3
+~
+~
+4 18104 18272
+S
+#18274
+Under-lieutenant's Quarters~
+~
+0 140517389 0
+D1
+~
+~
+4 18104 18275
+S
+#18275
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18288
+D2
+~
+~
+0 0 18264
+D3
+~
+~
+4 18104 18274
+S
+#18276
+`7[`&WHITECLOAK`7] `$Practice Room`7~
+~
+0 206045196 0
+D1
+~
+~
+4 18106 18388
+S
+#18277
+`7[`&WHITECLOAK`7] `$Storage Room`7~
+~
+0 138937356 0
+D3
+~
+~
+4 18106 18388
+D4
+~
+~
+4 18106 18433
+D5
+~
+~
+4 18106 18373
+S
+#18278
+End of the Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18289
+D1
+~
+~
+0 0 18279
+D2
+~
+~
+0 0 18265
+S
+#18279
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+4 18104 18290
+D1
+~
+~
+0 0 18280
+D3
+~
+~
+0 0 18278
+S
+#18280
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+4 18104 18291
+D1
+~
+~
+0 0 18281
+D3
+~
+~
+0 0 18279
+S
+#18281
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18292
+D2
+~
+~
+0 0 18268
+D3
+~
+~
+0 0 18280
+S
+#18282
+Senior Lieutenant's Quarters~
+~
+0 140517389 0
+D1
+~
+~
+4 18104 18283
+S
+#18283
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18294
+D1
+~
+~
+4 18104 18284
+D2
+~
+~
+0 0 18270
+D3
+~
+~
+4 18104 18282
+S
+#18284
+Senior Lieutenant's Quarters~
+~
+0 140517389 0
+D3
+~
+~
+4 18104 18283
+S
+#18285
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18296
+D1
+~
+~
+0 0 18286
+D2
+~
+~
+0 0 18272
+S
+#18286
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+4 18104 18297
+D1
+~
+~
+0 0 18287
+D3
+~
+~
+0 0 18285
+S
+#18287
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+4 18104 18298
+D1
+~
+~
+0 0 18288
+D3
+~
+~
+0 0 18286
+S
+#18288
+End of the Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18299
+D2
+~
+~
+0 0 18275
+D3
+~
+~
+0 0 18287
+S
+#18289
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18300
+D2
+~
+~
+0 0 18278
+S
+#18290
+Lieutenant's Quarters~
+~
+0 140517389 0
+D2
+~
+~
+4 18104 18279
+S
+#18291
+Lieutenant's Quarters~
+~
+0 140517389 0
+D2
+~
+~
+4 18104 18280
+S
+#18292
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18303
+D2
+~
+~
+0 0 18281
+S
+#18293
+Senior Lieutenant's Quarters~
+~
+0 140517385 0
+D1
+~
+~
+4 18104 18294
+S
+#18294
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18305
+D1
+~
+~
+4 18104 18295
+D2
+~
+~
+0 0 18283
+D3
+~
+~
+4 18104 18293
+S
+#18295
+Senior Lieutenant's Quarters~
+~
+0 140517389 0
+D3
+~
+~
+4 18104 18294
+S
+#18296
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18307
+D2
+~
+~
+0 0 18285
+S
+#18297
+Lieutenant's Quarters~
+~
+0 140517389 0
+D2
+~
+~
+4 18104 18286
+S
+#18298
+Lieutenant's Quarters~
+~
+0 140517389 0
+D2
+~
+~
+4 18104 18287
+S
+#18299
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18310
+D2
+~
+~
+0 0 18288
+S
+#18300
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18301
+D2
+~
+~
+0 0 18289
+S
+#18301
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18302
+D3
+~
+~
+0 0 18300
+S
+#18302
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18311
+D3
+~
+~
+0 0 18301
+S
+#18303
+Northwest Pinnacle of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18304
+D2
+~
+~
+0 0 18292
+D4
+~
+~
+0 0 18361
+D5
+~
+~
+0 0 18196
+S
+#18304
+Hallway of Enlightenment~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18305
+D3
+~
+~
+0 0 18303
+S
+#18305
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18312
+D1
+~
+~
+0 0 18306
+D2
+~
+~
+0 0 18294
+D3
+~
+~
+0 0 18304
+S
+#18306
+Hallway of Enlightenment~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18307
+D3
+~
+~
+0 0 18305
+S
+#18307
+Northeast Pinnacle of Light~
+~
+0 138412040 0
+D2
+~
+~
+0 0 18296
+D3
+~
+~
+0 0 18306
+D4
+~
+~
+0 0 18365
+D5
+~
+~
+0 0 18432
+S
+#18308
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18313
+D1
+~
+~
+0 0 18309
+S
+#18309
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18310
+D3
+~
+~
+0 0 18308
+S
+#18310
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D2
+~
+~
+0 0 18299
+D3
+~
+~
+0 0 18309
+S
+#18311
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18314
+D2
+~
+~
+0 0 18302
+S
+#18312
+Hallway of Enlightenment~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18317
+D2
+~
+~
+0 0 18305
+S
+#18313
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D0
+~
+~
+0 0 18320
+D2
+~
+~
+0 0 18308
+S
+#18314
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18315
+D2
+~
+~
+0 0 18311
+S
+#18315
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18316
+D3
+~
+~
+0 0 18314
+S
+#18316
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18317
+D3
+~
+~
+0 0 18315
+S
+#18317
+End of the Hallway of Enlightenment~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18318
+D2
+~
+~
+0 0 18312
+D3
+~
+~
+0 0 18316
+S
+#18318
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18319
+D3
+~
+~
+0 0 18317
+S
+#18319
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D1
+~
+~
+0 0 18320
+D3
+~
+~
+0 0 18318
+S
+#18320
+Second Tier of the Fortress of Light~
+~
+0 138412040 0
+D2
+~
+~
+0 0 18313
+D3
+~
+~
+0 0 18319
+S
+#18321
+Southwest Pinnacle of Light~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18327
+D4
+~
+~
+0 0 18366
+D5
+~
+~
+0 0 18226
+S
+#18322
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18328
+D1
+~
+~
+0 0 18323
+S
+#18323
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18329
+D1
+~
+~
+0 0 18324
+D3
+~
+~
+0 0 18322
+S
+#18324
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18330
+D3
+~
+~
+0 0 18323
+S
+#18325
+Southeast Pinnacle of Light~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18331
+D4
+~
+~
+0 0 18370
+D5
+~
+~
+0 0 18230
+S
+#18326
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18333
+D1
+~
+~
+0 0 18327
+S
+#18327
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+4 18105 18334
+D1
+~
+~
+4 18105 18328
+D2
+~
+~
+0 0 18321
+D3
+~
+~
+0 0 18326
+S
+#18328
+Entrance to the Council of the Anointed~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18335
+D1
+~
+~
+0 0 18329
+D2
+~
+~
+0 0 18322
+D3
+~
+~
+4 18105 18327
+S
+#18329
+Council of the Anointed~
+~
+0 138420236 0
+D0
+~
+~
+0 0 18336
+D1
+~
+~
+0 0 18330
+D2
+~
+~
+0 0 18323
+D3
+~
+~
+0 0 18328
+S
+#18330
+Entrance ot the Council of the Anointed~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18337
+D1
+~
+~
+4 18105 18331
+D2
+~
+~
+0 0 18324
+D3
+~
+~
+0 0 18329
+S
+#18331
+The Dome of Truth~
+~
+0 8 0
+D0
+~
+~
+4 18105 18338
+D1
+~
+~
+0 0 18332
+D2
+~
+~
+0 0 18325
+D3
+~
+~
+4 18105 18330
+S
+#18332
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18339
+D3
+~
+~
+0 0 18331
+S
+#18333
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18340
+D2
+~
+~
+0 0 18326
+S
+#18334
+Entrance to the Council of the Anointed~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18341
+D1
+~
+~
+0 0 18335
+D2
+~
+~
+4 18105 18327
+S
+#18335
+Council of the Anointed~
+~
+0 138420236 0
+D0
+~
+~
+0 0 18342
+D1
+~
+~
+0 0 18336
+D2
+~
+~
+0 0 18328
+D3
+~
+~
+0 0 18334
+S
+#18336
+Council of the Anointed~
+~
+0 138420236 0
+D0
+~
+~
+0 0 18343
+D1
+~
+~
+0 0 18337
+D2
+~
+~
+0 0 18329
+D3
+~
+~
+0 0 18335
+S
+#18337
+Council of the Anointed~
+~
+0 138420236 0
+D0
+~
+~
+0 0 18344
+D1
+~
+~
+0 0 18338
+D2
+~
+~
+0 0 18330
+D3
+~
+~
+0 0 18336
+S
+#18338
+Entrance to the Council of the Anointed~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18345
+D2
+~
+~
+4 18105 18331
+D3
+~
+~
+0 0 18337
+S
+#18339
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18353
+D2
+~
+~
+0 0 18332
+S
+#18340
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18347
+D2
+~
+~
+0 0 18333
+S
+#18341
+Council of the Anointed~
+~
+0 138420236 0
+D0
+~
+~
+0 0 18348
+D1
+~
+~
+0 0 18342
+D2
+~
+~
+0 0 18334
+S
+#18342
+Council of the Anointed~
+~
+0 138420236 0
+D0
+~
+~
+0 0 18349
+D1
+~
+~
+0 0 18343
+D2
+~
+~
+0 0 18335
+D3
+~
+~
+0 0 18341
+S
+#18343
+The Way of Light~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18350
+D1
+~
+~
+0 0 18344
+D2
+~
+~
+0 0 18336
+D3
+~
+~
+0 0 18342
+D4
+~
+~
+4 18106 18388
+S
+#18344
+Council of the Anointed~
+~
+0 138420236 0
+D0
+~
+~
+0 0 18351
+D1
+~
+~
+0 0 18345
+D2
+~
+~
+0 0 18337
+D3
+~
+~
+0 0 18343
+S
+#18345
+Council of the Anointed~
+~
+0 138420228 0
+D0
+~
+~
+0 0 18352
+D2
+~
+~
+0 0 18338
+D3
+~
+~
+0 0 18344
+S
+#18347
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18354
+D2
+~
+~
+0 0 18340
+S
+#18348
+Entrance to the Council of the Anointed~
+~
+0 138420232 0
+D0
+~
+~
+4 18105 18355
+D1
+~
+~
+0 0 18349
+D2
+~
+~
+0 0 18341
+S
+#18349
+Council of the Anointed~
+~
+0 138420236 0
+D0
+~
+~
+0 0 18356
+D1
+~
+~
+0 0 18350
+D2
+~
+~
+0 0 18342
+D3
+~
+~
+0 0 18348
+S
+#18350
+Council of the Anointed~
+~
+0 138420236 0
+D0
+~
+~
+0 0 18357
+D1
+~
+~
+0 0 18351
+D2
+~
+~
+0 0 18343
+D3
+~
+~
+0 0 18349
+S
+#18351
+Council of the Anointed~
+~
+0 138420236 0
+D0
+~
+~
+0 0 18358
+D1
+~
+~
+0 0 18352
+D2
+~
+~
+0 0 18344
+D3
+~
+~
+0 0 18350
+S
+#18352
+Entrance to the Council of the Anointed~
+~
+0 138420232 0
+D0
+~
+~
+4 18105 18359
+D2
+~
+~
+0 0 18345
+D3
+~
+~
+0 0 18351
+S
+#18353
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18360
+D2
+~
+~
+0 0 18339
+S
+#18354
+The Dome of Truth~
+~
+0 138420232 0
+D1
+~
+~
+0 0 18355
+D2
+~
+~
+0 0 18347
+S
+#18355
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18361
+D1
+~
+~
+4 18105 18356
+D2
+~
+~
+4 18105 18348
+D3
+~
+~
+0 0 18354
+S
+#18356
+Entrance to the Council of the Anointed~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18362
+D1
+~
+~
+0 0 18357
+D2
+~
+~
+0 0 18349
+D3
+~
+~
+4 18105 18355
+S
+#18357
+Council of the Anointed~
+~
+0 138420236 0
+D0
+~
+~
+0 0 18363
+D1
+~
+~
+0 0 18358
+D2
+~
+~
+0 0 18350
+D3
+~
+~
+0 0 18356
+S
+#18358
+Entrance to the Council of the Anointed~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18364
+D1
+~
+~
+4 18105 18359
+D2
+~
+~
+0 0 18351
+D3
+~
+~
+0 0 18357
+S
+#18359
+The Dome of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18365
+D1
+~
+~
+0 0 18360
+D2
+~
+~
+4 18105 18352
+D3
+~
+~
+4 18105 18358
+S
+#18360
+The Dome of Truth~
+~
+0 8 0
+D2
+~
+~
+0 0 18353
+D3
+~
+~
+0 0 18359
+S
+#18361
+Northwest Pinnacle of Light~
+~
+0 138420232 0
+D2
+~
+~
+0 0 18355
+D4
+~
+~
+0 0 18406
+D5
+~
+~
+0 0 18303
+S
+#18362
+The Dome of Truth~
+~
+0 138420232 0
+D1
+~
+~
+0 0 18363
+D2
+~
+~
+0 0 18356
+S
+#18363
+The Dome of Truth~
+~
+0 138420232 0
+D1
+~
+~
+0 0 18364
+D2
+~
+~
+0 0 18357
+D3
+~
+~
+0 0 18362
+S
+#18364
+The Dome of Truth~
+~
+0 138420232 0
+D2
+~
+~
+0 0 18358
+D3
+~
+~
+0 0 18363
+S
+#18365
+Northeast Pinnacle of Light~
+~
+0 138420232 0
+D2
+~
+~
+0 0 18359
+D4
+~
+~
+0 0 18410
+D5
+~
+~
+0 0 18307
+S
+#18366
+End of a Pinnacle of Light~
+~
+0 148905996 0
+D1
+~
+~
+0 0 18367
+S
+#18367
+Inquisitor's Hall~
+~
+0 148905992 0
+D1
+~
+~
+0 0 18369
+D3
+~
+~
+0 0 18366
+S
+#18369
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18375
+D3
+~
+~
+0 0 18367
+S
+#18370
+End of a Pinnacle of Light~
+~
+0 148905996 0
+D0
+~
+~
+0 0 18376
+S
+#18371
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18378
+D1
+~
+~
+0 0 18372
+S
+#18372
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18379
+D3
+~
+~
+0 0 18371
+S
+#18373
+The Hand of Light~
+~
+0 138420232 0
+D1
+~
+~
+4 18106 18374
+D4
+~
+~
+4 18106 18277
+S
+#18374
+Inquisitor's Hall~
+~
+0 148905996 0
+D1
+~
+~
+0 0 18375
+D3
+~
+~
+4 18106 18373
+D4
+~
+~
+0 0 18433
+S
+#18375
+Inquisitor's Hall~
+~
+0 148905992 0
+D2
+~
+~
+0 0 18369
+D3
+~
+~
+0 0 18374
+S
+#18376
+Inquisitor's Hall~
+~
+0 148905992 0
+D1
+~
+~
+0 0 18377
+D2
+~
+~
+0 0 18370
+S
+#18377
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18384
+D3
+~
+~
+0 0 18376
+S
+#18378
+Inquisitor's Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 18385
+D2
+~
+~
+0 0 18371
+S
+#18379
+Inquisitor's Hall~
+~
+0 148905992 0
+D1
+~
+~
+0 0 18380
+D2
+~
+~
+0 0 18372
+S
+#18380
+Inquisitor's Hall~
+~
+0 148905992 0
+D1
+~
+~
+0 0 18381
+D3
+~
+~
+0 0 18379
+D4
+~
+~
+0 0 18433
+S
+#18381
+The Hand of Light~
+~
+0 138420232 0
+D3
+~
+~
+0 0 18380
+S
+#18382
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18389
+D1
+~
+~
+0 0 18383
+S
+#18383
+Inquisitor's Hall~
+~
+0 148905992 0
+D1
+~
+~
+0 0 18384
+D3
+~
+~
+0 0 18382
+S
+#18384
+Inquisitor's Hall~
+~
+0 148905992 0
+D2
+~
+~
+0 0 18377
+D3
+~
+~
+0 0 18383
+S
+#18385
+Inquisitor's Hall~
+~
+0 148905992 0
+D1
+~
+~
+0 0 18386
+D2
+~
+~
+0 0 18378
+S
+#18386
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18393
+D3
+~
+~
+0 0 18385
+S
+#18387
+The Hand of Light~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18394
+S
+#18388
+`7[`&WHITECLOAK`7] `$Ribbon of Pure Light`7~
+~
+0 206046220 0
+D0
+~
+~
+4 0 18104
+D1
+~
+~
+4 18106 18277
+D2
+~
+~
+4 0 6400
+D3
+~
+~
+4 18106 18276
+D4
+~
+~
+4 18106 18421
+D5
+~
+~
+4 18106 18343
+S
+#18389
+Inquisitor's Hall~
+~
+0 148905992 0
+D1
+~
+~
+0 0 18390
+D2
+~
+~
+0 0 18382
+S
+#18390
+Inquisitor's Hall~
+~
+0 148905992 0
+D1
+~
+~
+0 0 18391
+D3
+~
+~
+0 0 18389
+S
+#18391
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18398
+D3
+~
+~
+0 0 18390
+S
+#18392
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18399
+D1
+~
+~
+0 0 18393
+S
+#18393
+Inquisitor's Hall~
+~
+0 148905992 0
+D2
+~
+~
+0 0 18386
+D3
+~
+~
+0 0 18392
+S
+#18394
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18401
+D2
+~
+~
+0 0 18387
+D4
+~
+~
+0 0 18433
+S
+#18395
+The Hand of Light~
+~
+0 138420232 0
+D1
+~
+~
+0 0 18396
+S
+#18396
+Inquisitor's Hall~
+~
+0 148905992 0
+D1
+~
+~
+0 0 18397
+D3
+~
+~
+0 0 18395
+D4
+~
+~
+0 0 18433
+S
+#18397
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18404
+D3
+~
+~
+0 0 18396
+S
+#18398
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18405
+D2
+~
+~
+0 0 18391
+S
+#18399
+Inquisitor's Hall~
+~
+0 148905992 0
+D1
+~
+~
+0 0 18400
+D2
+~
+~
+0 0 18392
+S
+#18400
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18406
+D3
+~
+~
+0 0 18399
+S
+#18401
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18407
+D2
+~
+~
+0 0 18394
+S
+#18402
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18408
+D1
+~
+~
+0 0 18403
+S
+#18403
+Inquisitor's Hall~
+~
+0 148905992 0
+D0
+~
+~
+0 0 18409
+D3
+~
+~
+0 0 18402
+S
+#18404
+Inquisitor's Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 18405
+D2
+~
+~
+0 0 18397
+S
+#18405
+Inquisitor's Hall~
+~
+0 148905992 0
+D2
+~
+~
+0 0 18398
+D3
+~
+~
+0 0 18404
+S
+#18406
+End of a Pinnacle of Light~
+~
+0 148905996 0
+D2
+~
+~
+0 0 18400
+S
+#18407
+Inquisitor's Hall~
+~
+0 148905992 0
+D1
+~
+~
+0 0 18408
+D2
+~
+~
+0 0 18401
+S
+#18408
+Inquisitor's Hall~
+~
+0 148905992 0
+D2
+~
+~
+0 0 18402
+D3
+~
+~
+0 0 18407
+S
+#18409
+Inquisitor's Hall~
+~
+0 148905992 0
+D1
+~
+~
+0 0 18410
+D2
+~
+~
+0 0 18403
+S
+#18410
+End of a Pinnacle of Light~
+~
+0 148905996 0
+D3
+~
+~
+0 0 18409
+S
+#18411
+Corridor of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18415
+D1
+~
+~
+0 0 18412
+S
+#18412
+Corridor of Truth~
+~
+0 138420232 0
+D1
+~
+~
+0 0 18413
+D3
+~
+~
+0 0 18411
+S
+#18413
+Corridor of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18417
+D3
+~
+~
+0 0 18412
+S
+#18414
+Corridor of Truth~
+~
+0 138420232 0
+D1
+~
+~
+0 0 18415
+S
+#18415
+Corridor of Truth~
+~
+0 138420232 0
+D1
+~
+~
+0 0 18416
+D2
+~
+~
+0 0 18411
+D3
+~
+~
+0 0 18414
+S
+#18416
+Corridor of Truth~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18421
+D1
+~
+~
+0 0 18417
+D3
+~
+~
+0 0 18415
+S
+#18417
+Corridor of Truth~
+~
+0 138420232 0
+D1
+~
+~
+0 0 18418
+D2
+~
+~
+0 0 18413
+D3
+~
+~
+0 0 18416
+S
+#18418
+Corridor of Truth~
+~
+0 138420232 0
+D0
+~
+~
+3 0 18423
+D3
+~
+~
+0 0 18417
+S
+#18419
+Children of Light Audience Chamber~
+~
+0 213917704 0
+D1
+~
+~
+0 0 18420
+S
+#18420
+Lord Captain Commander's Office~
+~
+0 207618060 0
+D3
+~
+~
+0 0 18419
+S
+#18421
+`7[`&WHITECLOAK`7] `$Guild Store`7~
+~
+0 201327624 0
+D0
+~
+~
+0 0 18426
+D2
+~
+~
+0 0 18416
+D5
+~
+~
+4 18106 18388
+S
+#18422
+High Inquisitor's Office~
+~
+0 207618060 0
+D1
+~
+~
+0 0 18423
+S
+#18423
+Hand of Light Audience Chamber~
+~
+0 213917704 0
+D3
+~
+~
+0 0 18422
+S
+#18424
+Corridor of Light~
+~
+0 138420232 0
+D1
+~
+~
+0 0 18425
+D2
+~
+~
+3 0 18419
+S
+#18425
+Corridor of Light~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18429
+D1
+~
+~
+0 0 18426
+D2
+~
+~
+0 0 2005
+D3
+~
+~
+0 0 18424
+S
+#18426
+Corridor of Light~
+~
+0 138420232 0
+D1
+~
+~
+0 0 18427
+D2
+~
+~
+0 0 18421
+D3
+~
+~
+0 0 18425
+S
+#18427
+Corridor of Light~
+~
+0 138420232 0
+D0
+~
+~
+0 0 18431
+D1
+~
+~
+0 0 18428
+D3
+~
+~
+0 0 18426
+S
+#18428
+End of the Corridor of Light~
+~
+0 138420232 0
+D3
+~
+~
+0 0 18427
+S
+#18429
+Corridor of Light~
+~
+0 138420232 0
+D1
+~
+~
+0 0 18430
+D2
+~
+~
+0 0 18425
+S
+#18430
+Corridor of Light~
+~
+0 138420232 0
+D1
+~
+~
+0 0 18431
+D3
+~
+~
+0 0 18429
+S
+#18431
+Corridor of Light~
+~
+0 138420232 0
+D2
+~
+~
+0 0 18427
+D3
+~
+~
+0 0 18430
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 18433 5 2
+D 0 18439 2 2
+D 0 18440 2 2
+D 0 18441 2 2
+D 0 18442 2 2
+D 0 18443 2 2
+D 0 18444 2 2
+D 0 18447 0 2
+D 0 18448 0 2
+D 0 18449 0 2
+D 0 18450 0 2
+D 0 18451 0 2
+D 0 18452 0 2
+D 0 18455 2 2
+D 0 18456 2 2
+D 0 18457 2 2
+D 0 18458 2 2
+D 0 18459 2 2
+D 0 18460 2 2
+D 0 18461 1 2
+D 0 18462 3 2
+D 0 18463 0 2
+D 0 18464 0 2
+D 0 18465 0 2
+D 0 18466 0 2
+D 0 18467 0 2
+D 0 18468 0 2
+D 0 18470 1 2
+D 0 18471 3 2
+D 0 18486 1 2
+D 0 18487 1 2
+D 0 18487 3 2
+D 0 18488 3 2
+D 0 18492 1 2
+D 0 18493 3 2
+D 0 18501 1 2
+D 0 18502 3 2
+D 0 18503 2 2
+D 0 18504 2 2
+D 0 18505 2 2
+D 0 18506 2 2
+D 0 18507 2 2
+D 0 18508 2 2
+D 0 18511 0 2
+D 0 18512 0 2
+D 0 18513 0 2
+D 0 18514 0 2
+D 0 18515 0 2
+D 0 18516 0 2
+D 0 18519 2 2
+D 0 18520 2 2
+D 0 18521 2 2
+D 0 18522 2 2
+D 0 18523 2 2
+D 0 18524 2 2
+D 0 18525 0 2
+D 0 18526 0 2
+D 0 18527 0 2
+D 0 18528 0 2
+D 0 18529 0 2
+D 0 18530 0 2
+D 0 18534 2 2
+D 0 18540 1 2
+D 0 18541 3 2
+D 0 18542 0 2
+D 0 18553 1 2
+D 0 18554 3 2
+D 0 18556 1 2
+D 0 18557 3 2
+D 0 18566 2 2
+D 0 18568 1 2
+D 0 18569 3 2
+D 0 18575 0 2
+D 0 18575 2 2
+D 0 18584 0 2
+D 0 18586 1 2
+D 0 18587 3 2
+D 0 18588 1 2
+D 0 18589 3 2
+D 0 18591 1 2
+D 0 18592 3 2
+D 0 18607 1 2
+D 0 18608 3 2
+D 0 18609 2 2
+D 0 18615 0 2
+D 0 18619 1 2
+D 0 18620 3 2
+D 0 18621 1 2
+D 0 18622 3 2
+D 0 18625 1 2
+D 0 18625 2 2
+D 0 18626 3 2
+D 0 18627 1 2
+D 0 18628 2 2
+D 0 18628 3 2
+D 0 18631 0 2
+D 0 18632 0 2
+D 0 18635 2 2
+D 0 18636 2 2
+D 0 18637 2 2
+D 0 18638 2 2
+D 0 18641 0 2
+D 0 18641 2 2
+D 0 18642 0 2
+D 0 18642 2 2
+D 0 18643 0 2
+D 0 18643 2 2
+D 0 18644 0 2
+D 0 18644 2 2
+D 0 17620 5 1
+D 0 18647 0 2
+D 0 18648 0 2
+D 0 18649 0 2
+D 0 18650 0 2
+D 0 18653 2 2
+D 0 18654 2 2
+D 0 18657 0 2
+D 0 18657 1 2
+D 0 18658 3 2
+D 0 18659 1 2
+D 0 18660 0 2
+D 0 18660 3 2
+D 0 18663 1 2
+D 0 18664 3 2
+D 0 18665 1 2
+D 0 18666 3 2
+D 0 17669 4 1
+D 0 18707 3 1
+D 0 18811 2 1
+D 0 18970 1 1
+D 0 18971 3 1
+D 0 18972 1 1
+D 0 18973 3 1
+D 0 18975 2 1
+D 0 18976 0 1
+D 0 18979 2 1
+D 0 18980 0 1
+D 0 18986 1 1
+D 0 18987 3 1
+D 0 18990 1 1
+D 0 18991 3 1
+D 0 19011 1 1
+D 0 19012 1 1
+D 0 19012 3 1
+D 0 19042 0 1
+D 0 18103 0 2
+D 0 18105 0 2
+D 0 18107 2 2
+D 0 18108 2 2
+D 0 18110 1 2
+D 0 18111 3 2
+D 0 18112 1 2
+D 0 18113 3 2
+D 0 18115 0 2
+D 0 18116 0 2
+D 0 18120 0 2
+D 0 18120 2 2
+D 0 18121 0 2
+D 0 18121 2 2
+D 0 18126 2 2
+D 0 18128 2 2
+D 0 18144 0 2
+D 0 18145 1 2
+D 0 18146 1 2
+D 0 18146 3 2
+D 0 18147 3 2
+D 0 18148 0 2
+D 0 18152 4 2
+D 0 18154 2 2
+D 0 18158 2 2
+D 0 18160 4 2
+D 0 18162 1 2
+D 0 18163 0 2
+D 0 18163 2 2
+D 0 18163 3 2
+D 0 18167 4 2
+D 0 18167 5 2
+D 0 18171 0 2
+D 0 18171 1 2
+D 0 18171 2 2
+D 0 18172 3 2
+D 0 18174 4 2
+D 0 18176 0 2
+D 0 18180 0 2
+D 0 18182 4 2
+D 0 18186 2 2
+D 0 18187 4 2
+D 0 18188 1 2
+D 0 18188 3 2
+D 0 18189 4 2
+D 0 18190 2 2
+D 0 18236 1 2
+D 0 18237 1 2
+D 0 18237 3 2
+D 0 18238 3 2
+D 0 18244 0 2
+D 0 18245 0 2
+D 0 18247 1 2
+D 0 18248 1 2
+D 0 18248 3 2
+D 0 18249 3 2
+D 0 18251 0 2
+D 0 18252 0 2
+D 0 18255 2 2
+D 0 18256 2 2
+D 0 18258 1 2
+D 0 18259 1 2
+D 0 18259 3 2
+D 0 18260 3 2
+D 0 18262 2 2
+D 0 18263 2 2
+D 0 18265 1 2
+D 0 18266 3 2
+D 0 18267 1 2
+D 0 18268 3 2
+D 0 18269 1 2
+D 0 18270 1 2
+D 0 18270 3 2
+D 0 18271 3 2
+D 0 18272 1 2
+D 0 18273 3 2
+D 0 18274 1 2
+D 0 18275 3 2
+D 0 18277 4 2
+D 0 18277 5 2
+D 0 18279 0 2
+D 0 18280 0 2
+D 0 18282 1 2
+D 0 18283 1 2
+D 0 18283 3 2
+D 0 18284 3 2
+D 0 18286 0 2
+D 0 18287 0 2
+D 0 18290 2 2
+D 0 18291 2 2
+D 0 18293 1 2
+D 0 18294 1 2
+D 0 18294 3 2
+D 0 18295 3 2
+D 0 18297 2 2
+D 0 18298 2 2
+D 0 18327 0 2
+D 0 18327 1 2
+D 0 18328 3 2
+D 0 18330 1 2
+D 0 18331 0 2
+D 0 18331 3 2
+D 0 18334 2 2
+D 0 18338 2 2
+D 0 18343 4 2
+D 0 18348 0 2
+D 0 18352 0 2
+D 0 18355 1 2
+D 0 18355 2 2
+D 0 18356 3 2
+D 0 18358 1 2
+D 0 18359 2 2
+D 0 18359 3 2
+D 0 18373 4 2
+D 0 18388 4 2
+D 0 18388 5 2
+D 0 18418 0 1
+D 0 18421 5 2
+D 0 18424 2 1
+M 0 18123 100 18439 1 100 Load `7Palace Servant
+M 0 18123 100 18440 1 100 Load `7Palace Servant
+M 0 18123 100 18441 1 100 Load `7Palace Servant
+M 0 18123 100 18442 1 100 Load `7Palace Servant
+M 0 18123 100 18443 1 100 Load `7Palace Servant
+M 0 18123 100 18444 1 100 Load `7Palace Servant
+M 0 18106 150 18445 1 100 Load `7A Child of Light
+M 0 18123 100 18446 1 100 Load `7Palace Servant
+M 0 18122 200 18446 3 100 Load `7Royal Amadician Palace Guard
+M 0 18123 100 18449 1 100 Load `7Palace Servant
+M 0 18122 200 18449 1 100 Load `7Royal Amadician Palace Guard
+M 0 18121 100 18453 2 100 Load `7Royal Amadician Palace Guard
+E 0 18198 0 17 0 100 `7silver spear with a red shaft is loaded wielded of `7Royal Amadician Palace Guard
+M 0 18123 100 18455 1 100 Load `7Palace Servant
+M 0 18123 100 18456 1 100 Load `7Palace Servant
+M 0 18123 100 18457 1 100 Load `7Palace Servant
+M 0 18123 100 18458 1 100 Load `7Palace Servant
+M 0 18123 100 18459 1 100 Load `7Palace Servant
+M 0 18123 100 18460 1 100 Load `7Palace Servant
+M 0 18121 100 18461 2 100 Load `7Royal Amadician Palace Guard
+E 0 18199 0 17 0 100 `7red handled silver mace is loaded wielded of `7Royal Amadician Palace Guard
+M 0 18123 100 18464 1 100 Load `7Palace Servant
+M 0 18122 200 18466 2 100 Load `7Royal Amadician Palace Guard
+M 0 18122 200 18468 1 100 Load `7Royal Amadician Palace Guard
+M 0 18121 100 18469 2 100 Load `7Royal Amadician Palace Guard
+E 0 18120 0 17 0 100 `7way of the light is loaded wielded of `7Royal Amadician Palace Guard
+M 0 18123 100 18471 1 100 Load `7Palace Servant
+M 0 18121 100 18472 2 100 Load `7Royal Amadician Palace Guard
+E 0 18191 0 11 0 100 `7a large round silver star shield is loaded as a shield of `7Royal Amadician Palace Guard
+M 0 18106 150 18473 1 100 Load `7A Child of Light
+M 0 18123 100 18474 2 100 Load `7Palace Servant
+M 0 18121 100 18475 2 100 Load `7Royal Amadician Palace Guard
+E 0 18184 0 5 0 100 `7blue and gold banded mail is loaded on the body of `7Royal Amadician Palace Guard
+M 0 18106 150 18476 1 100 Load `7A Child of Light
+M 0 18121 100 18477 2 100 Load `7Royal Amadician Palace Guard
+E 0 18182 0 1 0 100 `7ornate golden ring with blue flecks is loaded on the left finger of `7Royal Amadician Palace Guard
+M 0 18105 50 18478 2 100 Load `7A Child of Light
+M 0 18113 10 18478 1 100 Load `7Bannerman
+M 0 18121 100 18478 2 100 Load `7Royal Amadician Palace Guard
+E 0 18204 0 19 0 100 `7serenda palace key is loaded held in the hands of `7Royal Amadician Palace Guard
+M 0 18106 150 18479 1 100 Load `7A Child of Light
+M 0 18123 100 18480 1 100 Load `7Palace Servant
+M 0 18122 200 18480 1 100 Load `7Royal Amadician Palace Guard
+M 0 18120 1 18481 1 100 Load `7King Ailron
+E 0 18205 0 19 0 100 `7king ailron's personal seal is loaded held in the hands of `7King Ailron
+E 0 18206 0 2 0 100 `7king ailron's six-pointed star signet ring is loaded on the right finger of `7King Ailron
+E 0 18207 0 4 0 100 `7king ailron's red thistle chain is loaded around the neck (2) of `7King Ailron
+E 0 18208 0 16 0 100 `7king ailron's blue and gold bracer is loaded on the right wrist of `7King Ailron
+E 0 18209 0 13 0 100 `7king ailron's enlarging gut is loaded around the waist of `7King Ailron
+E 0 18210 0 0 0 100 `7king ailron's thistle and star banner is loaded as a light of `7King Ailron
+E 0 18211 0 11 0 100 `7king ailron's crest of amador is loaded as a shield of `7King Ailron
+E 0 18212 0 6 0 100 `7king ailron's crown of amador is loaded over the head of `7King Ailron
+M 0 18123 100 18483 1 100 Load `7Palace Servant
+M 0 18121 100 18486 2 100 Load `7Royal Amadician Palace Guard
+E 0 18197 0 17 0 100 `7red handled silver knife is loaded wielded of `7Royal Amadician Palace Guard
+M 0 18122 200 18486 2 100 Load `7Royal Amadician Palace Guard
+M 0 18122 200 18488 3 100 Load `7Royal Amadician Palace Guard
+M 0 18121 100 18491 2 100 Load `7Royal Amadician Palace Guard
+E 0 18201 0 17 0 100 `7razor-tipped silver morning star is loaded wielded of `7Royal Amadician Palace Guard
+M 0 18123 100 18493 1 100 Load `7Palace Servant
+M 0 18121 100 18494 2 100 Load `7Royal Amadician Palace Guard
+E 0 18187 0 8 0 100 `7red boots trimmed in gold livery is loaded on the feet of `7Royal Amadician Palace Guard
+M 0 18106 150 18495 1 100 Load `7A Child of Light
+M 0 18123 100 18496 2 100 Load `7Palace Servant
+M 0 18121 100 18497 2 100 Load `7Royal Amadician Palace Guard
+E 0 18189 0 9 0 100 `7red gloves trimmed in gold livery is loaded on the hands of `7Royal Amadician Palace Guard
+M 0 18106 150 18498 1 100 Load `7A Child of Light
+M 0 18121 100 18499 2 100 Load `7Royal Amadician Palace Guard
+E 0 18190 0 15 0 100 `7interlockign six-pointed star silver bracelet is loaded on the left wrist of `7Royal Amadician Palace Guard
+M 0 18113 10 18500 1 100 Load `7Bannerman
+M 0 18105 50 18500 2 100 Load `7A Child of Light
+M 0 18121 100 18500 2 100 Load `7Royal Amadician Palace Guard
+E 0 18204 0 19 0 100 `7serenda palace key is loaded held in the hands of `7Royal Amadician Palace Guard
+M 0 18121 100 18501 2 100 Load `7Royal Amadician Palace Guard
+E 0 18202 0 17 0 100 `7red leather whip with silver barbs is loaded wielded of `7Royal Amadician Palace Guard
+M 0 18123 100 18504 1 100 Load `7Palace Servant
+M 0 18122 200 18506 2 100 Load `7Royal Amadician Palace Guard
+M 0 18122 200 18508 1 100 Load `7Royal Amadician Palace Guard
+M 0 18121 100 18509 2 100 Load `7Royal Amadician Palace Guard
+E 0 18203 0 17 0 100 `7ornately carved red-stained quarterstaff is loaded wielded of `7Royal Amadician Palace Guard
+M 0 18123 100 18511 1 100 Load `7Palace Servant
+M 0 18123 100 18512 1 100 Load `7Palace Servant
+M 0 18123 100 18513 1 100 Load `7Palace Servant
+M 0 18123 100 18514 1 100 Load `7Palace Servant
+M 0 18123 100 18515 1 100 Load `7Palace Servant
+M 0 18123 100 18516 1 100 Load `7Palace Servant
+M 0 18106 150 18517 1 100 Load `7A Child of Light
+M 0 18123 100 18518 1 100 Load `7Palace Servant
+M 0 18122 200 18518 3 100 Load `7Royal Amadician Palace Guard
+M 0 18122 200 18521 1 100 Load `7Royal Amadician Palace Guard
+M 0 18123 100 18522 1 100 Load `7Palace Servant
+M 0 18123 100 18525 1 100 Load `7Palace Servant
+M 0 18123 100 18526 1 100 Load `7Palace Servant
+M 0 18123 100 18527 1 100 Load `7Palace Servant
+M 0 18123 100 18528 1 100 Load `7Palace Servant
+M 0 18123 100 18529 1 100 Load `7Palace Servant
+M 0 18123 100 18530 1 100 Load `7Palace Servant
+M 0 18121 100 18534 2 100 Load `7Royal Amadician Palace Guard
+E 0 18183 0 3 0 100 `7red leaf thistle on a silver chain is loaded around the neck (1) of `7Royal Amadician Palace Guard
+M 0 18122 200 18539 1 100 Load `7Royal Amadician Palace Guard
+M 0 18123 100 18542 1 100 Load `7Palace Servant
+M 0 18122 200 18544 2 100 Load `7Royal Amadician Palace Guard
+M 0 18121 100 18553 2 100 Load `7Royal Amadician Palace Guard
+E 0 18186 0 7 0 100 `7a pair of silver banded leggings is loaded on the legs of `7Royal Amadician Palace Guard
+M 0 18123 100 18554 1 100 Load `7Palace Servant
+M 0 18123 100 18566 1 100 Load `7Palace Servant
+M 0 18121 100 18568 2 100 Load `7Royal Amadician Palace Guard
+E 0 18185 0 6 0 100 `7red hat trimmed in gold livery is loaded over the head of `7Royal Amadician Palace Guard
+M 0 18123 100 18569 2 100 Load `7Palace Servant
+M 0 18122 200 18571 2 100 Load `7Royal Amadician Palace Guard
+M 0 18123 100 18573 2 100 Load `7Palace Servant
+M 0 18122 200 18574 2 100 Load `7Royal Amadician Palace Guard
+M 0 18121 100 18575 2 100 Load `7Royal Amadician Palace Guard
+E 0 18181 0 0 0 100 `7six-pointed silver candlestick is loaded as a light of `7Royal Amadician Palace Guard
+M 0 18122 200 18577 3 100 Load `7Royal Amadician Palace Guard
+M 0 18123 100 18584 1 100 Load `7Palace Servant
+M 0 18121 100 18586 2 100 Load `7Royal Amadician Palace Guard
+E 0 18187 0 8 0 100 `7red boots trimmed in gold livery is loaded on the feet of `7Royal Amadician Palace Guard
+M 0 18121 100 18588 2 100 Load `7Royal Amadician Palace Guard
+E 0 18188 0 10 0 100 `7a pair of blue and gold silk sleeves is loaded on the arms of `7Royal Amadician Palace Guard
+M 0 18123 100 18589 1 100 Load `7Palace Servant
+M 0 18123 100 18609 1 100 Load `7Palace Servant
+M 0 18122 200 18611 2 100 Load `7Royal Amadician Palace Guard
+M 0 18122 200 18612 1 100 Load `7Royal Amadician Palace Guard
+M 0 18121 100 18615 2 100 Load `7Royal Amadician Palace Guard
+E 0 18193 0 20 0 100 `7gold and blue globe of swirling energy is loaded floating nearby of `7Royal Amadician Palace Guard
+M 0 18122 200 18623 2 100 Load `7Royal Amadician Palace Guard
+M 0 18121 100 18625 2 100 Load `7Royal Amadician Palace Guard
+E 0 18192 0 19 0 100 `7a large red thistle leaf is loaded held in the hands of `7Royal Amadician Palace Guard
+M 0 18121 100 18628 2 100 Load `7Royal Amadician Palace Guard
+E 0 18194 0 21 0 100 `7red and gold painted mask is loaded on the face of `7Royal Amadician Palace Guard
+M 0 18122 200 18633 2 100 Load `7Royal Amadician Palace Guard
+M 0 18122 200 18640 2 100 Load `7Royal Amadician Palace Guard
+M 0 18123 100 18641 1 100 Load `7Palace Servant
+M 0 18123 100 18642 1 100 Load `7Palace Servant
+M 0 18122 200 18642 1 100 Load `7Royal Amadician Palace Guard
+M 0 18123 100 18643 1 100 Load `7Palace Servant
+M 0 18123 100 18644 1 100 Load `7Palace Servant
+M 0 18122 200 18644 1 100 Load `7Royal Amadician Palace Guard
+M 0 18123 100 18645 1 100 Load `7Palace Servant
+M 0 18122 200 18655 2 100 Load `7Royal Amadician Palace Guard
+M 0 18121 100 18657 2 100 Load `7Royal Amadician Palace Guard
+E 0 18196 0 13 0 100 `7blue tanned belt with a gold buckle is loaded around the waist of `7Royal Amadician Palace Guard
+M 0 18121 100 18660 2 100 Load `7Royal Amadician Palace Guard
+E 0 18195 0 12 0 100 `7gold cloak emblazoned with a red thistle is loaded about the shoulders of `7Royal Amadician Palace Guard
+M 0 18122 200 18667 2 100 Load `7Royal Amadician Palace Guard
+M 0 18113 10 18103 1 100 Load `7Bannerman
+M 0 18105 50 18103 1 100 Load `7A Child of Light
+E 0 18127 0 6 0 100 `7white tabbard bearing silver lightning bolts is loaded over the head of `7A Child of Light
+E 0 18132 0 10 0 100 `7polished steel arm plates is loaded on the arms of `7A Child of Light
+M 0 18105 50 18103 2 100 Load `7A Child of Light
+E 0 18136 0 15 0 100 `7polished steel bracer with silver lightning bolts is loaded on the left wrist of `7A Child of Light
+E 0 18131 0 9 0 100 `7immaculate white leather gloves is loaded on the hands of `7A Child of Light
+M 0 18105 50 18103 3 100 Load `7A Child of Light
+E 0 18133 0 11 0 100 `7polished steel tower shield is loaded as a shield of `7A Child of Light
+M 0 18115 1 18104 1 100 Load `7Dain Bornhald
+E 0 18101 0 19 0 100 `7golden sunburst key to the fortress of light is loaded held in the hands of `7Dain Bornhald
+M 0 18106 150 18104 2 100 Load `7A Child of Light
+M 0 18113 10 18105 1 100 Load `7Bannerman
+M 0 18105 50 18105 1 100 Load `7A Child of Light
+E 0 18134 0 12 0 100 `7immaculate white cloak bearing a golden sunburst is loaded about the shoulders of `7A Child of Light
+E 0 18136 0 16 0 100 `7polished steel bracer with silver lightning bolts is loaded on the right wrist of `7A Child of Light
+M 0 18105 50 18105 2 100 Load `7A Child of Light
+E 0 18129 0 7 0 100 `7a pair of polished steel leggings is loaded on the legs of `7A Child of Light
+M 0 18105 50 18105 3 100 Load `7A Child of Light
+E 0 18127 0 5 0 100 `7white tabbard bearing silver lightning bolts is loaded on the body of `7A Child of Light
+E 0 18126 0 3 0 100 `7a pair of silver lightning bolts pin is loaded around the neck (1) of `7A Child of Light
+M 0 18105 50 18106 1 100 Load `7A Child of Light
+E 0 18159 0 19 0 100 `7immaculate white leather whip is loaded held in the hands of `7A Child of Light
+M 0 18105 50 18106 2 100 Load `7A Child of Light
+E 0 18160 0 19 0 100 `7polished steel dagger is loaded held in the hands of `7A Child of Light
+M 0 18105 50 18109 1 100 Load `7A Child of Light
+E 0 18155 0 19 0 100 `7half-mooned polished battle axe is loaded held in the hands of `7A Child of Light
+M 0 18105 50 18109 2 100 Load `7A Child of Light
+E 0 18158 0 19 0 100 `7single-edged steel throwing spear is loaded held in the hands of `7A Child of Light
+M 0 18105 50 18114 1 100 Load `7A Child of Light
+E 0 18161 0 19 0 100 `7polished steel mallot is loaded held in the hands of `7A Child of Light
+M 0 18105 50 18114 2 100 Load `7A Child of Light
+E 0 18128 0 6 0 100 `7polished conical steel helm is loaded over the head of `7A Child of Light
+E 0 18179 0 19 0 100 `7polished steel lance is loaded held in the hands of `7A Child of Light
+M 0 18105 50 18117 1 100 Load `7A Child of Light
+E 0 18156 0 19 0 100 `7single-chained iron sunburst morningstar is loaded held in the hands of `7A Child of Light
+M 0 18105 50 18117 2 100 Load `7A Child of Light
+E 0 18157 0 19 0 100 `7thinly carved quarterstaff is loaded held in the hands of `7A Child of Light
+M 0 18106 150 18118 3 100 Load `7A Child of Light
+M 0 18105 50 18120 1 100 Load `7A Child of Light
+E 0 18125 0 2 0 100 `7silver lightning bolt signet ring is loaded on the right finger of `7A Child of Light
+M 0 18105 50 18120 2 100 Load `7A Child of Light
+E 0 18126 0 4 0 100 `7a pair of silver lightning bolts pin is loaded around the neck (2) of `7A Child of Light
+E 0 18135 0 13 0 100 `7immaculate white leather belt is loaded around the waist of `7A Child of Light
+M 0 18105 50 18120 3 100 Load `7A Child of Light
+E 0 18138 0 20 0 100 `7sphere of pure light is loaded floating nearby of `7A Child of Light
+E 0 18139 0 21 0 100 `7polished steel visor is loaded on the face of `7A Child of Light
+M 0 18105 50 18121 1 100 Load `7A Child of Light
+E 0 18125 0 1 0 100 `7silver lightning bolt signet ring is loaded on the left finger of `7A Child of Light
+E 0 18124 0 0 0 100 `7steel lantern carved with lightning bolts is loaded as a light of `7A Child of Light
+M 0 18105 50 18121 2 100 Load `7A Child of Light
+E 0 18130 0 8 0 100 `7immaculate white leather boots is loaded on the feet of `7A Child of Light
+M 0 18105 50 18121 3 100 Load `7A Child of Light
+E 0 18137 0 19 0 100 `7manual of the light is loaded held in the hands of `7A Child of Light
+M 0 18106 150 18123 3 100 Load `7A Child of Light
+M 0 18107 2 18125 1 100 Load `7Lord Inquisitor
+E 0 18103 0 19 0 100 `7golden sunburst key adorned with golden knots is loaded held in the hands of `7Lord Inquisitor
+M 0 18107 2 18129 1 100 Load `7Lord Inquisitor
+E 0 18104 0 19 0 100 `7golden sunburst officer's signet key is loaded held in the hands of `7Lord Inquisitor
+M 0 18106 150 18133 2 100 Load `7A Child of Light
+M 0 18106 150 18135 2 100 Load `7A Child of Light
+M 0 18106 150 18137 2 100 Load `7A Child of Light
+M 0 18106 150 18139 2 100 Load `7A Child of Light
+M 0 18106 150 18142 3 100 Load `7A Child of Light
+M 0 18106 150 18150 3 100 Load `7A Child of Light
+M 0 18106 150 18153 1 100 Load `7A Child of Light
+M 0 18106 150 18154 3 100 Load `7A Child of Light
+M 0 18106 150 18158 3 100 Load `7A Child of Light
+M 0 18106 150 18159 1 100 Load `7A Child of Light
+O 0 18170 0 18167 0 100 `7darkfriend's gallows loaded to Golden Sunburst Courtyard
+M 0 18113 10 18167 1 100 Load `7Bannerman
+M 0 18105 50 18167 3 100 Load `7A Child of Light
+M 0 18106 150 18173 1 100 Load `7A Child of Light
+M 0 18106 150 18175 1 100 Load `7A Child of Light
+M 0 18106 150 18176 3 100 Load `7A Child of Light
+M 0 18106 150 18180 3 100 Load `7A Child of Light
+M 0 18106 150 18181 1 100 Load `7A Child of Light
+M 0 18106 150 18183 1 100 Load `7A Child of Light
+M 0 18106 150 18194 3 100 Load `7A Child of Light
+M 0 18106 150 18197 2 100 Load `7A Child of Light
+M 0 18106 150 18199 2 100 Load `7A Child of Light
+M 0 18106 150 18201 3 100 Load `7A Child of Light
+M 0 18106 150 18204 1 100 Load `7A Child of Light
+M 0 18106 150 18206 1 100 Load `7A Child of Light
+M 0 18106 150 18208 2 100 Load `7A Child of Light
+M 0 18114 1 18211 1 100 Load `7Lothair Mantelar
+E 0 18108 0 9 0 100 `7hand of truth and purity is loaded on the hands of `7Lothair Mantelar
+E 0 18109 0 20 0 100 `7ascending faith in the light is loaded floating nearby of `7Lothair Mantelar
+E 0 18110 0 6 0 100 `7halo of righteousness is loaded over the head of `7Lothair Mantelar
+M 0 18104 3 18211 1 100 Load `7Personal Guard
+M 0 18106 150 18214 2 100 Load `7A Child of Light
+O 0 18107 0 18216 0 100 `7war of a hundred years tapestry loaded to Inside the Fortress of Light
+M 0 18106 150 18218 2 100 Load `7A Child of Light
+M 0 18106 150 18221 3 100 Load `7A Child of Light
+M 0 18106 150 18224 2 100 Load `7A Child of Light
+M 0 18110 20 18236 1 100 Load `7Senior Lieutenant
+E 0 18148 0 11 0 100 `7polished silver tower shield is loaded as a shield of `7Senior Lieutenant
+M 0 18106 150 18237 1 100 Load `7A Child of Light
+M 0 18110 20 18238 1 100 Load `7Senior Lieutenant
+E 0 18147 0 10 0 100 `7gold-trimmed immaculate white leather gloves is loaded on the arms of `7Senior Lieutenant
+M 0 18111 20 18244 1 100 Load `7Lieutenant
+E 0 18165 0 19 0 100 `7double-edged silver spear is loaded held in the hands of `7Lieutenant
+M 0 18111 20 18245 1 100 Load `7Lieutenant
+E 0 18150 0 13 0 100 `7gold-trimmed immaculate white leather belt is loaded around the waist of `7Lieutenant
+M 0 18110 20 18247 1 100 Load `7Senior Lieutenant
+E 0 18146 0 9 0 100 `7gold-trimmed immaculate white leather boots is loaded on the hands of `7Senior Lieutenant
+M 0 18106 150 18248 1 100 Load `7A Child of Light
+M 0 18110 20 18249 1 100 Load `7Senior Lieutenant
+E 0 18145 0 7 0 100 `7a pair of polished silver leggings is loaded on the legs of `7Senior Lieutenant
+M 0 18111 20 18251 1 100 Load `7Lieutenant
+E 0 18151 0 16 0 100 `7polished silver bracer with golden knots is loaded on the right wrist of `7Lieutenant
+M 0 18111 20 18252 1 100 Load `7Lieutenant
+E 0 18152 0 19 0 100 `7"way of the light" by lothair mantelar is loaded held in the hands of `7Lieutenant
+M 0 18106 150 18254 1 100 Load `7A Child of Light
+M 0 18110 20 18258 1 100 Load `7Senior Lieutenant
+E 0 18180 0 19 0 100 `7polished silver lance is loaded held in the hands of `7Senior Lieutenant
+E 0 18145 0 7 0 100 `7a pair of polished silver leggings is loaded on the legs of `7Senior Lieutenant
+E 0 18161 0 19 0 100 `7polished steel mallot is loaded held in the hands of `7Senior Lieutenant
+M 0 18106 150 18259 1 100 Load `7A Child of Light
+M 0 18110 20 18260 1 100 Load `7Senior Lieutenant
+E 0 18144 0 6 0 100 `7polished conical silver helm is loaded over the head of `7Senior Lieutenant
+M 0 18106 150 18264 3 100 Load `7A Child of Light
+M 0 18112 20 18266 1 100 Load `7Under-lieutenant
+E 0 18166 0 19 0 100 `7immaculate white barbed leather whip is loaded held in the hands of `7Under-lieutenant
+M 0 18112 20 18267 1 100 Load `7Under-lieutenant
+E 0 18164 0 19 0 100 `7full-length golden waxwood staff is loaded held in the hands of `7Under-lieutenant
+M 0 18106 150 18268 1 100 Load `7A Child of Light
+M 0 18110 20 18269 1 100 Load `7Senior Lieutenant
+E 0 18143 0 5 0 100 `7white tabbard bearing a golden sunburst is loaded on the body of `7Senior Lieutenant
+E 0 18167 0 19 0 100 `7golden sunburst-hilted polished silver dagger is loaded held in the hands of `7Senior Lieutenant
+M 0 18106 150 18270 1 100 Load `7A Child of Light
+M 0 18109 15 18270 1 100 Load `7Lord Captain
+E 0 18105 0 19 0 100 `7golden sunburst key of the council of the anointed is loaded held in the hands of `7Lord Captain
+M 0 18110 20 18271 1 100 Load `7Senior Lieutenant
+E 0 18168 0 19 0 100 `7polished silver mace is loaded held in the hands of `7Senior Lieutenant
+E 0 18176 0 10 0 100 `7polished silver arm plates is loaded on the arms of `7Senior Lieutenant
+M 0 18106 150 18272 1 100 Load `7A Child of Light
+M 0 18112 20 18273 1 100 Load `7Under-lieutenant
+E 0 18163 0 19 0 100 `7triple-chained iron sunburst morningstar is loaded held in the hands of `7Under-lieutenant
+M 0 18112 20 18274 1 100 Load `7Under-lieutenant
+E 0 18162 0 19 0 100 `7double half-mooned polished battle axe is loaded held in the hands of `7Under-lieutenant
+M 0 18116 4 18276 1 100 Load `7Lifeless Darkfriend
+E 0 18178 0 17 0 100 `7dying breathe is loaded wielded of `7Lifeless Darkfriend
+M 0 18116 4 18276 2 100 Load `7Lifeless Darkfriend
+E 0 18178 0 17 0 100 `7dying breathe is loaded wielded of `7Lifeless Darkfriend
+M 0 18116 4 18276 3 100 Load `7Lifeless Darkfriend
+E 0 18178 0 17 0 100 `7dying breathe is loaded wielded of `7Lifeless Darkfriend
+M 0 18116 4 18276 4 100 Load `7Lifeless Darkfriend
+E 0 18178 0 17 0 100 `7dying breathe is loaded wielded of `7Lifeless Darkfriend
+M 0 18106 150 18278 3 100 Load `7A Child of Light
+M 0 18110 20 18282 1 100 Load `7Senior Lieutenant
+E 0 18142 0 3 0 100 `7a pair of golden knots pin is loaded around the neck (1) of `7Senior Lieutenant
+M 0 18106 150 18283 1 100 Load `7A Child of Light
+M 0 18110 20 18284 1 100 Load `7Senior Lieutenant
+E 0 18141 0 2 0 100 `7golden sunburst signet ring is loaded on the right finger of `7Senior Lieutenant
+M 0 18106 150 18288 1 100 Load `7A Child of Light
+M 0 18111 20 18290 1 100 Load `7Lieutenant
+E 0 18154 0 21 0 100 `7polished silver visor is loaded on the face of `7Lieutenant
+M 0 18111 20 18291 1 100 Load `7Lieutenant
+E 0 18149 0 12 0 100 `7gold-trimmed immaculate white cloak bearing a golden sunburst is loaded about the shoulders of `7Lieutenant
+M 0 18110 20 18293 1 100 Load `7Senior Lieutenant
+E 0 18141 0 1 0 100 `7golden sunburst signet ring is loaded on the left finger of `7Senior Lieutenant
+M 0 18106 150 18294 1 100 Load `7A Child of Light
+M 0 18110 20 18295 1 100 Load `7Senior Lieutenant
+E 0 18140 0 0 0 100 `7silver lantern carved with golden sunbursts is loaded as a light of `7Senior Lieutenant
+M 0 18111 20 18297 1 100 Load `7Lieutenant
+E 0 18151 0 15 0 100 `7polished silver bracer with golden knots is loaded on the left wrist of `7Lieutenant
+M 0 18111 20 18298 1 100 Load `7Lieutenant
+E 0 18153 0 20 0 100 `7revolving brilliant golden sunburst is loaded floating nearby of `7Lieutenant
+M 0 18106 150 18314 2 100 Load `7A Child of Light
+M 0 18106 150 18317 3 100 Load `7A Child of Light
+M 0 18106 150 18320 2 100 Load `7A Child of Light
+M 0 18106 150 18323 3 100 Load `7A Child of Light
+M 0 18106 150 18326 3 100 Load `7A Child of Light
+M 0 18109 15 18329 1 100 Load `7Lord Captain
+E 0 18123 0 13 0 100 `7belt of twelve golden sunbursts is loaded around the waist of `7Lord Captain
+M 0 18106 150 18332 3 100 Load `7A Child of Light
+M 0 18109 15 18335 1 100 Load `7Lord Captain
+E 0 18115 0 19 0 100 `7way of the light is loaded held in the hands of `7Lord Captain
+M 0 18109 15 18336 1 100 Load `7Lord Captain
+E 0 18122 0 13 0 100 `7gold-embroidered bag of righteousness is loaded around the waist of `7Lord Captain
+M 0 18109 15 18337 1 100 Load `7Lord Captain
+E 0 18116 0 19 0 100 `7way of the light is loaded held in the hands of `7Lord Captain
+M 0 18109 15 18341 1 100 Load `7Lord Captain
+E 0 18112 0 19 0 100 `7way of the light is loaded held in the hands of `7Lord Captain
+M 0 18109 15 18342 1 100 Load `7Lord Captain
+E 0 18114 0 19 0 100 `7way of the light is loaded held in the hands of `7Lord Captain
+M 0 18109 15 18344 1 100 Load `7Lord Captain
+E 0 18117 0 19 0 100 `7way of the light is loaded held in the hands of `7Lord Captain
+M 0 18109 15 18345 1 100 Load `7Lord Captain
+E 0 18119 0 19 0 100 `7way of the light is loaded held in the hands of `7Lord Captain
+M 0 18109 15 18349 1 100 Load `7Lord Captain
+E 0 18113 0 19 0 100 `7way of the light is loaded held in the hands of `7Lord Captain
+M 0 18109 15 18350 1 100 Load `7Lord Captain
+E 0 18121 0 13 0 100 `7gold-embroidered satchel of virtue is loaded around the waist of `7Lord Captain
+M 0 18109 15 18351 1 100 Load `7Lord Captain
+E 0 18118 0 19 0 100 `7way of the light is loaded held in the hands of `7Lord Captain
+M 0 18106 150 18354 3 100 Load `7A Child of Light
+M 0 18109 15 18357 1 100 Load `7Lord Captain
+E 0 18120 0 19 0 100 `7way of the light is loaded held in the hands of `7Lord Captain
+M 0 18106 150 18360 3 100 Load `7A Child of Light
+M 0 18106 150 18363 3 100 Load `7A Child of Light
+M 0 18108 10 18373 1 100 Load `7Inquisitor
+E 0 18172 0 19 0 100 `7creator's talisman of light is loaded held in the hands of `7Inquisitor
+G 0 18173 0 0 0 100 `7list of darkfriends is given to `7Inquisitor
+G 0 18174 0 0 0 100 `7amadician sweet liquor is given to `7Inquisitor
+G 0 18175 0 0 0 100 `7amadician brandywine torte is given to `7Inquisitor
+M 0 18108 10 18381 1 100 Load `7Inquisitor
+G 0 18172 0 0 0 100 `7creator's talisman of light is given to `7Inquisitor
+G 0 18174 0 0 0 100 `7amadician sweet liquor is given to `7Inquisitor
+G 0 18175 0 0 0 100 `7amadician brandywine torte is given to `7Inquisitor
+M 0 18108 10 18387 1 100 Load `7Inquisitor
+G 0 18171 0 0 0 100 `7rod of prayer is given to `7Inquisitor
+G 0 18174 0 0 0 100 `7amadician sweet liquor is given to `7Inquisitor
+G 0 18175 0 0 0 100 `7amadician brandywine torte is given to `7Inquisitor
+O 0 18177 0 18388 0 100 `7hanging darkfriend tapestry loaded to `7[`&WHITECLOAK`7] `$Ribbon of Pure Light`7
+M 0 18108 10 18395 1 100 Load `7Inquisitor
+G 0 18169 0 0 0 100 `7rod of truth is given to `7Inquisitor
+G 0 18174 0 0 0 100 `7amadician sweet liquor is given to `7Inquisitor
+G 0 18175 0 0 0 100 `7amadician brandywine torte is given to `7Inquisitor
+M 0 18119 1 18412 1 100 Load `7Einor Saren
+G 0 18105 0 0 0 100 `7golden sunburst key of the council of the anointed is given to `7Einor Saren
+G 0 18104 0 0 0 100 `7golden sunburst officer's signet key is given to `7Einor Saren
+G 0 18103 0 0 0 100 `7golden sunburst key adorned with golden knots is given to `7Einor Saren
+G 0 18101 0 0 0 100 `7golden sunburst key to the fortress of light is given to `7Einor Saren
+M 0 18102 1 18420 1 100 Load `7Eamon Valda
+E 0 18106 0 19 0 100 `7[`&whitecloak`7] sliver of pure light is loaded held in the hands of `7Eamon Valda
+M 0 18104 3 18420 1 100 Load `7Personal Guard
+M 0 18101 1 18421 1 100 Load `7Azgar
+E 0 18106 0 19 0 100 `7[`&whitecloak`7] sliver of pure light is loaded held in the hands of `7Azgar
+M 0 18103 1 18422 1 100 Load `7Rhadam Asuwana
+E 0 18102 0 19 0 100 `7[`&whitecloak`7] inquisitor's mirrored steel key is loaded held in the hands of `7Rhadam Asuwana
+M 0 18104 3 18422 1 100 Load `7Personal Guard
+S
+
+
+
+#SHOPS
+18117 9 5 1 0 0 250 50 0 23
+18118 9 5 1 0 0 250 50 0 23
+18119 18 0 0 0 0 1000 50 0 23
+0
+
+
+
+#MOBPROGS
+#18101
+if room $n == 18421
+if clan $n whitecloak
+say By the light, $n, how may I be of assistance?
+say Is it a key you require? Just "say key list" for a list of keys I have on my keyring.
+else
+say Groveling gets you no where with me, and only mild amusement with the Hand of Light. Away with you!
+mob transfer $n 18104
+endif
+else
+endif
+~
+#18102
+if room $n == 18421
+if clan $n whitecloak
+say $n, here is a list of available keys. Just "say key #" for which one you need:
+say 1 - Golden Sunburst Key to the Fortress of Light
+say 2 - Inquisitor's Mirrored Steel Key
+say 3 - Golden Sunburst Key adorned with Golden Knots
+say 4 - Golden Sunburst Officer's Signet Key
+say 5 - Golden Sunburst Key of the Council of the Anointed
+say 6 - Sliver of Pure Light
+else
+say $n, you are not worthy of such a key, Darkfriend!
+mob transfer $n 18104
+endif
+else
+otell $n You are not in the right room.
+endif
+~
+#18103
+if room $n == 18421
+if clan $n whitecloak
+say $n, don't lose this key. There are darkfriends all about, and we wouldn't want to give them access to the Fortress.
+mob oload 18101
+give key $n
+say Walk in the Light, $n.
+else
+say $n, you are not worthy of such a key, Darkfriend!
+mob transfer $n 18104
+endif
+else
+otell $n You are not in the right room.
+endif
+~
+#18104
+if room $n == 18421
+if name $n roneth
+say $n, don't lose this key. There are darkfriends all about, and we wouldn't want to give them access to the Fortress.
+mob oload 18102
+give key $n
+say Walk in the Light, $n.
+else
+say $n, you are not worthy of such a key, Darkfriend!
+mob transfer $n 18104
+endif
+else
+otell $n You are not in the right room.
+endif
+~
+#18105
+if room $n == 18421
+if clan $n whitecloak
+say $n, don't lose this key. There are darkfriends all about, and we wouldn't want to give them access to the Fortress.
+mob oload 18103
+give key $n
+say Walk in the Light, $n.
+else
+say $n, you are not worthy of such a key, Darkfriend!
+mob transfer $n 18104
+endif
+else
+otell $n You are not in the right room.
+endif
+~
+#18106
+if room $n == 18421
+if clan $n whitecloak
+say $n, don't lose this key. There are darkfriends all about, and we wouldn't want to give them access to the Fortress.
+mob oload 18104
+give key $n
+say Walk in the Light, $n.
+else
+say $n, you are not worthy of such a key, Darkfriend!
+mob transfer $n 18104
+endif
+else
+otell $n You are not in the right room.
+endif
+~
+#18107
+if room $n == 18421
+if clan $n whitecloak
+say $n, don't lose this key. There are darkfriends all about, and we wouldn't want to give them access to the Fortress.
+mob oload 18105
+give key $n
+say Walk in the Light, $n.
+else
+say $n, you are not worthy of such a key, Darkfriend!
+mob transfer $n 18104
+endif
+else
+otell $n You are not in the right room.
+endif
+~
+#18108
+if room $n == 18421
+if clan $n whitecloak
+say $n, don't lose this key. There are darkfriends all about, and we wouldn't want to give them access to the Fortress.
+mob oload 18106
+give key $n
+say Walk in the Light, $n.
+else
+say $n, you are not worthy of such a key, Darkfriend!
+mob transfer $n 18104
+endif
+else
+otell $n You are not in the right room.
+endif
+~
+#18109
+wear dying
+~
+#18110
+if room $n == 18421
+if clan $n whitecloak
+or isimmort $n
+mob transfer $n 18388
+else
+mob echo The door is closed.
+break
+endif
+else
+break
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

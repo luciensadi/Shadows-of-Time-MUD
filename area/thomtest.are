@@ -1,0 +1,84 @@
+#AREADATA
+Name thomtest~
+Builders None~
+VNUMs 35000 36000
+Credits (null)~
+Security 1
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#35000
+Stone golem~
+a stone golem~
+A Golem stands here, say TEST TEST TEST ME!
+~
+~
+dragon~
+0 0
+ABT 336 0 0 0 -1  -1000 0
+100 5000 1d1+50000 0d0+0 0d0+0 bite
+0 0 0 0
+CJ 0 BEH FI
+stand stand male  0
+AHZ ACDEFGHIJKPQUVX medium unknown
+#0
+
+
+
+#OBJECTS
+#35000
+Bag~
+a brown bag~
+A bag lies here, looking brown.~
+paper~
+container 0 A
+0
+0 A 0 302984 0
+100 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#35000
+Thom's Test Room~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 35000 1 35000 1 100 Load a stone golem
+G 0 35000 0 0 0 100 A brown bag is given to a stone golem
+O 0 35000 0 35000 0 100 A brown bag loaded to Thom's Test Room
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

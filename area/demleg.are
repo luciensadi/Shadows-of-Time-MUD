@@ -1,0 +1,57 @@
+#AREADATA
+Name Ancient Ruins~
+Builders Demandred~
+VNUMs 20100 20199
+Credits `4[`3Legend`4]`7 Demandred Legend Area~
+Security 9
+Flags CF
+Version 3
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20100
+~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

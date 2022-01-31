@@ -1,0 +1,70 @@
+#AREADATA
+Name Levi's Second Attempt~
+Builders Levi~
+VNUMs 19975 19999
+Credits Levi hopefully won't screw this up~
+Security 1
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#19975
+stump~
+`*A short stump~
+A short stump is here, sitting on the ground.~
+unknown~
+furniture 0 0
+0
+CFG AC EHK CDJKLMNOPQRSTUVWXYZabcdef CDJKLMNOPQRSTUVWXYZabcdef
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#19975
+~
+hopefully it won't disappear this time.
+so if you have any questions, ask Demandred
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 19975 0 19975 0 100 `*a short stump loaded to 
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

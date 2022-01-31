@@ -1,0 +1,973 @@
+Sender  Diem~
+Date    Sun Oct 13 19:31:17 2002~
+Stamp   1034562677
+To      all~
+Subject Guild Choices~
+Text
+A few changes to guilds.
+
+Less Guilds now. Some guilds amalgamated, some have faded away.
+
+Current Choices:
+Tinker (still no_pk)
+White Tower (sedai/warder)
+Black Tower (asha/shaido/aiel)
+Seanchan
+RedHand
+Shadow
+Whitecloak
+
+GLs are now going to be elected. Votes needed = (number of members / 2).  This will become more complex
+with the addition of Honor and Fame. 
+
+Guildskills will now only be available to certain classes.
+
+E.G. Veil - All classes however non-melee classes will not have such a pronounced effect.
+E.G. Restrain - Only going to be available to male channelers.
+E.G. Balefire - Only going to be available to female channelers.
+E.G. A Female Channeler in Whitecloak - Recieves lesser stance, and cleanse as normal
+E.G. A Male Channeler in Whitetower - Recieves Bond, no void/no no_hunger/no balefire/no still etc.
+
+Diem
+~
+Sender  Dreyus~
+Date    Sun Oct 13 19:43:19 2002~
+Stamp   1034563399
+To      all~
+Subject shadow~
+Text
+shadow and all enhanced chars will be hand chosen by myself.
+~
+Sender  Acebo~
+Date    Sun Oct 13 21:16:04 2002~
+Stamp   1034568964
+To      IMM~
+Subject Things here and there~
+Text
+Took guilds out of last for mortals and added guild-tags for IMM's in
+who, with Drey's help (but only a little, because I went back and did
+color!)  
+
+-Acebo
+~
+Sender  Acebo~
+Date    Tue Oct 15 16:50:16 2002~
+Stamp   1034725816
+To      all~
+Subject Change to 'who'~
+Text
+Guides can now see guild-tags, morts can now see guide's guild-tag and
+uh..  As always IMM's can see all :) 
+~
+Sender  Diem~
+Date    Tue Oct 15 21:33:57 2002~
+Stamp   1034742837
+To      all~
+Subject Guildskills~
+Text
+Redhand - all skills are active, but not adjusted
+Seanchan - all skills are active, but not adjusted
+Whitetower - some skills active, but not adjusted
+Blacktower - no skills active, and not yet adjusted
+Tinker - all skill actives, all skills adjusted
+Whitecloak - all skills active, but not adjusted
+Shadow - all skills active, all skills adjusted
+
+Tommorow: 
+- Adjust - Veil/Restrain/Still/Balefire/Ravage/Blood/Stance/Cleanse/Manatap
+
+Adjustments will be based on character's sex/class.
+
+e.g. Ravage - channeler will have the chance to blind, warrior will have a healing blood.
+e.g. Void - available only to male/assassins/warriors
+~
+Sender  Diem~
+Date    Fri Oct 18 14:50:32 2002~
+Stamp   1034977832
+To      all~
+Subject void changed to whitetower males only.~
+Text
+~
+Sender  Diem~
+Date    Sun Oct 20 12:15:45 2002~
+Stamp   1035141345
+To      all~
+Subject Guild Skills~
+Text
+The following guilds now have functional and working guild skills:
+
+All but the Blacktower.
+
+That is all.
+
+Diem
+~
+Sender  Allen~
+Date    Tue Oct 22 16:54:44 2002~
+Stamp   1035330884
+To      all~
+Subject Whitetower / Blacktower Guild mobs - Fixed.~
+Text
+Memembers of both guilds will find that the mobs guarding their area's
+will all now work, not just one or two of them.  
+~
+Sender  Allen~
+Date    Tue Oct 22 20:45:35 2002~
+Stamp   1035344735
+To      all~
+Subject Lugard: Added more eq.~
+Text
+The title says it all.
+~
+Sender  Diem~
+Date    Thu Oct 24 20:21:38 2002~
+Stamp   1035516098
+To      all~
+Subject Black Tower Skills~
+Text
+Restrain -> Channeler Cleric
+Manatap -> Channeler Cleric 
+Firestorm -> Channeler Cleric Archer
+Dream -> Warrior Channeler Archer Formmaster Assassin
+Veil -> Warrior Assassin Formmaster
+~
+Sender  Diem~
+Date    Fri Oct 25 13:55:50 2002~
+Stamp   1035579350
+To      all~
+Subject Veil/Blackjack~
+Text
+Veil no longer has such a profound affect on chain lightning.
+Blackjack now only lasts the remainder of the tick, and cant be targed on someone for much longer.
+~
+Sender  Diem~
+Date    Sat Oct 26 19:07:28 2002~
+Stamp   1035684448
+To      all~
+Subject Blackjack~
+Text
+Fixed as of next copyover.
+~
+Sender  Allen~
+Date    Sun Nov  3 10:45:12 2002~
+Stamp   1036349112
+To      seanchan imm~
+Subject Agro Deathwatch guard in Seanchan Gsafe~
+Text
+Is gone.
+~
+Sender  Allen~
+Date    Sun Nov  3 10:48:03 2002~
+Stamp   1036349283
+To      seanchan imm~
+Subject Seanchan guild key mob~
+Text
+made tougher
+~
+Sender  Lynn~
+Date    Mon Nov  4 13:29:45 2002~
+Stamp   1036445385
+To      imm~
+Subject Rprogs at Pella and QM~
+Text
+Bleh, I took them out, until someone thinks
+they should go back in for some reason....
+
+Lynn
+~
+Sender  Allen~
+Date    Sun Nov 10 12:01:44 2002~
+Stamp   1036958504
+To      all~
+Subject Dark Baggy Pants (Lugard EQ)~
+Text
+Fixed.
+~
+Sender  Dreyus~
+Date    Thu Nov 14 07:59:15 2002~
+Stamp   1037289555
+To      all~
+Subject circlet of eternal darkness in quest list~
+Text
+should no longer pull circle of shimmering light, i switched it.
+~
+Sender  Dreyus~
+Date    Sun Nov 17 08:31:49 2002~
+Stamp   1037550709
+To      all~
+Subject circlets of shimmering and circlets of eternal darkness~
+Text
+Ok, for some reason, circlets of shimmering light keep appearing when
+people try to buy the eternal darkness ones I've tried changing the vnums
+and switching them around, but alas, it keeps coming back.  So now, in my
+infinite wisdom, I hopfully have solved the problem.  I've just named the
+shimmering circlet one correctly, and have added the eternal darkness one to
+the list of quest prizes.  
+~
+Sender  Dreyus~
+Date    Sun Nov 17 13:15:45 2002~
+Stamp   1037567745
+To      all~
+Subject `8Q`&uest`! E`1Q `$C`4oupon`*~
+Text
+Ok folks.  I had a brainstorm today, and came up with this idea.  It's a
+cool one if i do say so myself.  I have created and added to the questlist a
+coupon called quest eq coupon.  The long description tells what it does, but
+basically, you turn in the coupon to me, and i create a piece of equipmet
+built just for you.  It can be whatever you want.  I will not go over eq
+maxes or add special spells to it, but it will have the stats and
+descriptions that you yourself help create.  It costs a bit more (ok, a
+buttload more) but I think it is well worth it.  
+~
+Sender  Allen~
+Date    Tue Nov 19 08:45:55 2002~
+Stamp   1037724355
+To      all~
+Subject Qret's in locked guild safe's~
+Text
+Should'nt have this happen anymore.  Made sure all guild safe's except
+Sedai are noquest.  Sedai locked area has so few vnums I dont foresee any
+problems.  
+~
+Sender  Allen~
+Date    Sun Dec  1 05:54:48 2002~
+Stamp   1038750888
+To      imm~
+Subject Adventure Master~
+Text
+Is now also a healer.  Half the level as Pella.
+~
+Sender  Diem~
+Date    Sat Dec  7 03:17:02 2002~
+Stamp   1039259822
+To      all~
+Subject Balefire - Fixed~
+Text
+Report any further issues.
+~
+Sender  Diem~
+Date    Sat Dec  7 03:23:51 2002~
+Stamp   1039260231
+To      all~
+Subject Warder Detects - Fixed~
+Text
+Report any further issues.
+~
+Sender  Diem~
+Date    Sat Dec  7 16:00:40 2002~
+Stamp   1039305640
+To      all~
+Subject Rand - Firestorm~
+Text
+Fixed - Report Further Issues
+~
+Sender  Allen~
+Date    Sun Dec  8 16:29:06 2002~
+Stamp   1039393746
+To      all~
+Subject Collam Daan: New mobs.~
+Text
+Slowly as Legends note me, I'm adding new statues to this area.  New eq
+too.  Enjoy 
+~
+Sender  Diem~
+Date    Sun Dec  8 16:31:33 2002~
+Stamp   1039393893
+To      all~
+Subject Gametickets~
+Text
+I am now able to give them out, if you have quest equipment to trade in, note me!
+~
+Sender  Diem~
+Date    Mon Dec  9 13:45:33 2002~
+Stamp   1039470333
+To      all~
+Subject Quest System~
+Text
+Little bit of a minor upgrade.
+~
+Sender  Allen~
+Date    Thu Dec 12 22:27:22 2002~
+Stamp   1039760842
+To      all~
+Subject Collam Daan - New EQ / Statues.~
+Text
+Spread the eq around so that you *HAVE* to kill more mobs to get eq,
+should make the value of the eq rise a bit more.  If anyone wants a statue
+that is legend, let me know with a note.  If you have a statue in, and want
+something on it changed (other than eq), let me know in a note what you want
+changed and changed to.  
+~
+Sender  Allen~
+Date    Fri Dec 13 23:13:40 2002~
+Stamp   1039850020
+To      imm~
+Subject a citizen of Tear vnum 8457~
+Text
+Beefed this mob up some.  There was a rescue quest where a blob of parts
+was kicking it's ass.  The tear mob had no chance, nor did the player
+completeing the quest.  
+~
+Sender  Allen~
+Date    Sat Dec 14 02:38:33 2002~
+Stamp   1039862313
+To      imm~
+Subject Cloak of Mist  vnum 11820~
+Text
+This eq was out of spec per the hit/dam was 9 for level 97 eq, lowered to
+7/7 and added a few more hps.  
+~
+Sender  Diem~
+Date    Tue Dec 24 22:34:37 2002~
+Stamp   1040798077
+To      all~
+Subject RE: New Quest System~
+Text
+I am a god.
+
+The new quest system is now fully funcional. Once you have completed the Pella quest
+you will never be able to do it again!
+
+Get ready for some tough cookie quests.
+~
+Sender  Diem~
+Date    Wed Dec 25 03:15:52 2002~
+Stamp   1040814952
+To      all~
+Subject Small Christmas Quest~
+Text
+I added a special quest where the magnificent square is. Nothing big!
+
+Well tis 5am Christmas morning, probably time for bed!
+
+Stay safe, and a word to the wise, double up on the nog.
+Merry Christmas all! See you all in a few days!
+
+P.S. If you see Santa this year, wish him a merry christmas for me!
+*wink*
+~
+Sender  Diem~
+Date    Wed Dec 25 09:29:30 2002~
+Stamp   1040837370
+To      all~
+Subject Re: Christmas Quest~
+Text
+Elves had too much coffee, they have burnt out.  Enjoy a little easier quest.
+~
+Sender  Diem~
+Date    Wed Dec 25 14:34:47 2002~
+Stamp   1040855687
+To      all~
+Subject RE: Christmas Quest~
+Text
+A few bugs fixed. No more multiple sacs... good try guys!
+
+Diem
+~
+Sender  Diem~
+Date    Thu Jan  2 20:46:11 2003~
+Stamp   1041569171
+To      all~
+Subject Quest + Bond Fixes~
+Text
+Patched up about 5 visible Bond bugs.
+Patched up about 5 visible Quest bugs.
+Added 2 new functions for "extended quests".
+
+~
+Sender  Allen~
+Date    Sun Jan  5 07:54:34 2003~
+Stamp   1041782074
+To      all~
+Subject Aggro mobs~
+Text
+Should start seeing a few more of these now.
+~
+Sender  Allen~
+Date    Sun Jan  5 07:55:19 2003~
+Stamp   1041782119
+To      all~
+Subject New 'advanced' quest added~
+Text
+It's in four kings.  Have fun.
+~
+Sender  Allen~
+Date    Sun Jan  5 07:57:47 2003~
+Stamp   1041782267
+To      all~
+Subject More interactive mobs on the way~
+Text
+I'm working on some progs and stuff to make our dry mobs a bit more
+lively.  Look forward to seeing this in the near future.  
+~
+Sender  Allen~
+Date    Sun Jan  5 09:40:35 2003~
+Stamp   1041788435
+To      all ~
+Subject new scroll~
+Text
+Found in four kings, gives 3 tick air barrier.
+~
+Sender  Allen~
+Date    Sun Jan  5 10:29:21 2003~
+Stamp   1041791361
+To      imm~
+Subject Four Kings~
+Text
+Made it no_port so players have to auctually walk in and find the mob
+that holds the new scroll and use the quest.  
+~
+Sender  Diem~
+Date    Tue Jan  7 13:49:02 2003~
+Stamp   1041976142
+To      all~
+Subject Changes - Duh~
+Text
+Quest System
+************
+
+-Fixed up a few loopholes.
+-Added 3 new functions.
+-Fixed a few bugged mprogs.
+
+
+New Command
+***********
+
+syntax: cover
+Now cloaks the equipment you wear from those who look at you. 
+Use this command to turn it on and off.
+
+
+Form Masters
+************
+
+-Increased damage from Physical attacks
+-Strike now can be used on hurt oppontents down to a certain level.
+~
+Sender  Diem~
+Date    Tue Jan  7 18:40:39 2003~
+Stamp   1041993639
+To      all~
+Subject Simulacrum~
+Text
+Now lags the opponent.
+~
+Sender  Diem~
+Date    Wed Jan  8 22:09:34 2003~
+Stamp   1042092574
+To      all~
+Subject Where~
+Text
+added area name
+~
+Sender  Diem~
+Date    Wed Jan  8 22:14:47 2003~
+Stamp   1042092887
+To      all~
+Subject Word of Recall~
+Text
+Unusable in pk (this might only be temporary, we will see how pk goes).
+~
+Sender  Diem~
+Date    Wed Jan  8 23:52:36 2003~
+Stamp   1042098756
+To      all~
+Subject Thieves - Shroud~
+Text
+No more shroud while you are in thief ticks.
+~
+Sender  Diem~
+Date    Thu Jan  9 13:27:00 2003~
+Stamp   1042147620
+To      all~
+Subject Detect Sneak~
+Text
+Should be fixed now. If not please repost.
+~
+Sender  Diem~
+Date    Thu Jan  9 16:45:34 2003~
+Stamp   1042159534
+To      all~
+Subject New guild~
+Text
+New Guild Added
+Its visiblility added
+
+New guild closed.
+~
+Sender  Diem~
+Date    Thu Jan  9 23:19:58 2003~
+Stamp   1042183198
+To      all~
+Subject Quest stuff~
+Text
+added hardcoded helpfile for questmasters - imm only
+fixed bug with quests which were not allowing quests to save
+~
+Sender  Diem~
+Date    Fri Jan 10 01:47:13 2003~
+Stamp   1042192033
+To      all~
+Subject Charm~
+Text
+Nerfed.
+
+No longer lasts as long. Unrestores pet once charmed.
+~
+Sender  Diem~
+Date    Fri Jan 10 02:15:42 2003~
+Stamp   1042193742
+To      all~
+Subject Changes~
+Text
+Last 1 year instead of 2 weeks.
+~
+Sender  Diem~
+Date    Fri Jan 10 02:16:38 2003~
+Stamp   1042193798
+To      all~
+Subject Ideas~
+Text
+Last 6 months.
+~
+Sender  Diem~
+Date    Fri Jan 10 02:20:21 2003~
+Stamp   1042194021
+To      all~
+Subject Questinfo~
+Text
+Added color.
+~
+Sender  Demandred~
+Date    Fri Jan 10 16:03:45 2003~
+Stamp   1042243425
+To      all~
+Subject New Statue~
+Text
+Congrats Jubei on getting a statue
+~
+Sender  Diem~
+Date    Sat Jan 11 21:45:39 2003~
+Stamp   1042350339
+To      all~
+Subject Chain Lightning~
+Text
+Players are no longer able to have a tinker be the second chain target without damaging
+the tinker or themselves. Tinkers will no longer be counted into the chain targets unless
+they themselves are the caster of the chain lightning.
+~
+Sender  Allen~
+Date    Sun Jan 12 06:11:25 2003~
+Stamp   1042380685
+To      diem demandred~
+Subject potion of faith~
+Text
+Removed air barrier and replaced with heal.  Knocked the spell level down
+to 10 
+~
+Sender  Diem~
+Date    Sun Jan 12 14:35:20 2003~
+Stamp   1042410920
+To      immortal Allen~
+Subject Mob Command~
+Text
+randomoload [lowervnum] [uppervnum] [level] {R-W-Omit}
+
+E.G.
+randomoload 1 10    - should load the object to the mob's inventory
+randomoload 1 10 81 R  - should load the object to the room
+randomoload 1 10 81 W - should load the object and force the mob to wear the object
+~
+Sender  Diem~
+Date    Sun Jan 12 16:34:34 2003~
+Stamp   1042418074
+To      all~
+Subject Who~
+Text
+New information available on the who command. 
+~
+Sender  Diem~
+Date    Sun Jan 12 18:20:35 2003~
+Stamp   1042424435
+To      all~
+Subject Honor~
+Text
+This has been added on a very basic level.  You will gain honor for pkilling honorable players.
+
+Slight advantages will be seen throughout the mud, the higher your honor the better.
+
+This will be elaborated later on down the line.
+
+Diem
+~
+Sender  Diem~
+Date    Sun Jan 12 18:20:53 2003~
+Stamp   1042424453
+To      all~
+Subject Loot~
+Text
+All looting has been disabled.
+~
+Sender  Diem~
+Date    Sun Jan 12 18:23:09 2003~
+Stamp   1042424589
+To      all~
+Subject RK - Important~
+Text
+Rolekilling and any form of its rules will no longer be dealt with by Guide. From this point on
+rolekilling is no longer required to PK, and as such there will be no rule violations for lack
+of rk.
+~
+Sender  Allen~
+Date    Tue Jan 14 15:08:36 2003~
+Stamp   1042585716
+To      all~
+Subject Gold from Ciquila, Jumangi, Tear and Ghenji~
+Text
+No longer exist.  Thank you, Drive through.
+~
+Sender  Diem~
+Date    Thu Jan 16 22:03:15 2003~
+Stamp   1042783395
+To      all~
+Subject PK Options~
+Text
+This is now an option that will be given to you if you havent been given it in the past.
+
+
+To declare yourself LOOTABLE or NONLOOTABLE please login wtihout using your "accounts"
+and this will give you the option.
+
+Only when a Lootable player kills another Lootable player may looting take place.
+
+This might change in the future, to only factor in on weather the killer is lootable
+or not.
+~
+Sender  Allen~
+Date    Fri Jan 17 00:09:51 2003~
+Stamp   1042790991
+To      all~
+Subject Level 1 - 15 quest.~
+Text
+Added to the gleeman area.  Newbs / Lowbies only.  Have fun. : )
+Check out the begger.
+~
+Sender  Diem~
+Date    Fri Jan 17 01:06:06 2003~
+Stamp   1042794366
+To      immortal~
+Subject Questinfo Commands~
+Text
+questinfo (target) raw  = shows you raw output information
+questinfo (target) clear (number) = clears the specified quest.
+~
+Sender  Diem~
+Date    Fri Jan 17 01:44:54 2003~
+Stamp   1042796694
+To      immortal~
+Subject System Notes~
+Text
+Updated: Removed Cammaedros Asmodeus Thom Jasin
+
+Updated: Added Dreyus
+~
+Sender  Diem~
+Date    Fri Jan 17 01:54:44 2003~
+Stamp   1042797284
+To      all~
+Subject Who List~
+Text
+Honor will now be shown in `!RED`7 if the person is lootable. `&WHITE`7 if the person 
+is not.
+
+
+Guilds are once again viewable to all.
+~
+Sender  Diem~
+Date    Fri Jan 17 02:26:27 2003~
+Stamp   1042799187
+To      all~
+Subject Dampen + Rogue + Assassin~
+Text
+Dampen added to Formasters at level 65 for 8cp.
+
+Rogues + Assassins now cost a little less CP.
+~
+Sender  Diem~
+Date    Sat Jan 18 21:29:27 2003~
+Stamp   1042954167
+To      all~
+Subject Honor~
+Text
+No more seeing lootables on who.
+
+No more negative honor.
+~
+Sender  Diem~
+Date    Tue Jan 21 14:26:17 2003~
+Stamp   1043187977
+To      all~
+Subject Destroyed Items~
+Text
+
+No longer useable.
+~
+Sender  Diem~
+Date    Tue Jan 21 18:42:38 2003~
+Stamp   1043203358
+To      all~
+Subject Dual Wield~
+Text
+
+Bonus to parry while using a second weapon.
+Will actually land more often now.
+
+Diem
+~
+Sender  Diem~
+Date    Wed Jan 22 19:08:11 2003~
+Stamp   1043291291
+To      all~
+Subject RE: Form Masters~
+Text
+
+Last night thier hand-to-hand combat damage was raised. Let me know if this is better
+not enough, or too high.
+~
+Sender  Astaelan~
+Date    Fri Jan 24 02:27:58 2003~
+Stamp   1043404078
+To      all~
+Subject Fixed bug with stores~
+Text
+Hey folks, As my first order of business as the new coder, I have fixed
+the bug with regards to being renamed and having your store pooched.  If
+anyone experiences any difficulties with it again, let me know. 
+=@=Astaelan=@= 
+p.s. This affects editing ownership through sedit as well.
+~
+Sender  Diem~
+Date    Fri Jan 24 22:17:16 2003~
+Stamp   1043475436
+To      all~
+Subject Crash -> Pk~
+Text
+
+Fixed
+~
+Sender  Diem~
+Date    Mon Jan 27 13:21:04 2003~
+Stamp   1043702464
+To      all~
+Subject Honor in Score~
+Text
+
+Added it, in place of where gametickets were. It will show negative honor.
+~
+Sender  Diem~
+Date    Tue Jan 28 16:11:21 2003~
+Stamp   1043799081
+To      all~
+Subject Simulacrum~
+Text
+
+Lag Lowered
+~
+Sender  Astaelan~
+Date    Thu Jan 30 23:08:49 2003~
+Stamp   1043996929
+To      all~
+Subject Store Fixes~
+Text
+If you need to have your store fixed, please send me a note, and I will
+try to fix it as soon as I can.  However, I do require that you be online to
+confirm it is fixed properly.  This includes stores which were removed,
+corrupted, or botched in a rename or reownership.  
+
+That is all for now,
+=@=Astaelan=@=
+~
+Sender  Allen~
+Date    Sat Feb 15 01:51:03 2003~
+Stamp   1045302663
+To      all~
+Subject Whitebridge~
+Text
+You will find a few mob's a bit more active when you are near them.
+Add's a bit of life to the place : )
+~
+Sender  Allen~
+Date    Sat Feb 15 02:02:57 2003~
+Stamp   1045303377
+To      imm~
+Subject whitebridge stuff~
+Text
+I didnt change any mobs or objects or room's.  Just added a few progs to mobs and such.
+~
+Sender  Diem~
+Date    Wed Feb 19 16:01:21 2003~
+Stamp   1045699281
+To      imm~
+Subject RE: Cover + Immortals~
+Text
+
+Immortals can now see through Cover
+~
+Sender  Diem~
+Date    Thu Feb 20 10:13:56 2003~
+Stamp   1045764836
+To      all~
+Subject Relax~
+Text
+
+Fixed for next copyover.
+~
+Sender  Diem~
+Date    Thu Feb 20 10:39:42 2003~
+Stamp   1045766382
+To      all~
+Subject Lootability~
+Text
+
+Will be shown in score next copyover.
+~
+Sender  Diem~
+Date    Thu Feb 20 10:44:40 2003~
+Stamp   1045766680
+To      all~
+Subject Descriptions~
+Text
+Lengthened as of next copyover.
+~
+Sender  Allen~
+Date    Fri Feb 21 14:14:15 2003~
+Stamp   1045865655
+To      imm~
+Subject Pella - Removed her random sigh~
+Text
+I'll make it not random latter.  Random progs seem to help contribute to
+two progs running at the same time.  
+~
+Sender  Diem~
+Date    Sun Mar  2 20:57:55 2003~
+Stamp   1046667475
+To      all~
+Subject Cleanse Bug~
+Text
+
+Eliminated
+no longer 90% chance to cleanse sanctuary.
+~
+Sender  Lynn~
+Date    Thu Mar  6 17:34:01 2003~
+Stamp   1047000841
+To      all~
+Subject Lynn's one and only area~
+Text
+
+Made a couple changes, put a legend mob in 
+there somewhere, but lost the directions (not
+to mention the keys).  Woe is me, I'm just to 
+busy lately to look for that stuff, so I hope
+the search is at least entertaining for y'all.
+
+(snicker)
+Lynn
+~
+Sender  Lynn~
+Date    Thu Mar  6 17:35:31 2003~
+Stamp   1047000931
+To      coulin ~
+Subject blah blah~
+Text
+~
+Sender  Allen~
+Date    Sun Mar  9 10:08:22 2003~
+Stamp   1047233302
+To      all~
+Subject Lugard quest angery guard sword.~
+Text
+Removed quest and nobreak flags.  Lowered damage to legal limits. 
+Hit/Dam lowered.  If you have a sword that still has an avedam of 75 or
+more, this sword is illegal.  If the sword has a hit / dam of 8 or greater,
+it's illegal.  I will refund a new sword and a small ammount of qps for the
+old swords.  This will go for about 5 days.  After that, anyone still
+holding a illegal sword will be delt with as holdeing back illegal eq is
+bad.  This only applies to the sword the angry guard in lugard carried.  
+~
+Sender  Allen~
+Date    Fri Mar 14 04:45:54 2003~
+Stamp   1047645954
+To      all~
+Subject Gleeman area~
+Text
+Added a few progs here.  Hope it makes it a bit more... real like.
+~
+Sender  Allen~
+Date    Fri Mar 21 23:03:14 2003~
+Stamp   1048312994
+To      all~
+Subject Mprogs~
+Text
+Removed a few till the code can be updated.
+~
+Sender  Diem~
+Date    Sun Mar 23 16:16:15 2003~
+Stamp   1048461375
+To      all~
+Subject RE: Recent Crashes~
+Text
+
+Cronjob (automatic restart) for the start script of the mud has been created.
+
+This runs every 5 minutes, so if the mud is down, give it a few minutes
+and it will be back up regardless if I am here or not.
+
+Diem
+~
+Sender  Diem~
+Date    Wed Mar 26 02:52:04 2003~
+Stamp   1048672324
+To      all~
+Subject Modifications~
+Text
+
+Fixed directory paths from Crodo to Omnicron.
+
+Possibly fixed mprog errors.
+~
+Sender  Diem~
+Date    Wed Mar 26 14:47:55 2003~
+Stamp   1048715275
+To      all~
+Subject Staff Email Addresses~
+Text
+
+staff-member-name@shadowsoftime.com  will now send to that specific staff members email.
+
+webmaster@shadowsoftime.com for all webpage issues ideas etc.
+info@shadowsoftime.com for all information you need about the game.
+admin@shadowsoftime.com works
+support@shadowsoftime.com works
+
+All those who donated to the new server please note me with the specifc name you want as well as
+your current email address and I will set it up to forward for you.
+~
+Sender  Diem~
+Date    Wed Mar 26 16:02:10 2003~
+Stamp   1048719730
+To      all~
+Subject Modified webpage paths in the hardcoded program.~
+Text
+~
+Sender  Allen~
+Date    Thu Apr  3 17:42:15 2003~
+Stamp   1049416935
+To      all~
+Subject New Quest~
+Text
+Look around Dhoom for the mob.
+Be warned, it's hard.
+Have fun : )
+~

@@ -1,0 +1,1389 @@
+#AREADATA
+Name Tel'aran'rhiod~
+Builders Hornsby~
+VNUMs 22951 23999
+Credits `4[`7 Hard `4]`7 Thom      Tel'aran'rhiod~
+Security 10
+Flags DEF
+Version 4
+End
+
+
+
+#MOBILES
+#22951
+Dreamwalker~
+`*Dream Walker~
+An Aiel woman is here, guideing you through Tel'aran'rhiod.
+~
+~
+aiel~
+0 0
+ABa 256 64 0 0 -1  0 0
+150 200 7000d1+0 0d0+0 2d300+50 slice
+-150 -150 -150 -170
+FK ABK HIJ 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+#22955
+Eagle~
+a eagle~
+A soaring eagle fades's into view.
+~
+~
+song bird~
+0 0
+ABUWZ 256 1024 0 0 -1  0 0
+150 200 9000d1+50 0d0+0 2d200+150 peck
+-150 -150 -150 -110
+FH ABK HIJ 0
+stand stand none 1
+AGW ACDEFHKP large unknown
+M GREET 22955 50~
+#22956
+A Guideing wolf~
+A guideing wolf~
+A wolf is here, waiting to guide you along your path.
+~
+~
+wolf~
+0 0
+A 0 0 0 0 -1  1000 0
+150 0 200d10+150 0d0+0 200d10+150 claw
+-150 -150 -150 -200
+FH CHIJKab EFG 0
+stand stand none 1
+AGV ACDEFJKQV medium unknown
+#22957
+a dove~
+A Peaceful Dove~
+A White Dove turns to look at you.
+~
+Turning to look at you, it eye's meet you'rs.  A feeling of overwhelming 
+peace flows through you as you stare in to it's gaze.
+~
+song bird~
+0 0
+A 256 64 0 0 -1  1000 0
+100 800 2500d1+0 0d0+0 2d200+200 peck
+-20 -20 -20 -100
+FH CHIJK FG b
+stand stand none 100
+AGW ACDEFHKP medium unknown
+M ACT 22957 30~
+#23012
+Nightmare~
+`*A disconnected Nightmare~
+`*An evil presance is here.
+~
+~
+unique~
+0 0
+ART 32768 2128 1024 32768 -1  -1000 0
+120 200 5000d1+0 2000d1+2000 2d250+150 slice
+-120 -120 -120 -140
+FHK EFGK CHI Jab
+stand stand none 1
+0 0 medium unknown
+#23025
+dark tome~
+The Dark Tome~
+Surrounded by clutter on the desk, a dark tome rest's here, it's pages open.
+~
+Your eyes examine the tome now before you.  As you do, you start to feel
+a bit of uneasyness.  Shruging it off you look in to it's open pages and are
+drawn to it's complex and elegand scripting and drawings.  You cant help but
+to admire the book as you read more and more.  As you turn the pages, the
+tome's spine creeks as if in portest of your inquisitive eyes, prying at
+it's words which it has held secret for so many years.  As you read the
+words start to move, twist and writh as if in an attempt to escape your eyes
+but they are trapped in the parchment as your eyes are trapped in to them. 
+Your hands tremble out of fear and excitement.  These words, although
+themselves simple, have a depth of meaning almost too great to comprehend. 
+Your eyes stare greedily at the pages, your mind struggling to take in this
+new, yet forgotten and forbidden knowlage.  With out conscious violation,
+your hand moves to turn the thick, musty page and your eyes once again
+flicker at the turning and twisting words before you.  The book now seems to
+resist you, the words swimming on the pages, changing shape, position, even
+language.  But your lust for knowlage has you compelled to continue reading
+even as teh pages start to rustle in the still air adn teh covers tremble
+beneath your finger tips.  Illusion's of great evil fill your mind, trying
+to distract you from your deed that which you sent out to do.  Standing at
+the desk, reading, flows of pure evil pour form the book and entering you
+through your fingers and hand's as you brace yourself on the desk.  It's
+pure evil flows start to taint your mind, clouding your vision as it flows
+through you, twisting your very insides, yet leaveing your outer self
+untouched.  Turning to the next page, the tome wields blank pages.  It's
+secrets lost, until another that is strong enough to pass it's test arrives.
+~
+unique~
+0 0
+ABa 0 0 0 0 -1  0 0
+250 0 100d100+100 0d0+0 0d0+0 none
+0 0 0 0
+0 CDEG 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#22951
+small ter'angreal band~
+a small ter'angreal band~
+A band of bright white stone lays on the ground here, glowing with intensity.~
+unknown~
+armor ABGK AM
+0
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+13 25
+A
+19 7
+A
+18 7
+A
+20 -10
+ T 50 A small ter'angreal band slowly dissolves into powder and falls away.~
+#23025
+An Ancient Desk~
+an ancient desk~
+Dominating the room is an elaborate hard wood desk, covered with all manner of arcane objects.~
+unknown~
+furniture 0 0
+0
+A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef D 0 0
+0 0 0 P
+ T 0 none~
+#23026
+test plaything what ever~
+dedrics damn bow~
+A bow of stone lays here~
+stone~
+weapon AB AN
+E
+bow 1 10 none 0
+1 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#22951
+A Blur in the Pattern~
+Everything around you seems to move at once, causing your vision to smear
+as you walk.  After every step, you notice that you are more than 10 spans
+from where you last stood.  The weather here is neither hot nor cold, and
+you feel no wind as you move.  Nothing can beard but the sound of your own
+footsteps as you stroll along here in the dream world.  Standing still, the
+trees do not waver and a river can be seen in the distance, flowing at an
+unbelievably slow rate.
+~
+0 67118080 0
+D0
+~
+~
+0 0 22952
+S
+#22952
+At the River~
+Standing on the bank of the river you look out around, seeing the world
+around you.  Then you look down at the water.  It seem's soo peacefull 
+and calm, inviteing you to it.  It flows with a fluidness, slow and 
+even. Reaching down to it the water seem's to flow around your hand,
+touching it very little.  When you pull your hand back out, what little
+watter is on your hand, slowly fade's away within a glimmer.
+~
+0 0 2
+D0
+~
+~
+0 0 22953
+D2
+~
+~
+0 0 22951
+S
+#22953
+On The Flowing River~
+You start to walk in the river, your arm's spread out, carefree, at peace, free.
+You dont feel anything, not cold, not hot, not even warm.  Your leg's are not wet
+as you continue to venture fourth into the river.  You start to feel yourself become
+lighter, the rock beneath your feet slipping away under you.  You open your eye's to
+see that you are no longer walking in the river, rather on it.
+~
+0 0 2
+D2
+~
+~
+0 0 22952
+D3
+~
+~
+0 0 22954
+S
+#22954
+Of the River~
+Looking down at the river below your feet you start to feel yourself rise above it
+then, tilting to where you are now looking forward at the river.  You are floating
+high above the river, watching it slowly flow beneath you and looking at the rest
+fo the world. The tree's, the field, the grass.  Everything is at peace, serene.
+~
+0 0 0
+D1
+~
+~
+0 0 22953
+D3
+~
+~
+0 0 22955
+S
+#22955
+Shimmer~
+Strightening yourself now you float back down to the river, gently slowing as 
+your feet just barley touching the top of the water. As you look up you see 
+night divided by day with a fuzzy line.  On one side, crystal blue sky, and the
+other is covered with clouds as they slowly blow in, then dissapear, leaveing 
+blue sky once again.
+~
+0 0 4
+D1
+~
+~
+0 0 22954
+D2
+~
+~
+0 0 22956
+S
+#22956
+Glimmer~
+Dreams of different people fade in and out of view, some mixing with others, overlapping
+one another. There is an overwhelming sence of chaos tied with a feeling of peace.
+Figures and shapes fade in and out, some staying longer than others: people, animals,
+places of all types. One dream may stay longer than others, and at times two may overlap
+and connect if they touch one another long enough, but then fade away as more take their place.
+~
+0 4 4
+D0
+~
+~
+0 0 22955
+D3
+~
+~
+0 0 22957
+S
+#22957
+Sundown~
+The sky is hazy with large heavy clouds floating gently in the velvet
+blue sky. Rays of violet, blue, orange and red light peirce through 
+small openings in the clouds giveing a heavenly look to them. From
+time to time, a cloud will light up with lightning followed by the 
+low rumbleing of distant thunder.  The air feels muggy and humid, yet
+cool with a slight breeze. Looking atop the trees, there is a wash of 
+pastel colors, orange mixed wiht red, as the sun slowly sets in the 
+west.
+ 
+~
+0 67109892 0
+D0
+~
+~
+0 0 22958
+D1
+~
+~
+0 0 22956
+S
+#22958
+The Wide Desert~
+The sky is clear with the hot sun above. All around is a brown earth 
+that is littered with life that has adapted to the harsh contitions 
+in which they live and prosper. The ground is cracked from weeks 
+of going without rain. Catcus' and grasses of all types abound here 
+provideing shelter for the few animals that call this place home.
+~
+0 4 10
+D1
+~
+~
+0 0 22959
+D2
+~
+~
+0 0 22957
+S
+#22959
+The Badlands.~
+Rolling hills made of a thin, dry dirt, almost a dust, is everywhere 
+here.  Tumble weed rolls in the gentle dry breeze as Cocklebur's bake
+in the sun. Dried Cottenwood branches lay out in the open striped of 
+their bark as stinging needle grass with it stiff blades catch the 
+wind and move slightly with the wind.
+ 
+~
+0 4 10
+D0
+~
+~
+0 0 22960
+D3
+~
+~
+0 0 22958
+S
+#22960
+Fields of Green~
+Here is a field of perfect grass with long, soft blades as tall
+as a person.  Thick as a tight night rug, it sway's with perfect
+uniformity with the slightest breeze giveing an awsome feeling
+and visual of the one thing we all take for granted, air. The 
+grass covers small rolling hill's like a blinket laid over them
+by some, unseen force.  
+~
+0 4 2
+D1
+~
+~
+0 0 22961
+D2
+~
+~
+0 0 22959
+S
+#22961
+~
+~
+0 0 0
+D0
+~
+~
+0 0 22963
+D1
+~
+~
+0 0 22962
+D3
+~
+~
+0 0 22960
+S
+#22962
+~
+~
+0 0 0
+D3
+~
+~
+0 0 22961
+D4
+~
+~
+0 0 22966
+S
+#22963
+~
+~
+0 0 0
+D0
+~
+~
+0 0 22965
+D2
+~
+~
+0 0 22961
+S
+#22965
+~
+~
+0 0 0
+D2
+~
+~
+0 0 22963
+S
+#22966
+~
+~
+0 0 0
+D4
+~
+~
+0 0 22967
+D5
+~
+~
+0 0 22962
+S
+#22967
+~
+~
+0 0 0
+D4
+~
+~
+0 0 22968
+D5
+~
+~
+0 0 22966
+S
+#22968
+~
+~
+0 0 0
+D0
+~
+~
+0 0 22969
+D5
+~
+~
+0 0 22967
+S
+#22969
+~
+~
+0 0 0
+D2
+~
+~
+0 0 22968
+D4
+~
+~
+0 0 22970
+S
+#22970
+Walking on Air~
+~
+0 0 0
+D5
+~
+~
+0 0 22969
+S
+#23000
+Entrance to the White Tower~
+The white marble doors of the White Tower are open and inviting all who
+arrive to enter. These doors are so large that 10 men walking abreast would
+be able to enter. There is a large hallway running East and West and another
+hallway leading to the North.
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 23003
+D2
+~
+~
+0 0 23001
+S
+#23001
+Before the White Tower~
+From here the White Tower extends far beyond your sight into the sky
+above.  A path leads from here around the White Tower into a small plaza
+which seems to be the home of many flowers and admirers.  The plaza is
+probably part of the famous tower grounds where the Warders train.
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 23000
+D2
+~
+~
+0 0 23002
+S
+#23002
+A Small Path~
+The White Tower looms to the north, rising over eighty spans into the
+sky.  Trees and bushes, both short and tall, are sprinkled around the path
+and throughout the Tower grounds.  The path is covered by pieces of small
+white gravel and bordered by white bricks.  White steps, at least a pace
+deep and slightly arched in the middle, lead up to the White Tower.
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 23001
+S
+#23003
+Central Hall in the White Tower~
+This hall runs straight through the middlel of the Tower. The walls and
+even the floors are made of shining white marble. Serval decorations line
+the walls such as tapestries and paitings. The hall continues to run to the
+North and South.
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 23004
+D2
+~
+~
+0 0 23000
+S
+#23004
+Central Hall in the White Tower~
+This hall runs straight through the middlel of the Tower. The walls and
+even the floors are made of shining white marble. Serval decorations line
+the walls such as tapestries and paitings. The hall continues to run to the
+North and South.
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 23005
+D2
+~
+~
+0 0 23003
+S
+#23005
+The Grand Stair Case~
+Here is the center of the Tower itself.  A large staircase acends up as far
+as you can see and as far down as you can fathom. From here you can go down to 
+the lower levels of the Tower, or up to the higher floors.
+ 
+There are also hallways leading North, South, East and West.
+~
+0 0 0
+D0
+~
+~
+0 0 23006
+D2
+~
+~
+0 0 23004
+S
+#23006
+Disorientation~
+Walking past the grand staircase you hear something and look back.  
+Hearing nothing, you turn around and the hall that was once before 
+you is gone.  You are no longer in the White Tower, rather, you have
+traveled to another place.  The air is cool, with and damp. Looking
+around you, you see a barren land.
+ 
+~
+0 4 0
+S
+#23007
+Distant Sounds~
+Walking along a sound catches your ear's.  It's a lite rumbleing
+sound, far off in the distance.  You look around and do not see
+any clouds, and your vision is from horizen to horizen in all
+directions.
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 23008
+S
+#23008
+A Low Rumbling~
+Another, louder rumble.  You are gettin closer to what ever is making
+the sounds. Cautously, you look around for dust or some other sign's
+of what could be makeing the sound's, yet you find nothing.
+ 
+The path continues to the east.
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 23009
+D2
+~
+~
+0 0 23007
+S
+#23009
+Near the Precipice~
+The sounds grow even louder as a gust of cool air blows past you. What 
+ever is making these sounds is defanetly up ahead. It sounds almost 
+like a deep, rolling thunder.  But you dont see any clouds around.
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 23010
+D3
+~
+~
+0 0 23008
+S
+#23010
+Near the Precipice~
+The air grows cooler and strong with the scent of water the further you go down
+the path. For a while there is silence, but then, another rumble of what you are
+sure now is thunder.  There can be no mistake of that.  But, still you see
+no clouds.
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 23011
+D2
+~
+~
+0 0 23009
+S
+#23011
+A Rocky Encline~
+The earth seems to sort of slop up slightly, almost like it was pulled up by some,
+force. There is another gust of cool wind, though this time colder and a bit stronger.
+As you continue on, yoy can start to see the begining of a vast void in the earth.
+ 
+~
+0 0 0
+D2
+~
+~
+0 0 23010
+D3
+~
+~
+0 0 23012
+S
+#23012
+Standing Before A Precipice~
+You are now at a ledge, standing carefully in awe of what your eyes see before you. As you
+look ahead, you find what was making the thunder and the gusts of wind. There is a strong
+storm doing the best that it can below your feet. As you walk to the ledge, small rocks the 
+size of your fist slip off the edge, disappearing before your eyes into the dark storm clouds
+below. Then it happens, a large stroke of lightning spreads and forks over the entire storm
+clout, stretching out and splitting over and over again.  It then disappears as quickly as
+it came, but then a few seconds later.. a rolling thunder echoes up and over the walls of
+the precipice toward you, bringing with it a cold gust of air. As you look with wonder, the 
+storm spreads over a vast plane from horizon to horizon, as far as the eye can see.
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 23013
+D1
+~
+~
+0 0 23011
+S
+#23013
+Over the Precipice~
+~
+0 524288 9
+D2
+~
+~
+0 0 23012
+S
+#23025
+Within The Dark Chamber~
+These ancient doors are heavy and have not been opened for some time, so
+they open with a sullen grinding.  In the silence that follows you enter the
+dim chamber.  Held within the walls are lined with shelves holding books of
+different size's and color.  Scrolls and parchments are stuffed where ever
+they will fit and laid on the top's of the shelves.  Dominating the room is
+a heavy desk, elaborate and covered with arcane stuff.  It's havey and
+blackened with age.  It's dense wood permeated with the sence of heaviness
+and age has been pitted and scarred, yet one can still sence some of the
+arcane deeds performed on it.  In the center of the desk, sourrounded by
+clutter, yet, untouched by it, is a dark tome.  
+~
+0 1028 0
+S
+#23201
+allen's quest area~
+~
+0 4 0
+S
+#23964
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 406855684 3
+D2
+~
+~
+0 0 3608
+S
+#23965
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 23966
+D3
+~
+~
+0 0 19958
+S
+#23966
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23968
+D3
+~
+~
+0 0 23965
+S
+#23968
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23969
+D2
+~
+~
+0 0 23966
+S
+#23969
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 23970
+D2
+~
+~
+0 0 23968
+S
+#23970
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 23971
+D3
+~
+~
+0 0 23969
+S
+#23971
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D2
+~
+~
+0 0 23972
+D3
+~
+~
+0 0 23970
+S
+#23972
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23971
+D3
+~
+~
+0 0 23973
+S
+#23973
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 23972
+D3
+~
+~
+0 0 23974
+S
+#23974
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 23973
+D2
+~
+~
+0 0 23975
+S
+#23975
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23974
+D2
+~
+~
+0 0 23993
+D3
+~
+~
+0 0 23976
+S
+#23976
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 23975
+D2
+~
+~
+0 0 23977
+S
+#23977
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23976
+D2
+~
+~
+0 0 23978
+S
+#23978
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23977
+D2
+~
+~
+0 0 23979
+S
+#23979
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23978
+D1
+~
+~
+0 0 23980
+S
+#23980
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D3
+~
+~
+0 0 23979
+S
+#23981
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 23982
+D3
+~
+~
+0 0 19974
+S
+#23982
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23983
+D3
+~
+~
+0 0 23981
+S
+#23983
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 23984
+D2
+~
+~
+0 0 23982
+S
+#23984
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23985
+D3
+~
+~
+0 0 23983
+S
+#23985
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23986
+D2
+~
+~
+0 0 23984
+S
+#23986
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D2
+~
+~
+0 0 23985
+D3
+~
+~
+0 0 23987
+S
+#23987
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23988
+D1
+~
+~
+0 0 23986
+D2
+~
+~
+0 0 23990
+D3
+~
+~
+0 0 23999
+S
+#23988
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D2
+~
+~
+0 0 23987
+D3
+~
+~
+0 0 23989
+S
+#23989
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23964
+D1
+~
+~
+0 0 23988
+S
+#23990
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23987
+D2
+~
+~
+0 0 23991
+S
+#23991
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23990
+D3
+~
+~
+0 0 23992
+S
+#23992
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 23991
+S
+#23993
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23975
+D2
+~
+~
+0 0 23994
+S
+#23994
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23993
+D2
+~
+~
+0 0 23995
+S
+#23995
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D0
+~
+~
+0 0 23994
+D1
+~
+~
+0 0 23996
+S
+#23996
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 23997
+D3
+~
+~
+0 0 23995
+S
+#23997
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D3
+~
+~
+0 0 23996
+S
+#23998
+The Westren Woods~
+The fog and mist roll slowly, following no set pattern or path.  The air
+is as the air of the night, cool, heavy with moisture.  The trees are all
+bare, devoid of leaves.  Twigs snap under the weight of your feet as they
+press down on them while you walk.  The sense that these woods have been
+dead for some time prevales and seems quiet apparent.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 19973
+S
+#23999
+Path to the Town~
+Ahead can be seen the old covered bridge of Sleepy Hallow.  The fog seems
+to get thiner ahead towards the bridge.  
+~
+0 138412032 3
+D1
+~
+~
+0 0 23987
+S
+#0
+
+
+
+#SPECIALS
+M 22951 spec_questmaster
+M 23025 spec_questmaster
+S
+
+
+
+#RESETS
+M 0 22951 1 22951 1 100 Load `*Dream Walker
+M 0 22955 100 22955 1 100 Load a eagle
+M 0 23025 1 23025 1 100 Load The Dark Tome
+O 0 23025 0 23025 0 100 An ancient desk loaded to Within The Dark Chamber
+M 0 3603 200 23970 200 100 Load imp
+M 0 3603 10 23990 10 100 Load imp
+M 0 3613 1 23997 1 100 Load `*Draghkar
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#22955
+emote fades from view as quickly as it appeared.
+mob purge $i
+done
+~
+#22957
+emote fades slowly from view, leaveing an impression and then, nothing.
+mob purge $i
+done
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#22955
+~
+#0
+
+#$

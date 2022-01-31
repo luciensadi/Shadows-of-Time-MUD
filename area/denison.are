@@ -1,0 +1,390 @@
+#AREADATA
+Name The Mean Streets of Denison~
+Builders None~
+VNUMs 11546 11599
+Credits FEAFESTA~
+Security 10
+Flags CF
+Version 4
+End
+
+
+
+#MOBILES
+#11546
+a giant waterbug~
+a giant `^w`6ater`^b`6ug`7~
+A giant `^w`6ater`^b`6ug`7 is here, munching on some spilled b33r, and your arm.
+~
+~
+unique~
+0 0
+ABFT 256 2128 0 0 -1  0 0
+400 400 19000d1+1000 0d0+0 10d1+390 bite
+-50 -50 -50 -50
+FK 0 0 H
+stand stand none 0
+0 0 medium unknown
+#11547
+a first american employee~
+a `!First `&American `$Bank`7 employee~
+A bank employee is here, wondering why you are drunk and lying down in front of the ATM entrance.
+~
+~
+unique~
+0 0
+ABFT 256 2112 128 0 -1  0 0
+500 500 29000d1+1000 0d0+0 10d1+490 punch
+-100 -100 -100 -100
+CFKU 0 0 K
+stand stand male  0
+0 0 medium unknown
+#11548
+random cop~
+a random cop~
+A random cop is creeping by, attempting to bust you because he has a shitty life.
+~
+~
+unique~
+0 0
+ABFT 256 2112 128 0 -1  0 0
+600 600 39000d1+1000 0d0+0 10d1+590 blast
+-100 -100 -100 -100
+CFK 0 0 0
+stand stand male  0
+0 0 medium unknown
+#11549
+officer matthews~
+Officer D.H. Matthews~
+Officer Matthews is here, just like he is EVERYTIME YOU GET IN TROUBLE.
+~
+~
+unique~
+0 0
+ABFTe 256 2112 0 32768 -1  0 0
+600 650 54000d1+1000 19000d1+1000 10d1+650 blast
+-150 -150 -150 -150
+CFHKN 0 0 0
+stand stand male  0
+0 0 medium unknown
+#11550
+Sarge~
+`8Sarge`7~
+Sarge is here, looking everybit the asshole.
+~
+~
+unique~
+0 0
+ABFTe 256 2112 0 32768 -1  0 0
+600 650 54000d1+1000 19000d1+1000 10d1+650 blast
+-150 -150 -150 -150
+CFHKN 0 0 0
+stand stand male  0
+0 0 medium unknown
+#11551
+officer priggy~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+ABFTe 0 0 0 0 -1  0 0
+700 0 69000d1+1000 0d0+0 10d1+700 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#11546
+the rock~
+the old skool `#r`3o`#c`3k`7 of infinite wisdom~
+A normal looking rock is here, calling you to rest on it.~
+unknown~
+furniture A 0
+0
+ABCD FHJKPQ EHK DGH DGH
+75 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#11546
+The Green Room - Woodard~
+Here is the house that spawned the infamous b33r kr3w 4 long years ago -
+the Green Room.  Rumor has it, the house is painted green to let la migra
+know that they do in fact have a green card.  Several Keystone Light and
+Coors Light cans litter the front yard, especially around a basketball goal,
+their only source of exercise besides P.E.
+~
+0 0 0
+D2
+~
+~
+0 0 11547
+S
+#11547
+The Median, and the Rock~
+Not far from the Green Room is the median of Woodard.  At first glance,
+it is nothing special.  But upon further examination, you notice a large
+rock, perfect for resting on.  Many a philosophical resolutions have been
+met while resting upon this very rock.  Have a sit, see if you discover
+something.  
+~
+0 0 0
+D0
+~
+~
+0 0 11546
+D2
+~
+~
+0 0 11548
+S
+#11548
+The Bank~
+You have now entered the bank drive-thru.  Although it doesn't look very
+special, the pavement is actually incredibly soothing, especially under the
+influence of alcohol.  From here you can see Main Street, and watch all the
+fucken haters drive by.  
+~
+0 0 0
+D0
+~
+~
+0 0 11547
+D1
+~
+~
+0 0 11553
+D3
+~
+~
+0 0 11549
+S
+#11549
+Main Street, beyatch.~
+You are now cruising down Main Street, where all the premier shit
+happens.  Although at the moment it looks fucken dead, you are sure that at
+one period in time, it was bumpin with activity.  
+~
+0 0 0
+D1
+~
+~
+0 0 11548
+D3
+~
+~
+0 0 11550
+S
+#11550
+Main Street~
+As you continue further down Main Street, you encounter a Pizza Hut. 
+Nothing special ever really happens here, except that people order pizza. 
+Although one time we waited 2 fucking hours before finally calling them back
+to hear "sorry we're out of dough."  Thanks dicks.  
+~
+0 0 0
+D1
+~
+~
+0 0 11549
+D3
+~
+~
+0 0 11551
+S
+#11551
+Main Street~
+More Main Street, yada yada.  Look out for the dumb fucken kids that
+enjoy riding their bikes in front of your car.  One of these days..  
+~
+0 0 0
+D1
+~
+~
+0 0 11550
+D3
+~
+~
+0 0 11552
+S
+#11552
+[b33r kr3w] Headquarters~
+Aah, you've reached the castle.  As you peer at this beauty, this
+engineering marvel, you can only wonder what goes on inside.  You can only
+wonder because if you come to the door you won't fucking get in. 
+Occassionally if monitored long enough you can see all members of the b33r
+kr3w entering and exiting the building, usually carrying their livelihood,
+various packages of Coors Light.  Sometimes they exit the house only to
+enter the garage, and usually come out looking pretty fucked up.  
+~
+0 0 0
+D1
+~
+~
+0 0 11551
+S
+#11553
+Main Street~
+Various shops line the sides of Main Street as you venture towards your
+final destination - the Denison Police Department.  DOWN WITH THE FUCKEN
+BITCHEZ.  Erm.  
+~
+0 0 0
+D1
+~
+~
+0 0 11554
+D3
+~
+~
+0 0 11548
+S
+#11554
+Main Street~
+Various shops line the sides of Main Street as you venture towards your
+final destination - the Denison Police Department.  DOWN WITH THE FUCKEN
+BITCHEZ.  Erm.  
+~
+0 0 0
+D1
+~
+~
+0 0 11555
+D3
+~
+~
+0 0 11553
+S
+#11555
+Main Street~
+Various shops line the sides of Main Street as you venture towards your
+final destination - the Denison Police Department.  DOWN WITH THE FUCKEN
+BITCHEZ.  Erm.  
+~
+0 0 0
+D1
+~
+~
+0 0 11556
+D3
+~
+~
+0 0 11554
+S
+#11556
+Nearing the Stronghold~
+As you come closer to the main spawning area of the DPD, a familiar
+stench of day-old-donuts and coffee fills your nose.  Cops are coming and
+going from the building, it really makes you want to just kill them all.  
+~
+0 0 0
+D1
+~
+~
+0 0 11557
+D3
+~
+~
+0 0 11555
+S
+#11557
+The Denison Police Department~
+Here it is, the entrance to Hell. Go for it cowboys.
+~
+0 0 0
+D2
+~
+~
+0 0 11558
+D3
+~
+~
+0 0 11556
+S
+#11558
+The Book-In Room~
+Here's the room where they take your shit from you and get your prints
+and mugshot.  Goddammit.  
+~
+0 0 0
+D0
+~
+~
+0 0 11557
+D2
+~
+~
+0 0 11559
+S
+#11559
+The Cell of Insanity~
+You now can feel yourself slowly going insane.  This place is disgusting,
+and there is no mental stimulation.  However, luckily for you Officer Priggy
+is here just waiting for an ass-kicking.  
+~
+0 0 0
+D0
+~
+~
+0 0 11558
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11546 8 11546 8 100 Load a giant `^w`6ater`^b`6ug`7
+M 0 11546 8 11546 8 100 Load a giant `^w`6ater`^b`6ug`7
+M 0 11546 8 11546 8 100 Load a giant `^w`6ater`^b`6ug`7
+M 0 11546 8 11546 8 100 Load a giant `^w`6ater`^b`6ug`7
+M 0 11546 8 11546 8 100 Load a giant `^w`6ater`^b`6ug`7
+M 0 11546 8 11546 8 100 Load a giant `^w`6ater`^b`6ug`7
+M 0 11546 8 11546 8 100 Load a giant `^w`6ater`^b`6ug`7
+M 0 11546 8 11546 8 100 Load a giant `^w`6ater`^b`6ug`7
+O 0 11546 0 11547 0 100 The old skool `#r`3o`#c`3k`7 of infinite wisdom loaded to The Median, and the Rock
+M 0 11547 5 11548 5 100 Load a `!First `&American `$Bank`7 employee
+M 0 11547 5 11548 5 100 Load a `!First `&American `$Bank`7 employee
+M 0 11547 5 11548 5 100 Load a `!First `&American `$Bank`7 employee
+M 0 11548 5 11552 5 100 Load a random cop
+M 0 11548 5 11552 5 100 Load a random cop
+M 0 11548 5 11552 5 100 Load a random cop
+M 0 11549 1 11557 1 100 Load Officer D.H. Matthews
+M 0 11550 1 11558 1 100 Load `8Sarge`7
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#11548
+mob delay 5
+mob echo `!**`7==`$**`7
+mob echo `!w`700`$p w`700`!p`7
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,2182 @@
+#AREADATA
+Name Dragonmount~
+Builders Kane~
+VNUMs 16503 16603
+Credits (null)~
+Security 2
+Flags CD
+Version 4
+End
+
+
+
+#MOBILES
+#16503
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+60 0 0d0+0 0d0+0 0d0+0 none
+20 20 20 20
+0 0 0 0
+stand stand none 20
+0 0 medium unknown
+#16590
+elite dha'vor trolloc guard~
+An Elite Dha'vor Trolloc Gaurd~
+An Elite Dha'vor Trolloc Gaurd stands and he will not be moved.
+~
+~
+unique~
+1 23
+AB 0 64 0 2 -1  0 0
+100 52 3500d1+1 0d0+0 3d3+1 frbite
+32 32 32 32
+0 0 E GIb
+stand stand none 50
+M 0 medium unknown
+#16591
+Dha'vor trolloc warrior~
+a Dha'vor Trolloc Warrior~
+A dha'vor trolloc warrior is preparing for battle.
+~
+~
+unique~
+1 23
+AB 0 0 0 0 -1  -500 0
+85 50 3400d1+1 0d0+0 3d2+1 thwack
+30 30 30 30
+C 0 0 CF
+stand stand none 42
+M 0 medium unknown
+#16592
+Dha'vor Trolloc~
+A Dha'vor Trolloc~
+A dha'vor trolloc is here in the snow.
+~
+~
+unique~
+1 23
+AB 0 0 0 0 -1  -500 0
+75 50 3000d1+1 0d0+0 3d2+1 smash
+28 28 28 28
+E I 0 b
+stand stand none 40
+M 0 medium unknown
+#16595
+Elusive Creature~
+An `4E`9lusive Creature~
+A creature here seems to elude your vision.
+~
+~
+unique~
+0 0
+AB 256 0 0 0 -1  1000 0
+150 60 4000d1+1 0d0+0 40d4+1 frbite
+-30 -30 -30 -30
+F Ab E GI
+stand stand none 200
+GH 0 medium unknown
+#16598
+dah'vor myrrddraal captain~
+a Dha'vor Myrrddraal Captain~
+A dha'vor myrrddraal captain is here lurking around the ranks.
+~
+~
+unique~
+0 0
+ABT 0 0 0 0 -1  0 0
+150 51 4000d1+1 0d0+0 3d4+1 claw
+-10 -10 -10 -10
+N 0 0 H
+stand stand male  20
+0 0 medium unknown
+#16599
+frozen ice dragon~
+a Frozen `4I`^c`4e`9-Dragon~
+A blue dragon sits here as if he was frozen in time.
+~
+~
+unique~
+0 0
+ABGRT 336 64 0 2 -1  0 0
+250 65 4000d1+1 6000d2+1 40d2+1 frbite
+-50 -50 -50 -50
+K AB I H
+stand stand none 0
+Z 0 medium unknown
+#16600
+statue of an ancient dragon~
+A Statue of an `1A`9ncient Dragon.~
+A Statue of an `1A`9ncient Dragon stands here towering above you.
+~
+~
+unique~
+0 0
+ABKab 0 0 0 0 -1  0 0
+160 1000 20000d2+1 0d0+0 3000d24+1 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#16601
+black carrion bird~
+black carrion bird~
+A carrion bird circles around you as you pass by.
+~
+~
+unique~
+0 0
+ABG 0 0 0 0 -1  -1000 0
+60 30 2000d1+1 0d0+0 4d2+1 pierce
+-30 -30 -30 -30
+K A A 0
+stand stand none 0
+0 0 medium unknown
+#16602
+Unseen Creature~
+An Unseen Creature~
+A creature is here lurking about in the shadows.
+~
+~
+unique~
+0 0
+ABT 256 0 0 0 -1  0 0
+150 60 4000d1+1 0d0+0 40d4+1 flbite
+-30 -30 -30 -30
+0 0 E C
+stand stand none 200
+GH 0 medium unknown
+#16603
+trolloc guard~
+Trolloc Guard~
+The Trolloc Guard blocks your route up the mountain.
+~
+~
+unique~
+0 0
+ABFT 0 0 0 0 -1  -500 0
+75 45 2000d1+2 2228d-25537+2 23d1+1 divine
+-20 -20 -20 -20
+0 0 0 FG
+stand stand male  2
+E 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#16590
+frozen key~
+a frozen key~
+A frozen key lies here on the ground.~
+key~
+key 0 AO
+0
+0 0 0 0 0
+10 0 0 P
+ T 0 none~
+#16592
+Belt of the Elusive~
+`4B`9elt of the Elusive~
+A dark blue leather belt is here on the ground~
+armor~
+armor GY AL
+0
+ADE ADE ADE ADE 0
+60 10 33 P
+A
+13 25
+A
+12 30
+A
+19 5
+A
+18 5
+A
+14 -30
+ T 0 none~
+#16593
+Pendant of the Elusive~
+`4P`9endant of the Elusive~
+A shining blue pendant is here on the ground.~
+armor~
+armor GY AC
+0
+ADE ADE ADE ADE 0
+60 10 34 P
+A
+14 -30
+A
+20 -5
+A
+12 30
+A
+19 5
+A
+18 5
+ T 0 none~
+#16594
+Gloves of the Elusive~
+`4G`9loves of the Elusive~
+A pair of gloves made from the skin of an elusive creature lie here.~
+unknown~
+armor GY AH
+0
+ADE ADE ADE ADE 0
+60 10 34 P
+A
+12 30
+A
+20 -5
+A
+14 -30
+A
+19 5
+A
+18 5
+ T 0 none~
+#16595
+Boots of the Elusive~
+`4B`9oots of the Elusive~
+Boots made from the rough skin of an elusive creature lie here.~
+armor~
+armor GY AG
+0
+ADE ADE ADE ADE 0
+60 10 34 P
+A
+18 5
+A
+19 5
+A
+14 -35
+A
+20 -5
+A
+12 32
+ T 0 none~
+#16596
+frozen legplates of a dragon~
+`$F`9rozen Legplates of a Dragon~
+Some frozen legplates lie here on the ground.~
+unknown~
+armor 0 AF
+0
+BCDE BCDE BCDE BCDE 0
+74 10 40 P
+A
+13 44
+A
+18 6
+A
+19 6
+ T 0 none~
+#16597
+frozen dragon-hide vest~
+`$F`9rozen Dragon-Hide Vest.~
+A vest made from dragon-hide lies here.~
+unknown~
+armor 0 AD
+0
+BCDE BCDE BCDE BCDE 0
+74 10 40 P
+A
+18 6
+A
+19 6
+A
+13 44
+ T 0 none~
+#16598
+frozen sword of dragonmount~
+`$F`9rozen Sword of Dragonmount~
+A frozen sword lies here burried in the ground.~
+unknown~
+weapon a AN
+0
+sword 19 4 slash BC
+60 200 0 P
+A
+18 5
+A
+19 5
+A
+13 23
+ T 0 none~
+#16599
+frozen dragon skull~
+`$F`9rozen Dragon Skull~
+An icey dragons skull lies here.~
+unknown~
+armor 0 AE
+0
+BCDE BCDE BCDE BCDE 0
+74 10 40 P
+A
+18 6
+A
+19 6
+A
+13 44
+ T 0 none~
+#16600
+Shield of the Unseen~
+`1S`9hield of the Unseen~
+A shield of the unseen creature lies here.~
+unknown~
+armor a AJ
+0
+ADE ADE ADE ADE 0
+60 10 30 P
+A
+13 30
+A
+18 6
+A
+19 6
+A
+14 -20
+ T 0 none~
+#16601
+Protection of the unseen~
+`1P`9rotection of the Unseen~
+A sense of protection lies here.~
+armor~
+armor 0 AQ
+0
+ADE ADE ADE ADE 0
+60 10 30 P
+A
+18 6
+A
+19 6
+A
+13 30
+ T 0 none~
+#16602
+Face of the unseen~
+`1F`9ace of the Unseen~
+A face has been torn off lies here.~
+armor~
+armor 0 AR
+0
+ADE ADE ADE ADE 0
+60 10 30 P
+A
+13 30
+A
+18 6
+A
+19 6
+ T 0 none~
+#16603
+Dagger of the Unseen~
+`1D`9agger of the Unseen~
+A dagger of the unseen lies here.~
+dagger~
+weapon a AN
+0
+dagger 19 4 stab C
+60 10 25 P
+A
+19 6
+A
+18 6
+A
+13 12
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#16503
+Very Bottom of Dragonmount~
+This is the bottom of Dragonmount, where no one has been before.  
+~
+0 0 0
+D1
+~
+~
+0 0 16504
+D3
+~
+~
+0 0 36978
+S
+#16504
+A small trail winding around Dragonmount.~
+A trail in Dragonmount that seems to wind around the great mountain.  
+~
+0 0 0
+D1
+~
+~
+0 0 16505
+D3
+~
+~
+0 0 16503
+S
+#16505
+A small trail winding around Dragonmount.~
+Along the trail at the bottom of Dragonmount.  Its a little chilly down
+here.  
+~
+0 0 0
+D1
+~
+~
+0 0 16506
+D3
+~
+~
+0 0 16504
+S
+#16506
+A small trail winding around Dragonmount.~
+Along the trail at the bottom of Dragonmount.  Its a little chilly down
+here.  
+~
+0 0 0
+D1
+~
+~
+0 0 16507
+D3
+~
+~
+0 0 16505
+S
+#16507
+A small trail winding around Dragonmount.~
+Further along the trail at the bottom of Dragonmount, you begin to
+realize that the closer you get toward the end of the trail, the colder it
+gets.  
+~
+0 0 0
+D1
+~
+~
+0 0 16508
+D3
+~
+~
+0 0 16506
+S
+#16508
+A small trail winding around Dragonmount.~
+Further along the trail at the bottom of Dragonmount, you begin to
+realize that the closer you get toward the end of the trail, the colder it
+gets.  
+~
+0 0 0
+D1
+~
+~
+0 0 16509
+D3
+~
+~
+0 0 16507
+S
+#16509
+A small trail winding around Dragonmount.~
+Further along the trail at the bottom of Dragonmount, you begin to
+realize that the closer you get toward the end of the trail, the colder it
+gets.  
+~
+0 0 0
+D1
+~
+~
+0 0 16510
+D3
+~
+~
+0 0 16508
+S
+#16510
+A small trail winding around Dragonmount.~
+Looking around, you notice there aren't any plants alongside the trail on
+either side.  Why is this?  You begin to wonder if there is something
+different about this place.  
+~
+0 0 0
+D1
+~
+~
+0 0 16511
+D3
+~
+~
+0 0 16509
+S
+#16511
+A small trail winding around Dragonmount.~
+Still in wonder about why plants aren't growing near the base of the
+mountain, you begin paying more attention to your surroundings.  
+~
+0 0 0
+D1
+~
+~
+0 0 16512
+D3
+~
+~
+0 0 16510
+S
+#16512
+A small trail winding around Dragonmount.~
+Not seeing any plants makes you wonder if there is any life at all on
+this fabled mountain, What could be going on in this place?  
+~
+0 0 0
+D1
+~
+~
+0 0 16513
+D3
+~
+~
+0 0 16511
+S
+#16513
+A small trail winding around Dragonmount.~
+You still don't see any sign of life here.
+~
+0 0 0
+D1
+~
+~
+0 0 16514
+D3
+~
+~
+0 0 16512
+S
+#16514
+A small trail winding around Dragonmount.~
+You can see from here that there is some sort of change in the trail up
+ahead.  Where does it lead?  
+~
+0 0 0
+D1
+~
+~
+0 0 16515
+D3
+~
+~
+0 0 16513
+S
+#16515
+A small trail winding around Dragonmount.~
+The trail seems to be at a slight incline and feels as if you are rising
+in elevation with every step.  
+~
+0 0 0
+D1
+~
+~
+0 0 16516
+D3
+~
+~
+0 0 16514
+S
+#16516
+A small trail winding around Dragonmount.~
+Not far ahead you a change in the trail.  Its a cliff!  You will have to
+climb.  
+~
+0 0 0
+D1
+~
+~
+0 0 16517
+D3
+~
+~
+0 0 16515
+S
+#16517
+A small trail ends here at a steep cliff.~
+Here is the change in the trail.  To continue on you must climb this
+steep cliff.  
+~
+0 0 0
+D3
+~
+~
+0 0 16516
+D4
+~
+~
+0 0 16518
+S
+#16518
+Heading up Dragonmount.~
+You think you can almost see the beginning of the trail from here!  You
+aren't high yet.  
+~
+0 67109888 0
+D4
+~
+~
+0 0 16519
+D5
+~
+~
+0 0 16517
+S
+#16519
+On the side of a windy cliff.~
+You've made it to the top!  Or atleast to the top of the steep edge. 
+The wind begins to pick up a bit.  
+~
+0 0 0
+D2
+~
+~
+0 0 16520
+D5
+~
+~
+0 0 16518
+S
+#16520
+On a windy cliff.~
+You enter into another trail around Dragonmount.  If the others are as
+long as this one, it will be quite some time before you reach to top.  
+~
+0 0 0
+D0
+~
+~
+0 0 16519
+D2
+~
+~
+0 0 16521
+S
+#16521
+On a windy cliff.~
+There seems to be sign of life!  But, all you see are a bunch of Dha'vor
+trollocs.  They aren't the warmest hosts.  
+~
+0 0 0
+D0
+~
+~
+0 0 16520
+D2
+~
+~
+0 0 16522
+S
+#16522
+On a windy cliff.~
+A few more steps along the steep windy cliff...  Why are you here anyway?
+Maybe its too hazardous.  
+~
+0 0 0
+D0
+~
+~
+0 0 16521
+D2
+~
+~
+0 0 16523
+S
+#16523
+On a windy cliff.~
+There seems to be a heap of snow here.  You can see something moving
+behind it but cannot tell yet what it is.  
+~
+0 0 0
+D0
+~
+~
+0 0 16522
+D2
+~
+~
+0 0 16524
+S
+#16524
+On a windy cliff.~
+On the other side of the heap of snow you see what was moving, a trolloc.  
+~
+0 0 0
+D0
+~
+~
+0 0 16523
+D2
+~
+~
+0 0 16525
+S
+#16525
+On a windy cliff.~
+The cliff is a litte more narrow here.  You realize you must be careful
+if you wish to pass.  
+~
+0 0 0
+D0
+~
+~
+0 0 16524
+D2
+~
+~
+0 0 16526
+S
+#16526
+On a windy cliff.~
+You make it to the other side of the narrow pass on the windy cliff. 
+Phew, what a relief!  
+~
+0 0 0
+D0
+~
+~
+0 0 16525
+D2
+~
+~
+0 0 16527
+S
+#16527
+On a windy cliff.~
+Continuing on along the windy cliff you see even more trollocs.  Why are
+they all here?  
+~
+0 0 0
+D0
+~
+~
+0 0 16526
+D2
+~
+~
+0 0 16528
+S
+#16528
+On a windy cliff.~
+You can feel you are getting closer to the top of the mountain.  With
+every step you become colder and colder.  
+~
+0 0 0
+D0
+~
+~
+0 0 16527
+D2
+~
+~
+0 0 16529
+S
+#16529
+On a windy cliff.~
+You can feel the cold nipping at you extremities as you draw closer to
+the peak.  
+~
+0 0 0
+D0
+~
+~
+0 0 16528
+D2
+~
+~
+0 0 16530
+S
+#16530
+On a windy cliff.~
+Finally!  You see what you think is the end of this trail just up ahead!  
+~
+0 0 0
+D0
+~
+~
+0 0 16529
+D2
+~
+~
+0 0 16531
+S
+#16531
+Climbing higher.~
+This is the end of the trail.  It ends at this rockface.  You realize
+that if you wish to continue, you must scale it.  
+~
+0 0 0
+D0
+~
+~
+0 0 16530
+D4
+~
+~
+0 0 16532
+S
+#16532
+Climbing higher.~
+You fingers begin to ache from the stress of your body weight and the
+cold weather.  
+~
+0 0 0
+D4
+~
+~
+0 0 16533
+D5
+~
+~
+0 0 16531
+S
+#16533
+The endless cliff of Dragonmount.~
+You reach the top of the rockface only to find Trolloc Gaurds blocking
+your way!  What other trials lye ahead?  
+~
+0 0 0
+D3
+~
+~
+0 0 16534
+D5
+~
+~
+0 0 16532
+S
+#16534
+The windy cliff.~
+Another windy cliff.  How many are there?  Do you have the endurance to
+pass them all?  
+~
+0 0 0
+D1
+~
+~
+0 0 16533
+D3
+~
+~
+0 0 16535
+S
+#16535
+The windy cliff.~
+You see more trollocs on this cliff.  You still don't understand why they
+are here on this snowy mountain.  
+~
+0 0 0
+D1
+~
+~
+0 0 16534
+D3
+~
+~
+0 0 16536
+S
+#16536
+The windy cliff.~
+You see that there are less trees up here than there were further below
+on the mountain.  There must not be enough oxygen to support them.  
+~
+0 0 0
+D1
+~
+~
+0 0 16535
+D3
+~
+~
+0 0 16537
+S
+#16537
+The windy cliff.~
+You've come across another narrow pass.  Hopefully this attempt will be
+as successful as the last.  
+~
+0 0 0
+D1
+~
+~
+0 0 16536
+D3
+~
+~
+0 0 16538
+S
+#16538
+The windy cliff.~
+You slip and fall!  Yet, somehow you catch yourself and pass what was
+impassable.  Well done.  
+~
+0 0 0
+D1
+~
+~
+0 0 16537
+D3
+~
+~
+0 0 16539
+S
+#16539
+The windy cliff.~
+The trail widens a bit and much to your relief.  You continue on down the
+trail not knowing that the shock of having almost died hasn't caught up to
+you yet.  
+~
+0 0 0
+D1
+~
+~
+0 0 16538
+D3
+~
+~
+0 0 16540
+S
+#16540
+The windy cliff.~
+Further along the cliff, you notice the air around you seems to be
+thinner than the air below.  The elevation begins to take its toll on your
+body as you begin gasping for oxygen.  
+~
+0 0 0
+D1
+~
+~
+0 0 16539
+D3
+~
+~
+0 0 16541
+S
+#16541
+The windy cliff.~
+You look back at the narrow pass realizing you almost died back there
+man!  Luckily you didn't and you continue onward toward the top of the
+moutain.  
+~
+0 0 0
+D1
+~
+~
+0 0 16540
+D3
+~
+~
+0 0 16542
+S
+#16542
+The windy cliff.~
+You see the trail lead into another trail up ahead and wonder if it too
+leads to the top of the mountain.  
+~
+0 0 0
+D1
+~
+~
+0 0 16541
+D3
+~
+~
+0 0 16543
+S
+#16543
+A trail leading higher up the cliff.~
+The trail quickly becomes very steep.  You nearly have to climb it like a
+rockface.  
+~
+0 0 0
+D1
+~
+~
+0 0 16542
+D4
+~
+~
+0 0 16544
+S
+#16544
+A trail leading higher up the cliff.~
+You continue along the steep trail.  It levels out a bit, but is still
+quite steep.  
+~
+0 0 0
+D4
+~
+~
+0 0 16545
+D5
+~
+~
+0 0 16543
+S
+#16545
+Another trail alongside Dragonmount.~
+At the top of the steep trail that broke off of the one before, you see
+more trollocs.  These too are gaurds blocking your way.  
+~
+0 0 0
+D0
+~
+~
+0 0 16546
+D5
+~
+~
+0 0 16544
+S
+#16546
+Another trail alongside Dragonmount.~
+You got past the gaurds only yo be greeted by another long looking trail.  
+~
+0 0 0
+D0
+~
+~
+0 0 16547
+D2
+~
+~
+0 0 16545
+S
+#16547
+Another trail alongside Dragonmount.~
+It seems more difficult to see whats ahead for the trail seems to bend
+around the mountain more.  
+~
+0 0 0
+D0
+~
+~
+0 0 16548
+D2
+~
+~
+0 0 16546
+S
+#16548
+Another trail alongside Dragonmount.~
+Although it isn't possible to see far ahead, you do see a large bend in
+the trail up ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 16549
+D2
+~
+~
+0 0 16547
+S
+#16549
+Another trail alongside Dragonmount.~
+As you get closer to the bend in the trail up ahead, you think that maybe
+the trail seems to be bending and meandering more because you are closer to
+the top of the mountain.  You are more hopeful.  
+~
+0 0 0
+D0
+~
+~
+0 0 16550
+D2
+~
+~
+0 0 16548
+S
+#16550
+Another trail alongside Dragonmount.~
+You've finally reached the bend in the trail.  And what a bend it is! 
+You walk around the bend so far you think you are going backwards!  
+~
+0 0 0
+D0
+~
+~
+0 0 16551
+D2
+~
+~
+0 0 16549
+S
+#16551
+Another trail alongside Dragonmount.~
+You pass the bend in the trail and continue on.  
+~
+0 0 0
+D0
+~
+~
+0 0 16552
+D2
+~
+~
+0 0 16550
+S
+#16552
+Another trail alongside Dragonmount.~
+Up ahead you see a rockface.  This one looks more difficult to scale. 
+You sadden a bit.  
+~
+0 0 0
+D0
+~
+~
+0 0 16553
+D2
+~
+~
+0 0 16551
+S
+#16553
+A shear rockface.~
+Here it is, the rockface.  Its no wonder this rockface looks difficult to
+climb!  It looks as if it has been sheared of like a peice of flint!  
+~
+0 0 0
+D2
+~
+~
+0 0 16552
+D4
+~
+~
+0 0 16554
+S
+#16554
+A shear rockface.~
+Shaking and horrified, you continue up the shear rockface ever-searching
+for its top.  
+~
+0 0 0
+D4
+~
+~
+0 0 16555
+D5
+~
+~
+0 0 16553
+S
+#16555
+Coming around the mount.~
+You've reached the top of the shear rockface and find some trolloc gaurds
+looking to push you off for fun!  
+~
+0 0 0
+D1
+~
+~
+0 0 16556
+D5
+~
+~
+0 0 16554
+S
+#16556
+Coming around the mount.~
+You continue along this new trail that leads around the mountain as well.
+Why are there trolloc gaurds here and no Myrrddraals?  You think deeply on
+this...  
+~
+0 0 0
+D1
+~
+~
+0 0 16557
+D3
+~
+~
+0 0 16555
+S
+#16557
+Coming around the mount.~
+As you continue along the trail that seems to be pretty normal, you
+realize that these trollocs you are passing are ordinary, they've been
+trained for battle!  
+~
+0 0 0
+D1
+~
+~
+0 0 16558
+D3
+~
+~
+0 0 16556
+S
+#16558
+Coming around the mount.~
+You see a checkpoint up ahead.  How will you get past it without being
+stopped or even killed?  You continue on.  
+~
+0 0 0
+D1
+~
+~
+0 0 16559
+D3
+~
+~
+0 0 16557
+S
+#16559
+Coming around the mount.~
+Just past the checkpoint you let out a huge sigh of relief, phew.  If
+they had caught you, they would have thrown you off!  
+~
+0 0 0
+D1
+~
+~
+0 0 16560
+D3
+~
+~
+0 0 16558
+S
+#16560
+Coming around the mount.~
+It seems as though you are nearing the end of this trail.  Will there be
+another rockface up ahead?  
+~
+0 0 0
+D1
+~
+~
+0 0 16561
+D3
+~
+~
+0 0 16559
+S
+#16561
+Nearing the top of Dragonmount.~
+You get to the end of the trail you were on and a few feet away you find
+the beginning of another.  No rockface?  
+~
+0 0 0
+D3
+~
+~
+0 0 16560
+D4
+~
+~
+0 0 16562
+S
+#16562
+Nearing the top of Dragonmount.~
+Further along the new trail.  You continue toward the top of the mountain.  
+~
+0 0 0
+D4
+~
+~
+0 0 16563
+D5
+~
+~
+0 0 16561
+S
+#16563
+A smaller trail near the top of Dragonmount.~
+You reach the end of the new trail to once again find another.  This
+trail seems to be different, even smaller than the last.  
+~
+0 0 0
+D2
+~
+~
+0 0 16564
+D5
+~
+~
+0 0 16562
+S
+#16564
+A smaller trail near the top of Dragonmount.~
+You are relieved to find that you are nearer to the top of the mountain
+than ever before!  Why are you here again?  
+~
+0 0 0
+D0
+~
+~
+0 0 16563
+D2
+~
+~
+0 0 16565
+S
+#16565
+A smaller trail near the top of Dragonmount.~
+You continue to travel and you can only hope you are nearing the final
+trail.  This type of hiking wears you out.  
+~
+0 0 0
+D0
+~
+~
+0 0 16564
+D2
+~
+~
+0 0 16566
+S
+#16566
+A smaller trail near the top of Dragonmount.~
+You think you see another trail ahead and are dismayed.  Yet you continue
+on with the shred of hope you have left.  
+~
+0 0 0
+D0
+~
+~
+0 0 16565
+D2
+~
+~
+0 0 16567
+S
+#16567
+Climbing to the final trail.~
+Here you see a steep incline, too steep in fact to walk up.  You begin to
+climb the incline toward the top of the mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 16566
+D4
+~
+~
+0 0 16568
+S
+#16568
+Climbing to the final trail.~
+The incline begins to level out a bit.  You feel some relief but are
+still gasping for air.  Oh the elevation!  
+~
+0 0 0
+D4
+~
+~
+0 0 16569
+D5
+~
+~
+0 0 16567
+S
+#16569
+Trail to the Plateau of Dragonmount.~
+You reach the top.  THE top.  But there are trolloc gaurds gaurding a
+gate here as well.  And these look really mean.  
+~
+0 0 23
+D3
+~
+~
+1 16590 16570
+D5
+~
+~
+0 0 16568
+S
+#16570
+Trail to the Plateau of Dragonmount.~
+You've made it through the gate and on toward the plateau of Dragonmount.
+Almost there.  
+~
+0 0 0
+D1
+~
+~
+1 0 16569
+D3
+~
+~
+0 0 16571
+S
+#16571
+Steps to the Plateau.~
+You come to some steps that lead up to the plateau.  You become excited
+and anxious yet filled with fear.  
+~
+0 0 0
+D1
+~
+~
+0 0 16570
+D4
+~
+~
+0 0 16572
+S
+#16572
+Steps to the Plateau.~
+You begin up the steps carefully watching your surroundings as though you
+feel something might stab you in the back.  
+~
+0 0 0
+D4
+~
+~
+0 0 16573
+D5
+~
+~
+0 0 16571
+S
+#16573
+The Plateau of Dragonmount.~
+You've reached the plateau.  Or the outside of it atleast.  Here there
+are more trolloc gaurds gaurding yet another gate.  
+~
+0 0 0
+D2
+~
+~
+1 16590 16575
+D5
+~
+~
+0 0 16572
+S
+#16574
+The very top of Dragonmount.~
+This is the peak of Dragonmount.  No one has ever been here nor seen it
+because of the constant blizzard near the peak.  Be cautious.  
+~
+0 4194308 0
+D5
+~
+~
+0 0 16597
+S
+#16575
+Snow covered evergreens.~
+You pass through the gate and into some snow covered evergreen trees. 
+You see many things and yet nothing lurking inside.  
+~
+0 4194304 0
+D0
+~
+~
+1 0 16573
+D1
+~
+~
+0 0 16576
+D2
+~
+~
+0 0 16594
+D3
+~
+~
+0 0 16592
+S
+#16576
+Snow covered evergreens.~
+More evergreens.  You can't see anything through all these trees!  
+~
+0 4194304 0
+D1
+~
+~
+0 0 16577
+D2
+~
+~
+0 0 16595
+D3
+~
+~
+0 0 16575
+S
+#16577
+Snow covered evergreens.~
+You think you catch a glimpse of what keeps moving in the trees.  But as
+soon as you do it disappears.  What is it?  
+~
+0 4194304 0
+D2
+~
+~
+0 0 16578
+D3
+~
+~
+0 0 16576
+S
+#16578
+Snow covered evergreens.~
+You move further into the evergreens searching for a prize and cautiously
+watching your back.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16577
+D2
+~
+~
+0 0 16579
+D3
+~
+~
+0 0 16595
+S
+#16579
+Snow covered evergreens.~
+The cry of the beast gets louder as you move further in.  Do you really
+want to find this creature?  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16578
+D2
+~
+~
+0 0 16580
+D3
+~
+~
+0 0 16596
+S
+#16580
+Snow covered evergreens.~
+With the cry of a beast still in your mind, you continue onward to
+explore this strange place.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16579
+D2
+~
+~
+0 0 16581
+D3
+~
+~
+0 0 16599
+S
+#16581
+The East cave of Dragonmount.~
+The cries of the creature inside are deafening.  Is it in pain?  Or is it
+an insane glee?  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16580
+D2
+~
+~
+0 0 16582
+D3
+~
+~
+0 0 16583
+S
+#16582
+Inside the East cave.~
+Inside the cave you have found shelter.  But you can't stay here long
+with the beast nearby.  You must either investigate or leave quickly.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16581
+D3
+~
+~
+0 0 16603
+S
+#16583
+Snow covered evergreens.~
+You think you see a cave ahead, but you also begin to hear the noise of
+the first creature you heard earlier.  Do you dare go closer?  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16599
+D1
+~
+~
+0 0 16581
+D3
+~
+~
+0 0 16584
+S
+#16584
+Snow covered evergreens.~
+With every passing step you grow colder.  You must find shelter from this
+blizzard and escape the Myrrddraals in these woods.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16600
+D1
+~
+~
+0 0 16583
+D3
+~
+~
+0 0 16585
+S
+#16585
+Snow covered evergreens.~
+Are the Myrrddraals gaurding something at the top of Dragonmount on this
+plateau?  What could it be?  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16601
+D1
+~
+~
+0 0 16584
+D3
+~
+~
+0 0 16586
+S
+#16586
+The West cave of Dragonmount.~
+The cry of the second beast becomes even louder here!  What is it!?  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16588
+D1
+~
+~
+0 0 16585
+D2
+~
+~
+0 0 16587
+S
+#16587
+Inside the West cave.~
+There is another cave here from which you shelter yourself from the
+blizzard outside.  But this cave also seems to be the cave from which the
+cries of the second beast were coming.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16586
+D1
+~
+~
+0 0 16602
+S
+#16588
+Snow covered evergreens.~
+The weather seems to be rough.  Not even the evergreens, as thick as
+they are in this part of the woods, are adequate shleter from the blizzard. 
+~
+0 4194304 0
+D0
+~
+~
+0 0 16589
+D1
+~
+~
+0 0 16601
+D2
+~
+~
+0 0 16586
+S
+#16589
+Snow covered evergreens.~
+After dealing with a Myrrddraal you move even further into the evergreen
+woods wondering what you will encounter next.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16590
+D1
+~
+~
+0 0 16598
+D2
+~
+~
+0 0 16588
+S
+#16590
+Snow covered evergreens.~
+You finally get close enough for a look and the creature attacks you! 
+This is a Myrrddraal!!  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16591
+D1
+~
+~
+0 0 16593
+D2
+~
+~
+0 0 16589
+S
+#16591
+Snow covered evergreens.~
+~
+0 4194304 0
+D1
+~
+~
+0 0 16592
+D2
+~
+~
+0 0 16590
+S
+#16592
+Snow covered evergreens.~
+~
+0 4194304 0
+D1
+~
+~
+0 0 16575
+D2
+~
+~
+0 0 16593
+D3
+~
+~
+0 0 16591
+S
+#16593
+Snow covered evergreens.~
+You see another creature light the last.  What is this thing?!  You move
+closer to the creature for a good look.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16592
+D1
+~
+~
+0 0 16594
+D2
+~
+~
+0 0 16598
+D3
+~
+~
+0 0 16590
+S
+#16594
+Snow covered evergreens.~
+Further into the evergreens you spot a creature.  What is it?  You begin
+to inspect it, but it moves before you get close enough.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16575
+D1
+~
+~
+0 0 16595
+D2
+~
+~
+0 0 16597
+D3
+~
+~
+0 0 16593
+S
+#16595
+Snow covered evergreens.~
+Further into the evergreens you think for a moment "Trollocs don't travel
+alone.  Myrrddraals lead trollocs."  And you continue on clueless of the
+emminent danger.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16576
+D1
+~
+~
+0 0 16578
+D2
+~
+~
+0 0 16596
+D3
+~
+~
+0 0 16594
+S
+#16596
+Snow covered evergreens.~
+In this part of the woods you hear the cry of some kind of beast.  What
+is it?  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16595
+D1
+~
+~
+0 0 16579
+D2
+~
+~
+0 0 16599
+D3
+~
+~
+0 0 16597
+S
+#16597
+Snow covered evergreens.~
+Deeper into the woods you think that you must either be out of your mind
+to be wandering in this dangerous of a place, or one really tough person.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16594
+D1
+~
+~
+0 0 16596
+D2
+~
+~
+0 0 16600
+D3
+~
+~
+0 0 16598
+D4
+~
+~
+0 0 16574
+S
+#16598
+Snow covered evergreens.~
+There are Myrrddraals all over the place this deep in the woods!  That
+must explain all the trollocs that you saw on the way up the mountain.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16593
+D1
+~
+~
+0 0 16597
+D2
+~
+~
+0 0 16601
+D3
+~
+~
+0 0 16589
+S
+#16599
+Snow covered evergreens.~
+In this part of the woods you can barely hear the cries of the beast to
+the east.  You are relieved to hear silence.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16596
+D1
+~
+~
+0 0 16580
+D2
+~
+~
+0 0 16583
+D3
+~
+~
+0 0 16600
+S
+#16600
+Snow covered evergreens.~
+Here the silence is broken!  You hear the Myrrddraals howling as another
+creature cries in pain!  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16597
+D1
+~
+~
+0 0 16599
+D2
+~
+~
+0 0 16584
+D3
+~
+~
+0 0 16601
+S
+#16601
+Snow covered evergreens.~
+So many Myrrddraals.  Why are they gathered here at the top of the
+mountain?  
+~
+0 4194304 0
+D0
+~
+~
+0 0 16598
+D1
+~
+~
+0 0 16600
+D2
+~
+~
+0 0 16585
+D3
+~
+~
+0 0 16588
+S
+#16602
+Main chamber.~
+You enter the main chamber and look at what you think is the creature you
+heard.  But it seems to elude your every gaze.  What is it?  
+~
+0 4194304 0
+D3
+~
+~
+0 0 16587
+S
+#16603
+Main chamber.~
+You find the chamber deep in the cave where you believe the creature is. 
+But it is hidden somewhere and you can't seem to see it.  
+~
+0 71303168 0
+D1
+~
+~
+0 0 16582
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 16569 3 2
+D 0 16570 1 2
+D 0 16573 2 2
+D 0 16575 0 2
+M 0 16601 70 16503 4 100 Load black carrion bird
+M 0 16601 70 16504 4 100 Load black carrion bird
+M 0 16601 70 16505 3 100 Load black carrion bird
+M 0 16601 70 16506 3 100 Load black carrion bird
+M 0 16601 70 16507 4 100 Load black carrion bird
+M 0 16601 70 16508 3 100 Load black carrion bird
+M 0 16601 70 16509 4 100 Load black carrion bird
+M 0 16601 70 16510 4 100 Load black carrion bird
+M 0 16601 70 16511 4 100 Load black carrion bird
+M 0 16601 70 16512 3 100 Load black carrion bird
+M 0 16601 70 16513 3 100 Load black carrion bird
+M 0 16601 70 16514 4 100 Load black carrion bird
+M 0 16601 70 16515 4 100 Load black carrion bird
+M 0 16601 70 16516 4 100 Load black carrion bird
+M 0 16601 70 16517 3 100 Load black carrion bird
+M 0 16600 1 16518 1 100 Load A Statue of an `1A`9ncient Dragon.
+M 0 16603 20 16519 2 100 Load Trolloc Guard
+M 0 16592 80 16520 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16521 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16522 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16523 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16524 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16525 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16526 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16527 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16528 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16529 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16530 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16531 2 100 Load A Dha'vor Trolloc
+M 0 16603 20 16533 2 100 Load Trolloc Guard
+M 0 16592 80 16534 3 100 Load A Dha'vor Trolloc
+M 0 16592 80 16535 3 100 Load A Dha'vor Trolloc
+M 0 16592 35 16536 4 100 Load A Dha'vor Trolloc
+M 0 16592 35 16536 3 100 Load A Dha'vor Trolloc
+M 0 16592 80 16536 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16537 4 100 Load A Dha'vor Trolloc
+M 0 16592 80 16538 3 100 Load A Dha'vor Trolloc
+M 0 16592 80 16539 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16540 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16541 4 100 Load A Dha'vor Trolloc
+M 0 16592 35 16542 3 100 Load A Dha'vor Trolloc
+M 0 16592 80 16542 3 100 Load A Dha'vor Trolloc
+M 0 16592 80 16543 2 100 Load A Dha'vor Trolloc
+M 0 16603 20 16545 2 100 Load Trolloc Guard
+M 0 16592 80 16546 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16547 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16548 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16549 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16550 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16551 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16552 2 100 Load A Dha'vor Trolloc
+M 0 16592 1 16553 1 100 Load A Dha'vor Trolloc
+M 0 16592 80 16553 2 100 Load A Dha'vor Trolloc
+M 0 16603 20 16555 2 100 Load Trolloc Guard
+M 0 16591 80 16556 2 100 Load a Dha'vor Trolloc Warrior
+M 0 16591 80 16557 2 100 Load a Dha'vor Trolloc Warrior
+M 0 16591 80 16558 2 100 Load a Dha'vor Trolloc Warrior
+M 0 16591 80 16559 2 100 Load a Dha'vor Trolloc Warrior
+M 0 16591 80 16560 2 100 Load a Dha'vor Trolloc Warrior
+M 0 16591 80 16561 2 100 Load a Dha'vor Trolloc Warrior
+M 0 16603 20 16563 2 100 Load Trolloc Guard
+M 0 16591 60 16564 2 100 Load a Dha'vor Trolloc Warrior
+M 0 16591 60 16565 2 100 Load a Dha'vor Trolloc Warrior
+M 0 16591 60 16566 2 100 Load a Dha'vor Trolloc Warrior
+M 0 16591 60 16567 2 100 Load a Dha'vor Trolloc Warrior
+M 0 16590 10 16569 2 100 Load An Elite Dha'vor Trolloc Gaurd
+E 0 16590 0 19 0 100 A frozen key is loaded held in the hands of An Elite Dha'vor Trolloc Gaurd
+M 0 16592 60 16570 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16570 2 100 Load A Dha'vor Trolloc
+M 0 16592 60 16571 2 100 Load A Dha'vor Trolloc
+M 0 16592 80 16571 2 100 Load A Dha'vor Trolloc
+M 0 16590 10 16573 2 100 Load An Elite Dha'vor Trolloc Gaurd
+E 0 16590 0 19 0 100 A frozen key is loaded held in the hands of An Elite Dha'vor Trolloc Gaurd
+M 0 16599 1 16574 1 100 Load a Frozen `4I`^c`4e`9-Dragon
+E 0 16599 0 6 0 100 `$f`9rozen dragon skull is loaded over the head of a Frozen `4I`^c`4e`9-Dragon
+E 0 16598 0 19 0 100 `$f`9rozen sword of dragonmount is loaded held in the hands of a Frozen `4I`^c`4e`9-Dragon
+E 0 16597 0 5 0 100 `$f`9rozen dragon-hide vest. is loaded on the body of a Frozen `4I`^c`4e`9-Dragon
+E 0 16596 0 7 0 100 `$f`9rozen legplates of a dragon is loaded on the legs of a Frozen `4I`^c`4e`9-Dragon
+M 0 16598 80 16575 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16576 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16577 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16578 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16579 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16580 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16581 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16582 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16583 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16584 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16585 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16586 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16587 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16588 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16589 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16590 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16591 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16592 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16593 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16594 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16595 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16596 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16597 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16598 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16599 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16600 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16598 80 16601 4 100 Load a Dha'vor Myrrddraal Captain
+M 0 16595 1 16602 1 100 Load An `4E`9lusive Creature
+E 0 16595 0 8 0 100 `4b`9oots of the elusive is loaded on the feet of An `4E`9lusive Creature
+E 0 16594 0 9 0 100 `4g`9loves of the elusive is loaded on the hands of An `4E`9lusive Creature
+E 0 16593 0 3 0 100 `4p`9endant of the elusive is loaded around the neck (1) of An `4E`9lusive Creature
+E 0 16592 0 13 0 100 `4b`9elt of the elusive is loaded around the waist of An `4E`9lusive Creature
+M 0 16602 1 16603 1 100 Load An Unseen Creature
+E 0 16603 0 17 0 100 `1d`9agger of the unseen is loaded wielded of An Unseen Creature
+E 0 16602 0 21 0 100 `1f`9ace of the unseen is loaded on the face of An Unseen Creature
+E 0 16601 0 20 0 100 `1p`9rotection of the unseen is loaded floating nearby of An Unseen Creature
+E 0 16600 0 11 0 100 `1s`9hield of the unseen is loaded as a shield of An Unseen Creature
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

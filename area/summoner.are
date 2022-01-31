@@ -1,0 +1,168 @@
+#AREADATA
+Name Summoner Quest~
+Builders Diem~
+VNUMs 5100 5199
+Credits `4[`7 None `4]`7 Diem      None~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#5100
+The Mouth of the Cave~
+The cave, built into the side of a massive granite slab, extends out
+from the side of this massive mountain. Its dark depths captivate all who
+look into it, its murky green smoke billowing out in furles too numourous
+to count.
+~
+0 0 0
+D0
+~
+~
+0 0 5101
+S
+#5101
+Before the Great Vault~
+A huge plate door blocks the path to the north, a small keyhole is 
+available to fit a small mishapen key, in the shape of a five pointed star.
+Glowing mist is seeping from under the door, bellowing around your ankles
+and flowing to the glowing light at the enterance of the cave.
+~
+0 0 0
+D0
+~
+~
+4 0 5102
+D2
+~
+~
+0 0 5100
+S
+#5102
+Begining of the End~
+~
+0 0 0
+D0
+~
+~
+0 0 5106
+D1
+~
+~
+0 0 5104
+D2
+~
+~
+4 0 5109
+D3
+~
+~
+0 0 5108
+S
+#5103
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5102
+S
+#5104
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5102
+S
+#5105
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5102
+S
+#5106
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5102
+S
+#5107
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5102
+S
+#5108
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5102
+S
+#5109
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5102
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 5101 0 2
+D 0 5102 2 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

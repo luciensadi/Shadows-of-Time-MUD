@@ -1,0 +1,18 @@
+MagicUnix Magic C++ Workspace File, Format Version 4.00
+Magic C++ 4.00
+Project("{projct}") =  "projct/projct.prj"
+EndProject
+Global
+	GlobalSection((ProjectDependencies) = preSolution
+	EndGlobalSection
+	GlobalSection((ProjectBreakpoints) = preSolution
+	EndGlobalSection
+	GlobalSection((ProjectBookMarks) = preSolution
+	EndGlobalSection
+	GlobalSection((ProjectWindows) = preSolution
+{Window} = "//AOD/SoT/src/act_move.cpp","206","137","1472","754","0","2413"
+	EndGlobalSection
+	GlobalSection((ProjectActivePrj) = preSolution
+{ActiveProject} = "projct"
+	EndGlobalSection
+EndGlobal

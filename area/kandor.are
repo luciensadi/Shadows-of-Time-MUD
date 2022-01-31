@@ -1,0 +1,1201 @@
+#AREADATA
+Name Kandori Fortress~
+Builders Galad Unlinked Gawyn~
+VNUMs 6700 6750
+Credits { ??? } Galad/G Kandori Fortress~
+Security 5
+End
+
+
+
+#MOBILES
+#6702
+kandori hall guard~
+A Kandori Hall Guard~
+An Elite Kandori Hall Guard stands here defending his master.
+~
+~
+kandor~
+ABFG 256 0 0 33280 -1  0 0
+85 60 90d14+14900 0d0+0 10d10+100 slice
+0 0 0 0
+ACDEHLTU K KLOQZ 0
+stand stand male  200
+AHMV ABCDEFGHIJK medium unknown
+#6703
+Kandori Door Guard~
+A Kandori Door Guard~
+A Door Guard stands here letting no one through.
+~
+~
+kandor~
+ABFG 256 64 0 512 -1  0 0
+90 70 90d14+13500 0d0+0 10d10+100 slice
+0 0 0 0
+ACDEHLTU K KLOQZ 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#6704
+Ashalar~
+Ashalar~
+Ashalar is here
+~
+~
+unique~
+A 0 0 0 0 -1  0 0
+75 0 3293d1+1 765d1+1 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6707
+kandori guard~
+A Kandorian Guard~
+A Kandorian Guard is here looking straight at you.
+~
+~
+kandor~
+ABFG 256 64 1 512 -1  0 0
+90 68 90d14+13900 0d0+0 10d10+100 slice
+0 0 0 0
+ACDEHLTU K KLOQZ 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#6708
+kandori guard 2~
+A Kandorian Guard~
+A Kandorian Guard is sitting here playing cards.
+~
+~
+kandor~
+ABFG 256 64 1 512 -1  0 0
+0 70 90d14+13900 0d0+0 10d10+100 slice
+0 0 0 0
+ACDEHLTU K KLOQZ 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#6710
+kandori scout~
+a Kandorian Scout~
+A scout is here watching the terrain for any oncoming attacks.
+~
+~
+kandor~
+ABFG 336 64 0 0 -1  0 0
+90 70 95d13+30000 0d0+0 10d10+100 slice
+0 0 0 0
+ACDETU K HIK 0
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+#6713
+kandori~
+a Kandorian Healer~
+A small, dark skinned healer is sitting here healing your wounds.
+~
+~
+unique~
+ABGa 0 0 0 0 -1  0 0
+110 0 30000d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6715
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6716
+kandori dungeon master~
+the Dungeon Master~
+A tall, ugly man is here gaurding the door to the dungeon.
+~
+~
+kandor~
+ABFG 256 2112 0 0 -1  0 0
+92 65 90d14+13500 0d0+0 10d10+125 pound
+0 0 0 0
+CDENT K HIK J
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+#6718
+kandorian noble~
+The Kandori Noble~
+A great noble stands here waiting for you.
+~
+~
+kandor~
+AB 336 34880 129 1024 -1  245 0
+235 150 32000d1+1 10000d1+1 105d1+20 stab
+-150 -134 -142 -123
+CEJN HI C E
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#6731
+kandori illuminator~
+The Illuminator of Kandor~
+The Illuminator of Kandor stands here looking out upon his land.
+~
+~
+kandor~
+ABGTW 256 64 0 0 -1  0 0
+210 312 85d14+13500 0d0+0 100d100+100 blast
+-60 -60 -60 -45
+ATU K IK 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#6734
+kandori criminal escape~
+The Criminal~
+A scary looking criminal is here trying to escape.
+~
+~
+kandor~
+ABFG 336 2112 0 0 -1  0 0
+95 73 96d14+15000 0d0+0 10d12+104 pound
+0 0 0 0
+ACDETU K HIK 0
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#6701
+aryth ocean vase~
+aryth Ocean Vase~
+A small, shiny, expensive vase sits here on a table.~
+diamond~
+container FHa P
+0 0 0 5999 0
+0 6000 40000000 P
+#6702
+entrance hall key~
+key to the Entrance Hall~
+The key to the entrance hall lies here~
+stainless steel~
+key G AO
+0 0 0 0 0
+110 3 40000 P
+#6703
+kandori hall door key~
+the Fortress' hall key~
+A silvery key sits here.~
+stainless steal~
+key GHMY A
+0 0 0 0 0
+110 3 10 P
+#6707
+kandori guard table~
+a Kandorian Guard table.~
+A small oak table for the guards is sitting here.~
+oak~
+furniture G 0
+0 0 0 0 0
+110 23 1000 P
+#6708
+kandori card table~
+a small card table.~
+A small card table with a green top sets here.~
+oak~
+furniture 0 0
+0 0 0 0 0
+75 30 1000 P
+#6709
+kandori toilet~
+the Guard's toilet.~
+A small, slimy toilet is sitting here in the corner.~
+procelain~
+furniture 0 0
+EIJKN 0 E BCEH DEFG
+110 120 1000 P
+#6712
+map~
+a Kandori Map~
+A map of the surrondring areas is hanging on the wall.~
+leather~
+map 0 0
+0 0 0 0 0
+0 0 0 P
+#6714
+kandori firework chest~
+the Illuminator's Firework Chest~
+A huge chest is setting here filled with fireworks.~
+steel~
+container 0 0
+100000 0 0 1000000 0
+110 340 3255 P
+#6715
+kandori illuminator key~
+the Illuminator's secret key~
+A small, unique key is here trying to be hidden from the wrong eyes.~
+stainless steel~
+key 0 A
+0 0 0 0 0
+110 10 100 P
+#6716
+kandori dungeon key~
+the Dungeon Key~
+A large skeleton key lies here.~
+stainless steel~
+key 0 A
+0 0 0 0 0
+110 20 100 P
+#6717
+sink sea folk~
+a Sea Folk Porcelain sink~
+A beautiful Sea Folk Porcelain sink filled with water is here.~
+sea folk porcelain~
+fountain GY 0
+1000000 1000000 'water' 0 0
+55 0 0 P
+#6718
+bed kandori noble~
+the Kandori Noble's bed~
+A colorful, grand bed is sitting here.~
+silk~
+furniture 0 0
+AC FHJKPQ BEHL DGH CFG
+75 0 0 P
+#6719
+kandori gold chest~
+the Illuminator's Gold Chest~
+A small chest is setting here gleaming with a golden color.~
+steel~
+container 0 0
+1000000 CD 6720 1000000 0
+110 650 299 P
+#6720
+kandori gold chest key~
+the Gold Chest key~
+A small, weaved key is sitting here.~
+stainless steel~
+key 0 A
+0 0 0 0 0
+110 10 210 P
+#6721
+kandorian key peg~
+a Kandorian Key Peg~
+A small wooded key peg is here holding keys.~
+oak~
+container 0 0
+10000 0 0 1000000 4
+0 12 2000 P
+#6722
+kandori guard room key~
+the Guard's Room Key~
+A small key is lying here.~
+stainless steal~
+key G A
+0 0 0 0 0
+110 3 2000 P
+#6723
+shelf~
+oak Shelves~
+Some simple oak shelves are sitting here filled with things.~
+oak~
+container 0 0
+10000 0 0 2147483647 2147483647
+0 100 0 P
+#6724
+radish~
+a Kandori Radish~
+A small radish has been left here.~
+radish~
+pill GH A
+90 'heal' 'heal' 'sanctuary' 'reserved'
+90 0 10 P
+#6726
+kandori cell sink~
+the innmates sink~
+A small dirty sink filled with murky water sits here.~
+iron~
+fountain 0 0
+2147483647 2147483647 'slime mold juice' 0 0
+110 0 20 P
+#6729
+kandori dead corpse~
+a small corpse~
+A corpse of a dead man lies here waiting to be desposed of.~
+corpse~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#6732
+kandori corpse~
+a corpse~
+A decaying corpse lies here filling the room with a putrid smell.~
+corpse~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#6733
+kandori cell bed~
+a cell bed~
+A small cell bed sets here.~
+cloth~
+furniture 0 0
+AC EIJKN EHK 0 0
+110 0 0 P
+#6734
+kandori escape light~
+`&(`!Fl`1`A`!ming`&)`7 The Escape Light~
+A small light is here assisting those that are trying to escape.~
+stick~
+light F A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 20 100 P
+A
+13 45
+A
+12 23
+A
+17 -28
+A
+18 4
+A
+19 4
+#6750
+gloodge~
+the ring of the magi~
+A special ring lies here is the dirt.~
+steel~
+armor ABHMYa AB
+DHIJKLMNOPQRSTUVWXYZabcdef DHIJKLMNOPQRSTUVWXYZabcdef DHIJKLMNOPQRSTUVWXYZabcdef DHIJKLMNOPQRSTUVWXYZabcdef 0
+110 1 1000 P
+A
+19 25
+A
+18 15
+A
+12 100
+A
+20 -25
+A
+13 450
+#0
+
+
+
+#ROOMS
+#6700
+The Kandori Fortress~
+Entering this bleak area from the blight, you stumble through the heat
+only to find yourself sprawled out in front of a massive stone structure. 
+Looking straight at this fortress, you notice a huge wooden drawbridge
+overlapping a large moat.  Two guards dressed in Kandori garb stand here
+protecting their awesome creation.  From the looks of the flag, it must
+belong to a very wealthy and powerful noble.  
+~
+0 0 0
+D2
+~
+drawbridge~
+3 8001 6701
+S
+#6701
+Inside the Foyer of The Fortress~
+As you enter this grand entrance foyer, you see flags of great Kandori
+royalty flowing from the walls.  Massive windows 3 stories high make you
+tilt your head back so that you can gasp at their breathtaking beauty.  The
+walls are no comparison to the outside of this awesome fortress.  In here
+they are smooth white polished stone.  It is all quiet in here, but you can
+hear the clicking of boots from behind another massive door to the south. 
+Be careful in this noble's fort.  
+~
+0 0 0
+D0
+~
+drawbridge~
+3 8001 6700
+D2
+~
+~
+3 6702 6702
+D3
+~
+~
+0 0 6713
+S
+#6702
+The Entrance Hall~
+Stepping through the 10 foot door out of the quietness of the foyer, you
+are surrounded by priceless items on all sides of this spectacular room.  In
+here, it is slightly cooler compared to the intense heat of the blight.  A
+deep crimson carpet spreads out at your feet in front and behind you, taking
+your breath away because of it's softness against the underside of your
+boots.  Soft steps are offset by loud thuds from behind.  The guard are
+coming closer!  
+~
+0 0 0
+D0
+~
+~
+3 0 6701
+D2
+~
+~
+0 0 6703
+S
+#6703
+The Grand Room~
+Breathing heavily, you pass through a larger door than the last.  This
+room is roughly the size of a small village.  The ceiling spans thirty feet
+above your head into a grand painted with paints from all over the world to
+make a collage fit for a king.  You see priceless paintings from across the
+Aryth Ocean spanning the furthest walls to all sides.  Four Corridors go to
+the furthest sides of the room as you stand in the middle and gaze longingly
+at the reaches of the valuables you see.  The crimson red carpet still
+comfortably coats the hard ground beneath your feet.  This Chamber is surely
+the most grand you have ever seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 6702
+D1
+~
+~
+3 6703 6710
+D2
+~
+~
+3 6703 6704
+D3
+~
+~
+3 6703 6730
+S
+#6704
+West Hallway~
+Before you is a hallway the size of ten carriages.  Crimson red carpet lines the floor
+with tiles of green and blue to either side.  The ceiling spans thirty feet above you.
+On the walls are paintings from all over the world.  Sea Folk Porcelien is gleaming from
+stands that look as if they were made for kings.
+~
+0 0 0
+D0
+~
+~
+3 0 6703
+D2
+~
+~
+0 0 6705
+S
+#6705
+A Split Corridor~
+Sighing with awe, you stare at the hallway in amazment.  Colors of all kinds seem to
+beam out of the sky at you.  Colors that you would only see with Tinkers.  Reds, blues
+greens, yellow, all kinds of different colors.  Vases and other Sea Folk object line
+the room on stands a tables.  Maids scurry around looking for their masters.  Paintings
+hang from the walls with looks of majesty.  You can chose four different directions
+to go from this point.
+~
+0 0 0
+D0
+~
+~
+0 0 6704
+D1
+~
+~
+0 0 6711
+D2
+~
+~
+0 0 6706
+D3
+~
+~
+0 0 6722
+S
+#6706
+Fortress Kitchen~
+Smells of fresh cooked foods come from all around you.  Huge cauthons resting over fires
+are bubbling.  In the corner of the room skinned rabbits and foxes are being cooked
+over an open flame.  Cooks and maids are running around frantically searching for the
+foods that their masters ordered.  A huge chimney seems to be out of place, but it
+looks like some sort of ventilation shaft.  This could be one of the busiest kitchens
+that you have seen.
+~
+0 0 0
+D0
+~
+~
+0 0 6705
+D1
+~
+~
+0 0 6712
+D3
+~
+~
+0 0 6723
+S
+#6707
+Guard's Bed Chambers~
+Small bunks and blankets scatter the room.  Candles cast a dim
+light that shows the miniture sizes of everything around you.  A
+rank odor can be smelt because of the clothes that are piled on
+the floors by the bunks.  Shoes, uniforms, and scyth like swords
+can be seen lying against bedpost.  This room is made for the army.
+~
+0 0 0
+D1
+~
+~
+3 0 6722
+D2
+~
+~
+0 0 6708
+D3
+~
+~
+0 0 6714
+M 0 H 0
+S
+#6708
+Guard's Room~
+Small tables are scattered about the room with various things setting on
+them.  Chairs, small stools, and other obscene objects are also scattered
+around the room for sitting objects.  Candles give off a dim light around
+the room allowing you to see just what is in front of you.  In the middle of
+the room is a table that looks as if it were made for playing cards on.  
+~
+0 0 0
+D0
+~
+~
+0 0 6707
+D3
+~
+~
+0 0 6709
+M 0 H 0
+S
+#6709
+Guard's Bathroom~
+Rank smells slowly climb your nostrils as you walk into this putrid area.
+Flys swarm around you with the breath of fresh air.  Mold and other strange
+things line the walls with a yellow tinge with it.  Clothes are thrown
+around the room which is creating a home for the vermin the are living here.
+Three small showers are standing here with a dampness that says they have
+just been used.  Candles add a dimness that is not all that satisfying.  
+~
+0 0 0
+D1
+~
+~
+0 0 6708
+M 0 H 0
+S
+#6710
+A Stone Packed Passage~
+A small, stone packed hallway seems to be cold and where you can bearly see.  Small
+flickers of light can be seen ahead with screams of torture.  The smell of the dead
+seem to be floating around the hall which makes you want to gag.  Small pools of blood
+can be seen where the dead have been drug the the graves.
+~
+0 0 0
+D1
+~
+~
+0 0 6715
+D3
+~
+~
+3 0 6703
+S
+#6711
+Fortress Courtyard~
+Flowers, trees, and various shrubs line the area as you walk out.  Lamp post are here
+to light the way as you walk around.  Beautiful green grass is carfully maintained
+along the stone walkway that splits the courtyard in two.  A small creek seems to
+go across the courtyard with a small bridge for people to cross.  Purple, blue, red
+white, and pink flowers line most everything that is in site to add a sort of flavor
+to the area.
+~
+0 0 0
+D1
+~
+~
+0 0 6717
+D3
+~
+~
+0 0 6705
+S
+#6712
+Heavily Guarded Room~
+Men seem to be moving everywhere throughout this room.  Talking, mumbling, and whispering
+can be heard every which way.  Maps and other papers are hanging from the walls and
+on tables that seem to have placed mark off from recent trolloc attacks.  Weapons of
+every sort can be seen throughout the room.  People walk through here with care not
+to disturb anything.
+~
+0 0 0
+D1
+~
+~
+0 0 6718
+D3
+~
+~
+0 0 6706
+S
+#6713
+Kandori Healing Chambers~
+Small candles add a small dim light to the area as you walk and take a look around. A
+strange aroma comes to your nostrils with a sense of calmness.  Herbs and bandages of
+all sorts are scattered around the room.  Wounded are lying here on small cots that
+look as uncomfortable as the feel.
+~
+0 1028 0
+D1
+~
+~
+0 0 6701
+M 0 H 0
+S
+#6714
+Illuminator's Room~
+A small, dim light casts a murky light onto the room as you walk in. 
+Small chests are scattered around the room filled with things that the
+famous illuminators would use.  A small table sits in the middle of the room
+with contents of different things on it.  Black powder and other various
+objects are also setting here.  
+~
+0 0 0
+D1
+~
+~
+0 0 6707
+D5
+~
+~
+3 0 6719
+M 0 H 0
+S
+#6715
+Carnage's Chamber~
+Entering this chamber you see things that you wish you had not.  Criminals that have
+broken to law are shackeled and hanging from the walls.  Pools of blood are scattered
+around the floor with rats and other vermen running lose throughout the room.  Moans
+and screams are heard from the people that are being tortured.  A dim light makes
+this place seem worse than it is.
+~
+0 0 0
+D2
+~
+~
+0 0 6716
+D3
+~
+~
+0 0 6710
+D5
+~
+~
+3 6716 6720
+S
+#6716
+East Hallway~
+This hallway does not seem to be as nice and complex as the other hallways.  Tile
+lines the floor, but a dim light is cast over everything that is around you.  Faint
+screams can be heard from somewhere to the north but you can not tell exactly where.
+~
+0 0 0
+D0
+~
+~
+0 0 6715
+D2
+~
+~
+0 0 6717
+S
+#6717
+Kandori Noble Bathroom~
+Bathing tubs, sinks, and other things line the room with a since of comfort as you
+enter the nobles bathing rooms.  Hot water is being carried into the room by serving
+maids that seem to be in some hurry.  In the corner undressing chambers stand alone
+for the people as the change.  The main feature to the room is the huge golden tubs
+that line the room.  It seems that three people could fit in one at once.  Candles
+light the room for everyone to see.
+~
+0 0 0
+D0
+~
+~
+0 0 6716
+D2
+~
+~
+0 0 6718
+D3
+~
+~
+0 0 6711
+S
+#6718
+The Noble's Bedchamber~
+Entering the room you notice that many things here are for kings.  The ceilings span
+many feet above your head with dazling lights hanging from them for light.  Chairs
+and stands are littered around the room with candles.  Sea Folk Porcelien in carefully
+placed on different things to make the room have an original feeling.  Paintings from
+all over the world are hanging from the walls.  A huge bed sits in the middle of the
+room with pillows and coverings of all kinds.  For many people, this room could be a
+house.
+~
+0 0 0
+D0
+~
+~
+0 0 6717
+D3
+~
+~
+0 0 6712
+S
+#6719
+Illuminator's Secret Chamber~
+A small ladder leads up towards the illuminator's room.  Small lights
+line the side as you clime down the ladder.  In the middle of the room a
+small table sets here filled with various things.  In the corner of the room
+lies a small chest standing open.  In side a golden color is gleaming
+brightly.  As you walk over to look at the chest you see that it is filled
+with golden coins.  Should you dare take some, will the illuminators notice?
+~
+0 0 0
+D4
+~
+~
+3 6715 6714
+M 0 H 0
+S
+#6720
+Fortress Dungeon~
+Walking down the winding staircase you notice small things around you. 
+Candles on each side of the wall light the path that you chose to take as
+you walk through the dungeon.  To your right cells can be seen with the
+unfortunate criminals that have done wrong in Kandor.  Vermin roam the floor
+as if they were the masters of everything in site.  Trays, plates,
+silverware, and other various kitchen ware can be seen scattered around the
+floor from past meals for the criminals.  
+~
+0 0 0
+D1
+~
+~
+1 0 6733
+D2
+~
+~
+0 0 6724
+D3
+~
+~
+1 0 6732
+D4
+~
+~
+3 0 6715
+S
+#6721
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6721
+S
+#6722
+The Guard's Post~
+This small room is filled with things that are able to outfit a small
+army of guards.  Short swords, staffs, daggers, hammers, and many other
+various weaponry is available.  In the middle of the room is a small table
+that holds a map of the surronding terrain around the fortress.  Guardsmen
+are patrolling the room with a careful eye.  Looking around you the guards
+start to notice you and seem to be coming closer.  
+~
+0 0 0
+D1
+~
+~
+0 6722 6705
+D3
+~
+~
+3 6722 6707
+S
+#6723
+The Pantry~
+Shelves stand everywhere around the room that is the size of a small house.  In
+the corner of the room is a small area where the meats are being seasoned and 
+hang from the ceiling.  On the shelves are vegetables from various lands.  Some have
+never before seen this land.  Beverages in barrels are being stored all around the
+room for anyone that is waiting for a drink.
+~
+0 0 0
+D1
+~
+~
+0 0 6706
+S
+#6724
+Fortress Dungeon~
+A dim light shimmers and puts a small lightened area on the wall
+making it just barely able for you to see.  Vermin, flies, and fleas
+infeast this area as if it were their world alone.  Various kinds
+of kitchen ware line the floor from dinners past creating hardly
+any walking room.  A rank smell flows through your nostrils as you
+walk from room to room.
+~
+0 0 0
+D0
+~
+~
+0 0 6720
+D1
+~
+~
+1 0 6729
+D2
+~
+~
+0 0 6725
+D3
+~
+~
+1 0 6728
+S
+#6725
+Fortress Dungeon~
+Stone lines everywhere around you as you walk into a smaller room. 
+Candles light the path so you are able to see but things still seem to be
+getting in your way.  Squeaks from rats and mice can be heard as you step on
+them.  Putrid smells flow through your nostrils as you walk from room to
+room.  The dead can be seen in the cells.  
+~
+0 0 0
+D0
+~
+~
+0 0 6724
+D1
+~
+~
+1 0 6726
+D3
+~
+~
+1 0 6727
+S
+#6726
+Dungeon Cell~
+Entering the small cell you notice that this place would not be
+good to live in.  A small toilet is in the corner for the prisoners
+to use.  A small sink stands in the opposite corner filled with 
+a murky brown water that looks as if it were not good to drink.
+~
+0 0 0
+D3
+~
+~
+1 0 6725
+S
+#6727
+Dungeon Cell~
+A creaking sound is heard as you open the door to the cell.  Rats and
+other vermin scutter across the ground in attempt to run.  Sinks, toilets,
+and other various things line the cell walls making life a little easier for
+the cellmates.  Bunkbeds sit on the wall but seem to be in bad condition. 
+Things fall from the ceiling as you walk around with the little light you
+have.  
+~
+0 0 0
+D1
+~
+~
+1 0 6725
+S
+#6728
+Dungeon Cell~
+Walking into the small, dim lighted room you notice that things seem to
+be different here than in the other cells.  A hidden hole is being carved
+out of the floor and wall that seems to be some sort of excape root.  A
+small piece of carpet is carefully placed over the hole to make it look as
+if nothing were being done.  
+~
+0 0 0
+D1
+~
+~
+1 0 6724
+D5
+~
+carpet~
+1 0 6734
+S
+#6729
+Dungeon Cell~
+A small candle lights the room as you walk in to see what is around
+you.  Vermin of all sorts runs around like the own the place.
+Bathroom things line the walls with things that can seem to be in
+bad condition.  A rank smell flows through your nostrils as you walk
+into this room with a dead corpse in the corner.
+~
+0 0 0
+D3
+~
+~
+1 0 6724
+S
+#6730
+The Bottom of the West Tower~
+Entering this vast cylinder of a room from the larger and more luxurious
+Grand Room makes you blink.  The air is musty, stale, and damp.  The walls
+are tar black from many torches burning through night and day.  A flight of
+stairs spiral up twenty paces above your head to a open hatch that must lead
+to the top of this, The West Tower.  
+~
+0 0 0
+D1
+~
+~
+3 0 6703
+D4
+~
+~
+0 0 6731
+S
+#6731
+The West Tower~
+Wind, heat, blazing light, it's all up here coming directly from the
+blight to your North.  The stone beneath your feet is like a blazing
+furnace, heating your body to the extreme.  Besides all these things, the
+scenery is beautiful.  You can see everything from up here.  Squinting your
+eyes against the sun, you almost think you can see the tip of Dragonmount to
+the South.  But then as you turn to the ever dark sky to the North, you hear
+a shout!  
+~
+0 0 0
+D5
+~
+~
+0 0 6730
+S
+#6732
+Dungeon Cell~
+Swinging from the top of the ceiling, you are able to see things that you
+did not think you would ever lay your eyes on.  A decayed thing is in the
+corner.  It is so mangled and torn that you are not able to determine what
+the thing is.  A dim light casts a small shadow which makes the area
+impossible to see in.  
+~
+0 0 0
+D1
+~
+~
+1 0 6720
+S
+#6733
+Dungeon Cell~
+A bright light is cast apon the room as you walk in.  The main hall is to
+the west of you.  A small bunk bed sets in the middle of the floor for the
+innmates to sleep on.  Not much can be seen from where you are, but a little
+can.  
+~
+0 0 0
+D3
+~
+~
+1 0 6720
+S
+#6734
+Escape Tunnel~
+One candle can be seen hanging from the dirt above your head as you move
+through this small area.  Dirt and mud cakes the floor as you slowly move
+making it impossible for you to manuver.  You can see a faint light ahead of
+you.  Could it be the exit?  
+~
+0 0 0
+D0
+~
+~
+0 0 6735
+D4
+~
+~
+1 0 6728
+S
+#6735
+Escape Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 6736
+D2
+~
+~
+0 0 6734
+S
+#6736
+Escape Tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 6737
+D2
+~
+~
+0 0 6735
+S
+#6737
+Escape Tunnel~
+~
+0 0 0
+D3
+~
+~
+0 0 6736
+S
+#6750
+`!G`1a`8w`!yn`8'`1s `7C`&h`8o`&d`7e `!F`1a`8c`!to`8r`1y`7~
+~
+0 4203012 0
+S
+#0
+
+
+
+#SPECIALS
+M 6718 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 6700 2 2
+D 0 6701 0 2
+D 0 6701 2 2
+D 0 6702 0 2
+D 0 6703 1 2
+D 0 6703 2 2
+D 0 6703 3 2
+D 0 6704 0 2
+D 0 6707 1 2
+D 0 6710 3 2
+D 0 6714 5 2
+D 0 6715 5 2
+D 0 6719 4 2
+D 0 6720 1 1
+D 0 6720 3 1
+D 0 6720 4 2
+D 0 6722 3 2
+D 0 6724 1 1
+D 0 6724 3 1
+D 0 6725 1 1
+D 0 6725 3 1
+D 0 6726 3 1
+D 0 6727 1 1
+D 0 6728 1 1
+D 0 6728 5 1
+D 0 6729 3 1
+D 0 6730 1 2
+D 0 6732 1 1
+D 0 6733 3 1
+D 0 6734 4 1
+M 0 8001 10 6700 2 Load Kandori Guardsman
+M 0 8001 10 6700 2 Load Kandori Guardsman
+E 0 8001 0 18 A drawbridge key is loaded none of Kandori Guardsman
+O 0 6701 0 6701 Aryth ocean vase loaded to Inside the Foyer of The Fortress
+P 0 6702 1 6701 1 Key to the entrance hall put inside key to the Entrance Hall
+M 0 6702 10 6702 2 Load A Kandori Hall Guard
+M 0 6702 10 6702 1 Load A Kandori Hall Guard
+E 0 6702 0 9 Key to the entrance hall is loaded on the hands of A Kandori Hall Guard
+M 0 6703 2 6703 2 Load A Kandori Door Guard
+M 0 6703 2 6703 2 Load A Kandori Door Guard
+M 0 6702 10 6705 2 Load A Kandori Hall Guard
+M 0 6702 10 6705 2 Load A Kandori Hall Guard
+O 0 6707 0 6707 A kandorian guard table. loaded to Guard's Bed Chambers
+M 0 6707 10 6707 2 Load A Kandorian Guard
+M 0 6707 10 6707 2 Load A Kandorian Guard
+O 0 6708 0 6708 A small card table. loaded to Guard's Room
+M 0 6708 10 6708 2 Load A Kandorian Guard
+M 0 6708 10 6708 2 Load A Kandorian Guard
+O 0 6709 0 6709 The guard's toilet. loaded to Guard's Bathroom
+M 0 6702 10 6710 2 Load A Kandori Hall Guard
+M 0 6702 10 6710 2 Load A Kandori Hall Guard
+O 0 6712 0 6712 A kandori map loaded to Heavily Guarded Room
+M 0 6707 10 6712 2 Load A Kandorian Guard
+M 0 6707 10 6712 2 Load A Kandorian Guard
+M 0 6707 10 6712 2 Load A Kandorian Guard
+M 0 6713 2 6713 1 Load a Kandorian Healer
+M 0 6731 10 6714 2 Load The Illuminator of Kandor
+M 0 6731 10 6714 2 Load The Illuminator of Kandor
+O 0 6714 0 6714 The illuminator's firework chest loaded to Illuminator's Room
+P 0 6715 2 6714 1 The illuminator's secret key put inside the Illuminator's secret key
+M 0 6716 2 6715 1 Load the Dungeon Master
+E 0 6716 0 18 The dungeon key is loaded none of the Dungeon Master
+O 0 6717 0 6717 A sea folk porcelain sink loaded to Kandori Noble Bathroom
+O 0 6718 0 6718 The kandori noble's bed loaded to The Noble's Bedchamber
+M 0 6718 1 6718 1 Load The Kandori Noble
+O 0 6719 0 6719 The illuminator's gold chest loaded to Illuminator's Secret Chamber
+M 0 4501 5 6720 1 Load a small black rat
+M 0 4501 5 6720 1 Load a small black rat
+M 0 13153 5 6720 1 Load A mouse
+M 0 6702 10 6722 2 Load A Kandori Hall Guard
+M 0 6702 10 6722 2 Load A Kandori Hall Guard
+M 0 6702 10 6722 2 Load A Kandori Hall Guard
+O 0 6721 0 6722 A kandorian key peg loaded to The Guard's Post
+P 0 6722 1 6721 1 The guard's room key put inside the Guard's Room Key
+O 0 6723 0 6723 Oak shelves loaded to The Pantry
+P 0 6724 5 6723 1 A kandori radish put inside a Kandori Radish
+P 0 6724 5 6723 1 A kandori radish put inside a Kandori Radish
+P 0 6724 5 6723 1 A kandori radish put inside a Kandori Radish
+M 0 1509 5 6724 1 Load a rat
+M 0 13152 5 6724 1 Load A rat
+M 0 13153 5 6724 1 Load A mouse
+O 0 6726 0 6726 The innmates sink loaded to Dungeon Cell
+O 0 6733 0 6727 A cell bed loaded to Dungeon Cell
+O 0 6729 0 6729 A small corpse loaded to Dungeon Cell
+M 0 6702 10 6730 2 Load A Kandori Hall Guard
+M 0 6702 10 6730 1 Load A Kandori Hall Guard
+M 0 6710 10 6731 1 Load a Kandorian Scout
+M 0 6710 10 6731 1 Load a Kandorian Scout
+O 0 6732 0 6732 A corpse loaded to Dungeon Cell
+O 0 6733 0 6733 A cell bed loaded to Dungeon Cell
+M 0 6734 10 6734 1 Load The Criminal
+M 0 6734 10 6734 1 Load The Criminal
+E 0 6734 0 18 `&(`!fl`1`a`!ming`&)`7 the escape light is loaded none of The Criminal
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

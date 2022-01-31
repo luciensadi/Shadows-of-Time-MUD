@@ -1,0 +1,2440 @@
+#AREADATA
+Name Shadow Guild Area~
+Builders Demandred~
+VNUMs 12000 12099
+Credits `4[`2GUILD `4]`7 Ishamael  Shadow Safe~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#12000
+Girsholm~
+The burly trolloc~
+A burly trolloc stands here, eying his surroundings.
+~
+This burly protector stands grumpily at his post, fighting off the
+occasional hunger pang and lapse of concentration.  Bulging arm muscles and
+a nasty set of teeth make this one fierce looking trolloc.  
+~
+unique~
+0 0
+ABTZe 49488 80 0 32776 -1  -1000 0
+775 128 40000d1+3000 100d100+1000 5d15+35 none
+-100 -100 -100 -100
+CDEFHK AZ BE 0
+stand stand male  0
+0 0 medium unknown
+M ACT 12000 nods~
+#12001
+Shoriok~
+A tall and cloaked fade~
+A tall and cloaked myrddraal locks eyes with you, smiling cruelly.
+~
+Pale death flowing through the shadows, a black sword shimmering in the
+darkness.  A fleeting glimpse of pale lips curled upwards in an utterly evil
+smile.  
+~
+unique~
+0 0
+ABGZ 336 1088 0 40968 -1  -100 0
+100 120 250d250+2000 100d10+100 50d50+100 none
+-100 -100 -100 -100
+AFHKR 0 0 0
+stand stand male  0
+0 0 medium unknown
+M ACT 12001 bows~
+#12003
+Grolo~
+A beastly, boar-headed trolloc~
+A beastly, boar-headed trolloc growls maliciously.
+~
+Mucus hangs in thick, viscous threads from the large snout of this
+boar-headed trolloc.  A jutting, hairy brow casts shadows on its black,
+soulless eyes.  Coarse, black hair covers its rough, leathery skin from its
+massive head to its cloven hooves.  
+~
+troll~
+0 0
+ABGZ 272 80 0 40968 -1  -1000 0
+100 100 30000d1+0 200d200+1000 50d50+10 none
+-100 -100 -100 -100
+CDEFHJKR A BE HK
+stand stand none 0
+ABHMV ABCDEFGHIJKUV medium unknown
+M GRALL 12006 100~
+M ACT 12003 bows~
+M ACT 12004 grins~
+#12004
+muzzled~
+A muzzled trolloc~
+Falling silent, a muzzled trolloc tests the wind... and begins to growl.
+~
+The trolloc looks like half human and half bear.  It is furred, with a
+large fanged mouth and huge clawed hands.  It is close to seven feet tall,
+and seems as wide.  
+~
+troll~
+0 0
+AGTZ 0 64 0 0 -1  -1000 0
+75 100 20d20+2000 0d0+0 10d10+30 crush
+-100 -100 -100 -100
+CDFKR A BE HK
+stand stand none 0
+ABHMV ABCDEFGHIJKUV huge unknown
+#12005
+goria~
+An enslaved woman~
+An enslaved woman stands here with a weak look upon her face.
+~
+This woman you are gazing at his covered in filth, and blood, obvisouly
+from the years of labour as a slave to the shadow spawn.  
+~
+unique~
+0 0
+ABZa 336 32 0 0 -1  0 0
+110 2000 200d200+2000 0d0+0 100d100+2000 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M GRALL 12002 5~
+M ACT 12005 peers~
+#12006
+ram horned trolloc~
+A ram horned trolloc~
+A tall, ram horned trolloc is here, commanding.
+~
+This trolloc stands proud, being more than eight feet tall.  He is
+powerfully built, with a bull's feet, sleek and strong.  His muscles bulge
+beneath his black fur, an image of vile strength.  His head is that of a
+bull, but with huge ram's horns.  His eyes glow with a commanding presence. 
+~
+troll~
+0 0
+AGTZ 0 0 0 0 -1  0 0
+75 0 50d50+1000 0d0+0 20d20+40 none
+-40 -40 -40 -40
+DR A BE HK
+stand stand male  0
+ABHMV ABCDEFGHIJKUV medium unknown
+#12007
+beaked~
+A beaked trolloc~
+A beaked trolloc is here, scouting.
+~
+The trolloc has the visage of an eagle, beaked and taloned.  It looks
+around with penetrating eyes, noting every detail.  
+~
+troll~
+0 0
+AGTZ 0 64 0 0 -1  -1000 0
+75 100 100d100+1000 0d0+0 50d50+50 none
+-100 -100 -100 -100
+DR A BE HK
+stand stand none 0
+ABHMV ABCDEFGHIJKUV medium unknown
+#12008
+blacksmith~
+A blacksmith~
+A tall barrel-chested blacksmith stands here staring absently into space.
+~
+A large man stands before you with huge arms, rippling with muscles.  His
+long black hair is pulled back into a pony-tail that hangs to his waist. 
+Soot and oil cover his otherwise tanned arms and clothes.  Looking closer
+there is an unsettling look upon his face, as if he has nothing to live for.
+Staring absently into space he continues his ominous work of creating tools
+of war for those he serves.  
+~
+troll~
+0 0
+ABTZ 0 0 0 0 -1  0 0
+100 200 250d250+2000 0d0+0 100d100+100 none
+-100 -100 -100 -100
+DFKR 0 BE HK
+stand stand male  0
+ABHMV ABCDEFGHIJKUV medium unknown
+#12009
+goat~
+A goat-faced trolloc~
+A large, goat-faced trolloc glares at you hungrily.
+~
+Huge, like all trollocs, this strange twisted creature has a goat's horns
+and muzzle, and walks on cloven hooves.  The eyes that stare at you,
+however, are disturbingly human.  
+~
+troll~
+0 0
+AGTZ 0 0 0 0 -1  -1000 0
+75 0 50d50+1000 0d0+0 20d20+50 none
+0 0 0 0
+DR A BE HK
+stand stand male  0
+ABHMV ABCDEFGHIJKUV large unknown
+#12010
+fade~
+A fade~
+A fade emerges from the shadows as you pass by.
+~
+In the darkness, a part of the shadows is standing quietly, patiently,
+waiting.  A brief glimmer of black armor passes amongst the fleeting
+darkness.  
+~
+troll~
+0 0
+ARZ 0 0 0 0 -1  -1000 0
+100 100 100d100+1000 0d0+0 30d30+30 none
+-100 -100 -100 -100
+DFGJKR 0 BE HK
+stand stand none 0
+ABHMV ABCDEFGHIJKUV medium unknown
+#12011
+dreadlord~
+A handsome man in black~
+A handsome man in black, military vesture generals the Dark Lord's new armies.
+~
+Tall and dangerously elegant, a young man barely within his prime watches
+the world through eyes wild beyond sanity.  His face though stern imparts a
+quality of self-satisfaction, and the foreign clothes he wears are a
+recreation of a fashion long outlived and from an age long past remembering.
+He is handsome, for the Shadow in its very self is an attraction, and woven
+upon the breast of his coat is a singular, unmistakable emblem: a serpent in
+silver biting its own tail.  
+~
+troll~
+0 0
+ABRZ 49408 64 19456 8 -1  -1000 0
+700 0 200d200+2000 700d10+100 150d150+50 slash
+-100 -100 -100 -100
+ADEFGHKR C BCE KN
+stand stand male  0
+ABHMV ABCDEFGHIJKUV giant unknown
+F vul H
+M SPEECH 12011 strong~
+#12012
+grizzled~
+A cruel grizzly trolloc~
+A cruel grizzly trolloc is here cracking his whip.
+~
+A tall hooved trolloc, part bear with a snake head cracks his whip urging
+his battering ram forward.  Hissing his directions, he urges his soldiers
+on.  
+~
+troll~
+0 0
+ABTZ 256 64 0 0 -1  0 0
+75 100 100d100+1000 0d0+0 20d20+50 smash
+-50 -50 -50 -50
+CDEFHKR 0 BE HK
+stand stand male  0
+ABHMV ABCDEFGHIJKUV giant unknown
+#12013
+shadow slave~
+A slave~
+One of the Keep's worthless slaves cowers here in the corner, trying in vain to escape notice.
+~
+~
+andor~
+0 0
+ABGZe 0 80 129 512 -1  0 0
+100 0 1d1+5000 0d0+0 0d0+0 slap
+0 0 0 0
+FHKU ABCDGKMOQXab 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK small unknown
+M ACT 12013 and sends your weapon~
+#0
+
+
+
+#OBJECTS
+#12000
+keep key~
+a key to the ruined keep~
+A key to the ruined keep is here.~
+metal~
+key HTa AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#12003
+keep key~
+a ruined keep key~
+A ruined keep key is here.~
+metal~
+key 0 AO
+0
+0 0 0 0 0
+1 0 0 P
+ T 0 none~
+#12004
+skull key~
+a thin iron, skull-shaped key~
+A thin iron, skull-shaped key is here.~
+iron~
+key 0 AO
+0
+0 0 0 0 0
+1 0 0 P
+ T 0 none~
+#12005
+well~
+an old, worn well~
+An old, and worn well is here filled with blood.~
+unknown~
+fountain 0 0
+0
+-1 -1 'blood' 0 0
+0 0 0 P
+ T 0 none~
+#12013
+dagger~
+practice Knife~
+A practice knife is here.~
+unknown~
+weapon HMPZa AN
+0
+exotic 0 0 none 0
+1 0 0 P
+A
+18 -5
+A
+19 -5
+ T 0 none~
+#12014
+moridin~
+a Statue of Moridin~
+A large obsidian statue of Moridin, stands to the side of the chamber.~
+unknown~
+furniture 0 0
+0
+0 0 0 0 0
+0 24464 0 P
+ T 0 none~
+#12015
+rianna~
+a statue of Rianna~
+A large marble statue of Rianna, stands to the side of the chamber.~
+unknown~
+furniture 0 0
+0
+0 0 0 0 0
+0 24464 0 P
+ T 0 none~
+#12016
+be'lal~
+a Statue of Be'lal.~
+A large obsidian statue of Be'lal, stands to the side of the chamber.~
+unknown~
+furniture 0 0
+0
+0 0 0 0 0
+0 16950 0 P
+ T 0 none~
+#12017
+bane~
+a statue of Bane~
+A large marble statue of Bane, stands to the side of the chamber.~
+unknown~
+furniture 0 0
+0
+0 0 0 0 0
+0 -31082 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#12000
+Near a Bridge~
+Here the path drastically changes.  It is now lined with tall slender
+poles with the skulls of various types of creatures placed atop them.  The
+trees have become nearly nonexistent.  The only things that remain of the
+trees are the trunks that once held them high in the sky.  The dirt of the
+path has become an unnatural color of black, and the cracks in it are lined
+with moss and mold.  To the east a bridge can be seen crossing a large
+canyon.  The path continues to the east over the bridge and to the west,
+away from the castle.  
+~
+0 134217729 8
+D1
+~
+~
+0 0 12001
+S
+#12001
+The Bridge~
+At this point a huge suspension bridge stretches across the vastness of
+the ravine.  The bridge has become rotten with age but still seems useable. 
+The sound of a raging river can be heard from the depths of the canyon
+below.  To the north a monstrous waterfall can be seen plummeting to the
+depths of the canyon.  The waterfall has formed a stair-like ridge where the
+water has eroded the rock face of one of the cliffs.  The bridge continues
+towards a castle to the east and through the mountains to the west.  
+~
+0 138412033 8
+D1
+~
+~
+0 0 12002
+D3
+~
+~
+0 0 12000
+S
+#12002
+In Front of the Castle~
+Rotten skeletons lie on either side of the castle entrance.  The huge oak
+doors lie on the ground apparently broken off from their hinges, and the
+portcullis is rusted fast about five feet from the ground.  However, newly
+crafted stone gates stand before you.  Four round towers loom high above
+providing excellent protection for the main entrance to the fortress.  The
+stones that make up the tower have been cut from a very dull red marble
+giving a sense of age.  A path leads west, away from the castle.  
+~
+0 1 8
+D1
+~
+gate~
+4 12000 12003
+D3
+~
+~
+0 0 12001
+S
+#12003
+The Gatekeep~
+Two large round towers lie to the west and the same to the east.  This
+area is enclosed by great walls connecting all four towers, with
+portcullises in between the towers to the east and west.  The portcullis to
+the west is jammed half way down.  The portcullis to the east has a large
+hole ripped through the iron bars.  Beyond the east portcullis lie the main
+gates to the castle courtyard.  These monstrous oak doors are wide open
+leaving the castle totally unprotected.  A path runs westward away from the
+castle.  
+~
+0 138412032 0
+D1
+~
+~
+0 0 12004
+D3
+~
+gate~
+4 0 12002
+S
+#12004
+Entrance to the Courtyard~
+It is now obvious just how run down this castle is.  The walls
+surrounding the castle have become piles of rubble in many places or are
+nearly completely covered by large thorny vines.  Most of the towers on the
+wall have collapsed rendering them totally useless.  The ceilings of both
+keeps have also fallen in on themselves totally destroying the top level of
+each.  To the east are the twin keeps, and the courtyard continues in all
+directions.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12005
+D1
+~
+~
+0 0 12006
+D2
+~
+~
+0 0 12007
+D3
+~
+~
+0 0 12003
+S
+#12005
+The Courtyard~
+Rotting wood lie in heaps amongst the rubble from the crumbling walls. 
+Harmless snakes slither over the rocks to disappear in their holes.  To the
+north a pile of skeletons lies in a large heap and to the east is a well.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12016
+D1
+~
+~
+0 0 12015
+D2
+~
+~
+0 0 12004
+D3
+~
+~
+0 0 12014
+S
+#12006
+The Courtyard~
+To the east lie the shattered remains of the southern keep.  From here
+the devastation is even more apparent than before.  The roof of this once
+prominant keep has collapsed in on itself totally destroying the upper level
+of the keep.  Large vines with huge spikes on them have made the walls of
+the keep their home.  To the north a well can be seen and to the east is the
+entrance to the barracks.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12015
+D1
+~
+~
+0 0 12053
+D2
+~
+~
+0 0 12088
+D3
+~
+~
+0 0 12004
+S
+#12007
+The Old Stables~
+A musty smell and the stench of rotting hay linger in the air here.  The
+wood that makes up the stables is rotten and seems to begin to crumble at
+very footstep.  Rodents can be seen running around in the hay searching for
+some sign of food.  At the base of the south wall, what remains of the head
+of a horse can be seen.  The courtyard continues to the north.  To the west,
+the southern tower of the gatekeep rises.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12004
+D3
+~
+~
+0 0 12008
+S
+#12008
+Inside the Southern Gatekeep~
+The grumbling walls of the tower barely support the massive weight of the
+second floor.  Blood covers the walls, some streaks forming crude drawings,
+others insults in Trolloc.  A stairway leads up to the second floor.  
+~
+0 138412040 0
+D1
+~
+~
+0 0 12007
+D4
+~
+~
+0 0 12009
+S
+#12009
+Second Floor of the Southern Gatekeep~
+This floor is free of skeltons, but blood covers the walls in a gruesome
+display of anarchy.  Phallic symbols are numerous as are oaths to the people
+of Manetheren.  Arrow slits cover the walls allowing archers to shoot both
+into the courtyard and outside of the castle walls.  
+~
+0 138412040 0
+D2
+~
+wooden~
+1 0 12010
+D4
+~
+~
+0 0 12011
+D5
+~
+~
+0 0 12008
+S
+#12010
+Within a Tower~
+A short tower rising on the south eastern wall of the keep is the only
+tower that is still intact.  A thin window, large enough for a bird is on
+the southern wall.  A large table dominates the room with various papers and
+maps of the Blight and Borderlands.  
+~
+0 138412045 0
+D0
+~
+wooden~
+1 0 12009
+S
+#12011
+Top of the Southern Gatekeep~
+From this southern tower merlins and crenelations form a protective
+barrier to the soldiers that long ago dropped burning pitch and rocks upon
+the enemies.  From this height any approaching enemies can be seen clearly. 
+~
+0 138412040 0
+D0
+~
+~
+0 0 12012
+D5
+~
+~
+0 0 12009
+S
+#12012
+Top of the Northern Gatekeep~
+Merlins and crenelations form a protective barrier to the soldiers that
+once fought here.  From this height any approaching enemies can be seen
+clearly.  You can see far to the south, watching as far as Tarwin's Gap and
+the Blight.  
+~
+0 138412040 0
+D2
+~
+~
+0 0 12011
+D5
+~
+~
+0 0 12013
+S
+#12013
+Second Floor of the Northern Gatekeep~
+The second floor of the gatekeep tower is heaped with skeletons as if
+long ago this was a last stand for many warriors.  The armor has all but
+rusted to dust, and the weapons are in similar bad shape.  Arrow slits line
+the walls facing both inside and outside of the castle walls.  The spiral
+stairs lead upward to the top of this tower, and a door leads to the castle
+wall to the north.  This is an excellent vantage point to watch over the
+path approaching the castle from the Blight.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12021
+D4
+~
+~
+0 0 12012
+D5
+~
+~
+0 0 12014
+S
+#12014
+Inside the Northern Gatekeep~
+The room is in disarray, with chairs and tables overturned and blood
+smeared on the walls.  Skeletons litter the floor, some still in their
+rusted armor with broken spears caught between the bleached white ribs.  A
+spiraling stairway leads up to the second floor, and a large oak door leads
+to the courtyard.  
+~
+0 138412040 0
+D1
+~
+~
+0 0 12005
+D4
+~
+~
+0 0 12013
+S
+#12015
+The Well~
+The Well Here lies a deep dark well.  The crank that lowers the bucket is
+heavily rusted and appears as if it would break at the first touch.  A
+bucket dangles from a frayed and well used rope.  The large granite stones
+that make up the sides of the well have become brittle with age and are
+falling apart.  The ground around the well shows signs of grass sprouting in
+small clumps indicating that there must be some water within the well.  The
+courtyard continues in all directions, and the entrance to the southern keep
+lies to the east.  
+~
+0 138412032 0
+E
+well~
+This is an old, and worn well that has obvisouly been put to use for many
+years.  
+~
+D0
+~
+~
+0 0 12017
+D1
+~
+~
+0 0 12051
+D2
+~
+~
+0 0 12006
+D3
+~
+~
+0 0 12005
+S
+#12016
+A pile of Decaying Skeletons~
+A large amount of skeletons have been piled up here.  Rodents run in and
+out of the skeletons attempting to escape the present danger as you
+approach.  Strange weeds grow through the skeletons attempting to reach and
+to survive this harsh environment.  The wall to the north has collapsed and
+the remaining rubble is scattered everywhere.  The twin keeps lie to the
+east and the courtyard continues to the east and south.  
+~
+0 0 0
+D1
+~
+~
+0 0 12017
+D2
+~
+~
+0 0 12005
+S
+#12017
+The Courtyard~
+The view here is amazing.  To the east and slightly south east lie the
+twin keeps which tower above everything.  From here the vastness of the
+destuction of the entire castle can be seen in its entirety.  The roofs of
+both keeps have collapsed in on themselves totally destroying the upper
+levels of both keeps.  Also most of the walls that used to provide excellent
+protection against attack have nearly crumbled to nothing.  A putrid smell
+of decay can be sensed coming from the west, and a well lies to the south. 
+The courtyard extends in all directions from here.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12018
+D1
+~
+~
+0 0 12022
+D2
+~
+~
+0 0 12015
+D3
+~
+~
+0 0 12016
+S
+#12018
+The Blacksmith's Workshop~
+In the center of the room there is a large anvil which was obviously used
+by the blacksmith who worked here to pound at iron and form various types of
+iron works.  In the northern wall lies the pit where the metal was fired to
+get it white hot.  Against the west wall there are the remnants of a shelf
+that was once used to hold the blacksmiths various tools.  In the righthand
+corner of the roof there is a large hole that allows the sun to shine in and
+light the entire place.  The only exit lies to the south which goes back
+into the courtyard.  
+~
+0 138412040 0
+D2
+~
+~
+0 0 12017
+D4
+~
+~
+0 0 12019
+S
+#12019
+On the Castle Wall~
+The wall ends here as it joins to the north with the mountain side.  The
+true defendability of this castle is now obvious as it is nestled in the
+mountain making the west the only necessary place to defend.  
+~
+0 138412032 0
+D2
+~
+~
+0 0 12020
+D5
+~
+~
+0 0 12018
+S
+#12020
+On the Castle Wall~
+A broken catapult lies here in pieces, the wood rotting leaving mostly
+rusted pieces.  A few large boulders still remain as ammunition that was
+never fired.  To wall leads north and west.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12019
+D3
+~
+~
+0 0 12021
+S
+#12021
+On the Castle Wall~
+Merlins and crenelations form excellant protection from long past sieges
+in a time now forgotten.  Large blocks of granite have fallen off from wars
+long forgotten.  The castle wall leads south to the gatekeep and continues
+east.  
+~
+0 138412032 0
+D1
+~
+~
+0 0 12020
+D2
+~
+~
+0 0 12013
+S
+#12022
+The Courtyard~
+Amongst the rocks and splintered wood that covers the floor is a lance
+with a tattered flag attatched to it.  The holder is now a skeleton, his own
+clothes nothing but rags, with an insignia of the Golden Eagle emblazoned on
+the front.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12024
+D1
+~
+~
+0 0 12023
+D2
+~
+~
+0 0 12051
+D3
+~
+~
+0 0 12017
+S
+#12023
+The Courtyard~
+A sheer cliff looms up into the sky.  The wind screams down from the
+mountain above to whistle through the twin keeps.  Vines have tried to creep
+up part of the cliff, but eventually are unable to overcome gravity.  There
+appears to be a ledge far up the cliff.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12025
+D2
+~
+~
+0 0 12050
+D3
+~
+~
+0 0 12022
+S
+#12024
+A Destroyed Catapult~
+The remnants of a large catapult can be seen strewn all over the ground
+here.  This once great machine has been totally destroyed rendering it
+utterly useless.  The rodents which have made this their home can be seen
+running throughout the shattered catapult.  The courtyard extends out to the
+north south and east.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12027
+D1
+~
+~
+0 0 12025
+D2
+~
+~
+0 0 12022
+S
+#12025
+The Courtyard~
+This section of the courtyard runs along the outer walls surrounding the
+keep.  The walls are covered in a black moss along with black vines encasing
+the keep totally.  With close examination it seems that this keep is faring
+the effects that age has had on it better than the rest of the castle
+grounds.  The entrance to the southern keep lies to the south, a destroyed
+catapult lies to the west and the courtyard extends to the south.  
+~
+0 138412032 0
+D2
+~
+~
+0 0 12023
+D3
+~
+~
+0 0 12024
+S
+#12027
+The Courtyard~
+This part of the courtyard runs along the wall of the eastern keep.  The
+walls of the keep are showing signs of age but are apparently fareing better
+than the rest of the castle.  Large black vines with thorns almost encase
+the entire keep, almost acting as a tomb.  The entrance to the eastern keep
+lies to the north and a destroyed catapult lies to the south.  
+~
+0 138412032 0
+D1
+~
+~
+0 0 12028
+D2
+~
+~
+0 0 12024
+S
+#12028
+The Entrance to the Northern Twin Keep~
+This is the entrance to the northern keep.  The door to the keep is still
+intact but seems to be rusted open.  Old runes have been carved into the
+wall surrounding the opening giving a sense of the tranquility this place
+once had.  The vines hanging from the outer walls have all but covered the
+opening.  The Grand Hall lies to the east and the courtyard expands to the
+west.  
+~
+0 138412040 0
+D1
+~
+~
+0 0 12029
+D3
+~
+~
+0 0 12027
+S
+#12029
+The Grand Hall~
+This is the Grand Hall.  The walls here are made out of large slabs of
+beautiful marble.  On both sides of the hall are torch holders that are now
+empty, and rusty from years of neglect.  There is filth and grime covering
+the floor and walls.  Moss grows in the cracks between the marble slabs that
+seems to grow slightly yellow.  There is an office to the north, the
+servants sleeping chamber is to the south, the entrance to the keep lies to
+the west, and the hall continues to the east.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12031
+D1
+~
+~
+0 0 12032
+D2
+~
+~
+0 0 12030
+D3
+~
+~
+0 0 12028
+S
+#12030
+Sleeping Chamber~
+Of all the ransacked rooms along this wing of the keep, this one seems
+the least touched.  Comfortable in a dark way, the thick crimson carpet
+lends an ominous quality to the very air.  The walls are paneled in
+dark-stained oak, evenly spaced with wrought-iron brackets, smoking softly
+with lit torches.  A large room, with a ceiling that extends above beyond
+even the light of the flames, there is plenty of space for the soft-backed
+chairs embroidered in the same crimson colors as the material underfoot. 
+Movement from the corner of the eye, fleeting and silent, signals the
+arrival and departure of servants still living, perhaps survivors from the
+devastation pressed into the service of the conquerers.  
+~
+0 138413064 0
+E
+moridin~
+Your gaze slowly sweeps over a gigantic obsidian statue, tainted with the
+blood of the innocent.  It's obvious the statue is of a Chosen who once
+lived by the name Moridin.  At the base of the statue, there is a small
+plaque, with a tiny script engraved onto it, upon closer inspection you can
+read the words, "Destroyer of the masses."  
+~
+E
+be'lal~
+Your gaze slowly sweeps over a gigantic marble statue, tainted with the
+blood of the innocent.  It's obvious the statue is of a Chosen who once
+lived by the name Be'lal.  At the base of the statue, there is a small
+plaque, with a tiny script engraved onto it, upon closer inspection you can
+read the words, "Slayer of the Innocents."  
+~
+E
+rianna~
+Your gaze slowly sweeps over a gigantic marble statue, tainted with the
+blood of the innocent.  It's obvious the statue is of a Dreadlord who once
+lived by the name Rianna.  At the base of the statue, there is a small
+plaque, with a tiny script engraved into it, upon closer inspection you can
+read the words, "Veil of The Shadow."  
+~
+E
+bane~
+Your gaze slowly sweeps over a gigantic marble statue, tainted with the
+blood of the innocent.  It's obvious the statue is of a Dreadlord who once
+lived by the name Bane.  At the base of the statue, there is a small plaque,
+with a tiny script engraved onto it, upon closer inspection you can read the
+words, "Tainted."  
+~
+D0
+~
+~
+0 0 12029
+D2
+~
+~
+0 0 6402
+S
+#12031
+Lord's Office~
+You have entered the Lord's office.  Old papers lie scattered all over
+the floor rotting from old age.  The remnants of a table lies against the
+northern wall, and chairs lie in shambles on the floor.  On the east wall
+there is a fireplace that has crumbled to nearly nothing.  There seems to be
+the remains of a body in the northeast corner of the room but it has decayed
+so much it is hard to tell.  The only exit is to the south into the Grand
+Hall.  
+~
+0 138412040 0
+D2
+~
+~
+0 0 12029
+S
+#12032
+In the Grand Hall~
+This is a large intersection of halls.  There is rubble all over the
+floor that seems to have come from the east.  The moss in the cracks between
+the marble slabs is glowing a fairly bright yellow but not enough to make
+anything visible.  To the north is the northern wing, to the south is the
+southern wing, to the east is the eastern wing, and to the west is the
+entrance to the keep.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12033
+D1
+~
+~
+0 0 12035
+D3
+~
+~
+0 0 12029
+S
+#12033
+The Northern Wing of the Great Hall~
+This is the northern-most tip of the Grand hall.  Time has played a harsh
+role in the destruction of this wing.  The floor has large cracks allowing
+small plants to grow through.  There are huge cracks racing through the
+walls which have ruined the beautiful marble slabs that make it up.  The
+library lies the the east, and the hall leads south.  
+~
+0 138412040 0
+D1
+~
+~
+0 0 12034
+D2
+~
+~
+0 0 12032
+S
+#12034
+In the Library~
+The walls here are lined with huge shelves that used to hold thousands of
+books, but it looks like they were all burned in the corner of the room long
+ago.  Now dirt and grime has encased the shelves turning to a nasty brown
+color.  All the tables in this large room have been destroyed along with the
+chairs.  The northern wing of the grand hall lies to the west, and the
+eastern wing lies to the south.  
+~
+0 138412040 0
+D2
+~
+~
+0 0 12035
+D3
+~
+~
+0 0 12033
+S
+#12035
+The Eastern Wing of the Great Hall~
+This area of the hall is covered with rubble obviously from the collapse
+of the upper level.  This has rendered the stairs leading to the upper level
+useless.  The fallen rubble has caused huge cracks in the floor making it
+hard to get by.  Large spiders and other various insects can be seen
+climbing in and out of the rubble looking for any sign of food.  A door to
+the north lead to the library, the study lies to the south, the intersection
+of all the halls lies to the west, and the dungeon lies down via the stairs.
+~
+0 138412040 0
+D0
+~
+~
+0 0 12034
+D2
+~
+~
+0 0 12036
+D3
+~
+~
+0 0 12032
+D5
+~
+~
+0 0 12037
+S
+#12036
+The Study~
+This used to be the personal study of the king that ruled this place. 
+Now there is not much left.  All the paintings lie ruined and destroyed on
+the floor, the fireplace in the southeast corner of the room has fallen to
+pieces.  The table and chairs now lie in the center of the floor in a mass
+of splintered and knarled wood.  The only exit is to the north into the
+eastern wing of the Grand Hall.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12035
+S
+#12037
+Entrance to the Dungeon~
+As you come down the rubble strewn stairs into the darkness of the
+dungeon a sharp chill bites at all who dare to enter this forsaken area.  A
+slippery moss has made the stairs and rubble its home making it hard to find
+a good footing on the way down or up.  There is absolutely no natural night
+provided by the sun to this dismal place.  To the north lies a cell, to the
+south lie various mechanisms, to the west lies the dungeon extending deeper
+into the dark cold recesses of this dismal place, and up the stairs is the
+famed Grand Hall.  
+~
+0 138420233 0
+D0
+~
+iron~
+4 12004 12038
+D2
+~
+~
+0 0 12039
+D3
+~
+~
+0 0 12040
+D4
+~
+~
+0 0 12035
+S
+#12038
+A Cell~
+The smell of defecation lingers in the air here.  In the far northeast
+corner large piles of waste can be seen rotting away leaving its scent for
+all who enter to smell and remember.  The walls are smooth with a thin layer
+of moss and the cell floor is damp.  The door and the cell have remained
+intact throughout the many years of neglect.  The only exit is to the south.
+~
+0 140518409 0
+D2
+~
+iron~
+4 12004 12037
+S
+#12039
+Instruments of Torture~
+Large devices are strung all over the floor here.  The machines are
+fitted with pullies and rope giving the idea that they were used to torture
+people.  It seems that the machines are still intact so they must still work
+except that the ropes have become rotten and frayed and will break at any
+type of strain.  The chill of the dungeon seems to be all around and on the
+floor the slippery moss can be seen growing, struggling to live.  The
+entrance to the dungeon is to the north and there seems to be a fire pit to
+the west.  
+~
+0 134217736 0
+D0
+~
+~
+0 0 12037
+D1
+~
+~
+0 0 12089
+D3
+~
+~
+0 0 12041
+S
+#12040
+The Dungeon~
+This part of the dungeon is pretty much like all the other parts.  The
+air is damp and the dungeon floor is slightly slippery caused by the various
+forms of moss growing.  The air has a scent of defecation which seems to be
+coming somewhere to the east, and it is also very chilly and stuffy in this
+dark and dismal area.  A cell lies to the south, the entrance the dungeon
+lies to the east, a large fire pit can be seen to the south, and the dungeon
+extends to the west.  
+~
+0 8192 0
+D0
+~
+iron~
+4 12004 12042
+D1
+~
+~
+0 0 12037
+D2
+~
+~
+0 0 12041
+D3
+~
+~
+0 0 12043
+S
+#12041
+Fire Pit~
+With each step dust is stirred in this dark dismal area.  Here there is a
+large fire pit.  Various broken branding tools can be seen strewn throughout
+the pit.  There is a sense of heat coming from the pit indicating that it
+has been used recently.  Along the southern wall there is a shelf that is
+still intact and holds various things used to stoke the fire.  The dungeon
+extends in all directions except to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 12040
+D1
+~
+~
+0 0 12039
+D3
+~
+~
+0 0 12045
+S
+#12042
+Cell full of Skeletons~
+It is very hard to move around in this cell due to the large amount of
+skeletons and corpses of various creatures that lie scattered all over the
+cell floor.  The smell of death and decay lingers in the air around this
+putrid smelling cell.  In the corner it seems that there is a fairly fresh
+body that seems to have been torn to shreds by something.  The only exit is
+to the south.  
+~
+0 140518409 0
+D2
+~
+iron~
+4 12004 12040
+S
+#12043
+The Dungeon~
+The farther in to the dungeon the worse it seems to get.  The smell of
+defecation, decay, and the musty smell all seem to combine into one
+revolting smell that can disgust even the worst of creatures.  The floor
+here shows signs of recent travel, and the dirt is moist.  To the south lies
+what seems to be a storage area and the the north there is a cell.  
+~
+0 138420233 0
+D0
+~
+iron~
+4 12004 12044
+D1
+~
+~
+0 0 12040
+D2
+~
+~
+0 0 12045
+S
+#12044
+The Cell~
+It seems that this cell has pretty much remained unused since the
+downfall of this enormous castle.  The cell walls are very smooth and slick
+which is caused by the moss and fungi that grow there.  The cell floor is
+damp, and the air here is stale.  The only exit out of here is to the south
+back into the main section of the dungeon.  
+~
+0 140518409 0
+D2
+~
+iron~
+4 12004 12043
+S
+#12045
+Storage Area~
+This corner of the dungeon was once used to store various equipment.  The
+shelves have long been destroyed but yet the back of the shelves is still
+intact.  Broken chains and various forms of restraint lie strewn on the
+floor.  There are also various broken weapons such as swords and maces left
+cluttering the floor here.  The dungeon extends to the north and east from
+here.  
+~
+0 138412041 0
+D0
+~
+~
+0 0 12043
+D1
+~
+~
+0 0 12041
+D5
+~
+~
+0 0 12046
+S
+#12046
+Secret Passage~
+This seems to be a small cavern that connects the two keeps together. 
+The air here is very cold and damp, and the floor is covered with a large
+layer of dust.  The cavern walls are very jagged and yet smooth at the same
+time.  There are numerous tracks left in the dust indicating that something
+has been here recently or that it has not been used since this castle fell,
+and time has forgotten this place.  The cavern leads to the south and the
+dungeon of the Northern Keep is up.  
+~
+0 138412041 0
+D2
+~
+~
+0 0 12047
+D4
+~
+~
+0 0 12045
+S
+#12047
+Deep in the Secret Passage~
+The air here is very damp and misty.  The floor is covered in a thick
+layer of dirt, and the walls of the cavern are jagged and smooth in some
+places.  The only sign of life is the large amount of moss that grows
+everywhere in here.  Small skeletons of rodents can be seen in the corners
+of the cavern which probably died trying to find a way out of here.  The
+cavern extends to the north and south.  
+~
+0 138412041 0
+D0
+~
+~
+0 0 12046
+D2
+~
+~
+0 0 12048
+S
+#12048
+Deep in the Secret Passage~
+This area of the cavern has slightly caved in on itself.  The ceiling is
+still intact but looks very unsafe.  Small insects can be seen running in
+and out of the debris from the cavein.  Moss grows all over the walls and
+floor making walking slightly difficult.  The walls here are mostly jagged
+but in some places it is still smooth.  The cavern extends to the north and
+south.  
+~
+0 138412041 0
+D0
+~
+~
+0 0 12047
+D2
+~
+~
+0 0 12049
+S
+#12049
+The Secret Passage~
+The air here is old and stale.  The dust is so thick here that it makes
+it hard to breath.  The walls are very smooth with an occasional outcroping.
+There is a large amount of rock strewn all over indicating that at one point
+in time there was a cavein.  The smell of decay looms in the air.  The
+passage continues to the north and up is the dungeon of the southern keep.  
+~
+0 138412041 0
+D0
+~
+~
+0 0 12048
+D4
+~
+~
+0 0 12086
+S
+#12050
+The Courtyard~
+This area of the courtyard runs right up to the mountain cliff nestled
+between the two keeps.  Rocks and boulders lie scattered around the floor
+having fallen from the cliff face from some strong force.  The keeps
+themselves seem to have suffered immense damage to their upper levels from
+the falling rocks.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12023
+D2
+~
+~
+0 0 12052
+D3
+~
+~
+0 0 12051
+S
+#12051
+The Courtyard~
+One of the few parts of the courtyard not cluttered, the cobblestone can
+actually be seen.  A well lies to the west set in large granite stones.  The
+twin keeps that once stood menacingly to the east are now crumbling and
+falling apart.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12022
+D1
+~
+~
+0 0 12050
+D3
+~
+~
+0 0 12015
+S
+#12052
+The Entrance to the Southern Twin Keep~
+This is the great entrance to the southern keep.  The door has fallen off
+its hinges leaving the keep wide open.  Old runes have been carved into the
+wall surrounding the opening giving the sense of just how old this place
+really is.  The vines that hang from the outer walls have all but covered
+the opening.  The entrance to the barracks lies to the southwest, the
+courtyard stretches to the west and north, and the great hall lies to the
+east.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12050
+D1
+~
+~
+0 0 12057
+D3
+~
+~
+0 0 12053
+S
+#12053
+The Courtyard~
+Rocks intermingled with skeletons form a large heap here.  Rusted
+weapons, mostly broken stick out from the rocks like spines.  Shields and
+bits of battered armor clutter the rocks, some of which still surround their
+former white skeleton owners.  What appears to be barracks lie to the south
+and to the east is the entrance to the southern keep.  
+~
+0 138412032 0
+D1
+~
+~
+0 0 12052
+D2
+~
+~
+0 0 12054
+D3
+~
+~
+0 0 12006
+S
+#12054
+Entrance to the Barracks~
+This is the entrance to the barracks.  A putrid smell permeates from the
+inside.  The stone foundation has been made visible from erosion of the
+ground around it.  Large cracks can be seen in the foundation making the
+building unstable.  The entrance to the eastern keep lies to the north, the
+barracks lies to the south, and the courtyard extends to the north.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12053
+D1
+~
+~
+0 0 12055
+S
+#12055
+The Barracks~
+This is the living room of the barracks.  The room is huge with a large
+fireplace along the southern wall.  The remnants of a table lie in the
+center of the room and broken chairs are scattered throughout.  There is a
+picture of someone above the fireplace that has huge slash marks over the
+entire picture.  The exit to the barracks is to the west and the sleeping
+chamber is to the east.  
+~
+0 138412032 0
+D1
+~
+~
+0 0 12056
+D3
+~
+~
+0 0 12054
+S
+#12056
+The Barracks~
+You have entered the sleeping chamber of the barracks.  There are lots of
+bunkbeds scattered all over here.  Some are overturned, some have been
+totally destroyed, and some are still intact.  A disturbing smell of rot and
+decay permeates the air.  Skeleton parts can be seen scattered around as if
+someone or something was torn apart here.  The living room lies to the west.
+~
+0 6291456 0
+D3
+~
+~
+0 0 12055
+S
+#12057
+In the Great Hall~
+This is the huge intersection of all the halls in the keep.  There is the
+smell of decay hanging in the air along with the smell of stale air.  The
+beautiful marble slabs that make up the walls and floor are now covered in a
+thick layer of dirt.  The torch holders that used to hang on the walls have
+fallen from their places to the floor causing cracks in the marble tiles
+from the impact.  The Hall extends in all directions here.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12058
+D1
+~
+~
+0 0 12064
+D2
+~
+~
+0 0 12060
+D3
+~
+~
+0 0 12052
+S
+#12058
+The Northern Wing of the Great Hall~
+This part of the intricate hallways of the Southern Keep is covered in a
+thick layer of dirt and grime.  The marble that makes up the walls and floor
+have become dull with age.  The air is filled with a musty and old smell and
+small plants can be seen growing up through the cracks in the marble.  A
+large storage room lies to the west and the halls extends to the south.  
+~
+0 140509192 0
+D2
+~
+~
+0 0 12057
+D3
+~
+~
+0 0 12059
+S
+#12059
+Storage Area~
+You have entered a large storage room.  Shelves line all the walls of
+this large room.  Most of the shelves have broken leaving their contents
+scattered on the floor.  All the weapons that were stored here are now
+broken and can no longer be used.  The dust in here is thick, covering
+everything with a thin layer.  The only exit is to the east back into the
+hall.  
+~
+0 140509192 0
+D1
+~
+~
+0 0 12058
+S
+#12060
+The Southern Wing of the Great Hall~
+This area is badly burned towards the southern portion of the hall. 
+Blood stains cover both the walls and floor, destroying the beauty these
+walls once had.  The door to the west is shattered and lies off its hinges
+on the floor.  
+~
+0 6291456 0
+D0
+~
+~
+0 0 12057
+D2
+~
+~
+0 0 12062
+D3
+~
+~
+0 0 12061
+S
+#12061
+Servants Sleeping Area~
+This is the sleeping chamber of the servants.  The room is filled with
+the debris of the beds that once provided sleep for the weary servants.  The
+marble floor has been stained with blood and the walls have blood splattered
+all over.  The smell of blood is fresh in the air giving the sense that
+someone or something has died here recently.  The only exit is to the east
+back into the hall.  
+~
+0 140509192 0
+D1
+~
+~
+0 0 12060
+S
+#12062
+The Southern Wing of the Great Hall~
+This is the southern end of the hall opening up into two rooms.  Burn
+marks scorch the entire hallway having originated from the eastern room. 
+Torch holders have melted away from the extreme heat and the marble walls
+have cracked.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12060
+D1
+~
+~
+0 0 12066
+D2
+~
+~
+0 0 12063
+S
+#12063
+A Fetid Pit~
+Racks where armor was once placed and swords hung adorn the southern
+wall.  A symbol has been drawn with blood on the western wall.  A huge
+circular pit now lies in the middle of the room, lowered a span below the
+rest of the floor.  Varying equipment, rations and weapons lie in the bottom
+of the pit, free for the taking of the horde.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12062
+S
+#12064
+The Eastern Wing of the Great Hall~
+Long cracks line the walls of this hall.  A strong stench comes from the
+room to the north.  Spider webs hang in the corners of the hall, their
+builders working busy to maintain a clean web.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12065
+D1
+~
+~
+0 0 12068
+D2
+~
+~
+0 0 12067
+D3
+~
+~
+0 0 12057
+S
+#12065
+A Smelly Bathroom~
+The stench is overwhelming here from the waste that has been able to
+accumulate over the years.  Flies buzz around in circles above the hole in
+the ground.  
+~
+0 140509184 0
+D2
+~
+~
+0 0 12064
+S
+#12066
+The Library~
+Once a great library the books are all but burned and torn apart.  Other
+than the charred pieces of paper there is nothing of interest here.  A study
+lies to the north, and the entrance to the hall is to the west.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12067
+D3
+~
+~
+0 0 12062
+S
+#12067
+In the Study~
+A husk of a burnt out desk is all that is left in this otherwise barren
+room.  It looks like a fire was started here that raged to the south.  
+~
+0 6291464 0
+D0
+~
+~
+0 0 12064
+D2
+~
+~
+0 0 12066
+S
+#12068
+The Eastern Wing of the Great Hall~
+The end of the hall reveals two doors that were once made of fine
+polished leatherleaf wood.  Now they are cracked and splintered, barely held
+up by their hinges.  A bedroom can be seen to the north.  To the south a
+large room opens up to the feast hall.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12069
+D2
+~
+~
+0 0 12070
+D3
+~
+~
+0 0 12064
+D5
+~
+~
+0 0 12072
+S
+#12069
+The Servants Rooms~
+Apparently a servants quarters, this room looks more like a tomb.  The
+beds are bloodied and the sheets ripped to shreds.  Clothes are strewn about
+all over amongst feathers from a pillow.  
+~
+0 138412032 0
+D2
+~
+~
+0 0 12068
+S
+#12070
+The Feast Hall~
+A large table dominates this room with chairs broken and turned over
+surrounding its polished wood.  Plates are broken and shattered about the
+room, with stains covering the floor from spilled wine.  Large tapestries
+which once adorned the walls are now torn and charred, having been put to
+flame long ago.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12068
+D2
+~
+~
+0 0 12071
+S
+#12071
+A Messy Kitchen~
+If the feast hall was any sign of chaos, this is even more so.  Pots and
+pans made from copper have since turned green over the years.  Knives are
+long since rusted and rats scurry back and forth into the woodwork.  The
+only item that seemed to escape the damage is the brick oven where long ago
+bread must have been made to feed the occupants.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12070
+S
+#12072
+The Dungeon~
+Serving as both the entrance and main room for the dungeon, this large
+room branches into two hallways that lead south and north.  Stairs made of
+grey granite lead up into the keep above.  It is slightly cold here and a
+thick layer of dust covers the floor from ages of emptiness.  
+~
+0 140509193 0
+D0
+~
+~
+0 0 12073
+D2
+~
+~
+0 0 12074
+D4
+~
+~
+0 0 12068
+S
+#12073
+The Northern Hall of the Dungeon~
+This hall, lined with torches burned down to their holders long ago,
+leads north from the main dungeon.  To the west the hall bends and vanishes
+in the darkness.  
+~
+0 138412041 0
+D2
+~
+~
+0 0 12072
+D3
+~
+~
+0 0 12082
+S
+#12074
+The Southern Hall of the Dungeon~
+The southern end of the dungeon, this hall bends to the west within the
+darkness.  A small storage area with its door torn off stands to the south. 
+To the north the dungeon opens up into a large room.  
+~
+0 138412041 0
+D0
+~
+~
+0 0 12072
+D2
+~
+~
+0 0 12075
+D3
+~
+~
+0 0 12076
+S
+#12075
+Small Storage Area~
+Long ago this was used as a small storage area.  Rusted weapons are now
+made useless.  Various torture equipment lines the racks but are all but
+rusted as well.  
+~
+0 140509185 0
+D0
+~
+~
+0 0 12074
+S
+#12076
+In the Southern Hall of the Dungeon~
+This is the southern hall of the main dungeon.  Numerous torches once lit
+this dark tomb of punishment.  Now the area is enclosed in darkness.  A
+small cell lies to the south while the hallway expands to the north and
+leads to the west.  
+~
+0 138412040 0
+D1
+~
+~
+0 0 12074
+D2
+~
+~
+0 0 12077
+D3
+~
+~
+0 0 12078
+S
+#12077
+A Small Cell~
+A non-descript cell is small and almost private being able to hold only
+one human sized creature at one time.  A thick layer of dust has accumulated
+on the floor.  
+~
+0 140509193 0
+D0
+~
+~
+0 0 12076
+S
+#12078
+The Hallway~
+This hallway presents a cell to the south from which numerous bodies can
+be seen piled up in a heap.  Blood smears the walls here, caked dry over
+time.  
+~
+0 138412040 0
+D1
+~
+~
+0 0 12076
+D2
+~
+~
+0 0 12079
+D3
+~
+~
+0 0 12080
+S
+#12079
+In a Cell with Dead Bodies~
+Several bodies are piled on top of one another here.  The ones underneath
+are all but skeletons, those further up still have bits of grayish flesh
+clinging to their bones.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12078
+S
+#12080
+The Eastern Tip of the Southern Hall~
+This hall lined with torch holders leads north to a large room and leads
+off east down another hallway.  A smell of decay wafts through the room from
+the south.  The cell to the south is rusted open.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12087
+D1
+~
+~
+0 0 12078
+D2
+~
+~
+0 0 12081
+S
+#12081
+The Cell with a Fresh Kill~
+The source of the stench lies in the southern corner of this room.  A
+mangled body of indeterminable owner is bent in awkward positions, bones
+piercing the skin in many places.  Already dust has begun to collect on the
+decaying body.  
+~
+0 136314888 0
+D0
+~
+~
+0 0 12080
+S
+#12082
+In the Northern Hall of the Dungeon~
+Layers of dust cover the floor entirely.  Cobwebs stretch from wall to
+wall, sagging under their own weight.  To the west a stench rises up and
+wafts through the hall.  To the south a cell with its bars ripped apart
+stands open.  
+~
+0 138412040 0
+D1
+~
+~
+0 0 12073
+D2
+~
+~
+4 12004 12083
+D3
+~
+~
+0 0 12084
+S
+#12083
+A Destroyed Cell~
+Another one of the numerous cells, this one has had its iron bars ripped
+completely from their foundations.  Part of the iron bars seem to have been
+melted by a great heat.  
+~
+0 140518409 0
+D0
+~
+~
+4 12004 12082
+S
+#12084
+The Corpse~
+Rotting flesh pervades the room as flies buzz hungrily around a corpse. 
+Oddly this corpse isn't that decayed, bits of grayish flesh still hang
+sickly from white bones.  
+~
+0 138412040 0
+D1
+~
+~
+0 0 12082
+D2
+~
+~
+0 0 12085
+D3
+~
+~
+0 0 12086
+S
+#12085
+In a Destroyed Cell~
+Another one of the numerous cells, this one has had its iron bars ripped
+completely from their foundations.  Part of the iron bars seem to have been
+melted by a great heat.  
+~
+0 140509185 0
+D0
+~
+~
+0 0 12084
+S
+#12086
+Large Shelves~
+Large shelves form an L at this corridor.  Empty of books, only a few
+scraps of paper are left to clutter the shelves.  Cracked glass covers the
+shelves and floor, all that is left of the vials and beakers.  To the south
+lies the main room and to the east an awful stench arises.  
+~
+0 138412040 0
+D1
+~
+~
+0 0 12084
+D2
+~
+~
+0 0 12087
+D5
+~
+~
+0 0 12049
+S
+#12087
+The Main Room~
+Obviously the main room down in this dungeon by its sheer size.  A large
+table and four chairs are centered in the room.  A few torture devices lie
+on the table rusted and useless.  Upon the table a few broken bottles and
+plates rest in the thick dust.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 12086
+D2
+~
+~
+0 0 12080
+S
+#12088
+The Courtyard~
+A number of rocks are piled up against the barracks to the east and the
+castle wall to the south.  The gatekeep reaches to the sky just north west
+of here.  The courtyard floor is composed of dirt, but occasionaly the old
+cobblestones are exposed from the erosion of wind and rain.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 12006
+S
+#12089
+Entrance to the Underground Passage~
+A damp corridor stretches east from this point.  The dark brick walls
+seem to absorb most of what little light is down here, but you can barely
+make out a room just west of here, it appears to be an ancient
+torturechamber 
+~
+0 138412041 0
+D1
+~
+~
+0 0 12090
+D3
+~
+~
+0 0 12039
+S
+#12090
+The Underground Passage~
+Water is trickling down the walls and dripping from the ceiling.  Every
+little noise echoes off the solid brick walls and is thrown around in the
+dark tunnels.  
+~
+0 138412032 0
+D1
+~
+~
+0 0 12091
+D3
+~
+~
+0 0 12089
+S
+#12091
+The Underground Passage~
+The corridor branches off in three directions here, all of them leading
+into total darkness.  The sound of dripping water seems to become louder to
+the east.  The ground is a bit slippery with mud here.  
+~
+0 138412041 0
+D2
+~
+~
+0 0 12092
+D3
+~
+~
+0 0 12090
+S
+#12092
+The Underground Passage~
+The corridor continues north and south here.  On the walls there are
+clots of blood, most likely from previous visitors.  The ground is covered
+by a thin layer of bone fragments, in several places soaked with black
+blood.  
+~
+0 138412041 0
+D0
+~
+~
+0 0 12091
+D2
+~
+~
+0 0 12093
+S
+#12093
+The Underground Passage~
+The corridor continues north and south here.  On the walls there are
+clots of blood, most likely from previous visitors.  The ground is covered
+by a thin layer of bone fragments, in several places soaked with black
+blood.  
+~
+0 138412041 0
+D0
+~
+~
+0 0 12092
+D2
+~
+~
+0 0 12094
+S
+#12094
+The Underground Passage~
+The corridor continues north and east here.  On the walls there are clots
+of blood, most likely from previous visitors.  The ground is covered by a
+thin layer of bone fragments, in several places soaked with black blood.  
+~
+0 0 0
+D0
+~
+~
+0 0 12093
+D1
+~
+~
+0 0 12095
+S
+#12095
+At an Iron Gate on the Ledge~
+The wind is almost strong enough to knock a man over here.  The ledge is
+half way up a steep mountain side, overlooking a forest far below.  Some
+thirty feet west of the ledge, a waterfall is crashing down the almost
+vertical cliff, creating a loud, thundering sound.  Some distance east of
+here you see the ruins of a castle, half buried in a hillside.  It looks as
+if a landslide once crashed down on it.  
+~
+0 138412033 0
+D1
+~
+gate~
+4 12003 12096
+D3
+~
+~
+0 0 12094
+S
+#12096
+Before an Iron Gate on the Ledge~
+Travelling north on the rocky ledge will lead into the hills of the
+Blasted Lands.  Heading southward along the ledge, an ancient castle,
+seemingly in ruins and half-buried in the mountainside, comes into view. 
+Vultures and ravens circle overhead in perpetually gray skies.  A massive
+iron gate stands to the west.  
+~
+0 1 0
+D0
+~
+~
+0 0 12097
+D3
+~
+gate~
+4 12003 12095
+S
+#12097
+On a Ledge~
+Some birds circle high above watching you.  If they are vultures looking
+for dinner or ravens spying for the Dark One one cannot tell from this
+distance.  The Blight is so filled with ravens that it's nearly impossible
+to pass through without being spotted by a spy of the Dark One.  Even though
+one cannot see any more animals around one feels watched at all times.  
+~
+0 138412041 0
+D0
+~
+~
+0 0 12098
+D2
+~
+~
+0 0 12096
+S
+#12098
+A Narrow Trail~
+Large cracks in the soil indicates a huge lack of water since no clouds
+of rain have passed here for quite some time.  The sterile environment
+leaves no room for life.  Only boulders and rocks are spread over the ground
+in large formations, like a giant placed them there for some reason.  The
+hills seem to grow smaller to the south.  
+~
+0 134217728 0
+D2
+~
+~
+0 0 12097
+D4
+~
+~
+0 0 12099
+S
+#12099
+Above the Gorge~
+A trail runs along the edge of a deep gorge here.  The sounds of an
+infested swamp rise between the cliffs to the west.  Many boulders have been
+cleared to allow the narrow trail to run to the north and south.  A deep
+rift runs west of the trail, opening into the gorge.  The rocky slopes lead
+downwards to the east.  
+~
+0 0 0
+D5
+~
+~
+0 0 12098
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 12002 1 2
+D 0 12003 3 2
+D 0 12009 2 1
+D 0 12010 0 1
+D 0 12037 0 2
+D 0 12038 2 2
+D 0 12040 0 2
+D 0 12042 2 2
+D 0 12043 0 2
+D 0 12044 2 2
+D 0 12082 2 2
+D 0 12083 0 2
+D 0 12095 1 2
+D 0 12096 3 2
+M 0 12000 1 12002 1 100 Load The burly trolloc
+E 0 12000 0 19 0 100 A key to the ruined keep is loaded held in the hands of The burly trolloc
+M 0 12001 1 12003 1 100 Load A tall and cloaked fade
+M 0 12004 10 12003 10 100 Load A muzzled trolloc
+M 0 12006 10 12003 10 100 Load A ram horned trolloc
+M 0 12007 10 12003 10 100 Load A beaked trolloc
+M 0 12004 10 12004 10 100 Load A muzzled trolloc
+M 0 12006 10 12004 10 100 Load A ram horned trolloc
+M 0 12007 10 12004 10 100 Load A beaked trolloc
+M 0 12009 30 12008 30 100 Load A goat-faced trolloc
+M 0 12006 20 12009 20 100 Load A ram horned trolloc
+M 0 12007 20 12009 20 100 Load A beaked trolloc
+M 0 12011 1 12010 1 100 Load A handsome man in black
+E 0 12004 0 19 0 100 A thin iron, skull-shaped key is loaded held in the hands of A handsome man in black
+M 0 12012 3 12010 3 100 Load A cruel grizzly trolloc
+M 0 12007 10 12014 10 100 Load A beaked trolloc
+O 0 12005 0 12015 0 100 An old, worn well loaded to The Well
+M 0 12010 10 12016 10 100 Load A fade
+M 0 12008 1 12018 1 100 Load A blacksmith
+M 0 12009 10 12018 10 100 Load A goat-faced trolloc
+M 0 12004 10 12023 10 100 Load A muzzled trolloc
+M 0 12010 5 12025 5 100 Load A fade
+M 0 12004 10 12028 10 100 Load A muzzled trolloc
+M 0 12005 1 12030 1 100 Load An enslaved woman
+E 0 12004 0 19 0 100 A thin iron, skull-shaped key is loaded held in the hands of An enslaved woman
+O 0 12014 0 12030 0 100 A statue of moridin loaded to Sleeping Chamber
+O 0 12015 0 12030 0 100 A statue of rianna loaded to Sleeping Chamber
+O 0 12016 0 12030 0 100 A statue of be'lal. loaded to Sleeping Chamber
+O 0 12017 0 12030 0 100 A statue of bane loaded to Sleeping Chamber
+M 0 12009 10 12051 10 100 Load A goat-faced trolloc
+M 0 12004 10 12053 10 100 Load A muzzled trolloc
+M 0 12006 10 12053 10 100 Load A ram horned trolloc
+M 0 12007 10 12053 10 100 Load A beaked trolloc
+M 0 12007 10 12088 10 100 Load A beaked trolloc
+M 0 12006 10 12088 10 100 Load A ram horned trolloc
+M 0 12004 10 12089 10 100 Load A muzzled trolloc
+M 0 12006 10 12091 10 100 Load A ram horned trolloc
+M 0 12007 10 12092 10 100 Load A beaked trolloc
+M 0 12003 2 12095 1 100 Load A beastly, boar-headed trolloc
+E 0 12003 0 19 0 100 A ruined keep key is loaded held in the hands of A beastly, boar-headed trolloc
+M 0 12009 20 12096 20 100 Load A goat-faced trolloc
+M 0 12007 20 12096 20 100 Load A beaked trolloc
+M 0 12006 20 12096 20 100 Load A ram horned trolloc
+M 0 12003 2 12096 1 100 Load A beastly, boar-headed trolloc
+E 0 12003 0 19 0 100 A ruined keep key is loaded held in the hands of A beastly, boar-headed trolloc
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#12000
+if clan $n shadow
+mob transfer $n 12003
+itell $n May the shadow guide you, $n.
+else
+say $n leave my presence, before I summon the horde!
+break
+endif
+~
+#12001
+if clan $n shadow
+mob transfer $n 3054
+itell $n Let the shadow guide and protect you, $n.
+else
+shout There are cowards of the light, within the keep!
+break
+endif
+~
+#12002
+if clan $n 'shadow'
+emote leans from you slightly in fear.
+endif
+~
+#12003
+if clan $n shadow
+mob transfer $n 12095
+itell $n Let the shadow guide you, $n.
+else
+itell $n You are not welcome here $n!
+endif
+break
+~
+#12004
+if clan $n shadow
+remove key
+close east
+lock east
+hold key
+emote grunts loudly towards you.
+break
+endif
+~
+#12005
+if clan $n shadow
+remove key 
+give key $n
+itell $n Do not lose this key $n!
+mob oload 12004
+hold key
+else
+itell $n You are not worthy of such a key!
+break
+endif
+~
+#12006
+if clan $n 'shadow'
+bow $n
+else
+snarl
+yell You die now!
+emote lifts his massive club and blunders toward you!
+kill $n
+break
+~
+#12011
+if clan $n shadow
+mob transfer $n 8600
+else 
+emote shakes his head slowly.
+say You are not of the shadow, find another way to the Strong Hold.
+break
+endif
+~
+#12013
+hold dagger
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

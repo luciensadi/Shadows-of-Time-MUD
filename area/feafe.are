@@ -1,0 +1,79 @@
+#AREADATA
+Name feafe~
+Builders Jasin~
+VNUMs 33100 33200
+Credits (null)~
+Security 1
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#33100
+caswell~
+Feafe~
+CASWELL IS HERE SHOOTING YOU
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+1 0 10d1+100 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#33100
+outlaw~
+feafe~
+Feafe~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+10 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#33100
+Nukkah~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

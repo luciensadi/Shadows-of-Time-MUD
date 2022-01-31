@@ -1,0 +1,3239 @@
+#AREADATA
+Name Jehannah~
+Builders Demandred~
+VNUMs 3800 3899
+Credits `4[`7 Hard `4]`7 Thom/Dem  Jehannah~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#3800
+Jehannah flesh statue~
+a flesh statue~
+A statue made of pure flesh towers to the side of you.
+~
+~
+andor~
+0 0
+ABGTa 80 64 0 5120 -1  0 0
+101 300 999d1+1 0d0+0 1d1+200 drain
+-200 -200 -200 -200
+ACFKU AB HIKLN 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#3801
+Rotting Corpse~
+A rotting corpse~
+A Rotting Corpse stumbles along, looking for flesh to consume
+~
+~
+andor~
+0 0
+ABFGOT 80 24576 0 0 -1  -1000 0
+150 400 7000d1+900 1444d1+500 150d1+75 bite
+-120 -120 -120 -160
+ACEFU ABQ CIK J
+stand stand either 10000
+AHMV ABCDEFGHIJK large unknown
+#3802
+Rotting Giant Bat~
+A giant bat~
+A giant bat hovers above you, shrieking cries of warning.
+~
+~
+andor~
+0 11
+ABFGT 80 80 0 0 -1  -1000 0
+150 450 7000d1+1000 1444d1+500 150d1+80 claw
+-120 -120 -120 -150
+ACFHU ABLMPQ CHI T
+stand stand none 15000
+AHMV ABCDEFGHIJK huge unknown
+#3803
+Tremor~
+A Tremor~
+The ground suddenley moves revealing a tremor
+~
+~
+dragon~
+1 20
+ABFGT 64 1091 0 0 -1  -1000 0
+150 500 7000d1+1100 14444d1+500 150d1+90 slime
+-150 -150 -150 -150
+ACEOU ABDMQZ FGHI J
+stand stand none 18000
+AHZ ACDEFGHIJKPQUVX giant unknown
+F res BE
+F vul FI
+#3804
+giant spider~
+A giant spider~
+A giant spider is slowly crawling towards you, fangs bared.
+~
+~
+andor~
+12 23
+ABFGOT 80 64 0 0 -1  -1000 0
+150 500 7000d1+900 14444d1+500 150d1+95 acbite
+-120 -120 -120 -150
+AFHU ABLMOQ HI K
+stand stand none 11000
+AHMV ABCDEFGHIJK huge unknown
+#3805
+Flesh Creatrue~
+A Flesh Creature~
+A Creature of Flesh is stumbleing around here, flesh falling off with every step
+~
+~
+andor~
+0 20
+ABFGT 80 64 0 0 -1  -1000 0
+150 400 7000d1+999 14444d1+500 150d1+90 digestion
+-120 -120 -120 -150
+AFKOU ABKLMPQX CHI N
+stand stand none 16000
+AHMV ABCDEFGHIJK large unknown
+#3806
+bloody insect~
+A bloody insect~
+An insect is laying down here, feeding upon a corpse.
+~
+~
+andor~
+0 0
+ABFGT 80 64 0 0 -1  -1000 0
+150 400 7000d1+0 14444d1+500 150d1+80 claw
+-120 -120 -120 -120
+ADHNU ABLMPQ CHI JN
+stand stand none 13000
+AHMV ABCDEFGHIJK medium unknown
+#3807
+swarm of insects~
+A swarm of insects~
+A swarm of insects fly around, looking for something to feed on.
+~
+~
+andor~
+5 20
+ABFGT 80 64 128 0 -1  -1000 0
+150 350 7000d1+1 14444d1+500 150d1+96 flbite
+-100 -100 -100 -120
+AHQRU ABLMPQ HI T
+stand stand none 14000
+AHMV ABCDEFGHIJK small unknown
+#3808
+Mindless child~
+A mindless child~
+A child plays among the corpses, oblivious to the hole in it's head.
+~
+~
+andor~
+10 23
+AGHT 336 64 0 0 -1  -1000 0
+180 600 8000d1+0 14444d1+500 150d1+100 drain
+-150 -150 -150 -180
+AFGHK ABGMOPQRT HI 0
+stand stand none 20000
+AHMV ABCDEFGHIJK medium unknown
+#3809
+Stone statue~
+A stone statue~
+A statue has been erected here, the foundation has long been torn away.
+~
+This is a statue.  And yes, it is moving.
+~
+andor~
+0 0
+ABFGT 80 0 0 0 -1  -1000 0
+180 400 7000d1+1500 14444d1+500 150d1+90 blast
+-150 -150 -150 -150
+ACKOU ABILMOQX CFHJT T
+stand stand none 12000
+AHMV ABCDEFGHIJK huge unknown
+#3810
+Minion~
+A minion~
+A minion is here, favoring the shadows that lurk about.
+~
+~
+andor~
+5 23
+ABGT 80 1090 0 0 -1  -1000 0
+150 410 7000d1+500 14444d1+500 150d1+91 stab
+-120 -120 -120 -150
+AFHKU ABLNOQT CHI 0
+stand stand none 19000
+AHMV ABCDEFGHIJK medium unknown
+#3811
+Bloody skeleton~
+A bloody skeleton~
+A dark red stained skeleton seems to move slowly as you near it.
+~
+~
+andor~
+10 23
+ABFGO 80 64 0 0 -1  -1000 0
+150 400 7000d1+350 14444d1+600 150d1+90 slash
+-120 -120 -120 -150
+AFHKNU ABLOQ CHI 0
+stand stand none 14000
+AHMV ABCDEFGHIJK medium unknown
+#3812
+blood-thirsty crab~
+A blood-thirsty crab~
+A crab crawls frantically, acting very blood-thirsty.
+~
+~
+andor~
+10 21
+ABFGT 80 65 0 0 -1  -1000 0
+150 400 6000d1+0 14444d1+100 150d1+75 grep
+-100 -100 -100 -100
+AFHQU ABMQ CHIL 0
+stand stand none 10000
+AHMV ABCDEFGHIJK small unknown
+#3813
+tainted citizen~
+A tainted citizen~
+A citizen staggers slowly, grabbing his head in agony.
+~
+~
+andor~
+0 20
+ABFGT 80 65 0 0 -1  -1000 0
+150 400 7000d1+100 14444d1+555 150d1+80 frbite
+-120 -120 -120 -150
+ACFHKU ABLMOPQ CHI 0
+stand stand none 16000
+AHMV ABCDEFGHIJK large unknown
+#3814
+Cloaked Figure~
+A cloaked figure~
+A cloaked figure hurries along, dashing for the shadows.
+~
+~
+andor~
+0 0
+ABFGST 80 67 0 0 -1  -1000 0
+150 400 7000d1+400 14444d1+100 150d1+90 chomp
+-120 -120 -120 -120
+ABFHNQ ABILMNOPQT CHK 0
+stand stand either 11000
+AHMV ABCDEFGHIJK medium unknown
+#3815
+A Young Woman~
+a Young Woman~
+A Young Woman walks around here, not being bothered by the other creatures
+~
+~
+andor~
+10 22
+ABGR 80 64 0 0 -1  -1000 0
+180 500 7000d1+900 14444d1+600 150d1+100 bite
+-120 -120 -120 -190
+AFHIKQ ABLMPQRT CHIN 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#3816
+Thorned Creature~
+A thorned creature~
+A creature searches for food among the rubble.
+~
+~
+andor~
+0 15
+ABFGT 80 64 0 0 -1  -1000 0
+180 400 7000d1+500 14444d1+6 150d1+90 pierce
+-120 -120 -120 -150
+ADFKQ ABLMPQX CEHI 0
+stand stand none 17000
+AHMV ABCDEFGHIJK medium unknown
+#3817
+black scorpion~
+A black scorpion~
+A black scorpion desperately looks for something to eat on, anything.
+~
+~
+andor~
+1 23
+ABFGT 80 64 0 0 -1  -1000 0
+150 400 7000d1+111 14444d1+6 150d1+90 sting
+-120 -120 -120 -130
+AFHM ABKLPQ CHIN 0
+stand stand none 15000
+AHMV ABCDEFGHIJK large unknown
+#3818
+Massive Creature~
+A Massive Creature~
+A massive creature moves along, picking up large rocks and throwing them.
+~
+~
+andor~
+5 20
+ABFGT 80 64 0 0 -1  -1000 0
+150 400 7000d1+200 14444d1+1000 150d1+90 smash
+-120 -120 -120 -150
+ACKOU ABLMQX CEHIO K
+stand stand none 16000
+AHMV ABCDEFGHIJK huge unknown
+#3819
+Black Secreation~
+A Black Secreation~
+A black puddle of some sorts dribbles along.
+~
+~
+troll~
+0 0
+ABFGT 16 64 0 2 -1  -1000 0
+150 400 7000d1+800 14444d1+100 150d1+80 suction
+-120 -120 -120 -120
+AEFHK ABFGIOZ BCEHLQ HK
+stand stand none 10000
+ABHMV ABCDEFGHIJKUV giant unknown
+F off D
+#3820
+bloody creature~
+A bloody creature~
+A creature walks around, blood dripping everywhere.
+~
+~
+andor~
+0 21
+ABFGT 80 64 0 0 -1  -1000 0
+150 400 7000d1+400 1000d1000+0 150d1+90 drain
+-120 -120 -120 -140
+ANOQ ABDLOQ CI 0
+stand stand none 18000
+AHMV ABCDEFGHIJK large unknown
+#3821
+Corrupted Trolloc~
+A corrupted trolloc~
+A trolloc walks about, muttering very quietly.
+~
+~
+aiel~
+0 0
+ABFGT 80 64 0 4 -1  -1000 0
+150 450 7000d1+999 14444d1+1 150d1+92 slice
+-120 -120 -120 -120
+ACFKU AB CLQ 0
+stand stand none 14000
+AHMV ABCDEFGHIJK large unknown
+#3822
+Corrupted Fade~
+A corrupted fade~
+A fade stalks about, acting somewhat paranoid.
+~
+~
+aiel~
+0 0
+ABFGT 80 64 2048 0 -1  -1000 0
+150 460 7000d1+1000 14444d1+100 150d1+96 shock
+-130 -130 -130 -160
+AFHIKNU AB CGJ 0
+stand stand none 17500
+AHMV ABCDEFGHIJK medium unknown
+#3823
+fanged beast~
+A fanged beast~
+A beast with large fangs spits venom upon the ground.
+~
+You don't know what to make of this
+~
+andor~
+10 23
+ABFGRT 80 64 0 0 -1  -800 0
+150 400 7000d1+100 14444d1+100 150d1+89 pierce
+-120 -120 -120 -120
+ACFJU ABLPQ CHIK 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#3824
+Horrid Form~
+A horrid form~
+A horrid form is moving along, aware of all intruders.
+~
+This creature is the most horrid thing ever created
+~
+andor~
+0 11
+ABFGT 80 64 0 0 -1  -1000 0
+150 425 7000d1+300 14444d1+100 150d1+95 claw
+-120 -120 -120 -170
+ACFHKO ABIKOPQT CHJ N
+stand stand none 16000
+AHMV ABCDEFGHIJK giant unknown
+#3825
+shadow stalker~
+A shadow stalker~
+A shadow moves close by, stalking very quietly.
+~
+~
+andor~
+0 0
+ABFGST 80 66 2048 0 -1  -1000 0
+150 400 7000d1+223 14444d1+9 150d1+90 slash
+-120 -120 -120 -110
+AEFHIKN AB DIKN H
+stand stand none 11000
+AHMV ABCDEFGHIJK medium unknown
+#3826
+Living Wall~
+A living wall~
+A wall seems to writhe and move as sounds are emitted from it.
+~
+~
+arad_domon~
+0 0
+ABFGT 336 0 0 0 -1  -1000 0
+150 350 8000d1+900 199d11+999 150d1+91 crush
+-140 -140 -140 -160
+AO AB CD N
+stand stand none 19000
+AHMV ABCDEFGHIJK giant unknown
+#3827
+patrolling guardian~
+A patrolling guardian~
+A Demonic looking Guard is patrolling here, eyes glowing red
+~
+~
+andor~
+0 0
+ABFGT 336 64 0 0 -1  -1000 0
+150 400 7000d1+0 1344d1+1124 150d1+85 wrath
+-120 -120 -120 -120
+AFIKN ABLQ HIK O
+stand stand none 19000
+AHMV ABCDEFGHIJK medium unknown
+#3828
+sewer serpent~
+A sewer serpent~
+A serpant slithers across your path, covered in sewage.
+~
+~
+snake~
+0 0
+ABFGOT 80 64 0 0 -1  -1000 0
+150 400 7000d1+0 1444d1+999 150d1+90 bite
+-120 -120 -120 -140
+AFHMN LQR CHK I
+stand stand none 18000
+AGXYc ADEFKLQVX small unknown
+F res L
+#3829
+creeping ivy branch~
+A creeping ivy branch~
+Long branches of ivy creep from the ceiling and grab whatever is available.
+~
+~
+snake~
+0 0
+ABFGT 80 64 0 0 -1  -500 0
+150 400 7000d1+100 1323d1+122 150d1+90 whip
+-110 -110 -110 -120
+AENO ABLQ IL H
+stand stand none 13000
+AGXYc ADEFKLQVX medium unknown
+F vul I
+#3830
+thick black mist~
+A thick, black mist~
+A black mist rolls in thickly, blocking all vision.
+~
+~
+andor~
+0 0
+ABFGT 336 65 0 2 -1  -1000 0
+250 400 15000d1+1000 5000d1+5000 150d1+150 drain
+-180 -180 -180 -200
+ACFKOQU AB CD 0
+stand stand none 21000
+AHMV ABCDEFGHIJK medium unknown
+#3831
+Ancient Evil~
+The Ancient Evil~
+The Ancient Evil of Jehannah floats here, breathing of vengeance.
+~
+~
+andor~
+0 0
+ABFGRT 336 1088 0 8 -1  -1000 0
+500 600 40000d1+500 30000d1+100 150d1+125 divine
+-190 -190 -190 -220
+ACEFHK ABIMPQT CDH 0
+stand stand none 1000000
+AHMV ABCDEFGHIJK giant unknown
+#3832
+skull captain~
+The Skull Captain~
+The Skull Captain is standing here, polishing his helmet.
+~
+~
+aiel~
+0 0
+ABFGT 336 1088 0 2 -1  -1000 0
+500 400 31000d1+100 14444d1+100 150d1+115 slice
+-150 -150 -150 -160
+AFHIK ABPQTab HIL 0
+stand stand none 21000
+AHMV ABCDEFGHIJK huge unknown
+#3833
+Corrupted City Mayor~
+The corrupted Mayor~
+The city's mayor is standing here, speaking rather corrupted things.
+~
+~
+andor~
+0 0
+ABFGOT 336 1024 16384 2 -1  -1000 0
+500 400 31000d1+100 5000d1+1000 150d1+115 stab
+-150 -150 -150 -150
+AFHIKN ABLOPQ HI 0
+stand stand male  21000
+AHMV ABCDEFGHIJK medium unknown
+#3834
+Corrupted Captain of the Guards~
+The corrupted Captain of the Guard~
+The City's Captain of the Guard is standing here, eyes rolled back into her head
+~
+Ew
+~
+andor~
+0 0
+ABFGTc 336 1089 0 0 -1  -1000 0
+500 400 35000d1+500 9000d1+100 150d1+115 shbite
+-150 -150 -150 -150
+ACFIK ABKLPQZb CHIa N
+stand stand female 21000
+AHMV ABCDEFGHIJK large unknown
+#3835
+Shadow Knight~
+A Shadow Knight~
+A Shadow Knight is here, shifting in and out of the shadows
+~
+~
+andor~
+0 0
+ABFGT 336 1088 0 0 -1  -1000 0
+500 400 31000d1+210 5000d1+1000 150d1+115 acbite
+-150 -150 -150 -150
+ACFIK ABLPQ HIK 0
+stand stand none 21000
+AHMV ABCDEFGHIJK large unknown
+#3836
+Gate Guard~
+The corrupted gate guard~
+A Guard stands at the gate, blocking all passage out of Jehnnah
+~
+~
+andor~
+0 0
+ABFGT 336 1088 0 0 -1  -1000 0
+500 400 30000d1+100 0d0+0 150d1+100 slash
+-150 -150 -150 -150
+ACKQU ABLPQ I J
+stand stand male  20000
+AHMV ABCDEFGHIJK medium unknown
+#3837
+Shadow Master~
+The Shadow Master~
+Some sort of creature stands here, the shadows moving around his body
+~
+~
+andor~
+0 0
+ABFGT 336 1088 0 0 -1  -1000 0
+500 400 31000d1+400 5000d1+1000 150d1+115 slash
+-150 -150 -150 -150
+ACFIK ABQ GI 0
+stand stand none 21000
+AHMV ABCDEFGHIJK large unknown
+#3838
+Corrupted General~
+A Corrupted General~
+The City's General is standing here, half his face ripped fully off
+~
+~
+andor~
+0 0
+ABFGT 336 1024 0 0 -1  -1000 0
+500 400 31000d1+100 5000d1+1000 150d1+115 pierce
+-150 -150 -150 -150
+ACFIK ABOPQTa Ib L
+stand stand none 21000
+AHMV ABCDEFGHIJK medium unknown
+#3839
+Shadow Assassin~
+The Shadow Assassin~
+An Assassin is moving in and out of the shadows rather quickly here
+~
+~
+andor~
+0 0
+ABFGSe 336 1088 0 0 -1  -1000 0
+500 400 31000d1+10 0d0+0 150d1+115 frbite
+-150 -150 -150 -150
+ACFIK ABLPQ I N
+stand stand none 21000
+AHMV ABCDEFGHIJK medium unknown
+#3840
+mud pit demon~
+A pit demon~
+A demon rises out of the mud to stand tall in the pit.
+~
+~
+andor~
+0 0
+ABFGO 336 1088 0 0 -1  -1000 0
+500 400 31000d1+1 5000d1+900 150d1+115 claw
+-150 -150 -150 -150
+ACFKO ABLPQ IJ 0
+stand stand none 21000
+AHMV ABCDEFGHIJK large unknown
+#3841
+Skull minion~
+A Skull minion~
+A Minion stands here, it's flesh completley ripped off
+~
+~
+aiel~
+0 0
+ABFGOU 336 1089 0 0 -1  -1000 0
+500 400 31000d1+400 100d100+100 150d1+105 pierce
+-150 -150 -150 -100
+AEFH ABLPQT CHI K
+stand stand none 21000
+AHMV ABCDEFGHIJK medium unknown
+#3851
+Quest Mob~
+`8Black`& Fog`*~
+The black fog takes the shape of a suit of black armor
+~
+Demandred's Quest Bitch
+~
+bear~
+0 0
+ABFRST 368 80 0 2 -1  -1000 0
+500 800 60000d1+1001 30000d1+0 50d50+0 slash
+-150 -150 -150 -250
+ACFHJK ABLNQX DEHIJb S
+stand stand none 50000
+AGHMV ABCDEFGHIJKUV huge unknown
+F off DEO
+#3852
+Quest Mob Aiel~
+A Veiled `4Aiel`*~
+A veiled aiel is here looking for a warder to kill
+~
+~
+bear~
+0 0
+ABFRT 368 64 0 2 -1  -1000 0
+500 1000 50000d1+0 30000d1+0 50d50+149 pierce
+-200 -200 -200 -210
+AFHIK ABLNQX DEHIJ 0
+stand stand none 50000
+AGV ABCDEFHJKUV huge unknown
+F off DEO
+#3899
+hanging corpse~
+a hanging corpse~
+Dangling from a thick rope, a corpse swings slightly.
+~
+Death....Decay.
+~
+ghealdan~
+0 0
+ABGT 336 64 0 1032 -1  -1000 0
+110 150 1d1+24999 0d0+0 100d1+50 slap
+-55 -50 -55 -50
+ACEFJK ABZ HJN D
+stand stand male  100000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#3800
+Black Sphere Window~
+a `8Black Sphere`7~
+A `8black sphere`7 is in the middle of the square, towering 50 feet high.`7~
+glass~
+window G 0
+0
+DEIJKL AC A 0 0
+100 0 0 P
+ T 0 none~
+#3801
+puddle blood fountain~
+a `!bl`1oo`!dy`7 puddle~
+A puddle of some liquid is here, enough to fill a canteen.~
+blood~
+fountain 0 0
+0
+-1 0 'blood' 0 0
+0 0 0 P
+ T 0 none~
+#3802
+Corrupted Fine Gauntlets~
+(Corrupted) Fine gauntlets~
+A pair of gauntlets lay on the groud discarded~
+unknown~
+armor CY AH
+0
+ABF ABF ABF ABF 0
+110 20 0 P
+A
+13 35
+A
+20 -5
+A
+19 8
+A
+18 8
+ T 0 none~
+#3803
+Corrupted Tower Shield~
+(Corrupted) Tower shield~
+A large shield with an engraved J on it lays here.~
+unknown~
+armor CY AJ
+0
+ABF ABF ABF ABF 0
+110 100 0 P
+A
+13 35
+A
+20 -7
+A
+19 7
+A
+18 7
+ T 0 none~
+#3804
+Pitch Black Stone~
+(Corrupted) Pitch black stone~
+A pitch black stone is lying on the ground~
+unknown~
+armor CY AO
+0
+ABF ABF ABF ABF 0
+110 150 0 P
+A
+13 10
+A
+20 -10
+A
+18 8
+A
+19 8
+ T 0 none~
+#3805
+Metal Arm Spikes~
+(Corrupted) Metal arm spikes~
+A set of metal arm spikes are lying here~
+unknown~
+armor CY AI
+0
+ABF ABF ABF ABF 0
+110 100 0 P
+A
+20 -6
+A
+13 30
+A
+18 8
+A
+19 8
+ T 0 none~
+#3806
+Corrupted longsword~
+(Corrupted) Longsword~
+A longsword lies here~
+unknown~
+weapon ABCY AN
+0
+sword 75 1 slash ADH
+110 250 0 P
+A
+13 24
+A
+20 -5
+A
+18 8
+A
+19 8
+ T 0 none~
+#3807
+Corrupted Longbow~
+(Corrupted) Longbow~
+A longbow is lying here~
+unknown~
+weapon CY AN
+0
+bow 75 1 shbite CEH
+110 300 0 P
+A
+18 8
+A
+19 8
+A
+13 42
+ T 0 none~
+#3809
+Corrupted Shin Plates~
+(Corrupted) Shin plates~
+A pair of shin plates are lying on the ground~
+unknown~
+armor CYa AF
+0
+ABF ABF ABF ABF 0
+110 180 0 P
+A
+13 50
+A
+18 6
+A
+19 6
+A
+20 -4
+ T 0 none~
+#3810
+Corrupted Sentry Boots~
+(Corrupted) Sentry boots~
+A pair of Jehannah Senty Boots are lying here~
+unknown~
+armor CYa AG
+0
+ABF ABF ABF ABF 0
+110 120 0 P
+A
+13 30
+A
+18 8
+A
+19 8
+A
+12 20
+ T 0 none~
+#3811
+Corrupted Red Skull~
+(Corrupted) A red skull~
+A red skull is lying on the ground~
+unknown~
+armor CYa AE
+0
+ABF ABF ABF ABF 0
+110 100 0 P
+A
+20 -8
+A
+18 5
+A
+19 6
+A
+13 35
+ T 0 none~
+#3812
+Corrupted Face Plate~
+(Corrupted) A face plate~
+A face plate lies on the ground here~
+unknown~
+armor CYa AR
+0
+ABF ABF ABF ABF 0
+110 80 0 P
+A
+18 7
+A
+19 7
+A
+13 60
+ T 0 none~
+#3813
+Corrupted Field Plate~
+(Corrupted) A field plate~
+A field plate is lying on the ground which seems to have a dark shimmer to it~
+unknown~
+armor CYa AD
+0
+ABF ABF ABF ABF 0
+110 200 0 P
+A
+18 8
+A
+19 8
+A
+13 30
+A
+23 -4
+ T 0 none~
+#3814
+Corrupted Wrist Plate~
+(Corrupted) A wrist plate~
+A wrist plate is here~
+unknown~
+armor CYa AM
+0
+ABF ABF ABF ABF 0
+110 100 0 P
+A
+18 7
+A
+19 8
+A
+13 35
+A
+20 -4
+ T 0 none~
+#3815
+thick wooden door~
+a wooden door~
+A large, wooden door stands here with a shiny metal doorknob intact.~
+unknown~
+portal 0 0
+0
+0 AB 0 CDFGHJKL 0
+0 0 0 P
+ T 0 none~
+#3816
+corrupted dull quiver~
+(Corrupted) A dull quiver~
+A quiver made of bone that has been shaped smoothly lays here.~
+bone~
+quiver CYa AS
+0
+400 500 0 3899 0
+110 10 30000 P
+A
+18 8
+A
+19 8
+A
+13 10
+A
+20 -8
+ T 0 none~
+#3817
+corrupted string teeth~
+(Corrupted) A string of teeth~
+A necklace lays around, with small pieces of rock hanging from it.~
+teeth~
+armor a AC
+0
+ABF ABF ABF ABF 0
+110 10 0 P
+A
+18 8
+A
+19 8
+A
+13 50
+ T 0 none~
+#3818
+Corrputed Dagger~
+(Corrupted) Shadow Dagger~
+A dagger is lying here shifting in and out of the shadows~
+unknown~
+weapon HY AN
+ACF
+dagger 75 1 pierce ACD
+110 10 0 P
+A
+18 8
+A
+19 8
+A
+13 40
+A
+20 -1
+A
+12 2
+ T 0 none~
+#3819
+Corrupted Mace~
+(Corrupted) Bone Mace~
+A bone mace is lying on the ground here~
+bone~
+weapon Y AN
+0
+mace 75 1 smash AEG
+110 220 0 P
+A
+18 8
+A
+19 8
+A
+20 -9
+ T 0 none~
+#3820
+Corrupted whip spine~
+(Corrupted) Bloody Spine~
+A spine is lying here~
+bone~
+weapon CY AN
+0
+whip 75 1 sting CDG
+110 150 0 P
+A
+18 8
+A
+19 8
+A
+13 20
+A
+20 -5
+A
+12 3
+ T 0 none~
+#3821
+Corrupted Bone Spear~
+(Corrupted) a Bone Spear~
+A bone spear is lying here~
+unknown~
+weapon CY AN
+0
+spear 75 1 thrust BDG
+110 90 2345 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 26
+ T 0 none~
+#3822
+Corrupted Bone Tipped Polearm~
+(Corrupted) (Bone Tipped) a Polearm~
+A corrupted bone tipped polearm is here~
+unknown~
+weapon GY AN
+0
+polearm 75 1 sting BDG
+110 210 0 P
+A
+18 8
+A
+19 8
+A
+20 -10
+A
+13 1
+ T 0 none~
+#3823
+Corrupted Axe~
+(Corrupted) a Bone Axe~
+A corrupted bone axe is here~
+unknown~
+weapon Y AN
+0
+axe 75 1 cleave ADG
+110 220 0 P
+A
+18 8
+A
+19 8
+A
+13 50
+ T 0 none~
+#3824
+Corrupted Flail~
+(Corrupted) a Bone Flail~
+A flial made of bone is here~
+unknown~
+weapon Y AN
+0
+flail 75 1 shock CDG
+110 50 0 P
+A
+18 8
+A
+19 8
+A
+13 40
+A
+12 8
+ T 0 none~
+#3825
+Corrupted War Staff~
+(Corrupted) a War Staff~
+A corrupted war staff is here~
+unknown~
+weapon Y AN
+0
+staff 75 1 beating BEG
+110 200 0 P
+A
+18 8
+A
+19 8
+A
+20 -6
+A
+13 16
+ T 0 none~
+#3851
+medal~
+`&Official`* `2I `$Got `!S`1tabbed `8in the `!F`1a`!c`1e `#by `8De`&m`8andred`* Medal~
+The bearer of this token has in fact been stabbed in the face by Demandred..Woot!~
+unknown~
+jewelry HUa AR
+0
+0 0 0 0 0
+10 10 0 P
+A
+14 -20
+ T 0 none~
+#3893
+corrupted bone signet ring~
+(Corrupted) A Skull signet ring~
+A small, round piece of bone lays on the ground here, a J is carved onto the front.~
+gold~
+armor Ya AB
+0
+ABF ABF ABF ABF 0
+110 10 1000 P
+A
+18 5
+A
+19 5
+A
+13 80
+ T 0 none~
+#3895
+Throne~
+`8De`&m`8andred`7's Throne~
+A throne, lined with diamonds and sapphires, reads '`8De`&m`8andred`7.'~
+glass~
+furniture 0 0
+0
+A BCGILMNQS EHK FHJKPQ FHJKPQ
+0 0 0 P
+ T 0 none~
+#3896
+Thom's throne~
+`!T`1ho`!m`7's Throne~
+A throne, lined with diamonds and sapphires, reads '`!T`1ho`!m`7.'~
+glass~
+furniture 0 0
+0
+A BCGILMNQS EHK FHJKPQ FHJKPQ
+0 0 0 P
+ T 0 none~
+#3897
+stone~
+a tombstone~
+A stone is erected here in the honor of some great man.~
+stone~
+furniture 0 0
+0
+DFGHIJ GJOQRST EHK CEFGHI CEFGHI
+0 0 0 P
+ T 0 none~
+#3898
+portal door gateway golden~
+an ancient portal~
+A shimmering surface is here, acting as some sort of portal.~
+Pure Evil~
+portal 0 0
+0
+0 A 0 DEIJKL 0
+0 0 0 P
+ T 0 none~
+#3899
+bone arrow~
+a bone arrow~
+A long piece of bone has been sharpened into a tip.~
+bone~
+arrow 0 AO
+0
+0 30 5 0 CDG
+75 10 3000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#3800
+The Center Square~
+The western wind blows softly across the battered ruins of what is left
+of Jehannah.  The wind holds no moisture and the sun tries to sear away what
+little there is left.  What were beautiful houses and shops are now piles of
+rubbage and chaos.  Something has taken this city by the throat and will not
+let go.  The only solid thing that remains is this huge black sphere in the
+middle of the center square.  It was the object that once held Jehannah
+together as a whole, but proved to be a tool of another being.  All around,
+there are abandoned buildings but there is a strange feeling about this
+place, a feeling of being watched.  
+~
+0 9220 1
+D0
+~
+~
+0 0 3801
+D1
+~
+~
+0 0 3847
+D2
+~
+~
+0 0 3859
+D3
+~
+~
+0 0 3854
+S
+#3801
+Northern Road~
+This road leads north out of Center Square and up to what used to be the
+residential area.  The smell from here indicates massive amounts of rotting
+decay under all the rubble.  Surprisinly, all rocks and wood have been
+pushed to the sides of the street, as if someone was clearing a way for
+itself.  Aside from an occasional crack or hole, the streets seem to be in
+very good condition also.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3802
+D2
+~
+~
+0 0 3800
+S
+#3802
+Northern Road~
+Farther out from the Center Square, there is nothing but destruction. 
+Not a single plant of any kind is visible as far as you can see.  Here and
+there, a rock will fall, or a rat will scuttle across the cracked and broken
+remains of a building.  Dry and dusty as Jehannah may be, there are small
+puddles of some liquid gathered in unusual places.  
+~
+0 4726788 1
+D0
+~
+~
+0 0 3803
+D2
+~
+~
+0 0 3801
+S
+#3803
+Northern Road~
+Nearing the residential area, the wind has horribly picked up and the
+dust is almost unbearable to withstand.  The rocks here blow all over the
+streets, almost making it impossible to walk on.  A piece of wood flies in
+front of your face and smashes into a solid piece of glass, throwing the
+shards across your face.  Ahead lies more rubble, but apparently no wind
+because everything is intact.  
+~
+0 4726788 1
+D0
+~
+~
+0 0 3804
+D2
+~
+~
+0 0 3802
+S
+#3804
+An Intersection~
+You come to a stop at a four way intersection where the Northern Road
+meets what was Imperial Avenue.  To the north, east, and west lay broken
+heaps of houses and shacks where people used do their everyday errands and
+chores.  They now lay dormant as some evil seethes into everything that is
+contained within these city walls.  
+~
+0 4726788 1
+D0
+~
+~
+0 0 3805
+D2
+~
+~
+0 0 3803
+D3
+~
+~
+0 0 3810
+S
+#3805
+Northern Road~
+The wind has died down to a very low breeze here, but still strong enough
+to blow dust everywhere.  To both sides of you, ruins of what used to be
+dwellings lay in piles of broken brick and splintered wood.  Some of these
+dwellings are still standing, just missing a roof or a wall to consider it
+an actual house.  
+~
+0 4726788 1
+D0
+~
+~
+0 0 3806
+D2
+~
+~
+0 0 3804
+S
+#3806
+Northern Road~
+Layers of dirt and grime are beginning to coat your clothes and skin very
+thickly.  Every step you take flakes it off your clothes and back into the
+air where it is redispersed among your clothing.  Sudden movements catch the
+corner of your eye, but aren't there when you quickly glance in that
+direction.  
+~
+0 4726788 1
+D0
+~
+~
+0 0 3807
+D1
+~
+~
+0 0 3819
+D2
+~
+~
+0 0 3805
+S
+#3807
+Northern Road~
+A slight hint of wind is the only thing that keeps your walking from
+echoing across the destroyed city.  Other noises can be heard echoing but
+consist of rocks falling or scavenger animals fighting for a corpse to eat
+on.  The noises should be welcomed though, the eerie silence could almost
+kill a person or drive them to insanity.  
+~
+0 4726788 1
+D0
+~
+~
+0 0 3808
+D2
+~
+~
+0 0 3806
+S
+#3808
+Northern Road~
+As you slowly walk through the city towards the northern gates, you
+notice the wind has completely died down to nothing.  Blankets of dust cover
+every recognizable object laying around.  So far, there have been no signs
+of life but a boney rat running or raven flying overhead.  The eerie sound
+of silence begins to howl, and your every movement echos against the city
+walls and piles of junk.  
+ 
+~
+0 4726788 1
+D0
+~
+~
+0 0 3809
+D1
+~
+~
+0 0 3818
+D2
+~
+~
+0 0 3807
+S
+#3809
+Inside the Northern Gates~
+The evil seems to permeate from the city walls, keeping anything and
+everything from leaving this city.  The city gates themselves stretch 50
+feet above your head with long metal spikes sticking jaggedly from the tops
+of it.  No matter how ruined the city is, the city walls and gates seemed
+untouched, and very well cleaned.  
+~
+0 4726788 1
+D2
+~
+~
+0 0 3808
+D3
+~
+~
+0 0 3825
+S
+#3810
+Imperial Avenue~
+Imperial was known for it's great houses as much as it was known for it's
+beautiful flowers and trees.  Where plants once stood, now stands dirt and
+rocks scattered across the barren city's land.  The destruction even carried
+as far as to rip trees clean out of the ground and leave giant holes.  What
+was done with the massive trees may never be revealed, but they no longer
+exist anywhere in the city.  
+~
+0 4726788 1
+D1
+~
+~
+0 0 3804
+D3
+~
+~
+0 0 3811
+S
+#3811
+Imperial Avenue~
+Giant holes line the sides of the avenue with some completely empty and
+others half full of rocks or rubble.  To the north lies more chaos and
+desolate landscape, and to the west lies more road to travel.  From here,
+the road seems to even out a bit, except for the occasional missing tree
+which etended it's hole onto the road.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3814
+D1
+~
+~
+0 0 3810
+D3
+~
+~
+0 0 3812
+S
+#3812
+Imperial Avenue~
+A giant tree trunk is sprawled out onto the road, limiting much of the
+space to walk on.  The wood on the tree is dried and cracked, but will not
+rot due to lack of moisture.  What looks to be a severed body part hangs
+from the eave of an almost collapsed house.  Holes are becoming less common
+as you walk along but there seems to be one that catches your eye.  
+~
+0 4726788 1
+D1
+~
+~
+0 0 3811
+D3
+~
+~
+0 0 3813
+S
+#3813
+Imperial Avenue~
+Imperial Avenue comes to a dead end here because the piles of rocks seem
+to be at least 30 feet high to the west.  The only other option is to head
+back east towards more destruction or south down a crowded alley.  As both
+directions are being observed, it becomes clear that the alley is more
+dangerous due to the hanging pieces of lumber and the occasional wall caving
+in.  
+~
+0 4726788 1
+D1
+~
+~
+0 0 3812
+D2
+~
+~
+0 0 3821
+S
+#3814
+A burned path~
+This path leads to jumbles of charred timber and burnt spots of ground. 
+You can no longer tell if this is dirt or ash you are standing due to the
+massive amounts of rubbish around you.  Rocks line up on each side of the
+path in a very distinct pattern, obviously set up by someone.  As of yet,
+there has been no significant sign of life, but maybe things will change for
+the better.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3815
+D2
+~
+~
+0 0 3811
+S
+#3815
+The Base of a Hill~
+Before you is the biggest pile of rocks in the whole city.  Strangely
+enough, a house sits on the very peak of the hill, almost untouched besides
+the huge hole in the roof.  The rocks do not seem to move around alot when
+you step on them, but rather it looks like they were placed there in a
+pattern, although none can be seen.  The wind begins to pick up as you start
+up the hill, perhaps it will not be as ferocious as other times.  
+~
+0 4726784 1
+D2
+~
+~
+0 0 3814
+D4
+~
+~
+0 0 3816
+S
+#3816
+The Hill~
+You now stand on a huge hill, slowly climbing to the top.  It seems the
+higher you go, the faster the wind picks up and the harder it blows.  Every
+now and then a rock will come tumbling down, just barely missing where you
+were standing seconds ago.  As you approach the house, you notice the rest
+of the city for the first time.  Up here you can see from one city wall to
+the other, and every area of destruction in between.  As you look to the
+distant south, there is a green spot of the city, a spot where it seems
+nothing has touched it.  
+~
+0 4726784 1
+D4
+~
+~
+0 0 3817
+D5
+~
+~
+0 0 3815
+S
+#3817
+Before a House~
+The house before you is very large but looks to be very old age.  Columns
+of stone rise up on the porch giving it a protective feel as well as means
+of protection.  The eye-like windows seem to stare down upon you making the
+gloom of this city increasingly sickening.  The desolate area below you
+looks very different from the area you are now, an area almost untouched by
+destruction except for the giant hole in the roof.  
+~
+0 4726784 1
+D5
+~
+~
+0 0 3816
+S
+#3818
+A Collapsed Building~
+As you enter this buidling, you notice that all walls have fallen in on
+themselves and only the frame keeps the roof from caving in as well.  A
+large metal pole extends from the back of the room up into a network under
+the roof.  It seems this was how heat was dispersed throughout the building.
+~
+0 4726784 0
+D3
+~
+~
+0 0 3808
+S
+#3819
+A Burned Shop~
+The walls of this shop barely stand due to the amount of burns on them. 
+Not one spot looks untouched by the devastation that reaked this city some
+time ago.  The smell of freshly burned wood and flesh still linger within
+these bleak walls that seem ready to fall.  
+~
+0 4726784 0
+D3
+~
+~
+0 0 3806
+S
+#3820
+Inside the House~
+The room you find yourself in is large and lofty.  The windows are long,
+narrow, and pointed at the ends seemingly made to cast shadows purposely. 
+Tattered furniture lay scattered across the room, giving very limited room
+to walk.  The black oaken floor boards creak as you step onto them, but seem
+to be very sturdy.  
+~
+0 4726784 0
+D2
+~
+~
+0 0 3817
+S
+#3821
+A Gravel Path~
+The rocks underneath your feet have been thrown around in the chaos so
+much, they are broken into pieces barely visable by the naked eye.  The
+crunching sound is deafened to a small noise as you walk further on down the
+road.  There is a house that still stands directly to the south of you, and
+another road that leads to the north.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3813
+D2
+~
+~
+0 0 3822
+S
+#3822
+A Gravel Path~
+The small gravel rapidly turns to smooth pieces of black glass the
+further south you go.  The glass is round and shiny rather than shards that
+seem to line the sides of the road.  The sun has not peaked out from the
+behind the clouds yet and probably never will.  The days seemed longer in
+this giant city that is now a junkyard of rocks and dirt.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3821
+D2
+~
+~
+0 0 3823
+S
+#3823
+The Front Porch~
+You now stand on a rather large porch extending 20 feet to your right and
+left.  Portions of the floor look to be rotting away while others seem newly
+swept.  A giant pot full of dirt has been tipped over and a small, smooth
+rock lies on top of the dirt.  Nothing can be seen from this porch but piles
+of rocks all around it.  
+~
+0 4726784 0
+D0
+~
+~
+0 0 3822
+D2
+~
+~
+1 0 3824
+S
+#3824
+An Empty Estate~
+The room is totally void of any furniture or remaining tapestries which
+seem to have imprinted outlines along the walls and floors.  Dirt mottles
+spots in the corners along with small holes punctured into the floor.  A
+large curtain hangs from the corner of the room, emitting a smell of death
+and decay.  
+~
+0 4726784 0
+D0
+~
+~
+1 0 3823
+S
+#3825
+A Gloomy Trail~
+This trail snakes into two directions giving you only two options in
+which way you wish to go.  To the east is the Northern road which can lead
+you back to the black sphere, but to the west is a large set of gates.  They
+say something about Jehannah on them but the rest is unreadable.  Darkness
+rolls in around the west and doesn't seem to affect any other portion of the
+city.  
+~
+0 4726784 1
+D1
+~
+~
+0 0 3809
+D3
+~
+~
+0 0 3826
+S
+#3826
+A Gloomy Trail~
+A small walkway leads off to the north where a small patch of smoothed
+out dirt has settled into a perfect square.  The trail below you is rather
+ragged and muddy and hard to travel on for the simple fact that if you
+remain here, you might sink into the mud.  The smell of decay floats around
+but you have become quite used to how things smell in this place.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3827
+D1
+~
+~
+0 0 3825
+D3
+~
+~
+0 0 3829
+S
+#3827
+A Small Clearing~
+The dirt here has been raked or swept into a perfect square with small
+posts in each corner.  Perhaps a house once stood here but now its nothing
+but gloom and desolation.  A deep ditch is straight down from here, but
+remains empty of water for now due to the lack of any liquid in the city. 
+The piles of rubbish on each side provide protection from the stinging wind
+and whirls of dust.  
+~
+0 4726784 0
+D2
+~
+~
+0 0 3826
+D5
+~
+~
+0 0 3828
+S
+#3828
+A Large Ditch~
+Jagged rocks stick out from the sides of the ditch as you attempt to walk
+around.  As you inspect closer and closer you realize that this ditch
+abruptly ends in front of your face, making it more of a hole than a ditch. 
+A large rocks is propped up against the corner of the ditch where something
+could easily be hiding or living.  As dark as the sky has been looking
+lately, it might prove to be ample shelter in the future.  
+~
+0 4726784 1
+D4
+~
+~
+0 0 3827
+S
+#3829
+A Gloomy Trail~
+You begin to approach the gates and you can barely read what it had to
+say.  It reads Jehanna Cem..  Thats it.  The rest of the sign was destroyed
+in the pandemonium that grabbed this city it seems.  The rocks have
+completely turned to dust the closer you get to these gates.  The trail
+behind you travels back to the inner city, but ahead lies nothing but a
+fenced off area.  
+~
+0 4726784 1
+D1
+~
+~
+0 0 3826
+D3
+~
+~
+0 0 3830
+S
+#3830
+Cemetery Gates~
+The sign may have been destroyed but there is a small engraving on the
+gates themselves.  It reads..  
+
+May those who perish be sheletered in the hand of the Creator.  We all
+meet there one day, in reunion for the joyful life.
+ 
+There should have been no question this is a cemetery, by the looks of
+the gates and especially what lies beyond them.
+~
+0 4726784 1
+D1
+~
+~
+0 0 3829
+D3
+~
+gate~
+1 0 3831
+S
+#3831
+Inside the Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3846
+D1
+~
+gate~
+1 0 3830
+D2
+~
+~
+0 0 3832
+S
+#3832
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3831
+D2
+~
+~
+0 0 3833
+S
+#3833
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3832
+D3
+~
+~
+0 0 3834
+S
+#3834
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D1
+~
+~
+0 0 3833
+D3
+~
+~
+0 0 3835
+S
+#3835
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D1
+~
+~
+0 0 3834
+D3
+~
+~
+0 0 3836
+S
+#3836
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3837
+D1
+~
+~
+0 0 3835
+S
+#3837
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3838
+D2
+~
+~
+0 0 3836
+S
+#3838
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3841
+D1
+~
+~
+0 0 3839
+D2
+~
+~
+0 0 3837
+S
+#3839
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D1
+~
+~
+0 0 3840
+D3
+~
+~
+0 0 3838
+S
+#3840
+A Giant Tombstone~
+You are in the very middle of the cemetery, by a tombstone that stands
+out from the rest.  The shear size of this tombstone could rival any
+tombstone you've ever seen.  The inscriptions on it were carved in a flowing
+script that would be tough to duplicate.  The top of the tombstone has a
+raven carved onto an ordinary man's shoulder, except for his missing eyes.  
+~
+0 4726784 1
+E
+tomb~
+This area was brought to you by the amazing builders:
+ 
+Thom and Demandred.
+~
+D3
+~
+~
+0 0 3839
+D5
+~
+tombstone~
+1 0 3899
+S
+#3841
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3842
+D2
+~
+~
+0 0 3838
+S
+#3842
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D1
+~
+~
+0 0 3843
+D2
+~
+~
+0 0 3841
+S
+#3843
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D1
+~
+~
+0 0 3844
+D3
+~
+~
+0 0 3842
+S
+#3844
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D1
+~
+~
+0 0 3845
+D3
+~
+~
+0 0 3843
+S
+#3845
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D2
+~
+~
+0 0 3846
+D3
+~
+~
+0 0 3844
+S
+#3846
+Jehannah Cemetery~
+As the gates lie behind you, the wind picks up enough to squash the
+squeaking noise they seem to make.  The atmosphere of this cemetery is like
+every other cemetery you've been to, but suprisingly feels no different from
+the rest of the cursed city.  If anything, this cemetery adds a bit of
+comfort knowing the dead are truthfully dead and not walking among the
+living.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3845
+D2
+~
+~
+0 0 3831
+S
+#3847
+Eastern Road~
+This road leads away from the Center Square down into the most unaffected
+area of the town.  Shops still line the road, with minor, if no damage done
+to them at all.  Strangely, every shop has had it's windows and doors torn
+from where they once were and thrown into a huge pile at the end of the
+road, making the trip past it unpassable.  
+~
+0 4726784 1
+D1
+~
+~
+0 0 3848
+D3
+~
+~
+0 0 3800
+S
+#3848
+Eastern Road~
+Farther away from the Center Square, you begin to see each shop and what
+it's function used to be.  To the south was a weapons shop because of the
+random pieces of stuff laying on the floor inside.  There is nothing of
+value to those pieces, all of them either broken or bent in some way that
+disabled their use.  
+~
+0 4726784 1
+D1
+~
+~
+0 0 3849
+D2
+~
+~
+0 0 3853
+D3
+~
+~
+0 0 3847
+S
+#3849
+Eastern Road~
+Approaching the pile of doors and windows, you notice that they have all
+been either melted or fused together in some way.  The shape of the mound
+almost looks like a dwelling, but can't be because of amount of rubbish that
+crowds any hopes of something to call an entrance.  Directly to the north
+was what used to be a bakery.  The sign still hangs in front of the building
+but only on one hinge, barely strong enough to support the weight.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3852
+D1
+~
+~
+0 0 3850
+D3
+~
+~
+0 0 3848
+S
+#3850
+The Base of the Pile~
+Doors hang from every position possible, supported, fused, and melted
+together with windows and other doors.  Each door hasd a number on it,
+claiming what shop it used to be and what that shop did.  There are doors
+from seamstresses, doors from bootmakes, and the large door from the mayor's
+office.  
+~
+0 4726784 1
+E
+door~
+_______________________
+|                     | 
+|                     | 
+|        (45)         | 
+|                     | 
+|                     | 
+|                     | 
+|                     | 
+| O                   | 
+|                     | 
+|                     | 
+|                     | 
+|                     | 
+|                     | 
+|                     | 
+|                     | 
+------------------------
+~
+D3
+~
+~
+0 0 3849
+S
+#3851
+The Building Gods' Sanctum~
+You have entered the room of the most dedicated, professional, and
+experienced builders on SoT.  Two thrones stand to each corner of the room,
+each labled, with gold on the headpiece, the names of each builder.  
+~
+0 140551172 0
+S
+#3852
+An Empty Shop~
+The ovens still sit in the back of the room where bread and pastries were
+once made.  A bag of flour has been sliced open and thrown around the room
+to give it a ghostly appearance.  Little chunks of bread, maybe flesh are
+scattered across floor, getting kicked at every step you take.  
+~
+0 4726784 1
+D2
+~
+~
+0 0 3849
+S
+#3853
+An Old Weapons Shop~
+This shop has hooks on the walls, hopefully to hang weapons and not
+bodies on them.  Dust covers the floors and counters several layers thick,
+swirling up with every step you take into the room.  A corpse of some sort is
+hanging from a beam across the ceiling, slightly swaying on the thick rope.
+~
+0 4726784 1
+D0
+~
+~
+0 0 3848
+S
+#3854
+Western Road~
+Just outside the Center Square, the sphere to the east looks like a black
+hole sucking everything inward towards it.  The road seems to head to the
+west and then curve south a little.  The amount of dust flying around is
+amazingly horrid, making it impossible to breathe..  You better move along. 
+~
+0 4726784 1
+D1
+~
+~
+0 0 3800
+D3
+~
+~
+0 0 3855
+S
+#3855
+Western Road~
+The smell of sulfer fills your nose as fumes seem to spout from the
+ground here.  Little holes in the ground emit large amounts of it in a
+matter of seconds.  A rotted corpse lays here, apparently of what used to be
+a young woman.  She hasn't been touched by the scavengers yet, however
+scarce they are, but perhaps because of the fumes here.  
+~
+0 4726784 1
+D1
+~
+~
+0 0 3854
+D2
+~
+~
+0 0 3856
+S
+#3856
+Western Road~
+The road gives a sharp turn, although the turn may not have always been
+there.  The ground gives a shake or a rumble every now and then, maybe
+aftershocks of an earthquake in the past or one to come.  A plume of smoke
+rises from a hill somewhere to the north, but doesnt spark much of your
+attention.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3855
+D3
+~
+~
+0 0 3857
+S
+#3857
+Western Road~
+The wind out here seems to have picked up a little, not blowing
+constantly or in one direction.  As soon as you take another step it will
+slow down or speed up, randomly picking a direction to go.  Your cloak whips
+around your body making it hard to see or even walk in some instances.  The
+ruggedness of the road makes it no better than if there were no wind at all.
+~
+0 4726784 1
+D1
+~
+~
+0 0 3856
+D3
+~
+~
+0 0 3858
+S
+#3858
+A Dead End~
+The Western Road comes to a sudden stop as the road trails off into dirt
+and rock.  The road may have been there at one time but now ceases to exist
+at all.  A giant rock is to your left, casting even more shadows across the
+land beyond you on all sides.  The wind here is a slow wind but not one to
+be dismissed as normal.  It still changes directions at any give time.  
+~
+0 4726784 1
+D1
+~
+~
+0 0 3857
+S
+#3859
+Southern Road~
+The southern road leads away from Center Square into the part of Jehannah
+that is the most destroyed.  Total destruction has layed waste to all parts
+south of the Southern road.  You see whole statues crumbled on top of there
+frames and pedastools, while houses simply layed over as if flattened.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3800
+D2
+~
+~
+0 0 3860
+S
+#3860
+Southern Road~
+Further on down the road, you can see things more clearly now.  Fields
+where crops once grew, piles of rocks have been blown into perfect circles
+by the swirling wind.  The clouds cast shadows upon the land making it seem
+almost perpetually nighttime.  The shadows dance across the land making
+things appear to be threathening.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3859
+D2
+~
+~
+0 0 3861
+S
+#3861
+Southern Road~
+The land seems so desolate and empty as you travel far south from the
+Center Square.  Common Cobblestone from the north turns to ashes as you
+tread down the vacant street, devoid of any normal lifeforms.  Beyond the
+chaos which seems to eminate within the city walls, the rough taste of dust
+coats your mouth.
+~
+0 4726784 1
+D0
+~
+~
+0 0 3860
+D2
+~
+~
+0 0 3865
+S
+#3862
+Below the Clearing~
+You have dropped sevaral feet only to land in a tight passage below the
+clearing.  You have a feeling you are not the only one however. 
+Occasionally, you can here the scraping of something across the floor or the
+rattling of chains elsewhere.  A moan is silenced by the crack of something
+breaking, and the walls will tremor with the sudden movements of something
+above you.  
+~
+0 4726784 0
+D3
+~
+~
+0 0 3863
+S
+#3863
+Before the Portal~
+You stand before a shimmering surface that glimmers with a constant shine
+to it.  As you stare in awe at the sight before you, the walls begin to move
+a bit.  They don't move to try and crush you but they move as if to kill. 
+You better run, and run now!  
+~
+0 4726784 0
+D1
+~
+~
+0 0 3862
+S
+#3864
+Inside the Sphere~
+The walls in this place radiate evil and vileness unable to escape or
+leak out.  Everything seems to seep into your head, and then push from
+within.  Scream for help and warnings, yet others invite you to bask in the
+evilness the Ancient Evil has to offer.  Your eyes begin to bulge as the
+voices within persist and badger into your mind, your nose and ears begin to
+bleed from physical feelings of death being put into thoughts.  
+~
+0 4726788 0
+S
+#3865
+A Ledge~
+You stand on mouth of a crevice that extends countless miles into the
+ground.  The feel of heat and wind permeates from the crevice, almost
+sending you plummeting down into it.  Rocks and debris tumble into the pit
+as the wind picks up and swallows them.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3861
+D2
+~
+~
+0 0 3866
+S
+#3866
+Above the Crevice~
+The wind here sucks so strongly at your body it almost seems impossible
+to stay afloat.  Below you is a massive hole that leads to endless darkness
+and heat.  The rocks that are pulled into it fall forever, and never hit
+bottom as far as you can tell.  
+~
+0 4726784 9
+D0
+~
+~
+0 0 3865
+D2
+~
+~
+0 0 3867
+D5
+~
+~
+0 0 3870
+S
+#3867
+A Ledge~
+You stand on mouth of a crevice that extends countless miles into the
+ground.  The feel of heat and wind permeates from the crevice, almost
+sending you plummeting down into it.  Rocks and debris tumble into the pit
+as the wind picks up and swallows them.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3866
+D2
+~
+~
+0 0 3868
+S
+#3868
+Southern Road~
+You stand just north of the southern gates which lead into and out of
+Jehannah, well what is left of it.  Total destruction lay all around you,
+including toppled towers and collapsed spires.  Smoke plumes rise in the
+distant and land tremors occur often enough to keep you on your toes.  
+~
+0 4726784 1
+D0
+~
+~
+0 0 3867
+D2
+~
+~
+0 0 3869
+S
+#3869
+Inside the Southern Gates~
+As the gates stand beside you, the evil that lives inside this city
+begins to take action upon you.  A heavy pressure of some sort is applied to
+certain parts of your body as if checking your strength.  When the pressure
+has been lifted, you have a sense of awareness you did not have before. 
+There is someting living in this very town, but not something pleasant.  
+~
+0 8192 1
+D0
+~
+~
+0 0 3868
+D2
+~
+~
+0 0 38006
+S
+#3870
+Into the Crevice~
+As you fall deeper and deeper into the crevice, the hot air seems to
+disappear leaving only you and the wind gushing across your face as you
+fall.  The ragged edges of the crevice quickly turn into smooth walls of
+shiny stone, thats seems polished enough to show a reflection of yourself
+falling into nothingness.
+~
+0 4726784 9
+D4
+~
+~
+0 0 3866
+D5
+~
+~
+0 0 3871
+S
+#3871
+Bottom of the Crevice~
+As you approach the ground at a rapid speed, a gust of wind catches you
+and slows your fall down dramatically.  Your soft landing onto the fertile
+soil is met with a greeting from something unknown and unseen unto man. 
+Fear is struck into the depth of your soul as you glare straight into what
+seems to be your own death.  
+~
+0 4726788 9
+D4
+~
+~
+0 0 3870
+S
+#3874
+A Hole~
+You have entered the home of something bad!  The sound you thought was
+wind, was mistaken for the sound of heavy breathing.  A set of eyes glow
+from the dark and the way back up is steep and very troublesome.  As the
+breathing grows louder and louder, you could dare the chance of being
+caught.  It is possible to make it out of this hole again, but very small
+chances you would make it alive.  
+~
+0 4726788 0
+D4
+~
+~
+0 0 3894
+S
+#3875
+A Hole~
+As you land on your hands and knees, you feel a soft squish.  The single
+torch above the hole shows mud lining the hole all around you.  The mud
+makes them shiny and probably impossible to scale.  A giant lump begins to
+rise from the mud, but ever so slowly.  It begins to spread out across the
+back of the hole but suddenly opens it's eyes and stares straight at you.  
+~
+0 4726788 0
+D4
+~
+~
+0 0 3891
+S
+#3876
+A Hole~
+As you stand up looking around in the hole, you notice something
+sparkling around the walls.  At a closer look, you almost poke an eye out
+with a long metal spike attached to the wall.  When you begin to observe the
+rest of the hole, you notice they are all around you.  And on top of that, a
+slow breathing comes from the corner, where a set of glowing eyes are fixed
+with yours.  
+~
+0 4726788 0
+D4
+~
+~
+0 0 3886
+S
+#3877
+A Massive Hole~
+Ouch.  You have slipped on a rock and fallen face first into a massive
+hole.  If not for the darkness, you could have avoided this easily but
+nevertheless, you lived.  Even in the darkness, you can tell what a pattern
+of wind blowing into your face means.  There is something down here and it
+seems to like what's going on.  The hole is about 40 above your head, making
+it close to impossible to escape.  
+~
+0 4726788 0
+D4
+~
+~
+0 0 3879
+S
+#3878
+Complete Darkness~
+As you walk along in the darkness, you lose sense of direction and begin
+to run.  The faster you run, the quicker the wind begins to blow with every
+step you take.  Every step you take rings out as the sound carries across
+this horrifically giant room.  You have not felt or seen any walls since
+entering this room and now you cannot even find your way back.  
+~
+0 4726784 0
+D0
+~
+~
+0 0 3880
+D1
+~
+~
+0 0 3882
+D2
+~
+~
+0 0 3879
+D3
+~
+~
+0 0 3882
+S
+#3879
+Above the Hole~
+A quick glow of light reveals a hole 2 feet in front of you, but reveals
+nothing inside of the whole.  Who knows what lay underground, especially in
+a city infested and corrupted with evil strong enough to challenge the Dark
+One himself.  Or at least thats the rumor about it.  What else could level a
+city and all it's inhabitants in one swift motion.  
+~
+0 4726784 0
+D0
+~
+~
+0 0 3878
+D1
+~
+~
+0 0 3883
+D2
+~
+~
+0 0 3880
+D3
+~
+~
+0 0 3883
+D5
+~
+~
+0 0 3877
+S
+#3880
+Complete Darkness~
+As you walk along in the darkness, you lose sense of direction and begin
+to run.  The faster you run, the quicker the wind begins to blow with every
+step you take.  Every step you take rings out as the sound carries across
+this horrifically giant room.  You have not felt or seen any walls since
+entering this room and now you cannot even find your way back.  
+~
+0 4726784 0
+D0
+~
+~
+0 0 3879
+D1
+~
+~
+0 0 3881
+D2
+~
+~
+0 0 3878
+D3
+~
+~
+0 0 3881
+S
+#3881
+Complete Darkness~
+As you walk along in the darkness, you lose sense of direction and begin
+to run.  The faster you run, the quicker the wind begins to blow with every
+step you take.  Every step you take rings out as the sound carries across
+this horrifically giant room.  You have not felt or seen any walls since
+entering this room and now you cannot even find your way back.  
+~
+0 4726784 0
+D0
+~
+~
+0 0 3883
+D1
+~
+~
+0 0 3880
+D2
+~
+~
+0 0 3882
+D3
+~
+~
+0 0 3880
+S
+#3882
+Complete Darkness~
+As you walk along in the darkness, you lose sense of direction and begin
+to run.  The faster you run, the quicker the wind begins to blow with every
+step you take.  Every step you take rings out as the sound carries across
+this horrifically giant room.  You have not felt or seen any walls since
+entering this room and now you cannot even find your way back.  
+~
+0 4726784 0
+D0
+~
+~
+0 0 3881
+D1
+~
+~
+0 0 3878
+D2
+~
+~
+0 0 3883
+D3
+~
+~
+0 0 3878
+S
+#3883
+Complete Darkness~
+The walls provide no light here, if there are walls at all.  In all
+directions you see darkness hugging tighter than the darkness of the ways. 
+You hold up a weapon for protection, but cannot even see that as close as it
+is to your face.  A wind of some sort begins to blow from the west, and it
+feels rather different than wind felt from outside.  Perhaps it is a way out
+of this place, a way to freedom from the evil that surrounds every thing in
+this city.
+~
+0 4726784 0
+D0
+~
+~
+0 0 3882
+D1
+~
+~
+0 0 3884
+D2
+~
+~
+0 0 3881
+D3
+~
+~
+0 0 3877
+S
+#3884
+Underground Clearing~
+The room is pitch black except for the slight, normal glow of the walls. 
+Back out the doors is a room with light too bright to look at for long. 
+However the room to the west is pitch black, leaving no sign of how big or
+how small the danger is.  You've made it this far into the tunnels, why not
+continue on the journey?  
+~
+0 0 0
+D1
+~
+~
+0 0 3885
+D3
+~
+~
+0 0 3883
+D5
+~
+~
+1 0 3862
+S
+#3885
+Before the Stairs~
+The room to the west is pitch black, and the doors are made of some
+stone, the same stone the Dark One's seals are made of.  Going back up the
+stairs seems a logical move but the stairs seem to lead up forever, perhaps
+miles.  The walk down them took a matter of seconds, but the walk back up
+could take a lifetime.  
+~
+0 4726784 0
+D3
+~
+~
+0 0 3884
+D4
+~
+~
+0 0 3888
+S
+#3886
+Underground Chamber~
+The yellow floor gives a glow that lights the room better than ten
+torches could.  The dirt-packed wall is smooth except for one part of the
+room, in the back corner.  A crack leads from the very top of the chamber
+down to the floor, where a hole has been formed into a perfect circle big
+enough to fit a horse through.  
+~
+0 4726784 0
+D2
+~
+~
+0 0 3887
+D5
+~
+~
+0 0 3876
+S
+#3887
+A Small Hallway~
+The hallway is definately getting smaller, barely leaving you room to fit
+through as you walk.  Both sides of walls are touching your chest and back
+as you turn sideways to get in, and you have to crouch down in order to keep
+from scraping the ceiling.  The walls are closing in as you walk!  You could
+be trapped alive but there is only 10 more feet to go before you can breathe
+safely again.  
+~
+0 4726784 0
+D0
+~
+~
+0 0 3886
+D2
+~
+~
+0 0 3889
+S
+#3888
+Atop the Stairs~
+You are standing at the top of a flight of marble stairs with a grey
+stone banister.  It leads down to a set of doors which are propped open with
+stones too big to move.  All light currently shining down towards the door
+is suddenly sucked in and and disappears into the room waiting below.  The
+floor has turned to black marble already, give no sort of reflection, though
+very clean and polished.  
+~
+0 4726784 0
+D1
+~
+~
+0 0 3889
+D5
+~
+~
+0 0 3885
+S
+#3889
+Underground Hallway~
+The split in the hallway here makes for a tough decision.  The floor
+changes colors in both directions, black to the west and yellow in the
+northern direction.  The color of the floor seems to mean something, as if
+they are clues to what lies ahead.  Yellow seems friendlier than black, but
+what has been friendly in this Light forsaken city yet?  
+~
+0 4726784 0
+D0
+~
+~
+0 0 3887
+D1
+~
+~
+0 0 3890
+D3
+~
+~
+0 0 3888
+S
+#3890
+Underground Hallway~
+The green marble floor remains constant but can barely be seen over the
+amount of sod and shadows covering it.  After entering this room, the only
+thing to do is keep walking.  The echo of your boots has died down to a
+small sound due to the walls closing in on you.  Or at least it seems they
+are closing in.  
+~
+0 4726784 0
+D1
+~
+~
+0 0 3892
+D3
+~
+~
+0 0 3889
+S
+#3891
+Underground Lair~
+You enter a room with dirt piles evenly spread out across the floor. 
+From each dirt pile, a dagger sticks up with a ruby hilt, gleaming against
+the faint light the torches are offering.  However, according to the
+pattern, a dirt pile should be straight across from you, but is instead
+replaced with a hole big enough to fit into.  
+~
+0 4726784 0
+D3
+~
+~
+0 0 3892
+D5
+~
+~
+0 0 3875
+S
+#3892
+A Tunnel Intersection~
+You encounter a wall as you approach the intersection.  The obvious exits
+are west and east, but which could prove to be a fatal direction to walk? 
+To the east, the green marble floor turns into stone and to the west, the
+green marble floor continues on.  The torches seem larger here but maybe
+it's just the hallway getting smaller as you walk.  
+~
+0 4726784 0
+D1
+~
+~
+0 0 3891
+D2
+~
+~
+0 0 3893
+D3
+~
+~
+0 0 3890
+S
+#3893
+Underground Hallway~
+As you walk into the room, the torches flare brightly and the floor can
+clearly be seen.  It has changed from the blue color to dark green with a
+very small pattern of skulls within it.  It is neither dry or muggy down
+here, and has a very unique temperature to it.  Not a temperature that is
+felt, but a temperature that is not there at all.  
+~
+0 4726784 0
+D0
+~
+~
+0 0 3892
+D2
+~
+~
+0 0 3897
+S
+#3894
+Underground Room~
+You enter a room with more than sufficiant lighting around you.  There is
+not one torch but a semi-glow to the room, that permeates from the walls and
+floors.  A giant hole is in the back of the room, but no light extends from
+it.  It is as black as death itself, emitting nothing but a soft sound of
+wind.  
+~
+0 4726784 0
+D1
+~
+~
+0 0 3895
+D5
+~
+~
+0 0 3874
+S
+#3895
+Underground Hallway~
+As you walk along the marble floor, you notice small flakes of sod
+beginning to show on the floor.  Sometimes you feel the floor give a small
+shake but it's almost too small to notice at all.  It could be the shadows
+playing trick on your mind again.  The darkness seems to hug tighter and
+tighter the deeper you go into the tunnels.  
+~
+0 4726784 0
+D0
+~
+~
+0 0 3896
+D3
+~
+~
+0 0 3894
+S
+#3896
+Underground Hallway~
+As you walk into the room, the torches flare brightly and the floor can
+clearly be seen.  It has changed from the blue color to blood red with a
+very small pattern of daggers within it.  It is neither hot or cold down
+here, and has a very unique smell to it.  Not a smell of decay or rot, but a
+smell of emptiness.  
+~
+0 4726784 0
+D0
+~
+~
+0 0 3897
+D2
+~
+~
+0 0 3895
+S
+#3897
+Underground Hallway~
+The hallway splits into a three way intersection now, heading north,
+south, and back east.  There is nothing to the east, that is known, but
+little is known about what lies north and south of you.  As you look down to
+the floor, you notice a subtle change in color as you walk in a certain
+direction.  
+~
+0 4726784 0
+D0
+~
+~
+0 0 3893
+D1
+~
+~
+0 0 3898
+D2
+~
+~
+0 0 3896
+S
+#3898
+Underground Tunnel~
+As you head down the tunnel, the torches begin to spread the length
+between the next torch.  Your boots echo as you walk down the hall slowly,
+looking constantly behind you.  You turn around to go back but there is
+nothing but darkness behind you, and the way you came in ceases to exist any
+longer.  The choice is easy now considering there is no other option but to
+keep moving forwards.  
+~
+0 4726784 0
+D1
+~
+~
+0 0 3899
+D3
+~
+~
+0 0 3897
+S
+#3899
+Underground Entrance~
+All around you are dirt walls, and small torches lined on each side of
+you.  The amount of light down here is very limited and shadows seem to be
+throwing images of things across your vision.  The floor however is made of
+marble and not one particle of dirt has fallen on it.  It looks slippery to
+step on but actually has very good traction when you begin to move.  
+~
+0 4726784 0
+D3
+~
+~
+0 0 3898
+S
+#0
+
+
+
+#SPECIALS
+M 3801 spec_poison
+M 3802 spec_breath_lightning
+M 3805 spec_breath_acid
+M 3806 spec_nasty
+M 3807 spec_nasty
+M 3812 spec_breath_acid
+M 3814 spec_thief
+M 3815 spec_breath_any
+M 3816 spec_breath_frost
+M 3819 spec_breath_gas
+M 3822 spec_cast_mage
+M 3823 spec_cast_mage
+M 3826 spec_poison
+M 3827 spec_guard
+M 3828 spec_cast_undead
+M 3829 spec_poison
+M 3830 spec_breath_any_but_acid
+M 3831 spec_breath_gas
+M 3832 spec_breath_frost
+M 3833 spec_breath_any
+M 3834 spec_breath_gas
+M 3835 spec_breath_gas
+M 3837 spec_breath_gas
+M 3838 spec_breath_gas
+M 3839 spec_breath_gas
+M 3840 spec_breath_gas
+M 3841 spec_breath_gas
+M 3851 spec_breath_gas
+M 3852 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 3823 2 1
+D 0 3824 0 1
+D 0 3830 3 1
+D 0 3831 1 1
+D 0 3840 5 1
+D 0 3884 5 1
+M 0 3800 5 3800 1 100 Load a flesh statue
+O 0 3800 0 3800 0 100 A `8black sphere`7 loaded to The Center Square
+M 0 3805 2 3801 1 100 Load A Flesh Creature
+O 0 3801 0 3802 0 100 A `!bl`1oo`!dy`7 puddle loaded to Northern Road
+M 0 3803 2 3802 1 100 Load A Tremor
+M 0 3808 1 3803 1 100 Load A mindless child
+M 0 3801 10 3804 1 100 Load A rotting corpse
+M 0 3801 10 3805 1 100 Load A rotting corpse
+M 0 3803 2 3806 1 100 Load A Tremor
+M 0 3824 1 3807 1 100 Load A horrid form
+M 0 3814 5 3808 1 100 Load A cloaked figure
+M 0 3813 5 3809 1 100 Load A tainted citizen
+M 0 3809 2 3810 1 100 Load A stone statue
+M 0 3813 5 3811 1 100 Load A tainted citizen
+M 0 3806 5 3812 1 100 Load A bloody insect
+M 0 3818 2 3813 1 100 Load A Massive Creature
+M 0 3812 2 3814 1 100 Load A blood-thirsty crab
+M 0 3818 2 3815 1 100 Load A Massive Creature
+M 0 3802 1 3816 1 100 Load A giant bat
+O 0 3815 0 3817 0 100 A wooden door loaded to Before a House
+M 0 3822 10 3817 1 100 Load A corrupted fade
+M 0 3815 1 3818 1 100 Load a Young Woman
+M 0 3819 5 3819 1 100 Load A Black Secreation
+M 0 3838 1 3820 1 100 Load A Corrupted General
+E 0 3809 0 7 0 100 (corrupted) shin plates is loaded on the legs of A Corrupted General
+E 0 3820 0 17 0 100 (corrupted) bloody spine is loaded wielded of A Corrupted General
+M 0 3807 5 3821 1 100 Load A swarm of insects
+M 0 3816 3 3822 1 100 Load A thorned creature
+M 0 3821 10 3823 2 100 Load A corrupted trolloc
+M 0 3833 1 3824 1 100 Load The corrupted Mayor
+E 0 3802 0 9 0 100 (corrupted) fine gauntlets is loaded on the hands of The corrupted Mayor
+E 0 3818 0 17 0 100 (corrupted) shadow dagger is loaded wielded of The corrupted Mayor
+M 0 3822 10 3825 1 100 Load A corrupted fade
+M 0 3825 2 3826 1 100 Load A shadow stalker
+M 0 3830 4 3827 1 100 Load A thick, black mist
+M 0 3832 1 3828 1 100 Load The Skull Captain
+E 0 3811 0 6 0 100 (corrupted) a red skull is loaded over the head of The Skull Captain
+E 0 3819 0 17 0 100 (corrupted) bone mace is loaded wielded of The Skull Captain
+M 0 3811 10 3828 1 100 Load A bloody skeleton
+M 0 3801 10 3829 1 100 Load A rotting corpse
+M 0 3809 2 3831 1 100 Load A stone statue
+M 0 3801 10 3832 1 100 Load A rotting corpse
+M 0 3801 10 3833 1 100 Load A rotting corpse
+M 0 3801 10 3834 1 100 Load A rotting corpse
+M 0 3811 10 3835 1 100 Load A bloody skeleton
+M 0 3811 10 3836 1 100 Load A bloody skeleton
+M 0 3811 10 3837 1 100 Load A bloody skeleton
+M 0 3811 10 3838 1 100 Load A bloody skeleton
+M 0 3830 4 3840 1 100 Load A thick, black mist
+O 0 3897 0 3840 0 100 A tombstone loaded to A Giant Tombstone
+M 0 3811 10 3841 1 100 Load A bloody skeleton
+M 0 3811 10 3842 1 100 Load A bloody skeleton
+M 0 3811 10 3843 1 100 Load A bloody skeleton
+M 0 3811 10 3844 1 100 Load A bloody skeleton
+M 0 3811 10 3845 1 100 Load A bloody skeleton
+M 0 3801 10 3846 1 100 Load A rotting corpse
+M 0 3801 10 3847 1 100 Load A rotting corpse
+M 0 3821 10 3848 1 100 Load A corrupted trolloc
+M 0 3819 5 3849 1 100 Load A Black Secreation
+M 0 3814 5 3850 1 100 Load A cloaked figure
+M 0 3810 3 3850 1 100 Load A minion
+O 0 3896 0 3851 0 100 `!t`1ho`!m`7's throne loaded to The Building Gods' Sanctum
+O 0 3895 0 3851 0 100 `8de`&m`8andred`7's throne loaded to The Building Gods' Sanctum
+M 0 3851 1 3851 1 100 Load `8Black`& Fog`*
+O 0 3896 0 3851 0 100 `!t`1ho`!m`7's throne loaded to The Building Gods' Sanctum
+O 0 3895 0 3851 0 100 `8de`&m`8andred`7's throne loaded to The Building Gods' Sanctum
+O 0 3895 0 3851 0 100 `8de`&m`8andred`7's throne loaded to The Building Gods' Sanctum
+O 0 3896 0 3851 0 100 `!t`1ho`!m`7's throne loaded to The Building Gods' Sanctum
+M 0 3816 3 3852 1 100 Load A thorned creature
+M 0 3899 1 3853 1 100 Load a hanging corpse
+G 0 3899 0 0 0 100 A bone arrow is given to a hanging corpse
+M 0 3813 5 3854 1 100 Load A tainted citizen
+M 0 3819 5 3855 1 100 Load A Black Secreation
+M 0 3801 10 3856 1 100 Load A rotting corpse
+M 0 3813 5 3857 1 100 Load A tainted citizen
+M 0 3830 8 3858 1 100 Load A thick, black mist
+M 0 3821 10 3858 1 100 Load A corrupted trolloc
+M 0 3822 10 3858 1 100 Load A corrupted fade
+M 0 3810 3 3859 1 100 Load A minion
+M 0 3804 1 3860 1 100 Load A giant spider
+M 0 3822 10 3861 1 100 Load A corrupted fade
+M 0 3827 4 3862 4 100 Load A patrolling guardian
+M 0 3826 5 3863 5 100 Load A living wall
+O 0 3898 0 3863 0 100 An ancient portal loaded to Before the Portal
+M 0 3831 1 3864 1 100 Load The Ancient Evil
+E 0 3804 0 19 0 100 (corrupted) pitch black stone is loaded held in the hands of The Ancient Evil
+G 0 3823 0 0 0 100 (corrupted) a bone axe is given to The Ancient Evil
+G 0 3822 0 0 0 100 (corrupted) (bone tipped) a polearm is given to The Ancient Evil
+G 0 3824 0 0 0 100 (corrupted) a bone flail is given to The Ancient Evil
+G 0 3825 0 0 0 100 (corrupted) a war staff is given to The Ancient Evil
+M 0 3810 3 3865 1 100 Load A minion
+M 0 3828 5 3866 1 100 Load A sewer serpent
+M 0 3817 1 3867 1 100 Load A black scorpion
+M 0 3821 10 3868 1 100 Load A corrupted trolloc
+M 0 3822 10 3868 1 100 Load A corrupted fade
+M 0 3830 4 3870 1 100 Load A thick, black mist
+M 0 3812 2 3870 1 100 Load A blood-thirsty crab
+M 0 3834 1 3871 1 100 Load The corrupted Captain of the Guard
+E 0 3803 0 11 0 100 (corrupted) tower shield is loaded as a shield of The corrupted Captain of the Guard
+E 0 3810 0 8 0 100 (corrupted) sentry boots is loaded on the feet of The corrupted Captain of the Guard
+E 0 3814 0 15 0 100 (corrupted) a wrist plate is loaded on the left wrist of The corrupted Captain of the Guard
+E 0 3821 0 17 0 100 (corrupted) a bone spear is loaded wielded of The corrupted Captain of the Guard
+M 0 3821 10 3871 1 100 Load A corrupted trolloc
+M 0 3822 10 3871 1 100 Load A corrupted fade
+M 0 3837 1 3874 1 100 Load The Shadow Master
+E 0 3806 0 17 0 100 (corrupted) longsword is loaded wielded of The Shadow Master
+M 0 3807 5 3874 1 100 Load A swarm of insects
+M 0 3840 1 3875 1 100 Load A pit demon
+E 0 3805 0 10 0 100 (corrupted) metal arm spikes is loaded on the arms of A pit demon
+E 0 3819 0 17 0 100 (corrupted) bone mace is loaded wielded of A pit demon
+M 0 3822 10 3875 1 100 Load A corrupted fade
+M 0 3839 1 3876 1 100 Load The Shadow Assassin
+E 0 3816 0 22 0 100 (corrupted) a dull quiver is loaded over the shoulder of The Shadow Assassin
+E 0 3807 0 17 0 100 (corrupted) longbow is loaded wielded of The Shadow Assassin
+M 0 3835 1 3877 1 100 Load A Shadow Knight
+E 0 3812 0 20 0 100 (corrupted) a face plate is loaded floating nearby of A Shadow Knight
+E 0 3813 0 5 0 100 (corrupted) a field plate is loaded on the body of A Shadow Knight
+E 0 3817 0 3 0 100 (corrupted) a string of teeth is loaded around the neck (1) of A Shadow Knight
+M 0 3822 10 3877 1 100 Load A corrupted fade
+M 0 3820 2 3878 1 100 Load A bloody creature
+M 0 3829 5 3879 1 100 Load A creeping ivy branch
+M 0 3828 5 3880 1 100 Load A sewer serpent
+M 0 3828 5 3881 1 100 Load A sewer serpent
+M 0 3819 5 3882 1 100 Load A Black Secreation
+M 0 3829 5 3883 1 100 Load A creeping ivy branch
+M 0 3816 3 3884 1 100 Load A thorned creature
+M 0 3821 10 3885 1 100 Load A corrupted trolloc
+M 0 3822 10 3886 1 100 Load A corrupted fade
+M 0 3821 10 3887 1 100 Load A corrupted trolloc
+M 0 3822 10 3888 1 100 Load A corrupted fade
+M 0 3829 5 3889 1 100 Load A creeping ivy branch
+M 0 3825 2 3890 1 100 Load A shadow stalker
+M 0 3821 10 3891 1 100 Load A corrupted trolloc
+M 0 3821 10 3892 1 100 Load A corrupted trolloc
+M 0 3819 5 3893 1 100 Load A Black Secreation
+M 0 3828 5 3894 1 100 Load A sewer serpent
+M 0 3829 5 3894 1 100 Load A creeping ivy branch
+M 0 3828 5 3895 1 100 Load A sewer serpent
+M 0 3820 2 3896 1 100 Load A bloody creature
+M 0 3829 5 3897 1 100 Load A creeping ivy branch
+M 0 3823 1 3898 1 100 Load A fanged beast
+M 0 3801 10 3899 1 100 Load A rotting corpse
+S
+
+
+
+#SHOPS
+3899 44 0 0 0 0 100 50 0 23
+0
+
+
+
+#MOBPROGS
+#3800
+if ispc $n
+mob echo The wind picks up and begins to howl.
+break
+else
+say Hello.
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

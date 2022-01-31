@@ -1,0 +1,1276 @@
+#AREADATA
+Name Quest Master~
+Builders Dewalt~
+VNUMs 6400 6499
+Credits `4[`7 None `4]`7 Diem      Questmaster~
+Security 9
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#6400
+razumel questmaster quest master~
+Razumel~
+Razumel is here, giving out adventures for the willing.
+~
+This man, looks very simple and small in stature.  He quietly writes in a
+very old journal as people quickly approach him and then leave.  He is
+covered in old wool robes, and doesnt appear to be wearing anything to
+extravagant.  
+~
+unique~
+0 0
+ABd 80 0 0 8192 -1  0 0
+200 0 500d100+300 1d1+1 500d100+300 none
+0 0 0 0
+0 ABQ 0 0
+stand stand male  0
+0 0 large unknown
+#6401
+gold dragon keeper~
+`#Gold `3Dragon `&Keeper`7~
+The Keeper of the Gold Dragon is here
+~
+~
+unique~
+0 0
+AFT 256 10307 0 0 -1  -1000 0
+140 350 10d1000+9900 1d1+1 3d100+50 critical
+-50 -50 -50 -50
+CIKO JK 0 H
+stand stand none 1000
+0 0 medium unknown
+#6402
+diploma man~
+The Diploma Man~
+A man stands here waving your diploma in his hand. COME AND GET IT!
+~
+BOO!
+~
+school monster~
+0 0
+ABFGTU 49488 64 0 0 -1  0 0
+775 650 32000d1+1 0d0+0 1d2+500 wrath
+-150 -150 -150 -150
+ACFN HJQ K I
+stand stand female 0
+AMV ABCDEFHJKQU giant unknown
+F imm AB
+F vul C
+#6404
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6405
+red follower~
+A `!Red`7 follower~
+A `!Red`7 follower stands here, ready to defend his team.
+~
+~
+andor~
+0 0
+ABTe 49488 64 0 0 -1  0 0
+775 600 1d1+31000 0d0+0 1d1+690 slash
+-200 -200 -200 -200
+ACF LQ CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK huge unknown
+#6406
+blue follower~
+A `$Blue`7 follower~
+A `$Blue`7 follower stands here, ready to defend his team.
+~
+~
+andor~
+0 0
+ABTe 49488 64 0 0 -1  0 0
+775 600 1d1+31000 0d0+0 1d1+690 slash
+-200 -200 -200 -200
+ACF LQ CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK huge unknown
+#6407
+qmob guaire follower~
+A follower of the Dragon~
+A follower of the Dragon runs around, looking for someone's throat to slit.
+~
+~
+arad_domon~
+0 0
+ABT 336 64 0 0 -1  0 0
+250 400 1d1+20000 0d0+0 1d1+450 slash
+-130 -130 -130 -130
+ACFU 0 D 0
+stand stand either 0
+AHMV ABCDEFGHIJK large unknown
+#6408
+guaire personal honorguard honor-guard~
+An Honor-Guard~
+Guaire's Personal Honor-Guard stands around keeping anyone from getting close to him.
+~
+~
+tarabon~
+0 0
+AFRTe 49488 64 0 0 -1  0 0
+450 499 1d1+30000 0d0+0 1d1+450 pierce
+-160 -160 -160 -160
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#6445
+byar~
+`#B`&yar ~
+`#B`&yar`7
+~
+~
+unique~
+0 0
+A 256 1088 128 0 -1  300 0
+750 750 100d100+4000 100d100+4000 50d50+4000 pound
+-100 -100 -100 -100
+0 ABL I K
+stand stand male  0
+V ABCGH medium unknown
+#6450
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6453
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6454
+cloaked man~
+A cloaked man~
+A cloaked man sits among the candles, peering at you as you enter.
+~
+~
+unique~
+0 0
+AGJKMabde 336 0 0 0 -1  -1000 0
+78 100 1d1+9999 0d0+0 1d1+99 thrust
+-100 -100 -100 -100
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#6400
+restring coupon~
+A `$R`4estring `!C`1oupon`7~
+Treasure from the questmaster lays here~
+~
+treasure d A
+0
+0 0 0 0 0
+1 0 1 P
+ T 0 none~
+#6401
+prize coupon~
+A `@P`2rize `!C`1oupon`7~
+A tresured coupon lays almost buried here.~
+~
+treasure d A
+0
+0 0 0 0 0
+1 0 1 P
+ T 0 none~
+#6402
+enchant coupon~
+An `#E`3nchant `!C`1oupon`7~
+A glowing coupon lays here.~
+~
+treasure d A
+0
+0 0 0 0 0
+1 0 1 P
+ T 0 none~
+#6403
+gold~
+500 gold~
+A pile of gold lays here.~
+~
+money d A
+0
+CEFGHI 0 0 0 0
+1 0 1 P
+ T 0 none~
+#6404
+shadow sot sword~
+`&Sh`7ad`8ow`7 Sword~
+a powerful sword lays here~
+heartstone~
+weapon ABad AN
+0
+sword 26 1 slash ADG
+12 20 1 P
+A
+18 3
+A
+19 3
+ T 0 none~
+#6405
+finely crafted dagger~
+(`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*d`8agger`*~
+A finely crafted dagger lies here on the ground.~
+adamantite~
+weapon ABIMd AN
+0
+dagger 33 1 prick ABE
+26 10 0 P
+A
+18 3
+A
+19 3
+A
+13 20
+A
+17 -1
+A
+12 2
+E
+finely crafted dagger~
+The dagger looks remarkably crafted but something is very strange about
+it.  Looking closely at the blade you see runes resembling 1 and 0
+constantly changing...  Occasionally, you see the strange rune of 2 and time
+stops for a second...  And then the runes continue on spinning at their
+regular pattern.  
+~
+ T 0 none~
+#6406
+finely crafted sword~
+(`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*s`8word`*~
+A finely crafted sword lies here on the ground.~
+adamantite~
+weapon ABIMd AN
+0
+sword 33 1 slice CEG
+26 200 0 P
+A
+17 -4
+A
+18 3
+A
+19 3
+A
+13 10
+A
+12 4
+E
+finely crafted sword~
+The sword looks remarkably crafted but something is very strange about
+it.  Looking closely at the blade you see runes resembling 1 and 0
+constantly changing...  Occasionally, you see the strange rune of 2 and time
+stops for a second...  And then the runes continue on spinning at their
+regular pattern.  
+~
+ T 0 none~
+#6407
+finely crafted mace~
+(`@B`2ugged`*) a `!f`1inely`* `$c`4rafted `*m`8ace`*~
+A finely crafted mace lies here on the ground.~
+adamantite~
+weapon ABIMd AN
+0
+mace 33 1 blast BEG
+26 200 0 P
+A
+13 20
+A
+17 -5
+A
+12 20
+A
+19 1
+A
+14 4
+E
+finely crafted mace~
+The mace looks remarkably crafted but something is very strange about it.
+Looking closely at the large knobs of metal you see runes resembling 1 and 0
+constantly changing...  Occasionally, you see the strange rune of 2 and time
+stops for a second...  And then the runes continue on spinning at their
+regular pattern.  
+~
+ T 0 none~
+#6408
+blah~
+blah~
+Blah~
+unknown~
+armor Qd AR
+0
+CD CD CD BD 0
+0 0 0 P
+ T 0 none~
+#6409
+rp point token coupon~
+an `&RP`8 Token`7~
+An rp token is here.~
+unknown~
+trash Hd A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6410
+bag dust~
+a big bag of dust~
+A bag of dust lays here.~
+adamantite~
+trash ABd A
+0
+0 0 0 0 0
+0 50 0 P
+ T 0 none~
+#6411
+No_Break Coupon~
+`3N`8o `3B`8reak `3C`8oupon`*~
+A coupon which will make one object nobreak~
+unknown~
+treasure d A
+0
+0 0 0 0 0
+0 1 1000 P
+ T 0 none~
+#6412
+Gold Coupon~
+`#G`&old `#C`&oupon`*~
+A Coupon good for 500 Gold.~
+unknown~
+treasure d A
+0
+0 0 0 0 0
+0 1 1000 P
+ T 0 none~
+#6413
+corpse retrieve coupon cr~
+a Corpse Retrieval Coupon~
+A coupon lies on the ground.~
+wood~
+trash d A
+0
+0 0 0 0 0
+0 1 0 P
+ T 0 none~
+#6414
+crown illian~
+the `3C`8r`#o`&w`8n `7of `#I`8l`&l`3i`8a`#n`7~
+Quick get this to Questmaster asap!~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6415
+dagger shadar logath~
+`1D`&a`1g`&ge`1r`7 of `8Sh`!a`8d`!ar `8Logath`7~
+Take this to questmaster as fast as you can~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6416
+amyrlins staff~
+the `&A`5m`%yr`8l`5i`%n`&s `7S`%t`&a`5f`%f`7~
+Quick get this to Questmaster~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6417
+bloody dice~
+`!B`1l`8o`!o`&d`1y `&Dice`7~
+Get these dice to Questmaster quick~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6418
+angreal blue crystal~
+a `$B`4l`&u`$e `7C`6r`8y`^st`6a`&l `7Angreal~
+Hurry get this to questmaster before someone else does~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6419
+two rivers pipe~
+a `!T`&w`!o `$R`4i`&v`8e`$r`4s `8P`&i`8p`&e`7~
+Hurry get this pipe to questmaster or take it home for yourself....~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6420
+gleemans mug~
+the `2G`@l`8e`&e`@m`2a`&n`@s `&Mug`7~
+Hurry and get this to questmaster~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6421
+color-shifting cloak~
+a `?C`?o`?l`?o`?r`?-`?s`?h`?i`?f`?t`?i`?n`?g `?C`?l`?o`?a`?k`7~
+Quick get this fruity thing to questmaster before someone sees you with it~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6422
+black cloak dragon pin~
+a `8Black `&Cloak `7with a `!D`1r`8a`&g`1o`!n `&Pin`7~
+Run as fast as you can to questmaster with this~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6423
+adam~
+an `8A`$d`&a`4m`7~
+Quick get this to questmaster~
+unknown~
+trash d A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6424
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash d 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6425
+Restore Coin~
+`#A `#Q`&uest `#R`&estore `#C`&oin`*~
+A Coin to get restores in quest~
+unknown~
+treasure d A
+0
+0 0 0 0 0
+0 1 0 P
+ T 0 none~
+#6426
+White Cloak Sunburst~
+a `#B`&right `#W`&hite `#C`&loak with a `#Y`&ellow `#S`&unburst`*~
+A cloak off the corpse of a White Cloak Officer lies here on the ground.~
+unknown~
+armor ABYad AK
+0
+BDF BDF BDF BDF 0
+110 100 900 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+17 -5
+A
+13 1
+ T 0 none~
+#6427
+pretitle coupon~
+`4P`8retitle `4C`8oupon`7~
+A coupon with the power of pretitle.~
+unknown~
+treasure ABd A
+0
+0 0 0 0 0
+0 1 0 P
+ T 0 none~
+#6428
+fix coupon~
+`!F`?i`?x `!C`?o`?u`?p`?o`?n`*~
+When Tinkers fail, go to the gods to redeem this Coupon!~
+unknown~
+treasure d A
+0
+0 0 0 0 0
+0 0 1 P
+ T 0 none~
+#6429
+Something Quest Legs~
+`*Something~
+There is something here, but only the wearer knows what it is.~
+Steel~
+armor Y AFO
+0
+ACDF ACDF DF DF 0
+110 100 0 P
+ T 0 none~
+#6430
+heron mark blade~
+`&A `8H`&e`*ron `8M`&a`*rk `&B`8lade`*~
+A sword with a `8h`&e`*r`&on`* branded into the hilt lies here.~
+unknown~
+weapon ABGYad AN
+0
+sword 75 1 slash ACE
+110 150 1000 P
+A
+18 10
+A
+19 10
+A
+13 40
+ T 0 none~
+#6431
+aryth ocean veil~
+`$A`^r`6y`^t`$h `^O`$c`6ea`^n `$V`^eil`*~
+A light, navy blue mask lies here making the sound of the ocean.~
+unknown~
+armor GYad AR
+0
+BDF BDF BDF BDF 0
+110 120 1000 P
+A
+12 10
+A
+20 -10
+A
+13 80
+A
+18 2
+A
+19 1
+A
+14 4
+ T 0 none~
+#6432
+stones board~
+`#A `@S`3t`2on`#e`@s `@B`3oa`@rd`*~
+A board for a game of stones is lying here.~
+stone~
+armor ABMTad AO
+0
+BDF BDF BDF BDF 0
+110 50 1000 P
+A
+13 80
+A
+12 30
+A
+18 3
+A
+19 3
+A
+14 4
+ T 0 none~
+#6433
+Something Quest Legend Legs~
+`*Something Legendary~
+Something Legendary is here, but only the wearer knows what it might be.~
+Steel~
+armor Y AFO
+0
+EF EF ACDF ACDF 0
+150 100 0 P
+ T 0 none~
+#6434
+anti hummer coupon~
+`*Lynn's Anti-hummer Coupon!~
+`/Good for the removal of those annoying`/glow/hum flags on one piece of equipment.`/Redeemable by Lynn.`/`*~
+Parchment~
+treasure ABa AO
+0
+0 0 0 0 0
+1 0 100000 P
+ T 0 none~
+#6440
+deck cards~
+`8D`1e`8c`!k `&of `!C`8ar`1d`8s`*~
+A `8d`1e`8c`!k`* of cards lie here collecting dust.~
+unknown~
+armor ABGd AO
+0
+BCDF BCDF BCDF BCDE 0
+110 100 1000 P
+A
+17 -5
+A
+12 80
+A
+13 80
+A
+14 2
+ T 0 none~
+#6441
+graduation shiny suit quest~
+`&(`8Graduation`&) `8A sh`1i`8ny s`!u`1i`8t`7~
+A pile of black cloth lays in a pile.~
+smooth shit~
+armor d AK
+0
+BDF BDF BDF BDF 0
+110 20 1000 P
+A
+20 -5
+A
+13 50
+A
+18 8
+A
+19 8
+A
+12 12
+ T 0 none~
+#6445
+skull byar~
+`#B`&yar`#'`&s `8S`&k`7u`&l`8l`7~
+A hard head shaped object lies here.~
+steel~
+armor BYad AE
+0
+DEF DEF DEF ABCE 0
+110 40 1000 P
+A
+18 5
+A
+19 5
+A
+3 -1
+A
+4 -1
+A
+13 50
+A
+12 50
+A
+20 -3
+A
+14 4
+ T 0 none~
+#6446
+purple helmet~
+`8(`&T`7h`8r`&o`7b`*b`&i`7n`8g`&) `%P`5u`%r`5p`%l`5e `%H`5e`%l`5m`%e`5t`*~
+A LARGE throbbing purple helmet is here, looking like it's ready to burst with power.~
+unknown~
+armor ABd AE
+0
+BDF BDF BDF BDF 0
+110 100 5000 P
+A
+13 28
+A
+20 -10
+A
+12 20
+A
+19 7
+A
+18 7
+ T 0 none~
+#6447
+ring machin shin~
+`&(`8Ta`&i`8n`&te`8d`&) `&R`8i`&ng `7of M`&a`8ch`&i`7n `8S`&h`8i`&n`7~
+A part of the black wind lies here.~
+gold~
+armor MYad AB
+0
+BDF BDF BDF BDF 0
+110 10 10000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+17 -5
+A
+12 1
+ T 0 none~
+#6448
+tainted mask fury~
+`&(`8tainted`&) `!M`1ask `&of `7F`8ury`7~
+A strange mask with 3 holes lies on the ground collecting dust.~
+unknown~
+armor Yad AR
+0
+BDF BDF BDF BDF 0
+110 30 1000 P
+A
+18 10
+A
+19 10
+A
+13 50
+A
+24 -1
+A
+12 2
+A
+17 -1
+ T 0 none~
+#6449
+tainted air shield~
+`&(`8tainted`&) `&a`8n `!A`1ir `7S`8hield`7~
+A shield which seems to be made of a cloudy mist floats in the air.~
+unknown~
+armor Yad AJ
+0
+BDF BDF BDF BDF 0
+110 30 1000 P
+A
+18 8
+A
+19 8
+A
+20 -8
+A
+12 7
+A
+13 30
+ T 0 none~
+#6450
+tainted belt dragon insig~
+`&(`8tainted`&) `&a `!B`1elt `&with `8a `!D`8ra`1g`!o`8n `7I`8nsignia`7~
+A black leather belt, clasped with a shining silver buckle in the shape of a rampant dragon.~
+unknown~
+armor Yad AL
+0
+BDF BDF BDF BDF 0
+110 30 1000 P
+A
+18 7
+A
+19 7
+A
+23 -10
+A
+13 30
+A
+12 7
+ T 0 none~
+#6451
+message paper~
+a message for Guaire~
+A piece of paper lies here, all rolled up.~
+unknown~
+trash d AO
+0
+0 0 0 0 0
+0 20 0 P
+E
+message~
+I would get out quickly Sir.  They are attacking in great masses and have
+already killed all our men.  I am the only one left to warn you.  Run to a
+hidden canyon, follow the heat.  
+ 
+Jondyn
+~
+ T 0 none~
+#6452
+platinum keyring~
+a `#P`3latinum `7K`8eyring`7~
+A shiny golden ring lays here, glimmering in the sun.~
+unknown~
+keyring ABd AU
+0
+50 0 0 0 0
+110 100 7500 P
+A
+18 10
+A
+19 10
+A
+13 60
+A
+24 -1
+A
+17 -1
+A
+12 2
+ T 0 none~
+#6453
+platinum helm~
+a `#P`3latinum `7H`8elm`7~
+A hard helm made of shiny metal is here.~
+steel~
+armor BYd AE
+0
+DF DF DF DF 0
+110 100 40000 P
+A
+13 48
+A
+18 9
+A
+19 9
+A
+20 -6
+ T 0 none~
+#6454
+Callandor~
+`&C`7al`&la`7n`&d`7o`&r`7~
+A glass looking sword lays here, looking somewhat valuable.~
+unknown~
+weapon ABGad AN
+0
+sword 76 1 thrust ACE
+150 300 100000 P
+A
+18 11
+A
+19 11
+A
+20 -10
+A
+24 -1
+A
+23 -1
+A
+13 15
+A
+17 -1
+A
+12 2
+ T 0 none~
+#6455
+ticket diem prize~
+a Diem prize ticket.~
+Set me~
+unknown~
+map 0 A
+0
+0 0 0 0 0
+500 0 0 P
+ T 0 none~
+#6456
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6457
+silver spiziked wristplate warrior~
+`8Si`&lv`8er Sp`7i`&z`7i`&k`8ed `!W`1ristplate `7of a `8Warrior`7~
+A spiziked wrizistplizate lizays on the grizound, shizining in the lizight.~
+unknown~
+armor ABd AM
+0
+BDF BDF BDF BDF 0
+110 30 1000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 17
+ T 0 none~
+#6458
+silver spiziked wristplate mage~
+`8Si`&lv`8er Sp`7i`&z`7i`&k`8ed `!W`1ristplate `7of a `8Mage`7~
+A spiziked wrizistplizate lizays on the grizound, shizining in the lizight.~
+unknown~
+armor ABd AM
+0
+BDF BDF BDF BDF 0
+110 30 1000 P
+A
+13 100
+A
+20 -10
+A
+18 1
+A
+19 2
+A
+17 -1
+A
+12 2
+ T 0 none~
+#6459
+rename coupon~
+`7R`8ename `!C`1oupon`7~
+A glowing piece of paper lays here with the words 'rename' drawn on it.~
+paper~
+trash 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6460
+restore coupon~
+`!R`1estore `!C`1oupon`7~
+A glowing coupon is here, the words 'restore' scribbled on it.~
+paper~
+trash 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6469
+shivering dragonhide hide leggings~
+`!(`1Shivering`!)`2 D`3r`2`a`3g`2o`3n`2h`3i`2d`3e `8L`&e`7gg`&i`7ng`8s`7~
+A pair of expensive greeves lay on the floor.~
+unknown~
+armor ABKLd AF
+0
+BDF BDF F CEF 0
+110 30 4000 P
+A
+9 2
+A
+18 8
+A
+19 8
+A
+13 40
+A
+20 -5
+A
+12 35
+A
+14 4
+ T 0 none~
+#6470
+shimmering ruby hilted dagger~
+`1(`8Shimmering`1) `7a `!R`1uby`&-`7H`8ilted `1D`!a`1g`!g`1e`!r`7~
+A beautiful dagger with a small ruby in the hilt glimmers in the light.~
+unknown~
+weapon ABad AN
+0
+dagger 75 1 pierce CEG
+110 100 1000 P
+A
+18 9
+A
+19 9
+A
+24 -10
+ T 0 none~
+#6498
+restring~
+`8De`&m`8andred's `!R`1estring `&C`8o`&u`8p`&o`8n`*~
+A coupon is here for those that lack the stringing talents, turn this in to demanded to recieve an rp string chosen by the man himself~
+unknown~
+treasure d A
+0
+0 0 0 0 0
+75 10 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#6400
+The Northern Chamber~
+You're standing within the northern chamber of this hall.  The room looks
+fairly simple in size, and stature.  The floors are made of a polished
+marble, and the walls made of wood.  Nothing truly appears unique within
+this chamber, except for the simple looking man sitting in the northern
+corner of the room.  He sits behind a small oak desk, and appears to be very
+busy, he doesnt look up just continues to write, as men and women approach
+him - he nods.  
+~
+0 524300 0
+D0
+~
+~
+0 0 15500
+D2
+~
+~
+0 0 3054
+S
+#6401
+A Small Workshop~
+Somehow this small shop seems to appear out of nowhere in the middle of
+Baerlon.  The air here is clean and rather comforting, except for the
+occasional pipe smoke which seems to stream from the pipe of the owner. 
+Many people are seen entering this shop, speaking with the owner, then
+quickly leaving as if to save someone's life.  
+~
+0 4719628 0
+D3
+~
+~
+0 0 2457
+S
+#6402
+A Candle-Lit Chamber~
+The light from this room casts shadows across the room as you enter. 
+There are candles lining the tables and steps all around the room, even upon
+the shelves that hang on the cracked wall of the room.  Each sound echos as
+it is made but suddenly disappears in a clap of silence.  Wax drips onto the
+floor occasionally but the man at the back of the room pays no heed.  The
+hood of his cloak hides his face and the only visible body part is its
+glowing eyes.  
+~
+0 222831620 0
+D0
+~
+~
+0 0 12030
+S
+#0
+
+
+
+#SPECIALS
+M 6400 spec_questmaster
+M 6402 spec_breath_gas
+M 6405 spec_breath_gas
+M 6406 spec_breath_gas
+M 6407 spec_breath_gas
+M 6408 spec_breath_gas
+S
+
+
+
+#RESETS
+O 0 3237 0 6400 0 100 A bench loaded to The Northern Chamber
+M 0 2448 1 6401 1 100 Load Jac Al'Seen
+M 0 6454 1 6402 1 100 Load A cloaked man
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#6400
+emote mutters quietly, as he scribbles viciously in the book before him.
+end
+~
+#6401
+if !hasquest $n 2
+mob addquest $n 2
+emote face seems to visibly brighten.
+tell $n Thank you for your kindness, you will need to travel to Four Kings.
+tell $n There in Four Kings, search out a man by the name of Saml.
+tell $n He is very wise on this subject, and will give you further information.
+endif
+~
+#6402
+if !hasquest $n 2
+emote 's eyes light up brightly for a brief moment.
+tell $n An Elixir of great power, but very few know where it lies.
+tell $n Would you be willing to assist the White Tower, in finding this cure?
+endif
+~
+#6403
+emote sighs quietly, and then looks you over with a look of pity.
+~
+#6404
+if hasquest $n 2
+emote gasps, and then smiles warmly.
+say You did it! You retrieved the Elixir, we can now cure the Sedai!
+say Thank you so much, now let me see what can I give you that equals your deeds?
+say How about a hug?!
+hug $n
+mob updatequeststatus $n 2 completed
+endif
+ 
+~
+#6405
+if hasquest $n 2
+mob completequeststep $n 2 1
+emote nods his head slowly, and then grins briefly.
+say Yes, you're looking for the Elixir of Truth - it ills all those who've been tainted by deceit.
+say Search out a Goblin Shaman, he is the one who holds the Elixir in which you seek.
+endif
+~
+#6406
+if clan $n 'shadow'
+stop
+else
+if level $n >= 16
+end
+else
+if !hasquest $n 10
+mob addquest $n 10
+tell $n Greetings, I am Questmaster Razumel.
+tell $n For help with quests, type 'quest' and instructions will be showen to you.
+tell $n Though it is not recomended you start my quests till you have portal, that choice is up to you.
+tell $n I give four differant types of quests.
+tell $n Rescue quests - where you port to a mob and kill the mob attacking it.
+tell $n Hit quests - where I send you to kill a mob.
+tell $n Treasure hunts - Where I tell you to find an item and give a general location.
+tell $n And riddles - Where you solve a riddle.
+tell $n My prizes are Quest Points and gold, as well at random times, I will also give practices.
+tell $n To see this introduction again, simpley type '!info'
+tell $n Good luck, $n.
+mob updatequeststatus $n 10 completed
+endif
+endif
+~
+#6407
+tell $n For help with quests, type 'quest' and instructions will be showen to you.
+tell $n Though it is not recomended you start my quests till you have portal, that choice is up to you.
+tell $n I give four differant types of quests.
+tell $n Rescue quests - where you port to a mob and kill the mob attacking it.
+tell $n Hit quests - where I send you to kill a mob.
+tell $n Treasure hunts - Where I tell you to find an item and give a general location.
+tell $n And riddles - Where you solve a riddle.
+tell $n My prizes are Quest Points and gold, as well at random times, I will also give practices.
+tell $n To see this introduction again, simpley type '!info'
+~
+#6410
+if !hasquest $n 3
+emote rosey cheeks raise, a warm smile in his eyes.
+tell $n Well thank you very much! My head Elf `#D`3iem`7 must have sent you!
+tell $n very well, I still very much need your help! A squad of Rogue Elves
+tell $n has stolen my big red sac of gifts. I need them back before the end of 
+tell $n of the day, otherwise alot of children will not be having a very good 
+tell $n christmas. Will you help me?
+endif
+~
+#6411
+if !hasquest $n 3
+mob addquest $n 3
+tell $n Well thats swell of you! Please find the rogue elves and return my sac!
+endif
+~
+#6412
+if hasquest $n 3
+say Ho Ho Ho...
+say Excellent work friend. I am sure your parents are VERY proud of you!
+say as a reward I was told to provide you with a magical christmas decoration.
+say you can turn this decoration into Diem by noting him that you have one. Keep
+say this ball in your inventory when you log out, and he will present you with a 
+say special gift!
+say Ho Ho Ho!  Merry Christmas Friend! Enjoy yourself. Back to my Nog!
+if RAND 20
+mob oload 122
+else 
+mob oload 123
+endif
+give ball $n
+endif
+ 
+~
+#6413
+if !hasquest $n 4
+tell $n Hello, you look like a rather strong candidate to participate in my
+tell $n Tournament of Champions.  This is a very tough fire against a worthy
+tell $n opponent, unfortunately one of the finalists was slain however the crowd
+tell $n out there has it set that there will be a final battle. To accept lower
+tell $n your head and bow. I shall do the rest. Prepare for victory friend!
+endif
+~
+#6414
+if level $n >= 75
+if !hasquest 4
+tell $n Very well, worthy decision! I am providing you a single access portal.
+tell $n Return to the city and equip yourself for the fight of a lifetime. Once
+tell $n you are prepared enter the portal I have provided and the fight shall 
+tell $n begin. Beware that there is no fleeing from this fight. And expect anything!
+tell $n Peace be with you. May the Creator's light shine on you.
+if RAND 50
+mob oload 124
+else
+mob oload 125
+endif
+give portal $n
+endif
+else 
+tell $n On second thought, I would suggest training up further. You will not make
+tell $n as worthy of an adversary as I thought you would. Good Luck in your Journeys!
+pat $n
+endif
+~
+#6450
+emote peers at $n intently.
+say Do you think you've got what it takes?
+glare $n
+say WELL?!
+~
+#6451
+say Well we'll just see about that.
+emote claps his hands and a page appears.
+emote reads a scroll handed to him by the page.
+say It says here, that there is a lady in trouble down the road. See about it. Now.
+emote turns his back on you.
+~
+#6452
+glare $n
+say Don't make such a hideous show of your rotting teeth around me.
+say I'm a busy man.
+say I've no time for your rancid foolishness, Begone!
+end
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#6400
+room echo The floor creeks quietly, as a dusty commoner enters from the south.
+~
+#0
+
+#$

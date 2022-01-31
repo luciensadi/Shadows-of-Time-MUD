@@ -1,0 +1,978 @@
+#AREADATA
+Name Wolfbrother Guild Area~
+Builders None~
+VNUMs 13101 13150
+Credits `4[`2GUILD `4]`7 Tuathon   Wolfbrother Safe~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#13101
+young bull~
+young bull~
+A man with broad shoulders stands here guarding the pack.
+~
+This is a very strong man he has the strength of 5 men and has a heart
+that will never fear but that sure is a nice blade and cloak he has. 
+~
+wolf~
+0 0
+AT 0 0 0 0 -1  1000 0
+100 10 22000d1+1000 10000d8+10 75d9+11 acbite
+-10 -10 -10 -12
+FH AGV ACDEFJKQV L
+stand stand male  10
+AGV ACDEFJKQV large unknown
+#13102
+wolf~
+a sleeping wolf lays here~
+This wolf would be quite the fighter if it werent asleep 
+~
+A wolf is here with soft grey fur surely it wouldnt bite me if i poked it
+with my weapon. 
+~
+unique~
+0 0
+A 0 0 0 0 -1  1000 0
+5 2 75d3+3 0d5+5 5d5+5 bite
+2 2 3 2
+0 0 0 0
+sleep sleep either 25
+0 0 tiny unknown
+#13103
+cub~
+a small cub is here~
+A small cub is here playing among the others 
+~
+A small cub who yearns to be a yearling lays here. 
+~
+unique~
+0 0
+AT 0 0 0 0 -1  1000 0
+15 2 400d10+5 0d5+4 20d7+5 none
+-4 -4 -4 -2
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#13104
+yearling~
+a yearling is here~
+A yearling is here and enjoying every minute of his life 
+~
+He is sitting on his rear just admiring you he might be dangerous but do
+you really wanna find out? 
+~
+unique~
+0 0
+A 0 0 0 0 -1  1000 0
+25 5 600d6+2 600d3+4 30d3+3 none
+-5 -5 -5 -5
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#13105
+dapple wolfbrother~
+Dapple~
+Dapple is here giving out quests.
+~
+This woman has yellow eyes, glancing about the faces of every single
+person in this room.  She is very talented in the arts of healing, yet
+unknown to most all wolfbrothers.
+~
+wolf~
+0 0
+ABJKQYZabd 336 0 0 0 -1  0 0
+300 202 5000d10+10000 3000d5+5000 50d50+10 grep
+-100 -100 -100 -100
+BCFH AGIKOV CDEFJQV 0
+stand stand female 0
+AGV ACDEFJKQV large unknown
+M ACT 13110 bows~
+#13106
+errand boy~
+A errand boy for the pack~
+An errand boy stands here.
+~
+A runner for the pack stands here, shifting impatiently from foot to foot, anxious to be gone.
+~
+unique~
+0 0
+A 0 0 0 0 -1  1000 0
+50 5 600d6+3 600d5+6 40d7+4 none
+-10 -10 -10 -10
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+M ACT 13137 chortles~
+#13107
+guardian~
+a guardian stands here watching the cubs~
+A strong man stands here watching over the pack 
+~
+He is very strong and watches the backs of the Pack he will not let any
+harm come to them and if you want them to go through pain you go through
+him. Oh well he is gonna attack you anyways 
+~
+unique~
+0 0
+AF 0 0 0 0 -1  1000 0
+50 5 800d10+10 800d7+8 65d6+5 bite
+-10 -10 -10 -10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#13108
+wolfbrother~
+a young man stands here~
+A man who has just reached the age of maturity stands here 
+~
+A young man stands here, he has not seen battle but yearns for the blood
+of the shadow 
+~
+unique~
+0 0
+AT 0 0 0 0 -1  1000 0
+30 3 450d6+4 100d5+4 14d6+4 none
+-7 -7 -7 -7
+0 0 0 0
+stand stand none 5
+0 0 tiny unknown
+#13109
+wolfbrother stor~
+Stor~
+Stor stands here awaiting the wounded.
+~
+This tiny woman has long brown hair.  Her face is well-hidden beneath
+it's auburn curls.  Her voice is gentle as she beckons you closer.  As you
+do so, you see the `#yellow `*gleam flash quickly in her eyes.  Only for an
+instant, but you know it was there.  It is quickly brushed aside as she
+beams a warm smile in your direction.  
+ 
+Type 'heal' to see a listing of spells.
+~
+unique~
+0 0
+ABQabd 336 0 0 0 -1  1000 0
+100 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium unknown
+#13110
+runner large wolf~
+old runner~
+A large wolf stares at you.
+~
+The large wolf who stands before you is known as Runner.  He is well
+versed in the use of the One Power.  Strangely enough, he escaped the Black
+Tower before his calling brought him home.  
+~
+unique~
+0 0
+ABTZe 49488 80 0 32776 -1  -1000 0
+775 128 300d300+2000 100d100+1000 5d15+35 none
+-100 -100 -100 -100
+CDEFHK Z 0 0
+stand stand male  0
+0 0 medium unknown
+M ACT 13110 bows~
+#13111
+runner wolf~
+Runner~
+A large wolf stares at you.
+~
+The large wolf who stands before you is known as Runner.  He is well
+versed in the use of the One Power.  Strangely enough, he escaped the Black
+Tower before his calling brought him home.  
+~
+unique~
+0 0
+ABTZe 50512 1104 0 33280 -1  0 0
+775 200 300d300+2000 100d100+1000 15d15+100 none
+-120 -120 -120 -120
+CDEFHK ABZb CDFHIJ 0
+stand stand male  400
+G ACDEJKLQUV medium unknown
+M ACT 13116 nods~
+#0
+
+
+
+#OBJECTS
+#13101
+blade wolf~
+Blade of the Wolf~
+A blade that has the inner power of the wolf~
+~
+weapon ABGHMY AN
+0
+sword 61 1 bite AE
+82 260 10000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 -6
+ T 0 none~
+#13102
+wolfskin cloak~
+A wolfskin cloak~
+A wolfskin that looks to have come off a wolfbrother lays here~
+~
+armor ABI AK
+0
+CE CE CE ABD 0
+41 10 10000 P
+A
+18 5
+A
+20 -5
+A
+13 21
+ T 0 none~
+#13103
+well pool fountain~
+a shallow well~
+A shallow well of blood is here.~
+oldstyle~
+fountain 0 0
+0
+10 10 'blood' 0 0
+0 0 0 P
+E
+fountain~
+You see the most beautiful fountain in the world.  The white marble glistens
+as sunlight hits its wet surfaces.  Fish swim around in the inner fountain, and
+an exterior fountain is reserved just for drinking.
+~
+ T 0 none~
+#13104
+the pack's horde~
+the pack's horde~
+The pack's horde is hidden here.~
+unknown~
+container O 0
+0
+1000 0 0 1000 100
+0 0 0 P
+ T 0 none~
+#13116
+key bone~
+key made of bone~
+A small piece of bone lies here.~
+unknown~
+key SUYa A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#13101
+Entrance to a Cave~
+An opening in what appeared to be a sheer cliff appears before you,
+should you enter? 
+ 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13102
+S
+#13102
+Hall of Heroes~
+Many heroes of the pack have their paintings on the wall. Someday you
+might be on that wall, but for now keep on dreaming. 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13103
+D2
+~
+~
+0 0 13101
+S
+#13103
+Hall of Heroes~
+This is a very old pack for many heroes have passed through the ranks and
+have been posted on the walls of fame 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13104
+D2
+~
+~
+0 0 13102
+S
+#13104
+Hall of Heroes~
+The paintings on the wall seem endless, they go on forever, do you belong
+will you make it on that blessed wall? 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13105
+D1
+~
+~
+0 0 2010
+D2
+~
+~
+0 0 13103
+D3
+~
+~
+0 0 2011
+S
+#13105
+The Hall of Heroes~
+This part of the hall only has one picture on it.  It is the picture of
+one of the greatest Wolfbrothers to ever walk the Earth.  He is a strong
+fair skinned man, with a long dagger at his side.  Maybe one day your
+picture will hang next to his....  
+~
+0 138412032 0
+D0
+~
+~
+4 13116 13116
+D1
+~
+~
+0 0 13106
+D2
+~
+~
+0 0 13104
+D3
+~
+~
+0 0 13107
+S
+#13106
+Hall of Transition~
+The cave now starts to turn into a group of houses and weapons for the
+rare event that this pack would go to war. 
+~
+0 138412036 0
+D1
+~
+~
+0 0 13108
+D3
+~
+~
+0 0 13105
+S
+#13107
+Deeper Part of the Cave~
+This appears to have been chipped out by the wolfbrothers of this pack,
+for the ever growing pack. 
+~
+0 138412036 0
+D1
+~
+~
+0 0 13105
+D3
+~
+~
+0 0 13110
+S
+#13108
+A Hall of Weapons~
+This hall is here incase the Pack ever goes to war, they will have plenty
+of weapons to defend themselves with. 
+~
+0 138412032 0
+D1
+~
+~
+0 0 13109
+D3
+~
+~
+0 0 13106
+S
+#13109
+Room of Hope~
+There are many more weapons here from ages past, that are long since
+obsolete. And some that are on the cutting edge of technology. 
+~
+0 138412032 0
+D3
+~
+~
+0 0 13108
+S
+#13110
+Room of Reflection~
+You step out of the mirror room to see yourself looking right at an exact
+image of yourself, how do you think you compare to other people, consider it
+before you go deeper. 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13112
+D1
+~
+~
+0 0 13107
+D2
+~
+~
+0 0 13111
+S
+#13111
+Room of Reflection~
+You step out of the mirror room to see yourself looking right at an exact
+image of yourself, how do you think you compare to other people, consider it
+before you go deeper. 
+~
+0 155198468 0
+D0
+~
+~
+0 0 13110
+S
+#13112
+A Room of Mirrors~
+This room allows you to look at yourself from all angles, are you worthy
+to go any further? 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13113
+D1
+~
+~
+0 0 13122
+D2
+~
+~
+0 0 13110
+S
+#13113
+Room of Reflection~
+You step out of the mirror room to see yourself looking right at an exact
+image of yourself, how do you think you compare to other people, consider it
+before you go deeper. 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13115
+D1
+~
+~
+0 0 13117
+D2
+~
+~
+0 0 13112
+D3
+~
+~
+0 0 13114
+S
+#13114
+Packleader's Home~
+Here many young powerful cubs are running about, But they arent cubs but
+little children this must be a wolfbrother not a real wolf. 
+~
+0 138412032 0
+D1
+~
+~
+0 0 13113
+S
+#13115
+Elder Wolfbrother's Home~
+Old paintings of wolves young and small are on the wall, it is a well lit
+place, with a warm atmosphere. The elders sure do get treated nice around
+here. 
+~
+0 0 0
+D2
+~
+~
+0 0 13113
+M 200 H 200
+R ACT 13115 bows~
+S
+#13116
+Wolfbrother Guardian's House~
+Here is the wolfbrother safe.  Tuathon was obviously not good enough to
+lead the pack, else he would still be around.  Legend has it, this is the
+wolfbrother who tore his juggular from his body.  
+~
+0 201859076 4
+D0
+~
+~
+0 0 13149
+D2
+~
+~
+4 13116 13105
+M 150 H 150
+S
+#13117
+A Hall of Bedrooms~
+A long opens up before you it appears to be a chamber of bedrooms for the
+residents of this cave. 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13128
+D1
+~
+~
+0 0 13118
+D3
+~
+~
+0 0 13113
+S
+#13118
+A Long Hall for Sleeping~
+This hall is long and has many bedrooms wouldnt you like to have one here? 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13124
+D1
+~
+~
+0 0 13119
+D2
+~
+~
+0 0 13125
+D3
+~
+~
+0 0 13117
+S
+#13119
+A Long Hall~
+This hall is starting to become monotonous with many sleeping rooms and
+nothing else. 
+~
+0 138412032 0
+D2
+~
+~
+0 0 13120
+D3
+~
+~
+0 0 13118
+S
+#13120
+A Long Hall~
+The hall's end is now close by, you wonder if it is even worth it to go on. 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13119
+D2
+~
+~
+0 0 13121
+S
+#13121
+The End of the Hall~
+The long hall comes to an end, man sure am glad i made it through that. 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13120
+D5
+~
+~
+1 0 13123
+S
+#13122
+A Meeting Room~
+What is this i thought that this hall was for sleeping, however that is
+apparently only a deception since this is a meeting room for the elders i
+wonder if it goes deeper. 
+~
+0 138412032 0
+D1
+~
+~
+0 0 13123
+D3
+~
+~
+0 0 13112
+S
+#13123
+Hidden meeting room~
+This room is very well hidden from those with little to no patience, it
+pushed towards the back of the cave so that the important matters that go on
+here wont be spread throughout the pack. 
+~
+0 155190276 0
+D3
+~
+~
+0 0 13122
+D4
+~
+~
+1 0 13121
+M 150 H 150
+S
+#13124
+A Wolves Sleeping Chamber~
+A sleeping chamber is here for the wolves to rest after a tiring day. 
+~
+0 138412032 0
+D2
+~
+~
+0 0 13118
+S
+#13125
+A Wolves Sleeping Chamber~
+This appears to be a large familiy's resting place, for all around you,
+you see grey fur... Hey kinda like wall to wall carpeting hehe. 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13118
+D1
+~
+~
+0 0 13126
+S
+#13126
+A Wolves Sleeping Chamber~
+This appears to be a chamber for wolves to rest in. Shhhhh dont wake them
+up 
+~
+0 138412032 0
+D2
+~
+~
+0 0 13127
+D3
+~
+~
+0 0 13125
+S
+#13127
+A Wolves Sleeping Chamber~
+This wolves sleeping area appears to be quite neat in fact it even has a
+nice grey rug laying at your feet. Wait that is no rug but in fact a
+sleeping wolf, better get out before it wakes up. 
+~
+0 138412032 0
+D0
+~
+~
+0 0 13126
+D3
+~
+~
+0 0 13134
+S
+#13128
+The Packleader's Bedroom~
+This room is simpy huge it has everything one could ever want furs,
+paintings, a large enough bed to fit all the cubs in and well everything. 
+~
+0 138413056 0
+D2
+~
+~
+0 0 13117
+S
+#13129
+The End of the Hall~
+This ends your journey dont you feel better ahhh you should. Because you
+just went through the first test to become a wolfbrother. 
+~
+0 4 0
+S
+#13130
+The Elder Wolfbrother's Sleeping Room~
+A well furnished room is here with a large comfortable looking bed made
+of leaves. 
+~
+0 4 0
+S
+#13131
+Tuathon's Bed Room~
+This is Tuathon's long anticipated bedroom this fool has ladies waiting
+for his return most of them weeping for he is probably dead. 
+~
+0 4 0
+S
+#13132
+Tuathon's Eating Room~
+There is food piled to the ceiling in this room maybe when that crazy
+wolfbrother gets back he will be hungry oh well there is food overflowing
+from this room. 
+~
+0 4 0
+S
+#13133
+Room of Rest~
+This room is for the pacificists of the Pack for they dont wish to
+journey through the halls of weapons that are nearby. 
+~
+0 4 0
+S
+#13134
+Room of Yearlings~
+This room contains the yearlings of the pack do you belong or do you need
+to go further into the cave? 
+~
+0 138412032 0
+D1
+~
+~
+0 0 13127
+S
+#13135
+Wolfbrother's Room~
+The actual wolfbrothers of the pack are in this room relaxing and playing
+some games to keep their war skills in tune. 
+~
+0 4 0
+S
+#13136
+Room of the Guardians~
+The guardians of the Pack are relaxing here hoping to avoid future
+conflict. However they know that nothing is inevitable for the wheel weaves
+as the wheel wills. 
+~
+0 4 0
+S
+#13137
+Free Vnum~
+~
+0 138413060 0
+S
+#13138
+Cub's Room~
+The cubs are towards the back so they can be more easily protected but do
+they really need all that much protection? 
+~
+0 4 0
+S
+#13139
+The Otherside of the Cave~
+This is the end of the path now you must continue on to find a way out
+this should be a rather interesting trek. 
+~
+0 4 0
+S
+#13140
+The End of the Cave~
+This appears to be the end of the cave, you can see light shining through
+ahead it has been along time since you have seen that. 
+~
+0 4 0
+S
+#13141
+Opening of the Cave~
+The cave opens back up on this side. The light seems much brighter than
+you remember it. 
+~
+0 4 0
+S
+#13142
+An Open Plain~
+This is a rather nice section of land with the warm sun shining on your
+face, and the breeze making it just cool enough to enjoy it. 
+~
+0 4 2
+S
+#13143
+An Open Plain~
+This part of the plain ends with a light forest straight ahead, it doesnt
+appear to hold any dangers in it. 
+~
+0 4 2
+S
+#13144
+Path to the Foot of the Mountain~
+This is the brief stretch of trees right before you enter the home
+stretch for the mountain. This is perhaps the most relaxing part of your
+journey so far. 
+~
+0 4 3
+S
+#13145
+Path to the Foot of the Mountain~
+The hills before the mountain now start to rise making your walking a
+little more difficult however it is nothing it is not bearable. 
+~
+0 4 4
+S
+#13146
+Path to the Foot of the Mountain~
+The hills are now becoming a bit steeper as you approach the mountain,
+that you have felt calling you from the start of it all. 
+~
+0 4 4
+S
+#13147
+Path to the Summit~
+Here lays the path that will lead you to your future it is covered with
+the blood, tears, and sweat of every wolfbrother before you 
+~
+0 4 5
+S
+#13148
+Path to the Summit~
+This part of the path is very rocky and hard to get through, is it really
+worth the time and effort to climb through this part of the trail? 
+~
+0 4 5
+S
+#13149
+Entrance Chamber~
+Almost there. Just a little bit further. Must make it to summit. 
+~
+0 67641348 4
+D2
+~
+~
+0 0 13116
+S
+#13150
+The Summit~
+This is where every rotation of the seasons the wolfbrothers meet to
+promote and lay to rest the members of the pack. 
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 13105 spec_questmaster
+M 13109 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 13105 0 2
+D 0 13116 2 2
+D 0 13121 5 1
+D 0 13123 4 1
+O 0 13104 0 13104 0 100 The pack's horde loaded to Hall of Heroes
+O 0 13103 0 13109 0 100 A shallow well loaded to Room of Hope
+M 0 13105 1 13111 1 100 Load Dapple
+M 0 13111 1 13116 1 100 Load Runner
+E 0 13116 0 19 0 100 Key made of bone is loaded held in the hands of Runner
+M 0 13102 1 13124 1 100 Load a sleeping wolf lays here
+M 0 13102 1 13126 1 100 Load a sleeping wolf lays here
+M 0 13102 1 13127 1 100 Load a sleeping wolf lays here
+M 0 13104 1 13134 1 100 Load a yearling is here
+M 0 13104 3 13134 1 100 Load a yearling is here
+M 0 13108 3 13135 1 100 Load a young man stands here
+M 0 13107 2 13136 1 100 Load a guardian stands here watching the cubs
+M 0 13103 4 13138 1 100 Load a small cub is here
+M 0 13101 1 13150 1 100 Load young bull
+E 0 13102 0 12 0 100 A wolfskin cloak is loaded about the shoulders of young bull
+E 0 13101 0 17 0 100 Blade of the wolf is loaded wielded of young bull
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#13110
+if clan $n wolfbrother
+say Safe journey, $n.
+mob transfer $n pella
+else
+yell You are no friend of the Pack!!
+kill $n
+break
+endif
+~
+#13116
+if clan $n wolfbrother
+tell $n You are always welcome here, $n.
+mob transfer $n 13105
+else
+yell You will not get past me, $n!
+kill $n
+break
+~
+#13137
+if clan $n wolfbrother
+say Welcome home, $n.
+mob transfer $n 13102
+else
+yell You are a Darkfriend, $n!  Do not attempt to enter the Pack's Lair again!
+break
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#13115
+if level $n < 50
+trans $n pella
+else
+#show You are too old for this.
+break
+endif
+~
+#13116
+~
+#0
+
+#$

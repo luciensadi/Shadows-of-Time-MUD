@@ -1,0 +1,148 @@
+#STOREOBJ
+Vnum 3385
+Owner Archimedes~
+Guild 0
+Coffer 0
+Keeper Shopkeep~
+KeeperVnum 10
+LPaid 1165042994
+#ITEM
+Cost 100
+#O
+Vnum 3802
+ID 3356718
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 100
+#O
+Vnum 3813
+ID 3356721
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 100
+#O
+Vnum 3817
+ID 3356723
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 150
+#O
+Vnum 9356
+ID 3360559
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 200
+#O
+Vnum 5582
+ID 3363350
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 75000
+End
+
+#ITEM
+Cost 500
+#O
+Vnum 20123
+ID 3363405
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 50
+#O
+Vnum 8421
+ID 3356717
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 100
+#O
+Vnum 17050
+ID 3364005
+Enchants 0
+PK 0
+Nest 0
+ExtF 83886083
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 75
+#O
+Vnum 2405
+ID 3339672
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 0
+End
+
+#ITEM
+Cost 3000
+#O
+Vnum 7509
+ID 3373673
+Enchants 0
+PK 0
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#SOLD
+Name `7Darkhound Skin Boots~
+Cost 75
+#SOLD
+Name an Aura of Power~
+Cost 50
+#SOLD
+Name (Slender) Black Ash Soul Slayer~
+Cost 350
+#SOLD
+Name `*Seared Flesh in the shape of a Foxhead~
+Cost 75
+#SOLD
+Name `7Human Leather Vest~
+Cost 75
+#SOLD
+Name the Sceptre of Domination~
+Cost 75
+#End

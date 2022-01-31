@@ -1,0 +1,128 @@
+#AREADATA
+Name Wilderness 2~
+Builders None~
+VNUMs 4450 4499
+Credits `4[`7 None `4]`7 Asmodeus  Wilderness~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#4450
+shark~
+Shark~
+Shark is here
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#4451
+Bear~
+Bear here~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#4452
+wolf~
+a large wolf~
+A large wolf stands here, licking it's limbs.
+~
+~
+wolf~
+0 0
+ADTZe 0 0 0 0 -1  0 0
+50 30 1d1+2000 0d0+0 1d1+30 bite
+0 0 0 0
+FH AB 0 0
+stand stand either 0
+AGV ACDEFJKQV medium unknown
+#4453
+lumber~
+lumber~
+Lumber here
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#4454
+fish~
+fish~
+Fish here.
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4450
+Dummy Room~
+~
+0 4 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

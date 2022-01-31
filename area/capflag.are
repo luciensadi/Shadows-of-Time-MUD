@@ -1,0 +1,1436 @@
+#AREADATA
+Name Capture The Flag~
+Builders Sellers~
+VNUMs 2201 2299
+Credits `4[`7 None `4]`7 None      None~
+Security 10
+Flags CE
+Version 4
+End
+
+
+
+#MOBILES
+#2201
+ghastly beings destruction~
+A Ghastly Being of Destruction~
+A ghastly being of destruction is here.
+~
+~
+unique~
+0 0
+AFG 0 16 2049 38400 -1  0 0
+300 -32768 1d1+50000 1d1+20000 50d5+100 none
+-100 -100 -100 -100
+BEFJKMR CDEKZ 0 0
+stand stand none 0
+Z ABCDEFHKLPQUVX large unknown
+#2208
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#2220
+blue guard~
+`$B`4lue `$T`4eam `&Guard`7~
+A `$b`4lue `*guard stands poised, ready to attack!
+~
+~
+unique~
+0 0
+AFUZe 1280 80 0 0 -1  0 0
+220 300 2000d5+32000 0d0+0 70d5+120 slice
+-230 -230 -230 -230
+CFHKM ab DG I
+stand stand none 0
+0 0 medium unknown
+#2221
+red guard~
+`!R`1ed `!T`1eam `&Guard`*~
+A `!r`1ed `*guard stands poised, ready to attack!
+~
+~
+unique~
+0 0
+AFUe 1280 80 0 0 -1  0 0
+220 300 2000d5+32000 0d0+0 70d5+120 slice
+50 50 50 50
+CFHKM ab DG I
+stand stand none 0
+0 0 medium unknown
+#2222
+Quest Arena Guard~
+Quest Arena Guard~
+A quest guard stands here.
+~
+~
+unique~
+0 0
+ABGTZae 49488 32848 0 32769 -1  -1000 0
+775 128 300d300+2000 100d100+1000 5d15+35 none
+130 130 130 130
+CDEFHK ABZb CDFHIJ a
+stand stand male  400
+G ACDEJKLQUV medium unknown
+#2223
+dark horse stallion~
+Bonar's `8dark`7 stallion~
+A `8dark`* stallion is here.
+~
+You are looking at a large black stallion, with a beautiful ebony mane to
+match.  He stands here quietly munching on some hay in the gentle breeze.  
+~
+unique~
+0 0
+ADOT 0 0 0 0 -1  1000 0
+200 25 2000d50+1000 2000d50+500 100d5+500 chomp
+-100 -100 -100 -100
+EFJKN EJLQRT IJ D
+stand stand none 500
+GIV 0 large unknown
+#2225
+Blue Castle Guard~
+`$B`*lue `$G`*uard~
+The `$B`4lue `$T`4eam `*castle `$G`4uard`* is here.
+~
+~
+dragon~
+0 0
+AFQRTZ 336 1024 128 41472 -1  500 0
+300 74 5000d10+10000 3000d5+5000 50d10+15 grep
+-100 -100 -100 -100
+ACFHT AGIKOV BCHV FIQ
+stand stand none 0
+AGHVZ ACDEFGHIJKPQUVX large unknown
+F res E
+#2226
+Red Castle Guard~
+`!R`*ed `!G`*uard~
+The `!R`1ed `!T`1eam `*castle `!G`1uard`* is here.
+~
+This man has yellow eyes, staring at every single person in the room.  He
+is very skilled in healing, unknown to almost all wolfbrothers.  
+~
+dragon~
+0 0
+AFQRTYZa 336 1024 128 8704 -1  500 0
+300 74 5000d10+10000 3000d5+5000 50d10+15 grep
+-100 -100 -100 -100
+ABCEFHT AGIKOV BCHV FIQ
+stand stand none 0
+AGHVZ ACDEFGHIJKPQUVX large unknown
+F res E
+#0
+
+
+
+#OBJECTS
+#2201
+blue team flag~
+`$B`*lue `$T`*eam `*FLAG~
+The `$B`*lue `$F`*lag is HERE!!~
+unknown~
+trash U A
+0
+0 0 0 0 0
+0 40 0 P
+ T 0 none~
+#2202
+blue flag key~
+key to the `$B`*lue `$T`*eam's FLAG room.~
+The key to the `$BLUE `*flag room lies here.~
+unknown~
+key FT AO
+0
+0 0 0 0 0
+1 20 0 P
+ T 0 none~
+#2203
+red team flag~
+`!R`*ed `!T`*eam FLAG~
+The `!R`*ed `!F`*lag is HERE!!~
+unknown~
+trash U A
+0
+0 0 0 0 0
+0 40 0 P
+ T 0 none~
+#2204
+red flag key~
+key to the `!R`*ed `!T`*eam's FLAG room.~
+The key to the `!RED`* flag room lies here.~
+unknown~
+key FT AO
+0
+0 0 0 0 0
+1 20 0 P
+ T 0 none~
+#2205
+Legend Leggings Blue Team~
+`&(`!Legendary`&) `$B`8lue `$G`8uard `$L`8eggings`*~
+A Legendary Object is lying here~
+unknown~
+armor GHIYd AF
+0
+ACEF CEF CEF ABEF 0
+150 100 5000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 50
+A
+12 10
+ T 0 none~
+#2206
+enchaned titanium dagger lords~
+`!(`8Enchanted`!) `&titanium-edged `!D`8agger `!o`8f `!t`8he `!L`8ords`*~
+A nicely balanced blade and finely crafted hilt rest here.~
+unknown~
+weapon ABad AN
+0
+dagger 75 1 pierce CE
+110 100 0 P
+A
+13 15
+A
+20 -9
+A
+19 9
+A
+18 9
+ T 0 none~
+#2207
+mage smoking gas mask~
+`!(`8mage`!) (`8smoking`!) `@G`2as `@M`2ask`*~
+A smoking mask sits here ready to be smoked.~
+darkmetal~
+armor Jad AE
+0
+BCEF BCEF BCEF BCEF 0
+150 20 40000 P
+A
+13 130
+A
+20 -15
+A
+12 5
+ T 0 none~
+#2208
+mage smoking gas mask~
+`!(`8warrior`!) (`8smoking`!) `@G`2as `@M`2ask`*~
+A smoking mask sits here ready to be smoked.~
+darkmetal~
+armor Jad AE
+0
+CDEF CDEF CDEF CDEF 0
+150 20 40000 P
+A
+18 15
+A
+19 15
+A
+20 -10
+ T 0 none~
+#2209
+fanny pack~
+`&(`8mage`&) `6F`8an`6n`8y `6P`8ac`6k `*full of `2Mar`6i`2juana`*~
+A small fanny pack is here.~
+titanium~
+armor d AL
+0
+ACDF ACDF ACDF ACDF 0
+110 10 20000 P
+A
+13 90
+A
+20 -15
+ T 0 none~
+#2210
+fanny pack~
+`&(`8warrior`&) `6F`8an`6n`8y `6P`8ac`6k `*full of `2Mar`6i`2juana`*~
+A small fanny pack is here.~
+cloth~
+armor Aad AL
+0
+DF DF DF DF 0
+110 20 0 P
+A
+18 10
+A
+19 10
+A
+20 -10
+ T 0 none~
+#2220
+blue~
+blue~
+Blue~
+unknown~
+portal 0 0
+0
+DFGHIJ 0 0 BCDEHL 0
+0 0 0 P
+ T 0 none~
+#2221
+dark ring of honor~
+`1R`8ing `6of `1H`8onor`*~
+A small gold band crafted from the dark source.~
+dark source~
+armor ABTd AB
+0
+ABDF ABDF ABDF ABDF 0
+110 10 40000 P
+A
+20 -10
+A
+18 10
+A
+19 10
+ T 0 none~
+#2222
+dark ring of honor~
+`8R`1ing `6of `8H`1onor`*~
+A small gold band crafted from a dark source.~
+dark source~
+armor ABTd AB
+0
+ACDF ACDF ACDF ACDF 0
+110 10 40000 P
+A
+20 -12
+A
+13 90
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#2201
+Blue Team Castle~
+~
+0 144703488 0
+D0
+~
+~
+0 0 2202
+D4
+~
+~
+0 2202 2206
+S
+#2202
+Blue Team Castle (center)~
+~
+0 144703488 0
+D0
+~
+~
+0 0 2203
+D1
+~
+~
+0 0 2204
+D2
+~
+~
+0 0 2201
+D3
+~
+~
+0 0 2205
+D5
+~
+~
+0 0 11544
+S
+#2203
+Blue Team Castle~
+~
+0 144703488 0
+D2
+~
+~
+0 0 2202
+S
+#2204
+Blue Team Castle~
+~
+0 144703488 0
+D3
+~
+~
+0 0 2202
+S
+#2205
+Blue Team Castle~
+~
+0 144703488 0
+D1
+~
+~
+0 0 2202
+S
+#2206
+BLUE TEAM CASTLE (Flag Room)~
+~
+0 408944640 0
+D5
+~
+~
+0 2202 2201
+S
+#2207
+Red Team Castle~
+~
+0 144703488 0
+D0
+~
+~
+0 0 2208
+D1
+~
+~
+0 0 2210
+D2
+~
+~
+0 0 2209
+D3
+~
+~
+0 0 2211
+D5
+~
+~
+0 0 11501
+S
+#2208
+Red Team Castle~
+~
+0 144703488 0
+D2
+~
+~
+0 0 2207
+D4
+~
+~
+0 0 2212
+S
+#2209
+Red Team Castle~
+~
+0 144703488 0
+D0
+~
+~
+0 0 2207
+S
+#2210
+Red Team Castle~
+~
+0 144703488 0
+D3
+~
+~
+0 0 2207
+S
+#2211
+Red Team Castle~
+~
+0 144703488 0
+D1
+~
+~
+0 0 2207
+S
+#2212
+RED TEAM CASTLE (flag room)~
+~
+0 408944640 0
+D5
+~
+~
+0 2204 2208
+S
+#2220
+North West Corner (1st floor)~
+~
+0 0 0
+D1
+~
+~
+0 0 2229
+D2
+~
+~
+0 0 2221
+D4
+~
+~
+0 0 2245
+S
+#2221
+West Wall (1st floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2220
+D1
+~
+~
+0 0 2228
+D2
+~
+~
+0 0 2222
+S
+#2222
+West Wall (1st floor)~
+~
+0 8388608 0
+D0
+~
+~
+0 0 2221
+D1
+~
+~
+0 0 2227
+D2
+~
+~
+0 0 2223
+S
+#2223
+West Wall (1st floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2222
+D1
+~
+~
+0 0 2226
+D2
+~
+~
+0 0 2224
+S
+#2224
+South West Corner (1st floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2223
+D1
+~
+~
+0 0 2225
+D4
+~
+~
+0 0 2249
+S
+#2225
+South Wall (1st floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2226
+D1
+~
+~
+0 0 2234
+D3
+~
+~
+0 0 2224
+S
+#2226
+Quest Arena~
+~
+0 0 0
+D0
+~
+~
+0 0 2227
+D1
+~
+~
+0 0 2233
+D2
+~
+~
+0 0 2225
+D3
+~
+~
+0 0 2223
+S
+#2227
+Quest Arena~
+~
+0 0 0
+D0
+~
+~
+0 0 2228
+D1
+~
+~
+0 0 2232
+D2
+~
+~
+0 0 2226
+D3
+~
+~
+0 0 2222
+S
+#2228
+Quest Arena~
+~
+0 0 0
+D0
+~
+~
+0 0 2229
+D1
+~
+~
+0 0 2231
+D2
+~
+~
+0 0 2227
+D3
+~
+~
+0 0 2221
+S
+#2229
+North Wall (1st floor)~
+~
+0 0 0
+D1
+~
+~
+0 0 2230
+D2
+~
+~
+0 0 2228
+D3
+~
+~
+0 0 2220
+S
+#2230
+North Wall (1st floor)~
+~
+0 8388608 0
+D1
+~
+~
+0 0 2235
+D2
+~
+~
+0 0 2231
+D3
+~
+~
+0 0 2229
+S
+#2231
+Quest Arena~
+~
+0 0 0
+D0
+~
+~
+0 0 2230
+D1
+~
+~
+0 0 2236
+D2
+~
+~
+0 0 2232
+D3
+~
+~
+0 0 2228
+M 400 H 450
+S
+#2232
+Center of the Quest Arena (1st floor)~
+~
+0 138412032 0
+D0
+~
+~
+0 0 2231
+D1
+~
+~
+0 0 2237
+D2
+~
+~
+0 0 2233
+D3
+~
+~
+0 0 2227
+D4
+~
+~
+0 0 2257
+S
+#2233
+Quest Arena~
+~
+0 0 0
+D0
+~
+~
+0 0 2232
+D1
+~
+~
+0 0 2238
+D2
+~
+~
+0 0 2234
+D3
+~
+~
+0 0 2226
+M 400 H 450
+S
+#2234
+South Wall (1st floor)~
+~
+0 8388608 0
+D0
+~
+~
+0 0 2233
+D1
+~
+~
+0 0 2239
+D3
+~
+~
+0 0 2225
+S
+#2235
+North Wall (1st floor)~
+~
+0 0 0
+D1
+~
+~
+0 0 2240
+D2
+~
+~
+0 0 2236
+D3
+~
+~
+0 0 2230
+S
+#2236
+Quest Arena~
+~
+0 0 0
+D0
+~
+~
+0 0 2235
+D1
+~
+~
+0 0 2241
+D2
+~
+~
+0 0 2237
+D3
+~
+~
+0 0 2231
+S
+#2237
+Quest Arena~
+~
+0 0 0
+D0
+~
+~
+0 0 2236
+D1
+~
+~
+0 0 2242
+D2
+~
+~
+0 0 2238
+D3
+~
+~
+0 0 2232
+S
+#2238
+Quest Arena~
+~
+0 0 0
+D0
+~
+~
+0 0 2237
+D1
+~
+~
+0 0 2243
+D2
+~
+~
+0 0 2239
+D3
+~
+~
+0 0 2233
+S
+#2239
+South Wall (1st floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2238
+D1
+~
+~
+0 0 2244
+D3
+~
+~
+0 0 2234
+S
+#2240
+North East Corner (1st floor)~
+~
+0 0 0
+D2
+~
+~
+0 0 2241
+D3
+~
+~
+0 0 2235
+D4
+~
+~
+0 0 2265
+S
+#2241
+East Wall (1st floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2240
+D2
+~
+~
+0 0 2242
+D3
+~
+~
+0 0 2236
+S
+#2242
+East Wall (1st floor)~
+~
+0 8388608 0
+D0
+~
+~
+0 0 2241
+D2
+~
+~
+0 0 2243
+D3
+~
+~
+0 0 2237
+S
+#2243
+East Wall (1st floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2242
+D2
+~
+~
+0 0 2244
+D3
+~
+~
+0 0 2238
+S
+#2244
+South East Corner (1st floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2243
+D3
+~
+~
+0 0 2239
+D4
+~
+~
+0 0 2269
+S
+#2245
+North West Corner (2nd floor)~
+~
+0 0 0
+D1
+~
+~
+0 0 2250
+D2
+~
+~
+0 0 2246
+D5
+~
+~
+0 0 2220
+S
+#2246
+West Wall (2nd floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2245
+D1
+~
+~
+0 0 2251
+D2
+~
+~
+0 0 2247
+S
+#2247
+West Wall (2nd floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2246
+D1
+~
+~
+0 0 2252
+D2
+~
+~
+0 0 2248
+S
+#2248
+West Wall (2nd floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2247
+D1
+~
+~
+0 0 2253
+D2
+~
+~
+0 0 2249
+S
+#2249
+South West Corner (2nd floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2248
+D1
+~
+~
+0 0 2254
+D5
+~
+~
+0 0 2224
+S
+#2250
+North Wall (2nd floor)~
+~
+0 0 0
+D1
+~
+~
+0 0 2255
+D2
+~
+~
+0 0 2251
+D3
+~
+~
+0 0 2245
+S
+#2251
+Quest Arena~
+~
+0 8388608 0
+D0
+~
+~
+0 0 2250
+D1
+~
+~
+0 0 2256
+D2
+~
+~
+0 0 2252
+D3
+~
+~
+0 0 2246
+S
+#2252
+Quest Arena~
+~
+0 0 0
+D0
+~
+~
+0 0 2251
+D1
+~
+~
+0 0 2257
+D2
+~
+~
+0 0 2253
+D3
+~
+~
+0 0 2247
+M 450 H 450
+S
+#2253
+Quest Arena~
+~
+0 8388608 0
+D0
+~
+~
+0 0 2252
+D1
+~
+~
+0 0 2258
+D2
+~
+~
+0 0 2254
+D3
+~
+~
+0 0 2248
+S
+#2254
+South Wall (2nd floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2253
+D1
+~
+~
+0 0 2259
+D3
+~
+~
+0 0 2249
+S
+#2255
+North Wall (2nd floor)~
+~
+0 0 0
+D1
+~
+~
+0 0 2260
+D2
+~
+~
+0 0 2256
+D3
+~
+~
+0 0 2250
+S
+#2256
+Quest Arena~
+~
+0 0 0
+D0
+~
+~
+0 0 2255
+D1
+~
+~
+0 0 2261
+D2
+~
+~
+0 0 2257
+D3
+~
+~
+0 0 2251
+S
+#2257
+Center of the Quest Arena (2nd floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2256
+D1
+~
+~
+0 0 2262
+D2
+~
+~
+0 0 2258
+D3
+~
+~
+0 0 2252
+D5
+~
+~
+0 0 2232
+S
+#2258
+Quest Arena~
+~
+0 0 0
+D0
+~
+~
+0 0 2257
+D1
+~
+~
+0 0 2263
+D2
+~
+~
+0 0 2259
+D3
+~
+~
+0 0 2253
+S
+#2259
+South Wall (2nd floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2258
+D1
+~
+~
+0 0 2264
+D3
+~
+~
+0 0 2254
+S
+#2260
+North Wall (2nd floor)~
+~
+0 0 0
+D1
+~
+~
+0 0 2265
+D2
+~
+~
+0 0 2261
+D3
+~
+~
+0 0 2255
+S
+#2261
+Quest Arena~
+~
+0 8388608 0
+D0
+~
+~
+0 0 2260
+D1
+~
+~
+0 0 2266
+D2
+~
+~
+0 0 2262
+D3
+~
+~
+0 0 2256
+S
+#2262
+Quest Arena~
+~
+0 0 0
+D0
+~
+~
+0 0 2261
+D1
+~
+~
+0 0 2267
+D2
+~
+~
+0 0 2263
+D3
+~
+~
+0 0 2257
+M 450 H 450
+S
+#2263
+Quest Arena~
+~
+0 8388608 0
+D0
+~
+~
+0 0 2262
+D1
+~
+~
+0 0 2268
+D2
+~
+~
+0 0 2264
+D3
+~
+~
+0 0 2258
+S
+#2264
+South Wall (2nd floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2263
+D1
+~
+~
+0 0 2269
+D3
+~
+~
+0 0 2259
+S
+#2265
+North East Corner (1st floor)~
+~
+0 0 0
+D2
+~
+~
+0 0 2266
+D3
+~
+~
+0 0 2260
+D5
+~
+~
+0 0 2240
+S
+#2266
+East Wall (2nd floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2265
+D2
+~
+~
+0 0 2267
+D3
+~
+~
+0 0 2261
+S
+#2267
+East Wall (2nd floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2266
+D2
+~
+~
+0 0 2268
+D3
+~
+~
+0 0 2262
+S
+#2268
+East Wall (2nd floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2267
+D2
+~
+~
+0 0 2269
+D3
+~
+~
+0 0 2263
+S
+#2269
+South East Corner (2nd floor)~
+~
+0 0 0
+D0
+~
+~
+0 0 2268
+D3
+~
+~
+0 0 2264
+D5
+~
+~
+0 0 2244
+S
+#0
+
+
+
+#SPECIALS
+M 2222 spec_questmaster
+S
+
+
+
+#RESETS
+O 0 2201 0 2206 0 100 `$b`*lue `$t`*eam `*flag loaded to BLUE TEAM CASTLE (Flag Room)
+O 0 2203 0 2212 0 100 `!r`*ed `!t`*eam flag loaded to RED TEAM CASTLE (flag room)
+M 0 2222 1 2232 1 100 Load Quest Arena Guard
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

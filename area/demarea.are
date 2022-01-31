@@ -1,0 +1,4297 @@
+#AREADATA
+Name Katar~
+Builders Demandred~
+VNUMs 9300 9399
+Credits `4[`* Easy - Hard `4]`* Demandred       Katar~
+Security 10
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#9300
+City Guard~
+a City Guard~
+A City Guard is standing here guarding the gate
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+30 5 500d1+50 50d50+0 1d2+2 slash
+10 10 10 10
+FIK AB 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#9301
+Gate Guard~
+a Gate Guard~
+A Gate Guard is here Guarding the inside gate
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+30 5 500d1+50 50d50+50 1d2+2 stab
+10 10 10 0
+CFK AB 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#9302
+Villager~
+a Villager~
+A Villager is here going about their business
+~
+~
+andor~
+0 0
+ABGc 0 0 0 0 -1  1000 0
+30 2 400d1+40 50d50+0 1d2+2 slap
+10 10 10 9
+GH AB L 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#9303
+Child~
+a Child~
+A Child is playing here
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+20 0 100d1+0 20d20+20 1d1+1 punch
+20 20 20 20
+F A 0 0
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+#9304
+Sentry~
+a Sentry~
+A Sentry is patrolling the streets here
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+31 3 500d1+0 50d50+0 1d2+3 stab
+10 10 10 10
+IK AB 0 0
+stand stand male  2000
+AHMV ABCDEFGHIJK medium unknown
+#9305
+Villager~
+a Villager~
+A Villager is here
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+30 1 300d1+0 50d50+0 1d2+2 slap
+10 10 10 0
+F AB I 0
+stand stand female 1900
+AHMV ABCDEFGHIJK medium unknown
+#9306
+Weapon Smith~
+a Weapon Smith~
+A Weapon Smith is here showing off his new weapon
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+30 10 500d1+50 50d50+0 2d2+5 stab
+0 0 0 0
+CIK ABL I 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#9307
+Armorer~
+the Armorer~
+The Armorer is here showing off her new piece of Armor
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+30 5 500d1+0 50d50+0 2d2+5 blast
+0 0 0 0
+FHI ABL H 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#9309
+Glycerine's Shack Guard~
+Glycerine's Shack Guard~
+A Guard is here Guarding the Shack
+~
+~
+andor~
+0 0
+ABGce 0 64 0 0 -1  1000 0
+35 4 500d1+0 50d50+0 10d1+0 stab
+0 0 0 0
+DFIK AB 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#9310
+Relic Maker~
+the Relic Maker~
+The Relic maker is here building various items
+~
+~
+andor~
+0 0
+ABGRce 0 0 0 0 -1  1000 0
+31 5 500d1+0 50d50+0 2d2+5 slice
+0 0 0 0
+FH ABL J 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#9312
+Villager~
+a Villager~
+A Villager is here reading something
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+31 2 200d1+20 50d50+0 2d2+1 slap
+10 10 10 20
+FK ABIL H 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#9313
+Whitecloak Soldier~
+Whitecloak Soldier~
+A Whitecloak Soldier is Training here
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+35 0 500d1+0 50d50+0 2d2+2 slice
+10 10 10 30
+CFK ABLN IJb K
+stand stand male  2000
+AHMV ABCDEFGHIJK medium unknown
+#9314
+Soldier in Training~
+Soldier in Training~
+A Soldier in Training is resting here
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+30 1 200d1+100 50d50+0 2d2+0 punch
+10 10 10 10
+F AB 0 I
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#9315
+Seth~
+Seth~
+Seth is here Practicing the arts of war
+~
+~
+andor~
+0 0
+ABGTce 256 64 0 0 -1  1000 0
+50 10 3000d1+500 50d50+50 50d2+50 slash
+-10 -10 -10 -10
+FIK ABL Nb 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#9316
+Catwalk Guard~
+a Catwalk Guard~
+A Guard is here making sure nothing happens on the catwalk
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+35 0 100d1+1 50d50+0 2d2+0 stab
+0 0 0 0
+IK ABL 0 I
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#9317
+Traveller~
+a Traveller~
+A Traveller is here looking for a room
+~
+~
+kandor~
+0 0
+ABGSce 0 0 0 0 -1  500 0
+31 1 400d1+40 50d50+0 2d2+1 punch
+5 5 5 10
+DFH ABL 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#9319
+Villager~
+a Villager~
+A Villager is here
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+31 0 500d1+0 50d50+0 2d2+1 punch
+10 10 10 10
+F ABI 0 0
+stand stand male  1999
+AHMV ABCDEFGHIJK medium unknown
+#9321
+Traveller~
+a Traveller~
+A Traveller is resting here
+~
+~
+andor~
+0 0
+ABGTc 0 0 0 0 -1  1000 0
+31 1 400d1+0 50d50+0 2d2+1 pound
+10 10 10 10
+FH AB H 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#9323
+Warder~
+a Warder~
+A Warder is resting here
+~
+~
+tear~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+40 5 500d1+50 50d50+0 2d2+4 slash
+10 10 10 40
+CFK AB L 0
+stand stand male  3000
+AHMV ABCDEFGHIJK medium unknown
+#9324
+Aes Sedai~
+an Aes Sedai~
+An Aes Sedai is here looking out over the Village
+~
+~
+andor~
+0 0
+ABGRce 0 0 0 0 -1  1000 0
+40 2 500d1+20 50d50+50 2d2+4 slap
+10 10 11 10
+FH AB IJ 0
+stand stand female 9000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 9324 bow~
+#9325
+Inn Maid~
+an Inn Maid~
+An Inn Maid is here tending to things
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+31 0 300d1+10 50d50+0 2d2+0 slap
+10 10 10 10
+FH AB L 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#9327
+Traveller~
+a Traveller~
+A Traveller is here
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+30 1 400d1+50 50d50+0 2d2+0 punch
+10 10 10 10
+F AB 0 I
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#9329
+Inn Maid~
+an Inn Maid~
+An Inn Maid is here cleaning the room
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+32 0 300d1+0 50d50+0 2d2+0 slap
+10 10 10 10
+F ABM 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#9330
+Inn Keeper Swarovski~
+Swarovski~
+The Inn Keeper is here serving drinks
+~
+~
+andor~
+0 0
+ABGac 256 0 0 0 -1  1000 0
+105 0 1000d1+0 0d0+0 25d1+10 blast
+0 0 0 0
+0 CD 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#9331
+Cook~
+the Cook~
+A Cook is here making food for the patrions
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+30 2 400d1+0 0d0+0 2d2+1 cleave
+20 20 20 10
+K AB H L
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#9332
+Sentry~
+a Sentry~
+A Sentry is patrolling the center of the village
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+32 2 500d1+0 50d50+0 2d2+5 slash
+10 10 0 0
+CFK AB L 0
+stand stand male  2000
+AHMV ABCDEFGHIJK medium unknown
+#9333
+Traveller~
+a Traveller~
+A Traveller is here
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+33 2 500d1+0 50d50+0 2d2+2 stab
+10 10 10 10
+CF AB L 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#9334
+Elite Guard~
+Elite Guard~
+An Elite Guard is here protecting the Castle yard gates
+~
+~
+andor~
+0 0
+ABTce 256 64 0 0 -1  1000 0
+62 15 1500d1+0 50d50+0 2d5+20 slash
+-30 -30 -30 -30
+CFIK ABLM I 0
+stand stand male  3000
+AHMV ABCDEFGHIJK medium unknown
+#9335
+Elite Sentry~
+an Elite Sentry~
+An Elite Sentry is Patrolling the yard
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+62 15 1500d1+0 50d50+0 2d5+20 slash
+-30 -30 -30 -37
+FIK ABM KL 0
+stand stand male  3000
+AHMV ABCDEFGHIJK medium unknown
+#9336
+Castle Guard~
+Castle Guard~
+The Castle Guard is here protecting the front gate
+~
+~
+andor~
+0 0
+ABGTce 0 64 0 0 -1  1000 0
+65 15 1500d1+0 50d50+0 2d5+21 thrust
+-35 -35 -35 -35
+CFIK ABMN HIJ K
+stand stand male  4000
+AHMV ABCDEFGHIJK medium unknown
+#9337
+Elite Castle Sentry~
+an Elite Castle Guard~
+An Elite Castle Guard is here
+~
+~
+andor~
+0 0
+ABGTce 0 64 0 0 -1  1000 0
+62 15 1500d1+0 0d0+0 2d5+20 stab
+-33 -33 -33 -33
+FIK AB KL 0
+stand stand male  3000
+AHMV ABCDEFGHIJK medium unknown
+#9338
+Servent~
+a Servent~
+A Servent is here
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+60 13 1500d1+0 50d50+0 2d5+18 slap
+-30 -30 -30 -30
+DFH AB 0 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+#9339
+Cook~
+a Cook~
+A Cook is here preparing various meals
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+60 15 1500d1+0 50d50+0 2d5+20 slice
+-30 -30 -30 -30
+FH AB L 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+#9340
+servent~
+a Servent~
+A Servent is here
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+60 15 1500d1+0 53d1+100 2d5+20 punch
+-30 -30 -30 -30
+FGH ABM I 0
+stand stand male  2000
+AHMV ABCDEFGHIJK medium unknown
+#9343
+Servent~
+a Servent~
+A Servent is here Fixing something
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+61 15 1500d1+0 59d12+0 2d5+20 punch
+-30 -30 -30 -30
+FH AB 0 0
+stand stand male  5000
+AHMV ABCDEFGHIJK medium unknown
+#9344
+Head Servent~
+the Head Servent~
+The Head Servent is resting here
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+65 15 1600d1+0 50d50+0 2d5+20 stab
+-33 -33 -33 -33
+FGHN ABL HI K
+stand stand female 3000
+AHMV ABCDEFGHIJK medium unknown
+#9345
+Cooks Assistant~
+Cooks Assistant~
+The Cook's Assistant is here getting ingredients
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+60 15 1500d1+0 10d10+100 2d5+19 slap
+-30 -30 -30 -30
+FHN AB M 0
+stand stand none 3000
+AHMV ABCDEFGHIJK medium unknown
+#9347
+Man Servent~
+a Man Servent~
+A Man Servent is resting here
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+60 15 1500d1+0 20d21+0 2d5+20 punch
+-30 -30 -30 -30
+0 AB M L
+stand stand male  3000
+AHMV ABCDEFGHIJK medium unknown
+#9348
+Women Servent~
+a Women Servent~
+A women servant is resting here
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+60 16 1500d1+0 50d50+0 2d5+15 slap
+-30 -30 -30 -30
+GN ABM I L
+stand stand none 3000
+AHMV ABCDEFGHIJK medium unknown
+#9349
+Servent~
+a Servent~
+A Servent is here sewing something
+~
+~
+kandor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+61 15 1500d1+0 59d50+0 2d5+20 slap
+-30 -30 -30 -30
+FK ABMYZ H J
+stand stand female 5900
+AHMV ABCDEFGHIJK medium unknown
+#9350
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#9352
+Sentry~
+a Sentry~
+A Sentry is resting here
+~
+~
+andor~
+0 0
+ABGTc 0 64 0 0 -1  1000 0
+61 15 1500d1+0 50d50+0 2d5+20 slash
+-30 -30 -30 -20
+CFK AB 0 0
+stand stand male  2000
+AHMV ABCDEFGHIJK medium unknown
+#9354
+Libarian~
+a Libarian~
+A Libarian is here putting books away
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+60 15 1500d1+0 50d50+0 2d5+20 slap
+-30 -30 -30 -30
+FGHN AB M 0
+stand stand female 4000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 9354 bow~
+#9357
+Libary Guard~
+a Libary Guard~
+A Guard is here protecting the rare books
+~
+~
+andor~
+0 0
+ABFGTc 0 0 0 0 -1  1000 0
+65 15 1500d1+0 40d40+0 2d5+21 stab
+-30 -30 -30 -30
+CFIKN ABL M 0
+stand stand male  400
+AHMV ABCDEFGHIJK medium unknown
+#9360
+Captain of the Guards~
+Captain of the Guards~
+The Captain of the Guards is resting here
+~
+~
+andor~
+0 0
+ABFGRTc 336 64 0 0 -1  1000 0
+100 1000 4000d1+500 50d50+50 25d15+50 thrust
+-50 -50 -50 -50
+ACFHK ABLMQZ RYb 0
+stand stand male  9000
+AHMV ABCDEFGHIJK medium unknown
+#9361
+blacksmith~
+a Weaponsmith~
+A Weaponsmith is here producing weapons and armor for the guards.
+~
+~
+arafel~
+0 0
+ABGce 0 0 0 0 -1  500 0
+64 15 1500d1+0 50d50+0 2d5+20 blast
+-30 -30 -30 -30
+CFKO ABH 0 I
+stand stand male  9000
+AHMV ABCDEFGHIJK medium unknown
+#9362
+Elite Castle Guard~
+Elite Castle Guard~
+An Elite Castle Guard is standing watch here
+~
+~
+andor~
+0 0
+ABGTce 0 64 0 0 -1  1000 0
+62 15 1500d1+0 50d50+0 2d5+20 slash
+-30 -30 -30 -30
+0 ABL I 0
+stand stand male  3000
+AHMV ABCDEFGHIJK medium unknown
+#9367
+Lords Personal Guard~
+Lord's Personal Guard~
+The Lord Personal Guard is here
+~
+~
+andor~
+0 0
+ABTce 0 64 0 0 -1  900 0
+65 15 1500d1+0 50d50+50 2d5+20 thrust
+-40 -40 -40 -40
+CFIK ABM HIJK 0
+stand stand none 3000
+AHMV ABCDEFGHIJK medium unknown
+#9369
+Lord Nemis~
+Lord Nemis~
+The Lord of this Castle is here looking at the view
+~
+~
+andor~
+0 0
+ABFGRTc 336 64 0 0 -1  1000 0
+400 2000 30000d1+9999 50d50+50 25d50+80 stab
+-190 -190 -190 -240
+AEFHIK ABLMOPQb JNYZ 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#9372
+Lady's Personal Guard~
+Lady's Personal Guard~
+The Lady's personal guard is here
+~
+~
+andor~
+0 0
+ABFGTc 256 64 0 0 -1  1000 0
+65 15 1500d1+0 0d0+0 2d5+20 slice
+-40 -40 -40 -50
+CDFK AB 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium unknown
+#9373
+Lady's Servent~
+Lady's Servent~
+The Lady's Servent is here looking at the horizon
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+60 15 1500d1+0 50d50+0 2d5+20 slap
+-30 -30 -30 -30
+FGHN AB M 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 9373 bow~
+#9374
+Lady~
+Lady~
+The Lady of the castle is here waiting for you to BOW
+~
+~
+andor~
+0 0
+ABGRce 256 0 0 0 -1  1000 0
+60 15 1500d1+0 50d50+50 2d5+20 pound
+-50 -50 -50 -50
+FKN ABLM I 0
+stand stand female 9000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 9374 bow~
+#9375
+Elite Sentry~
+an Elite Sentry~
+An Elite Sentry is standing guard here
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+62 15 1500d1+0 50d50+0 2d5+20 pound
+-30 -30 -30 -30
+FK AB HIK L
+stand stand male  3000
+AHMV ABCDEFGHIJK medium unknown
+#9376
+Elite Sentry~
+an Elite Sentry~
+An Elite Sentry is standing here
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+62 15 1500d1+0 50d50+0 2d5+20 stab
+-30 -30 -30 -30
+CFK ABL I 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium unknown
+#9377
+Elite Sentry~
+an Elite Sentry~
+An Elite Sentry is here
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+62 15 1500d1+0 50d50+0 2d5+20 slash
+-30 -30 -30 -30
+CFI AB L 0
+stand stand male  3000
+AHMV ABCDEFGHIJK medium unknown
+#9378
+Elite Sentry~
+an Elite Sentry~
+An Elite Sentry is guarding the doors here
+~
+~
+andor~
+0 0
+ABGTce 0 64 0 0 -1  1000 0
+63 15 1500d1+21 50d50+0 2d5+20 slash
+-31 -31 -31 -31
+CFK ABL IK 0
+stand stand male  3000
+AHMV ABCDEFGHIJK medium unknown
+#9379
+elite guard~
+an Elite Guard~
+An Elite Guard is here
+~
+~
+kandor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+62 15 1500d1+0 50d50+0 2d5+20 slash
+-30 -30 -30 -30
+CFK ABM IK H
+stand stand male  2000
+AHMV ABCDEFGHIJK medium unknown
+#9380
+an Elite Guard~
+an Elite Guard~
+An Elite Guard is standing here
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+62 15 1500d1+0 25d25+25 2d5+20 stab
+-30 -30 -30 -30
+FIK AB 0 0
+stand stand male  3000
+AHMV ABCDEFGHIJK medium unknown
+#9381
+Elite Sentry~
+an Elite Guard~
+An Elite Guard is patrolling the yard
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+60 15 1500d1+0 50d50+0 2d5+20 slash
+-30 -30 -30 -30
+CFK ABM K L
+stand stand female 3000
+AHMV ABCDEFGHIJK medium unknown
+#9382
+Crypt Guard~
+the Crypt Guard~
+A Guard is here watching over the Crypt Enterance
+~
+~
+andor~
+0 0
+ABGTce 256 64 0 0 -1  1000 0
+65 15 1500d1+0 50d50+0 2d5+20 thrust
+-30 -30 -35 -40
+CFIK ABL M K
+stand stand male  5000
+AHMV ABCDEFGHIJK medium unknown
+#9384
+Villager~
+a Villager~
+A villager is going about her business
+~
+~
+andor~
+0 0
+ABGce 0 0 0 0 -1  1000 0
+30 0 200d1+100 50d50+0 2d2+0 slap
+10 10 10 10
+F AB 0 0
+stand stand female 4000
+AHMV ABCDEFGHIJK medium unknown
+#9386
+City Guard~
+the City Guard~
+The City Guard is here guarding the gate
+~
+~
+andor~
+0 0
+ABGTce 0 0 0 0 -1  1000 0
+32 3 400d1+0 50d50+0 2d2+1 slash
+10 10 10 10
+FIK AB I 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#9387
+Demonic Shadowspawn~
+Demonic Shadowspawn~
+A Demonic Shadowspawn is here eating the corpse of a servent
+~
+This is one mean looking Demon, only Experienced adventurer who have been sent to destroy it should deal with it
+~
+dragon~
+0 0
+ABGRTce 260 66 0 4 -1  -1000 0
+150 400 15000d1+100 50d50+50 100d1+40 flbite
+-100 -100 -100 -100
+CFIKMO ABHJKLM BEH I
+stand stand male  1900
+AHZ ACDEFGHIJKPQUVX medium unknown
+F vul F
+M DEATH 9350 100~
+#9390
+Glycerine~
+Glycerine~
+Glycerine is here
+~
+~
+andor~
+0 0
+ABFGRST 336 64 0 0 -1  1000 0
+400 1500 30000d1+9000 50d50+50 25d50+50 blast
+-150 -150 -150 -200
+ACEFIJK ABLMNOPTYb J 0
+stand stand female 9000
+AHMV ABCDEFGHIJK medium unknown
+#9391
+Skelleton~
+a Black Skelleton~
+A black skelleton is standing here
+~
+~
+kandor~
+0 0
+ABFGc 0 64 0 0 -1  -1000 0
+120 500 30000d1+0 50d50+0 150d1+100 slash
+-100 -100 -100 -100
+ACFIK ABLQ I 0
+stand stand none 9000
+AHMV ABCDEFGHIJK medium unknown
+#9393
+Black Demon~
+a Black Demon~
+A Black Demon is here
+~
+~
+kandor~
+0 0
+ABFGc 0 64 0 0 -1  -1000 0
+150 500 30000d1+0 50d50+50 150d1+110 cleave
+-100 -100 -100 -100
+ACFK ABLQ HM 0
+stand stand none 8900
+AHMV ABCDEFGHIJK medium unknown
+#9398
+Ancient Legendary Demon Ifrit~
+Ifrit~
+The Legendary Demon Ifrit is here, waiting
+~
+~
+bear~
+0 0
+ABFGRTc 336 64 0 0 -1  -1000 0
+500 2000 30000d1+9000 50d50+50 50d50+15 crush
+-210 -210 -210 -260
+ACEFKO ABHLMPb EJN I
+stand stand male  12000
+AGV ABCDEFHJKUV large unknown
+F off D
+F res I
+#9399
+Ancient Demon~
+Ancient Demon~
+An Ancient Demon is here dressed in very ancient looking battle armor
+~
+~
+goblin~
+0 0
+ABFGRTc 336 64 0 0 -1  -1000 0
+450 1000 30000d1+10000 50d50+50 150d1+200 flbite
+-190 -190 -190 -250
+CFHIK ABLMPTb CEHQYZ FGNY
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+F vul C
+#0
+
+
+
+#OBJECTS
+#9300
+Red Torch~
+a Red Torch~
+A red torch is lying here~
+unknown~
+light A A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+10 10 0 P
+A
+13 10
+A
+18 2
+A
+19 2
+A
+20 -1
+A
+12 5
+ T 0 none~
+#9301
+Katar Finger links~
+katar Finger Links~
+A set of rings set for each finger attached by a chain is lying here~
+unknown~
+armor AB AB
+0
+BD BD BD BD 0
+10 10 0 P
+A
+18 4
+A
+19 4
+ T 0 none~
+#9302
+Steel Breastplate~
+a Steel Breastplate~
+A Steel Breastplate is lying here~
+unknown~
+armor AB AD
+0
+ABD CD ABD ABD 0
+10 20 0 P
+A
+13 20
+A
+20 -4
+ T 0 none~
+#9303
+Pendant~
+a Pendant~
+A pendant depicting an animals head is here~
+unknown~
+armor AB AC
+0
+BD BD BD BD 0
+10 10 0 P
+A
+18 2
+A
+19 2
+A
+12 10
+A
+13 10
+ T 0 none~
+#9304
+Helmet and Visor~
+a Helmet and Visor~
+Ah helmet with a steel visor is here~
+unknown~
+armor AB AE
+0
+CD ABD CD BD 0
+10 10 0 P
+A
+13 30
+A
+18 1
+A
+19 1
+ T 0 none~
+#9305
+Metal Leg Plates~
+metal Leg Plates~
+Metal leg plates lie here~
+unknown~
+armor AB AF
+0
+BD AD CD BD 0
+10 20 0 P
+A
+18 2
+A
+19 2
+A
+12 10
+A
+17 -5
+A
+13 4
+ T 0 none~
+#9306
+Leather boots with metal plates~
+a Pair of Leather Boots with Metal Plates~
+A pair of leather boots covered in metal are lying here~
+unknown~
+armor AB AG
+0
+BD BD BD BD 0
+10 10 0 P
+A
+18 1
+A
+19 3
+A
+13 5
+A
+12 5
+A
+24 -2
+ T 0 none~
+#9307
+Metal Gauntlets~
+metal Gauntlets~
+Metal Gauntlets lay here~
+unknown~
+armor AB AH
+0
+ABD BD AD BD 0
+10 10 0 P
+A
+13 10
+A
+19 2
+A
+18 2
+A
+14 10
+A
+20 -1
+ T 0 none~
+#9308
+Metal Arm Plates~
+metal Arm Plates~
+A pair of metal arm plates lie here~
+unknown~
+armor AB AI
+0
+BD BD BD BD 0
+10 10 0 P
+A
+1 1
+A
+18 3
+A
+19 3
+A
+13 5
+ T 0 none~
+#9309
+Travellers cloak~
+a Dusty Traveller's Cloak~
+A dusty cloak is lying here~
+unknown~
+armor AB AK
+0
+ABD BD BD BD 0
+10 0 0 P
+A
+13 30
+A
+18 1
+A
+19 1
+ T 0 none~
+#9310
+Chain Belt~
+a Chain Belt~
+A chain belt is lying here~
+unknown~
+armor AB AL
+0
+BD BD BD BD 0
+10 10 0 P
+A
+18 4
+A
+19 4
+ T 0 none~
+#9311
+Forearm Plates~
+forearm Plates~
+A pair of forearm plates are lying here~
+unknown~
+armor AB AM
+0
+BC D BCD B 0
+10 10 0 P
+A
+14 40
+A
+18 2
+A
+19 2
+ T 0 none~
+#9312
+Metal Face Plate~
+a Metal Face Plate~
+A face plate is here~
+unknown~
+armor AB AR
+0
+BD BD BD BD 0
+10 10 0 P
+A
+18 2
+A
+19 4
+A
+13 10
+ T 0 none~
+#9313
+Newbie's Luck~
+newbie's Luck~
+The luck of a newbie is here~
+unknown~
+armor AB AQ
+0
+BD AD BD AD 0
+10 0 0 P
+A
+2 1
+A
+5 1
+A
+13 10
+A
+12 10
+A
+18 1
+A
+19 1
+ T 0 none~
+#9315
+White Torch~
+a White Torch~
+A white torch is lying here~
+unknown~
+light ABY A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+54 10 0 P
+A
+18 4
+A
+19 4
+A
+13 40
+A
+12 4
+ T 0 none~
+#9316
+Captain Guard Signet Ring~
+captain's Signet Ring~
+The captain of the guards signet ring is here~
+unknown~
+armor ABY AB
+0
+ACE ACE ADE BCE 0
+54 10 0 P
+A
+18 4
+A
+19 4
+A
+20 -4
+A
+13 20
+A
+12 4
+ T 0 none~
+#9317
+Green Neckplate~
+a Green Neckplate~
+A green neckplate is here~
+unknown~
+armor ABY AC
+0
+BCE BCE BCE BCE 0
+54 10 0 P
+A
+18 5
+A
+19 5
+A
+20 -5
+A
+13 9
+ T 0 none~
+#9318
+Combat Plate~
+a Combat Plate~
+A combat plate is lying here~
+unknown~
+armor AB AD
+0
+DE DE ABCE ADE 0
+54 50 0 P
+A
+18 5
+A
+19 5
+A
+13 30
+A
+12 4
+ T 0 none~
+#9319
+Combat Helmet~
+a Combat Helmet~
+A combat helmet is lying here~
+unknown~
+armor ABY AE
+0
+ABCE ABCE ABCE ABCE 0
+54 20 0 P
+A
+17 -10
+A
+18 4
+A
+19 4
+A
+20 -2
+A
+13 19
+ T 0 none~
+#9320
+Combat Leg Plates~
+combat Leg Plates~
+A pair of combat leg plates is here~
+unknown~
+armor ABY AF
+0
+ABCE ABCE ACE DE 0
+54 20 0 P
+A
+13 30
+A
+12 30
+A
+20 -2
+A
+18 1
+A
+19 1
+A
+17 -3
+ T 0 none~
+#9321
+Combat Boots~
+combat Boots~
+A pair of combat boots are here~
+unknown~
+armor ABY AG
+0
+ACE ACE ACE ACE 0
+54 10 0 P
+A
+18 3
+A
+19 3
+A
+13 20
+A
+20 -4
+A
+12 14
+ T 0 none~
+#9322
+Combat Gauntlets~
+combat Gauntlets~
+A pair of gauntlets are here~
+unknown~
+armor ABY AH
+0
+ABCE ACE BCE DE 0
+54 10 0 P
+A
+18 3
+A
+19 4
+A
+20 -5
+A
+13 24
+ T 0 none~
+#9323
+Combat Arm Plates~
+combat Arm Plates~
+A pair of combat arm plates lie here~
+unknown~
+armor ABY AI
+0
+ABCE ACE ACE BCE 0
+54 20 0 P
+A
+18 3
+A
+19 2
+A
+13 40
+A
+17 -10
+A
+12 4
+ T 0 none~
+#9324
+Fur Cloak~
+a Fur Cloak~
+A cloak is here made from some sort of fur~
+fur~
+armor ABY AK
+0
+ACE ACE ACE ACE 0
+54 10 0 P
+A
+17 -10
+A
+20 -5
+A
+18 1
+A
+19 1
+A
+13 20
+A
+12 14
+ T 0 none~
+#9325
+Spiked Shield~
+a Spiked Shield~
+A spiked shield is here~
+unknown~
+armor ABY AJ
+0
+ABCE ACE ACE ABCE 0
+54 30 0 P
+A
+17 -10
+A
+20 -3
+A
+18 3
+A
+19 3
+A
+13 24
+ T 0 none~
+#9326
+Combat Belt~
+a Combat Belt~
+A combat belt is here~
+unknown~
+armor ABY AL
+0
+ACE ACE ABCE CE 0
+54 10 0 P
+A
+18 3
+A
+19 4
+A
+13 20
+A
+12 15
+A
+20 -2
+A
+14 7
+ T 0 none~
+#9327
+Spiked forearm plates~
+spiked Forearm Plates~
+A pair of spiked forearm plates lay here~
+unknown~
+armor AB AM
+0
+CE ABCE BCE ACE 0
+54 10 0 P
+A
+18 5
+A
+19 5
+A
+13 34
+ T 0 none~
+#9328
+Combat Face Plate~
+a Combat Face Plate~
+A face plate is here~
+unknown~
+armor AB AR
+0
+ACE ACE BCE ACE 0
+54 10 0 P
+A
+13 30
+A
+12 30
+A
+18 2
+A
+19 2
+A
+14 8
+ T 0 none~
+#9330
+Firey orb~
+a Firey Orb~
+A red orb is lying here~
+unknown~
+light ABGI A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 10 0 P
+A
+18 6
+A
+19 6
+A
+13 50
+A
+20 -5
+A
+12 5
+ T 0 none~
+#9331
+Fire Ring~
+a Fire Ring~
+The ring of fire is here~
+unknown~
+armor ABIY AB
+0
+ABF ABF ABF ABF 0
+110 10 0 P
+A
+18 8
+A
+19 8
+A
+13 15
+A
+20 -8
+A
+12 5
+ T 0 none~
+#9332
+Firey Neckplate~
+a Firey Neckplate~
+A neckplate coloured to look like fire is here~
+unknown~
+armor ABIY AC
+0
+BDF BDF BDF BDF 0
+110 10 0 P
+A
+18 7
+A
+19 7
+A
+17 -10
+A
+13 55
+ T 0 none~
+#9333
+Breastplate of Fire~
+a Breastplate of Fire~
+The breastplate of fire is here~
+unknown~
+armor ABIY AD
+0
+ABF ABF ABF ABF 0
+110 100 0 P
+A
+18 8
+A
+19 8
+A
+13 10
+A
+20 -8
+A
+13 10
+ T 0 none~
+#9334
+Helmet of Fire~
+a Helmet of Fire~
+The helmet of fire is here~
+unknown~
+armor ABIY AE
+0
+BDF BDF BDF BDF 0
+110 50 0 P
+A
+18 6
+A
+19 6
+A
+13 60
+A
+20 -4
+ T 0 none~
+#9335
+Leg Plates of Fire~
+leg Plates of Fire~
+The leg plates of fire are here~
+unknown~
+armor ABIY AF
+0
+BDF BDF BDF BDF 0
+110 40 0 P
+A
+18 7
+A
+19 7
+A
+13 30
+A
+20 -8
+ T 0 none~
+#9336
+Boots of Fire~
+boots of Fire~
+The boots of fire are here~
+unknown~
+armor ABIY AG
+0
+BDF BDF BDF BDF 0
+110 30 0 P
+A
+18 8
+A
+19 8
+A
+13 30
+A
+17 -10
+A
+12 15
+ T 0 none~
+#9337
+Gauntlets of Fire~
+the Gauntlets of Fire~
+The gauntlets of fire are here~
+unknown~
+armor ABIY AH
+0
+BDF BDF BDF BDF 0
+110 20 0 P
+A
+18 7
+A
+19 8
+A
+20 -7
+A
+13 20
+A
+12 10
+ T 0 none~
+#9338
+Arm Plates of Fire~
+arm Plates of Fire~
+The arm plates of fire are here~
+unknown~
+armor ABIY AI
+0
+BDF BDF BDF BDF 0
+110 30 0 P
+A
+18 7
+A
+19 7
+A
+13 40
+A
+20 -4
+A
+12 10
+ T 0 none~
+#9339
+Shield of Fire~
+the Shield of Fire~
+The shield of fire is here~
+unknown~
+armor ABIY AJ
+0
+BDF BDF BDF BDF 0
+110 50 0 P
+A
+20 -10
+A
+17 -10
+A
+18 5
+A
+19 5
+A
+13 25
+ T 0 none~
+#9340
+Fire Whisp~
+whisps of Fire~
+Whisps of fire is here fashoning a cloak~
+unknown~
+armor ABIY AK
+0
+BDF BDF BDF BDF 0
+110 10 0 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 35
+ T 0 none~
+#9341
+belt of fire~
+the Belt of Fire~
+The belt of fire is here~
+unknown~
+armor ABIY AL
+0
+BDF BDF BDF BDF 0
+110 30 0 P
+A
+18 8
+A
+19 7
+A
+20 -5
+A
+13 40
+ T 0 none~
+#9342
+Forearm Plates of Fire~
+forearm Plates of Fire~
+The forearm plates of fire is here~
+unknown~
+armor ABIY AM
+0
+BDF BDF BDF BDF 0
+110 50 0 P
+A
+18 6
+A
+19 6
+A
+13 30
+A
+12 30
+A
+20 -4
+ T 0 none~
+#9343
+Aura of Flame~
+an Aura of Flame~
+A firey aura is here~
+unknown~
+armor ABIY AQ
+0
+BDF BDF BDF BDF 0
+110 10 0 P
+A
+18 8
+A
+19 8
+A
+20 -8
+A
+13 20
+ T 0 none~
+#9344
+Face Plate of Fire~
+a Face Plate of Fire~
+The face plate of fire is here~
+unknown~
+armor ABY AR
+0
+BDF BDF BDF BDF 0
+110 20 0 P
+A
+18 8
+A
+19 7
+A
+13 55
+A
+23 -2
+ T 0 none~
+#9351
+Red Orb~
+a Red Orb~
+A red orb is lying here~
+unknown~
+light ABY A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+150 10 0 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 30
+ T 0 none~
+#9352
+Ifrit's claws~
+ifrit's Claws~
+Ifrit's claws are lying here~
+unknown~
+armor ABY AB
+0
+BCDF BCDF BCDF BCDF 0
+150 20 0 P
+A
+18 9
+A
+19 9
+A
+20 -10
+A
+13 40
+ T 0 none~
+#9353
+Pendant of Ifrit~
+the Pendant of Ifrit~
+Ifrit's pendant is here~
+unknown~
+armor ABY AC
+0
+BCDF BCDF BCDF BCDF 0
+150 10 0 P
+A
+18 9
+A
+19 9
+A
+13 80
+A
+20 -2
+ T 0 none~
+#9354
+Red Bodyarmor~
+red Bodyarmor~
+Red bodyarmor is here~
+unknown~
+armor ABY AD
+0
+BCDF BCDF BCDF BCDF 0
+150 110 0 P
+A
+18 10
+A
+19 10
+A
+13 50
+A
+20 -5
+A
+12 5
+ T 0 none~
+#9355
+ifrit's horns~
+ifrit's Horns~
+Ifrit's horns are lying here~
+unknown~
+armor ABYa AE
+0
+BCDF BCDF BCDF BCDF 0
+150 100 0 P
+A
+18 9
+A
+19 10
+A
+13 75
+ T 0 none~
+#9356
+Red Leg Plates~
+red Leg Plates~
+Red leg plates are here~
+unknown~
+armor ABY AF
+0
+BCDF BCDF BCDF BCDF 0
+150 50 0 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+17 -10
+A
+13 15
+ T 0 none~
+#9357
+Red Boots~
+a pair of Red Boots~
+Red boots are here~
+unknown~
+armor ABY AG
+0
+BCDF BCDF BCDF BCDF 0
+150 20 0 P
+A
+18 9
+A
+19 9
+A
+13 90
+ T 0 none~
+#9358
+Red Bone Gauntlets~
+a pair of Red Bone Gauntlets~
+Red gauntlets made of bone are here~
+unknown~
+armor ABY AH
+0
+BCDF BCDF BCDF BCDF 0
+150 20 0 P
+A
+18 8
+A
+19 8
+A
+13 100
+ T 0 none~
+#9359
+Arm Spines~
+red Arm Spines~
+Arm spines are here~
+unknown~
+armor ABY AI
+0
+BCDF BCDF BCDF BCDF 0
+150 10 0 P
+A
+18 10
+A
+19 10
+A
+12 40
+A
+13 40
+ T 0 none~
+#9360
+Red Shield~
+a Red Shield~
+A red shield is lying here~
+unknown~
+armor ABYa AJ
+0
+BCDF ABCDF ACDF BCDF 0
+150 80 0 P
+A
+18 9
+A
+19 9
+A
+20 -10
+A
+13 30
+ T 0 none~
+#9361
+ifrit's aura~
+ifrit's Aura~
+Ifrit's aura is here~
+unknown~
+armor ABY AK
+0
+BCDF BCDF BCDF BCDF 0
+150 10 0 P
+A
+19 8
+A
+13 50
+A
+19 9
+A
+12 25
+A
+20 -4
+ T 0 none~
+#9362
+Red Belt~
+a Red Belt~
+A red belt is here~
+unknown~
+armor ABY AL
+0
+BCDF BCDF BCDF BCDF 0
+150 40 0 P
+A
+18 9
+A
+19 9
+A
+13 80
+A
+23 -2
+ T 0 none~
+#9363
+Forearm Spines~
+forearm Spines~
+Forearm spines are here~
+unknown~
+armor ABY AM
+0
+BCDF BCDF BCDF BCDF 0
+150 30 0 P
+A
+18 9
+A
+19 8
+A
+13 50
+A
+12 5
+A
+20 -8
+ T 0 none~
+#9364
+Fireball~
+a Fireball~
+A fireball is here~
+unknown~
+armor ABIY AQ
+0
+BCDF BCDF BCDF BCDF 0
+150 20 0 P
+A
+18 10
+A
+19 10
+A
+13 60
+A
+20 -4
+ T 0 none~
+#9365
+a Red Face Plate~
+a Red Face Plate~
+A face plate is here~
+unknown~
+armor ABY AR
+0
+BCDF BCDF BCDF BCDF 0
+150 50 0 P
+A
+18 10
+A
+19 10
+A
+13 40
+A
+12 30
+A
+24 -2
+ T 0 none~
+#9380
+Steel Shield~
+a Steel Shield~
+A steel shield is lying here~
+unknown~
+armor AB AJ
+0
+ABD ABD ABD ABD 0
+10 20 0 P
+A
+24 -2
+A
+20 -3
+A
+18 1
+A
+19 1
+A
+13 5
+ T 0 none~
+#9383
+Black Key~
+a Black Key~
+An errie looking key is lying here~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+75 0 5000 P
+ T 0 none~
+#9388
+Tiny Key~
+a Tiny Key~
+A Tiny Key lies here~
+unknown~
+key A A
+0
+0 0 0 0 0
+10 0 0 P
+ T 0 none~
+#9390
+Letter letter~
+a small letter~
+Dear Adventurer, our castle is currentley under siege by a vile demonic shadowspawn and wish for you to destory it for us, i have taking the liberty of informing our librarian to do some reseach so please conslut her before dealing with the demon~
+unknown~
+paper 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#9393
+White Key~
+a White Key~
+An errie white key is lying here~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+75 0 9000 P
+ T 0 none~
+#9399
+demi evil egg~
+`#D`3EMI`#'s `!>`1>`!> `#E`^VI`#L `$E`#G`%G`7 `!<`1<`!<`7~
+An evil egg is here.~
+unknown~
+trash U A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#9300
+Village Entrance~
+A fairly used gravel path leads slightly uphill towards what looks to be Katar the
+great trading city where people from all places gather to trade goods, stay at the 
+famous Katar Inn or go about daily business.  The front gates look to be made of white
+stone and seems to gleam in the sun, once and a while what looks like to be a crack
+of black stone seems to jet in the white pattern giving the walls and gate enterance
+a unique look.  The gates themselves are open to all and appear to be made of simple
+steel.  A guardhouse is located just beside the outer enterance.
+~
+0 4 0
+D0
+~
+~
+0 0 9301
+D2
+~
+~
+0 0 37177
+S
+#9301
+Inside the Gates~
+Inside the gates reveal a bustle of activity as people go on their daily routines.  The
+people appear to be from all countries and most of the more different people seem to be
+headed towards the Katar Inn which seems to take up most of the Town's space.  There
+are many shops located every which way and further to the north behind another set of
+white and black stone appears to be what looks like a fairly big castle or fortress and
+it is well known that the Katar Castle is one of the more prominant to be located in a
+simple town.
+~
+0 0 0
+D0
+~
+~
+0 0 9302
+D2
+~
+~
+0 0 9300
+S
+#9302
+Main Street~
+This is the Main street of Katar, where most of the business goes on.  It is also a
+popular road for travelers and merchants to pass through and only visit for a short
+time.  The ever popular Katar Inn takes up most of one side of the street and on the
+other side stands a large trading post as well as various practice rooms and the such.
+Just slightly to the north appears to be an inclosed bridge connecting the trading post
+and the Katar Inn
+~
+0 0 0
+D0
+~
+~
+0 0 9303
+D2
+~
+~
+0 0 9301
+D3
+~
+~
+0 0 9306
+S
+#9303
+Main Street~
+The Main Street of Katar is quite busy at all times of the day as it appears to have
+people traveling through or heading towards the Inn at all hours of the day and night.
+This small town is very lively compareable to that of popular cities.  A notice on the
+Katar Inn although faded and looks to have been posted quite some time ago mentions
+"a town that is ever growing" and appears that this town may someday become quite the
+sizeable city.
+~
+0 0 0
+D0
+~
+~
+0 0 9304
+D2
+~
+~
+0 0 9302
+D3
+~
+~
+0 0 9307
+S
+#9304
+Main Street~
+The main street here appears to be in need of repair as there are various holes in
+the ground and cracks that go across the street, but other than that it is quite live
+with all kinds of people chatting and walking, trading and bartering and every once
+in a while yelling can be heard but is quickly drowned out by the crowd.  The enterance
+to the popular Katar Inn is just down the road and the doorway appears to have quite
+heavy traffic at times.
+~
+0 0 0
+D0
+~
+~
+0 0 9305
+D2
+~
+~
+0 0 9303
+D3
+~
+~
+0 0 9310
+S
+#9305
+Main Street~
+Main Street just before the enterance to the Katar Inn is perhaps the most noisy part
+of the street, music can be heard from behind the door to the Inn as well as yelling,
+singing if it can be called that and all other noises that seem to mix togeather.  The
+Katar Inn is not only well known for it's accomidations but is rumored to be one of the
+best Tavern's there is.  A party always seems to go on at any hour of the day, or night
+for that matter.  The enterance is quite decorative and the sign above the doorway
+appears to have been painted to the building and depicts a massive city centered around
+the Inn.
+~
+0 0 0
+D0
+~
+~
+0 0 9332
+D1
+~
+~
+1 0 9330
+D2
+~
+~
+0 0 9304
+S
+#9306
+Weapon Trading Post~
+This is the main office for those people who wish to sell their various weapons they 
+have either accumilated, created or stolen but as soon as one piece is sold it is quickly
+picked up by another buyer and most of the time direct trading goes on.  Various people
+pile in and out of here all the time, some for the trade, sell or even just moving to
+another store and more often than not on other business or on the way to another 
+destination
+~
+0 0 0
+D0
+~
+~
+0 0 9307
+D1
+~
+~
+0 0 9302
+S
+#9307
+Armor Trading Post~
+This is where all fo the created, aquired or stolen items of protection are either sold
+or traded directly, but when a piece is sold it is almost always picked up a few moments
+after the initial sale.  Many people come and go here sometimes picking up something or
+just passing through.
+~
+0 0 0
+D0
+~
+~
+0 0 9308
+D1
+~
+~
+0 0 9303
+D2
+~
+~
+0 0 9306
+S
+#9308
+Small Hallway~
+This is a small hallway which leads to the upper level of the trading and training post
+and even to the covered bridge which leads to the Katar Inn.  Traffic here is quite busy
+for such a small hallway but at times it lets up.  To the north is the relic trading
+post.
+~
+0 0 0
+D0
+~
+~
+0 0 9310
+D2
+~
+~
+0 0 9307
+D3
+~
+~
+0 0 9309
+S
+#9309
+Bottom of Staircase~
+a small staircase is set against the back wall leading up to the second floor where the
+sounds of fighting can be heard.  The stairs are used quite often and appear to not have
+been built to be used as much as it is, every step creaks when someone goes up or down
+them and the rail appears to be on its last bolts.
+~
+0 0 0
+D1
+~
+~
+0 0 9308
+D4
+~
+~
+0 0 9311
+S
+#9310
+Relic Trading Post~
+This is where various "magical" items are sold, traded and even "created" here.  It is
+fairly empty compated to some of the other stores yet the shelves seem to always be empty
+and nothing usually lasts long when there is merchandice.  The counter straight ahead
+goes the entire length of the shop, various shelves and stands are set up ready to 
+depict any and all merchandice that may be created or bought.
+~
+0 0 0
+D1
+~
+~
+0 0 9304
+D2
+~
+~
+0 0 9308
+S
+#9311
+Top of Staircase~
+The stairs leading down appears just in the far corner of the floor, there is really
+not much about this part of the hallway save for the fact there is a small table tucked
+away in the corner and covered with a layer of dust.  The sounds of fighting appear to
+come from all directions and the covered bridge is just up ahead.
+~
+0 0 0
+D1
+~
+~
+0 0 9312
+D5
+~
+~
+0 0 9309
+S
+#9312
+Catwalk~
+This is the end of the covered bridge or "catwalk" as it's referred to.  Two side pillars
+are set up much like those for a bridge and ground slops slightly upwards headed towards
+the other side, the ceiling is made of fine wood and the side walls are lined with
+decorative candles and pictures of all sorts.
+~
+0 0 0
+D0
+~
+~
+0 0 9313
+D1
+~
+~
+0 0 9316
+D2
+~
+~
+0 0 9314
+D3
+~
+~
+0 0 9311
+S
+#9313
+Whitecloak Training Outpost~
+This room was take over by the whitecloaks a long time ago, or so it seems by the look
+of things, various recruits are here practicing their forms with other experienced 
+children of the light.  This is where they go when they are not among the people "lookin"
+for darkfriends or the such.  It appears that the children of the light are a faint
+factor in this ever busy town, and their presance is more to observe and report, or so
+says the sign on the door.  The room is lined with racks of weapons and training weapons
+and the floor is covered in a thick yellow carpet, various tapestries line what is left
+of the walls and tables are set up with water and food where there is room, the majority
+of the fighting sounds come from this room.  To the right is a small desk with a sign up
+book set on it for those who wish to join their army against the dark one.
+~
+0 0 0
+D2
+~
+~
+0 0 9312
+S
+#9314
+Small Sitting Room~
+This is a small waiting room, various couches and chairs are set up along the walls
+and scattered every which way.  It appears the room beyond is where the last of the
+fighting sounds appear to be coming from, various soldiers and travellers are seated
+waiting for their turn to train with the town's greatest retired sentry.
+~
+0 4 0
+D0
+~
+~
+0 0 9312
+D2
+~
+~
+0 0 9315
+S
+#9315
+Seth's Training Room~
+This room is lined with racks and racks of training weapons ranging from swords to axes
+to even spears and whips.  A table is set up in the corner for washing purposes and
+refreshments.  The carpet is quite tough looking and is ripped at various spots, its
+reddish colour appers to be faded.  The remaining space on the walls are lined with 
+tapistries of Seth himself in various battles and the such.
+~
+0 138412032 0
+D0
+~
+~
+0 0 9314
+S
+#9316
+Catwalk~
+The Catwalk slopes up then slops downwards heading into the Katar Inn's second floor.
+A giant window is setup here to oversee everything that goes on in the town and the
+castle front gates can just be seen in the distance, guards are posted beside each side
+of the window and small wooden tables and chairs beside them, on the oppsite side a 
+bench is set up for those who wish to see the sights of the town.
+~
+0 0 0
+D1
+~
+~
+0 0 9317
+D3
+~
+~
+0 0 9312
+S
+#9317
+Catwalk~
+This is the end of the catwalk as it's referred to.  Two side pillars are set up
+much like those for a bridge and ground slops slightly upwards headed towards
+the other side, the ceiling is made of fine wood and the side walls are
+lined with decorative candles and pictures of all sorts.
+~
+0 0 0
+D0
+~
+~
+0 0 9320
+D1
+~
+~
+0 0 9318
+D2
+~
+~
+0 0 9322
+D3
+~
+~
+0 0 9316
+S
+#9318
+Top of Staircase~
+The hallway ends abruptly at a set of spirling stairs, the railings made of silver and
+traces of gold can be seen.  A fine red carpet lines each step and has a golden weave
+in it.  The walls around the stares are bare cept for the kegs which are stocked behind
+the back part of the rails and in the corners
+~
+0 0 0
+D3
+~
+~
+0 0 9317
+D5
+~
+~
+0 0 9319
+S
+#9319
+Bottom of Staircase~
+The hallway ends abruptly at a set of spirling stairs, the railings made of silver and
+traces of gold can be seen.  A fine red carpet lines each step and has a golden weave
+in it.  The walls around the stares are bare cept for the kegs which are stocked behind
+the stairs and in the corners.
+~
+0 0 0
+D3
+~
+~
+0 0 9325
+D4
+~
+~
+0 0 9318
+S
+#9320
+Small Hallway~
+This is the upper hallway of the famous Katar Inn, the floor is lined with a fine red
+carpet, good enough for a royal palace.  Beside each door is a fine oak table set up with
+silver pitchers in need of refilling, empty silver and golden trays containing scraps
+of food and many other things that need to be cleaned, replaced or refilled, above each
+table is a fancy mirror with gold and silver workings around the frame, the torches along
+the walls are set in ivory holders which are also deccorated quite lavishly.  The doors
+themselves are made of solid oak and appear sturdy enough to eliminate any sound aside
+from knocking, the door handles are even made of silver and gold.
+~
+0 0 0
+D1
+~
+~
+0 0 9321
+D2
+~
+~
+0 0 9317
+S
+#9321
+Inn Room~
+The room appears to be spotless, not a thing is out of place.  There is a bed off to the
+left corner of the room and another to the right corner, the workings of the bedframe and
+bedposts are made of gold and is designed in very intricate patterns.  A desk is in the
+right corner closest to the solid oak door and another table is located along the left
+side of the wall extending to the end of the bed, variuos trays and filled pitches line
+the table filled with wine and the trays all kinds of goods from the kitchen.  A bookshelf
+stands inbetween each of the beds and is filled with volumes of all sorts of books.
+Finally there is a fine red rug set in the middle of the room depicticting a huge city
+centered around the Katar Inn
+~
+0 0 0
+D3
+~
+~
+0 0 9320
+S
+#9322
+Small Hallway~
+This is the upper hallway of the famous Katar Inn, the floor is lined with a fine red
+carpet, good enough for a royal palace.  Beside each door is a fine oak table set up with
+silver pitchers in need of refilling, empty silver and golden trays containing scraps
+of food and many other things that need to be cleaned, replaced or refilled, above each
+table is a fancy mirror with gold and silver workings around the frame, the torches along
+the walls are set in ivory holders which are also deccorated quite lavishly.  The doors
+themselves are made of solid oak and appear sturdy enough to eliminate any sound aside
+from knocking, the door handles are even made of silver and gold.
+~
+0 0 0
+D0
+~
+~
+0 0 9317
+D1
+~
+~
+0 0 9323
+S
+#9323
+Inn Room~
+The room appears to be spotless, not a thing is out of place.  There is a bed off to the
+left corner of the room and another to the right corner, the workings of the bedframe and
+bedposts are made of gold and is designed in very intricate patterns.  A desk is in the
+right corner closest to the solid oak door and another table is located along the left
+side of the wall extending to the end of the bed, variuos trays and filled pitches line
+the table filled with wine and the trays all kinds of goods from the kitchen.  A bookshelf
+stands inbetween each of the beds and is filled with volumes of all sorts of books.
+Finally there is a fine red rug set in the middle of the room depicticting a huge city
+centered around the Katar Inn.  There is another smaller oak door to the south leading
+to the balcony.
+~
+0 138412032 0
+D2
+~
+~
+1 0 9324
+D3
+~
+~
+0 0 9322
+S
+#9324
+Balcony~
+The balcony extends the length of the entire side of the building and could be considered
+an outside tavern if the innkeeper wished.  various sold oak benches and chairs are set
+up along the wall overlooking the country side and the setting sun.  The sounds of the
+town appear the be muffled up here as if the wood itself muffles out any sound.
+~
+0 138412032 0
+D0
+~
+~
+1 0 9323
+S
+#9325
+Hallway~
+This is the lower hallway of the famous Katar Inn, the floor is lined with a fine blue
+carpet, good enough for a royal palace.  Beside each door is a fine oak table set up with
+silver pitchers in need of refilling, empty silver and golden trays containing scraps
+of food and many other things that need to be cleaned, replaced or refilled, above each
+table is a fancy mirror with gold and silver workings around the frame, the torches along
+the walls are set in ivory holders which are also deccorated quite lavishly.  The doors
+themselves are made of solid oak and appear sturdy enough to eliminate any sound aside
+from knocking, the door handles are even made of silver.
+~
+0 0 0
+D0
+~
+~
+0 0 9328
+D1
+~
+~
+0 0 9319
+D2
+~
+~
+0 0 9326
+S
+#9326
+Hallway~
+This is the lower hallway of the famous Katar Inn, the floor is lined with a fine blue
+carpet, good enough for a royal palace.  Beside each door is a fine oak table set up with
+silver pitchers in need of refilling, empty silver and golden trays containing scraps
+of food and many other things that need to be cleaned, replaced or refilled, above each
+table is a fancy mirror with gold and silver workings around the frame, the torches along
+the walls are set in ivory holders which are also deccorated quite lavishly.  The doors
+themselves are made of solid oak and appear sturdy enough to eliminate any sound aside
+from knocking, the door handles are even made of silver.
+~
+0 0 0
+D0
+~
+~
+0 0 9325
+D1
+~
+~
+0 0 9327
+S
+#9327
+Inn Room~
+The room appears to be spotless, not a thing is out of place.  There is a bed off to the
+left corner of the room and another to the right corner, the workings of the bedframe and
+bedposts are made of silver and is designed in very intricate patterns.  A desk is in the
+right corner closest to the solid oak door and another table is located along the left
+side of the wall extending to the end of the bed, variuos trays and filled pitches line
+the table filled with wine and the trays all kinds of goods from the kitchen.  A bookshelf
+stands inbetween each of the beds and is filled with volumes of all sorts of books.
+Finally there is a lavish blue rug set in the middle of the room depicticting a huge city
+centered around the Katar Inn
+~
+0 0 0
+D3
+~
+~
+0 0 9326
+S
+#9328
+Hallway~
+This is the lower hallway of the famous Katar Inn, the floor is lined with a fine blue
+carpet, good enough for a royal palace.  Beside each door is a fine oak table set up with
+silver pitchers in need of refilling, empty silver and golden trays containing scraps
+of food and many other things that need to be cleaned, replaced or refilled, above each
+table is a fancy mirror with gold and silver workings around the frame, the torches along
+the walls are set in ivory holders which are also deccorated quite lavishly.  The doors
+themselves are made of solid oak and appear sturdy enough to eliminate any sound aside
+from knocking, the door handles are even made of silver.
+~
+0 0 0
+D0
+~
+~
+0 0 9330
+D1
+~
+~
+0 0 9329
+D2
+~
+~
+0 0 9325
+S
+#9329
+Inn Room~
+The room appears to be spotless, not a thing is out of place.  There is a bed off to the
+left corner of the room and another to the right corner, the workings of the bedframe and
+bedposts are made of silver and is designed in very intricate patterns.  A desk is in the
+right corner closest to the solid oak door and another table is located along the left
+side of the wall extending to the end of the bed, variuos trays and filled pitches line
+the table filled with wine and the trays all kinds of goods from the kitchen.  A bookshelf
+stands inbetween each of the beds and is filled with volumes of all sorts of books.
+Finally there is a lavish blue rug set in the middle of the room depicticting a huge city
+centered around the Katar Inn
+~
+0 0 0
+D3
+~
+~
+0 0 9328
+S
+#9330
+Inn Tavern~
+This is the famous Katar Inn Tavern, the room itself is equilvent two big city taverns.
+There are verious tables set up everywhere in a lined fashon, the bar extends from one
+side of the Tavern to just before the kitchen door and is lined with many stools.  On
+the oppsite end in the corner is a stage set up for travelling gleemen or performers and
+the such, the walls have tabletops coming out of them and two to three chairs set up around
+each one.  The atmosphere is that of a constant party as waitresses dressed in revealing
+clothing rush from table to table taking orders.  The floor is covered in a fine dark
+green carpet which seems a waste to put in a Tavern.  The glasses are made from silver
+and have golden workings in them forming around the glass cup part.
+~
+0 67109888 0
+D1
+~
+~
+0 0 9331
+D2
+~
+~
+0 0 9328
+D3
+~
+~
+1 0 9305
+S
+#9331
+Inn Kitchen~
+It is quite hot in here, as various soups are being made along with all sorts of goods
+being prepared for those in the Tavern and those staying in the Inn rooms, various cooks
+dash from table to table making different meals and following the orders of the head
+cook who is banging a wooden spoon on various tables.
+~
+0 0 0
+D3
+~
+~
+0 0 9330
+S
+#9332
+Crossroads~
+This is where four roads meet in Katar, the first road to the west appears to be used
+less than all the others as it seems to be where the additions to the city are being
+made, at what appears to be an almost nonexistant rate.  To the north is the white and
+black stone wall leading towards the Castle, only soldiers and nobles seem to go up that
+road.  To the south is Katar's main street where most of the activity goes on and to
+the east is another well traveled path leading out of town.
+~
+0 0 0
+D0
+~
+~
+0 0 9333
+D1
+~
+~
+0 0 9384
+D2
+~
+~
+0 0 9305
+D3
+~
+~
+0 0 9388
+S
+#9333
+Paved Walkway~
+The walkway is quite simple, various shrubs and trees line the way to the castle yard
+gates and the walkway itself looks very well maintained and rarely used, an occasional
+noble of castle guard will use this path but other than that anything that goes on in
+the castle or its yard is kept from the rest of the town.
+~
+0 0 0
+D0
+~
+~
+0 0 9334
+D2
+~
+~
+0 0 9332
+S
+#9334
+Entrance to Castle Yard~
+The enterance resembles that of the enterance to the town, the white and black stone
+walls are closer together though and the gates appear to be made of silver or a silvery
+substance.  There are always highly trained guards protecting the gate at all times.
+~
+0 0 0
+D0
+~
+~
+0 0 9335
+D2
+~
+~
+0 0 9333
+S
+#9335
+Yard~
+The grass here is well tended to, kept short and even.  There is a line of thick trees
+lining the white and black stone walls, further closer to the castle walls is an intricate
+garden of flowers and small bushes and the like.  The grass part of the yard extends for
+quite the ways and is always patrolled by the castles very own sentries, some of which
+take time to practice and on warm days the new recruits are often practicing.
+~
+0 0 0
+D0
+~
+~
+0 0 9336
+D1
+~
+~
+0 0 9379
+D2
+~
+~
+0 0 9334
+D3
+~
+~
+0 0 9376
+S
+#9336
+Castle Entrance~
+The stone steps lead up to solid white and black stone doors with various designs
+carved into them yet the doors almost always lay open allowed all to enter if they
+have business with the lord or lady of the castle.
+~
+0 0 0
+D0
+~
+~
+0 0 9337
+D2
+~
+~
+0 0 9335
+S
+#9337
+Anterchamber~
+This room is the biggest room in the entire castle, to the west is a grand hallway
+leading to various rooms, to the east is the servents hallway and servents quarters 
+where as straight ahead is a grand stairway leading to the guest rooms as well as the
+lord and lady's rooms.
+~
+0 0 0
+D0
+~
+~
+0 0 9362
+D1
+~
+~
+0 0 9338
+D2
+~
+~
+0 0 9336
+D3
+~
+~
+0 0 9351
+S
+#9338
+Servent's Hallway~
+This hallway is the most simple in the entire castle.  There is a fine grey carpet
+lining the floor with black embroiderings along the trims of it.  Beside every door
+is a table which holds items for servents to take to guests or the lord and lady.
+~
+0 0 0
+D0
+~
+~
+0 0 9340
+D1
+~
+~
+0 0 9339
+D3
+~
+~
+0 0 9337
+S
+#9339
+Kitchen~
+Cooks move from table to table prepareing various meals for all the inhabitants of
+the castle.  Pots cooking all kinds of soup, tables with badder and all other goods
+can be seen everywhere.  The smell of fresh baked goods is heavy in the air
+~
+0 0 0
+D1
+~
+~
+0 0 9345
+D3
+~
+~
+0 0 9338
+S
+#9340
+Servent's Hallway~
+This hallway is the most simple in the entire castle.  There is a fine grey carpet
+lining the floor with black embroiderings along the trims of it.  Beside every door
+is a table which holds items for servents to take to guests or the lord and lady.
+~
+0 0 0
+D0
+~
+~
+0 0 9342
+D1
+~
+~
+0 0 9341
+D2
+~
+~
+0 0 9338
+S
+#9341
+servant's hallway~
+This hallway is the most simple in the entire castle.  There is a fine grey carpet
+lining the floor with black embroiderings along the trims of it.  Beside every door
+is a table which holds items for servents to take of.
+~
+0 0 0
+D1
+~
+~
+0 0 9346
+D3
+~
+~
+0 0 9340
+S
+#9342
+Servent's Hallway~
+This hallway is the most simple in the entire castle.  There is a fine grey carpet
+lining the floor with black embroiderings along the trims of it.  Beside every door
+is a table which holds items for servents to take to guests or the lord and lady.
+~
+0 0 0
+D0
+~
+~
+0 0 9344
+D1
+~
+~
+0 0 9343
+D2
+~
+~
+0 0 9340
+S
+#9343
+Servent's Sewing Room~
+This room contains various tables covered with many different sewing tools and string,
+and is used more for repair of carpets and tapastries and severnts clothes and the such.
+on a few tables a few handswen garmets lay unfinished.
+~
+0 0 0
+D1
+~
+~
+0 0 9349
+D3
+~
+~
+0 0 9342
+S
+#9344
+Head Servent's Chamber~
+This is the Head Servent's Chamber, where she recieves weekly orders to carry out every
+day on routine and assigns the jobs accordingly.  The room contains a rough looking
+couch and a chair, towards the back of the room is a small fireplace
+~
+0 0 0
+D2
+~
+~
+0 0 9342
+S
+#9345
+Kitchen Storage Room~
+This rooms contains various shelves littered with ingreadents of all sorts
+to make any dish that the lord or lady or even the castle's guests would like
+the ground is covered in a lawer of flour.
+~
+0 0 0
+D3
+~
+~
+0 0 9339
+S
+#9346
+Servant's Bedchamber Hallway~
+This hallway is the most simple in the entire castle.  There is a fine grey carpet
+lining the floor with black embroiderings along the trims of it.  Beside every door
+is a table which holds items for servents to take of
+~
+0 0 0
+D0
+~
+~
+1 0 9347
+D1
+~
+~
+1 0 9348
+D3
+~
+~
+0 0 9341
+S
+#9347
+Men Serverent's Bedchamber~
+This room is perhaps the most simple in the castle or even the entire town, the only
+thing that is in this room are rows of beds for each of the servents to sleep in, the
+walls contain small pictures posted by the servents themselves
+~
+0 0 0
+D2
+~
+~
+1 0 9346
+S
+#9348
+Women Servent's Bedchamber~
+This room is perhaps the most simple in the castle or even the entire town, the only
+thing that is in this room are rows of beds for each of the servents to sleep in, the
+walls contain small pictures posted by the servents themselves
+~
+0 0 0
+D3
+~
+~
+1 0 9346
+S
+#9349
+Servent's Sewing Room~
+This room contains various tables covered with many different sewing tools and string,
+and is used more for repair of carpets and tapastries and severnts clothes and the such.
+on a few tables a few handswen garmets lay finished and ready for gold embroiderings
+~
+0 0 0
+D3
+~
+~
+0 0 9343
+D5
+~
+~
+3 9388 9350
+S
+#9350
+Servent's Libary~
+The bookshelves in this libary are all knocked over and the remains of burned books
+lay in charred heaps.  Many fresh bodies of the castle servents and even the castle's
+elite sentries lay thrown about, some litterly torn apart to the point that it's a pile
+of insides.
+~
+0 473956356 0
+D4
+~
+~
+3 0 9349
+S
+#9351
+Large Hallway~
+This hallway is quite sizeable and resembles a hallway in the white tower.  A fine white
+carpet lines the floor and has golden designs depicting various things.  Along the walls
+is a fine row of white torches which shed's a white light, set in marble holders, the
+doors along the hallway are all made of a fine redwood and looks fairly sturdy, beside
+each of the doorways stands two tables, one table holds empty pitchers and trays while
+the other one hold many differnt things, one holds some weapons while another holds books
+and yet another some scrolls and paper.  There is almost no sound in this hallway.
+~
+0 0 0
+D0
+~
+~
+0 0 9353
+D1
+~
+~
+0 0 9337
+D3
+~
+~
+0 0 9352
+S
+#9352
+Sentry's Bedchamber~
+This is the Sentry's Bedchambers, double beds line the walls and there is a large table
+set in the middle of the room surrounded by chairs, towards the back of the room is
+a small set of stone stairs leading down to an open doorway.
+~
+0 0 0
+D1
+~
+~
+0 0 9351
+D5
+~
+~
+0 0 9358
+S
+#9353
+Large Hallway~
+This hallway is quite sizeable and resembles a hallway in the white tower.  A fine white
+carpet lines the floor and has golden designs depicting various things. Along the walls
+is a fine row of white torches which shed's a white light, set in marble holders, the
+doors along the hallway are all made of a fine redwood and looks fairly sturdy, beside
+each of the doorways stands two tables, one table holds empty pitchers and trays while
+the other one hold many differnt things, one holds some weapons while another holds books
+and yet another some scrolls and paper.  There is almost no sound in this hallway.
+~
+0 0 0
+D0
+~
+~
+0 0 9355
+D2
+~
+~
+0 0 9351
+D3
+~
+~
+0 0 9354
+S
+#9354
+Grand Libary~
+The libary here is compareable to that of the white tower's collection, although the
+books do not cover anything with the one power it is known to have the best collection
+of known shadowspawn and history of them.  Books of all sorts is availiable here to written
+ones of peoples lives to stories often told be gleemen.
+~
+0 4 0
+D1
+~
+~
+0 0 9353
+D5
+~
+~
+0 0 9357
+S
+#9355
+Large Hallway~
+This hallway is quite sizeable and resembles a hallway in the white tower.  A fine white
+carpet lines the floor and has golden designs depicting various things. Along the walls
+is a fine row of white torches which shed's a white light, set in marble holders, the
+doors along the hallway are all made of a fine redwood and looks fairly sturdy, beside
+each of the doorways stands two tables, one table holds empty pitchers and trays while
+the other one hold many differnt things, one holds some weapons while another holds books
+and yet another some scrolls and paper.  There is almost no sound in this hallway.
+~
+0 0 0
+D2
+~
+~
+0 0 9353
+D3
+~
+~
+0 0 9356
+S
+#9356
+Side Door Entrance~
+This hallway is quite sizeable and resembles a hallway in the white tower.  A fine white
+carpet lines the floor and has golden designs depicting various things. Along the walls
+is a fine row of white torches which shed's a white light, set in marble holders, the door to
+the west is made of oak and has various carvings depicting a thief hiding in the shadows.
+There is almost no sound here.
+~
+0 0 0
+D1
+~
+~
+0 0 9355
+D3
+~
+~
+0 0 9378
+S
+#9357
+Private Libary~
+This room is quite small compared to the giant libary, bookshelves line the walls filled
+with rare and ancient books, there is a table in the center of the room with a couch
+placed in front of it.  Towards the back of the room is a fine fireplace that warms 
+the room and provides light to the room
+~
+0 0 0
+D4
+~
+~
+0 0 9354
+S
+#9358
+Small Hallway~
+This hallway is very small and looks to be crudely dug out of the ground and lined with
+oak, from the celing hangs a few lanterns to light the way and the walls are closer
+than any in the castle and would only allow one person to talk though unburdened at a time
+~
+0 138412033 0
+D3
+~
+~
+0 0 9359
+D4
+~
+~
+0 0 9352
+S
+#9359
+Small Hallway~
+This hallway is very small and looks to be crudely dug out of the ground and lined with
+oak, from the celing hangs a few lanterns to light the way and the walls are closer
+than any in the castle and would only allow one person to talk though unburdened at a time.
+The sounds of metal hitting metal can barely be heard to the north and a solid wooden door
+is to the west, the sign above reads "Captain of the Guards".
+~
+0 138412037 0
+D0
+~
+~
+0 0 9361
+D1
+~
+~
+0 0 9358
+D3
+~
+~
+1 0 9360
+S
+#9360
+Captain of the Guard's Bedchamber~
+This room is fairly basic, a bed is located towars the back of the room with a bookcase
+on both ends, containing various books and papers.  A desk is located closest to the
+door and is overflowing with maps and papers and the such.
+~
+0 138412032 0
+D1
+~
+~
+1 0 9359
+S
+#9361
+Sentry's Armory~
+This is where the Castle Sentry's recieve their various weapons and armors.  The heat
+in this inclosed space is heavy and makes the air thick.  There is lumps of metal off
+to one corner and finished pieces of armor and weapons in the other, an extensive 
+weaponsmith's forge is located in the center of the back wall and an anvil in the middle
+of the room.  A couple chairs are placed beside the door.
+~
+0 138412032 0
+D2
+~
+~
+0 0 9359
+S
+#9362
+Bottom of Large Staircase~
+The staircase is made out of pure white stone and seems to be rough as part of the 
+design of the stone, there is a fine red carpet that goes up the middle of the stairs
+leading towards the lord and lady's rooms.
+~
+0 0 0
+D0
+~
+~
+1 0 9364
+D2
+~
+~
+0 0 9337
+D4
+~
+~
+0 0 9363
+S
+#9363
+Large Balcony~
+This balcony covers the entire top floor of the castle and goes from one side to the
+other. although the top floor only contains 3 main rooms the doorways to them are 
+quite sizeable and could only be open enough for one to slip through.  The anterchamber
+can be seen in all its glory.
+~
+0 0 0
+D0
+~
+~
+0 0 9367
+D1
+~
+~
+0 0 9366
+D3
+~
+~
+0 0 9365
+D5
+~
+~
+0 0 9362
+S
+#9364
+Training Room~
+This is the room where the Elite Castle Guard come to practice, although no new 
+recruits have been taken in yet the room has been left unattended, the walls are lined
+with practice swords and shields.
+~
+0 0 0
+D2
+~
+~
+1 0 9362
+S
+#9365
+Large Balcony~
+This balcony covers the entire top floor of the castle and goes from one side to the
+other. although the top floor only contains 3 main rooms the doorways to them are
+quite sizeable and could only be open enough for one to slip through.  The anterchamber
+can be seen in all its glory.
+~
+0 0 0
+D0
+~
+~
+0 0 9370
+D1
+~
+~
+0 0 9363
+S
+#9366
+Large Balcony~
+This balcony covers the entire top floor of the castle and goes from one side to the
+other. although the top floor only contains 3 main rooms the doorways to them are
+quite sizeable and could only be open enough for one to slip through.  The anterchamber
+can be seen in all its glory.
+~
+0 4 0
+D0
+~
+~
+0 0 9372
+D3
+~
+~
+0 0 9363
+S
+#9367
+Lord's Study~
+The study is quite elaborate, there is a red and gold carpet layed throughout the room
+and is fine enough to have some giveway under any sort of pressure, a large desk is
+located in the middle of the room while bookshelves line the walls.  A large table is
+set up holding many pitches and tray filled with all kinds of wine, ciders and goods.
+~
+0 138412036 0
+D0
+~
+~
+0 0 9368
+D2
+~
+~
+0 0 9363
+S
+#9368
+Lord's Bedchamber~
+There is a large bed that is even bigger than the Lady's bed set in the back right
+corner, a silver and gold ladder is along the backwall to the left corner leading up
+to the lord's balcony, a table holding everything the lord ever needed is set up 
+against the left wall and a wardrobe is along the right wall.
+~
+0 138412032 0
+D2
+~
+~
+0 0 9367
+D4
+~
+~
+1 0 9369
+S
+#9369
+Lord's Balcony~
+The balcony is quite elaborate and can see the entire town, from all the people going
+on their business to past that to the sunrise and the endless wilderness.  There are
+various couches and chairs set up along with stone tables holding pitchers of wine and
+trays holding various goods.
+~
+0 138412032 0
+D5
+~
+~
+1 0 9368
+S
+#9370
+Guest Bedchamber~
+~
+0 0 0
+D2
+~
+~
+0 0 9365
+D3
+~
+~
+0 0 9371
+S
+#9371
+Outside Balcony~
+The balcony is quite elaborate and can see the entire town, from all the people going
+on their business to past that to the sunrise and the endless wilderness.  There are
+various couches and chairs set up along with stone tables holding pitchers of wine and
+trays holding various goods.
+~
+0 0 0
+D1
+~
+~
+0 0 9370
+S
+#9372
+Lady's Study~
+The study is quite elaborate, there is a red and gold carpet layed throughout the room
+and is fine enough to have some giveway under any sort of pressure, a large desk is
+located in the middle of the room while bookshelves line the walls.  A large table is
+set up holding many pitches and tray filled with all kinds of wine, ciders and goods.
+along with another table with handheld mirrors and brushes and the like
+~
+0 0 0
+D0
+~
+~
+0 0 9374
+D1
+~
+~
+0 0 9373
+D2
+~
+~
+0 0 9366
+S
+#9373
+Lady's Balcony~
+The balcony is quite elaborate and can see the entire town, from all the people going
+on their business to past that to the sunrise and the endless wilderness.  There are
+various couches and chairs set up along with stone tables holding pitchers of wine and
+trays holding various goods.
+~
+0 0 0
+D3
+~
+~
+0 0 9372
+S
+#9374
+Lady's Bedchamber~
+This room is simple for a lady's room.  A large bed taking up most of the space in the
+room is places in the middle of the floor, there is a table holding various perfumes,
+makeup and soaps or all kinds.  A bathtub is placed in the corner surrounded by a very
+fine silk curtain, a desk is also placed near the door containing papers, books, and
+any other little thing.
+~
+0 0 0
+D2
+~
+~
+0 0 9372
+S
+#9375
+Yard~
+The grass here is well tended to, kept short and even.  There is a line of thick trees
+lining the white and black stone walls, further closer to the castle walls is an intricate
+garden of flowers and small bushes and the like.  The grass part of the yard extends for
+quite the ways and is always patrolled by the castles very own sentries, and
+often guests of the castle can be seen enjoying the weather near the thick
+row of trees.  Every now and then there is a bench set up near the trees to provide
+maximum comfort.
+~
+0 0 0
+D0
+~
+~
+0 0 9377
+D1
+~
+~
+0 0 9376
+S
+#9376
+Yard~
+The grass here is well tended to, kept short and even.  There is a line of thick trees
+lining the white and black stone walls, further closer to the castle walls is an intricate
+garden of flowers and small bushes and the like.  The grass part of the yard extends for
+quite the ways and is always patrolled by the castles very own sentries, some of which
+take time to practice and on warm days the new recruits are often practicing.
+~
+0 0 0
+D1
+~
+~
+0 0 9335
+D3
+~
+~
+0 0 9375
+S
+#9377
+Beside the Castle~
+The grass here is well tended to, kept short and even.  There is a line of thick trees
+lining the white and black stone walls, further closer to the castle walls is an intricate
+garden of flowers and small bushes and the like.  The grass part of the yard extends for
+quite the ways and is always patrolled by the castles very own sentries, and often guests
+of the castle can be seen enjoying the weather near the thick row of trees.
+Every now and then there is a bench set up near the trees to provide maximum comfort.
+~
+0 0 0
+D0
+~
+~
+0 0 9378
+D2
+~
+~
+0 0 9375
+S
+#9378
+Side Door Entrance~
+The grass here is well tended to, kept short and even.  There is a line of thick trees
+lining the white and black stone walls, further closer to the castle walls is an intricate
+garden of flowers and small bushes and the like.  The grass part of the yard extends for
+quite the ways and is always patrolled by the castles very own sentries, and often guests
+of the castle can be seen enjoying the weather near the thick row of trees.  Every now and
+then there is a bench set up near the trees to provide maximum comfort.
+There is a small discreate enterance to the east leading into the castle for those
+who want to enter or leave secertly
+~
+0 0 0
+D1
+~
+~
+0 0 9356
+D2
+~
+~
+0 0 9377
+S
+#9379
+yard~
+The grass here is well tended to, kept short and even.  There is a line of thick trees
+lining the white and black stone walls, further closer to the castle walls is an intricate
+garden of flowers and small bushes and the like.  The grass part of the yard extends for
+quite the ways and is always patrolled by the castles very own sentries, and often guests
+of the castle can be seen enjoying the weather near the thick row of trees.  Every now
+and then there is a bench set up near the trees to provide maximum comfort.
+~
+0 0 0
+D1
+~
+~
+0 0 9380
+D3
+~
+~
+0 0 9335
+S
+#9380
+Yard~
+The grass here is well tended to, kept short and even.  There is a line of thick trees
+lining the white and black stone walls, further closer to the castle walls is an intricate
+garden of flowers and small bushes and the like.  The grass part of the yard extends for
+quite the ways and is always patrolled by the castles very own sentries, and often guests
+of the castle can be seen enjoying the weather near the thick row of trees.  Every
+now and then there is a bench set up near the trees to provide maximum comfort.
+~
+0 0 0
+D0
+~
+~
+0 0 9381
+D3
+~
+~
+0 0 9379
+S
+#9381
+Dark Side of the Castle~
+The grass here is well tended to, kept short and even.  There is a line of thick trees
+lining the white and black stone walls, further closer to the castle walls is an intricate
+garden of flowers and small bushes and the like.  The grass part of the yard extends for
+quite the ways and is always patrolled by the castles very own sentries, and often guests
+of the castle can be seen enjoying the weather near the thick row of trees.  Every
+now and then there is a bench set up near the trees to provide maximum comfort.  The ever
+looming presance of the castle sends this area in an unnatual shade and even the grass looks
+a plate greyish green
+~
+0 0 0
+D0
+~
+~
+0 0 9382
+D2
+~
+~
+0 0 9380
+S
+#9382
+Errie Crypt Entrance~
+The grass here seems to have turned black and the trees that cover what looks like a
+crypt are death and twisted, even the recentley constructed guard houses set beside the
+enterance to the crypt are turning black and the guards posted there appear to be extremley
+edgy.  The crypt enterance itself is locked up tight and only a choice few may enter it
+the door has various carvings of death.
+~
+0 0 0
+D2
+~
+~
+0 0 9381
+D5
+~
+~
+4 9383 9383
+S
+#9383
+Top of Errie Stairway~
+The walls here are an unnatural black colour, blacker than the deepest of night.  The
+stone steps appear to have some give way and crunch slightly every now and then, the
+smell of death and rotting flesh is heavy in the air and a slight breeze seems to come
+up from the stairs themselves.
+~
+0 138412037 0
+D4
+~
+~
+4 9383 9382
+D5
+~
+~
+0 0 9391
+S
+#9384
+Path Leading out of Town~
+The noise from the Taven located in the Katar Inn is much more apparent, combined with
+the noise of the main street.  Some of the more wealthy merchants have set up shop a
+bit closer to the Castle's gates, yet still shying away from the crowded main street.
+The traffic here is much greater, combined with townsfolk and travellers all having a
+look at the various shiny wares, making a sizeable crown around each merchant stand.
+~
+0 0 0
+D1
+~
+~
+0 0 9385
+D3
+~
+~
+0 0 9332
+S
+#9385
+Path Leading out of Town~
+The Katar Inn seems to filter out all kinds of sounds from the Tavern into the street
+here.  Various merchants and people trading what they can have set up shop here but
+most of the visible wares appear useless and overused.  Many travellers appear to fill
+this road, some of which appear to stay in this area of the town exclusiveley.
+~
+0 0 0
+D1
+~
+~
+0 0 9386
+D3
+~
+~
+0 0 9384
+S
+#9386
+City Gates~
+The gates to the city lay wide open at all times and appear to have been used little
+since the wall was raised.  The outer wall of the popular Katar Inn takes up one side
+of the road headed into town where as another white and black stone wall takes up the
+other, which appears to protect the giant castle and it's yard.  This road seems to be
+filled more with travellers and merchant than people who live here.
+~
+0 0 0
+D1
+~
+~
+0 0 9387
+D3
+~
+~
+0 0 9385
+S
+#9387
+Outside of Town~
+The dirt path leads up a slight hill towards the popular trading town of Katar.  The
+landscape here has quite a variety of open grassland perfect for farming to thick forests
+to a nearby brook that seems to supply the town with it's water supply.  The walls of
+the town are a strange white and black coloured stone where as the gates themselves
+appear to be made of iron or steel.
+~
+0 0 0
+D3
+~
+~
+0 0 9386
+S
+#9388
+Path to a Small Shack~
+This dirt path compared to the main street looks out of place in such a popular town,
+it's almost as if this is the slums of the town where all the people down on their luck
+flock to hide from the rest of the folk, although not one person can be seen on the
+street itself and the sounds of the main street flood the small path with noise.  
+Further down the path appears to be a small yet well built shack.
+~
+0 0 0
+D1
+~
+~
+0 0 9332
+D3
+~
+~
+0 0 9389
+S
+#9389
+In Front of a Small Shack~
+The small path seems to abruply end here.  A small shack seems to have been built to
+block any enterance to the slums, a notice on the wall reads "closed for expantion"
+which seems to give the impression this is where the city will expand next.  The shack
+itself looks to be made of fine wood and glass, a guard is posted just outside the door
+probabley protecting something important, or keeping something in.
+~
+0 4 0
+D1
+~
+~
+0 0 9388
+D3
+~
+~
+1 0 9390
+S
+#9390
+Glycerine's Shack~
+This shack despite the small appearance on the outside is quite large and is lavishly
+decorated.  A fair-sized bed is off to the right along with a standup mirror, a large
+desk covered with papers is off to the left and the walls are lined with candles, also
+two couches and a chair with a table is located in the center of the shack.
+~
+0 138412036 0
+D1
+~
+~
+1 0 9389
+S
+#9391
+Middle of Errie Stairway~
+The walls here are an unnatural black colour, blacker than the deepest of night.  The
+stone steps appear to have some give way and crunch slightly every now and then, the
+smell of death and rotting flesh is heavy in the air and a slight breeze seems to come
+up from the stairs themselves.
+~
+0 138412033 0
+D4
+~
+~
+0 0 9383
+D5
+~
+~
+0 0 9392
+S
+#9392
+Bottom of Errie Stairway~
+The walls here are an unnatural black colour, blacker than the deepest of night.  The
+stone steps appear to have some give way and crunch slightly every now and then, the
+smell of death and rotting flesh is heavy in the air and a slight breeze seems to come
+up from the stairs themselves.  There is a black stone door to the north which resembles
+that of the crypt door.  The lock is almost unnoticeable.
+~
+0 138412037 0
+D0
+~
+~
+4 9393 9393
+D4
+~
+~
+0 0 9391
+S
+#9393
+Errie Hallway~
+This hallway reaks of death and decay,  the floor is lined with a ratty black carpet with
+silver weaves.  Every few feet there is a black stone table set up with various rusted
+metal cutting objects and rusted trays, above the tables is set a mirror with a black
+decorative boarder, the image the mirror gives off is that of the individual standing in
+front of it only it makes them appear like a rotting corpse.  a slight overwhelming heated
+breaze comes from deep in the hallway.
+~
+0 138412033 0
+D0
+~
+~
+0 0 9394
+D1
+~
+~
+0 0 22901
+D2
+~
+~
+4 9393 9392
+D3
+~
+~
+0 0 22900
+S
+#9394
+Errie Hallway~
+This hallway reaks of death and decay,  the floor is lined with a ratty black carpet with
+silver weaves.  Every few feet there is a black stone table set up with various rusted
+metal cutting objects and rusted trays, above the tables is set a mirror with a black
+decorative boarder, the image the mirror gives off is that of the individual standing in
+front of it only it makes them appear like a rotting corpse.  a slight overwhelming heated
+breaze comes from deep in the hallway.
+~
+0 138412033 0
+D0
+~
+~
+0 0 9395
+D1
+~
+~
+0 0 22903
+D2
+~
+~
+0 0 9393
+D3
+~
+~
+0 0 22902
+S
+#9395
+Errie Hallway~
+This hallway reaks of death and decay,  the floor is lined with a ratty black carpet with
+silver weaves.  Every few feet there is a black stone table set up with various rusted
+metal cutting objects and rusted trays, above the tables is set a mirror with a black
+decorative boarder, the image the mirror gives off is that of the individual standing in
+front of it only it makes them appear like a rotting corpse.  a slight overwhelming heated
+breaze comes from deep in the hallway.
+~
+0 138412033 0
+D0
+~
+~
+0 0 9396
+D1
+~
+~
+0 0 22905
+D2
+~
+~
+0 0 9394
+D3
+~
+~
+0 0 22904
+S
+#9396
+Errie Hallway~
+This hallway reaks of death and decay,  the floor is lined with a ratty black carpet with
+silver weaves.  Every few feet there is a black stone table set up with various rusted
+metal cutting objects and rusted trays, above the tables is set a mirror with a black
+decorative boarder, the image the mirror gives off is that of the individual standing in
+front of it only it makes them appear like a rotting corpse.  a slight overwhelming heated
+breaze comes from deep in the hallway.
+~
+0 138412033 0
+D0
+~
+~
+0 0 9397
+D1
+~
+~
+0 0 22907
+D2
+~
+~
+0 0 9395
+D3
+~
+~
+0 0 22906
+S
+#9397
+Errie Hallway~
+This hallway reaks of death and decay,  the floor is lined with a ratty black carpet with
+silver weaves.  Every few feet there is a black stone table set up with various rusted
+metal cutting objects and rusted trays, above the tables is set a mirror with a black
+decorative boarder, the image the mirror gives off is that of the individual standing in
+front of it only it makes them appear like a rotting corpse.  a slight overwhelming heated
+wind comes from deep in the hallway.
+~
+0 138412037 0
+D0
+~
+~
+0 0 22910
+D1
+~
+~
+0 0 22909
+D2
+~
+~
+0 0 9396
+D3
+~
+~
+0 0 22908
+D4
+~
+~
+0 0 9398
+D5
+~
+~
+0 0 9399
+S
+#9398
+Ancient Legendary Demon's Room~
+~
+0 138477569 0
+D5
+~
+~
+0 0 9397
+S
+#9399
+Ancient Demon's Room~
+~
+0 138412033 0
+D4
+~
+~
+0 0 9397
+S
+#0
+
+
+
+#SPECIALS
+M 9309 spec_guard
+M 9313 spec_guard
+M 9324 spec_cast_mage
+M 9330 spec_questmaster
+M 9334 spec_guard
+M 9360 spec_poison
+M 9369 spec_breath_frost
+M 9374 spec_cast_mage
+M 9376 spec_guard
+M 9382 spec_guard
+M 9387 spec_breath_fire
+M 9390 spec_breath_fire
+M 9391 spec_cast_undead
+M 9393 spec_breath_lightning
+M 9398 spec_breath_any_but_acid
+M 9399 spec_breath_fire
+S
+
+
+
+#RESETS
+D 0 9305 1 1
+D 0 9323 2 1
+D 0 9324 0 1
+D 0 9330 3 1
+D 0 9346 0 1
+D 0 9346 1 1
+D 0 9347 2 1
+D 0 9348 3 1
+D 0 9349 5 2
+D 0 9350 4 2
+D 0 9359 3 1
+D 0 9360 1 1
+D 0 9362 0 1
+D 0 9364 2 1
+D 0 9368 4 1
+D 0 9369 5 1
+D 0 9382 5 2
+D 0 9383 4 2
+D 0 9389 3 1
+D 0 9390 1 1
+D 0 9392 0 2
+D 0 9393 2 2
+M 0 9300 2 9300 2 100 Load a City Guard
+M 0 9301 2 9301 2 100 Load a Gate Guard
+M 0 9302 2 9302 2 100 Load a Villager
+M 0 9303 2 9303 2 100 Load a Child
+M 0 9304 2 9304 2 100 Load a Sentry
+M 0 9305 2 9305 2 100 Load a Villager
+M 0 9306 1 9306 1 100 Load a Weapon Smith
+M 0 9307 1 9307 1 100 Load the Armorer
+M 0 9310 1 9310 1 100 Load the Relic Maker
+M 0 9312 2 9312 2 100 Load a Villager
+M 0 9313 6 9313 6 100 Load Whitecloak Soldier
+M 0 9314 2 9314 2 100 Load Soldier in Training
+M 0 9315 1 9315 1 100 Load Seth
+E 0 9300 0 0 0 100 A red torch is loaded as a light of Seth
+E 0 9301 0 1 0 100 Katar finger links is loaded on the left finger of Seth
+E 0 9301 0 2 0 100 Katar finger links is loaded on the right finger of Seth
+E 0 9380 0 11 0 100 A steel shield is loaded as a shield of Seth
+E 0 9302 0 5 0 100 A steel breastplate is loaded on the body of Seth
+E 0 9303 0 3 0 100 A pendant is loaded around the neck (1) of Seth
+E 0 9303 0 4 0 100 A pendant is loaded around the neck (2) of Seth
+E 0 9304 0 6 0 100 A helmet and visor is loaded over the head of Seth
+E 0 9305 0 7 0 100 Metal leg plates is loaded on the legs of Seth
+E 0 9306 0 8 0 100 A pair of leather boots with metal plates is loaded on the feet of Seth
+E 0 9307 0 9 0 100 Metal gauntlets is loaded on the hands of Seth
+E 0 9308 0 10 0 100 Metal arm plates is loaded on the arms of Seth
+E 0 9309 0 12 0 100 A dusty traveller's cloak is loaded about the shoulders of Seth
+E 0 9310 0 13 0 100 A chain belt is loaded around the waist of Seth
+E 0 9311 0 15 0 100 Forearm plates is loaded on the left wrist of Seth
+E 0 9311 0 16 0 100 Forearm plates is loaded on the right wrist of Seth
+E 0 9312 0 21 0 100 A metal face plate is loaded on the face of Seth
+E 0 9313 0 20 0 100 Newbie's luck is loaded floating nearby of Seth
+M 0 9316 2 9316 2 100 Load a Catwalk Guard
+M 0 9317 1 9317 1 100 Load a Traveller
+M 0 9319 2 9319 2 100 Load a Villager
+M 0 9321 2 9321 2 100 Load a Traveller
+M 0 9323 1 9323 1 100 Load a Warder
+M 0 9324 1 9324 1 100 Load an Aes Sedai
+M 0 9325 2 9325 2 100 Load an Inn Maid
+M 0 9327 1 9327 1 100 Load a Traveller
+M 0 9329 2 9329 2 100 Load an Inn Maid
+M 0 9330 1 9330 1 100 Load Swarovski
+M 0 9331 1 9331 1 100 Load the Cook
+M 0 9332 8 9332 8 100 Load a Sentry
+M 0 9333 2 9333 2 100 Load a Traveller
+M 0 9334 2 9334 2 100 Load Elite Guard
+M 0 9335 2 9335 2 100 Load an Elite Sentry
+M 0 9336 2 9336 2 100 Load Castle Guard
+M 0 9337 4 9337 4 100 Load an Elite Castle Guard
+M 0 9338 1 9338 1 100 Load a Servent
+M 0 9339 2 9339 2 100 Load a Cook
+M 0 9340 1 9340 1 100 Load a Servent
+M 0 9343 1 9343 1 100 Load a Servent
+M 0 9344 1 9344 1 100 Load the Head Servent
+E 0 9388 0 19 0 100 A tiny key is loaded held in the hands of the Head Servent
+M 0 9345 2 9345 2 100 Load Cooks Assistant
+M 0 9347 4 9347 4 100 Load a Man Servent
+M 0 9348 4 9348 4 100 Load a Women Servent
+M 0 9349 1 9349 1 100 Load a Servent
+M 0 9387 1 9350 1 100 Load Demonic Shadowspawn
+M 0 9352 4 9352 4 100 Load a Sentry
+M 0 9354 1 9354 1 100 Load a Libarian
+M 0 9357 2 9357 2 100 Load a Libary Guard
+M 0 9360 1 9360 1 100 Load Captain of the Guards
+E 0 9315 0 0 0 100 A white torch is loaded as a light of Captain of the Guards
+E 0 9316 0 1 0 100 Captain's signet ring is loaded on the left finger of Captain of the Guards
+E 0 9316 0 2 0 100 Captain's signet ring is loaded on the right finger of Captain of the Guards
+E 0 9317 0 3 0 100 A green neckplate is loaded around the neck (1) of Captain of the Guards
+E 0 9317 0 4 0 100 A green neckplate is loaded around the neck (2) of Captain of the Guards
+E 0 9318 0 5 0 100 A combat plate is loaded on the body of Captain of the Guards
+E 0 9319 0 6 0 100 A combat helmet is loaded over the head of Captain of the Guards
+E 0 9320 0 7 0 100 Combat leg plates is loaded on the legs of Captain of the Guards
+E 0 9321 0 8 0 100 Combat boots is loaded on the feet of Captain of the Guards
+E 0 9322 0 9 0 100 Combat gauntlets is loaded on the hands of Captain of the Guards
+E 0 9323 0 10 0 100 Combat arm plates is loaded on the arms of Captain of the Guards
+E 0 9324 0 12 0 100 A fur cloak is loaded about the shoulders of Captain of the Guards
+E 0 9325 0 11 0 100 A spiked shield is loaded as a shield of Captain of the Guards
+E 0 9326 0 13 0 100 A combat belt is loaded around the waist of Captain of the Guards
+E 0 9327 0 15 0 100 Spiked forearm plates is loaded on the left wrist of Captain of the Guards
+E 0 9327 0 16 0 100 Spiked forearm plates is loaded on the right wrist of Captain of the Guards
+E 0 9328 0 21 0 100 A combat face plate is loaded on the face of Captain of the Guards
+M 0 9361 1 9361 1 100 Load a Weaponsmith
+M 0 9362 2 9362 2 100 Load Elite Castle Guard
+M 0 9367 2 9367 2 100 Load Lord's Personal Guard
+M 0 9369 1 9369 1 100 Load Lord Nemis
+E 0 9383 0 19 0 100 A black key is loaded held in the hands of Lord Nemis
+M 0 9372 2 9372 2 100 Load Lady's Personal Guard
+M 0 9373 1 9373 1 100 Load Lady's Servent
+M 0 9374 1 9374 1 100 Load Lady
+M 0 9375 2 9375 2 100 Load an Elite Sentry
+M 0 9376 2 9376 2 100 Load an Elite Sentry
+M 0 9377 2 9377 2 100 Load an Elite Sentry
+M 0 9378 2 9378 2 100 Load an Elite Sentry
+M 0 9379 2 9379 2 100 Load an Elite Guard
+M 0 9380 2 9380 2 100 Load an Elite Guard
+M 0 9381 2 9381 2 100 Load an Elite Guard
+M 0 9382 2 9382 2 100 Load the Crypt Guard
+M 0 9384 2 9384 2 100 Load a Villager
+M 0 9386 2 9386 2 100 Load the City Guard
+M 0 9309 1 9389 1 100 Load Glycerine's Shack Guard
+M 0 9390 1 9390 1 100 Load Glycerine
+E 0 9393 0 19 0 100 A white key is loaded held in the hands of Glycerine
+M 0 9391 2 9391 2 100 Load a Black Skelleton
+M 0 9393 3 9393 1 100 Load a Black Demon
+M 0 9393 3 9394 1 100 Load a Black Demon
+M 0 9393 3 9395 1 100 Load a Black Demon
+M 0 9398 1 9398 1 100 Load Ifrit
+E 0 9351 0 0 0 100 A red orb is loaded as a light of Ifrit
+E 0 9352 0 1 0 100 Ifrit's claws is loaded on the left finger of Ifrit
+E 0 9352 0 2 0 100 Ifrit's claws is loaded on the right finger of Ifrit
+E 0 9353 0 3 0 100 The pendant of ifrit is loaded around the neck (1) of Ifrit
+E 0 9353 0 4 0 100 The pendant of ifrit is loaded around the neck (2) of Ifrit
+E 0 9354 0 5 0 100 Red bodyarmor is loaded on the body of Ifrit
+E 0 9355 0 6 0 100 Ifrit's horns is loaded over the head of Ifrit
+E 0 9356 0 7 0 100 Red leg plates is loaded on the legs of Ifrit
+E 0 9357 0 8 0 100 A pair of red boots is loaded on the feet of Ifrit
+E 0 9358 0 9 0 100 A pair of red bone gauntlets is loaded on the hands of Ifrit
+E 0 9359 0 10 0 100 Red arm spines is loaded on the arms of Ifrit
+E 0 9360 0 11 0 100 A red shield is loaded as a shield of Ifrit
+E 0 9361 0 12 0 100 Ifrit's aura is loaded about the shoulders of Ifrit
+E 0 9362 0 13 0 100 A red belt is loaded around the waist of Ifrit
+E 0 9363 0 15 0 100 Forearm spines is loaded on the left wrist of Ifrit
+E 0 9363 0 16 0 100 Forearm spines is loaded on the right wrist of Ifrit
+E 0 9364 0 20 0 100 A fireball is loaded floating nearby of Ifrit
+E 0 9365 0 21 0 100 A red face plate is loaded on the face of Ifrit
+M 0 9399 1 9399 1 100 Load Ancient Demon
+E 0 9330 0 0 0 100 A firey orb is loaded as a light of Ancient Demon
+E 0 9331 0 1 0 100 A fire ring is loaded on the left finger of Ancient Demon
+E 0 9331 0 2 0 100 A fire ring is loaded on the right finger of Ancient Demon
+E 0 9332 0 3 0 100 A firey neckplate is loaded around the neck (1) of Ancient Demon
+E 0 9332 0 4 0 100 A firey neckplate is loaded around the neck (2) of Ancient Demon
+E 0 9333 0 5 0 100 A breastplate of fire is loaded on the body of Ancient Demon
+E 0 9334 0 6 0 100 A helmet of fire is loaded over the head of Ancient Demon
+E 0 9335 0 7 0 100 Leg plates of fire is loaded on the legs of Ancient Demon
+E 0 9336 0 8 0 100 Boots of fire is loaded on the feet of Ancient Demon
+E 0 9337 0 9 0 100 The gauntlets of fire is loaded on the hands of Ancient Demon
+E 0 9338 0 10 0 100 Arm plates of fire is loaded on the arms of Ancient Demon
+E 0 9339 0 11 0 100 The shield of fire is loaded as a shield of Ancient Demon
+E 0 9340 0 12 0 100 Whisps of fire is loaded about the shoulders of Ancient Demon
+E 0 9341 0 13 0 100 The belt of fire is loaded around the waist of Ancient Demon
+E 0 9342 0 15 0 100 Forearm plates of fire is loaded on the left wrist of Ancient Demon
+E 0 9342 0 16 0 100 Forearm plates of fire is loaded on the right wrist of Ancient Demon
+E 0 9343 0 20 0 100 An aura of flame is loaded floating nearby of Ancient Demon
+E 0 9344 0 21 0 100 A face plate of fire is loaded on the face of Ancient Demon
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#9324
+if hasquest $n 4
+mob completequeststep $n 4 1
+tell $n Greetings, i have gotten word that the lady of the castle sent you here
+emote looks you up and down and nods
+tell $n I will read this letter she gave me to you
+emote open a letter and scans it quickly
+tell $n Dear Adventurer, our castle is currentley under siege by a vile demonic shadowspawn and wish for you to destory it for us, i have taking the liberty of informing our librarian to do some reseach so please conslut her before dealing with the demon
+emote crumples up the letter and sets it on fire, then nods slowly
+endif
+~
+#9350
+if hasquest $n 4
+mob completequeststep $n 4 4
+emote stumbles backwards
+tell $n you haven't won yet!!
+growl
+kill $n
+endif
+~
+#9354
+if hasquest $n 4
+mob completequeststep $n 4 2
+emote watches you for a moment then nods going over to a shelf, retrieveing a book and opening it at a nearby table
+tell $n The Lady told me what you looked like
+emote pauses for a second, lost in thought
+tell $n oh yes, this demon that has invaded the Servent's Libary and slaughtered many of the lady's servents is somewhat of an old creation by the forsaken Aginor.
+emote turns the page of the book, scanning it quickly
+tell $n It is a very dangerous Demon and should only be dealt with by an experienced individual.  Apparentley the demon is weak against only one element, cold, all others will do nothing to it's tough hide.
+mob completequeststep $n 4 3
+emote closes the book and nods
+endif
+~
+#9372
+if hasquest $n 4
+if completedstep $n 4 4
+tell $n The Lady sends her thanks and wishes me to give you this as a token of her gratitude
+mob completequeststep 4 5
+emote searches her pockets for something
+if hasquest $n 4
+mob updatequeststatus $n 4 completed
+emote gets something from her pocket
+mob oload 6400
+give coupon $n
+emote nods and turns her back
+else
+if hascompletedquest $n 4
+tell $n you have finished the required task... are you trying to take advantage of the Lady's good natue?
+emote looks at you disgusted
+tell $n get out of here!
+endif
+~
+#9373
+if hascompletedquest $n 4
+tell $n you have finished the required task... are you trying to take advantage of the Lady's good natue?
+emote looks at you disgusted
+tell $n get out of here!
+else
+if hasquest $n 4
+if completedstep $n 4 4
+tell $n The Lady sends her thanks and wishes me to give you this as a token of her gratitude
+mob completequeststep 4 5
+emote searches her pockets for something
+mob updatequeststatus $n 4 completed
+emote gets something from her pocket
+mob oload 6400
+give coupon $n
+emote nods and turns her back
+endif
+endif
+endif
+~
+#9374
+if !hasquest $n 4
+tell $n Hello Brave adventurer, i have a task for you but i cannot say it here as it is unsafe
+emote glances around the room slowly
+tell $n please go visit my Aes Sedai friend who is waiting at the Katar Inn, there you will find out that i want you to do
+emote nods and walks to the other side of the room
+mob addquest $n 4
+tell $n Good Luck and may the Creator shelter you
+endif
+if hascompletedquest $n 4
+tell $n There is no more need for your services
+endif
+if hasquest $n 4
+emote Stares blankly at you
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

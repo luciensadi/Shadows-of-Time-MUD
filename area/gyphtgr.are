@@ -1,0 +1,207 @@
+#AREADATA
+Name QuestDump~
+Builders None~
+VNUMs 15251 15290
+Credits QuestDump~
+Security 10
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#15251
+gypht fire stick~
+`&G`8ypht's `!F`#ire `3St`#i`3ck`7~
+A glowing rod of metal lays in the dust.~
+metal~
+weapon AGd AN
+0
+dagger 10 14 sting ACD
+110 40 1000 P
+A
+13 30
+A
+18 9
+A
+19 9
+A
+20 -3
+A
+17 -15
+ T 0 none~
+#15252
+diem burnt tinfoil~
+`8D`&i`8em's `3B`8u`3r`8n`3t `7T`&i`7nfo`&i`7l~
+A shiney peice of metal lays in the dust.~
+tinfoil~
+armor ABd AJ
+0
+ABCDEF 0 BCG CG 0
+110 10 0 P
+A
+20 -10
+A
+18 5
+A
+19 5
+A
+12 50
+A
+13 15
+ T 0 none~
+#15255
+grave key~
+grave Key~
+A rusted gate key lies here.~
+unknown~
+key b A
+0
+0 0 0 0 0
+110 20 2000 P
+ T 0 none~
+#15261
+headstone~
+headstone of the damned~
+A broken headstone lies here in desolation.~
+stone~
+book CE 0
+0
+0 'reserved' 0 0 0
+75 10 0 P
+ T 0 none~
+#15279
+banshee wail~
+`7Banshee's Wail~
+A cold `8obsidian`7 blade lies here.~
+silver~
+weapon ABIM AN
+0
+dagger 2 74 acbite CH
+110 40 10000 P
+A
+20 -6
+A
+18 9
+A
+17 -9
+A
+19 9
+ T 0 none~
+#15282
+blackwidow web~
+`7Tightly woven spider web~
+A shield made of spider webs lies here.~
+web~
+armor ABGa AJ
+0
+ABF ABF ABF ABF 0
+110 50 1000 P
+A
+18 10
+A
+19 10
+A
+13 15
+A
+17 -10
+ T 0 none~
+#15283
+blackwidow skull helm~
+blackwidow skull helm~
+This skull would make a perfect helm.~
+bone~
+armor ABGY AE
+0
+ACDF ACDF ACDF ACDF 0
+110 50 2000 P
+A
+20 -8
+A
+13 20
+A
+18 8
+A
+19 8
+ T 0 none~
+#15289
+scarab pin~
+`7Scarab Pin~
+The shell of a `$b`7l`&u`8e `$s`7c`&ar`7a`8b`7 lies here.~
+scale~
+armor AB AC
+0
+ABF ABF ABF ABF 0
+110 30 3000 P
+A
+20 -10
+A
+13 30
+A
+17 -10
+A
+18 9
+ T 0 none~
+#15290
+scarab broach~
+`7Scarab Broach~
+The shell of a `$b`7l`&u`8e `$s`7c`&ar`7a`8b`7 lies here.~
+unknown~
+armor AB AC
+0
+ABF ABF ABF ABF 0
+110 30 3000 P
+A
+18 10
+A
+19 10
+A
+13 20
+A
+12 20
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#15251
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

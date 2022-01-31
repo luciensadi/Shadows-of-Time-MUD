@@ -1,0 +1,4640 @@
+#AREADATA
+Name Illian~
+Builders None~
+VNUMs 15601 15899
+Credits `4[`7 None `4]`7 Sera      Illian~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#15601
+Council Member One~
+Council Member One~
+Council Member One looks up to see who has disturbed his study.
+~
+The first council member is a middle aged man, just starting to
+go to paunch. His dark hair is unnaturally dark, leading you to
+believe he uses dye to keep it from going gray.
+~
+illian~
+0 0
+AB 0 0 0 0 -1  -1000 0
+50 35 10d30+2500 40d10+100 2d6+20 wrath
+-10 -10 -10 -10
+EIKN AHZ BL 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#15602
+illianer companion soldier~
+An Illianer Companion Soldier~
+A soldier of the Illianer Companions marches through town.
+~
+This soldier looks young, he must not have been with the Companions
+for very long.
+~
+illian~
+0 0
+A 32768 0 0 0 -1  1000 0
+60 35 10d30+2500 15d9+100 2d7+22 slash
+-10 -10 -10 -10
+CDEIKLU A BJ 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#15603
+commanding general companion~
+The Commanding General~
+The Commanding General of the Illianer Companions looks up in contempt.
+~
+The Commanding General is a middle-aged man, but the years have only
+given him experience and knowledge. He is hard from training, and his
+eyes are sharp.
+~
+illian~
+0 0
+ABFTZ 256 0 0 0 -1  750 0
+120 170 28d10+30000 10d10+10 10d1+200 slice
+-50 -50 -50 -50
+CEFHK 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#15604
+king illian~
+The King of Illian~
+The King of Illian is here, surrounded by his guards.
+~
+The King of Illian is a tall man, who holds himself in a very
+regal manner. He is surrounded by several of his personal guard.
+~
+illian~
+0 0
+A 16640 0 0 0 -1  750 0
+110 150 50d20+30000 10d10+10 10d1+180 thrust
+-50 -50 -50 -50
+FIN ABZ P 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#15605
+king guard~
+One of the King's guard~
+One of the King's guard looks up to see who disturbs the king.
+~
+~
+illian~
+0 0
+AF 256 2048 0 8192 -1  0 0
+120 140 30d10+20000 0d0+0 10d1+170 slice
+-45 -45 -45 -45
+0 AB J 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#15606
+oden apprentice~
+Oden the apprentice~
+Oden, the blacksmith's apprentice, runs up to help you.
+~
+~
+illian~
+0 0
+AB 0 0 0 0 -1  0 0
+0 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 KTZ 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#15607
+wary robber~
+A wary robber~
+A robber is here, wary of all who walk past him.
+~
+~
+illian~
+0 0
+ACS 0 32 0 0 -1  -900 0
+61 85 10d15+7500 1d10+1000 9d11+36 slice
+-49 -50 -49 -50
+BFJK 0 J 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#15608
+ahvan jeweler~
+Ahvan the jeweler~
+Ahvan the jeweler is here, waiting to sell his wares to potential guides.
+~
+~
+illian~
+0 0
+AB 0 0 0 0 -1  0 0
+100 0 10d10+10 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#15609
+lieutenant companion~
+A lieutenant of the Companions~
+A lieutenant of the Illianer Companions marches down the street.
+~
+~
+unique~
+0 0
+A 16640 0 0 0 -1  1000 0
+80 45 10d50+4500 0d0+0 4d7+45 slice
+-20 0 20 -20
+CEU B J 0
+stand stand none 0
+0 0 medium unknown
+#15610
+illian lady snob~
+A snobby Illian lady~
+An Illian lady, her head held haughtily up in the air, walks past you.
+~
+~
+illian~
+0 0
+AH 0 0 0 2 -1  -800 0
+75 45 10d30+5000 0d0+0 3d7+10 scratch
+0 0 0 0
+HKN ABH 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#15611
+king servant~
+A servant to the King~
+A servant to the King of Illian walks quietly through the hall.
+~
+~
+illian~
+0 0
+A 0 2 0 0 -1  500 0
+79 49 50d30+5000 10d10+100 10d10+47 thrust
+-19 -19 -21 -21
+FHI 0 QT 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#15707
+wandering hobo~
+A wandering hobo~
+A wandering hobo walks by with a bottle of ale in hand.
+~
+A wandering hobo walks by, looking for someone willing to spare some money
+with which to buy more ale.
+~
+illian~
+0 0
+A 0 0 0 0 -1  -800 0
+60 55 50d10+10000 10d10+700 10d7+28 pierce
+-35 -35 -35 -30
+FIK L Q 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#15601
+council member one ring~
+an Illian council ring~
+A ring with an inscription reading "Council Member One" has been left here.~
+gold~
+armor ABL AB
+0
+BCE BCE BCE BCE 0
+50 10 500 P
+A
+13 30
+A
+12 10
+A
+20 -3
+A
+19 5
+A
+18 2
+ T 0 none~
+#15602
+illianer companion shield~
+an Illianer Companion shield~
+A large shield belonging to one of the Companions lies here.~
+iron~
+armor 0 AJ
+0
+AE AE AE AE 0
+55 750 1000 P
+A
+17 -15
+A
+20 -2
+A
+13 20
+ T 0 none~
+#15603
+amulet illian~
+the Amulet of Illian~
+The Amulet of Illian, normally worn by the Commanding General, is here.~
+silver~
+armor ABL AC
+0
+BCDE BCDE BCDE BCDE 0
+100 20 6000 P
+A
+13 50
+A
+12 35
+A
+19 4
+A
+18 4
+A
+20 -2
+ T 0 none~
+#15604
+king sceptre~
+the King's Sceptre~
+A sceptre is here, bearing the symbol of Illian.~
+unknown~
+light AB A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 0 3000 P
+A
+19 7
+A
+18 7
+A
+20 -6
+A
+13 40
+ T 0 none~
+#15605
+small torch~
+a small torch~
+A small torch helps illuminate the room.~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+1 0 0 P
+ T 0 none~
+#15606
+cloak companion~
+a cloak of the Illianer Companions~
+A cloak with nine bees arranged in a diamond, the sigil of Illian, lies here.~
+unknown~
+armor K AK
+0
+ADE ADE ADE ADE 0
+80 40 1950 P
+A
+20 -5
+A
+18 4
+A
+19 4
+A
+13 15
+A
+12 15
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#15601
+The Western Entrance of Illian~
+You stand at the western entrance of Illian, just inside the city limits.
+To the west, the Illian road leads back towards Ebou Dar. The city rises up
+out of the marshy grassland that is a trademark of the southern lands. 
+~
+0 0 1
+D1
+~
+~
+0 0 15602
+D3
+~
+~
+0 0 39296
+S
+#15602
+Inside the Western Entrance of Illian~
+Standing just inside Illian's western city limits, the city seems to
+consist of nothing but towers and palaces. Many of them have been built
+by Ogiers over the years, and are a sight unlike any most people have
+ever seen before.
+~
+0 0 1
+D1
+~
+~
+0 0 15603
+D3
+~
+~
+0 0 15601
+S
+#15603
+The West Side of Illian~
+You continue to make your way through the vast city of Illian, which is a
+spectacle to see. Buildings capped with sky high spires dwarf the smaller
+buildings that make up the bulk of Illian. You can easily determine who is
+citizen and who is tourist by those who gawk at the sights around you. 
+~
+0 0 1
+D1
+~
+~
+0 0 15673
+D2
+~
+~
+0 0 15604
+D3
+~
+~
+0 0 15602
+S
+#15604
+The Western Side of Illian~
+As you proceed through Illian, a wide array of scents assault you. The
+city is a major seaport on the Sea of Storms, and you can spell the tangy
+salt water permeating the city, blending with the slightly stagnant scent of
+the marshlands that surround the city. 
+~
+0 0 1
+D0
+~
+~
+0 0 15603
+D2
+~
+~
+0 0 15605
+S
+#15605
+The Western Side of Illian~
+This is the western side of Illian. To the north, you can see a road. To
+the west, that road leads to Ebou Dar, while to the east it leads further
+into the city of Illian. In the tall marsh grass around you, small white
+cranes and large blue cranes with long legs walk about in search of food. 
+~
+0 0 1
+D0
+~
+~
+0 0 15604
+D2
+~
+~
+0 0 15606
+S
+#15606
+The Western Side of Illian~
+Illian is unlike many of the cities in the land in that it has no
+perimeter walls. Its defense is the marshland that spreads out around it,
+deterring most attackers. Once inside the city, though, you realize that is
+where the differences end. Music and laughter float on the air, along with
+the scents of many people packed close together in one area. 
+~
+0 0 1
+D0
+~
+~
+0 0 15605
+D1
+~
+~
+0 0 15607
+S
+#15607
+Harbor Lane~
+You stand at the beginning of Harbor Lane, which leads down towards the
+docks. To your east, you can see the market square of Illian, along with the
+large crowds it tends to attract. 
+~
+0 0 1
+D1
+~
+~
+0 0 15637
+D2
+~
+~
+0 0 15608
+D3
+~
+~
+0 0 15606
+S
+#15608
+Harbor Lane~
+You make your way along Harbor Lane, which runs north and south from
+here. The marsh lands are around you, and birds fly all about. There is a
+good flow of people making their way to and from the docks which lie to the
+south. 
+~
+0 0 1
+D0
+~
+~
+0 0 15607
+D2
+~
+~
+0 0 15609
+S
+#15609
+Harbor Lane~
+From the Harbor Lane, you have a good view of the city of Illian. Pale
+stone towers and palaces rise high above the smaller buildings that surround
+them. Many of the buildings show the unmistakable artistry of Ogier
+craftmanship. 
+~
+0 0 1
+D0
+~
+~
+0 0 15608
+D2
+~
+~
+0 0 15610
+S
+#15610
+Harbor Lane~
+To the west, a sign proclaims one of Illian's many taverns, The Shipyard.
+The doors are held open by bricks to allow the salty breeze in, and the
+crowd is decidably rowdy. The majority are dockworkers and deckhands
+enjoying an ale at the end of their day. 
+~
+0 0 1
+D0
+~
+~
+0 0 15609
+D2
+~
+~
+0 0 15611
+D3
+~
+~
+0 0 15839
+S
+#15611
+Harbor Lane~
+As you make your way through Illian, you can't help but notice the city
+troops that patrol the streets. They wear dark green uniforms, with a patch
+on the left shoulder that has nine golden bees arranged in a diamond. You
+wonder if they might be part of the Illianer Companions. 
+~
+0 0 1
+D0
+~
+~
+0 0 15610
+D2
+~
+~
+0 0 15612
+S
+#15612
+Harbor Lane~
+A set of stairs leads up to one of Illian's many bridges. The bridge
+seems to span the marshy grassland that surrounds Harbor Lane, connecting to
+a small island. Upon a second glance, you can see that a tanning yard has
+taken residence there. 
+~
+0 0 1
+D0
+~
+~
+0 0 15611
+D2
+~
+~
+0 0 15613
+D4
+~
+~
+0 0 15668
+S
+#15613
+Harbor Lane~
+To your south, you can see the docks. The air here is heavy with
+humidity, and the smell of salt is very strong. Deckhands on leave make
+their raucous way towards the Shipyard, a very popular tavern to the north. 
+~
+0 0 1
+D0
+~
+~
+0 0 15612
+D2
+~
+~
+0 0 15614
+S
+#15614
+The Stone Docks of Illian~
+The stone docks of Illian are a wide and impressive expanse. Tall marsh
+grass encircles the harbor, before the waters lead out into the vast Sea of
+Storms. A dozen different types of gulls swoop through the air overhead. 
+~
+0 0 1
+D0
+~
+~
+0 0 15613
+D1
+~
+~
+0 0 15615
+S
+#15615
+The Stone Docks of Illian~
+Massive sea ships lay anchored across the harbor, waiting for their turn
+to dock and unload their cargo, or for the tides to shift so they could head
+back out to sea. You can also see small fishing boats working close to the
+marshes, with nets running out the back. 
+~
+0 0 1
+D1
+~
+~
+0 0 15616
+D3
+~
+~
+0 0 15614
+S
+#15616
+The Stone Docks of Illian~
+The wind carries a strong smell of salt and does very little to break the
+heat. The air is humid and thick, and the sun continues to beat down on you.
+The crew members of the various ships don't seem to take much notice,
+though, continuing on with their work as always. 
+~
+0 0 1
+D1
+~
+~
+0 0 15617
+D3
+~
+~
+0 0 15615
+D4
+~
+~
+0 0 15625
+S
+#15617
+The Stone Docks of Illian~
+Crates and barrels like the docks, ready to be loaded on to the ships in
+the harbor. Other boats are being unloaded, with flasks of alcohol and
+crates carrying tabac. The men working here are brown from the sun. 
+~
+0 0 1
+D1
+~
+~
+0 0 15618
+D3
+~
+~
+0 0 15616
+S
+#15618
+The Stone Docks of Illian~
+You peer out to the harbor, where even more vessels wait for their chance
+to dock, and others wait for the tides to change so they can head back out
+to the Sea of Storms. 
+~
+0 0 1
+D0
+~
+~
+0 0 15848
+D1
+~
+~
+0 0 15619
+D3
+~
+~
+0 0 15617
+S
+#15619
+The Stone Docks of Illian~
+You proceed along the docks, making sure to avoid the boxes that have
+been stacked haphazardly about the place. A set of stairs leads up to a
+tanning yard bridge. 
+~
+0 0 1
+D1
+~
+~
+0 0 15620
+D3
+~
+~
+0 0 15618
+D4
+~
+~
+0 0 15636
+S
+#15620
+The Stone Docks of Illian~
+Dockworkers and deckhands walk past you, burdened with barrels they are
+unloading from one of the ships at dock. The ship they are unloading is
+sleek, and must be extremely fast out on the waters. 
+~
+0 0 1
+D1
+~
+~
+0 0 15621
+D3
+~
+~
+0 0 15619
+S
+#15621
+The Stone Docks of Illian~
+You continue to make your way along the docks, which are made completely
+from stone. A warm breeze ruffles your hair, though it does little to cool
+you off. Glancing over the edge, you can see that the stone goes several
+feet down. 
+~
+0 0 1
+D1
+~
+~
+0 0 15622
+D3
+~
+~
+0 0 15620
+S
+#15622
+The Stone Docks of Illian~
+The docks of Illian are long, but never quite long enough. The city is a
+bustling center, with ships coming and going often. Even in the waning light
+of early evening, there are ships arriving in the harbor to unload freight
+meant for market, and to reload for the next port.
+~
+0 0 1
+D1
+~
+~
+0 0 15623
+D3
+~
+~
+0 0 15621
+S
+#15623
+The Stone Docks of Illian~
+This is the shipyard section of the docks, where vessels of every size
+wait their chance to enter the harbor after being built or refinished.
+They are in every possible stage, from bare skeleton to waiting for the
+last coat of paint before setting sail.
+~
+0 0 1
+D0
+~
+~
+0 0 15663
+D1
+~
+~
+0 0 15624
+D3
+~
+~
+0 0 15622
+S
+#15624
+The Stone Docks of Illian~
+The shipyards end here, as do the stone docks. Several more ships are
+being tended to here, amidst the bustle of the workers. A set of stairs
+leads down to one of Illian's many canals.
+~
+0 0 1
+D3
+~
+~
+0 0 15623
+D5
+~
+~
+0 0 15697
+S
+#15625
+Tanning Yard Bridge~
+You stand at the beginning of one of the tanning yard bridges that spans
+the marshes to connect to the small islands that dot Illian. Carts move past
+you, piled high with leathers to bring to market. 
+~
+0 0 1
+D0
+~
+~
+0 0 15626
+D5
+~
+~
+0 0 15616
+S
+#15626
+Tanning Yard Bridge~
+To your north, you can plainly see one of Illian's many tanning yards,
+for which the city is famous. To the south, the docks can be found, along
+with the traffic that is inherent to the area. 
+~
+0 0 1
+D0
+~
+~
+0 0 15627
+D2
+~
+~
+0 0 15625
+S
+#15627
+Tanning Yard Bridge~
+From where you stand, the bridge heads in two directions, both west and
+south. There is also another set of stairs that lead down to the tanning
+yard on the island. 
+~
+0 0 1
+D2
+~
+~
+0 0 15626
+D3
+~
+~
+0 0 15667
+D5
+~
+~
+0 0 15628
+S
+#15628
+On a Tannery Island~
+You are standing on one of the small islands among the marsh grass where
+one of the many tanneries has set up practice. The smell of leather curing
+itself blends with the already pungeant scent of the marshlands. 
+~
+0 0 1
+D1
+~
+~
+0 0 15629
+D4
+~
+~
+0 0 15627
+S
+#15629
+On a Tannery Island~
+You continue to trek along one of Illian's many tannery islands. The
+entrance to the tannery lies just to the north, where you can see the tanner
+and his apprentices working hard. Illian and its vast numbers of tanneries
+manage to produce more finished leather in a day than many villages can
+produce in a month. 
+~
+0 0 1
+D0
+~
+~
+0 0 15632
+D1
+~
+~
+0 0 15630
+D3
+~
+~
+0 0 15628
+S
+#15630
+On a Tannery Island~
+You make your way across one of the small tannery islands that dot the
+marshlands of Illian. The islands are all very small, spanning only a few
+dozen feet in width and length, but they are the perfect size for the
+tannery buildings, and help keep some of the odors away from the general
+city. 
+~
+0 0 1
+D1
+~
+~
+0 0 15631
+D3
+~
+~
+0 0 15629
+S
+#15631
+On a Tannery Island~
+You stand at the eastern end of one of Illian's many islands. Stairs lead
+up to a bridge that spans one of the city's canals. Tannery workers move
+past you with wheelbarrows stacked high with hides, on their way to market
+to be sold. 
+~
+0 0 1
+D3
+~
+~
+0 0 15630
+D4
+~
+~
+0 0 15634
+S
+#15632
+The Entrance to a Tannery~
+Large double doors mark the entrance to the tannery you stand before. The
+doors are thrown wide open in an attempt to let some air into the hot,
+stuffy building. Fires burn brightly, and animal skins have been hung above
+them to dry out. In the back of the building, you can see the tanner working
+hard. 
+~
+0 0 0
+D1
+~
+~
+0 0 15633
+D2
+~
+~
+0 0 15629
+S
+#15633
+The Back Room of a Tannery~
+You are in the back room of one of Illian's many tanneries. Piles of
+finished leather lay on large tables that have been set up around the room.
+The tanner is poring over one such skin, taking a minute before he even
+notices your presence. 
+~
+0 0 0
+D3
+~
+~
+0 0 15632
+S
+#15634
+Tanning Yard Bridge~
+The tanning yard is down a set of stairs here. The bridge also bends
+east, turning into the Oaks Bridge. The Oaks Bridge leads to the Square of
+Tammaz, where the Council of Nine and the King reside. 
+~
+0 0 1
+D1
+~
+~
+0 0 15666
+D2
+~
+~
+0 0 15635
+D5
+~
+~
+0 0 15631
+S
+#15635
+Tanning Yard Bridge~
+To your north, you can plainly see one of Illian's many tanning yards,
+for which the city is famous. To the south, the docks can be found, along
+with the traffic that is inherent to the area. 
+~
+0 0 1
+D0
+~
+~
+0 0 15634
+D2
+~
+~
+0 0 15636
+S
+#15636
+Tanning Yard Bridge~
+You stand at the beginning of one of the tanning yard bridges that spans
+the marshes to connect to the small islands that dot Illian. Carts move past
+you, piled high with leathers to bring to market. 
+~
+0 0 1
+D0
+~
+~
+0 0 15635
+D5
+~
+~
+0 0 15619
+S
+#15637
+A Small Market Square~
+The road leads both east and west from here. To the east, the market
+square continues, with more shops to choose from. To the west, another road
+is visible that leads south. 
+~
+0 0 1
+D0
+~
+~
+0 0 15669
+D1
+~
+~
+0 0 15638
+D3
+~
+~
+0 0 15607
+S
+#15638
+A Small Market Square~
+You continue to make your way through the heavily crowded market square.
+Kids scurry through the crowd, and you can't help but keep your satchel
+close - you never know if they might be pickpockets. A set of stairs leads
+up to one of Illian's many bridges. 
+~
+0 0 1
+D1
+~
+~
+0 0 15639
+D3
+~
+~
+0 0 15637
+D4
+~
+~
+0 0 15643
+S
+#15639
+A Small Market Square~
+The market square of Illian is small but complete, and well stocked with
+quality goods. To the north, a sign marks the presence of the armourer.
+Several men can be seen inside, trying out different pieces of armor. 
+~
+0 0 1
+D0
+~
+~
+0 0 15820
+D1
+~
+~
+0 0 15640
+D3
+~
+~
+0 0 15638
+S
+#15640
+A Small Market Square~
+The road leads both east and west from where you stand. To the west, the
+market square continues, with more shops to choose from. To the east, the
+road turns into one of Illian's through streets. 
+~
+0 0 1
+D0
+~
+~
+0 0 15678
+D1
+~
+~
+0 0 15641
+D3
+~
+~
+0 0 15639
+S
+#15641
+The Market Lane~
+This is the market lane, which leads into the market square. Women here
+seem to favor wide-brimmed hats that are held in place by scarves they then
+wind about their necks. The men wear long coats with raised collars and
+beards that leave their upper lip bare. 
+~
+0 0 1
+D1
+~
+~
+0 0 15642
+D3
+~
+~
+0 0 15640
+D4
+~
+~
+0 0 15654
+S
+#15642
+The Market Lane~
+The road bends here. To the west, the Market Lane of Illian leads into
+the thriving market square, while to the south, Oaks Road heads toward the
+Square of Tammaz and the palaces of Illian's rulers. 
+~
+0 0 1
+D2
+~
+~
+0 0 15655
+D3
+~
+~
+0 0 15641
+S
+#15643
+Tannery Bridge~
+You walk across the Tannery Bridge, leading to one of the many small
+islands that house Illian's tanneries. The water beneath the bridge is marsh
+water, sluggish and brown. You wonder if it's also been contaminated by the
+solutions used on the island. 
+~
+0 0 1
+D2
+~
+~
+0 0 15644
+D5
+~
+~
+0 0 15638
+S
+#15644
+Tannery Bridge~
+You make your way across the Tannery Bridge, named so for it leads to one
+of Illian's tanneries. The city is famous for the tanneries which product
+some of the finest leather in the land. 
+~
+0 0 1
+D0
+~
+~
+0 0 15643
+D5
+~
+~
+0 0 15645
+S
+#15645
+On a Tannery Island~
+The air feels very damp as you make your way along one of Illian's
+tannery islands. You catch the smell of of mud from the marsh, and the sour
+stink of the tanning yard that lies to the southeast. 
+~
+0 0 1
+D1
+~
+~
+0 0 15646
+D4
+~
+~
+0 0 15644
+S
+#15646
+On a Tannery Island~
+You peer at the tannery that lies to the south, watching men scrape hides
+that have been laid out on large wooden frames. Other men are dunking and
+lifting the hides out of giant, sunken vats. You wrinkle your nose as the
+smell of the vats reaches you. 
+~
+0 0 1
+D1
+~
+~
+0 0 15651
+D2
+~
+~
+0 0 15647
+D3
+~
+~
+0 0 15645
+S
+#15647
+The Entrance to a Tanning Yard~
+You stand at the entrance to one of Illian's tanneries. Men walk past
+you, pushing wheelbarrows stacked with hides. Those hides are then brought
+into here, where they are prepared to be brought into town for market, or to
+be put on one of the boats to be transported to other cities. 
+~
+0 0 1
+D0
+~
+~
+0 0 15646
+D1
+~
+~
+0 0 15650
+D2
+~
+~
+0 0 15648
+S
+#15648
+In the Tanning Yard~
+Here, a large group of men are working on the finishing touches of the
+leather before it's prepared to be sent out to the markets. They are all
+carefully inspecting the hides, looking for imperfections and markings that
+would lessen the amount they draw in. 
+~
+0 0 1
+D0
+~
+~
+0 0 15647
+D1
+~
+~
+0 0 15649
+S
+#15649
+In the Tanning Yard~
+The tanning yard is a large square, filled with vats, tables, and wooden
+frames. Off in the marsh surrounding the island, you can see small fishing
+boats winding their way through the low water. These boats are individually
+owned, nothing compared to the large ships in the harbor. 
+~
+0 0 1
+D0
+~
+~
+0 0 15650
+D3
+~
+~
+0 0 15648
+S
+#15650
+In the Tanning Yard~
+You make your way through the large, square tanning yard. You are amazed
+at the amount of leather you see, and the number of workers that have been
+hired. This is most certainly a large city to be able to support a business
+as big as this one. 
+~
+0 0 1
+D2
+~
+~
+0 0 15649
+D3
+~
+~
+0 0 15647
+S
+#15651
+On a Tannery Island~
+You continue to walk across one of the islands where the tanneries have
+made their homes. There are several of these islands throughout the city,
+and each one is capable of producing more leather in a day than most
+villages could product in an entire month. 
+~
+0 0 1
+D1
+~
+~
+0 0 15652
+D3
+~
+~
+0 0 15646
+S
+#15652
+On a Tannery Island~
+You are at the eastern end of the tannery island. Stairs lead up to the
+bridge that leads across the marshy waters that surround the island.
+Glancing about, you realize there are no trees left on the island. Every
+tree has been chopped down to make room for the tanning yard. 
+~
+0 0 1
+D3
+~
+~
+0 0 15651
+D4
+~
+~
+0 0 15653
+S
+#15653
+Tannery Bridge~
+~
+0 0 0
+D0
+~
+~
+0 0 15654
+D5
+~
+~
+0 0 15652
+S
+#15654
+Tannery Bridge~
+~
+0 0 0
+D2
+~
+~
+0 0 15653
+D5
+~
+~
+0 0 15641
+S
+#15655
+Oaks Road~
+You make your way along Oaks Road, though there are no oak trees to speak
+of lining the road. Many believe the city used to be filled with trees, and
+that the Sea of Storms is encroaching further inland. 
+~
+0 0 1
+D0
+~
+~
+0 0 15642
+D2
+~
+~
+0 0 15656
+S
+#15656
+Oaks Road~
+You proceed along Oaks Road. To your north, the Market Lane is visible,
+along with the large crowd that seems to have taken residence there. You are
+astounded by the amount of people one small area can attract. 
+~
+0 0 1
+D0
+~
+~
+0 0 15655
+D2
+~
+~
+0 0 15657
+S
+#15657
+Oaks Road~
+The road bends here, heading north and east. The way east is nicer - the
+road is more evenly paved and flower beds have been planted and maintained.
+Looking beyond those, you can see two purple roofs rising from the horizon. 
+~
+0 0 1
+D0
+~
+~
+0 0 15656
+D1
+~
+~
+0 0 15658
+S
+#15658
+Oaks Road~
+Beautiful flowers line the road here. To the east is the Square of
+Tammaz, where the King's Palace is located. The city has made sure to have
+only the finest flowers along the road, only befitting a king. A winding set
+of stairs leads up to a bridge. 
+~
+0 0 1
+D1
+~
+~
+0 0 15682
+D3
+~
+~
+0 0 15657
+D4
+~
+~
+0 0 15665
+S
+#15659
+Tanning Yard Bridge~
+You stand at the beginning of one of the tanning yard bridges that spans
+the marshes to connect to the small islands that dot Illian. Carts move past
+you, piled high with leathers to bring to market. 
+~
+0 0 1
+D0
+~
+~
+0 0 15664
+D3
+~
+~
+0 0 15666
+D5
+~
+~
+0 0 15660
+S
+#15660
+A Small Alley~
+~
+0 0 0
+D1
+~
+~
+0 0 15661
+D4
+~
+~
+0 0 15659
+S
+#15661
+A Small Alley~
+~
+0 0 0
+D1
+~
+~
+0 0 15662
+D3
+~
+~
+0 0 15660
+S
+#15662
+A Small Alley~
+The alley bends here, heading both south and west. You begin to feel
+almost claustrophobic in the tight space. Buildings crowd close on either
+side of you, butting up against each other in an attempt to be the
+larger of the two.
+~
+0 0 1
+D2
+~
+~
+0 0 15663
+D3
+~
+~
+0 0 15661
+S
+#15663
+A Small Alley~
+You are just off the stone docks, walking along a small alley that runs
+north and south. The alley is very narrow, with very little light by
+which to see.
+~
+0 0 1
+D0
+~
+~
+0 0 15662
+D2
+~
+~
+0 0 15623
+S
+#15664
+Oaks Bridge~
+The Oaks Bridge has lanterns lining its length, keeping it well lit. The
+light sparkles off the marsh water, making it seem a bit more inviting.
+Though how inviting can marsh water be? 
+~
+0 0 1
+D0
+~
+~
+0 0 15665
+D2
+~
+~
+0 0 15659
+S
+#15665
+Oaks Bridge~
+The Oaks Bridge connects to one of the Tanning Yard Bridges to the south.
+The bridge crosses over the marshy water beneath, just like all the bridges
+that crisscross the city's landscape. 
+~
+0 0 1
+D2
+~
+~
+0 0 15664
+D5
+~
+~
+0 0 15658
+S
+#15666
+Tanning Yard Bridge~
+The marsh water beneath the bridge is thick and brown. Despite this,
+small boats make their way through the area, intent on catching the fish
+that hide from the large fishing vessels that are out on the Sea of Storms. 
+~
+0 0 1
+D1
+~
+~
+0 0 15659
+D3
+~
+~
+0 0 15634
+S
+#15667
+Tanning Yard Bridge~
+The marsh water beneath the bridge is thick and brown. Despite this,
+small boats make their way through the area, intent on catching the fish
+that hide from the large fishing vessels that are out on the Sea of Storms. 
+~
+0 0 1
+D1
+~
+~
+0 0 15627
+D3
+~
+~
+0 0 15668
+S
+#15668
+Tanning Yard Bridge~
+You stand at the beginning of one of the tanning yard bridges that spans
+the marshes to connect to the small islands that dot Illian. Carts move past
+you, piled high with leathers to bring to market. 
+~
+0 0 1
+D1
+~
+~
+0 0 15667
+D5
+~
+~
+0 0 15612
+S
+#15669
+A Small Market Square~
+The quality of craftmanship in the stores of Illian is thus much higher
+than you would find elsewhere. This can be seen by the many lacquered
+coaches with House sigils and sedan chairs that traffic the area. 
+~
+0 0 1
+D0
+~
+~
+0 0 15670
+D1
+~
+~
+0 0 15819
+D2
+~
+~
+0 0 15637
+S
+#15670
+A Small Market Square~
+Illian is a both a major seaport and one of the largest manufacturing
+centers of fine rugs, textiles, and leather goods. To your east, the
+unmistakable aroma of an excellent bakery originates. You debate stopping in
+for a quick snack. 
+~
+0 0 1
+D0
+~
+~
+0 0 15671
+D1
+~
+~
+0 0 15818
+D2
+~
+~
+0 0 15669
+S
+#15671
+A Small Market Square~
+This entrance to the small market square is just off the Illian road,
+which is to your west. The road beneath you is made up of rough, uneven
+paving stones that have only deteriorated with the constant traffic. Carts
+and wagons intermingle with the sedan chairs of Illian's nobility. 
+~
+0 0 1
+D0
+~
+~
+0 0 15672
+D2
+~
+~
+0 0 15670
+D3
+~
+~
+0 0 15673
+S
+#15672
+A Small Market Square~
+You stand at the edge of the market square. There is a set of stairs
+leading down to one of the many canals that crisscross the city. A sign
+nearby warns you to be careful on the stairs, as they are often wet from the
+canalers walking up to drop off their wares. 
+~
+0 0 1
+D2
+~
+~
+0 0 15671
+D5
+~
+~
+0 0 15674
+S
+#15673
+A Side Street in Illian~
+You walk down a short side street that breaks off from the road that
+marks the west side of Illian. To the west, the road leads out to the Illian
+road leading to Ebou Dar. To the east, a small market square is visible. 
+~
+0 0 1
+D1
+~
+~
+0 0 15671
+D3
+~
+~
+0 0 15603
+S
+#15674
+The Market Square Canal~
+Cargo barges fill this narrow canal, bringing product from either side of
+the square. A few smaller passenger boats carry those who wish to avoid
+walking through the market square's crowded roads. 
+~
+0 0 7
+D1
+~
+~
+0 0 15675
+D4
+~
+~
+0 0 15672
+S
+#15675
+The Market Square Canal~
+You make your way across the market square canal in one of the passenger
+boats. The poleman is rather quick, and pushes his way through the crowded
+waterway with ease. You can tell he has quite a bit of experience here. 
+~
+0 0 7
+D1
+~
+~
+0 0 15676
+D3
+~
+~
+0 0 15674
+S
+#15676
+The Market Square Canal~
+The poleman continues to weave his way through the other passenger boats
+and cargo barges that are on the waterway. The market square is on either
+side of the canal, and many use the canal as a quick connection. 
+~
+0 0 7
+D1
+~
+~
+0 0 15677
+D3
+~
+~
+0 0 15675
+S
+#15677
+The Market Square Canal~
+You are at the eastern side of the market square canal. A set of stairs
+leads up to the square, where you can purchase and sell almost any good of
+which you can think. Careful on the steps, though, as they are often
+slippery. 
+~
+0 0 7
+D3
+~
+~
+0 0 15676
+D4
+~
+~
+0 0 15681
+S
+#15678
+A Small Market Square~
+The paving stones beneath you are very rough and uneven. The traffic of
+feet, wagons, and carts has done very little to improve the quality. The
+buildings around you are often pale white and gray, and you can see some
+that bear the distinctive mark of Ogier craftmanship. 
+~
+0 0 1
+D0
+~
+~
+0 0 15679
+D2
+~
+~
+0 0 15640
+S
+#15679
+A Small Market Square~
+The small market square of Illian is full of hustle and bustle. Vendors
+cry out, trying to lure customers into their stores with promises of great
+prices. There is a constant flow of people around you, with a generous mix
+of high born and common folk. 
+~
+0 0 1
+D0
+~
+~
+0 0 15680
+D2
+~
+~
+0 0 15678
+D3
+~
+~
+0 0 15822
+D4
+~
+~
+0 0 15702
+S
+#15680
+A Small Market Square~
+You continue along the market square, carefully avoiding the traffic that
+flows past you. The noble women who walk by you wear decorative slippers
+that are heavily worked with gold and silver, and dresses carefully hemmed
+to make sure everyone sees them. To your west, you see a grocer. 
+~
+0 0 1
+D0
+~
+~
+0 0 15681
+D2
+~
+~
+0 0 15679
+D3
+~
+~
+0 0 15821
+S
+#15681
+A Small Market Square~
+You stand at the edge of the market square, looking down at a set of
+stairs which lead down to one of the many canals that crisscross the city.
+The canalers walk past you with their odd gait, obviously used to being on
+the boats. 
+~
+0 0 1
+D2
+~
+~
+0 0 15680
+D5
+~
+~
+0 0 15677
+S
+#15682
+Oaks Road~
+As you walk along the Oaks Road, the sedan chairs of the commoners give
+way almost exclusively to the coaches of the Houses. You try to glance
+inside one as it passes, curious who might be inside, but the curtain has
+been carefully drawn shut. 
+~
+0 0 1
+D1
+~
+~
+0 0 15683
+D3
+~
+~
+0 0 15658
+S
+#15683
+Oaks Road~
+You are just east of the Square of Tammaz. City troops can be seen more
+frequently, as they make sure to keep the peace this close to the King's
+Palace and the Hall of the Council. 
+~
+0 0 1
+D1
+~
+~
+0 0 15684
+D3
+~
+~
+0 0 15682
+S
+#15684
+The Square of Tammaz~
+You stand at one corner of the Square of Tammaz. The square is several
+hides in extent, and is surrounded by huge columns of marble at least
+fifteen feet tall and two feet thick. At the top of each column, a wreath
+of olive branches sits.
+~
+0 0 1
+D0
+~
+~
+0 0 15685
+D1
+~
+~
+0 0 15695
+D3
+~
+~
+0 0 15683
+D5
+~
+~
+0 0 15698
+S
+#15685
+The Square of Tammaz~
+You walk along the edge of the Square, mesmerized by the beauty of the
+marble columns that surround it. The columns were most certainly built by
+the Ogier of Stedding Shangtai. The Ogier have been responsible for many of
+the buildings in Illian, and their craftmanship is unmistakable. 
+~
+0 0 1
+D0
+~
+~
+0 0 15686
+D2
+~
+~
+0 0 15684
+S
+#15686
+The Square of Tammaz~
+The Great Hall of the Council rises up here on the west. It is a
+magnificent building, only slightly smaller in stature than its twin, the
+King's Palace. The legends say the first King of Illian allowed the council
+to build whatever palace they chose, as long as it remained smaller than his
+own. Thus, they built an exact replica, but two feet smaller in every
+measurement. 
+~
+0 0 1
+D0
+~
+~
+0 0 15687
+D1
+~
+~
+0 0 15696
+D2
+~
+~
+0 0 15685
+D3
+~
+~
+1 0 15731
+S
+#15687
+The Square of Tammaz~
+You walk through the northern half of the Square of Tammaz, looking
+about you as you go, impressed by the sheer magnitude of the area.
+The marble columns loom high overhead, supporting their olive
+wreaths in silence
+~
+0 0 0
+D0
+~
+~
+0 0 15688
+D2
+~
+~
+0 0 15686
+S
+#15688
+The Square of Tammaz~
+This is the northwestern corner of the Square. To the south you
+can see the Great Hall of the Council, opposite the King's
+Palace. There is also a set of stairs leading up to a bridge,
+one of many throughout the city of Illian.
+~
+0 0 0
+D1
+~
+~
+0 0 15689
+D2
+~
+~
+0 0 15687
+D4
+~
+~
+0 0 15703
+S
+#15689
+The Square of Tammaz~
+You continue to make your way around the Square. People in the
+finest silk and linen walk past you, often looking down their nose
+if they see someone wearing something of common nature.
+~
+0 0 0
+D1
+~
+~
+0 0 15690
+D2
+~
+~
+0 0 15696
+D3
+~
+~
+0 0 15688
+S
+#15690
+The Square of Tammaz~
+You stand at the northeastern corner of the Square of Tammaz.
+Tall marble columns surround you, with olive wreathes at the top.
+You look around, taking in the excellent Ogier craftmanship.
+~
+0 0 0
+D2
+~
+~
+0 0 15691
+D3
+~
+~
+0 0 15689
+S
+#15691
+The Square of Tammaz~
+The Square of Tammaz is quite large and impressive.  With the marble
+columns and the King's guards, you feel very much as though you are
+amongst royalty.
+~
+0 0 0
+D0
+~
+~
+0 0 15690
+D2
+~
+~
+0 0 15692
+S
+#15692
+The Square of Tammaz~
+You stand just outside the King's Palace. Guards are posted out front,
+to keep the undesirables from entering. They glance at you, wondering
+if you might just be one of them. You look around, trying to look
+as harmless as possible.
+~
+0 0 0
+D0
+~
+~
+0 0 15691
+D1
+~
+~
+1 0 15770
+D2
+~
+~
+0 0 15693
+D3
+~
+~
+0 0 15696
+S
+#15693
+The Square of Tammaz~
+You continue to make the circuit along the Square of Tammaz. Lacquered
+coaches belonging to members of the various Houses are more prevalent
+here as they visit the King's Palace, or the Council of Nine. Those that
+you can see, wear clothes that put your Sunday best to shame.
+~
+0 0 1
+D0
+~
+~
+0 0 15692
+D2
+~
+~
+0 0 15694
+S
+#15694
+The Square of Tammaz~
+The Square of Tammaz is considered the political center of the city of
+Illian. It is the home of the city's Council and King, and also the spot
+where many took the Hunter's Oath. 
+~
+0 0 0
+D0
+~
+~
+0 0 15693
+D3
+~
+~
+0 0 15695
+S
+#15695
+The Square of Tammaz~
+You are walking along the perimeter of the Square of Tammaz, which is the
+political center of Illian. To the northeast, the King's Palace can be seen,
+while to the northwest, the Great Hall of the Council, the palace's smaller
+twin, rises up. 
+~
+0 0 1
+D0
+~
+~
+0 0 15696
+D1
+~
+~
+0 0 15694
+D3
+~
+~
+0 0 15684
+S
+#15696
+The Center of the Square of Tammaz~
+You stand in the center of the Square of Tammaz. To your west is the
+Great Hall of the Council, while to your east is the King's Palace. Each
+consists of columned walks, airy balconies, and purple roofs, seemingly
+identical in every way. Upon closer inspection, though, you realize the
+Great Hall is slightly smaller in dimension. 
+~
+0 0 1
+D0
+~
+~
+0 0 15689
+D1
+~
+~
+0 0 15692
+D2
+~
+~
+0 0 15695
+D3
+~
+~
+0 0 15686
+S
+#15697
+The Harbor Canal~
+Above you, stairs lead up to the stone docks of Illian. They span several
+yards, and house dozens of ships. There are also shipyards, where the
+vessels are built and repaired. Men and women with rolling gaits move
+awkwardly on land.
+~
+0 0 0
+D0
+~
+~
+0 0 15699
+D4
+~
+~
+0 0 15624
+S
+#15698
+The Harbor Canal~
+The Harbor Canal connects the Square of Tammaz with the docks which are the
+southern section of Illian. The water flows steadily beneath the bridge, on
+its way out the Sea of Storms. Dockhands and merchants make up a large
+portion of the crowd on the bridge, bringing supplies to and from the docks.
+~
+0 0 0
+D2
+~
+~
+0 0 15701
+D4
+~
+~
+0 0 15684
+S
+#15699
+The Harbor Canal~
+~
+0 0 0
+D0
+~
+~
+0 0 15700
+D2
+~
+~
+0 0 15697
+S
+#15700
+The Harbor Canal~
+~
+0 0 0
+D0
+~
+~
+0 0 15701
+D2
+~
+~
+0 0 15699
+D4
+~
+~
+0 0 15710
+S
+#15701
+The Harbor Canal~
+The water flowing beneath the bridge of the Harbor Canal is clean, unlike
+some of the canals in Illian. The currents pull it out to the sea, washing
+away any of the filth that may have been dumped. Other canals are more
+stagnant, and don't have the opportunity to be rinsed clean.
+~
+0 0 0
+D0
+~
+~
+0 0 15698
+D2
+~
+~
+0 0 15700
+S
+#15702
+The Market Bridge~
+Down the set of stairs beneath you, the flow of people on the market
+street goes past. Many carry packages and boxes from the stores. It's
+possible to find almost anything there, from clothes to food to weapons.
+Perhaps you should stock up.
+~
+0 0 0
+D1
+~
+~
+0 0 15704
+D5
+~
+~
+0 0 15679
+S
+#15703
+The Market Bridge~
+You stand above a set a stairs that lead down to the Square of
+Tammaz. To the west, the Market Bridge leads back towards the
+market streets of Illian.
+~
+0 0 0
+D3
+~
+~
+0 0 15709
+D5
+~
+~
+0 0 15688
+S
+#15704
+The Market Bridge~
+People walk past you, on their way to and from the market that lies
+to your west. Beneath you, the marshy waters of Illian churn
+under the bridge. Gulls, which seem to be the unofficial bird
+of the city, swoop close by as they search for food.
+~
+0 0 0
+D2
+~
+~
+0 0 15705
+D3
+~
+~
+0 0 15702
+S
+#15705
+The Market Bridge~
+The bridge continues north and east from here. To the north, it
+leads back towards the market, while to the east it leads to the
+Square of Tammaz. You stop here to lean over the bridge, taking
+in the sight of the muddy water beneath you.
+~
+0 0 0
+D0
+~
+~
+0 0 15704
+D1
+~
+~
+0 0 15706
+S
+#15706
+The Market Bridge~
+The Market Bridge is a long, meandering bridge that connects the
+market streets and the central Square of town together. There are
+many people who take advantage of the shortcut between the two,
+anxious to get their wares and back to town quickly.
+~
+0 0 0
+D1
+~
+~
+0 0 15707
+D3
+~
+~
+0 0 15705
+S
+#15707
+The Market Bridge~
+Glancing down, you see a small fishing boat navigating the marsh
+waters under the bridge. Though there are larger boats that go
+out to sea, there are many smaller boats that take advantage of
+their size to go through the canals of Illian, staying close to
+home.
+~
+0 0 0
+D1
+~
+~
+0 0 15708
+D3
+~
+~
+0 0 15706
+S
+#15708
+The Market Bridge~
+From where you stand, you can see the tops of the marble columns
+that ring the Square of Tammaz. Above those, the rooftops of
+the King's Palace and the Great Hall of the Council rise into the
+air.
+~
+0 0 0
+D1
+~
+~
+0 0 15709
+D3
+~
+~
+0 0 15707
+S
+#15709
+The Market Bridge~
+Walking along the Market Bridge, you can't help but marvel at
+how Illian managed to adapt to the marshlands so well. Many people
+would have given up in despair of ever building a city over the
+dirty waters, but the Illianers have thrived here.
+~
+0 0 0
+D1
+~
+~
+0 0 15703
+D3
+~
+~
+0 0 15708
+S
+#15710
+The Stairs to the Bridge of Flowers~
+These stairs are well-worn, with small dips towards the front where
+feet have gradually smoothed away the stone. Litter clutters the edges
+of the stairs, giving the impression the city of Illian is not all
+that concerned with keeping up appearances here.
+~
+0 0 0
+D4
+~
+~
+0 0 15711
+D5
+~
+~
+0 0 15700
+S
+#15711
+The Bridge of Flowers~
+You stand at the junction of the Bridge of Flowers and the Harbor Canal.
+People walk past you rather quickly, oftentimes avoiding eye contact with
+you. They seem to be in a hurry, and you can't help but wonder why.
+~
+0 0 0
+D1
+~
+~
+0 0 15712
+D5
+~
+~
+0 0 15710
+S
+#15712
+The Bridge of Flowers~
+The Bridge of Flowers connects the Perfumed Quarters to the rest of the
+city of Illian. You would think an area of such lovely names, flowers and
+perfume, would vaguely resemble those names, but that is not the case. The
+canal water beneath you is moving sluggishly, and the smell makes your nose
+crinkle.
+~
+0 0 0
+D1
+~
+~
+0 0 15713
+D3
+~
+~
+0 0 15711
+S
+#15713
+The Bridge of Flowers~
+You stand near the center of the Bridge of Flowers. From here, the smells
+of the Perfumed Quarters are heavy in the air. The smells of pitch and hemp
+waft around you, along with the less savory smell of chamber pots that have
+been emptied into the canal.
+~
+0 0 0
+D1
+~
+~
+0 0 15714
+D3
+~
+~
+0 0 15712
+S
+#15714
+The Bridge of Flowers~
+This is the eastern end of the Bridge of Flowers. Beneath you, stairs lead
+down to the Perfumed Quarters. This is why people were hurrying past you
+when you started up the bridge. The Perfumed Quarters are anything but,
+filled with bad scents and even worse people.
+~
+0 0 0
+D3
+~
+~
+0 0 15713
+D5
+~
+~
+0 0 15715
+S
+#15715
+The Perfumed Quarters~
+The Bridge of Flowers is just above you, heading back into the central
+section of Illian. The Perfumed Quarters is all but cut off from the
+rest of the city, and even the magistrates give this section a wide
+berth. The citizens of the Quarters are left to fend on their own,
+providing they leave their superiors alone.
+~
+0 0 0
+D0
+~
+~
+0 0 15716
+D2
+~
+~
+0 0 15730
+D4
+~
+~
+0 0 15714
+S
+#15716
+The Perfumed Quarters~
+As you make your way along the unevenly paved streets of the Perfumed
+Quarters, you see a sign marking an inn that lies to your east. The
+sign is a white-striped badger dancing with a man carrying a silver
+shovel, and marks the inn known as Easing the Badger.
+~
+0 0 0
+D0
+~
+~
+0 0 15717
+D1
+~
+~
+0 0 15840
+D2
+~
+~
+0 0 15715
+S
+#15717
+The Perfumed Quarters~
+The towers and palaces that make up the central area of Illian are
+here replaced with inns, taverns, and warehouses. The beautiful
+artisanship of the Ogiers gives way to rough stone and unevenly cut
+wood.
+~
+0 0 0
+D0
+~
+~
+0 0 15718
+D2
+~
+~
+0 0 15716
+S
+#15718
+The Perfumed Quarters~
+~
+0 0 0
+D1
+~
+~
+0 0 15719
+D2
+~
+~
+0 0 15717
+S
+#15719
+The Perfumed Quarters~
+~
+0 0 0
+D1
+~
+~
+0 0 15720
+D3
+~
+~
+0 0 15718
+S
+#15720
+The Perfumed Quarters~
+~
+0 0 0
+D1
+~
+~
+0 0 15721
+D3
+~
+~
+0 0 15719
+S
+#15721
+The Perfumed Quarters~
+~
+0 0 0
+D2
+~
+~
+0 0 15722
+D3
+~
+~
+0 0 15720
+S
+#15722
+The Perfumed Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 15721
+D2
+~
+~
+0 0 15723
+S
+#15723
+The Perfumed Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 15722
+D2
+~
+~
+0 0 15724
+S
+#15724
+The Perfumed Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 15723
+D2
+~
+~
+0 0 15725
+S
+#15725
+The Perfumed Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 15724
+D2
+~
+~
+0 0 15726
+S
+#15726
+The Perfumed Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 15725
+D3
+~
+~
+0 0 15727
+S
+#15727
+The Perfumed Quarters~
+~
+0 0 0
+D1
+~
+~
+0 0 15726
+D3
+~
+~
+0 0 15728
+S
+#15728
+The Perfumed Quarters~
+The cobblestone road in the Perfumed Quarters is at best neglected,
+at worst in ruins. Potholes are all about, making a maze for those
+brave enough to enter the Quarters. There are few carriages here, as
+almost everyone prefers to make their way by foot. Never a good idea
+to display too much wealth in the Quarters.
+~
+0 0 0
+D1
+~
+~
+0 0 15727
+D2
+~
+~
+0 0 15851
+D3
+~
+~
+0 0 15729
+S
+#15729
+The Perfumed Quarters~
+Not far to the north, a swinging sign marks the entrance to one of
+the nicer inns in the Quarters, known as Easing the Badger. Of course,
+the inns it compares against are not the finest Illian has to offer.
+~
+0 0 0
+D0
+~
+~
+0 0 15730
+D1
+~
+~
+0 0 15728
+S
+#15730
+The Perfumed Quarters~
+The stench of sour harbor mud drifts in on the winds from the docks
+that lie to southwest. The people who travel along this road are not
+of the highest echelons of society. Most are somewhat grubby, having
+gone a few days between bathing.
+~
+0 0 0
+D0
+~
+~
+0 0 15715
+D2
+~
+~
+0 0 15729
+S
+#15731
+The Entrance to the Great Hall of the Council~
+The entrance to the Great Hall is massive. Marbled floors shine beneath
+your feet, while far above, a giant chandelier of candles twinkles light
+down upon you. A giant staircase can be seen to the west, leading further
+into the Hall. 
+~
+0 0 0
+D0
+~
+~
+0 0 15732
+D1
+~
+~
+1 0 15686
+D2
+~
+~
+0 0 15738
+D3
+~
+~
+0 0 15739
+S
+#15732
+Foyer of the Great Hall~
+You walk along the foyer of the Great Hall. The walls around you are
+covered with parchments detailing the beginning of the city. There are
+details of founding members, along with several that outline the laws of the
+city. 
+~
+0 0 0
+D2
+~
+~
+0 0 15731
+D3
+~
+~
+0 0 15733
+S
+#15733
+The Hallway off the Foyer~
+You walk down the hallway off the foyer. To your west, you notice a large
+door that is kept closed. You imagine the library must be behind that door,
+keeping out the sounds of those who walk the halls. 
+~
+0 0 0
+D1
+~
+~
+0 0 15732
+D2
+~
+~
+0 0 15739
+D3
+~
+~
+1 0 15734
+S
+#15734
+The Library of the Great Hall~
+This is the northern side of the library of the Great Hall of the
+Council. Bookshelves cover the wall from floor to ceiling, and giant ladders
+on wheels can be pushed about to climb up for a book. You cannot believe
+there are so many books in one place. 
+~
+0 0 0
+D1
+~
+~
+1 0 15733
+D2
+~
+~
+0 0 15735
+S
+#15735
+The Library of the Great Hall~
+You stand at the center of the Great Hall's library, amazed at the sheer
+quantity of books to be found. Books are rare treasures, and to see so many
+books in one place is something even rarer to see. 
+~
+0 0 0
+D0
+~
+~
+0 0 15734
+D1
+~
+~
+1 0 15739
+D2
+~
+~
+0 0 15736
+S
+#15736
+The Library of the Great Hall~
+This is the southern side of the library within the Great Hall. Large
+reading tables have been set up at this end of the room, and small lanterns
+placed in the center for reading light. One of the Council sits here,
+studying for a matter brought up for settlement. 
+~
+0 0 0
+D0
+~
+~
+0 0 15735
+D1
+~
+~
+1 0 15737
+S
+#15737
+The Hallway off the Foyer~
+You walk down the hallway off the foyer. To your west, you notice a large
+door that is kept closed. You imagine the library must be behind that door,
+keeping out the sounds of those who walk the halls. 
+~
+0 0 0
+D0
+~
+~
+0 0 15739
+D1
+~
+~
+0 0 15738
+D3
+~
+~
+1 0 15736
+S
+#15738
+Foyer of the Great Hall~
+You walk along the foyer of the Great Hall. The walls around you are
+covered with parchments detailing the beginning of the city. There are
+details of founding members, along with several that outline the laws of the
+city. 
+~
+0 0 0
+D0
+~
+~
+0 0 15731
+D3
+~
+~
+0 0 15737
+S
+#15739
+The Great Hall Stairway~
+You are standing before a large stairway that runs up the center of the
+Great Hall of the Council. It is made from marble, matching the floor
+beneath your feet. Glancing up, you can see that the palace goes up for
+three stories. To the west, a large door can be seen. 
+~
+0 0 0
+D0
+~
+~
+0 0 15733
+D1
+~
+~
+0 0 15731
+D2
+~
+~
+0 0 15737
+D3
+~
+~
+1 0 15735
+D4
+~
+~
+0 0 15740
+S
+#15740
+The Great Hall Stairway~
+You stand on the landing of the second floor of the Great Hall of the
+Council. To your west, you can see a door, while to the east a small
+balcony looks out over the Square of Tammaz.
+~
+0 0 0
+D0
+~
+~
+0 0 15743
+D1
+~
+~
+0 0 15741
+D2
+~
+~
+0 0 15747
+D3
+~
+~
+1 0 15745
+D4
+~
+~
+0 0 15750
+D5
+~
+~
+0 0 15739
+S
+#15741
+The Second Floor Hallway~
+You stand just west of a small balcony that overlooks the Square of
+Tammaz. The doors are open, allowing a breeze into the building. The salty
+smell of the Sea of Storms carries in with it. A planter of flowers stands
+to either side of the balcony doors. 
+~
+0 0 0
+D0
+~
+~
+0 0 15742
+D1
+~
+~
+0 0 15749
+D2
+~
+~
+0 0 15748
+D3
+~
+~
+0 0 15740
+S
+#15742
+The Second Floor Hallway~
+You continue through the hallway of the second floor of the Great Hall of
+the Council. You feel a prickly feeling on the back of your neck, as though
+someone might be watching you. You hope it's just the sea breeze coming in
+from the balcony to your south. 
+~
+0 0 0
+D2
+~
+~
+0 0 15741
+D3
+~
+~
+0 0 15743
+S
+#15743
+The Second Floor Hallway~
+You stand outside one of the studies that belongs to one of the lower
+members of the Council. The higher the member, the higher they are in the
+building. You still feel a bit awed, though. 
+~
+0 0 0
+D1
+~
+~
+0 0 15742
+D2
+~
+~
+0 0 15740
+D3
+~
+~
+1 0 15744
+S
+#15744
+The Study of Council Member One~
+You are standing in the study of the first council member. The room is
+paneled in dark wood, with a large desk in the center of the room. Very
+little decoration is in here. There are a couple of straightback chairs in
+either corner of the front of the room, and a painting of the Sea of Storms
+on one wall. 
+~
+0 0 0
+D1
+~
+~
+1 0 15743
+S
+#15745
+The Study of Council Member Two~
+This is the study of Council Member Two. The room appears to have been
+decorated by the council member's wife. Large vases are filled with flowers,
+and the walls are an airy white. The desk is small and personal, leaving
+room for a comfortable bench covered with floral pillows. 
+~
+0 0 0
+D1
+~
+~
+1 0 15740
+S
+#15746
+The Study of Council Member Three~
+The study which belongs to the third council member is painted a deep
+blue color. A stuffed crane stands in the back corner, surrounded by marsh
+weeds. The desk is made of mahogany, and is covered with papers. The council
+member must be off somewhere, perhaps studying in the library. 
+~
+0 0 0
+D1
+~
+~
+1 0 15747
+S
+#15747
+The Second Floor Hallway~
+You stand in the hallway outside one of the studies of Illian's Council
+members. The hallway is rather bare, with no carpeting laid out on the
+wooden floors. A few paintings dot the walls, but nothing that really
+catches your fancy. 
+~
+0 0 0
+D0
+~
+~
+0 0 15740
+D1
+~
+~
+0 0 15748
+D3
+~
+~
+1 0 15746
+S
+#15748
+The Second Floor Hallway~
+You make your way along the second floor hallway of the Great Hall of the
+Council. Your feet ring on the bare wood floor beneath you, making you
+uncomfortably aware of how quiet the hallway is around you. A few servants
+walk past you, but they have soft slippers on that muffle the footsteps. 
+~
+0 0 0
+D0
+~
+~
+0 0 15741
+D3
+~
+~
+0 0 15747
+S
+#15749
+A Small Balcony~
+You walk out onto a small balcony that overlooks the Square of Tammaz.
+The view from here lets you clearly see the fountain in the center of the
+square, along with the people who walk along the pavement. 
+~
+0 0 0
+D3
+~
+~
+0 0 15741
+S
+#15750
+The Great Hall Stairway~
+You stand on the landing of the third floor of the Great Hall of the
+Council. This floor is slightly nicer than the one below, with rich
+tapestries hanging on the walls. Runner carpets have been laid out
+above the marble.
+~
+0 0 0
+D0
+~
+~
+0 0 15751
+D1
+~
+~
+0 0 15755
+D2
+~
+~
+0 0 15752
+D3
+~
+~
+1 0 15757
+D4
+~
+~
+0 0 15760
+D5
+~
+~
+0 0 15740
+S
+#15751
+The Third Floor Hallway~
+Glancing around, you can see a large oak door to your west, while
+to the south the Great Stairway leads up and down through the Hall.
+Making sure no one is watching, you put an ear up to the door to see
+if you can hear the Council Member inside.
+~
+0 0 0
+D1
+~
+~
+0 0 15756
+D2
+~
+~
+0 0 15750
+D3
+~
+~
+1 0 15758
+S
+#15752
+The Third Floor Hallway~
+You make your way along the hallway on the third floor of the
+Great Hall. To your west, a door can be seen, while the stairway
+that connects each floor is to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 15750
+D1
+~
+~
+0 0 15754
+D3
+~
+~
+1 0 15753
+S
+#15753
+The Study of Council Member Six~
+The study of the sixth council member is rather cluttered. There
+are piles of papers spread throughout the room, and more piled on
+the desk, what little you can see of it. You wonder how the council
+man can think, let alone find his work in this room.
+~
+0 0 0
+D1
+~
+~
+1 0 15752
+S
+#15754
+The Third Floor Hallway~
+The third floor is rather quiet as you walk around its hallways.
+You see an occasional servant scurrying about, quickly putting
+things into order, but they are always very quiet, not even
+responding to your "Hello!"
+~
+0 0 0
+D0
+~
+~
+0 0 15755
+D3
+~
+~
+0 0 15752
+S
+#15755
+The Third Floor Hallway~
+The hallway continues north, west and south from where you stand,
+while a small balcony leads out to the east. The carpets beneath
+your feet are nice but plain. The tapestries on the wall help
+keep the temperature cool, absorbing the cold drafts and hot gusts
+no matter the time of year.
+~
+0 0 0
+D0
+~
+~
+0 0 15756
+D1
+~
+~
+0 0 15759
+D2
+~
+~
+0 0 15754
+D3
+~
+~
+0 0 15750
+S
+#15756
+The Third Floor Hallway~
+The tapestry on the wall here is quite large and ornate. Peering
+closer, you can see the detail given. The tapestry depicts the
+Sea of Storms during a great storm, waves tossing boats about
+while gulls fly desperately towards land.
+~
+0 0 0
+D2
+~
+~
+0 0 15755
+D3
+~
+~
+0 0 15751
+S
+#15757
+The Study of Council Member Five~
+You stand inside the study chambers of the fifth council member. As
+with the hallway, which is slightly nicer than the one below, the
+council members here are slightly more powerful than those who
+take up residence on the second floor. This study is painted a stark
+white, with no paintings adorning the walls. A large black desk is
+against the right wall.
+~
+0 0 0
+D1
+~
+~
+1 0 15750
+S
+#15758
+The Study of Council Member Four~
+You enter the study of council member four, and take a look about
+you. Small bookshelves line one wall, filled with the council
+member's personal books and journals. You gaze in amazement at their
+titles, painfully aware of the wealth that lies before you. Books are
+a rare commodity, and for one person to have so many...
+~
+0 0 0
+D1
+~
+~
+1 0 15751
+S
+#15759
+A Small Balcony~
+You step out onto a small balcony that overlooks the Square
+of Tammaz. You can see people walking about, entering and
+leaving the King's Palace.
+~
+0 0 0
+D3
+~
+~
+0 0 15755
+S
+#15760
+The Great Hall Stairway~
+You stand on the landing of the fourth floor of the Great Hall of the
+Council. This is the nicest floor in the Great Hall, home to the three
+council members with the longest service on the council. Colorful vases
+line the wall, filled with flowers in the heighth of their bloom.
+~
+0 0 0
+D0
+~
+~
+0 0 15761
+D1
+~
+~
+0 0 15766
+D2
+~
+~
+0 0 15762
+D3
+~
+~
+1 0 15764
+D5
+~
+~
+0 0 15750
+S
+#15761
+The Fourth Floor Hallway~
+To your west, you see an ornately carved wooden door. The detail
+is better than you have ever seen, and find yourself wondering
+what craftsman was capable of doing this job.
+~
+0 0 0
+D1
+~
+~
+0 0 15768
+D2
+~
+~
+0 0 15760
+D3
+~
+~
+1 0 15763
+S
+#15762
+The Fourth Floor Hallway~
+Another door lies to your west, hiding what must be a study
+belonging to a council member. You raise your hand as if to
+knock, but stop yourself. Perhaps the council member is busy
+with city matters.
+~
+0 0 0
+D0
+~
+~
+0 0 15760
+D1
+~
+~
+0 0 15769
+D3
+~
+~
+1 0 15765
+S
+#15763
+The Study of Council Member Seven~
+The study you stand inside belongs to Council Member Seven. He is
+one of the longest serving members, and is quite powerful. The room
+is filled with parchments, books, and papers. They are neatly organized
+and labeled by subject. The council member himself sits at his desk, and
+looks at you with undisguised contempt for interrupting him.
+~
+0 4194304 0
+D1
+~
+~
+1 0 15761
+S
+#15764
+The Study of Council Member Eight~
+Glancing about, you take in the study which belongs to the eighth
+council member. Two statues stand in the rear corners, seemingly
+keeping watch over the room, and framing a large window in between
+them. The window looks out over the city of Illian.
+~
+0 0 0
+D1
+~
+~
+1 0 15760
+S
+#15765
+The Study of Council Member Nine~
+This is the final study in the Great Hall, belonging to council
+member nine. The room is dark, curtains having been drawn over the
+windows. A few candles have been lit on the desk, creating a small
+puddle of light in the darkness. You stand still, waiting for your
+eyes to adjust.
+~
+0 0 0
+D1
+~
+~
+1 0 15762
+S
+#15766
+The Fourth Floor Hallway~
+The top floor of the Great Hall is a sight to see, lavishly filled
+with valuables and paintings from throughout the land. Colorful rugs
+muffle your footsteps. You wouldn't want to disturb the three most
+powerful council members as they debate the city's needs.
+~
+0 0 0
+D0
+~
+~
+0 0 15768
+D1
+~
+~
+0 0 15767
+D2
+~
+~
+0 0 15769
+D3
+~
+~
+0 0 15760
+S
+#15767
+A Small Balcony~
+From the top floor balcony, the square beneath you seems smaller than
+it truly is. If it were not for the King's Palace, the Great Hall's twin
+across the way, you would have a spectacular view reaching to the horizon.
+~
+0 0 0
+D3
+~
+~
+0 0 15766
+S
+#15768
+The Fourth Floor Hallway~
+You continue to make your way through the hallway, stopping to peer
+at the tapestries occasionally. The vases are filled with rare
+flowers, all appearing to have just been cut from their stems.
+~
+0 0 0
+D2
+~
+~
+0 0 15766
+D3
+~
+~
+0 0 15761
+S
+#15769
+The Fourth Floor Hallway~
+Walking through the hallway, you pass some of the Hall's servants,
+scurrying about and cleaning. They rarely make eye contact, bowing
+and curtseying deferentially before hurrying on their way.
+~
+0 0 0
+D0
+~
+~
+0 0 15766
+D3
+~
+~
+0 0 15762
+S
+#15770
+The Grand Foyer of the King's Palace~
+You stand in the grand foyer of the King's Palace in Illian. You look
+around you, absolutely stunned by the amount of luxurious items that
+fill the room. Gold and silver has been inlaid into patterns on the wall,
+and Sea Folk vases are everywhere.
+~
+0 0 0
+D0
+~
+~
+0 0 15771
+D1
+~
+~
+0 0 15781
+D3
+~
+~
+1 0 15692
+S
+#15771
+The Grand Hallway~
+Walking along the Grand Hallway that circles the ground floor of the
+King's Palace, you can see the master staircase to your east, connecting
+all four floors of the palace. It is a massive creation of marble,
+seemingly formed from one single piece of stone. There are no visible
+links or cuts, a true masterpiece that could only have been made by
+the Ogier craftsmen.
+~
+0 0 0
+D0
+~
+~
+0 0 15772
+D1
+~
+~
+0 0 15782
+D2
+~
+~
+0 0 15770
+S
+#15772
+The Grand Hallway~
+To the southeast, the master staircase leads up to the other floors
+of the palace. Lush tapestries hang from the wall, depicting famous
+battles and even more famous heroes. Vases filled with flowers that
+all appear to have been freshly cut just minutes ago sit atop ornate
+tables.
+~
+0 0 0
+D0
+~
+~
+0 0 15773
+D2
+~
+~
+0 0 15771
+S
+#15773
+The Grand Hallway~
+Servants in the king's livery pass quietly on their way about the
+palace, busily getting their chores done. They bob their head at you
+in greeting before walking past.
+~
+0 0 0
+D1
+~
+~
+0 0 15774
+D2
+~
+~
+0 0 15772
+S
+#15774
+The Grand Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 15775
+D2
+~
+~
+0 0 15783
+D3
+~
+~
+0 0 15773
+S
+#15775
+The Grand Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 15776
+D2
+~
+~
+0 0 15784
+D3
+~
+~
+0 0 15774
+S
+#15776
+The Grand Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 15777
+D3
+~
+~
+0 0 15775
+S
+#15777
+The Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15776
+D2
+~
+~
+0 0 15778
+D3
+~
+~
+0 0 15784
+S
+#15778
+The Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15777
+D2
+~
+~
+0 0 15779
+S
+#15779
+The Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15778
+D3
+~
+~
+0 0 15780
+S
+#15780
+The Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15785
+D1
+~
+~
+0 0 15779
+D3
+~
+~
+0 0 15781
+S
+#15781
+The Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15782
+D1
+~
+~
+0 0 15780
+D3
+~
+~
+0 0 15770
+S
+#15782
+The Master Staircase~
+~
+0 0 0
+D0
+~
+~
+0 0 15783
+D1
+~
+~
+0 0 15785
+D2
+~
+~
+0 0 15781
+D3
+~
+~
+0 0 15771
+D4
+~
+~
+0 0 15786
+S
+#15783
+The Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15774
+D1
+~
+~
+0 0 15784
+D2
+~
+~
+0 0 15782
+S
+#15784
+~
+~
+0 0 0
+D0
+~
+~
+0 0 15775
+D1
+~
+~
+0 0 15777
+D2
+~
+~
+0 0 15785
+D3
+~
+~
+0 0 15783
+S
+#15785
+~
+~
+0 0 0
+D0
+~
+~
+0 0 15784
+D2
+~
+~
+0 0 15780
+D3
+~
+~
+0 0 15782
+S
+#15786
+The Master Staircase~
+~
+0 0 0
+D1
+~
+~
+0 15801 15801
+D2
+~
+~
+0 0 15795
+D3
+~
+~
+0 0 15797
+D4
+~
+~
+0 0 15802
+D5
+~
+~
+0 0 15782
+S
+#15787
+The Commanding General's Office~
+This office belongs to the Commanding General of the Illianer Companions.
+There are shields and crests on the wall, along with maps of various
+cities throughout the land. A large table fills the center of the room,
+covered with messages from officers.
+~
+0 4194304 0
+D3
+~
+~
+1 0 15798
+S
+#15788
+The Companion Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 15789
+D3
+~
+~
+0 0 15799
+S
+#15789
+The Companion Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 15790
+D2
+~
+~
+0 0 15800
+D3
+~
+~
+0 0 15788
+S
+#15790
+The Companion Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 15791
+D3
+~
+~
+0 0 15789
+S
+#15791
+The Companion Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15790
+D2
+~
+~
+0 0 15792
+S
+#15792
+The Companion Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15791
+D2
+~
+~
+0 0 15793
+D3
+~
+~
+0 0 15801
+S
+#15793
+The Companion Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15792
+D3
+~
+~
+0 0 15794
+S
+#15794
+The Companion Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 15793
+D3
+~
+~
+0 0 15795
+S
+#15795
+The Companion Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15786
+D1
+~
+~
+0 0 15794
+D3
+~
+~
+0 0 15796
+S
+#15796
+The Companion Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15797
+D1
+~
+~
+0 0 15795
+S
+#15797
+The Companion Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15798
+D1
+~
+~
+0 0 15786
+D2
+~
+~
+0 0 15796
+S
+#15798
+The Companion Hallway~
+This floor belongs to the leaders of the Illianer Companions, giving
+them a place to gather and plan accordingly for any situation. To
+your east is the office of the commanding general. Few are allowed
+in that room, and it is best to have good reason before entering
+unannounced.
+~
+0 0 0
+D0
+~
+~
+0 0 15799
+D1
+~
+~
+1 0 15787
+D2
+~
+~
+0 0 15797
+S
+#15799
+The Companion Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 15788
+D2
+~
+~
+0 0 15798
+S
+#15800
+~
+~
+0 0 0
+D0
+~
+~
+0 0 15789
+S
+#15801
+~
+~
+0 0 0
+D1
+~
+~
+0 0 15792
+D3
+~
+~
+0 0 15786
+S
+#15802
+The Master Staircase~
+~
+0 0 0
+D2
+~
+~
+0 0 15805
+D3
+~
+~
+0 0 15803
+D4
+~
+~
+0 0 15823
+D5
+~
+~
+0 0 15786
+S
+#15803
+The Hallway of Judgment~
+~
+0 0 0
+D0
+~
+~
+0 0 15814
+D1
+~
+~
+0 0 15802
+D2
+~
+~
+0 0 15804
+S
+#15804
+The Hallway of Judgment~
+~
+0 0 0
+D0
+~
+~
+0 0 15803
+D1
+~
+~
+0 0 15805
+S
+#15805
+The Hallway of Judgment~
+~
+0 0 0
+D0
+~
+~
+0 0 15802
+D1
+~
+~
+0 0 15806
+D3
+~
+~
+0 0 15804
+S
+#15806
+The Hallway of Judgment~
+~
+0 0 0
+D1
+~
+~
+0 0 15807
+D3
+~
+~
+0 0 15805
+S
+#15807
+The Hallway of Judgment~
+~
+0 0 0
+D0
+~
+~
+0 0 15808
+D3
+~
+~
+0 0 15806
+S
+#15808
+The Hallway of Judgment~
+~
+0 0 0
+D0
+~
+~
+0 0 15809
+D2
+~
+~
+0 0 15807
+S
+#15809
+The Hallway of Judgment~
+~
+0 0 0
+D0
+~
+~
+0 0 15810
+D2
+~
+~
+0 0 15808
+S
+#15810
+The Hallway of Judgment~
+~
+0 0 0
+D2
+~
+~
+0 0 15809
+D3
+~
+~
+0 0 15811
+S
+#15811
+The Hallway of Judgment~
+~
+0 0 0
+D1
+~
+~
+0 0 15810
+D3
+~
+~
+0 0 15812
+S
+#15812
+The Hallway of Judgment~
+~
+0 0 0
+D1
+~
+~
+0 0 15811
+D3
+~
+~
+0 0 15813
+S
+#15813
+The Hallway of Judgment~
+~
+0 0 0
+D1
+~
+~
+0 0 15812
+D2
+~
+~
+0 0 15814
+S
+#15814
+The Hallway of Judgment~
+~
+0 0 0
+D0
+~
+~
+0 0 15813
+D1
+~
+~
+0 0 15815
+D2
+~
+~
+0 0 15803
+S
+#15815
+~
+~
+0 0 0
+D1
+~
+~
+0 0 15816
+D3
+~
+~
+0 0 15814
+S
+#15816
+~
+~
+0 0 0
+D2
+~
+~
+0 0 15817
+D3
+~
+~
+0 0 15815
+S
+#15817
+~
+~
+0 0 0
+D0
+~
+~
+0 0 15816
+S
+#15818
+Illian Market Bakery~
+You walk into the bakery, and immediately your mouth begins to water. The
+air is filled with the tantalizing scents of pastries and delicacies that
+you can only imagine. You quickly walk to the counter to place your order. 
+~
+0 0 0
+D3
+~
+~
+0 0 15670
+S
+#15819
+The Blacksmith~
+The clang of hammer on anvil is unmistakable as you walk into the store
+of Illian's blacksmith. There are weapons hanging from hooks on the wall,
+and shields propped up against the floorboards. The blacksmith's apprentice
+runs up to you to take your order. 
+~
+0 0 0
+D3
+~
+~
+0 0 15669
+S
+#15820
+The Armourer of Illian~
+You step inside the store where Illian's armourer has taken up residence.
+You are astounded by the amount of equipment he has piled up in the small
+store. He has certainly not let one inch of spare space go unused. 
+~
+0 0 0
+D2
+~
+~
+0 0 15639
+S
+#15821
+The Illian Grocer~
+Inside the grocer, the shelves are filled with all sorts of miscelleneous
+goods. Food, lanterns, water jugs all cohabit the same shelves. It's quite a
+mess, but you can see that there are some good finds to be made here. 
+~
+0 0 0
+D1
+~
+~
+0 0 15680
+S
+#15822
+Jewelry of Illian~
+You step inside the store, known simply as Jewelry of Illian. Baubles of
+great detail are kept inside small glass cases. Jewels twinkle as the
+sunlight coming into the store catches their many facets, and prism about
+the room. 
+~
+0 0 0
+D1
+~
+~
+0 0 15679
+S
+#15823
+The Master Staircase~
+~
+0 0 0
+D2
+~
+~
+0 0 15824
+D3
+~
+~
+0 0 15834
+D5
+~
+~
+0 0 15802
+S
+#15824
+The King's Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15823
+D1
+~
+~
+0 0 15825
+D3
+~
+~
+0 0 15835
+S
+#15825
+The King's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 15826
+D3
+~
+~
+0 0 15824
+S
+#15826
+The King's Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15827
+D3
+~
+~
+0 0 15825
+S
+#15827
+The King's Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15828
+D2
+~
+~
+0 0 15826
+S
+#15828
+The King's Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15829
+D2
+~
+~
+0 0 15827
+S
+#15829
+The King's Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 15828
+D3
+~
+~
+0 0 15830
+S
+#15830
+The King's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 15829
+D3
+~
+~
+0 0 15831
+S
+#15831
+The King's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 15830
+D3
+~
+~
+0 0 15832
+S
+#15832
+The King's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 15831
+D2
+~
+~
+0 0 15833
+S
+#15833
+The King's Hallway~
+This is the top floor of the King's Palace, and houses the king's
+personal quarters, which lie behind a large door to your east.
+Perhaps it would be best if you headed back to the master staircase,
+and leave the king alone.
+~
+0 0 0
+D0
+~
+~
+0 0 15832
+D1
+~
+~
+1 0 15836
+D2
+~
+~
+0 0 15834
+S
+#15834
+The King's Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15833
+D1
+~
+~
+0 0 15823
+D2
+~
+~
+0 0 15835
+S
+#15835
+The King's Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 15834
+D1
+~
+~
+0 0 15824
+S
+#15836
+The Entrance to the King's Chambers~
+You stand in the entrance to the king's chambers, about to enter
+his personal rooms. You still have a chance to turn around and
+leave before you disturb him.
+~
+0 0 0
+D1
+~
+~
+0 0 15837
+D3
+~
+~
+1 0 15833
+S
+#15837
+The King's Sitting Room~
+You stand within the king's sitting room, which is a very comfortable
+room from all appearances. Lush couches and chairs have been laid out
+around the room, arranging several different areas. Some are clearly
+intended for entertaining, while others are set apart, perhaps for the
+king to sit and give thought to important decisions.
+~
+0 0 0
+D2
+~
+~
+1 0 15838
+D3
+~
+~
+0 0 15836
+S
+#15838
+The King's Bedroom~
+You have entered the king's bedroom. A large wooden bed has been
+set against the center of the back wall. It is covered with many
+pillows, lined in golden thread. An ornate desk is beneath a
+window, pen and paper laid out for the king.
+~
+0 4194304 0
+D0
+~
+~
+1 0 15837
+S
+#15839
+The Shipyard~
+You step inside the Shipyard, which is a very busy tavern by the look of
+things. Each table is crowded, and the tavern maids look very harried as
+they shuttle from one customer to another. The floor beneath you is covered
+with mud tracked in from the docks. 
+~
+0 0 0
+D1
+~
+~
+0 0 15610
+S
+#15840
+Easing the Badger's Front Room~
+~
+0 0 0
+D0
+~
+~
+0 0 15846
+D1
+~
+~
+0 0 15841
+D3
+~
+~
+0 0 15716
+S
+#15841
+Easing the Badger's Back Room~
+~
+0 0 0
+D2
+~
+~
+0 0 15842
+D3
+~
+~
+0 0 15840
+S
+#15842
+The South Wing~
+~
+0 0 0
+D0
+~
+~
+0 0 15841
+D2
+~
+~
+0 0 15843
+D3
+~
+~
+0 0 15845
+S
+#15843
+The South Wing~
+~
+0 0 0
+D0
+~
+~
+0 0 15842
+D3
+~
+~
+0 0 15844
+S
+#15844
+The Silver Shovel Suite~
+~
+0 0 0
+D1
+~
+~
+0 0 15843
+S
+#15845
+The Badger Suite~
+~
+0 0 0
+D1
+~
+~
+0 0 15842
+S
+#15846
+The North Wing~
+~
+0 0 0
+D1
+~
+~
+0 0 15847
+D2
+~
+~
+0 0 15840
+S
+#15847
+The Game Room~
+~
+0 0 0
+D3
+~
+~
+0 0 15846
+S
+#15848
+The Harbor Master's Office~
+You step into the main room of the Harbor Master's office, which is
+decorated as only a seaman could appreciate. The furniture is made out
+of gray driftwood, which is most uncomfortable to sit in. There are jars
+of seashells around the room, and a stuffed gull sitting proudly on the 
+desk in the center of the room.
+~
+0 0 0
+D1
+~
+~
+0 0 15850
+D2
+~
+~
+0 0 15618
+D3
+~
+~
+0 0 15849
+S
+#15849
+The Harbor Master's Office~
+This is the western wing of the Harbor Master's office. The only piece of
+furniture is a small cot, which has clearly been slept in recently. The
+sheets are a tangled mess. This must be where the harbor master gets a
+few minutes of shuteye in his spare time.
+~
+0 0 0
+D1
+~
+~
+0 0 15848
+S
+#15850
+The Harbor Master's Office~
+You walk into the eastern wing of the Harbor Master's office. A smaller
+desk sits in one corner of the room, while several bookshelves line the
+walls. Piles of papers have been spread everywhere, detailing the arrivals
+and departures of every ship.
+~
+0 0 0
+D3
+~
+~
+0 0 15848
+S
+#15851
+A Ramshackle House~
+This small house is falling apart, appearing ready to collapse at any
+false move. A small bed is thrown on the floor, with some threadbare
+blankets wadded in a ball. The smell of gas is faint, and is likely
+coming from the lantern that sits on the leaning table in the center
+of the room.
+~
+0 0 0
+D0
+~
+~
+0 0 15728
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 15686 3 2
+D 0 15692 1 2
+D 0 15731 1 2
+D 0 15733 3 1
+D 0 15734 1 1
+D 0 15735 1 1
+D 0 15736 1 1
+D 0 15737 3 1
+D 0 15739 3 1
+D 0 15740 3 1
+D 0 15743 3 1
+D 0 15744 1 1
+D 0 15745 1 1
+D 0 15746 1 1
+D 0 15747 3 1
+D 0 15750 3 1
+D 0 15751 3 1
+D 0 15752 3 1
+D 0 15753 1 1
+D 0 15757 1 1
+D 0 15758 1 1
+D 0 15760 3 1
+D 0 15761 3 1
+D 0 15762 3 1
+D 0 15763 1 1
+D 0 15764 1 1
+D 0 15765 1 1
+D 0 15770 3 2
+D 0 15787 3 1
+D 0 15798 1 1
+D 0 15833 1 1
+D 0 15836 3 1
+D 0 15837 2 1
+D 0 15838 0 1
+M 0 15610 1 15608 10 100 Load A snobby Illian lady
+M 0 15707 15 15609 1 100 Load A wandering hobo
+M 0 15602 20 15611 1 100 Load An Illianer Companion Soldier
+M 0 15610 1 15613 10 100 Load A snobby Illian lady
+M 0 15707 15 15617 1 100 Load A wandering hobo
+M 0 15610 1 15621 10 100 Load A snobby Illian lady
+M 0 15609 1 15623 5 100 Load A lieutenant of the Companions
+E 0 15606 0 12 0 100 A cloak of the illianer companions is loaded about the shoulders of A lieutenant of the Companions
+M 0 15707 15 15637 1 100 Load A wandering hobo
+M 0 15610 1 15639 10 100 Load A snobby Illian lady
+M 0 15610 1 15679 10 100 Load A snobby Illian lady
+M 0 15607 15 15683 1 100 Load A wary robber
+M 0 15610 1 15684 10 100 Load A snobby Illian lady
+M 0 15602 20 15686 1 100 Load An Illianer Companion Soldier
+M 0 15610 1 15690 10 100 Load A snobby Illian lady
+M 0 15602 20 15692 1 100 Load An Illianer Companion Soldier
+M 0 15602 20 15694 1 100 Load An Illianer Companion Soldier
+E 0 15602 0 11 0 100 An illianer companion shield is loaded as a shield of An Illianer Companion Soldier
+M 0 15607 15 15699 1 100 Load A wary robber
+M 0 15609 1 15719 5 100 Load A lieutenant of the Companions
+M 0 15607 15 15722 1 100 Load A wary robber
+M 0 15707 15 15722 1 100 Load A wandering hobo
+M 0 15607 15 15725 1 100 Load A wary robber
+M 0 15707 15 15729 1 100 Load A wandering hobo
+M 0 15607 15 15730 1 100 Load A wary robber
+M 0 15601 1 15744 1 100 Load Council Member One
+E 0 15601 0 1 0 100 An illian council ring is loaded on the left finger of Council Member One
+O 0 15605 0 15763 0 100 A small torch loaded to The Study of Council Member Seven
+M 0 15611 1 15774 10 100 Load A servant to the King
+M 0 15603 1 15787 1 100 Load The Commanding General
+E 0 15603 0 3 0 100 The amulet of illian is loaded around the neck (1) of The Commanding General
+M 0 15611 1 15789 10 100 Load A servant to the King
+M 0 15611 1 15795 10 100 Load A servant to the King
+M 0 15611 1 15804 10 100 Load A servant to the King
+M 0 15611 1 15810 10 100 Load A servant to the King
+M 0 15606 1 15819 1 100 Load Oden the apprentice
+M 0 15611 1 15835 10 100 Load A servant to the King
+M 0 15604 1 15838 1 100 Load The King of Illian
+E 0 15604 0 0 0 100 The king's sceptre is loaded as a light of The King of Illian
+M 0 15605 4 15838 4 100 Load One of the King's guard
+M 0 15605 4 15838 4 100 Load One of the King's guard
+M 0 15605 4 15838 4 100 Load One of the King's guard
+M 0 15605 4 15838 4 100 Load One of the King's guard
+S
+
+
+
+#SHOPS
+15606 0 9 0 0 0 100 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

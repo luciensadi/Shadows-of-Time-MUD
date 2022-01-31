@@ -1,0 +1,2689 @@
+#AREADATA
+Name Orsinth~
+Builders Demandred~
+VNUMs 19101 19500
+Credits `4[`7 None `4]`7 Thom/Ish  Orsinth~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#19101
+Innkeeper~
+The Innkeeper~
+The Innkeeper is sitting in her desk, writing something down.
+~
+~
+andor~
+0 0
+ABGZ 112 0 0 0 -1  0 0
+78 0 1d1+999 0d0+0 0d0+0 slap
+0 0 0 0
+0 0 0 0
+rest stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M DELAY 19102 100~
+M GRALL 19101 100~
+#19102
+post guard~
+A guard~
+A guard sits on his hind legs as he peers across the village and the fields.
+~
+~
+andor~
+0 0
+ABGZ 80 0 0 0 -1  0 0
+78 100 1d1+3 0d0+0 1d1+1 slash
+0 0 0 0
+0 AB 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#19103
+traem warder~
+Traem~
+Traem the Warder is here, assigning quests to those who ask for them.
+~
+This man, looks very simple and small in stature.  He quietly writes in a
+very old journal as people quickly approach him and then leave.  He is
+covered in old wool robes, and doesnt appear to be wearing anything to
+extravagant.  
+~
+unique~
+0 0
+ABGad 80 0 0 0 -1  0 0
+100 1 1d1+4000 1d1+1 1d1+1 bite
+0 0 0 0
+0 ABQ 0 0
+stand stand female 0
+0 0 large unknown
+#19104
+Gram~
+Gram~
+Gram, a village citizen stands here, watching everyone.
+~
+~
+andor~
+0 0
+ABGTZe 80 0 0 0 -1  1000 0
+100 1 1d1+4000 0d0+0 1d1+500 bite
+-10 -10 -10 -10
+CEFK ABQ 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+M ACT 19104 bows deeply~
+#19120
+Orsinth Guard~
+An Orsinth Guard~
+A Guard is patrolling the area here
+~
+~
+tarabon~
+0 0
+AGTc 80 0 0 0 -1  1000 0
+50 30 25d15+500 10000d1+0 15d1+6 stab
+0 0 0 0
+CDEFHK AM b P
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 19120 100~
+#19121
+Orsinth Archer~
+An Orsinth Archer~
+An Archer is standing here guarding the area
+~
+~
+tarabon~
+0 0
+AGc 80 64 0 0 -1  1000 0
+46 30 25d16+600 10000d1+0 15d1+6 sting
+0 0 0 1
+FKN ABb E K
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#19122
+Orsinth Swordsman~
+An Orsinth Swordsman~
+A Swordsman is here practicing his forms
+~
+~
+tarabon~
+0 0
+ABGTc 336 64 0 0 -1  1000 0
+50 40 25d20+650 10000d1+0 15d1+10 slash
+0 0 0 0
+CFHIK AB EH 0
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+#19123
+A Orsinth Villager~
+An Orsinth Villager~
+A Villager is standing
+~
+~
+tarabon~
+0 0
+AGc 80 0 0 0 -1  1000 0
+44 30 25d15+400 10000d1+0 15d1+4 punch
+0 0 0 2
+FHK ABN X E
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+#19124
+Orsinth Child~
+An Orsinth Child~
+A Child is playing here
+~
+~
+tarabon~
+0 0
+AGHc 80 0 0 0 -1  1000 0
+40 20 25d15+200 10000d1+0 15d1+0 slap
+2 2 2 5
+FH A L B
+stand stand female 5000
+AHMV ABCDEFGHIJK small unknown
+#19125
+A Dog~
+A Dog~
+A Dog is wandering about here
+~
+~
+dog~
+0 0
+AGc 80 64 0 0 -1  200 0
+45 30 15d25+500 10000d1+0 15d1+5 bite
+0 0 0 2
+FHN A I 0
+stand stand male  10000
+AGV ACDEFHJKUV medium unknown
+#19126
+Orsinth Woman~
+An Orsinth Woman~
+A Woman is standing here looking through a basket
+~
+~
+tarabon~
+0 0
+AGc 80 0 0 0 -1  1000 0
+45 30 25d15+525 10000d1+0 15d1+2 slap
+0 0 0 2
+0 ABP H E
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#19127
+Traveller~
+A Traveller~
+A traveller is standing here taking a short break
+~
+~
+andor~
+0 0
+AGc 80 0 0 0 -1  1000 0
+50 31 25d15+500 10000d1+0 15d1+6 slice
+0 0 0 0
+FGKN AB EK 0
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+#19128
+Orsinth Thief~
+An Orsinth Thief~
+A man is standing in the corner trying not to be seen
+~
+~
+tarabon~
+0 0
+AGSc 80 3 0 0 -1  500 0
+45 30 25d15+500 10000d1+0 15d1+8 stab
+0 0 0 0
+BFHKN ABQ Lb E
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+#19129
+Orsinth Scout~
+an Orsinth Scout~
+A scout is here preparing for his next trip
+~
+~
+tarabon~
+0 0
+AGc 80 1 0 0 -1  1000 0
+45 30 25d15+500 10000d1+0 15d1+5 slice
+0 0 0 0
+FHIK AB EFb R
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#19130
+Orsinth Noble~
+an Orsinth Noble~
+A Noble is walking through here, trying not to touch anything that may get him dirty
+~
+~
+tarabon~
+0 0
+AGc 80 0 0 0 -1  1000 0
+47 31 25d15+500 10000d1+0 15d1+12 blast
+0 0 0 0
+FJK ABNRY EILab H
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+#19446
+Orange vortex cloud~
+a haze of brilliant orange~
+A brilliant cloud of energy floats here, shining in shades of orange.
+~
+The light in the room fades and shimmers, coalescing into a cloud of mist
+in brilliant shades of orange matching those of the walls themselves.  
+~
+unique~
+0 0
+ABFGTZe 49488 80 0 0 -1  1000 0
+775 700 20000d1+200 20000d1+10000 1d1+550 digestion
+-100 -100 -100 -100
+ACDFN ABKN CD I
+stand stand none 50000
+HKc K huge unknown
+#19447
+Green vortex cloud~
+a haze of roiling green energy~
+A roiling mass of energy floats here, sparkling with shades of green.
+~
+The light in the room fades and shimmers, coalescing into a cloud
+roiling in shades of green, matching the walls themselves.  
+~
+unique~
+0 0
+ABFGTZe 336 80 0 0 -1  1000 0
+775 800 25000d1+200 20000d1+10000 1d1+700 slash
+-100 -100 -100 -100
+ACDFKN AB D 0
+stand stand none 70000
+K DK huge unknown
+#19448
+Red vortex cloud~
+a haze of flashing red energy~
+A flashing cloud, vibrant with shades of red drifts here.
+~
+The light in the room fades and shimmers, coalescing into a cloud of in
+flashing shades of red, matching the walls themselves.  
+~
+unique~
+0 0
+ABFGTZe 33104 80 0 0 -1  -1000 0
+775 800 25000d1+200 20000d1+10000 1d1+700 pierce
+-100 -100 -100 -100
+ACDKN ABN C 0
+stand stand none 70000
+K DK huge unknown
+#19449
+yellow cloud vortex~
+a haze of blinding yellow energy~
+A blinding mass of energy floats here, shimmering in shades of yellow.
+~
+The light in the room fades and shimmers, coalescing into a cloud in
+blinding shades of yellow, matching the walls themselves.  
+~
+unique~
+0 0
+ABGTZe 16720 80 0 0 -1  -1000 0
+775 800 27000d1+200 20000d1+10000 1d1+700 stab
+-100 -100 -100 -100
+ACDFKN ABIK D 0
+stand stand none 70000
+K DK huge unknown
+#19450
+Blue vortex cloud~
+a haze of vivid blue~
+A shockingly blue mist gathers here, crackling with energy.
+~
+The light in the room fades and shimmers, coalescing into a cloud of
+energy in vivid shades of blue, matching the walls themselves.  
+~
+unique~
+0 0
+ABFGTZe 16720 80 0 0 -1  1000 0
+775 700 20000d1+200 20000d1+10000 1d1+650 slash
+-100 -100 -100 -100
+ACDFKN ABHKN CD 0
+stand stand none 70000
+K DK huge unknown
+#19492
+malevolence~
+A swirling vortex of malevolence~
+A swirling vortex of malevolence, is floating here.
+~
+You're looking at pure chaos, it is swirling a plethora of different
+colors.  It radiates of pure evil, and seems as if it is slowly growing
+larger.  
+~
+unique~
+0 0
+ABZ 0 0 0 0 -1  -1000 0
+700 600 500d500+1000 500d500+1000 500d500+1000 slash
+-100 -100 -100 -100
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#19499
+TEST~
+TEST~
+TEST
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+1 0 10d10+10 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M GREET 19499 100~
+#19500
+wraith~
+An ethereal wraith~
+A translucent, ethereal wraith is floating here.
+~
+You're looking at a very powerful and strange being, it seems to have a
+very powerful aura radiating around it.  It is completly translucent, but
+strangely enough seems to be peering towards you.  
+~
+unique~
+0 0
+ABRZ 256 96 0 0 -1  1000 0
+700 700 500d500+1000 1d1+14000 500d500+1000 slash
+-500 -500 -500 -500
+0 CD 0 0
+stand stand none 0
+0 0 medium unknown
+M SPEECH 19494 with the rapture comes the end~
+#0
+
+
+
+#OBJECTS
+#19101
+wooden table~
+a wooden table~
+A wooden table gleams with a new finish as the sunlight hits it.~
+oak~
+furniture 0 A
+0
+A EIJKN E CFG CFG
+76 1000 100 P
+O GET 19101 100~
+ T 0 none~
+#19102
+Innkeeper's desk~
+the Innkeeper's desk~
+A large desk sits in the corner, covered in tons of paper and pens.~
+unknown~
+furniture 0 A
+0
+A EGHIJK F CFG CFG
+78 3500 0 P
+ T 0 none~
+#19103
+silver key~
+`7Gram's key~
+A key which belongs to Gram lays here, gleaming brightly.~
+unknown~
+key 0 AO
+0
+0 0 0 0 0
+1 0 0 P
+ T 0 none~
+#19455
+sphere~
+a glowing red sphere~
+A glowing red sphere is floating here.~
+unknown~
+treasure T AP
+0
+0 0 0 0 0
+700 0 0 P
+ T 0 none~
+#19484
+boulder~
+a large grey-boulder~
+A large grey-boulder, is sitting here in the middile of the road.~
+rock~
+furniture 0 A
+0
+0 0 0 0 0
+0 100 0 P
+O GET 19485 100~
+ T 0 none~
+#19495
+tablet~
+an ancient tablet with the words: with the rapture comes the end~
+A worn, and cracked tablet is here on the ground.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#19496
+tablet~
+an ancient tablet with the words: with serenity comes the rapture~
+A worn, and cracked tablet is here on the ground.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#19497
+tablet~
+an ancient tablet with the words: with chaos does come serenity~
+A worn, and cracked tablet is here on the ground.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#19498
+tablet~
+an ancient tablet with the words: with light does come chaos~
+A worn, and cracked tablet is here on the ground.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#19499
+tablet~
+an ancient tablet with the words: with darkness does come light~
+A worn, and cracked tablet is here on the ground.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#19500
+shimmering vortex~
+a shimmering vortex~
+A shimmering vortex of colors and chaos, is floating here.~
+unknown~
+portal A 0
+0
+0 0 0 ABDEFGHIJLO 0
+78 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#19101
+Bella's Room~
+~
+0 138454540 1
+S
+#19102
+Inside the Gate~
+You are on the main road running through the village or Orsinth.  People
+smile with delight as you walk by their dwellings.  The road continues to
+head south but there is a string of buildings on both the east and west side
+of you.  None of them have signs so any one of them is as good a guess as
+the other.  
+~
+0 0 1
+D2
+~
+~
+0 0 19103
+S
+#19103
+The Main Road~
+The road here is made of pure dirt, lacking all rocks and pebbles that
+would make home in most roads.  Each step leaves a perfect foot print behind
+you, unhindered by the soft wind that blows across your face.  
+~
+0 0 1
+D0
+~
+~
+0 0 19102
+D2
+~
+~
+0 0 19104
+S
+#19104
+The Main Road~
+You continue to stroll until you come upon a four-way intersection, east
+and west leading down a small path to a guard's post.  Southward, there is
+another intersection that leads away from the southern path.  The smell of
+flowers and freshly picked fruits fill the air as you walk along.  
+~
+0 0 1
+D0
+~
+~
+0 0 19103
+D1
+~
+~
+0 0 19105
+D2
+~
+~
+0 0 19107
+D3
+~
+~
+0 0 19106
+S
+#19105
+Below the Guard Post~
+You stand below a guard post made of strong wood.  Four posts have been
+planted into the ground where it supports a wooden box on top of it.  There
+is a ladder that trails from the ground up to a small opening in the box. 
+There is someone sitting in the box, apparently humming an old folk tune.  
+~
+0 0 1
+D3
+~
+~
+0 0 19104
+D4
+~
+~
+0 0 19108
+S
+#19106
+Below the Guard Post~
+You stand at the bottom of a guard post.  The post stands atop four
+wooden poles shoved into the ground and secured with rocks around the base. 
+A small ladder leads up into an opening that allows anyone to enter and exit
+the post easily with no trouble.  
+~
+0 0 1
+D1
+~
+~
+0 0 19104
+D4
+~
+~
+0 0 19109
+S
+#19107
+The Main Road~
+The road continues to travel through the heart of Orsinth.  The wind
+keeps your body cool to the touch while the sun shines bright enough to keep
+you warm.  It's the perfect time of the year to be farming and harvesting,
+which is what it seems everyone is doing.  There are baskets sitting outside
+each building that lines the road, each one full to the brim with fruits and
+vegetables.  
+~
+0 0 1
+D0
+~
+~
+0 0 19104
+D2
+~
+~
+0 0 19110
+S
+#19108
+Inside the Watchtower~
+There are little crates that sit in each corner of the watchtower.  All
+but one remain empty as a little man in farm clothes sits on one, peering
+out over the village and fields.  The wind blows softly up here, however,
+stronger than it does on the roads of Orsinth.  
+~
+0 0 0
+D5
+~
+~
+0 0 19105
+S
+#19109
+Inside the Post~
+The view from up here gives a wide range of the village and the
+surrounding fields as far as you can see.  A guard sits not far from you,
+scanning the area for anything, though from what you've heard, nothing has
+attacked this little village since the Trolloc Wars.  
+~
+0 67108864 0
+D5
+~
+~
+0 0 19106
+R GRALL 19109 100~
+S
+#19110
+The Main Road~
+The sounds of a blacksmith can be heard in the distance somewhere. 
+Butterflies emerge from a small patch of grass to the side of the road and
+fly directly over your head, a couple landing on your shoulders.  The wind
+brings a smell of sunflower with it, helping to dry the clothes that hang
+from wires strung between two buildings.  
+~
+0 0 1
+D0
+~
+~
+0 0 19107
+D2
+~
+~
+0 0 19111
+S
+#19111
+The Main Road~
+You stand directly west of The Lonely Peddler.  Nothing seems to move in
+the windows, and the only light coming from the windows is the light that
+shines through from the windows on the opposite side.  The entrance door is
+somewhat cracked open but shut for the most part.  The small crack releases
+small streams of smoke every now and then.  
+~
+0 0 1
+D0
+~
+~
+0 0 19110
+D1
+~
+~
+0 0 19117
+D2
+~
+~
+0 0 19112
+S
+#19112
+The Main Road~
+The wind blows softly across your face, bringing smells of all different
+kinds to your nose.  As you continue to walk, you notice that southward lies
+an intersection.  Trees line the road on both sides, releasing leaves of all
+colors swirling in the air until they come to rest in a pile on the ground. 
+~
+0 0 1
+D0
+~
+~
+0 0 19111
+D2
+~
+~
+0 0 19113
+S
+#19113
+An Intersection~
+You're standing at a fairly large intersection within the village.  There
+is several people wandering the street, and you can hear several street
+vendors shouting their wares, and attempting to sell anything they can.  The
+road is fairly dusty, obviously caused from the heavy traffic that transits
+the road on a normal basis.  
+~
+0 0 1
+D0
+~
+~
+0 0 19112
+D1
+~
+~
+0 0 19114
+D3
+~
+~
+0 0 19142
+S
+#19114
+A Dirt Path~
+This is a very dusty dirt path that twists its way towards the east, and
+back west towards a large intersection.  There are several merchants, and
+commoners strolling the street - producing quite the noise pollution.  
+~
+0 0 1
+D1
+~
+~
+0 0 19115
+D3
+~
+~
+0 0 19113
+S
+#19115
+A Dirt Path~
+This is a very dusty dirt path that twists its way towards the east, and
+back west towards a large intersection.  There are several merchants, and
+commoners strolling the street - producing quite the noise pollution.  
+~
+0 0 1
+D1
+~
+~
+0 0 19116
+D3
+~
+~
+0 0 19114
+S
+#19116
+A Dirt Path~
+You're standing at a bend within the dusty road, it appears to be much
+more quiet on this side of the road, than towards the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 19133
+D3
+~
+~
+0 0 19115
+S
+#19117
+The Steps of The Lonely Peddler~
+You stand before the only Inn in this entire village.  Despite the nice
+weather, there isn't one horse tied up in front of the Inn, revealing the
+vacancy of the common room.  You can smell the strong wafting smell of smoke
+as you get close, it's a nice fresh tabac smell.  
+~
+0 0 1
+D1
+~
+~
+1 0 19118
+D3
+~
+~
+0 0 19111
+S
+#19118
+Corner of the Common Room~
+The name of The Lonely Peddler suggests what the atmosphere is like. 
+Smoke fills the room from the pipe of two men sitting at a table.  The rest
+of the tables remain empty as the Innkeeper works quietly to herself at her
+desk not far from where you stand.  
+~
+0 0 0
+D1
+~
+~
+0 0 19125
+D2
+~
+~
+0 0 19119
+D3
+~
+~
+1 0 19117
+S
+#19119
+The Common Room~
+You stand against the wall of the Common Room.  This room is much like
+the rest of the village, laid back and not too popluated.  The smoke
+amplifies the light that enters through the windows and doorway to your
+north.  However, the brightness breaks off as soon as it hits the center of
+the common room.  
+~
+0 0 0
+D0
+~
+~
+0 0 19118
+D1
+~
+~
+0 0 19126
+D2
+~
+~
+0 0 19120
+S
+#19120
+The Common Room~
+You stand in front of the Inkeeper's desk.  It is made of polished wood
+that gleams with the available sunlight.  A basket sits not far from the
+desk where wads of paper have been discarded or stored.  Conveniently, light
+from one of the windows lands upon the center of her desk, where she sits
+writing for her life.  
+~
+0 0 0
+D0
+~
+~
+0 0 19119
+D1
+~
+~
+0 0 19121
+S
+#19121
+The Common Room~
+Smoke fills your vision as you walk in this portion of the common room. 
+A pipe of some sorts has been dropped and is simply burning the tabac that
+has been left in it's chamber.  There is a window not far from here that
+seems add to the smoke, not clear it out.  
+~
+0 0 0
+D0
+~
+~
+0 0 19126
+D1
+~
+~
+0 0 19122
+D2
+~
+~
+1 0 19115
+D3
+~
+~
+0 0 19120
+S
+#19122
+The Common Room~
+You stand in the southeast corner of the common room.  The atmosphere
+doesn't allow for much excitement, so your best bet would be to either move
+where you stand or sit down.  Standing up causes too much attention,
+attention that can cause too much trouble with the wrong men present.  
+~
+0 0 0
+D0
+~
+~
+0 0 19123
+D3
+~
+~
+0 0 19121
+S
+#19123
+The Common Room~
+As you walk through this portion of the common room, the floor creaks
+with old age and mistreatment.  The floors have not been swept in ages, each
+step leaving a mark in the dust that covers it.  You swerve in between all
+the tables the Innkeeper has set out but aren't in use.  
+~
+0 0 0
+D0
+~
+~
+0 0 19124
+D2
+~
+~
+0 0 19122
+D3
+~
+~
+0 0 19126
+S
+#19124
+The Common Room~
+You stand at the bottom of a staircase that leads up onto a second level
+of the Inn, which quickly leads away, revealing nothing of what lies up
+there.  From here, you can see the whole common room, and all it's
+occupants.  Indeed, the Inn's name suits it indefinitely.  
+~
+0 0 0
+D2
+~
+~
+0 0 19123
+D3
+~
+~
+0 0 19125
+D4
+~
+~
+0 0 19127
+S
+#19125
+The Common Room~
+The light from the windows beams across the room and lands opposite of
+where it enters.  Because of the smoke, the light doesn't spread out but
+rather moves like a spotlight.  People walk by the windows causing the light
+to flicker on and off, giving the room a sort of desolate feel to it.  
+~
+0 0 0
+D1
+~
+~
+0 0 19124
+D2
+~
+~
+0 0 19126
+D3
+~
+~
+0 0 19118
+S
+#19126
+The Common Room~
+You stand in the center of the common room.  The light from the windows
+do not hit as bright as they do anywhere else.  Two men sit at a nearby
+table, discussing the day's happenings or perhaps just making idle talk. 
+You can hear the Innkeeper writing on a piece of paper vigorously from over
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 19125
+D1
+~
+~
+0 0 19123
+D2
+~
+~
+0 0 19121
+D3
+~
+~
+0 0 19119
+S
+#19127
+On the Stairs~
+~
+0 0 0
+D4
+~
+~
+0 0 19128
+D5
+~
+~
+0 0 19124
+S
+#19128
+Above the Stairs~
+~
+0 0 0
+D2
+~
+~
+0 0 19129
+D5
+~
+~
+0 0 19127
+S
+#19129
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 19128
+D1
+~
+~
+0 0 19131
+D2
+~
+~
+0 0 19130
+D3
+~
+~
+0 0 19132
+S
+#19130
+The End of the Hallway~
+~
+0 0 0
+E
+window~
+|--------------------------------------------------------------|
+|                                                              |
+|                                                              |
+|                                                              |
+|        |                                 |                   |
+|       \|/                               \|/                  |
+|       \|/                               \|/                  |
+|       -|=                               -|-                  |
+|        |                                 |                   |
+|        |                                 |                   |
+|        _                                 _                   |
+|                                                              |
+|                                                              |
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+~
+D0
+~
+~
+0 0 19129
+S
+#19131
+An Inn Room~
+~
+0 0 0
+D3
+~
+~
+0 0 19129
+S
+#19132
+An Inn Room~
+~
+0 0 0
+D1
+~
+~
+0 0 19129
+S
+#19133
+A Dirt Path~
+The road begins to curve here, towards the south, there is a few
+commoners and merchants strolling down the street producing the faintest of
+mutters - besides that all that can be heard is the faint breeze that blows
+a few leaves over the dusty surface of the road.  
+~
+0 0 1
+D1
+~
+~
+0 0 19134
+D2
+~
+~
+0 0 19116
+S
+#19134
+At the Stable Doors~
+You stand before the large doors of the Orsinth stable.  It seems that
+the doors were once painted red but seem to have faded with the weather or
+perhaps with just age.  The building itself looks much like a barn but with
+a couple different chimneys to burn off whatever needs to be burned.  It
+seems that it not only has two stories, but is about 3 stories tall.  
+~
+0 0 1
+D1
+~
+~
+1 0 19135
+D3
+~
+~
+0 0 19133
+S
+#19135
+Inside the Stable of The Lonely Peddler~
+~
+0 0 0
+D0
+~
+~
+0 0 19141
+D1
+~
+~
+0 0 19136
+D2
+~
+~
+0 0 19140
+D3
+~
+~
+1 0 19134
+S
+#19136
+The Stable~
+~
+0 0 0
+D0
+~
+~
+0 0 19139
+D1
+~
+~
+0 0 19137
+D2
+~
+~
+0 0 19138
+D3
+~
+~
+0 0 19135
+S
+#19137
+The Stable~
+~
+0 0 0
+D3
+~
+~
+0 0 19136
+S
+#19138
+A Stall~
+~
+0 0 0
+D0
+~
+~
+0 0 19136
+S
+#19139
+A Stall~
+~
+0 0 0
+D2
+~
+~
+0 0 19136
+S
+#19140
+A Stall~
+~
+0 0 0
+D0
+~
+~
+0 0 19135
+S
+#19141
+A Stall~
+~
+0 0 0
+D2
+~
+~
+0 0 19135
+S
+#19142
+A Dirt Path~
+The road begins to broaden here, as it stretches through this village,
+towards the east is a fairly large intersection.  Several merchants, and
+vendors have set up shop here - and are attempting to sell their goods to
+anyone, and everyone.  There is a slight odor of decay, and filth within the
+air, from the constant travel that takes place on this road.  
+~
+0 0 1
+D1
+~
+~
+0 0 19113
+D3
+~
+~
+0 0 19143
+S
+#19143
+A Dirt Path~
+The road begins to broaden here, as it stretches through this village,
+towards the east is a fairly large intersection.  Several merchants, and
+vendors have set up shop here - and are attempting to sell their goods to
+anyone, and everyone.  There is a slight odor of decay, and filth within the
+air, from the constant travel that takes place on this road.  
+~
+0 0 1
+D1
+~
+~
+0 0 19142
+D3
+~
+~
+0 0 19144
+S
+#19144
+The Path to Residential Road~
+You are standing at a point in the road where it seems to curve off a bit
+to the south towards a row of houses on both sides of the road.  Most
+windows and doors on the houses stand open in order to let the normal
+weather of Orsinth blow through to give a country feeling to it.  
+~
+0 0 1
+D1
+~
+~
+0 0 19143
+D2
+~
+~
+0 0 19145
+S
+#19145
+Residential Road~
+~
+0 0 0
+D0
+~
+~
+0 0 19144
+D2
+~
+~
+0 0 19146
+S
+#19146
+Residential Road~
+~
+0 0 0
+D0
+~
+~
+0 0 19145
+D1
+~
+~
+0 0 19147
+D2
+~
+~
+0 0 19151
+D3
+~
+~
+0 0 19149
+S
+#19147
+A Dirt Path~
+~
+0 0 0
+D1
+~
+~
+0 0 19148
+D3
+~
+~
+0 0 19146
+S
+#19148
+A Dirt Path~
+~
+0 0 0
+D3
+~
+~
+0 0 19147
+S
+#19149
+A Dirt Path~
+~
+0 0 0
+D1
+~
+~
+0 0 19146
+D3
+~
+~
+0 0 19150
+S
+#19150
+A Dirt Path~
+~
+0 0 0
+D1
+~
+~
+0 0 19149
+S
+#19151
+Residential Road~
+~
+0 0 0
+D0
+~
+~
+0 0 19146
+D2
+~
+~
+0 0 19152
+S
+#19152
+Residential Road~
+~
+0 0 0
+D0
+~
+~
+0 0 19151
+D1
+~
+~
+0 0 19153
+D3
+~
+~
+0 0 19155
+D5
+~
+hole~
+4 19103 19157
+S
+#19153
+A Dirt Path~
+~
+0 0 0
+D1
+~
+~
+0 0 19154
+D3
+~
+~
+0 0 19152
+S
+#19154
+A Dirt Path~
+~
+0 0 0
+D3
+~
+~
+0 0 19153
+S
+#19155
+A Dirt Path~
+~
+0 0 0
+D1
+~
+~
+0 0 19152
+D3
+~
+~
+0 0 19156
+S
+#19156
+A Dirt Path~
+~
+0 0 0
+D1
+~
+~
+0 0 19155
+S
+#19157
+On the Ladder~
+~
+0 206046208 0
+D4
+~
+hole~
+4 19103 19152
+D5
+~
+~
+0 0 19158
+S
+#19158
+At the Bottom of the Ladder~
+~
+0 206046208 0
+D0
+~
+~
+0 0 19159
+D2
+~
+~
+0 0 19164
+D4
+~
+~
+0 0 19157
+S
+#19159
+Underground Hallway~
+~
+0 208150528 0
+D0
+~
+~
+0 0 19160
+D2
+~
+~
+0 0 19158
+S
+#19160
+Underground Hallway~
+~
+0 208150528 0
+D0
+~
+~
+0 0 19162
+D2
+~
+~
+0 0 19159
+D3
+~
+~
+0 0 19161
+S
+#19161
+A Sleeping Chamber~
+~
+0 208150528 4
+D1
+~
+~
+0 0 19160
+S
+#19162
+Underground Hallway~
+~
+0 208150528 0
+D0
+~
+~
+3 0 19163
+D2
+~
+~
+0 0 19160
+S
+#19163
+The Meeting Chamber~
+~
+0 206578688 0
+D2
+~
+~
+3 0 19162
+S
+#19164
+Underground Hallway~
+~
+0 208150528 0
+D0
+~
+~
+0 0 19158
+D2
+~
+~
+0 0 19165
+S
+#19165
+Underground Hallway~
+~
+0 208150528 0
+D0
+~
+~
+0 0 19164
+D2
+~
+~
+0 0 19166
+D3
+~
+~
+1 0 19167
+S
+#19166
+Chamber of Vision~
+~
+0 206054400 0
+D0
+~
+~
+0 0 19165
+S
+#19167
+Above a Dark Hole~
+~
+0 208150528 0
+D1
+~
+~
+1 0 19165
+D5
+~
+~
+0 0 19168
+S
+#19168
+The Abyss~
+~
+0 138944512 0
+D4
+~
+~
+0 0 19167
+S
+#19446
+Within the Orange Chamber of the Vortex~
+As you look around this chamber, you notice everything is the color of
+bright orange.  It almost hurts your eyes, as you glance around.  The color
+seems to pulse in rhythm with your heart.  
+~
+0 138412032 0
+D4
+~
+~
+4 0 19451
+S
+#19447
+Within the Green Chamber of the Vortex~
+As you look around this chamber, you notice everything is the color of
+bright green.  It almost hurts your eyes, as you glance around.  The color
+seems to pulse in rhythm with your heart.  
+~
+0 138412032 0
+D1
+~
+~
+4 0 19451
+S
+#19448
+Within the Red Chamber of the Vortex~
+As you look around this chamber, you notice everything is the color of
+bright red.  It almost hurts your eyes, as you glance around.  The color
+seems to pulse in rhythm with your heart.  
+~
+0 138412032 0
+D3
+~
+~
+4 0 19451
+S
+#19449
+Within the Yellow Chamber of the Vortex~
+As you look around this chamber, you notice everything is the color of
+bright yellow.  It almost hurts your eyes, as you glance around.  The color
+seems to pulse in rhythm with your heart.  
+~
+0 138412032 0
+D0
+~
+~
+4 0 19451
+S
+#19450
+Within the Blue Chamber of the Vortex~
+As you look around this chamber, you notice everything is the color of
+bright blue.  It almost hurts your eyes, as you glance around.  The color
+seems to pulse in rhythm with your heart.  
+~
+0 138412032 0
+D2
+~
+~
+4 0 19451
+S
+#19451
+Within the Swirling Vortex~
+You're floating within a swirling vortex of a prisim of colors.  There
+appears to be five doors, on each side of the vortex.  It is almost
+impossible for you to keep your balance within the vortex, as the color
+slowly spin.  
+~
+0 0 0
+D0
+~
+blue~
+4 19498 19450
+D1
+~
+red~
+4 19499 19448
+D2
+~
+~
+4 19496 19449
+D3
+~
+~
+4 19497 19447
+D5
+~
+~
+4 19495 19446
+S
+#19452
+The Eternal Malevolence!~
+You have somehow ended up in a swirling vortex of chaos, and fury! 
+Swirling colors slowly enrap you, as you turn rappidly in circles.  All you
+can do is pray that you somehow live through this, and escape this evil
+wrath you have found yourself in.  
+~
+0 144711684 0
+S
+#19453
+In the Hills~
+Vegetation covers most of the hills here, and you note that they are
+becoming somewhat smaller in size as the forest further north slowly gains
+dominion of the land.  Travelling straight north or west from here is
+definitely impossible due to the dense undergrowth of the area.  
+~
+0 0 0
+D1
+~
+~
+0 0 19456
+D2
+~
+~
+0 0 19455
+S
+#19454
+On a Hill~
+Standing at the crest of this large hill, you get a nice view of the
+surrounding area.  Some distance to the north, you see the outskirts of a
+small, light forest, replacing the hilly area that is all around you.  West
+seems to consist mainly of hills and grasslands, while south proves to be
+dominated by plains.  Some distance to the east, you spot something that
+most certainly is the road to northern swamps.  There is only one exit from
+this lofty place, and that is the same way you took to get here.  
+~
+0 0 0
+D5
+~
+~
+0 0 19455
+R GRALL 19454 100~
+S
+#19455
+In the Hills~
+You arrive at the base of a rather large hill.  Climbing it is by all
+means possible, though it would certainly be somewhat tiring.  Further to
+the north you can, when the hills are not obscuring the line of sight, see
+the edge of a forest.  Going east would eventually take you to the road.  
+~
+0 0 0
+D0
+~
+~
+0 0 19453
+D1
+~
+~
+0 0 19457
+D4
+~
+~
+0 0 19454
+S
+#19456
+In the Hills~
+The terrain is getting quite rough here, with a lot of undergrowth
+covering the area.  To go further west from here would be very difficult,
+though you could work your way south and east without too much effort. 
+Northwards, the hills grudgingly decrease in height and number as a thin
+forest gradually claims the land.  
+~
+0 0 0
+D1
+~
+~
+0 0 19459
+D2
+~
+~
+0 0 19457
+D3
+~
+~
+0 0 19453
+S
+#19457
+In the Hills~
+As you walk among these hills, you follow a gully, the only remains of a
+small river that dried out a long time ago.  The gully is gradually erased
+by the wild terrain further west, while it goes on for quite some distance
+eastwards.  Thornbushes and steep hill-sides makes travel south virtually
+impossible, though you could leave the gully to explore the area to the
+north without too much difficulty.  
+~
+0 0 0
+D0
+~
+~
+0 0 19456
+D1
+~
+~
+0 0 19458
+D3
+~
+~
+0 0 19455
+R GRALL 19457 100~
+S
+#19458
+In the Hills~
+Hills stretch in all directions, dotted by bushes and small trees. Once, a
+small river flowed here, but it vanished a long time ago, leaving only a
+dried-out gully as a reminder. Serving as a natural path, the gully leads north
+and west, allowing easy passage through this rather rough terrain.
+~
+0 0 0
+D0
+~
+~
+0 0 19459
+D3
+~
+~
+0 0 19457
+S
+#19459
+In the Hills~
+Hills surround you, though they are quite low and smooth.  You feel that
+it is not too hard to orientate among them, and occasionally you even spot
+the great road to the north woods just east of here.  A bit north of here,
+the hills thin out to give way to a forest, while a dried-out gully can be
+seen to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 19479
+D2
+~
+~
+0 0 19458
+D3
+~
+~
+0 0 19456
+S
+#19460
+Lost in the Hills~
+You wander aimlessly, with a quenched spirit, among the hills.  Great
+boulders lie everywhere, as if they had been carelessly tossed away by some
+enormous giant.  A dense patch of thorny underbrush is visible to the east. 
+With grim determination, you continue your search for escape.  
+~
+0 0 0
+D3
+~
+~
+0 0 19462
+D4
+~
+~
+0 0 19461
+S
+#19461
+At the Top of a Hill~
+After a long climb, you finally reach the top of this large hill.  Spying
+out at the surroundings, you gasp in surprise and relief as you spot the
+road far in the west.  Taking note of the surrounding hills as points of
+reference, you should be able to escape this area without too much
+difficulty.  
+~
+0 0 0
+D2
+~
+~
+0 0 19462
+D3
+~
+~
+0 0 19479
+D5
+~
+~
+0 0 19460
+S
+#19462
+Lost in the Hills~
+Desperately seeking for something that could be a trail, you climb and
+descend countless hills.  Thornbushes tear at your clothing, scratching your
+legs.  The small rocks and pebbles lying around proves to be even more
+troublesome, as they make you slip and fall, sometimes even causing you to
+tumble down the slopes.  
+~
+0 0 0
+D0
+~
+~
+0 0 19461
+D1
+~
+~
+0 0 19460
+D3
+~
+~
+0 0 19463
+S
+#19463
+Wild Hills~
+Now where did the road go?  Looking back, you simply can't see any trace
+of it!  Perhaps you should have trusted your instincts and not let your
+curiousity get the best out of you.  You wander around, trying to get some
+point of reference, but to no avail.  You are utterly lost among these cold,
+dark hills!  
+~
+0 0 0
+D1
+~
+~
+0 0 19462
+D3
+~
+~
+0 0 19464
+S
+#19464
+Wild Hills~
+This certainly is an unfriendly place.  Great hills rise all around you,
+watching you like silent, grim guardians.  Looking over your shoulder, you
+see the road winding its way through the less unsavoury areas to the south
+and west, while heading east would take you further into the hills.  
+~
+0 0 0
+D1
+~
+~
+0 0 19463
+D2
+~
+~
+0 0 19477
+D3
+~
+~
+0 0 19479
+S
+#19465
+At the Base of a Hill~
+The small hill you are facing is covered with small bushes and other
+vegetation.  Looking around, you see a campfire that seems to be fairly
+recent, as well as tracks from wagons and vast number of footprints.  
+~
+0 0 0
+D2
+~
+~
+0 0 19472
+S
+#19466
+Road through Outer Orsinth~
+Along the wide, paved road through outer Orsinth, travel is fast and
+comfort-able.  Dwellings and warehouses line the sides of the road, some as
+many as three stories tall.  Washing hangs to dry in some of the upper
+stories, pointing to the fact that the dwellings are well occupied.  The
+road continues north through outer Orsinth and leads to a tall gate set in
+the wall guarding Orsinth proper to the south.  The woods grows thick to the
+east, and you seem to be able to force your way through the undergrowth
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 19467
+S
+#19467
+Road through Outer Orsinth~
+In this outermost part of Orsinth the number of dwellings decreases,
+compared to other parts of the village.  The buildings look slightly run
+down, and anything taller than two stories is a rarity.  Hazarding a guess,
+one would say that poorer folk live here.  The road itself is still wide and
+smooth, but in some places weeds grow between the paving stones.  To the
+north, the road continues toward the forest, while taller buildings can be
+seen flanking the road not far to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 19468
+D2
+~
+~
+0 0 19466
+S
+#19468
+The Orsinth Road~
+Just outside of Orsinth, this smooth, wide road is in excellent
+condition, perfect for fast travel.  Interlocking, granite paving stones are
+laid in a simple pattern, and not a blade of grass can be seen growing
+between the stones.  To the south, the road continues through the outskirts
+of Orsinth and going north starts the long journey to a swampy forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 19469
+D2
+~
+~
+0 0 19467
+S
+#19469
+The Orsinth Road~
+The settlements gradually, almost reluctantly, give way to the
+wilderness.  The road is in excellent condition, however, free from
+vegetation and apparently well-kept in general.  Looking to the south, you
+can see the silhouette of Orsinth in the distance, while the road north
+leads on towards a swampy forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 19470
+D2
+~
+~
+0 0 19468
+S
+#19470
+The Orsinth Road~
+As you continue your journey, bushes start to flank the road.  You strain
+your eyes to discover what lies further ahead, but all you can see is the
+road stretching through the plains.  
+~
+0 0 0
+D0
+~
+~
+0 0 19471
+D2
+~
+~
+0 0 19469
+S
+#19471
+The Orsinth Road~
+The road continues in a north-south heading, the surroundings showing
+little of interest.  However, peering around you notice a bend in the road
+to the north, going around a small hill.  
+~
+0 0 0
+D0
+~
+~
+0 0 19472
+D2
+~
+~
+0 0 19470
+S
+#19472
+Bend in the Road~
+The road turns here, going south and west, thus evading a small hill to
+the north.  At the base of the hill, the remains of a camp can be discerned,
+probably raised by some small merchant caravan heading south towards
+Orsinth.  
+~
+0 0 0
+D0
+~
+~
+0 0 19465
+D2
+~
+~
+0 0 19471
+D3
+~
+~
+0 0 19473
+S
+#19473
+Beind in the Road~
+Rather abruptly, the road turns in a north-east direction.  To the east
+you spot a small hill.  Heading north would take you, after a tiring
+journey, all the way to a swampy forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 19474
+D1
+~
+~
+0 0 19472
+S
+#19474
+The Orsinth Road~
+Continuing your journey, you see that the terrain is gradually changing. 
+Low, rolling hills bespeak the presence of a wild landscape to the north,
+where the road is forced to make an occasional turn in order to avoid some
+of the more troublesome hills.  Southwards, plains stretch as far as you can
+see.  
+~
+0 0 0
+D0
+~
+~
+0 0 19475
+D2
+~
+~
+0 0 19473
+S
+#19475
+Road through the Hills~
+Small hills cover the area, but due to the excellent condition of the
+road, you are able to travel through this wild land without too much effort.
+The road continues onward in a roughly north-south direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 19476
+D2
+~
+~
+0 0 19474
+S
+#19476
+Road through the Hills~
+As you reach the summit of yet another hill, you peer out at the
+surrounding area.  Orsinth is not visible to the eye, but you estimate the
+villages location to be roughly to the south of you.  North of you, the road
+is forced to make a sharp turn, in order to get by a cluster of wild hills. 
+Even further north, the terrain seems to change into light woods.  
+~
+0 0 0
+D0
+~
+~
+0 0 19477
+D2
+~
+~
+0 0 19475
+S
+#19477
+Twist in the Road~
+Some particularly rough-looking hills forced those who made this road to
+make a turn to the west, going between a number of foreboding ridges.  The
+terrain right to the north is extremely unsavoury-looking, giving the
+impression that one should avoid entering that wild domain, lest one would
+get lost and be forced to wander aimlessly until starvation and dehydration
+would eventually claim the life of the hapless traveller.  
+~
+0 0 0
+D0
+~
+~
+0 0 19464
+D2
+~
+~
+0 0 19476
+D3
+~
+~
+0 0 19478
+S
+#19478
+Bend in the Road~
+Turning and twisting between several hills, the road eventually bends,
+now going east and north.  The village of Orsinth lies to the south, while a
+forest lies to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 19479
+D1
+~
+~
+0 0 19477
+S
+#19479
+Road through the Hills~
+Low, sloping hills form the landscape, covered with bushes and an
+occasional tree.  South of here, the hills become more dominating, hiding
+the road completely from the eye.  The road goes on north, eventually
+entering a light forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 19480
+D1
+~
+~
+0 0 19464
+D2
+~
+~
+0 0 19478
+D3
+~
+~
+0 0 19459
+S
+#19480
+Road at the Edge of the Woods~
+The landscape is becoming more gentle and smooth, with only some small,
+sloping hills as an indication of the more wild terrain south of you.  The
+forest is quite thin here, but seems to thicken further to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 19481
+D2
+~
+~
+0 0 19479
+S
+#19481
+Road through the Light Woods~
+The singing of birds fill the air as you follow the road through this
+sparse forest.  Birch flank the road, some reaching an astounding height. 
+Some of the weeds and smaller trees have been cut down, denying rovers the
+proper foliage to set up an ambush.  
+~
+0 0 0
+D0
+~
+~
+0 0 19482
+D2
+~
+~
+0 0 19480
+S
+#19482
+Road through the Light Woods~
+The air is filled with the fresh, revitilizing scent of this green
+forest.  Although the forest is fairly light, it is filled with small bushes
+and under- growth, making travel beyond the road most difficult.  The road
+continues its long journey, heading on north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 19483
+D2
+~
+~
+0 0 19481
+S
+#19483
+Bend in the Road~
+The road makes yet another turn here, this time in a south-east
+direction.  The woods seem to get somewhat more thick to the south, while
+the edge of the forest seems to be further to the north-east.  
+~
+0 0 0
+D1
+~
+~
+0 0 19484
+D2
+~
+~
+0 0 19482
+S
+#19484
+Turn in the Road~
+The road resumes its heading south by making a gentle turn.  Looking in
+that direction, you see the edge of the woods, while the forest is getting
+slightly more dense in the north-west.  
+~
+0 0 0
+E
+boulder~
+The boulder you're looking at is massive in size, and seems to be smoothe
+to the touch all over.  It is obvious this boulder has been sitting here for
+many ages.  It probably wouldnt be to wise, to try and move it.  
+~
+D0
+~
+~
+0 0 19497
+D3
+~
+~
+0 0 19483
+S
+#19485
+In the Swamps~
+The air is filled with the smell of rotting vegetation, but also with the
+scent of many strange herbs and flowers, only found in swamplands.  Though
+the ground is unstable in many spots, it seems to become more firm to the
+south, as the terrain gradually changes into rough-looking hills.  
+~
+0 0 0
+D0
+~
+~
+0 0 19486
+S
+#19486
+In the Swamps~
+Slushing sound accompany every movement forward as you continue into the
+bog.  Mosses are plentiful here, apparently covering almost every inch of
+the area, including several feet of the trees growing where the ground is
+somewhat more solid.  Travelling north would take you into an area that
+seems to be completely flooded, leaving an uneasy impression, while south of
+here the terrain seem to be more safe for travel, though by no means
+pleasant.  
+~
+0 0 0
+D0
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19485
+D3
+~
+~
+0 0 19487
+S
+#19487
+In the Swampy Woods~
+The terrain is gradually turning from forest into swamplands.  Mosses
+cover the area and tall, old trees flank you as you carefully work your way
+through the woods.  Looking around, you see the fens stretch in all
+directions, except for to the west, where the ground seems to become
+somewhat more dry.  
+~
+0 0 0
+D0
+~
+~
+0 0 19489
+D1
+~
+~
+0 0 19486
+S
+#19488
+In the Deadly Quagmire~
+Suddenly the ground seems to collapse, causing you to slowly sink beneath its
+surface. As muddy waters enter your lungs, darkness fall upon you, and you are
+slowly drawn down to a watery grave.
+~
+0 8388608 0
+D0
+~
+~
+0 0 19492
+D2
+~
+~
+0 0 19486
+D3
+~
+~
+0 0 19489
+R GRALL 19490 100~
+S
+#19489
+In the Swamps~
+Mosses cover the soaked ground, concealing less firm spots that could
+prove to become deadly traps.  Stagnant water spread to the east, where even
+the trees have great difficulties growing, while south of here the ground
+turns more firm and the vegetation becomes somewhat more dense.  
+~
+0 0 0
+D0
+~
+~
+0 0 19491
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19487
+S
+#19490
+In the Deadly Quagmire~
+Suddenly the ground seems to collapse, causing you to slowly sink beneath
+its surface.  As muddy waters enter your lungs, darkness fall upon you, and
+you are slowly drawn down to a watery grave.  
+~
+0 8388608 0
+D3
+~
+~
+0 0 19492
+R GRALL 19490 100~
+S
+#19491
+In the Swamps~
+Finding safe places in which to travel is not an easy task in these
+marshes, the ground repeatedly giving way under your weight.  The trees
+surrounding you adds more uneasiness, as they seem to reach out for you,
+enraged by the trespassing into their domain.  Further to east, these trees
+grow less numerous as the swamp reluctantly changes into ground more
+suitable for travel, while south of here, the fens continue.  
+~
+0 0 0
+D1
+~
+~
+0 0 19492
+D2
+~
+~
+0 0 19489
+S
+#19492
+At the Edge of the Swamps~
+Gloomy trees flank you at the edge of these swamps.  They dwindle in
+number further north, being unable to grow in the watery area created by the
+stream soaking the terrain.  Passage here is quite difficult and perhaps
+even outright dangerous, if care is not taken.  
+~
+0 0 0
+D0
+~
+~
+0 0 19493
+D1
+~
+~
+0 0 19490
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19491
+S
+#19493
+At the End of the Stream~
+Drenched by the waters of the stream flowing in from the west, this area
+is covered with all sorts of moss.  Little else grow here, except for a few
+scrawny bushes and trees.  Apart from following the stream west, the only
+safe passage seems to be southwards, where the swamps truly begins.  
+~
+0 0 0
+D2
+~
+~
+0 0 19492
+D3
+~
+~
+0 0 19494
+S
+#19494
+By the Small Stream~
+The stream grows more shallow as it enters from the west, growing wider
+and soaking the banks with its waters.  Eventually, it vanishes completely
+further to the east, as it adds its water to an already swampy area.  
+~
+0 0 0
+D1
+~
+~
+0 0 19493
+D3
+~
+~
+0 0 19495
+S
+#19495
+By the Small Stream~
+The shallow stream flows on, leaving the bridge to the west and runs on
+in a roughly eastern direction.  High slopes flank the waters, and while the
+southern elevation is not particularily steep, it is far too muddy to climb.
+~
+0 0 0
+D1
+~
+~
+0 0 19494
+D3
+~
+~
+0 0 19496
+S
+#19496
+Under the Bridge~
+An old trail winds its way down to end under this small bridge, at the
+edge of the stream.  Standing here, you feel a chill in the air, as if
+someone is aware of your presence and watching your every move.  This place
+brings to mind the bedtime stories of creatures lurking below ancient
+bridges, demanding the lives of the travellers crossing them.  However, the
+merry chatter of the stream quickly banishes such dark thoughts.  
+~
+0 0 0
+D1
+~
+~
+0 0 19495
+D4
+~
+~
+0 0 19498
+S
+#19497
+Road through the Edge of the Woods~
+Some small clusters of trees herald the presence of a light forest
+further to the south.  The road continues to wind towards the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 19498
+D2
+~
+~
+0 0 19484
+S
+#19498
+At the Small Bridge~
+A small bridge, built in granite, spans over a lively stream.  The bridge
+is old, its stones have taken on a dark hue from years of exposure, but it
+seems to be well-kept and looks sturdy.  You spot a small trail leading down
+to the shallow waters below.  
+~
+0 0 0
+D0
+~
+~
+0 0 19499
+D2
+~
+~
+0 0 19497
+D5
+~
+~
+0 0 19496
+S
+#19499
+Bend in the Road~
+The road bends in a south-east direction here.  East, the road makes yet
+another turn, resuming its course north, while south of here an old bridge
+can be seen, crossing a stream.  
+~
+0 0 8
+D1
+~
+~
+0 0 19500
+D2
+~
+~
+0 0 19498
+S
+#19500
+Standing at the End of the Road~
+The road makes a sudden turn here, and then comes to an abrubt stop. 
+There is several large logs, that have been cut down, and rocks blocking the
+way to the north.  It is obvious that someone doesnt want you travelling in
+that direction.  
+~
+0 0 8
+D3
+~
+~
+0 0 19499
+S
+#0
+
+
+
+#SPECIALS
+M 19103 spec_questmaster
+M 19120 spec_patrolman
+M 19121 spec_guard
+M 19128 spec_thief
+M 19446 spec_breath_any_but_acid
+M 19447 spec_breath_any_but_acid
+M 19449 spec_breath_any_but_acid
+M 19450 spec_breath_any_but_acid
+S
+
+
+
+#RESETS
+D 0 19117 1 1
+D 0 19118 3 1
+D 0 19121 2 2
+D 0 19134 1 1
+D 0 19135 3 1
+D 0 19152 5 2
+D 0 19157 4 2
+D 0 19162 0 1
+D 0 19163 2 1
+D 0 19165 3 1
+D 0 19167 1 1
+D 0 19446 4 2
+D 0 19447 1 2
+D 0 19448 3 2
+D 0 19449 0 2
+D 0 19450 2 2
+D 0 19451 0 2
+D 0 19451 1 2
+D 0 19451 2 2
+D 0 19451 3 2
+D 0 19451 5 2
+M 0 19102 1 19109 1 100 Load A guard
+M 0 19101 1 19120 1 100 Load The Innkeeper
+O 0 19102 0 19120 0 100 The innkeeper's desk loaded to The Common Room
+O 0 19101 0 19124 0 100 A wooden table loaded to The Common Room
+M 0 19104 1 19152 1 100 Load Gram
+E 0 19103 0 9 0 100 `7gram's key is loaded on the hands of Gram
+M 0 19103 1 19166 1 100 Load Traem
+M 0 19446 1 19446 1 100 Load a haze of brilliant orange
+M 0 19447 1 19447 1 100 Load a haze of roiling green energy
+M 0 19448 1 19448 1 100 Load a haze of flashing red energy
+M 0 19450 1 19450 1 100 Load a haze of vivid blue
+M 0 19492 1 19452 1 100 Load A swirling vortex of malevolence
+O 0 19484 0 19484 0 100 A large grey-boulder loaded to Turn in the Road
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#19101
+~
+#19102
+say Delay worked bitch
+~
+#19104
+mob delay 1
+say Very well, you have been granted permission.
+say Please enter quickly.
+unlock down
+open down
+mob delay 2
+close down
+lock down
+~
+#19120
+emote studys you for a few seconds then continues on patrol
+~
+#19487
+say Yes, With darkness does come light!
+~
+#19494
+say YES!!!!!!
+say With the rapture comes the end!!!!!
+emote tilts back its head, and cackles viciously!
+mob oload 19500
+mob echo A shimmering vortex spins into existence.
+~
+#19495
+say Yes! With serenity comes the rapture!
+~
+#19496
+say Yes! With chaos does come serenity!
+~
+#19497
+say Yes! with light does come chaos!
+~
+#19498
+emote shakes it's head slowly, and them emits a low blood-curdling scream!
+say That was not the correct answer!
+peer $n
+mob transfer $n flesh statue
+mob echo $n disappears into a swirling vortex!
+~
+#19499
+if isfollow $n
+say I would accept an answer from your group leader.
+else
+emote nods it's head slowly, and emits a soft sigh.
+say Excellent. I knew you would choose wisely. You see, I have
+say found myself trapped within this realm of yours, and it seems
+say if I have no escape. Though, it was once said in the old times
+say of five ancient tablets that were placed on both sides of the
+say wheel. Five in my realm, and five in yours - if you can assist
+say me in finding the five ancient tablets within your realm, and
+say assist me in getting home, then I will reward you all greatly.
+break
+endif
+~
+#19500
+if isfollow $n
+feafe
+else
+say Greetings, I assume you're here to assist me?
+break
+done
+~
+#0
+
+#OBJPROGS
+#19101
+obj echo $n holds the table for a few seconds but grimaces in pain.
+obj force $n drop table
+~
+#19102
+if carries $q table
+obj echo TEST!
+obj echoat %i attempts to lift the table or something.
+force $q drop table
+force $q drop all.table
+obj forget $q
+~
+#19484
+~
+#19485
+obj echo $n attempts to lift a large grey-boulder, but ends up pulling a muscle!
+obj damage $n 500 500 lethal
+obj force $n drop boulder
+~
+#0
+
+#ROOMPROGS
+#19109
+room echoat $n `6As you enter the Guard Post, the wind begins to blow softly.`7
+~
+#19454
+room echoat $n Vicious ghastly winds, quickly sweep you off the hill!
+room transfer $n 19457
+~
+#19457
+room echoat $n Ouch! Large thorns from the bushes, tear away at your flesh viciously!
+room damage all 100 100 lethal
+~
+#19490
+room echoat $n The ground slowly begins to shift under your feet as you enter the quagmire!
+~
+#19500
+~
+#0
+
+#$

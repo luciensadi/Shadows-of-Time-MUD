@@ -1,0 +1,2557 @@
+#AREADATA
+Name Aiel Guild Area~
+Builders None~
+VNUMs 800 899
+Credits `4[`2GUILD `4] `7Thom      Aiel Safe~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#800
+Wise One~
+A Wise One~
+A Wise One is here, offering any help she can to the hurt.
+~
+God, Aiel Wise One's really are hot.
+~
+unique~
+0 0
+ABGUa 80 0 0 0 -1  0 0
+100 2000 1499d1+1 1000d1+10000 100d1+10000 flame
+-800 -800 -800 -800
+0 ABCDZ 0 0
+stand stand female 0
+0 0 medium unknown
+M ACT 899 bow~
+#801
+Erith Ogier~
+Ogier Erith~
+An Ogier girl stands here, testing her healing powers.
+~
+This ogier girl has tufts of hair sprouting from here ears and eyebrows. 
+She look big but claims to be really young, altough you thought you heard
+her say 75.  
+~
+unique~
+0 0
+ABGUa 0 0 0 0 -1  0 0
+100 2000 999d1+1 1000d1+10000 100d1+10000 flame
+-800 -800 -800 -800
+0 ABCD 0 0
+stand stand female 0
+0 0 medium unknown
+#802
+snake~
+A snake~
+A snake lifts it's head from a deep slumber, hissing violently.
+~
+~
+tear~
+0 0
+ABRT 0 1024 0 0 -1  -1000 0
+140 45 12d12+3800 12d12+400 50d1+0 pierce
+0 0 0 0
+0 AB HJP 0
+stand stand male  1200
+AHMV ABCDEFGHIJK medium unknown
+#803
+brown lizard~
+A brown lizard~
+A brown lizard squirms out of a hole, looking for sanctuary.
+~
+~
+tear~
+0 0
+ABRT 0 1024 0 0 -1  -1000 0
+145 45 12d12+3900 12d12+400 50d1+0 pierce
+0 0 0 0
+0 AB HJP 0
+stand stand male  1200
+AHMV ABCDEFGHIJK medium unknown
+#804
+Aielman~
+An aielman~
+An Aielman stands here, lounging in his tent.
+~
+This man is wearing brown and green clothes, making him blend in with the
+tent and area surrounding you.  
+~
+unique~
+0 0
+AB 0 80 0 0 -1  -1000 0
+150 75 100d50+15000 0d0+0 5d4+90 pierce
+-130 -130 -130 -130
+0 0 J 0
+stand stand none 1000
+0 0 huge unknown
+#805
+Ogier man~
+An Ogier man~
+An Ogier man stands here selling his goods and wares.
+~
+This is a walking gambler!  Simply give him 50 gold and chance your luck
+against a bag full of prizes.  Prizes include: 
+ 
+Jehannah Longsword
+A Restring Coupon
+A leather bracelet
+A 36 chambers ring
+A pile of trash
+A Holy Grail
+and a pot pie
+~
+unique~
+0 0
+ABG 336 64 0 8 -1  0 0
+77 150 10d1+20000 0d0+0 10d1+190 slice
+-500 -500 -500 -500
+0 CD 0 0
+stand stand none 0
+0 0 giant unknown
+M BRIBE 802 5000~
+#806
+Taril young woman~
+Taril~
+A beautiful woman is here, with a notepad in hand.
+~
+~
+andor~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 804 come~
+#807
+dirt bike~
+a dirt bike~
+A dirt bike is here, being ridden.
+~
+~
+andor~
+0 0
+AD 0 0 0 0 -1  0 0
+100 0 1d1+4000 0d0+0 1d1+1 flame
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#808
+gai'shan sparring partner~
+Gai'shan Sparring Partner~
+A sparring partner is here.
+~
+~
+wolf~
+0 0
+ABTUZe 320 80 0 1 -1  0 0
+1 1000 1d1+31999 0d0+0 0d0+0 none
+0 0 0 0
+FHR CDE 0 0
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+#809
+chief sparring partner~
+Chief sparring partner~
+A chief sparring partner is here.
+~
+~
+aiel~
+0 0
+ABTe 320 1104 0 32769 -1  0 0
+60 800 25000d1+3000 30000d5+5000 1d1+0 none
+-4 -4 -4 -4
+FHU CD 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#810
+Tzika~
+Tzika~
+Tzika is here helping plan stuff.
+~
+~
+aiel~
+0 0
+ABGJKYZae 336 32768 0 0 -1  0 0
+175 0 1d1+1 1d1+1 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#897
+stedding guard~
+stedding guard~
+The stedding guard is here chewing on a splinter of wood.
+~
+~
+giant~
+0 0
+ABQZae 1360 1024 0 1 -1  1000 0
+300 202 5000d10+10000 3000d5+5000 75d50+1 grep
+-90 -90 -90 -90
+BCFH AGIKOV EHIJQVb HJP
+stand stand female 0
+AGHMV ABCDEFGHIJKQV large unknown
+M ACT 898 nod~
+#898
+stedding watchman~
+stedding watchman~
+The stedding watchman stands here looking out across the Waste.
+~
+~
+giant~
+0 0
+ABQZe 1360 9280 0 1 -1  1000 0
+300 175 5000d10+10000 3000d5+5000 50d50+50 grep
+-110 -110 -110 -110
+BCEFH AEGIKOVb IJQVb 0
+stand stand female 0
+AGHMV ABCDEFGHIJKQV large unknown
+F res H
+F vul JP
+#899
+Shaido Aiel~
+A Shaido Aielman~
+A Shaido Aielman raises his spear as soon as he sees you.
+~
+Blah!
+teehee
+~
+unique~
+0 0
+ABGST 256 2128 0 0 -1  0 0
+150 200 10d1+30000 10d1+20000 10d1+170 pierce
+-150 -150 -150 -150
+0 BH 0 E
+stand stand male  0
+0 0 giant unknown
+#0
+
+
+
+#OBJECTS
+#800
+aielman's veil~
+an Aielman's veil~
+A black veil lays here, glowing with a soft aura.~
+black stuff~
+armor AB AR
+0
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+20 -5
+A
+13 35
+A
+18 5
+A
+19 5
+A
+1 3
+A
+17 -10
+ T 0 none~
+#801
+aielman's cadin'sor~
+an Aielman's cadin'sor~
+A pile of green and brown clothes lay on the floor here, obviously forgotten.~
+unknown~
+armor B AD
+0
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+13 80
+A
+12 35
+A
+20 -5
+ T 0 none~
+#802
+trash~
+a pile of trash~
+A piece of junk is sitting on the ground.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#803
+chair~
+a stiff-backed chair~
+A chair made of metal sits in the corner.~
+metal~
+furniture 0 0
+0
+DFGHIJ 0 FI 0 0
+0 0 0 P
+ T 0 none~
+#804
+shimmering gateway to Razumel~
+a shimmering gateway to Razumel~
+A shimmering gateway to Razumel is here.~
+unknown~
+portal 0 0
+0
+0 0 0 ILM 0
+1 0 0 P
+ T 0 none~
+#846
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#897
+treesung staff~
+a Treesung Staff~
+A knarled staff, twisted into beautiful whirls and patterns, stands against the wall.~
+Heartwood~
+weapon ABK AN
+0
+staff 50 2 thrust AF
+96 150 1000 P
+A
+13 30
+A
+18 5
+A
+19 5
+A
+20 -8
+ T 0 none~
+#898
+small coin tied to a piece of rope~
+small coin tied to a piece of rope~
+A small coin tied to a piece of rope lies here.~
+unknown~
+key 0 AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#899
+An Aiel spear~
+`!A`1n Ai`!el `1S`!pea`1r`7~
+This spear is so sharp, you could slice through rock.~
+unknown~
+weapon ABad AN
+0
+exotic 18 7 thrust CD
+110 250 0 P
+A
+20 -5
+A
+18 5
+A
+19 5
+A
+17 -8
+A
+13 60
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#800
+The Spine of the World~
+It's so hot out here.  The ground is cracking under the intense sun
+beating down from above.  There is no wind but only pure dust everywhere,
+getting in your eyes and mouth.  The heat seems to dry everything, your
+lips, your skin.  All you need is water, but where can water be found in a
+place like this?  
+~
+0 4194304 10
+D0
+~
+~
+0 0 806
+D1
+~
+~
+0 0 810
+D2
+~
+~
+0 0 801
+S
+#801
+Path to Stedding Shangtai~
+It's so hot out here.  The ground is cracking under the intense sun
+beating down from above.  There is no wind but only pure dust blowing in
+your mouth and up your nose.  The heat seems to dry everything, your lips,
+your skin.  You see something to the south, green, plush grass, and
+humongous trees.  What is that place?  It must have water.  
+~
+0 4194304 10
+D0
+~
+~
+0 0 800
+D2
+~
+~
+0 0 802
+D3
+~
+~
+0 0 877
+S
+#802
+Entrance to Stedding Shangtai~
+As you enter into this weird place, a tingle travels from head to toe,
+sending a sudden jolt through you.  Everything seems so serene here.  The
+trees are all very well kept, and very huge.  Little rabbits run by, playing
+and running, seeming very content.  This place is a sanctuary to all those
+weary travellers.  
+~
+0 6291456 3
+D0
+~
+~
+0 0 801
+D2
+~
+~
+0 0 803
+M 150 H 150
+S
+#803
+Stedding Shangtai~
+The wind here seems to blow endlessly, giving a slow reward for entering.
+The heat out there doesn't seem to enter here, it's the perfect temperature.
+The trees offer a very generous amont of shade, making it MORE comfortable. 
+~
+0 6292480 3
+D0
+~
+~
+0 0 802
+D1
+~
+~
+0 0 874
+D2
+~
+~
+0 0 804
+D3
+~
+~
+0 0 871
+M 150 H 150
+S
+#804
+Stedding Shangtai~
+The wind seems to blow endlessly, adding to the pleasure and aura of this
+area.  Just a minute ago, it was burning hot, now it's perfect.  The trees
+seem to offer a large amount of shade also.  
+~
+0 6292480 3
+D0
+~
+~
+0 0 803
+D1
+~
+~
+0 0 873
+D2
+~
+~
+0 0 805
+D3
+~
+~
+0 0 869
+M 150 H 150
+S
+#805
+Inside a house~
+You have entered a house with beds lining the walls.  There is nothing on
+the walls, nothing on the floor, only beds.  A couple seem taken, the others
+are empty.  The beds are all well made, and look very relaxing.  After a
+hard walk in the waste, what better than to lay down in a place such as
+this?  
+~
+0 140510208 0
+D0
+~
+~
+0 0 804
+M 150 H 150
+S
+#806
+The Spine of the World~
+It's so hot out here.  The ground is cracking under the intense sun
+beating down from above.  There is no wind but only pure dust everywhere,
+getting in your eyes and mouth.  The heat seems to dry everything, your
+lips, your skin.  All you need is water, but where can water be found in a
+place like this?  
+~
+0 4194304 10
+D0
+~
+~
+0 0 807
+D1
+~
+~
+0 0 809
+D2
+~
+~
+0 0 800
+S
+#807
+The Spine of the World~
+It's so hot out here.  The ground is cracking under the intense sun
+beating down from above.  There is no wind but only pure dust everywhere,
+getting in your eyes and mouth.  The heat seems to dry everything, your
+lips, your skin.  All you need is water, but where can water be found in a
+place like this?  
+~
+0 4194304 10
+D1
+~
+~
+0 0 808
+D2
+~
+~
+0 0 806
+S
+#808
+Across the Spine~
+Farther out across the spine, it seems to get hotter and hotter by the
+step.  All remnents of life no longer exist, only you and dirt.  The sky
+seems so blue, much like water....  My how water would be nice.  The heat
+begins to dry your skin and is slowly cracking it, along with your lips and
+hair.  Maybe some kind of scarf would help the misery.  
+~
+0 4194304 10
+D0
+~
+~
+0 0 811
+D2
+~
+~
+0 0 809
+D3
+~
+~
+0 0 807
+S
+#809
+Across the Spine~
+Farther out across the spine, it seems to get hotter and hotter by the
+step.  All remnenets of life no longer exist, only you and dirt.  The sky
+seems so blue, much like water....  My how water would be nice.  The heat
+begins to dry your skin and is slowly cracking it, along with your lips and
+hair.  Maybe some kind of scarf would help the misery.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 808
+D2
+~
+~
+0 0 810
+D3
+~
+~
+0 0 806
+S
+#810
+Across the Spine~
+Farther out across the spine, it seems to get hotter and hotter by the
+step.  All remnents of life no longer exist, only you and dirt.  The sky
+seems so blue, much like water....  My how water would be nice.  The heat
+begins to dry your skin and is slowly cracking it, along with your lips and
+hair.  Maybe some kind of scarf would help the misery.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 809
+D3
+~
+~
+0 0 800
+S
+#811
+Into the Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 4194304 10
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 828
+D2
+~
+~
+0 0 808
+D3
+~
+~
+0 0 833
+S
+#812
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 813
+D1
+~
+~
+0 0 838
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 833
+S
+#813
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 814
+D1
+~
+~
+0 0 839
+D2
+~
+~
+0 0 812
+D3
+~
+~
+0 0 833
+S
+#814
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 815
+D1
+~
+~
+0 0 840
+D2
+~
+~
+0 0 813
+D3
+~
+~
+0 0 833
+S
+#815
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 816
+D2
+~
+~
+0 0 814
+D3
+~
+~
+0 0 833
+S
+#816
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 817
+D2
+~
+~
+0 0 840
+D3
+~
+~
+0 0 815
+S
+#817
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 818
+D2
+~
+~
+0 0 835
+D3
+~
+~
+0 0 816
+S
+#818
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 841
+D1
+~
+~
+0 0 819
+D2
+~
+~
+0 0 834
+D3
+~
+~
+0 0 817
+S
+#819
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 820
+D2
+~
+~
+0 0 831
+D3
+~
+~
+0 0 818
+S
+#820
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 821
+D3
+~
+~
+0 0 819
+S
+#821
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no restore to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 820
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 822
+D3
+~
+~
+0 0 831
+S
+#822
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 821
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 823
+D3
+~
+~
+0 0 830
+S
+#823
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 822
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 824
+D3
+~
+~
+0 0 829
+S
+#824
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 823
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 825
+S
+#825
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 829
+D1
+~
+~
+0 0 824
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 826
+S
+#826
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 832
+D1
+~
+~
+0 0 825
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 827
+S
+#827
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 837
+D1
+~
+~
+0 0 826
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 828
+S
+#828
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 838
+D1
+~
+~
+0 0 827
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 811
+S
+#829
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 830
+D1
+~
+~
+0 0 823
+D2
+~
+~
+0 0 825
+D3
+~
+~
+0 0 832
+S
+#830
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 831
+D1
+~
+~
+0 0 822
+D2
+~
+~
+0 0 829
+D3
+~
+~
+0 0 833
+S
+#831
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 819
+D1
+~
+~
+0 0 821
+D2
+~
+~
+0 0 830
+D3
+~
+~
+0 0 834
+S
+#832
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 829
+D2
+~
+~
+0 0 826
+D3
+~
+~
+0 0 837
+S
+#833
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 834
+D1
+~
+~
+0 0 830
+D2
+~
+~
+0 0 832
+D3
+~
+~
+0 0 836
+S
+#834
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 818
+D1
+~
+~
+0 0 831
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 835
+S
+#835
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 817
+D1
+~
+~
+0 0 834
+D2
+~
+~
+0 0 836
+D3
+~
+~
+0 0 840
+S
+#836
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 835
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 837
+D3
+~
+~
+0 0 839
+S
+#837
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 836
+D1
+~
+~
+0 0 832
+D2
+~
+~
+0 0 827
+D3
+~
+~
+0 0 838
+S
+#838
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 839
+D1
+~
+~
+0 0 837
+D2
+~
+~
+0 0 828
+D3
+~
+~
+0 0 812
+S
+#839
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 840
+D1
+~
+~
+0 0 836
+D2
+~
+~
+0 0 838
+D3
+~
+~
+0 0 813
+S
+#840
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 816
+D1
+~
+~
+0 0 835
+D2
+~
+~
+0 0 839
+D3
+~
+~
+0 0 814
+S
+#841
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 842
+D2
+~
+~
+0 0 818
+D3
+~
+~
+0 0 833
+S
+#842
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 843
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 841
+S
+#843
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 844
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 842
+S
+#844
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 845
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 843
+S
+#845
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 846
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 844
+D3
+~
+~
+0 0 833
+S
+#846
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 845
+D3
+~
+~
+0 0 847
+S
+#847
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 848
+D1
+~
+~
+0 0 846
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 833
+S
+#848
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 847
+D3
+~
+~
+0 0 849
+S
+#849
+The Aiel Waste~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 850
+D1
+~
+~
+0 0 848
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 833
+S
+#850
+Path to Campsite~
+The sun's heat seems to beat down on everything, and abolishes any
+shadows.  There is no resort to this fiery inferno, only dirt and heat all
+around.  Your mouth is parched, skin is red, hair is fried, overall very
+tired from walking.  A small lizard runs by, are lizards good food?  Doesn't
+matter anyways, you have no fire to cook it with.  No one knows what lies
+ahead, venture on, and maybe find out.  
+~
+0 0 10
+D0
+~
+~
+0 0 851
+D2
+~
+~
+0 0 849
+S
+#851
+Path to Campsite~
+This path leads to a campsite, of some sorts.  Ahead lies tents scattered
+everywhere, and some people walking around with brown clothes on.  The heat
+is still unbearable, although it doesn't seem to affect them like it does
+you.  They have some kind of cloth hanging from their heads, and some seem
+ready to put it on in a split second.  Dare to go on, and it could mean your
+life.  
+~
+0 0 10
+D0
+~
+~
+0 0 852
+D2
+~
+~
+0 0 850
+S
+#852
+Path to Campsite~
+This path leads to a campsite, of some sorts.  Ahead lies tents scattered
+everywhere, and some people walking around with brown clothes on.  The heat
+is still unbearable, although it doesn't seem to affect them like it does
+you.  They have some kind of cloth hanging from their heads, and some seem
+ready to put it on in a split second.  Dare to go on, and it could mean your
+life.  
+~
+0 0 10
+D0
+~
+~
+0 0 853
+D2
+~
+~
+0 0 851
+S
+#853
+Worn Path~
+Footprints have worn this path raw.  It's smooth as a rock from the
+countless people who have walked through here.  There are tents all around
+and one directly to the north.  You see lots of steam permeating from the
+tent to the north, and it seems that only women who are dressed in robes
+enter there.  The people seem to stay away from here, like it is known that
+the place is off limits.  
+~
+0 0 10
+D0
+~
+~
+0 0 854
+D1
+~
+~
+0 0 857
+D2
+~
+~
+0 0 852
+D3
+~
+~
+0 0 858
+S
+#854
+Worn Path~
+Footprints have worn this path raw.  It's smooth as a rock from the
+countless people who have walked through here.  There are tents all around
+and one directly to the north.  You see lots of steam permeating from the
+tent to the north, and it seems that only women who are dressed in robes
+enter there.  The people seem to stay away from here, like it is known that
+the place is off limits.  
+~
+0 0 10
+D0
+~
+~
+0 0 855
+D2
+~
+~
+0 0 853
+S
+#855
+Worn Path~
+Footprints have worn this path raw.  It's smooth as a rock from the
+countless people who have walked through here.  There are tents all around
+and one directly to the north.  You see lots of steam permeating from the
+tent to the north, and it seems that only women who are dressed in robes
+enter there.  The people seem to stay away from here, like it is known that
+the place is off limits.  
+~
+0 0 10
+D0
+~
+~
+0 0 856
+D1
+~
+~
+0 0 866
+D2
+~
+~
+0 0 854
+D3
+~
+~
+0 0 863
+S
+#856
+Worn Path~
+Footprints have worn this path raw.  It's smooth as a rock from the
+countless people who have walked through here.  There are tents all around
+and one directly to the north.  You see lots of steam permeating from the
+tent to the north, and it seems that only women who are dressed in robes
+enter there.  The people seem to stay away from here, like it is known that
+the place is off limits.  
+~
+0 0 10
+D0
+~
+~
+0 0 899
+D2
+~
+~
+0 0 855
+S
+#857
+To the tents~
+This path leads to many tents scattered across the campsite.  A couple
+seem isolated from the others and people dressed in white robes are walking
+around doing work.  Little girls in pig-tails run around throwing rocks and
+wrestling.  Finely sharpened spears are stuck into the sun-hardened ground
+outside some of the tents, obviously displaying who inhabits certain tents. 
+~
+0 0 10
+D1
+~
+~
+0 0 859
+D3
+~
+~
+0 0 853
+S
+#858
+To the tents~
+This path leads to many tents scattered across the campsite.  A couple
+seem isolated from the others and people dressed in white robes are walking
+around doing work.  Little girls in pig-tails run around throwing rocks and
+wrestling.  Finely sharpened spears are stuck into the sun-hardened ground
+outside some of the tents, obviously displaying who inhabits certain tents. 
+~
+0 0 10
+D1
+~
+~
+0 0 853
+D3
+~
+~
+0 0 860
+S
+#859
+To the tents~
+This path leads to many tents scattered across the campsite.  A couple
+seem isolated from the others and people dressed in white robes are walking
+around doing work.  Little girls in pig-tails run around throwing rocks and
+wrestling.  Finely sharpened spears are stuck into the sun-hardened ground
+outside some of the tents, obviously displaying who inhabits certain tents. 
+~
+0 0 10
+D1
+~
+~
+0 0 862
+D3
+~
+~
+0 0 857
+S
+#860
+To the tents~
+This path leads to many tents scattered across the campsite.  A couple
+seem isolated from the others and people dressed in white robes are walking
+around doing work.  Little girls in pig-tails run around throwing rocks and
+wrestling.  Finely sharpened spears are stuck into the sun-hardened ground
+outside some of the tents, obviously displaying who inhabits certain tents. 
+~
+0 0 10
+D1
+~
+~
+0 0 858
+D3
+~
+~
+0 0 861
+S
+#861
+A Tent~
+This tent gives exceptional shade and comfortability for the amount of
+heat outside.  There is a small hole in the top of the tent, no doubt to
+vent any smoke or smell that seems to linger.  A pile of clothes lie in the
+corner of the tent, colored in shades of brown and green.  This is a
+sanctuary to the dust that clogs your lungs.  
+~
+0 0 0
+D1
+~
+~
+0 0 860
+S
+#862
+A Tent~
+This tent gives exceptional shade and comfortability for the amount of
+heat outside.  There is a small hole in the top of the tent, no doubt to
+vent any smoke or smell that seems to linger.  A pile of clothes lie in the
+corner of the tent, colored in shades of brown and green.  This is a
+sanctuary to the dust that clogs your lungs.  
+~
+0 0 0
+D3
+~
+~
+0 0 859
+S
+#863
+To the tents~
+This path leads to many tents scattered across the campsite.  A couple
+seem isolated from the others and people dressed in white robes are walking
+around doing work.  Little girls in pig-tails run around throwing rocks and
+wrestling.  Finely sharpened spears are stuck into the sun-hardened ground
+outside some of the tents, obviously displaying who inhabits certain tents. 
+~
+0 0 10
+D1
+~
+~
+0 0 855
+D3
+~
+~
+0 0 864
+S
+#864
+To the tents~
+This path leads to many tents scattered across the campsite.  A couple
+seem isolated from the others and people dressed in white robes are walking
+around doing work.  Little girls in pig-tails run around throwing rocks and
+wrestling.  Finely sharpened spears are stuck into the sun-hardened ground
+outside some of the tents, obviously displaying who inhabits certain tents. 
+~
+0 0 10
+D1
+~
+~
+0 0 863
+D3
+~
+~
+0 0 865
+S
+#865
+A Tent~
+This tent gives exceptional shade and confortability for the amount of
+heat outside.  There is a small hole in the top of the tent, no doubt to
+vent any smoke or smell that seems to linger.  A pile of clothes lie in the
+corner of the tent, colored in shades of brown and green.  This is a
+sanctuary to the dust clogs your lungs.  
+~
+0 0 10
+D1
+~
+~
+0 0 864
+S
+#866
+To the tents~
+This path leads to many tents scattered across the campsite.  A couple
+seem isolated from the others and people dressed in white robes are walking
+around doing work.  Little girls in pig-tails run around throwing rocks and
+wrestling.  Finely sharpened spears are stuck into the sun-hardened ground
+outside some of the tents, obviously displaying who inhabits certain tents. 
+~
+0 0 10
+D1
+~
+~
+0 0 867
+D3
+~
+~
+0 0 855
+S
+#867
+To the tents~
+This path leads to many tents scattered across the campsite.  A couple
+seem isolated from the others and people dressed in white robes are walking
+around doing work.  Little girls in pig-tails run around throwing rocks and
+wrestling.  Finely sharpened spears are stuck into the sun-hardened ground
+outside some of the tents, obviously displaying who inhabits certain tents. 
+~
+0 0 10
+D1
+~
+~
+0 0 868
+D3
+~
+~
+0 0 866
+S
+#868
+A Tent~
+This tent gives exceptional shade and confortability for the amount of
+heat outside.  There is a small hole in the top of the tent, no doubt to
+vent any smoke or smell that seems to linger.  A pile of clothes lie in the
+corner of the tent, colored in shades of brown and green.  This is a
+sanctuary to the dust clogs your lungs.  
+~
+0 0 0
+D3
+~
+~
+0 0 867
+S
+#869
+Stedding Shangtai~
+It seems as if something has left your body, leaving you very empty.  It
+is very peaceful here but very uncomfortable in the same sense.  You reach
+for the source and you find nothing...  Nothing is there!  You almost begin
+to cry when you see a sign that reads......  `7 
+ 
+The One Power cannot be touched in a stedding, be aware.
+~
+0 6292480 3
+D0
+~
+~
+0 0 871
+D1
+~
+~
+0 0 804
+D3
+~
+~
+0 0 870
+M 150 H 150
+S
+#870
+Stedding Shangtai~
+It seems as if something has left your body, leaving you very empty.  It
+is very peaceful here but very uncomfortable in the same sense.  You reach
+for the source and you find nothing...  Nothing is there!  You almost begin
+to cry when you see a sign that reads......  
+ 
+The One Power cannot be touched in a stedding, be aware.
+~
+0 6292480 3
+D0
+~
+~
+0 0 872
+D1
+~
+~
+0 0 869
+M 150 H 150
+S
+#871
+Stedding Shangtai~
+It seems as if something has left your body, leaving you very empty.  It
+is very peaceful here but very uncomfortable in the same sense.  You reach
+for the source and you find nothing...  Nothing is there!  You almost begin
+to cry when you see a sign that reads......  
+ 
+The One Power cannot be touched in a stedding, be aware.
+~
+0 6292480 3
+D1
+~
+~
+0 0 803
+D2
+~
+~
+0 0 869
+D3
+~
+~
+0 0 872
+M 150 H 150
+S
+#872
+Stedding Shangtai~
+It seems as if something has left your body, leaving you very empty.  It
+is very peaceful here but very uncomfortable in the same sense.  You reach
+for the source and you find nothing...  Nothing is there!  You almost begin
+to cry when you see a sign that reads......  
+ 
+The One Power cannot be touched in a stedding, be aware.
+~
+0 6292480 3
+D1
+~
+~
+0 0 871
+D2
+~
+~
+0 0 870
+M 150 H 150
+S
+#873
+Stedding Shangtai~
+It seems as if something has left your body, leaving you very empty.  It
+is very peaceful here but very uncomfortable in the same sense.  You reach
+for the source and you find nothing...  Nothing is there!  You almost begin
+to cry when you see a sign that reads......  
+ 
+The One Power cannot be touched in a stedding, be aware.
+~
+0 6292480 3
+D0
+~
+~
+0 0 874
+D1
+~
+~
+0 0 876
+D3
+~
+~
+0 0 804
+M 150 H 150
+S
+#874
+Stedding Shangtai~
+It seems as if something has left your body, leaving you very empty.  It
+is very peaceful here but very uncomfortable in the same sense.  You reach
+for the source and you find nothing...  Nothing is there!  You almost begin
+to cry when you see a sign that reads......  
+ 
+The One Power cannot be touched in a stedding, be aware.
+~
+0 6292480 3
+D1
+~
+~
+0 0 875
+D2
+~
+~
+0 0 873
+D3
+~
+~
+0 0 803
+M 150 H 150
+S
+#875
+Stedding Shangtai~
+It seems as if something has left your body, leaving you very empty.  It
+is very peaceful here but very uncomfortable in the same sense.  You reach
+for the source and you find nothing...  Nothing is there!  You almost begin
+to cry when you see a sign that reads......  
+ 
+The One Power cannot be touched in a stedding, be aware.
+~
+0 6292480 3
+D2
+~
+~
+0 0 876
+D3
+~
+~
+0 0 874
+M 150 H 150
+S
+#876
+Stedding Shangtai~
+It seems as if something has left your body, leaving you very empty.  It
+is very peaceful here but very uncomfortable in the same sense.  You reach
+for the source and you find nothing...  Nothing is there!  You almost begin
+to cry when you see a sign that reads......  
+ 
+The One Power cannot be touched in a stedding, be aware.
+~
+0 6292480 3
+D0
+~
+~
+0 0 875
+D3
+~
+~
+0 0 873
+M 150 H 150
+S
+#877
+A Clearing~
+The heat doesn't seem to touch you here as bad, but it is still
+excruciating.  Your sweat dries as soon as it breaches the surface of your
+skin, and your hair feels dry and singed.  Over to the side, hidden in the
+bushes is a large rock, with carvings of leaves on it...  Maybe it's one of
+those waygates.  
+~
+0 67108864 0
+D1
+~
+~
+0 0 801
+S
+#881
+~
+~
+0 4 0
+S
+#890
+Planning Chamber~
+A quiet room, the heavy folds of hide that make up the walls serve to
+muffle the steady murmer of voices.  Here is where the leaders of the aiel
+plan for events, even as their fellow warriors prepare for war.  A steady
+flow of messengers and fellow aiel enter and exit silently and women in long
+skirts sit to listen and lend wise advice.  
+~
+0 155190272 0
+D2
+~
+~
+0 0 891
+S
+#891
+Path Heading West in the Stedding~
+A quiet settles over the pathway through the trees, wreathed in green
+leaves and thick with health.  More leaves crunch and rustle underfoot, and
+off the pathway faint shadows of movement hint at the presence of others in
+the area.  
+~
+0 134217728 0
+D0
+~
+~
+0 0 890
+D1
+~
+~
+0 0 893
+S
+#892
+Path Heading West in the Stedding~
+The dirt trail underfoot stretches off further to the west, out of sight
+behind another wall of looming trees.  The thick trunks shield the low
+bushes underneath from the harsh light of the sun.  
+~
+0 134217728 0
+D3
+~
+~
+0 0 893
+S
+#893
+Junction inside the Stedding~
+The pathway through the trees forks here, branching off to the east and
+west.  Still there is hardly a sound in the area nearby, and the shadows of
+the tree branches overhead make for a sheltering ceiling.  
+~
+0 138412032 0
+D1
+~
+~
+0 0 892
+D2
+~
+~
+0 0 894
+D3
+~
+~
+0 0 891
+S
+#894
+Path through the Stedding~
+The flitting shapes of aiel men and women pass you in the trees, hardly
+making a sound as they go from tent to tent.  The shelter of the Stedding
+extends off the track further to the north.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 893
+D2
+~
+~
+0 0 897
+S
+#895
+Sparring Glade~
+Tree branches spread their boughs overhead, while their trunks nestle the
+tan hides of the aiel tents all around.  Here, a space has been made, the
+ground cleared for the aiel to hone their skills.  None but the finest
+warriors and Far Dareis Mai enter the ring of trees here to both teach and
+learn the deadly art of war.  
+~
+0 138412032 0
+D3
+~
+~
+0 0 897
+S
+#896
+Sparring Glade~
+The soft sounds of a struggle filter through the trees here, and the path
+opens up into a clearing.  The ground is scuffed by footprints and there are
+young warriors gathered in pairs and trios, wrestling and trading blows.  
+~
+0 138412032 0
+D1
+~
+~
+0 0 897
+S
+#897
+Path through the Stedding.~
+The pathway continues in silence to the north and south, and branches off
+to the east and west, where soft sounds of other people nearby generate.  To
+either side is more evidence of habitation, namely the camouflaged tents set
+up under the boughs of the trees and the ghostly movement of people through
+the underbrush.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 894
+D1
+~
+~
+0 0 895
+D2
+~
+~
+0 0 898
+D3
+~
+~
+0 0 896
+S
+#898
+Entrance to the Hidden Stedding~
+To the south, an enormous tree trunk spans the width of the path, and the
+way is barred by a thick tangle of bracken.  To the north stretches a wide
+dirt track, scattered with fallen leaves.  The silence could be thought of
+as oppressive, but for the overwhelming sense of age.  Peace seems to shroud
+everything in this sun-dappled glade, marred only by the nearly invisible
+line of tents in the distance off the pathway.  
+~
+0 138412032 0
+D0
+~
+~
+0 0 897
+D2
+~
+~
+4 898 899
+S
+#899
+Aiel's Store~
+Aiel's store is waiting to be decorated and filled.~
+0 1032 0
+D0
+~
+~
+4 898 898
+D2
+~
+~
+0 0 856
+M 150 H 150
+S
+#0
+
+
+
+#SPECIALS
+M 899 spec_breath_lightning
+S
+
+
+
+#RESETS
+D 0 898 2 2
+D 0 899 0 2
+M 0 803 20 801 1 100 Load A brown lizard
+M 0 801 1 805 1 100 Load Ogier Erith
+O 0 803 0 805 0 100 A stiff-backed chair loaded to Inside a house
+M 0 802 20 806 1 100 Load A snake
+M 0 803 20 808 1 100 Load A brown lizard
+M 0 802 20 808 1 100 Load A snake
+M 0 802 20 808 1 100 Load A snake
+M 0 803 20 809 1 100 Load A brown lizard
+M 0 803 20 810 1 100 Load A brown lizard
+M 0 802 20 811 2 100 Load A snake
+M 0 802 20 812 1 100 Load A snake
+M 0 802 20 818 1 100 Load A snake
+M 0 803 20 821 1 100 Load A brown lizard
+M 0 802 20 823 2 100 Load A snake
+M 0 803 20 826 1 100 Load A brown lizard
+M 0 803 20 828 1 100 Load A brown lizard
+M 0 802 20 831 2 100 Load A snake
+M 0 803 20 832 1 100 Load A brown lizard
+M 0 803 20 835 1 100 Load A brown lizard
+M 0 802 20 836 1 100 Load A snake
+M 0 802 20 838 1 100 Load A snake
+M 0 802 20 839 1 100 Load A snake
+M 0 803 20 841 1 100 Load A brown lizard
+M 0 803 20 842 1 100 Load A brown lizard
+M 0 802 20 843 1 100 Load A snake
+M 0 802 20 846 1 100 Load A snake
+M 0 802 20 849 1 100 Load A snake
+M 0 802 20 849 1 100 Load A snake
+M 0 803 20 850 1 100 Load A brown lizard
+M 0 802 20 851 1 100 Load A snake
+M 0 802 20 858 3 100 Load A snake
+M 0 802 20 858 1 100 Load A snake
+M 0 802 20 859 1 100 Load A snake
+M 0 802 20 859 1 100 Load A snake
+M 0 804 4 861 1 100 Load An aielman
+E 0 801 0 5 0 100 An aielman's cadin'sor is loaded on the body of An aielman
+M 0 804 4 862 1 100 Load An aielman
+E 0 800 0 21 0 100 An aielman's veil is loaded on the face of An aielman
+M 0 802 20 864 6 100 Load A snake
+M 0 804 4 865 1 100 Load An aielman
+E 0 800 0 21 0 100 An aielman's veil is loaded on the face of An aielman
+M 0 802 20 867 2 100 Load A snake
+M 0 804 4 868 1 100 Load An aielman
+E 0 801 0 5 0 100 An aielman's cadin'sor is loaded on the body of An aielman
+M 0 898 1 877 1 100 Load stedding watchman
+E 0 898 0 3 0 100 Small coin tied to a piece of rope is loaded around the neck (1) of stedding watchman
+E 0 897 0 17 0 100 A treesung staff is loaded wielded of stedding watchman
+M 0 810 1 890 1 100 Load Tzika
+O 0 804 0 893 0 100 A shimmering gateway to razumel loaded to Junction inside the Stedding
+M 0 897 1 898 1 100 Load stedding guard
+E 0 898 0 3 0 100 Small coin tied to a piece of rope is loaded around the neck (1) of stedding guard
+E 0 897 0 17 0 100 A treesung staff is loaded wielded of stedding guard
+M 0 800 1 899 1 100 Load A Wise One
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#800
+~
+#801
+if ispc $n
+emote removes her veil and slightly bows.
+say I see you, $n.
+say May you find water and shade this day.
+endif
+~
+#802
+mob echo The Ogier reaches into his huge bag and pulls out a prize.
+if rand 99
+say Today is your lucky day.
+say Have fun!
+mob oload 3806
+say The finest I have to offer.
+give long $n
+else
+if rand 97
+say It's a Restring Coupon!
+say Congratulations, you win!
+mob oload 6400
+give restring $n
+else
+if rand 75
+say I'm sorry, but it's a pot pie.
+say You did not win this time, please try again!
+mob oload 3009
+give pie $n
+else
+if rand 95
+say Nice draw!
+say You win!!!
+mob oload 10792
+give cham $n
+else
+if rand 88
+say Ohh my, it's a piece of eq!
+say You win!!!
+mob oload 20971
+give leather $n
+else
+if rand 68
+say Blood and bloody ashes, I'm sorry!
+say The flaming trash, tough loss my friend!
+mob oload 802
+give trash $n
+else
+if rand 50
+say What is this?
+say I apologize, nothing but trash.
+mob oload 6113
+give grail $n
+else
+if rand 40
+say The Creator has smiled upon you, it is something nice.
+mob oload 6401
+give prize $n
+emote smiles, '`%Here you go.`7'
+else
+if rand 30
+emote shakes his head grimly.
+say Sorry friend, but today is not your day.
+else
+if rand 51
+say I didn't think it would be this bad, honest I didn't
+say Do try your luck again though.
+mob oload 24401
+give neck $n
+else
+if rand 47
+say Son of a Goat Kisser
+say It is the flaming trash again.
+mob oload 6452
+say I do think you will win next time, I really do.
+give key $n
+endif
+break
+ 
+~
+#803
+say Welcome to Thom's room!  I am Baril, Thom's janitor.
+say Let me see if I can find Thom, please take a seat.
+~
+#804
+mob goto erith
+mob echo A young, beautiful woman steps through two double doors.
+say Hello, Im Taril, Thom's secretary.  Im afraid we can't find him at the moment.
+~
+#805
+tell taril come
+~
+#898
+if clan $n aiel
+unlock south
+open south
+whisp $n May you find shade this day, $n.
+else
+yell There is an Intruder within the stedding!
+endif
+~
+#899
+if clan $n 'aiel'
+whisp $n Water and Shade, $n.
+mob transfer $n 898
+else
+say Please talk with a Wise One, $n.
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#898
+if clan $n aiel
+~
+#0
+
+#$

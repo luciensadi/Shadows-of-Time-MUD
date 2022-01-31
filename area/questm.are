@@ -1,0 +1,195 @@
+#AREADATA
+Name Quest Misc. Area~
+Builders None~
+VNUMs 13200 14000
+Credits `4[`7 None `4]`7 Imm       Quest Area~
+Security 10
+Flags F
+Version 4
+End
+
+
+
+#MOBILES
+#13200
+hooded~
+A large hooded figure~
+A large hooded figure, is standing here peering at you.
+~
+You're looking at a large hooded figure, cloaked in old and worn robes.  
+~
+unique~
+0 0
+ABZ 0 0 0 0 -1  0 0
+0 0 500d500+1000 0d0+0 500d500+1000 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#14000
+lopar~
+a Lopar~
+Standing on all fours is a hulking animal with hairless hide, a Lopar.
+~
+The Lopar is the premier fighter of the "exotics."  It is a huge hulking
+animal weighing between fifteen hundred and two thousand pounds when fully
+grown.  It has two eyes set back into his large head with no visible
+external ears.  The Lopars legs are longer than those of a bear but look
+short because of the thickness and size of the animal.  The Lopar has a
+leathery, hairless hide that varies in colors from brown to a reddish tint. 
+It has six toes on both front and rear claws.  Sometimes, while fighting,
+the bests will rear on their hind legs reaching a height of almost ten feet.
+ 
+~
+seanchan~
+0 0
+AD 0 0 0 0 -1  0 0
+70 40 12d12+3500 0d0+0 12d12+80 claw
+-10 -10 -10 -10
+0 A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#13200
+order~
+a large chain of order~
+A large chain of order is here.~
+unknown~
+trash A AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#13205
+keyring brilliance~
+`&The `8K`5ey`8r`5in`8g `&of `#Bri`&ll`#ian`&ce`7~
+This keyring was awarded to the winner of `$Sera's `7Trivia Quest!~
+unknown~
+keyring d AU
+0
+25 0 0 0 0
+110 10 10000 P
+A
+18 9
+A
+19 9
+A
+20 -9
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#13200
+Within the Eternal Malevolence~
+~
+0 533516 0
+S
+#13201
+On A Well Traveled Path~
+You're standing on a well traveled path that crawls its way into the
+village towards the south, the path is lined with polished white rocks on
+both sides.  From what you can tell of the village, it appears to be nothing
+more than a stopping point for merchants, and travellers to these lands.  
+~
+0 4 8
+D0
+~
+~
+0 0 13600
+D2
+~
+~
+0 0 13202
+S
+#13202
+Before the Wooden Gates~
+~
+0 0 0
+D0
+~
+~
+0 0 13201
+D2
+~
+~
+0 0 13203
+S
+#13203
+Inside the Orsinth Gates~
+~
+0 0 0
+D0
+~
+~
+0 0 13202
+D2
+~
+~
+0 0 13204
+S
+#13204
+The Main Road~
+~
+0 0 0
+D0
+~
+~
+0 0 13203
+D2
+~
+~
+0 0 13205
+S
+#13205
+The Main Road~
+~
+0 0 0
+D0
+~
+~
+0 0 13204
+S
+#13600
+~
+~
+0 0 0
+D2
+~
+~
+0 0 13201
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

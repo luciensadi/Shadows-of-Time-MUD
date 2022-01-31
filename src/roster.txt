@@ -1,0 +1,1019 @@
+#0 
+None~
+QuestPoints 1
+End~
+1 
+tinker~
+QuestPoints 3142
+Terra~
+1
+0
+0
+Pending None~
+Orneith~
+6
+290
+19
+Pending None~
+Rhelian~
+1
+2
+0
+Pending None~
+Nagash~
+1
+1581
+2
+Pending None~
+Loran~
+1
+52
+0
+Pending None~
+Archimedes~
+4
+2387
+13
+Pending None~
+Fletcher~
+3
+842
+7
+Pending None~
+plaid~
+5
+1854
+13
+Pending None~
+abe~
+2
+45
+6
+Pending None~
+jimmy~
+2
+0
+3
+Pending None~
+rage~
+2
+13
+7
+Pending None~
+sasha~
+3
+0
+7
+Pending None~
+eilan~
+2
+954
+5
+Pending None~
+Xavier~
+1
+27
+1
+Pending None~
+Calliope~
+3
+14
+10
+Pending None~
+End~
+2 
+aiel~
+QuestPoints 6918
+Adelin~
+2
+67
+0
+Pending None~
+Pero~
+4
+168
+4
+Pending None~
+Seraph~
+4
+317
+6
+Pending None~
+mach~
+5
+37
+1
+Pending None~
+pawn~
+3
+4
+0
+Pending None~
+lyrian~
+2
+57
+4
+Pending None~
+Tagar~
+4
+2677
+6
+Pending None~
+Rianna~
+5
+2243
+17
+Pending None~
+Dhael~
+3
+396
+2
+Pending None~
+Zowe~
+2
+41
+0
+Pending None~
+Bael~
+2
+0
+0
+Pending None~
+Brien~
+2
+33
+0
+Pending None~
+End~
+3 
+sedai~
+QuestPoints 1910
+Sileta~
+1
+4
+0
+Pending None~
+Rachel~
+1
+175
+2
+Pending None~
+elaida~
+4
+29
+4
+Pending None~
+melfina~
+5
+164
+13
+Pending None~
+alviarin~
+6
+1537
+14
+Pending None~
+Eratia~
+3
+165
+5
+Pending None~
+Raele~
+1
+35
+1
+Pending None~
+Orchid~
+4
+16
+3
+Pending None~
+End~
+4 
+shadow~
+QuestPoints 402
+xanin~
+4
+0
+0
+Pending None~
+graendal~
+5
+66
+6
+Pending None~
+Bane~
+4
+16
+28
+Pending None~
+Nephi~
+4
+8
+1
+Pending None~
+Tagal~
+4
+49
+1
+Pending None~
+Mesaana~
+6
+60
+0
+Pending None~
+Moghedien~
+5
+50
+0
+Pending None~
+Elan~
+1
+3
+0
+Pending None~
+Blu~
+1
+0
+0
+Pending None~
+Demandred~
+5
+306
+3
+Pending None~
+moridin~
+6
+0
+5
+Pending None~
+Moreno~
+4
+23
+10
+Pending None~
+End~
+5 
+seanchan~
+QuestPoints 171
+Lysergic~
+1
+0
+0
+Pending None~
+sezz~
+1
+0
+2
+Pending None~
+turak~
+6
+0
+0
+Pending None~
+Kain~
+2
+0
+1
+Pending None~
+Dana~
+2
+10
+6
+Pending None~
+Asophite~
+1
+10
+0
+Pending None~
+Jeromali~
+1
+0
+0
+Pending None~
+Thorikah~
+5
+11
+1
+Pending None~
+Ashmet~
+1
+10
+0
+Pending None~
+Ishmet~
+1
+16
+0
+Pending None~
+End~
+6 
+redhand~
+QuestPoints 1016
+Seyhal~
+1
+0
+0
+Pending None~
+Bombardier~
+5
+2840
+7
+Pending None~
+Valda~
+2
+31
+3
+Pending None~
+lenna~
+6
+1210
+22
+Pending None~
+Frost~
+1
+105
+1
+Pending None~
+rufio~
+1
+191
+1
+Pending None~
+Ciem~
+1
+366
+2
+Pending None~
+Sturm~
+1
+12
+0
+Pending None~
+Daroec~
+2
+903
+3
+Pending None~
+Dominion~
+2
+264
+3
+Pending None~
+Heine~
+1
+41
+0
+Pending None~
+Xenith~
+1
+1
+0
+Pending None~
+End~
+7 
+ashaman~
+QuestPoints 513
+gedwyn~
+5
+17
+8
+Pending None~
+Efalin~
+1
+6
+5
+Pending None~
+Pedrin~
+4
+259
+3
+Pending None~
+Akuma~
+1
+28
+2
+Pending Outcast~
+matthias~
+3
+302
+16
+Pending None~
+logain~
+6
+781
+14
+Pending None~
+Melchiah~
+3
+13
+6
+Pending None~
+Mister~
+3
+214
+5
+Pending None~
+Zarwin~
+3
+5
+0
+Pending None~
+Damer~
+1
+3
+0
+Pending None~
+Gaulvin~
+1
+4
+0
+Pending None~
+Gedland~
+1
+22
+0
+Pending None~
+End~
+8 
+gleeman~
+QuestPoints 10
+Oswald~
+4
+0
+18
+Pending None~
+Ezikiah~
+1
+0
+0
+Pending None~
+Beidomon~
+1
+1
+0
+Pending Outcast~
+bran~
+1
+0
+1
+Pending Outcast~
+Lute~
+3
+0
+0
+Pending Outcast~
+Regas~
+6
+0
+0
+Pending None~
+Surric~
+4
+10
+0
+Pending None~
+End~
+9 
+whitecloak~
+QuestPoints 1158
+Jeret~
+5
+0
+0
+Pending None~
+Deviant~
+6
+916
+17
+Pending None~
+Quew~
+1
+2
+0
+Pending None~
+Diliac~
+1
+69
+1
+Pending None~
+Shayel~
+1
+5
+4
+Pending None~
+Logan~
+1
+449
+1
+Pending None~
+Brakar~
+1
+293
+1
+Pending None~
+Galadrial~
+1
+27
+1
+Pending None~
+Jubei~
+3
+32
+2
+Pending None~
+End~
+10 
+warder~
+QuestPoints 11187
+medivh~
+3
+381
+6
+Pending None~
+Kensei~
+3
+79
+8
+Pending None~
+Raen~
+2
+43
+0
+Pending None~
+Uthoriak~
+1
+24
+12
+Pending None~
+hammar~
+5
+1408
+20
+Pending None~
+Tomas~
+6
+2186
+22
+Pending None~
+Ziles~
+1
+54
+0
+Pending None~
+Xentar~
+3
+247
+8
+Pending None~
+Aurin~
+1
+0
+0
+Pending None~
+kyvan~
+1
+0
+0
+Pending Outcast~
+vorahll~
+1
+0
+0
+Pending Outcast~
+Suten~
+3
+2739
+3
+Pending None~
+End~
+11 
+admin~
+QuestPoints 1968
+Thom~
+1
+0
+43
+Pending None~
+Asmodeus~
+1
+0
+1
+Pending None~
+Vooshka~
+6
+0
+0
+Pending None~
+Diem~
+1
+0
+1
+Pending None~
+Xythis~
+1
+0
+0
+Pending None~
+Tamra~
+1
+0
+0
+Pending None~
+Saradin~
+6
+0
+2
+Pending None~
+Dreyus~
+3
+2
+6
+Pending None~
+Eventine~
+1
+0
+0
+Pending None~
+Deviant~
+1
+0
+0
+Pending None~
+Cain~
+5
+5
+0
+Pending None~
+Diem~
+1
+0
+1
+Pending None~
+Diem~
+1
+0
+0
+Pending None~
+Taren~
+1
+0
+0
+Pending Outcast~
+Asmodeus~
+1
+0
+1
+Pending None~
+Cammaedros~
+1
+1
+10
+Pending None~
+Ishamael~
+1
+0
+0
+Pending None~
+Saradin~
+1
+0
+2
+Pending None~
+Thom~
+1
+0
+0
+Pending None~
+Diem~
+1
+0
+1
+Pending None~
+Asmodeus~
+1
+0
+1
+Pending None~
+Thom~
+1
+0
+0
+Pending None~
+Ishamael~
+6
+0
+0
+Pending None~
+End~
+12 
+wolfbrother~
+QuestPoints 1667
+Laske~
+1
+65
+2
+Pending None~
+Andra~
+3
+429
+2
+Pending None~
+Dagger~
+4
+446
+2
+Pending None~
+Cedan~
+3
+293
+0
+Pending None~
+Bengy~
+4
+0
+0
+Pending None~
+Azaka~
+3
+146
+1
+Pending None~
+Michael~
+3
+0
+0
+Pending Outcast~
+elyas~
+6
+88
+2
+Pending None~
+Maize~
+1
+37
+2
+Pending None~
+Kris~
+4
+12
+1
+Pending None~
+Citahl~
+5
+104
+1
+Pending None~
+Daram~
+1
+0
+0
+Pending None~
+End~
+13 
+shaido~
+QuestPoints 2006
+Loki~
+1
+97
+1
+Pending None~
+Wes~
+3
+0
+0
+Pending None~
+Malice~
+2
+72
+2
+Pending None~
+maynard~
+3
+18
+5
+Pending None~
+Timolan~
+2
+1
+0
+Pending None~
+Aldaros~
+2
+20
+4
+Pending None~
+raj~
+3
+254
+3
+Pending None~
+Jhared~
+1
+0
+0
+Pending None~
+Luthair~
+6
+296
+15
+Pending None~
+Khadin~
+6
+742
+14
+Pending None~
+couladin~
+3
+0
+4
+Pending None~
+Melindhra~
+1
+7
+0
+Pending None~
+End~
+14 
+outcast~
+QuestPoints 14
+Dreyus~
+1
+0
+0
+Pending None~
+Gorynel~
+1
+0
+0
+Pending None~
+Ender~
+1
+3
+0
+Pending None~
+Mordred~
+1
+0
+0
+Pending None~
+Cujo~
+1
+0
+0
+Pending None~
+Mazrim~
+1
+0
+0
+Pending None~
+marikus~
+1
+0
+0
+Pending None~
+kennar~
+1
+0
+0
+Pending None~
+janna~
+1
+0
+11
+Pending None~
+incubus~
+1
+0
+0
+Pending None~
+herodes~
+1
+0
+0
+Pending None~
+herb~
+1
+0
+0
+Pending None~
+else~
+1
+0
+0
+Pending None~
+Rahkir~
+6
+0
+1
+Pending None~
+Jacen~
+1
+0
+0
+Pending None~
+Lance~
+1
+0
+1
+Pending None~
+Grepp~
+1
+0
+0
+Pending None~
+Thom~
+3
+0
+0
+Pending None~
+Quorel~
+1
+0
+0
+Pending None~
+Munkie~
+1
+0
+0
+Pending None~
+Arazel~
+1
+0
+0
+Pending None~
+Calendros~
+1
+0
+0
+Pending None~
+Coulin~
+1
+0
+0
+Pending None~
+End~
+15 
+furies~
+QuestPoints 14899
+Eiji~
+4
+101
+2
+Pending None~
+Mobtester~
+1
+0
+0
+Pending None~
+End~
+16 
+guide~
+QuestPoints 3
+Lynn~
+6
+1
+1
+Pending None~
+Sera~
+6
+0
+0
+Pending None~
+Lysergic~
+1
+0
+0
+Pending None~
+Sera~
+1
+0
+0
+Pending None~
+ryallin~
+1
+0
+0
+Pending None~
+cernd~
+1
+0
+0
+Pending None~
+Lynn~
+1
+0
+1
+Pending None~
+Rocky~
+1
+0
+0
+Pending None~
+Jasin~
+6
+0
+0
+Pending None~
+End~
+$

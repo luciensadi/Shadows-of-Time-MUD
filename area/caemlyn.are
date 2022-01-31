@@ -1,0 +1,2701 @@
+#AREADATA
+Name Caemlyn~
+Builders None~
+VNUMs 4500 4999
+Credits `4[`7Lowbie`4]`7 Reghan    Caemlyn~
+Security 10
+Flags F
+Version 4
+End
+
+
+
+#MOBILES
+#4500
+wisdom~
+a young wisdom~
+An elderly woman walks around attending to the sick.
+~
+An elderly looking woman wearing a plain brown skirt of
+wool and a nice linen white shirt that is tucked into the
+edge of the skirt. She carries a small bag which is full
+of herbs that she uses to attend to those sick as they
+pass through Caemlyn.
+~
+unique~
+0 0
+ABQVa 0 0 0 0 -1  0 0
+100 0 2d7+46 2d9+100 1d5+1 none
+6 6 6 9
+EFNU 0 0 0
+stand stand male  0
+0 0 medium unknown
+#4501
+black rat~
+a small black rat~
+A small black rat scurries along the street looking for food.
+~
+~
+unique~
+0 0
+AC 0 0 0 0 -1  0 0
+4 0 2d7+46 2d9+100 1d5+1 none
+6 6 6 9
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#4502
+raven~
+a raven~
+A small black raven is hopping along the ground.
+~
+~
+song bird~
+0 0
+AH 0 0 0 0 -1  0 0
+6 0 2d7+71 3d9+100 1d7+1 none
+0 0 0 0
+FH AGW ACDEFHKP 0
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#4503
+child boy~
+a small boy~
+A small boy wanders around the city tossing rocks around.
+~
+A small boy wearing proudly his mischevious grin.
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+9 0 2d6+110 4d9+1 1d8+2 none
+2 2 2 8
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#4504
+child girl~
+a small girl~
+A small girl wanders around the city fidgeting with her skirts.
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+11 0 2d6+110 4d9+1 1d8+2 none
+2 2 2 8
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#4505
+young man~
+a young man~
+A young man moves up and down the streets.
+~
+~
+unique~
+0 0
+AG 0 0 0 0 -1  0 0
+17 0 1d9+110 6d9+100 1d10+3 none
+0 0 0 8
+F 0 0 0
+stand stand male  60
+AHMV ABCDEF tiny unknown
+#4529
+merchant~
+the wandering merchant~
+A jolly man stands here trying to sell his goods.
+~
+`!------`&GAMBLING MADE EASY`!-------`7
+ 
+All you have to do is give the merchant 5000 silver. This is done by
+typing    give 5000 silver merchant
+ 
+Once you do so the Merchant will randomly select a ball from his 
+bag and if you have the right ball you win. The balls are as follows
+and the prizes you will have to find out for yourself.
+ 
+`8-------`&LOSERS`8-------`7
+`@GREEN`7
+`#YELLOW`7
+`5PURPLE`7
+ 
+`$-------`&WINNERS`$-------`7
+`!RED`7
+`$BLUE`7
+`8BLACK`7
+ 
+ 
+~
+unique~
+0 0
+AG 0 0 0 0 -1  0 0
+100 0 1d9+999 1d9+999 1d9+999 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 4530 100~
+M BRIBE 4529 5000~
+#4535
+teacher instructor man~
+old teacher~
+An old man stands here carrying books which he looks at through his thick glasses.
+~
+An elderly man who is forced to wear glasses in his older years.
+He carries around many books and wears rather poorly chosen
+clothes.
+~
+unique~
+0 0
+ABJKb 0 0 0 0 -1  0 0
+100 0 1d99+999 0d0+0 1d99+999 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#4538
+shopkeeper Allyn~
+Allyn the shopkeeper~
+An elderly man by the name of Allyn wants to help you.
+~
+An elderly man in rather nice clothing.
+~
+unique~
+0 0
+ABV 16 0 0 0 -1  0 0
+100 0 1d99+999 1d9+999 1d9+999 none
+10 10 10 10
+0 0 0 0
+stand stand none 100000
+AHMV ABCDEFGHIJK medium unknown
+#4539
+hedgedoctor herbalist~
+the hedgedoctor~
+A scragly old man selling herbs is here.
+~
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+100 0 1d9+999 1d9+999 1d9+999 none
+10 10 10 10
+0 0 0 0
+stand stand none 20000
+AHMV ABCDEFGHIJK medium unknown
+#4540
+Azrael soothsayer~
+the Soothsayer~
+Azrael the Soothsayer is sitting at a small table gazing into her crystal ball.
+~
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+50 0 1d9+999 1d9+999 1d9+999 none
+40 40 40 40
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 4541 100~
+M BRIBE 4540 5000~
+#4550
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#4551
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#4500
+fountain water~
+a fountain~
+A massive fountain with the statue of a woman pouring water into it.~
+unknown~
+fountain 0 0
+0
+-1 -1 'water' 0 0
+100 0 0 P
+ T 0 none~
+#4501
+brass lantern~
+a small brass lantern~
+A brass lantern lies unattended here.~
+brass~
+light A A
+0
+0 0 CEFGHI 0 0
+10 0 200 P
+A
+3 1
+ T 0 none~
+#4502
+bread~
+a small loaf of bread~
+A small loaf of bread lies here.~
+food~
+food 0 A
+0
+CE DF 0 0 0
+2 2 22 P
+ T 0 none~
+#4503
+waterskin water skin~
+a small water skin~
+A small bag of leather lies here filled with some liquid.~
+leather~
+drink 0 A
+0
+500 500 'water' 0 0
+2 0 100 P
+ T 0 none~
+#4504
+potion true sight~
+a potion of true sight~
+A small potion lies here on the ground.~
+glass~
+potion G AO
+0
+20 'detect invis' 'detect hidden' 'detect magic' ''
+2 10 290 P
+ T 0 none~
+#4505
+potion fly flying~
+a potion of flying~
+A small potion lies here on the ground.~
+glass~
+potion G AO
+0
+9 'fly' '' '' ''
+3 0 250 P
+ T 0 none~
+#4506
+potion negation~
+a potion of negation~
+A small potion lies here on the ground.~
+glass~
+potion G AO
+0
+50 'cancellation' 'cancellation' '' ''
+9 10 830 P
+ T 0 none~
+#4507
+potion armor~
+a potion of armor~
+A small potion lies here on the ground.~
+unknown~
+potion G AO
+0
+10 'armor' 'stone skin' '' ''
+4 10 200 P
+ T 0 none~
+#4508
+vial holy water~
+a vial of holy water~
+A small vial lies on the ground.~
+crystal~
+potion G AO
+0
+20 'bless' 'dispel evil' 'detect evil' 'protection evil'
+10 10 720 P
+ T 0 none~
+#4509
+potion cure blindness~
+a potion of cure blindness~
+A potion of cure blindness.~
+glass~
+potion G AO
+0
+13 'cure blindness' 'cure blindness' '' ''
+10 10 230 P
+ T 0 none~
+#4510
+bottle antidote~
+a bottle of antidote~
+A small bottle of a strange liquid lies here.~
+crystal~
+potion G AO
+0
+20 'cure poison' 'cure disease' 'reserved' 'reserved'
+8 10 550 P
+ T 0 none~
+#4511
+potion cure critical wounds~
+a potion of cure critical wounds~
+A small potion lies here.~
+glass~
+potion G AO
+0
+20 'cure critical' '' '' ''
+10 10 500 P
+ T 0 none~
+#4512
+potion cure serious wounds~
+a potion of cure serious wounds~
+A small potion lies here.~
+glass~
+potion G AO
+0
+20 'cure serious' '' '' ''
+10 10 350 P
+ T 0 none~
+#4513
+potion cure light wounds~
+a potion of cure light wounds~
+A small potion lies here.~
+glass~
+potion G AO
+0
+20 'cure light' '' '' ''
+10 10 250 P
+ T 0 none~
+#4514
+potion divine protection~
+a potion of divine protection~
+A small potion lies here.~
+unknown~
+potion G AO
+0
+40 'sanctuary' 'armor' 'stone skin' 'shield'
+10 10 800 P
+ T 0 none~
+#4515
+potion sanctuary~
+a potion of sanctuary~
+A small potion lies here.~
+glass~
+potion G AO
+0
+40 'sanctuary' '' '' ''
+10 10 600 P
+ T 0 none~
+#4516
+potion healing~
+a potion of healing~
+A small potion lies here.~
+glas~
+potion G AO
+0
+20 'heal' '' '' ''
+10 10 600 P
+ T 0 none~
+#4675
+reghan patchwork cloak~
+`&(`@B`2linding`&)`7 `&A `$P`4a`@t`2c`!h`1w`^o`6r`&k `$C`@l`!o`^a`&k`7~
+Reghan's Cloak, return immedeatley~
+cloth~
+container Ya AK
+0
+100000 A 0 10000000 1
+90 1 12500 P
+ T 0 none~
+#4999
+reghan restring ticket~
+`&(`@J`2oy`&)`7 `8R`7eg`&h`7a`8n `8R`7es`&t`7r`8i`7n`8g`7~
+A small ticket lies here... PICK IT UP!!~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+100 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#4500
+The Oval Plaza~
+A massive plaza that expands out to cover a wide plot of ground
+before the Queen's Palace. To the south are the gates that lead
+into the palace and the place where the Queen addresses the
+citizen's of Caemlyn. All around the plaza are roads that lead
+back out into the often crowded streets of the city.
+ 
+In the center of the courtyard is a massive fountain with a 
+statue of a beautiful women pouring from a bucket water to 
+refresh the entire city. Around the fountain are benches and
+small trees to offer rest and shade for the weary traveller 
+as they pass through.
+ 
+~
+0 1028 1
+D0
+~
+~
+0 0 4529
+D1
+~
+~
+0 0 4527
+D2
+~
+~
+0 0 4999
+D3
+~
+~
+0 0 4501
+S
+#4501
+Plaza Road~
+The Plaza road leads east from here to the Oval Plaza
+and west to the gates to the new city. On either side
+of the street are small shops and homes kept clean
+by their occupants. A few vendors line the sides of
+the road as well trying to sell you their wares.
+ 
+To the north is a small general store where a man is 
+busy sweeping off the front porch.
+~
+0 0 0
+D0
+~
+~
+0 0 4538
+D1
+~
+~
+0 0 4500
+D3
+~
+~
+0 0 4502
+S
+#4502
+Plaza Road~
+The Plaza road leads east from here to the Oval Plaza
+and west to the gates to the new city. On either side
+of the street are small shops and homes kept clean
+by their occupants. A few vendors line the sides of
+the road as well trying to sell you their wares.
+~
+0 0 0
+D1
+~
+~
+0 0 4501
+D3
+~
+~
+0 0 4503
+S
+#4503
+Intersection of Plaza and Inner Street~
+Here the Plaza Road and the Inner Street meet again. To
+the east is the Oval Plaza and the west are the gates
+that lead back into the New City. All around it the
+beautiful Ogier built Inner City.
+~
+0 0 0
+D0
+~
+~
+0 0 4504
+D1
+~
+~
+0 0 4502
+D2
+~
+~
+0 0 4526
+D3
+~
+~
+0 0 4534
+S
+#4504
+Inner Street~
+The Inner street continues on around the edge of the
+Inner City. It circles the massive and beautiful 
+palace of Caemlyn. Many visitors and residents of the
+city filling the streets as they pass through.
+~
+0 0 0
+D0
+~
+~
+0 0 4505
+D2
+~
+~
+0 0 4503
+S
+#4505
+Inner Street~
+The Inner Street loops around the edge of the Inner City
+and around the Caemlyn Palace where Queen Morgase resides.
+It is paved in well-cleaned flagstone and bordered on
+either side by Ogier-built homes and shops. The streets
+as usual are crowded and busy as people try to go about
+their day to day business.
+~
+0 0 0
+D0
+~
+~
+0 0 4506
+D2
+~
+~
+0 0 4504
+S
+#4506
+Inner Street~
+The Inner street continues on around the edge of the
+Inner City. It circles the massive and beautiful 
+palace of Caemlyn. Many visitors and residents of the
+city filling the streets as they pass through.
+~
+0 0 0
+D1
+~
+~
+0 0 4507
+D2
+~
+~
+0 0 4505
+S
+#4507
+Inner Street~
+The Inner Street loops around the edge of the Inner City
+and around the Caemlyn Palace where Queen Morgase resides.
+It is paved in well-cleaned flagstone and bordered on
+either side by Ogier-built homes and shops. The streets
+as usual are crowded and busy as people try to go about
+their day to day business.
+~
+0 0 0
+D1
+~
+~
+0 0 4508
+D3
+~
+~
+0 0 4506
+S
+#4508
+Inner Street~
+The Inner street continues on around the edge of the
+Inner City. It circles the massive and beautiful 
+palace of Caemlyn. Many visitors and residents of the
+city filling the streets as they pass through.
+~
+0 0 0
+D1
+~
+~
+0 0 4509
+D3
+~
+~
+0 0 4507
+S
+#4509
+Intersection of Northern Road and Inner Street~
+Here the Plaza Road and the Inner street meet and intersect.
+To the south is the Oval Plaza and the Caemlyn Palace while
+the Inner Street loops around the entire inner city just 
+inside the walls.
+~
+0 0 0
+D0
+~
+~
+0 0 4650
+D1
+~
+~
+0 0 4510
+D2
+~
+~
+0 0 4530
+D3
+~
+~
+0 0 4508
+S
+#4510
+Inner Street~
+The Inner Street loops around the edge of the Inner City
+and around the Caemlyn Palace where Queen Morgase resides.
+It is paved in well-cleaned flagstone and bordered on 
+either side by Ogier-built homes and shops. The streets
+as usual are crowded and busy as people try to go about 
+their day to day business.
+~
+0 0 0
+D1
+~
+~
+0 0 4511
+D3
+~
+~
+0 0 4509
+S
+#4511
+Inner Street~
+The Inner street continues on around the edge of the
+Inner City. It circles the massive and beautiful 
+palace of Caemlyn. Many visitors and residents of the
+city filling the streets as they pass through.
+~
+0 0 0
+D1
+~
+~
+0 0 4512
+D3
+~
+~
+0 0 4510
+S
+#4512
+Inner Street~
+The Inner Street loops around the edge of the Inner City
+and around the Caemlyn Palace where Queen Morgase resides.
+It is paved in well-cleaned flagstone and bordered on
+either side by Ogier-built homes and shops. The streets
+as usual are crowded and busy as people try to go about
+their day to day business.
+~
+0 0 0
+D2
+~
+~
+0 0 4513
+D3
+~
+~
+0 0 4511
+S
+#4513
+Inner Street~
+The Inner street continues on around the edge of the
+Inner City. It circles the massive and beautiful 
+palace of Caemlyn. Many visitors and residents of the
+city filling the streets as they pass through.
+~
+0 0 0
+D0
+~
+~
+0 0 4512
+D2
+~
+~
+0 0 4514
+S
+#4514
+Inner Street~
+The Inner Street loops around the edge of the Inner City
+and around the Caemlyn Palace where Queen Morgase resides.
+It is paved in well-cleaned flagstone and bordered on
+either side by Ogier-built homes and shops. The streets
+as usual are crowded and busy as people try to go about
+their day to day business.
+~
+0 0 0
+D0
+~
+~
+0 0 4513
+D2
+~
+~
+0 0 4515
+S
+#4515
+Intersection of Plaza and Inner Street~
+Here the Plaza Road and the Inner street meet again. To
+the west is the Oval Plaza and the east are the gates
+that lead back into the new city. All around is the 
+beautiful Ogier built Inner City.
+~
+0 0 0
+D0
+~
+~
+0 0 4514
+D1
+~
+~
+0 0 4532
+D2
+~
+~
+0 0 4516
+D3
+~
+~
+0 0 4528
+S
+#4516
+Inner Street~
+The Inner street continues on around the edge of the
+Inner City. It circles the massive and beautiful 
+palace of Caemlyn. Many visitors and residents of the
+city filling the streets as they pass through.
+~
+0 0 0
+D0
+~
+~
+0 0 4515
+D2
+~
+~
+0 0 4517
+D3
+~
+~
+0 0 4540
+S
+#4517
+Inner Street~
+The Inner Street loops around the edge of the Inner City
+and around the Caemlyn Palace where Queen Morgase resides.
+It is paved in well-cleaned flagstone and bordered on
+either side by Ogier-built homes and shops. The streets
+as usual are crowded and busy as people try to go about
+their day to day business.
+~
+0 0 0
+D0
+~
+~
+0 0 4516
+D2
+~
+~
+0 0 4518
+S
+#4518
+Inner Street~
+The Inner street continues on around the edge of the
+Inner City. It circles the massive and beautiful 
+palace of Caemlyn. Many visitors and residents of the
+city filling the streets as they pass through.
+~
+0 0 0
+D0
+~
+~
+0 0 4517
+D3
+~
+~
+0 0 4519
+S
+#4519
+Inner Street~
+The Inner Street loops around the edge of the Inner City
+and around the Caemlyn Palace where Queen Morgase resides.
+It is paved in well-cleaned flagstone and bordered on
+either side by Ogier-built homes and shops. The streets
+as usual are crowded and busy as people try to go about
+their day to day business.
+~
+0 0 0
+D1
+~
+~
+0 0 4518
+D3
+~
+~
+0 0 4520
+S
+#4520
+Inner Street~
+The Inner street continues on around the edge of the
+Inner City. It circles the massive and beautiful 
+palace of Caemlyn. Many visitors and residents of the
+city filling the streets as they pass through.
+~
+0 0 0
+D1
+~
+~
+0 0 4519
+D3
+~
+~
+0 0 4521
+S
+#4521
+Intersection Inner Street and the Southern Road~
+The Inner Street and the Southern Road meet here just inside
+the gates of the Inner City. To the east and west the 
+Inner street continues to loop around the palace and all of
+the Inner city while to the south the Southern Road leaves
+the Inner city and carries you on into the New City.
+~
+0 0 0
+D1
+~
+~
+0 0 4520
+D2
+~
+~
+0 0 4533
+D3
+~
+~
+0 0 4522
+S
+#4522
+Inner Street~
+The Inner Street loops around the edge of the Inner City
+and around the Caemlyn Palace where Queen Morgase resides.
+It is paved in well-cleaned flagstone and bordered on
+either side by Ogier-built homes and shops. The streets
+as usual are crowded and busy as people try to go about
+their day to day business.
+~
+0 0 0
+D1
+~
+~
+0 0 4521
+D3
+~
+~
+0 0 4523
+S
+#4523
+Inner Street~
+The Inner street continues on around the edge of the
+Inner City. It circles the massive and beautiful 
+palace of Caemlyn. Many visitors and residents of the
+city filling the streets as they pass through.
+~
+0 0 0
+D1
+~
+~
+0 0 4522
+D3
+~
+~
+0 0 4524
+S
+#4524
+Inner Street~
+The Inner Street loops around the edge of the Inner City
+and around the Caemlyn Palace where Queen Morgase resides.
+It is paved in well-cleaned flagstone and bordered on
+either side by Ogier-built homes and shops. The streets
+as usual are crowded and busy as people try to go about
+their day to day business.
+~
+0 0 0
+D0
+~
+~
+0 0 4525
+D1
+~
+~
+0 0 4523
+S
+#4525
+Inner Street~
+The Inner street continues on around the edge of the
+Inner City. It circles the massive and beautiful 
+palace of Caemlyn. Many visitors and residents of the
+city filling the streets as they pass through.
+ 
+On the eastern side of the road hangs a small sign
+bearing the picture of a mortor and some small herbs. 
+Obviously the home of the hedgedoctor.
+~
+0 0 0
+D0
+~
+~
+0 0 4526
+D1
+~
+~
+0 0 4539
+D2
+~
+~
+0 0 4524
+S
+#4526
+Inner Street~
+The Inner Street loops around the edge of the Inner City
+and around the Caemlyn Palace where Queen Morgase resides.
+It is paved in well-cleaned flagstone and bordered on
+either side by Ogier-built homes and shops. The streets
+as usual are crowded and busy as people try to go about
+their day to day business.
+~
+0 0 0
+D0
+~
+~
+0 0 4503
+D2
+~
+~
+0 0 4525
+S
+#4527
+Plaza Road~
+The Plaza road leads west from here to the Oval Plaza
+and east to the gates to the new city. On either side
+of the street are small shops and homes kept clean
+by their occupants. A few vendors line the sides of
+the road as well trying to sell you their wares.
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 4528
+D3
+~
+~
+0 0 4500
+S
+#4528
+Plaza Road~
+The Plaza road leads west from here to the Oval Plaza
+and east to the gates to the new city. On either side
+of the street are small shops and homes kept clean
+by their occupants. A few vendors line the sides of
+the road as well trying to sell you their wares.
+ 
+To the north lies the Inner City Bank.
+~
+0 0 0
+D0
+~
+~
+0 0 4537
+D1
+~
+~
+0 0 4515
+D3
+~
+~
+0 0 4527
+S
+#4529
+Northern Road~
+The Plaza Road extends on towards the Plaza to the south and
+the new city to the north. On either side of the road are
+beautiful homes and shops of the inner city residents.
+ 
+On the eastern side of the road is an old school house but
+still kept in decent shape. It is kept free of dust and many
+other people by the door.
+~
+0 0 0
+D0
+~
+~
+0 0 4530
+D1
+~
+~
+0 0 4535
+D2
+~
+~
+0 0 4500
+S
+#4530
+Northern Road~
+The Plaza Road extends on towards the Plaza to the south and the new city
+to the north.  On either side of the road are beautiful homes and shops of
+the inner city residents.  
+~
+0 0 0
+D0
+~
+~
+0 0 4509
+D2
+~
+~
+0 0 4529
+S
+#4531
+Northern Road at the Gates~
+The Plaza Road meets here with the gates to the Inner
+City. The inner city is a beautiful area atop of a hill
+in the center of the city. The buildings in this area 
+seem to be grown more than built, the work of the legendary
+Ogier stonemasons.
+~
+0 4 0
+D0
+~
+~
+1 0 4650
+S
+#4532
+Plaza Road at the Gates~
+The Plaza Road meets the eastern gates of the inner city
+here. The gates as always stand open for free travel to
+and from the new city and the inner city. Continuing to
+the west os the Plaza Road and eventually the famous
+Oval Plaza while to the east is the New City.
+~
+0 4 0
+D1
+~
+~
+1 0 4651
+D3
+~
+~
+0 0 4515
+S
+#4533
+Southern Road at the Gates~
+The Southern gates of the Inner city are here meeting
+with the Southern Road which leads out to the new city 
+and further still out of the entire city itself and
+into the surrounding countryside on your way south.
+As always the gates between the new city and the Inner
+city remain open, the actual gates seemingly more for
+show than anything else.
+~
+0 4 0
+D0
+~
+~
+0 0 4521
+D2
+~
+~
+1 0 4652
+S
+#4534
+Plaza Road at the Gates~
+The Plaza Road meets the western gate of the inner city
+here. The gates as always stand open for free travel to
+and from the new city and the inner city. Continuing to
+the east is the Plaza Road and eventually the famous
+Oval Plaza while the west is the new city.
+~
+0 4 0
+D1
+~
+~
+0 0 4503
+D3
+~
+~
+1 0 4601
+S
+#4535
+Old School House~
+An Ogier-built room kept clean by the old man that lives in
+the back room just to the north. Lining the edges of the room
+are bookshelves filled and in often places over flowing.
+~
+0 1036 0
+D0
+~
+~
+1 0 4536
+D3
+~
+~
+0 0 4529
+S
+#4536
+Back Room~
+A small room in the back of the school house accessible by
+the door on the southern wall. There is only a small bed 
+which is surrounded by many books.
+~
+0 0 0
+D2
+~
+~
+1 0 4535
+S
+#4537
+Inner City Bank~
+A small room filled with many people trying to deposit
+their savings into the banks of Caemlyn. Some also come
+to exchange gold for silver as well. A small desk is
+situated at the northern end of the room with a man
+taking the money from the citizens sitting behind it. 
+Around him are a few guards who look warily at all
+who approach the table.
+~
+0 1048584 0
+D2
+~
+~
+0 0 4528
+S
+#4538
+Caemlyn General~
+A small store with one old man working the counter on the
+northern wall. He seems to have a wide assortment of things
+one might need to brave the inner streets of Caemlyn and
+have an enjoyable stay.
+~
+0 8 0
+D2
+~
+~
+0 0 4501
+S
+#4539
+Hedgedoctor's House~
+A small and quite messy room filled with small pots 
+which grow many different plants. There is a man
+who wanders around, bandaging up the wounded and
+forcing vial concoctions down the throats of his
+visitors.
+~
+0 0 0
+D3
+~
+~
+0 0 4525
+S
+#4540
+The Soothsayer's House~
+The insides of this room are kept clean and somewhat dark
+by the furnishings. There is a small candle on the table
+that illuminates a small orb. The woman staring into the
+orb seems to be drawn by it but could this all be for real.
+~
+0 0 0
+D1
+~
+~
+0 0 4516
+S
+#4601
+Plaza Road~
+~
+0 0 0
+D1
+~
+~
+1 0 4534
+D3
+~
+~
+0 0 4602
+S
+#4602
+Plaza Road at the New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4603
+D1
+~
+~
+0 0 4601
+D2
+~
+~
+0 0 4649
+S
+#4603
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4604
+D2
+~
+~
+0 0 4602
+S
+#4604
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4605
+D2
+~
+~
+0 0 4603
+S
+#4605
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4606
+D2
+~
+~
+0 0 4604
+S
+#4606
+Western Road meets the New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4607
+D2
+~
+~
+0 0 4605
+D3
+~
+~
+0 0 4687
+S
+#4607
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4608
+D2
+~
+~
+0 0 4606
+S
+#4608
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4609
+D2
+~
+~
+0 0 4607
+S
+#4609
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4610
+D3
+~
+~
+0 0 4608
+S
+#4610
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4611
+D3
+~
+~
+0 0 4609
+S
+#4611
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4612
+D3
+~
+~
+0 0 4610
+S
+#4612
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4613
+D3
+~
+~
+0 0 4611
+S
+#4613
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4614
+D3
+~
+~
+0 0 4612
+S
+#4614
+Northern Road at the New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4657
+D1
+~
+~
+0 0 4615
+D2
+~
+~
+0 0 4650
+D3
+~
+~
+0 0 4613
+S
+#4615
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4616
+D3
+~
+~
+0 0 4614
+S
+#4616
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4617
+D3
+~
+~
+0 0 4615
+S
+#4617
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4618
+D3
+~
+~
+0 0 4616
+S
+#4618
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4676
+D1
+~
+~
+0 0 4619
+D3
+~
+~
+0 0 4617
+S
+#4619
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4620
+D3
+~
+~
+0 0 4618
+S
+#4620
+Eastern Road meets the New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4681
+D2
+~
+~
+0 0 4621
+D3
+~
+~
+0 0 4619
+S
+#4621
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4620
+D2
+~
+~
+0 0 4622
+S
+#4622
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4621
+D2
+~
+~
+0 0 4623
+S
+#4623
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4622
+D2
+~
+~
+0 0 4624
+S
+#4624
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4623
+D2
+~
+~
+0 0 4625
+S
+#4625
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4624
+D2
+~
+~
+0 0 4626
+S
+#4626
+Plaza Road at the New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4625
+D1
+~
+~
+0 0 4667
+D2
+~
+~
+0 0 4627
+D3
+~
+~
+0 0 4651
+S
+#4627
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4626
+D2
+~
+~
+0 0 4628
+S
+#4628
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4627
+D2
+~
+~
+0 0 4629
+S
+#4629
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4628
+D2
+~
+~
+0 0 4630
+S
+#4630
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4629
+D2
+~
+~
+0 0 4631
+S
+#4631
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4630
+D2
+~
+~
+0 0 4632
+S
+#4632
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4631
+D3
+~
+~
+0 0 4633
+S
+#4633
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4632
+D3
+~
+~
+0 0 4634
+S
+#4634
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4633
+D3
+~
+~
+0 0 4635
+S
+#4635
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4634
+D3
+~
+~
+0 0 4636
+S
+#4636
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4635
+D3
+~
+~
+0 0 4637
+S
+#4637
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4636
+D3
+~
+~
+0 0 4638
+S
+#4638
+Southern Road at the New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4652
+D1
+~
+~
+0 0 4637
+D2
+~
+~
+0 0 4653
+D3
+~
+~
+0 0 4639
+S
+#4639
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4638
+D3
+~
+~
+0 0 4640
+S
+#4640
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4639
+D3
+~
+~
+0 0 4641
+S
+#4641
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4640
+D3
+~
+~
+0 0 4642
+S
+#4642
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4641
+D3
+~
+~
+0 0 4643
+S
+#4643
+New City Circuit~
+~
+0 0 0
+D1
+~
+~
+0 0 4642
+D3
+~
+~
+0 0 4644
+S
+#4644
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4645
+D1
+~
+~
+0 0 4643
+S
+#4645
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4646
+D2
+~
+~
+0 0 4644
+S
+#4646
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4647
+D2
+~
+~
+0 0 4645
+S
+#4647
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4648
+D2
+~
+~
+0 0 4646
+S
+#4648
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4649
+D2
+~
+~
+0 0 4647
+S
+#4649
+New City Circuit~
+~
+0 0 0
+D0
+~
+~
+0 0 4602
+D2
+~
+~
+0 0 4648
+S
+#4650
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4614
+D2
+~
+~
+0 0 4509
+S
+#4651
+Plaza Road~
+~
+0 0 0
+D1
+~
+~
+0 0 4626
+D3
+~
+~
+1 0 4532
+S
+#4652
+Southern Road~
+~
+0 0 0
+D0
+~
+~
+1 0 4533
+D2
+~
+~
+0 0 4638
+S
+#4653
+Southern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4638
+D2
+~
+~
+0 0 4654
+S
+#4654
+Southern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4653
+D2
+~
+~
+0 0 4655
+S
+#4655
+Southern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4654
+D2
+~
+~
+0 0 4656
+S
+#4656
+The Southern Gates of Caemlyn~
+~
+0 0 0
+D0
+~
+~
+0 0 4655
+S
+#4657
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4658
+D2
+~
+~
+0 0 4614
+S
+#4658
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4659
+D2
+~
+~
+0 0 4657
+S
+#4659
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4660
+D2
+~
+~
+0 0 4658
+S
+#4660
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4661
+D1
+~
+~
+0 0 4670
+D2
+~
+~
+0 0 4659
+S
+#4661
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4662
+D2
+~
+~
+0 0 4660
+S
+#4662
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4663
+D2
+~
+~
+0 0 4661
+S
+#4663
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4664
+D1
+~
+~
+0 0 4680
+D2
+~
+~
+0 0 4662
+S
+#4664
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4665
+D2
+~
+~
+0 0 4663
+S
+#4665
+Northern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4666
+D2
+~
+~
+0 0 4664
+S
+#4666
+The Northern Gates of Caemlyn~
+~
+0 0 0
+D0
+~
+~
+0 0 13000
+D2
+~
+~
+0 0 4665
+S
+#4667
+Plaza Road~
+~
+0 0 0
+D1
+~
+~
+0 0 4668
+D3
+~
+~
+0 0 4626
+S
+#4668
+Plaza Road~
+~
+0 0 0
+D1
+~
+~
+0 0 4669
+D3
+~
+~
+0 0 4667
+S
+#4669
+~
+~
+0 0 0
+D3
+~
+~
+0 0 4668
+S
+#4670
+Path Around the Barracks~
+~
+0 0 0
+D1
+~
+~
+0 0 4671
+D3
+~
+~
+0 0 4660
+S
+#4671
+Path Around the Barracks~
+~
+0 0 0
+D0
+~
+~
+0 0 4677
+D1
+~
+~
+0 0 4672
+D3
+~
+~
+0 0 4670
+S
+#4672
+Path Around the Barracks~
+~
+0 0 0
+D1
+~
+~
+0 0 4673
+D3
+~
+~
+0 0 4671
+S
+#4673
+Path Around the Barracks~
+~
+0 0 0
+D2
+~
+~
+0 0 4674
+D3
+~
+~
+0 0 4672
+S
+#4674
+Path Around the Barracks~
+~
+0 0 0
+D0
+~
+~
+0 0 4673
+D2
+~
+~
+0 0 4675
+S
+#4675
+Path Around the Barracks~
+~
+0 0 0
+D0
+~
+~
+0 0 4674
+D1
+~
+~
+0 0 4696
+D2
+~
+~
+0 0 4676
+S
+#4676
+Path Around the Barracks~
+~
+0 0 0
+D0
+~
+~
+0 0 4675
+D2
+~
+~
+0 0 4618
+S
+#4677
+A Back Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 4678
+D2
+~
+~
+0 0 4671
+S
+#4678
+A Back Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 4679
+D2
+~
+~
+0 0 4677
+S
+#4679
+A Back Alley~
+~
+0 0 0
+D2
+~
+~
+0 0 4678
+D3
+~
+~
+0 0 4680
+S
+#4680
+A Back Alley~
+~
+0 0 0
+D1
+~
+~
+0 0 4679
+D3
+~
+~
+0 0 4663
+S
+#4681
+Eastern Road~
+~
+0 0 0
+D1
+~
+~
+0 0 4682
+D3
+~
+~
+0 0 4620
+S
+#4682
+Eastern Road~
+~
+0 0 0
+D0
+~
+~
+0 0 4692
+D1
+~
+~
+0 0 4683
+D3
+~
+~
+0 0 4681
+S
+#4683
+Eastern Road~
+~
+0 0 0
+D1
+~
+~
+0 0 4684
+D3
+~
+~
+0 0 4682
+S
+#4684
+Eastern Road~
+~
+0 0 0
+D1
+~
+~
+0 0 4685
+D3
+~
+~
+0 0 4683
+S
+#4685
+Eastern Road~
+~
+0 0 0
+D1
+~
+~
+0 0 4686
+D3
+~
+~
+0 0 4684
+S
+#4686
+Eastern Gates of Caemlyn~
+~
+0 0 0
+D3
+~
+~
+0 0 4685
+S
+#4687
+Western Road~
+~
+0 0 0
+D1
+~
+~
+0 0 4606
+D3
+~
+~
+0 0 4688
+S
+#4688
+Western Road~
+~
+0 0 0
+D1
+~
+~
+0 0 4687
+D3
+~
+~
+0 0 4689
+S
+#4689
+Western Road~
+~
+0 0 0
+D1
+~
+~
+0 0 4688
+D3
+~
+~
+0 0 4690
+S
+#4690
+Western Road~
+~
+0 0 0
+D1
+~
+~
+0 0 4689
+D3
+~
+~
+0 0 4691
+S
+#4691
+Western Gate of Caemlyn~
+~
+0 0 0
+D1
+~
+~
+0 0 4690
+S
+#4692
+A Back Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 4693
+D2
+~
+~
+0 0 4682
+S
+#4693
+A Back Alley~
+~
+0 0 0
+D2
+~
+~
+0 0 4692
+D3
+~
+~
+0 0 4694
+S
+#4694
+A Back Alley~
+~
+0 0 0
+D1
+~
+~
+0 0 4693
+D3
+~
+~
+0 0 4695
+S
+#4695
+A Back Alley~
+~
+0 0 0
+D1
+~
+~
+0 0 4694
+D3
+~
+~
+0 0 4696
+S
+#4696
+A Back Alley~
+~
+0 0 0
+D1
+~
+~
+0 0 4695
+D3
+~
+~
+0 0 4675
+S
+#4998
+Guardhouse~
+A small room with very little in the way of furnishings. A 
+small desk is on the northern wall with a chair in front of
+it. The table is covered in papers and other and small books
+which are the logs of the people entering the palace.
+~
+0 0 0
+D1
+~
+~
+0 0 4999
+S
+#4999
+The Gates to the Queen's Palace~
+A tall gate of wrought iron and plated in gold blocks entrance
+to the beautiful Caemlyn Palace. You can see the many lush
+courtyards inside the walls from here as well as the near ivory
+spires topped with domes of gold as well. The banner of the
+White Lion flies from each of these spires.
+ 
+Standing nearby are quite a few guards who parade themselves 
+before the gates to deter those who would wish to come in. A
+small guardhouse is built into the walls of the palace here.
+~
+0 0 0
+D0
+~
+~
+0 0 4500
+D3
+~
+~
+0 0 4998
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4531 0 1
+D 0 4532 1 1
+D 0 4533 2 1
+D 0 4534 3 1
+D 0 4535 0 1
+D 0 4536 2 1
+D 0 4601 1 1
+D 0 4651 3 1
+D 0 4652 0 1
+O 0 4500 0 4500 0 100 A fountain loaded to The Oval Plaza
+M 0 4500 1 4500 1 100 Load a young wisdom
+M 0 4535 1 4535 1 100 Load old teacher
+M 0 4538 1 4538 1 100 Load Allyn the shopkeeper
+G 0 4501 0 0 0 100 A small brass lantern is given to Allyn the shopkeeper
+G 0 4502 0 0 0 100 A small loaf of bread is given to Allyn the shopkeeper
+G 0 4503 0 0 0 100 A small water skin is given to Allyn the shopkeeper
+M 0 4539 1 4539 1 100 Load the hedgedoctor
+G 0 4504 0 0 0 100 A potion of true sight is given to the hedgedoctor
+G 0 4505 0 0 0 100 A potion of flying is given to the hedgedoctor
+G 0 4506 0 0 0 100 A potion of negation is given to the hedgedoctor
+G 0 4507 0 0 0 100 A potion of armor is given to the hedgedoctor
+G 0 4508 0 0 0 100 A vial of holy water is given to the hedgedoctor
+G 0 4509 0 0 0 100 A potion of cure blindness is given to the hedgedoctor
+G 0 4510 0 0 0 100 A bottle of antidote is given to the hedgedoctor
+G 0 4511 0 0 0 100 A potion of cure critical wounds is given to the hedgedoctor
+G 0 4512 0 0 0 100 A potion of cure serious wounds is given to the hedgedoctor
+G 0 4513 0 0 0 100 A potion of cure light wounds is given to the hedgedoctor
+G 0 4514 0 0 0 100 A potion of divine protection is given to the hedgedoctor
+G 0 4515 0 0 0 100 A potion of sanctuary is given to the hedgedoctor
+G 0 4516 0 0 0 100 A potion of healing is given to the hedgedoctor
+M 0 4540 1 4540 1 100 Load the Soothsayer
+S
+
+
+
+#SHOPS
+4529 0 0 0 0 0 100 100 0 23
+4538 0 0 0 0 0 100 100 0 23
+4539 0 0 0 0 0 1000 100 0 23
+4540 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#4529
+mobecho The merchant reaches into the bag and pulls out a token.
+if rand 97
+say It's the blue token!
+say Congratulations, you win!
+mob oload 4999
+give restring $n
+else
+if rand 80
+say I'm sorry but its the green token.
+say You did not win this time, but do try again!
+else
+if rand 70
+say Ohh my, its the red token!
+say You win!!!
+mob oload 4514
+give divine $n
+else
+if rand 60
+say Blood and bloody ashes!
+say The flaming yellow token, I'm sorry friend but you do not win.
+else 
+if rand 50
+say The purple token.
+say I thought you had it that time.
+else
+if rand 40
+say The Creator has smiled upon you, it is the black token.
+mob oload 4515
+give sanctuary $n
+emote smiles, 'Here you go.'
+else
+if rand 30
+emote shakes his head grimly.
+say Sorry friend, but it is the purple token, better luck next time.
+else
+if rand 20
+say I didn't think it would be the yellow token, honest I didn't.
+say Do try your luck again though.
+else
+if rand 10
+say Son of a Goat Kisser
+say It is the flaming green token.
+say I do think you will win next time, I really do.
+endif
+break
+~
+#4530
+say Hey you!
+say Yes you, would you like to play a little game?
+say If so, type look merchant.
+~
+#4540
+mobecho The soothsayer looks into her crystal ball which begins to glow.
+if rand 97
+say The Light shines on you today.
+mob cast sanctuary $n
+else
+if rand 80
+say I see neither good or bad, but rather an emptiness.
+mob cast cancel $n
+else
+if rand 70
+say You radiate unviolence.
+mob cast calm $n
+else
+if rand 60
+say You will see distant places today.
+mob cast teleport $n
+else
+if rand 50
+say You have the Dark One's own luck.
+mob cast curse $n
+else
+if rand 40
+say The strength of the Light be with you today
+mob cast giant $n
+else
+if rand 30
+say You seem to radiate wellness.
+mob cast heal $n
+else
+if rand 20
+say The Creator seems to smile at you today.
+mob cast shield $n
+else
+if rand 10 
+say I don't forsee anything for you...
+endif
+break
+~
+#4541
+say Welcome to my home..
+say Please, take a seat and see what my crystal orb can find for you.
+say It will only cost you 5000 in Andoran weight silver.
+say So just pay it to me now before the orb predicts something bad.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

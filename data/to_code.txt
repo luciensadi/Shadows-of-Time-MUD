@@ -1,0 +1,7 @@
+[`7Jaromir   `$]`3 Nov  7`*`3:`* Make a few changes to clerics.
+[`7Saradin   `$]`3 Nov  7`*`3:`* make tinkers pkable
+[`7Jaromir   `$]`3 Nov  7`*`3:`* Remove Cover
+[`7Saradin   `$]`3 Nov  7`*`3:`* set up wolfbro gskills, hunt, howl, wolf and perm detects
+[`7Jaromir   `$]`3 Nov  9`*`3:`* Fix grep for for skills list.
+[`7Saradin   `$]`3 Nov 13`*`3:`* TAKE OUT COVER PUHLEESE
+[`7Jaromir   `$]`3 Dec  3`*`3:`* put mage gear on quest list

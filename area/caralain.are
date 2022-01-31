@@ -1,0 +1,3997 @@
+#AREADATA
+Name Caralain Grass~
+Builders None~
+VNUMs 5400 5577
+Credits `4[`7 None `4]`7 Lynn      Caralain Grass~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#5400
+field hand~
+a shiftless field hand~
+A shiftless field hand is here, hiding from his boss, and not looking happy that you found him.
+~
+A sneaky fellow, tall and dressed the part in worn britches and tunic,
+his bared arms are toned with labor.  He gives you a surprised look at your
+attention, then attempts to fade back into the brush.  
+ 
+~
+unique~
+0 0
+AGTW 0 82 0 0 -1  1000 0
+140 20 20d7+3750 0d0+0 6d6+18 slash
+-1 -1 -1 -1
+CFJK AK 0 0
+stand stand none 500
+0 0 large unknown
+M HPCNT 5402 30~
+M DEATH 5401 100~
+#5401
+moth~
+A vicious moth~
+A dusty grey moth is here, munching holes in discarded clothing.
+~
+~
+unique~
+0 0
+A 2304 80 0 128 -1  -1000 0
+140 20 50d10+4500 0d0+0 5d8+19 drain
+-1 -1 -1 -1
+CDEFK GLQ 0 HJN
+stand stand none 500
+O 0 medium unknown
+#5402
+Farmwife~
+a Frenzied Farmwife~
+A short, matronly farmwife is here busy planning for the next meal, looking a little frazzled.
+~
+An older woman, with laugh lines crinkling the corners of her eyes.  She smiles a welcoming smile, even though she's busy with the day's running of the household.
+~
+unique~
+0 0
+A 256 64 0 0 -1  1000 0
+130 50 50d10+8500 0d0+0 5d8+10 bite
+-1 -1 -1 -1
+DFN AB C D
+stand stand female 700
+MV ABDI medium unknown
+#5403
+Milk Maid~
+a Buxom Milk Maid~
+A comely milking maid is here going about her chores. 
+~
+A young woman, dark hair tied up off her face with a checkered kerchief, she smiles at you flirtatiously while wiping her hands clean on a lacey apron.
+~
+unique~
+0 0
+A 256 64 0 0 -1  1000 0
+140 25 50d10+2700 0d0+0 5d8+9 slap
+-1 -1 -1 -1
+FHIN AB 0 C
+stand stand female 0
+MV DEFIJ medium unknown
+#5404
+Mad Cow~
+a Mad Cow~
+A cow is here pawing at the ground and tossing its huge horns.
+~
+A fat white cow with big black spots, her placid eyes get a wicked gleam at the entrance of a stranger to her pen and she lows her distress to the listening milkmaids.
+~
+unique~
+0 0
+AD 0 64 0 0 -1  1000 0
+65 12 4d10+2500 0d0+0 5d3+10 slash
+-1 -1 -1 -1
+CIKM AELQ B DFKN
+stand stand female 500
+AGHV ADEFJQW large unknown
+#5405
+sow pig~
+a fat placid pig~
+A wallowing sow lies here, digesting between feedings.
+~
+A fat pig rolls in the mud, but stands up at your arrival, stepping
+closer on hard cloven hooves to snuffle at your hands for food.  
+~
+unique~
+0 0
+ABD 256 2112 0 0 -1  1000 0
+140 30 10d25+3500 0d0+0 4d4+10 slash
+-1 -1 -1 0
+CHIM 0 0 D
+stand stand none 600
+AV EFQY large unknown
+#5406
+roach bug~
+a scuttling roach~
+A huge roach comes scuttling toward you on clicking feet.
+~
+A large fat roach skitters in the shadows, its black shiny carapace
+glittering in the faint light.  It's buggy eyes gleam with hunger.  
+~
+unique~
+0 0
+ABCF 80 64 2048 0 -1  -1000 0
+140 30 25d10+3750 0d0+0 6d6+18 pierce
+-1 -1 -1 -1
+DIN 0 AB CN
+stand stand none 500
+O 0 medium unknown
+#5407
+tinker lady~
+a small statue of a Lady~
+Beside the path here is a tiny statue of what looks like a little tinker woman.
+~
+Complete with clashing colors, now faded by the sun, the tiny smiling
+face of the statue looks benevolently back at you.  In a strange way, the
+little face brings to mind another having a close resemblance.  
+~
+unique~
+0 0
+ABQa 336 64 0 0 -1  128 0
+150 5 5d5+10 20d15+300 5d5+20 slap
+-2 -2 -2 -2
+0 ABCELQ 0 0
+stand stand female 20000
+V 0 tiny unknown
+#5408
+Stable Boy~
+A handsome stableboy~
+A good looking young stableboy is here flirting with all the girls and doing his chores.
+~
+This boyishly handsome fellow grins at you amiably, shifting his
+pitchfork to one shoulder to come shake your hand.  
+~
+unique~
+0 0
+A 256 64 0 0 -1  1000 0
+130 25 25d10+3750 0d0+0 4d6+11 pierce
+-1 -1 -1 0
+CFHI 0 0 0
+stand stand none 600
+MV BDEFJ medium unknown
+#5409
+field mouse~
+A field mouse~
+A little field mouse scurries across your path, attempting to disappear in the grass.
+~
+This tiny mouse sits washing its face with tiny front paws.  Seeing you,
+its eyes widen and with a squeak it attempts to hide in the surrounding
+grass.  
+~
+unique~
+0 0
+AG 0 67 0 0 -1  -1000 0
+140 25 25d10+1850 0d0+0 4d10+18 flbite
+-1 -1 -1 -1
+DEFHKN A 0 Q
+stand stand male  500
+AG 0 small unknown
+#5410
+guard Dog~
+a grizzled mutt~
+A large menacing dog wakes up at your entrance and growls, baring his teeth.
+~
+This grizzled mutt has a large spiked collar with the name "Jeter"
+inscribed on a steel plate.  
+~
+dog~
+0 0
+ABF 256 16384 0 0 -1  0 0
+150 120 50d10+9500 0d0+0 12d12+50 bite
+-3 -3 -3 -3
+CEFHN A C DH
+stand stand male  1000
+AGV ACDEFHJKUV medium unknown
+#5411
+tiny spider~
+a tiny spider~
+A tiny spider spins a tiny web in the corner, humming a tiny tune.
+~
+The tiny spider with all its tiny legs peers at you with tiny eyes.
+~
+unique~
+0 0
+ABQVZa 80 64 0 0 -1  0 0
+110 0 20d1+1 100d1000+20 20d1+1 none
+0 0 0 0
+0 AB 0 0
+stand stand female 0
+0 0 tiny unknown
+#5412
+beetle~
+A dung beetle~
+A fat beetle is here, burrowing in old rotted bones.
+~
+This fat beetle, oversized from feasting on old bones, shies away from
+the light, bumbling its way back into the shadows.  
+~
+unique~
+0 0
+A 0 2114 0 0 -1  -500 0
+140 25 50d10+4500 0d0+0 5d10+25 bite
+-2 -2 -2 -2
+DFHK A B HJ
+stand stand none 600
+Oc 0 medium unknown
+#5413
+young girl farmer's daughter~
+the farmer's daughter~
+A pretty young girl sits here on a chair combing her hair and humming to herself.
+~
+Obviously this must be the farmer's daughter, with a room all to herself.
+She is a spoiled young thing, but sweet-tempered, and when you walk in her
+room, she turns to the door with a smile, before seeing that you're a
+stranger...  
+~
+andor~
+0 0
+AB 0 0 0 0 -1  1000 0
+130 20 25d10+3500 0d0+0 8d4+15 slap
+-1 -1 -1 -1
+DFHIK AB 0 D
+sit sit female 0
+AHMV ABCDEFGHIJK medium unknown
+#5414
+Corporeal Presence~
+A Corporeal Presence~
+`*
+~
+`8
+A fleeting image, the memories of life and laughter, pain and tears... 
+Only the essence remains of what once was...  Or who.  
+`8 
+~
+giant~
+0 0
+ABFGRTZce 336 64 0 0 -1  600 0
+700 1872 15000d2+100 60d50+40 50d40+15 divine
+-100 -100 -100 -200
+ADFK AB HI JP
+stand stand none 1000000
+AHMV ABCDEFGHIJK large unknown
+#5449
+scarecrow~
+a Flimsy Scarecrow~
+A ramshackle collection of rags and sticks has been stuck in the ground here to keep the vermin away.
+~
+~
+unique~
+0 0
+ABFOe 256 80 0 0 -1  -1000 0
+154 40 90d10+13500 0d0+0 12d10+49 thwack
+-4 -4 -4 -4
+CDEFIK ABFLQ 0 HN
+stand stand none 1000
+I 0 medium unknown
+#5546
+Perv~
+Perv~
+Perv is here.
+~
+~
+andor~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 10d10+1 0d0+0 10d10+1 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 5549 smile~
+#5547
+Supreme Guide~
+The Supreme Guide~
+The Supreme Guide stands here, looking aloof and confident.
+~
+The Supreme Guide, Arthur, stands as a bastion of strength to all guides
+under his watchful eye.  He is a tall man, with slightly stooped shoulders
+and a careworn face.  His piercing eyes miss nothing, and his stance is
+poised, as if ready to react quickly to a cry for help.  
+~
+andor~
+0 0
+ABV 80 0 0 0 -1  0 0
+1 10 1d1+100 0d0+0 1d1+2 none
+0 0 0 0
+0 AK 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#5548
+Betty~
+Betty~
+Betty the buxom barmaid is here to serve you.
+~
+~
+unique~
+0 0
+AB 80 0 0 0 -1  0 0
+50 50 10d4+2000 0d0+0 10d4+50 slap
+-1 -1 -1 -1
+0 CKTZ 0 0
+stand stand female 0
+0 0 medium unknown
+M GREET 5547 100~
+#5549
+Jeeves~
+Jeeves~
+Jeeves is here to greet you.
+~
+~
+unique~
+0 0
+AB 80 0 0 0 -1  0 0
+100 50 10d4+2000 0d0+0 10d3+50 bite
+-2 -2 -2 -2
+0 NZ 0 0
+stand stand male  0
+0 0 medium unknown
+M RANDOM 5546 50~
+M ACT 5546 winks~
+#0
+
+
+
+#OBJECTS
+#5400
+Mottled Cloak~
+`7A Mottled Cloak~
+A puddle of thick tan and green cloth lies here, blending into the grass.~
+unknown~
+armor BY ADK
+0
+CE CE CE CE 0
+80 0 5000 P
+A
+13 50
+A
+19 5
+A
+18 4
+ T 0 none~
+#5401
+key~
+a key to a secret~
+Here lies a key.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 10 0 P
+ T 0 none~
+#5402
+crack~
+a crack in the dry earth~
+`*~
+unknown~
+container T P
+0
+1000 0 0 1000 2
+50 2000 0 P
+ T 0 none~
+#5403
+Hollow Hole Shelf~
+a long narrow shelf in the wall~
+`*~
+unknown~
+container Ta P
+0
+2000 0 0 2000 0
+75 0 0 P
+ T 0 none~
+#5404
+bones~
+`7A jumbled pile of rotted bones.~
+Old rotting bones lie here, shifted into a crumpled heap by time and scavengers.~
+bone~
+food 0 A
+0
+0 BD 0 0 0
+0 1 0 P
+ T 0 none~
+#5405
+tree~
+a lovely fruit tree~
+`*~
+wood~
+container T 0
+0
+20000 0 0 2000 0
+50 0 0 P
+ T 0 none~
+#5406
+Badge~
+`!O`*f`!f`*i`!c`*i`!a`*l `#b`*a`#d`*g`#e `!o`*f `!t`*h`!e `$B`*u`$i`*l`$d`*e`$r `!H`*e`!l`*p`!e`*r`*~
+Given in sincere appreciation for the time spent helping the Builders!!~
+tin~
+treasure a AD
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#5407
+fruit~
+a delicious looking fruit~
+Plump reddish-orange fruit hangs from the branches of this lovely tree.~
+edible~
+pill PU A
+0
+75 'heal' 'bless' '' ''
+75 1 100 P
+ T 0 none~
+#5408
+seeds~
+a small pile of seeds~
+A small pile of seeds has been stored here, until their owner comes back for them.~
+plant~
+pill T A
+0
+70 'heal' 'refresh' '' 'reserved'
+70 0 50 P
+ T 0 none~
+#5409
+nook~
+a nook~
+Here's a little nook, almost lost in the shadows.~
+earthen~
+container 0 P
+0
+1000 0 0 1000 0
+75 0 0 P
+ T 0 none~
+#5410
+chicken~
+a headless chicken~
+There's a chicken here, flapping and hopping around with its head cut off, spewing blood from its severed neck.~
+feathers~
+drink Y AO
+0
+100 100 'blood' 0 0
+0 1 0 P
+ T 0 none~
+#5411
+spindly staff~
+a Spindly Staff~
+A flimsy looking stick is here blending in with a pile of other sticks and rags, perfect for building a scarecrow, or burning on a hearth.~
+ironwood~
+weapon ABHY AN
+0
+staff 14 8 thwack E
+90 280 4000 P
+A
+19 6
+A
+20 -3
+A
+18 6
+A
+12 25
+ T 0 none~
+#5412
+pitchfork spear~
+a wicked pitchfork~
+Here a wooden-handled pitchfork has been stabbed deep into a bale of hay.~
+unknown~
+weapon 0 AN
+0
+spear 10 12 pierce E
+90 280 20000 P
+A
+19 7
+A
+18 7
+ T 0 none~
+#5413
+bug boots~
+`7`$Ca`4mm`$'s `!M`1on`!s`1t`!r`!o`1u`!s `#B`#u`3g `@St`2o`@m`2pi`@n`2g `8B`&o`*ot`8s`*~
+A gigantic pair of steel-toed, hob-nailed, indestructable boots sits here with old bug guts smearing the soles.~
+steel~
+armor ABTYa AG
+0
+0 0 0 0 0
+150 0 0 P
+ T 0 none~
+#5414
+bookshelf~
+a tall bookshelf~
+A huge floor to ceiling bookshelf takes up the entire west wall here.~
+wood~
+container 0 0
+0
+5000 0 0 5000 0
+0 5000 0 P
+ T 0 none~
+#5415
+atlas window~
+an atlas of the world~
+A bookshelf here contains an Atlas of the World.~
+unknown~
+portal 0 0
+0
+0 0 A BCDFGHIJL 0
+0 0 0 P
+ T 0 none~
+#5416
+trickle~
+a trickle of water~
+A trickle of fresh water runs down the wall to the east.~
+unknown~
+fountain 0 0
+0
+-1 -1 'water' 0 0
+0 0 0 P
+ T 0 none~
+#5417
+rock~
+a rock~
+A large, moss-covered boulder rests here, sunken into the ground.~
+stone~
+furniture 0 0
+0
+AC CDEGHIK EHKN BCEH BCEH
+75 0 0 P
+ T 0 none~
+#5418
+window~
+a window~
+A curtained window is in the wall here.~
+glass~
+window 0 0
+0
+DEFIKM 0 0 0 0
+50 0 0 P
+ T 0 none~
+#5419
+window west~
+a window~
+A window overlooking the farmyard is here.~
+glass~
+window 0 0
+0
+ABCDGIKM 0 0 0 0
+50 0 0 P
+ T 0 none~
+#5420
+puddle~
+a puddle~
+Water seeps up from the ground, creating a puddle here.~
+water~
+fountain 0 0
+0
+100 100 'water' 0 0
+0 0 0 P
+ T 0 none~
+#5421
+chest~
+a dusty chest~
+A wooden chest covered in dust sits forgotten in this corner.~
+wood~
+container 0 0
+0
+1000 AC 0 1000 0
+0 0 0 P
+ T 0 none~
+#5422
+Cow Horn~
+the Horn of a Mad Cow~
+A wickedly sharp shiny horn lies here in the dust.~
+Bone~
+weapon BY AN
+0
+dagger 9 12 pierce D
+80 50 5000 P
+A
+20 -2
+A
+19 6
+A
+18 6
+ T 0 none~
+#5423
+meat cleaver~
+a heavy-bladed meat cleaver~
+A huge knife, perfect for taking the heads off chickens is here, stuck deep in a wooden block. ~
+Steel~
+weapon AB AN
+0
+axe 9 11 cleave D
+75 280 20000 P
+A
+13 23
+A
+12 23
+A
+18 3
+A
+19 7
+ T 0 none~
+#5424
+bull whip~
+a Bullwhip~
+A coil of braided leather with a thick wooden handle hangs here on a hook in the wall.~
+leather~
+weapon B AN
+0
+whip 9 11 shbite D
+70 100 20000 P
+A
+18 5
+A
+19 8
+A
+13 25
+ T 0 none~
+#5425
+jug milk~
+a big jug of milk~
+A big clay jug sits here on the floor, sweating water down the sides from the cold contents within.~
+clay~
+drink 0 A
+0
+200 200 'milk' 0 0
+50 30 1000 P
+ T 0 none~
+#5426
+tunic Andor livery~
+a scarlet tunic~
+A tunic with collar and cuffs of white is neatly folded here with the White Lion of Andor emblazoned on the left breast.~
+linen silk~
+armor K AD
+0
+DE DE ABCE CE 0
+60 50 500 P
+A
+13 20
+A
+12 20
+A
+18 5
+A
+19 3
+ T 0 none~
+#5427
+lacey wedding dress~
+a beautiful lace gown~
+A gorgeous gown handmade of lace and silk is preserved here, handed down from mother to daughter for each new wedding in the family.~
+silk~
+armor I AD
+0
+ABCE CE ADE ADE 0
+65 60 1000 P
+A
+12 25
+A
+20 -3
+A
+13 25
+A
+17 -10
+ T 0 none~
+#5428
+coins~
+a poor farmer's life savings~
+A bag lies here, it chimes with the sound of coin on coin.~
+gold~
+money 0 A
+0
+EHI 0 0 0 0
+0 400 0 P
+ T 0 none~
+#5429
+spiked iron cudgel~
+a spiked iron cudgel~
+An iron cudgel hangs on the wall here by its leather wrist strap, wicked spikes gleaming with a dried greenish ichor.~
+iron~
+weapon H AN
+0
+mace 42 2 smash H
+85 40 5000 P
+A
+13 40
+A
+18 4
+A
+19 3
+A
+20 -4
+ T 0 none~
+#5430
+bone ring~
+a jumbled pile of bones ~
+These bones, over time, have melded in a strange way to form the shape of a ring.~
+bone~
+armor 0 AB
+0
+ADE ABDE BCE BDE 0
+70 0 3000 P
+A
+18 4
+A
+19 3
+A
+13 45
+A
+12 15
+ T 0 none~
+#5431
+bones anklets~
+anklets of bone~
+A pile of bones lies discarded here, formed into strange links of pale ivory.~
+unknown~
+armor 0 AG
+0
+DE BCDE ADE ABDE 0
+70 20 3000 P
+A
+13 30
+A
+12 25
+A
+20 -7
+A
+17 -7
+ T 0 none~
+#5432
+wreath dried flowers ~
+a wreath of dried flowers~
+A wreath of wildflowers lies here amid the remains of a corpse, dried to faded yellow and azure.~
+plant~
+armor 0 AE
+0
+ABCE ACDE ADE ABDE 0
+70 0 2000 P
+A
+13 35
+A
+12 25
+A
+18 4
+A
+19 4
+ T 0 none~
+#5433
+folding chair~
+a folding chair~
+A strange contraption of wooden slats is here in a corner.~
+wood~
+furniture 0 AO
+0
+A CDEFHJ BEHNR 0 ADFG
+50 300 3000 P
+ T 0 none~
+#5434
+guide light ~
+`$A `#gl`&o`#w `4o`$f sa`4fe p`$ass`4age`*  ~
+This brilliant shine grants you access to darkened places unreachable by typical mortals.~
+energy~
+light 0 AO
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 20 0 P
+A
+5 10
+A
+4 10
+ T 0 none~
+#5435
+guide sandals~
+`4Com`$fo`4rtab`$le `3le`&ath`3er `4sa`$nd`4als`*~
+Comfortable leather sandals conform to the shape of your feet, promising miles of painless walking.~
+leather~
+armor 0 AG
+0
+ACDF ACDF ACDF ACDF 0
+110 100 0 P
+A
+5 10
+A
+1 10
+ T 0 none~
+#5436
+guide sash~
+`4A s`$as`4h of `&b`*r`8a`!i`8d`*e`&d `$li`4ne`$n`*~
+(no description)~
+linen~
+armor a AL
+0
+ACDF ACDF ACDF ACDF 0
+110 30 0 P
+A
+3 10
+A
+2 10
+ T 0 none~
+#5437
+Post Crossbeam~
+a crossbeam~
+`*~
+unknown~
+container STYa P
+0
+1000 0 0 1000 2
+76 0 0 P
+ T 0 none~
+#5438
+ghostly band~
+a Ghostly Band of Silver~
+Almost transparent in its delicate craftsmanship, the `/     luminous silver of this ring glows with an inner light.~
+silver~
+armor AB AB
+0
+ACDF ACDF ACDF ACDF 0
+150 20 50000 P
+A
+13 30
+A
+20 -10
+A
+19 10
+A
+18 10
+ T 0 none~
+#5439
+key keychain keyring~
+a single key on a gold chain~
+A steel key hangs here from a gold chain.~
+steel~
+keyring 0 AU
+0
+1 0 0 0 0
+500 10000 0 P
+ T 0 none~
+#5440
+simple key~
+a simple key~
+A shining key of gold, engraved with a strange symbol.~
+steel~
+key PTU AO
+0
+0 0 0 0 0
+150 50 0 P
+ T 30 none~
+#5441
+Life Essence~
+`*The Essence of Life~
+Shimmering in translucence, the essence of `/     memory clings to consciousness by a thread.~
+unknown~
+container 0 AQ
+0
+200 AC 0 50 25
+96 10 50000 P
+A
+19 7
+A
+18 7
+A
+20 -5
+A
+17 -10
+ T 0 none~
+#5442
+placeholder~
+a placeholder for Lynn~
+`*~
+unknown~
+furniture 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#5450
+a fragment of chaos~
+a fragment of chaos~
+A twisted, roiling mass of purest chaos undulates in the air here.~
+unknown~
+treasure A AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#5451
+herb plant green quest132~
+`*Green leaves with a white strip~
+A plant is growing here, thriving off the cool water.~
+plant~
+trash GU A
+0
+0 0 0 0 0
+0 0 10 P
+ T 0 none~
+#5454
+Well~
+a well~
+A well sinks into the soil at the side of the yard.~
+unknown~
+fountain 0 0
+0
+-1 -1 'water' 0 0
+0 0 0 P
+ T 0 none~
+#5455
+golden throne car'a'carn~
+`7Golden Throne of the Car'a'carn~
+The `#G`3o`#ld`3e`#n `&T`7h`&ro`7n`&e `7of the `4Car`7'`4a`7'`4carn `7is here.~
+unknown~
+furniture T P
+0
+A DFGHIJ E CFG CFG
+0 500 1000 P
+ T 0 none~
+#5458
+gap floorboards window~
+a gap in the floorboards~
+Theres a gap in the floorboards here.~
+unknown~
+window 0 0
+0
+CDEGIKM 0 0 0 0
+50 0 0 P
+ T 0 none~
+#5480
+window to machael~
+a window to Machael~
+Here is a Window to Machael.~
+leather~
+window PU AD
+0
+ABCN 0 0 0 0
+78 0 0 P
+ T 0 none~
+#5481
+window to healer~
+a window to Pella in Whitebridge~
+Here is a window to Pella, the Healer in Whitebridge.~
+leather~
+window PU F
+0
+BCDFGHIJL 0 0 0 0
+78 0 0 P
+ T 0 none~
+#5482
+window to morgue~
+a window to the morgue~
+Here is a window to the Morgue.~
+leather~
+window PU AG
+0
+ABCD 0 0 0 0
+78 0 0 P
+ T 0 none~
+#5483
+flickering lamp~
+a flickering lamp~
+A burnt out lamp sits here, waiting for a light.~
+metal~
+light PU AO
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+78 0 0 P
+ T 0 none~
+#5484
+Builder's Shirt~
+a Builder's Shirt~
+A crumpled puddle of thick cotton lies discarded here in the corner.~
+cloth~
+armor PU AK
+0
+0 0 0 0 0
+78 0 0 P
+ T 0 none~
+#5485
+trash~
+a bag of trash~
+A stinking bag of trash is sitting here, waiting for you to take it out.~
+Crystal~
+trash P AN
+0
+0 0 0 0 0
+150 8 0 P
+ T 0 none~
+#5497
+blocks~
+`7Asmo's giant building blocks~
+Asmo's building blocks lay scattered around from his last visit.~
+unknown~
+furniture AB 0
+0
+AC EGHIJK EN 0 0
+0 1000 0 P
+ T 0 none~
+#5498
+cookie~
+a chocolate chip cookie~
+A golden brown oval steams with oven-fresh goodness.~
+dough~
+food 0 A
+0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef BD 0 0 0
+0 0 10 P
+ T 0 none~
+#5499
+cookie jar~
+a cookie jar~
+A cookie jar rests on a table, calling your name!~
+porcelain~
+container 0 P
+0
+1000 0 0 1000 0
+0 0 0 P
+ T 0 none~
+#5545
+Book Save Life~
+a Book of Save Life~
+A book containing lost lore of ages long past lies here.~
+unknown~
+book 0 A
+0
+25 'save_life' 0 0 0
+0 21 50000 P
+ T 0 none~
+#5546
+Coupon Study~
+`#A C`&oupon `#of `#S`&tudy`*~
+A Coupon that when turned in will get you the study skill lies here.~
+unknown~
+treasure 0 A
+0
+0 0 0 0 0
+0 10 0 P
+ T 0 none~
+#5547
+Book of Storekeeping~
+a book of Storekeeping~
+A Book of the art of storekeeping is here.~
+unknown~
+book 0 A
+0
+25 'store' 0 0 0
+25 20 5000 P
+ T 0 none~
+#5548
+crack floor~
+a crack in the floor~
+`*~
+unknown~
+portal 0 0
+0
+0 0 A ABCN 0
+1 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#5400
+Fields of Grass~
+Crossing over rolling hills into a flat plain, sawgrass waves restlessly
+on all four sides, and the wind covers over the sounds of things passing
+nearby.  Out over the seemingly endless waving grassland, there lies a
+beaten path of crushed fronds extending north a ways a little in the
+distance.  
+~
+0 1028 2
+D0
+~
+~
+0 0 5401
+D2
+~
+~
+0 0 37267
+S
+#5401
+Fields of Grass~
+Continuing on into the grasslands, following the northerly track,
+sometimes no more than a hint of bent weeds indicates whether anyone else
+has been here.  The constant movement of the dry, sandy colored grass in the
+wind seems to hide other, less inviting movement.  
+~
+0 0 2
+D0
+~
+~
+0 0 5402
+D2
+~
+~
+0 0 5400
+S
+#5402
+Fields of Grass~
+Pushing through the chest-high grass, the edges of the blades whisper in
+the wind, pressing close one moment, and drifting away the next.  To the
+east, a break in the screen exposes a distinct trail in that direction. 
+North lies a huge expanse of waving blades, with faint furrows in the
+rolling grass where animals made their own way through.  
+~
+0 0 2
+D0
+~
+~
+0 0 5418
+D1
+~
+~
+0 0 5403
+D2
+~
+~
+0 0 5401
+S
+#5403
+Field of Grass~
+Under the tall blades of screening grass, a beaten track of dirt takes
+shape, leading to the south.  The wind masks the sounds of movement all
+around, and the wear on the path shows evidence of frequent use.  
+~
+0 0 2
+D2
+~
+~
+0 0 5404
+D3
+~
+~
+0 0 5402
+S
+#5404
+Hummock~
+Parting more annoying grass, you come upon a strange cleared dome of
+heaped dirt, partially over-grown with thick grass and high enough that you
+have to tilt your head back to look at the top.  The track you followed to
+get here splits to circle the hummock in both directions.  
+~
+0 0 2
+D0
+~
+~
+0 0 5403
+D1
+~
+~
+0 0 5409
+D3
+~
+~
+0 0 5405
+S
+#5405
+Around the Hummock~
+Here there is slightly more evidence of others having used this trail
+before you.  In the dry dirt at your, you can make out faint imprints of... 
+Is that a boot print?  You glance up warily.  Obviously you should be
+prepared for an unwelcoming reception, wandering around as you are.  
+~
+0 0 2
+D1
+~
+~
+0 0 5404
+D2
+~
+~
+0 0 5406
+S
+#5406
+Around the Hummock~
+You brow creases, maybe you could be wrong, there really doesn't seem to
+be much here at all.  The wind sloughs through the grass beside you, and the
+hummock sits in obstinate silence.  
+~
+0 0 2
+E
+ground~
+A word is inscribed in the dirt here, I LOVE THOM!
+~
+D0
+~
+~
+0 0 5405
+D1
+~
+secret~
+3 5401 5410
+D2
+~
+~
+0 0 5407
+S
+#5407
+Around the Hummock~
+Continuing along the trail through undulating fronds gives no clues to
+solve the riddle of why such an obviously unnatural pile of overgrown dirt
+would be here.  Faint footprints in the cracked earth reveal little else
+than the fact that others come here to explore, but why would they come
+here?  
+~
+0 0 2
+D0
+~
+~
+0 0 5406
+D1
+~
+~
+0 0 5408
+S
+#5408
+Around the Hummock~
+Rounding the backside of the strange mound, the trail curves abruptly
+back to the north.  The quiet soughing of the waving grass to the south all
+around the trail offers no obvious explanation for the purpose of the
+edgeless mass in its midst.  The ground underfoot is dry with lack of rain. 
+The sun beats down and opens cracks in the soil.  
+~
+0 0 2
+D0
+~
+~
+0 0 5409
+D3
+~
+~
+0 0 5407
+S
+#5409
+Around the Hummock~
+The trail here simply curves around along the smooth, grass covered
+contours of the hummock.  Swaying tallgrass bends in toward the pathway,
+partially screening the earth below until it's pushed aside once more.  
+~
+0 0 2
+D2
+~
+~
+0 0 5408
+D3
+~
+~
+0 0 5404
+S
+#5410
+Inside the Hummock~
+Dark and damp, this small room with earthen walls smells of old things.  Roots poke down through the ceiling and in the immediate quiet, you hear strange scritching noises coming from further down a short slope
+~
+0 1 0
+D3
+~
+secret~
+3 5401 5406
+D5
+~
+~
+0 0 5411
+S
+#5411
+Inside the Hummock~
+In this small chamber, even further from the sounds of the wind, the
+skittering and chirping is louder.  You hold your lamp higher, but the low
+ceiling keeps it from reaching every corner.  A sudden sense of forboding
+overcomes you.  Maybe this isn't the place you'd be safest right now.  
+~
+0 1 0
+D0
+~
+~
+3 0 5412
+D4
+~
+~
+0 0 5410
+S
+#5412
+Crypt~
+Another dark hallway, damp, but this one smells of decay.  It's the smell
+that first tips you off that this is a burial crypt.  Dark hollows in the
+walls contain rotting rags and piles of stripped bones.  Beetles and worms
+swarm over a corpse to your left that is not quite bare of flesh.  Hurry on,
+or go back, but all your senses tell you not to stand gawking at the macabre
+sight!  
+~
+0 1 0
+D2
+~
+~
+3 0 5411
+D5
+~
+~
+0 0 5413
+S
+#5413
+In the Dark ~
+The dank hallway is much the same here.  Even with a light, it's
+difficult to make out the shape of obstacles in the passage.  Hollow shelves
+in the walls echo the sound of clicking carapaces and, in the dead silence,
+the oozing sound of worm-flesh on stone.  
+~
+0 1 0
+E
+shelf~
+Cut deep into the walls themselves, these strange long shelves hold a
+mystery.  Long have they been ignored, crumbling splinters of rock litter
+the floor.  
+~
+D2
+~
+~
+0 0 5414
+D4
+~
+~
+0 0 5412
+S
+#5414
+In the Dark~
+Something beyond curiosity pushes the errant explorer that comes this
+far.  More sounds of moving things, enough to make your skin crawl.  Your
+boots crunch on objects you hope can remain nameless and you struggle to
+keep your last meal where it belongs.  Every nerve screams for you to turn
+tail and flee.  
+~
+0 1 0
+D0
+~
+~
+0 0 5413
+D2
+~
+~
+0 0 5415
+S
+#5415
+In the Dark~
+Is your light dimming?  The darkness presses down on you, you have to
+stop and catch your breath, but the thought of stopping in this place
+disgusts you!  Instead, you press on, more brave than most.  
+~
+0 1 0
+D0
+~
+~
+0 0 5414
+D5
+~
+~
+0 0 5416
+S
+#5416
+Glimmering Light~
+This is a strange little room.  There are no bodies here and the creatures seem to stay out too.  A light eminates, seemingly from the walls themselves, that leaves you feeling comforted after the ordeals you've been through.
+~
+0 1028 0
+D0
+~
+~
+4 5440 5417
+D4
+~
+~
+0 0 5415
+M 30 H 30
+S
+#5417
+A Secret Room~
+A strange place, the walls seem to shimmer like gauzy curtains in a
+breeze that is simply not there.  The floor shifts underfoot, as if it tilts
+on its own axis.  The light is muted and comes from nowhere, and everywhere,
+leaving no shadows where there should be only the gloom of the underground. 
+A strange, secret place, with unknown dangers.  
+~
+0 406847493 0
+D0
+~
+~
+0 0 27760
+D1
+~
+~
+0 0 27998
+D2
+~
+~
+0 0 27600
+D3
+~
+~
+0 0 27000
+M 2000 H 2000
+S
+#5418
+Grasslands~
+Having bypassed the path to the east, you move further into the seemingly
+empty acreage of low hills and high grass.  A stray gust of wind bears a
+scent that makes you pause.  It's a sweet, sickly sort of smell, but it's
+gone so fast you're left thinking maybe you're imagining things.  
+~
+0 0 2
+D0
+~
+~
+0 0 5419
+D2
+~
+~
+0 0 5402
+S
+#5419
+Grasslands~
+Gradually, the soil at your feet seems to become less dusty, and the
+grass is changing from dry tan to a lush green.  The plants may be more
+healthy, but you keep your eyes peeled, ready for any further challenges
+springing from the grass.  There's a game trail to the east, and another
+faint hint of a track slighty to the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 5499
+D1
+~
+~
+0 0 5429
+D2
+~
+~
+0 0 5418
+D3
+~
+~
+0 0 5437
+S
+#5420
+Farmland~
+In this field, the growing crop is knee-high and partially conceals the
+ground under your feet.  There's a small fruit tree here, out of place in
+the middle of the field, but perhaps the farmer left it as is for
+refreshment for the field hands.  The fields extend east and south as well
+as north and west.  A lovely fruit tree stands here, spreading boughs heavy
+with ripe fruit.  
+~
+0 0 2
+E
+tree~
+A tall tree in the prime of its life stands here, its roots sunk deep in
+the soft soil.  Spread boughs overhead promise a bountiful harvest, already
+heavy with fruit ripened early.  
+~
+D0
+~
+~
+0 0 5426
+D1
+~
+~
+0 0 5421
+D3
+~
+~
+0 0 5422
+S
+#5421
+Farmland~
+The tiny shoots of new crops push up through the soil in neat rows under
+your feet.  Some sort of wheat or oats, the ground here is prime for growing
+grains.  All around you is more endless flat farmland, and far in the
+distance to the west, you can barely make out the chest high boundary of
+grass, waving in the wind.  
+~
+0 0 2
+D0
+~
+~
+0 0 5427
+D1
+~
+~
+0 0 5445
+D3
+~
+~
+0 0 5420
+S
+#5422
+Farmland~
+The fields here are much the same, though this crop may be corn, judging
+by the shape of the shoots.  There are creatures rustling around in the
+plants, so you can see the reason for the spindly scarecrow perched amidst
+the growing crops.  The ragged apparition hangs limply from a solid post
+sunk deep in the ground, protecting the valuable livelihood of the land's
+owner.  More of the same fields stretch to the east, west and north.  
+~
+0 4194304 2
+E
+post~
+A weather-worn post stands here solitary in the midst of cornstalks.  A
+crooked crossbeam slants at an angle, supporting the frayed remains of old
+scarecrows.  From the worn, pitted wood dangles a shiny something, glinting
+in the sunlight.  
+~
+D0
+~
+~
+0 0 5425
+D1
+~
+~
+0 0 5420
+D3
+~
+~
+0 0 5423
+S
+#5423
+Dry Streambed~
+Here at the edge of this field is a shallow furrow not created by a plow,
+like the other neat wrinkles in the soil.  This dried up stream bed travels
+north from here, while fields of planted crops stretch to the east.  To the
+west is empty grassland, stretching out for miles.  
+~
+0 0 2
+D0
+~
+~
+0 0 5424
+D1
+~
+~
+0 0 5422
+S
+#5424
+Dry Streambed~
+The furrow of the dried up stream takes a turn here from south to the
+east.  More fields of growing crops stretch out to the north, while to the
+west is a tall barrier of swaying grass.  Faintly the wind brings the
+raucous cries of crows, explaining the presence of another dilapidated
+scarecrow almost out of sight to the north.  
+~
+0 0 2
+D0
+~
+~
+0 0 5451
+D1
+~
+~
+0 0 5425
+D2
+~
+~
+0 0 5423
+S
+#5425
+Standing Puddle~
+Ground water seeps into the soil of a stream bed here, squelching under
+your feet.  A puddle has formed about a hand deep and two yards wide.  To
+the west of the standing water is another plot of crops in neat rows. 
+North, the sounds of a stream drift on the wind.  The water dries up to the
+east, seeping into the ground once more.  
+~
+0 0 2
+D0
+~
+~
+0 0 5450
+D1
+~
+~
+0 0 5426
+D2
+~
+~
+0 0 5422
+D3
+~
+~
+0 0 5424
+S
+#5426
+Farmlands~
+Extensive fields of planted crops extend in all directions.  In the
+distance to the west a lone tree stretches branches to the open sky. 
+Occasionally the harsh cries of crows drift in on the breeze, and the black
+dots of their flight pepper the horizon.  
+~
+0 0 2
+D0
+~
+~
+0 0 5449
+D1
+~
+~
+0 0 5427
+D2
+~
+~
+0 0 5420
+D3
+~
+~
+0 0 5425
+S
+#5427
+Farmlands~
+Surrounded by more fields, you can hear the rustling of creatures at your
+feet and once again, catch the fleeting smell of something definitely
+burning.  Recent dry conditions in the area have the ground here more dust
+than soil, though it's color is dark and rich with minerals.  The danger of
+a fire here; it would be devastating.  
+~
+0 0 2
+D0
+~
+~
+0 0 5448
+D1
+~
+~
+0 0 5446
+D2
+~
+~
+0 0 5421
+D3
+~
+~
+0 0 5426
+S
+#5428
+Farmland~
+~
+0 4194308 2
+S
+#5429
+Plowed Pasture~
+Recent rain has turned the soil at your feet soft, and your boots sink
+into the plowed furrows with every step.  These newly plowed fields go on
+for acres to the north and east, while to the west is a game trail cutting
+through the tall grass border.  
+~
+0 0 2
+D0
+~
+~
+0 0 5434
+D1
+~
+~
+0 0 5430
+D3
+~
+~
+0 0 5419
+S
+#5430
+Plowed Pasture~
+After slogging through damp soil for so long, you've reached the eastern
+edge of this plowed stretch of fields.  To the north lie more acres of
+furrowed land, damp with rainfall while to your east the grasslands butt up
+against the farmlands you travel.  In the western direction is a path along
+the southern edge of these fields.  Straining your eyes to look, you can see
+the other edge of these fields in the distance to the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 5431
+D3
+~
+~
+0 0 5429
+S
+#5431
+Plowed Pasture~
+Travelling along the eastern edge of this field, grasslands encroach on
+the neatly furrowed land to your east, while north and south the fields lay
+before you, almost expectant of the seeds soon to be planted there.  The
+soil at your feet is uneven, forcing you to pick your way carefully lest you
+put your foot in a hole.  Moving too quickly here begs for a twisted ankle. 
+~
+0 0 2
+D0
+~
+~
+0 0 5432
+D2
+~
+~
+0 0 5430
+D5
+~
+~
+1 0 5436
+S
+#5432
+Plowed Pasture~
+Scanning the horizen here reveals endless grasslands stretching out to
+the east, crisscrossed with trampled trails where animals pass.  More neatly
+groomed acres of land lie to the north and south, ready for the season's
+planting.  As the wind whistles over the flatland, again it brings a scent
+to your nose, of something elusive, but not quite right.  The smell of the
+earth at your feet serves to mask the strange odor of something burning?  
+~
+0 0 2
+D0
+~
+~
+0 0 5445
+D2
+~
+~
+0 0 5431
+D3
+~
+~
+0 0 5433
+S
+#5433
+Plowed Pasture~
+Crossing from trampled grass track to freshly plowed fields, your boots
+sink into rich soil to the ankle.  Judging from the size of this plot of
+land, the farmer here is prosperous, the fields stretch into the distance to
+the south and east.  
+~
+0 0 2
+D1
+~
+~
+0 0 5432
+D2
+~
+~
+0 0 5434
+D3
+~
+~
+0 0 5499
+S
+#5434
+Plowed Pasture~
+More flat furrowed soil greets your eyes here.  Your nose is assailed
+with the scent of farm fertilizer and overturned earth.  Much more of the
+same stretches out to your north and south, though in the distance to the
+north, you can make out the branches of the first tree you've seen in quite
+a while.  
+~
+0 0 2
+D0
+~
+~
+0 0 5433
+D2
+~
+~
+0 0 5429
+S
+#5435
+Inside a Burrow~
+Pushing forward, your knees covered in sticky earth, the tunnel shows a
+bit of light above you, though you may have to use your hands to actually
+dig out.  There is no turning back, you can barely squeeze the width of your
+shoulders between the cramped earthen walls.  
+~
+0 4194309 0
+D4
+~
+~
+0 0 5434
+S
+#5436
+Inside a Burrow~
+You've managed to uncover something's storage, though it's dark and
+incredibly cramped here, forcing you to wriggle your way forward.  Your
+light only reveals the way in front of you, there not being enough room to
+even turn around.  Roots from the plantlife above you reach down to tickle
+at the exposed portions of your headgear, and further impede your vision.  
+~
+0 4194305 0
+D3
+~
+~
+0 0 5435
+S
+#5437
+Fallow Fields~
+The grass has given way to a cleared field, plowed some time ago, but now
+overgrown with weeds.  There is a fence a little way to the west, north is a
+path skirting the edge of the field, and to the east, more empty prairie.  
+~
+0 4194304 2
+E
+fence~
+A rickety fence stands here, mostly it looks to be a sort of divider,
+rather than anything useful for keeping creatures from crops.  
+~
+D0
+~
+~
+0 0 5442
+D1
+~
+~
+0 0 5419
+D3
+~
+~
+0 0 5438
+S
+#5438
+Fallow Fields~
+The family that works this farmland has set this field aside for the
+season, most likely using another plot of land so this one will produce
+better crops in the next season.  As you pass by barren earth, though, you
+can't help but notice how truly unused it appears, as if perhaps it's been
+more than one season the ground here has been fallow.  The borders of the
+grassland encroach on the field to the west, there is a ramshackle fence to
+the east, and more farmland stretches out to the north.  
+~
+0 4194304 2
+E
+fence~
+A rickety fence stands here, mostly it looks to be a sort of divider,
+rather than anything useful for keeping creatures from crops.  
+~
+D0
+~
+~
+0 0 5439
+D1
+~
+~
+0 0 5437
+S
+#5439
+Fallow Fields~
+A barrier of thick grass stretches out to the west as far as you can see,
+while to the east is the strange barren farmland.  More evidence of its old
+use is in the ground at your feet, where deep furrows were made in moist
+soil with a plow, drying into ruts in the sun.  Looking down, you safely
+avoid tripping over a deeper hole, almost completely hidden in overgrowing
+weeds.  
+~
+0 4194304 2
+D0
+~
+~
+0 0 5440
+D2
+~
+~
+0 0 5438
+D5
+~
+burrow~
+3 0 5444
+S
+#5440
+Fallow Fields~
+The farther you walk into this barren farmland, the more evidence you see
+that it's simply unused.  There are tiny tracks of the field mice
+criss-crossing your trail as they scavenge for leftover seeds from a bygone
+crop.  To your west is a natural barrier of tall grass.  The south seems to
+lead to more empty fields, and to the west is an old fence.  
+~
+0 4194304 2
+E
+fence~
+A rickety fence stands here, mostly it looks to be a sort of divider,
+rather than anything useful for keeping creatures from crops.  
+~
+D1
+~
+~
+0 0 5441
+D2
+~
+~
+0 0 5439
+S
+#5441
+Fallow Fields~
+With every footstep, your feet crunch on dried twigs and dessicated
+plantlife.  To the east and south there seems to be much more of the same
+tumbled dirtclods and empty fields, to the west, just beyond a fence, is
+more fallow farmland.  
+~
+0 4194304 2
+D1
+~
+~
+0 0 5499
+D2
+~
+~
+0 0 5442
+D3
+~
+~
+0 0 5440
+S
+#5442
+Fallow Fields~
+This path stretches through the weeds along the western edge of a
+deserted field.  To the west, running parallel to the faint trail is that
+rickety fence, showing great gaping holes where some of the rails have
+fallen in.  
+~
+0 4194304 2
+E
+fence~
+A rickety fence stands here, mostly it looks to be a sort of divider,
+rather than anything useful for keeping creatures from crops.  
+~
+D0
+~
+~
+0 0 5441
+D2
+~
+~
+0 0 5437
+S
+#5443
+Inside a Burrow~
+The heavy soil pushes in around you, but there's light peeking through
+above you.  There's no other way to go but up.  
+~
+0 4194309 0
+D4
+~
+~
+0 0 5442
+S
+#5444
+Inside a Burrow~
+It's dark and dusty.  Earthen walls close in around you, leaving you
+barely enough space to move.  In fact, you ARE wedged in...  There's nowhere
+to go but forward.  
+~
+0 4194305 0
+D3
+~
+~
+0 0 5443
+S
+#5445
+Farmland~
+This field is covered in row upon row of tiny delicate seedlings, green
+and healthy, swaying in the mild breeze.  Quite a difference from what
+you've seen so far.  The farmer here must actually be able to get his
+workers to do something once in a while.  More fields of crops in various
+stages of growth can be seen to the north and west.  To the south is a
+stretch of unplanted land.  
+~
+0 0 2
+D0
+~
+~
+0 0 5446
+D2
+~
+~
+0 0 5432
+D3
+~
+~
+0 0 5421
+S
+#5446
+Farmlands~
+Sprouts of green shoots brush against your legs as you travel this field.
+To the east, the much taller grass of the plains attempts to push its way
+into the farmland, held off by a wide stretch of what looks to be charred
+earth.  The scent of old burning stings your nostrils and there is a faint
+pall of smoke hanging over the crops to the north.  To the west, the wind
+whistles through more fields of planting, signs of a bountiful harvest to come.
+~
+0 0 2
+D0
+~
+~
+0 0 5447
+D2
+~
+~
+0 0 5445
+D3
+~
+~
+0 0 5427
+S
+#5447
+Farmlands~
+Here at the northeastern corner of the huge acreage of farmland is a
+smouldering track of ground.  It looks to have been deliberately set to keep
+the crops safe from encroaching wild grass from the plains.  There's enough
+smoke to sting your nose and water your eyes, but the blaze seems to be under
+control.  There is a fence to the north, extending from the east into the
+distant west, alongside yet another field of planted crops.  
+~
+0 0 2
+E
+ground~
+Just under the fence, there's a gap in the ground, some sort of a hole, and it's big enough to fit through.
+~
+E
+fence~
+A ramshackle collection of piled up boards and sticks stands here, making
+a sort of fence to the north that borders more farmland to the west.  On it
+is perched a fat crow peering back at you with beady eyes.  The fat crow
+fluffs its feathers and caws, "`%Caww!  Cluck!  Look!  `*" It pecks at the
+boards, then peers at the ground a moment.  Fluffing its feathers again, it
+launches into the air and flies away.  
+~
+D2
+~
+~
+0 0 5446
+D3
+~
+~
+0 0 5448
+D5
+~
+hole~
+1 0 5548
+S
+#5448
+Farmlands~
+The broken down fence angling from the east ends here in a mess of fallen
+boards and overgrown weeds, just on the northern edge of planted rows.  To
+the south and east are more rows of sprouting crops, along with the specks
+of flying crows wheeling in the sky.  
+~
+0 0 2
+D1
+~
+~
+0 0 5447
+D2
+~
+~
+0 0 5427
+D3
+~
+~
+0 0 5449
+S
+#5449
+Standing Puddle~
+A stream flows back into the ground, nearly absorbed in the soft soil,
+until all that's left is a puddle.  There's a track running alonside it,
+branching suddenly to the north.  Following the path with your eyes, you can
+see a faint trail of dark smoke in the sky just beyond a hillock.  
+~
+0 0 2
+D0
+~
+~
+0 0 5454
+D1
+~
+~
+0 0 5448
+D2
+~
+~
+0 0 5426
+D3
+~
+~
+0 0 5450
+S
+#5450
+Trickling Stream~
+A small stream gurgles sluggishly, flowing from the south to the east
+here.  There is a path alongside it, where the weeds grow thick around
+planted crops.  To the north and west, more crops sprout up in neat rows for
+several acres.  
+~
+0 0 2
+D0
+~
+~
+0 0 5453
+D1
+~
+~
+0 0 5449
+D2
+~
+~
+0 0 5425
+D3
+~
+~
+0 0 5451
+S
+#5451
+Farmlands~
+The wild grasslands meet neat rows of growing crops here to the west,
+south, you can see a gully where an old stream has dried up.  To the north
+is yet another field of the season's planting and from the east comes the
+sound of running water.  
+~
+0 0 2
+D0
+~
+~
+0 0 5452
+D1
+~
+~
+0 0 5450
+D2
+~
+~
+0 0 5424
+S
+#5452
+Farmlands~
+Finally you've run up against the border of this farmer's lands.  To the
+north and west, all you see is grass, chest high, waving gently in the
+breeze.  To the east and south are more fields of crops, with the field mice
+scurrying between the rows, and crows flying overhead.  
+~
+0 0 2
+D1
+~
+~
+0 0 5453
+D2
+~
+~
+0 0 5451
+S
+#5453
+Farmlands~
+Following the border of these lands, where the tall grass meets the
+domestic crops, you can travel west to more of the same, or move south,
+where you can hear the faint sounds of running water through the vegetation.
+A short distance to the east, there seems to be a clearing, and a thin trail
+of smoke is rising into the sky to compete with the crows in casting shadows
+over the earth below.  
+~
+0 0 2
+D1
+~
+~
+0 0 5454
+D2
+~
+~
+0 0 5450
+D3
+~
+~
+0 0 5452
+S
+#5454
+Farmyard~
+The crops to the west and south give way to a large yard of packed dirt. 
+A little of to the west side, a well has been sunk into the ground and
+shored up with stone.  A bucket swings in the wind on a length of rope,
+clattering against the sides with each gust.  Far off to the northeast, you
+hear a cow lowing, and a stray chicken pecks at the dirt not far away.  To
+the east, a trail of smoke rises into the sky.  
+~
+0 4 2
+D1
+~
+~
+0 0 5455
+D2
+~
+~
+0 0 5449
+D3
+~
+~
+0 0 5453
+S
+#5455
+Farmyard~
+More chickens run about the yard pecking at feed, with a rooster stepping
+proudly in their midst.  The clucking and scratching joined by the sound of
+a dog barking to the north.  In front of you to the east is a squat brick
+farmhouse with a red clay shingled roof, and a wide porch.  The door is
+closed, but you can hear the sounds of voices from inside.  Back west is the
+well.  
+~
+0 0 2
+D0
+~
+~
+0 0 5479
+D1
+~
+door east~
+3 0 5467
+D3
+~
+~
+0 0 5454
+S
+#5456
+Hallway~
+The woven throw rugs under your feet muffle the sound of your footsteps
+down the short hallway.  Another door leading off the hallway to the west
+interupts the polished wood paneling of the walls to either side.  More
+quaint needlework hangings at intervals add a cozy feel to the otherwise
+humble house.  Just to the north is an open doorway from which the scent of
+spices and old meals emanates.  
+~
+0 0 0
+E
+picture~
+A quaint scene of everyday farm life is portrayed here.  A maid with rosy
+cheeks milks a cow in miniature, while hens peck not far away.  
+~
+D0
+~
+~
+0 0 5473
+D2
+~
+~
+0 0 5468
+D3
+~
+door west~
+3 0 5472
+S
+#5457
+Attic~
+The movement of the air at your arrival in this room sends dust swirling
+through the shaft of light from the open trapdoor.  More dust lies thick on
+the wooden floorboards, puffing up in tiny clouds with every footstep, while
+cobwebs hang thickly from the rafters above.  The rafters themselves are
+low, low enough for a man to have to duck at intervals to get by them.  In
+the murky darkness here, it's hard to tell exactly how large this attic is,
+but it stretches to the north, east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 5458
+D1
+~
+~
+0 0 5459
+D3
+~
+~
+0 0 5460
+D5
+~
+trapdoor~
+3 0 5467
+S
+#5458
+Attic~
+Here in the middle of the room, the roof slants higher above, sturdy
+rafters covered in dust and silky cobwebs slope down to either side.  Gaps
+in the floorboards leak paltry light from rooms below, revealing the dim
+shadows of more chests and bundles stored here for long enough to have
+gathered thick layers of the same dust dancing in the disturbed air.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 5463
+D1
+~
+~
+0 0 5462
+D2
+~
+~
+0 0 5457
+D3
+~
+~
+0 0 5461
+S
+#5459
+Attic~
+The roof overhead slopes sharply from its highest point to the floor of
+the western edge of the attic.  More cobwebs cover the corners of the
+rafters, silken strands flowing from the ceiling to dust-covered boxes
+hidden in the shadows, swaying in the air stirred by your movement.  It's
+quiet up here, but for the creaking of the floorboards under your feet and
+the muffled sounds of the wind sweeping around the house outside.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 5462
+D3
+~
+~
+0 0 5457
+S
+#5460
+Attic~
+The ceiling of the attic slopes at an angle from a high point to the
+east, all the way to the floor here in the western corner.  The floorboards
+creak underfoot, and more dust drifts up to fill the nose.  Dark shapes of
+chests and other containers fill the space between the rafters, cluttering
+the walkways and making movement through the room slow.  
+~
+0 4194304 0
+D0
+~
+~
+0 0 5461
+D1
+~
+~
+0 0 5457
+S
+#5461
+Attic~
+More cobwebs cover the corners of the rafters, silken strands flowing
+from the ceiling to dust-covered boxes hidden in the shadows, swaying in the
+air stirred by your movement.  It's quiet up here, but for the creaking of
+the floorboards under your feet and the muffled sounds of the wind sweeping
+around the house outside.  
+~
+0 4194304 0
+D1
+~
+~
+0 0 5458
+D2
+~
+~
+0 0 5460
+S
+#5462
+Attic~
+The ceiling of the attic slopes at an angle from a high point to the
+west, all the way to the floor here in the eastern corner.  The floorboards
+creak underfoot, and more dust drifts up to fill the nose.  Dark shapes of
+chests and other containers fill the space between the rafters, cluttering
+the walkways and making movement through the room slow.  
+~
+0 4194304 0
+D2
+~
+~
+0 0 5459
+D3
+~
+~
+0 0 5458
+S
+#5463
+Attic~
+Set in the northernmost wall of this attic is a slatted vent of a window,
+through which a trickle of fresh air can be felt.  The rafters come to a
+point above, and meet the northern wall at roof level.  Cobwebs form a
+silvery mesh in the high corner, softening the sharp edges of the boards.  
+~
+0 4194304 0
+D2
+~
+~
+0 0 5458
+S
+#5467
+Living Room~
+You stand in the cozy living room of this farmer's prosperous property. 
+A sturdy rocking chair stands in the corner near the hearth set in the west
+wall.  The stone floor is strewn with woven rugs of muted colors and a
+window opens out on the farmyard to the south.  Overall the room is tidy,
+with just a few scattered children's toys piled in a corner and a discarded
+woolen blanket thrown over another chair near the window.  From the north
+comes the sound of voices, accompanied by the smells of a kitchen.  Sturdy
+looking stairs take up a place to the northeast, leading up to a closed
+trapdoor.  
+~
+0 0 0
+D0
+~
+~
+0 0 5468
+D3
+~
+door west~
+3 0 5455
+D4
+~
+~
+3 0 5457
+S
+#5468
+Hallway~
+Along the walls of this simple hallway the inhabitants have hung simple
+tapestries and hangings to brighten their way.  While colorful and sturdy,
+it's obvious that some of them were made by a child's hands, perhaps
+daughters.  At intervals are doors leading off the hallway to the east and
+west, the smells of past-cooked meals wafts from further north while to the
+south lies the living room and front door.  
+~
+0 0 0
+D0
+~
+~
+0 0 5456
+D1
+~
+door east~
+3 0 5471
+D2
+~
+~
+0 0 5467
+S
+#5469
+Bedroom~
+~
+0 4 0
+S
+#5470
+Master Bedroom~
+The large four poster bed with a thick stuffed pallet dominates this
+room, leaving little space for the straight-backed wooden chair in the
+corner and the dresser of drawers against the eastern wall.  The bed is
+piled high with feather-stuffed pillows and quilts sewn with a skilled hand,
+leaving little doubt that this room's purpose is mainly devoted to time
+spent in its comfortable embrace.  Set into the western wall is a shuttered
+window through which the farmyard can be seen.  Outside, a rooster crows,
+calling his hens to task.  
+~
+0 0 0
+D0
+~
+curtain~
+1 0 5472
+S
+#5471
+Bedroom~
+This is a small room, but cozy.  A short pallet smelling of fresh hay
+lies in the northern corner, with a carved wooden dresser of drawers to the
+south.  Atop the dresser is a washing bowl with a matching pitcher, a
+hairbrush and a few other sundry items.  Directly across from the door, set
+in the eastern wall is a shuttered window, open now, through which the
+fields surounding the house are visible.  
+~
+0 0 0
+D3
+~
+door west~
+3 0 5468
+S
+#5472
+Sitting Room~
+The light from a window set in the western wall of this small room
+reveals a sitting room that, judging by the spinning wheel in the corner,
+doubles as a quiet place for the household's sewing.  The room is warmed by
+a small covered brazier by the northern wall next to a padded wooden
+armchair.  A short table in the center of the room is cluttered with a
+spindle and various baskets of colored yarn.  
+~
+0 0 0
+D1
+~
+door east~
+3 0 5456
+D2
+~
+curtain~
+1 0 5470
+S
+#5473
+Kitchen~
+This is the kitchen of the farmhouse, where obviously the maid is on
+vacation.  Dirty dishes are stacked nearly ceiling high on a table near the
+door, and the smell indicates no one has opened the window to the west in a
+long time.  The table dominating the center of the room actually sags in the
+middle under the weight of a huge pig's carcass, still fresh and bleeding
+from the butcher block.  Racks of spices line the walls, and near the floor
+on the east wall is a closed, hatched door.  Yet another exit to the north,
+a strange half-door split so the top and bottom open independently, leads
+outside to a garden.  
+~
+0 0 0
+E
+pig~
+A fat boar, sliced open from stem to stern, leaks pink fluid onto the
+table.  A rosy red apple sits on the countertop nearby, picked especially
+just for the occasion.  
+~
+E
+spice~
+Rosemary, Thyme, cloves of wrapped garlic, all of which blend into a
+pleasingly clean smell, promising meals worth enjoying.  
+~
+D0
+~
+half-door~
+3 0 5478
+D2
+~
+~
+0 0 5456
+D5
+~
+door down~
+3 0 5474
+S
+#5474
+Root Cellar~
+This room is under the kitchen for the purpose of keeping the food
+gathered here fresh, only, it's in awful disrepair.  There are bundles of
+moulding garlic hanging from hooks in the ceiling, and the stench is
+horrible.  The large room extends to the south into the darkness, and the
+sound of skittering moving things.  
+~
+0 0 0
+D2
+~
+~
+0 0 5475
+D4
+~
+door up~
+3 0 5473
+S
+#5475
+Root Cellar~
+This deep into this little cellar, the temperature is cool.  Condensation
+collects on the walls to make them glisten in the paultry light.  Barrels of
+previous seasons' harvest in various preserved states line the south wall,
+and more dried fruits and vegetables hanging from the low ceiling brush
+around your head as you explore.  The sickly sweet smell of spoiled things
+fills your nose, emanating from the dark corners to the east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 5474
+D1
+~
+~
+0 0 5476
+D3
+~
+~
+0 0 5477
+S
+#5476
+Root Cellar~
+A moldy sack of unidentifiable rotting goods lies here, discarded in a
+corner and covered in disgusting crawling things that flee in skittering
+panic as your light shines on them.  More strings of dried vegetables hang
+from the low ceiling, smelling of garlic and onions.  Hooks spaced along the
+earthen walls provide more places for hung harvest, and dry barrels branded
+with the shapes of wheat stalks lie tucked up underneath.  
+~
+0 0 0
+D3
+~
+~
+0 0 5475
+S
+#5477
+Root Cellar~
+A stack of sturdy shelves in this corner house neatly wrapped bundles
+smelling strongly of jerked meat.  Hanging low overhead are bundles of tied
+cheesecloth containing assorted wheels with waxy rinds of various colors and
+sizes.  
+~
+0 0 0
+D1
+~
+~
+0 0 5475
+S
+#5478
+Vegetable Garden~
+This small walled in garden is filled with the scent of spices on the
+air.  Neat rows of plants are separated into herbs for cooking and fat
+vegetables growing abundantly in the rich soil.  In the eastern corner,
+climbing up the short thigh-high wall is the thorny growth of a wild rose
+bush.  None of the buds have bloomed, though, and with its uneven stems, it
+looks to have been pruned with an unskilled hand.  
+~
+0 0 2
+D2
+~
+door south~
+3 0 5473
+D3
+~
+gate~
+1 0 5479
+S
+#5479
+Farmyard~
+From behind the large closed double doors to your north comes a cacophony
+of animal sounds, from the low mooing of cattle to the grunting squeal of
+pigs.  The barn itself is the same brick as the house to the east with tiled
+clay shingles capping the roof top.  The large doors are a heavy wood, on
+actual metal hinges, another sign that the farmer here makes a good living
+from his seasonal crops.  Seems like the well-fed chickens are everywhere,
+clucking and pecking underfoot as you move over the packed dirt farmyard.  A
+wooden gate to a small walled garden lies to the east.  
+~
+0 0 2
+D0
+~
+doors north~
+3 0 5480
+D1
+~
+gate~
+1 0 5478
+D2
+~
+~
+0 0 5455
+D4
+~
+~
+0 0 5519
+S
+#5480
+Barn~
+In the dim interior of the barn, the sounds of livestock echo from the
+rafters and their scents hang thick on the dusty air.  The sweet smell of
+hay and alfalfa coats the inside of the nose, dust lifts of the boards of
+stalls at every restless foot stamp.  There are hooks in the wooden walls
+for lanterns, with full buckets of water nearby, just in case.  A fire in
+this dry barn would be unimaginably devastating.  
+~
+0 0 0
+D0
+~
+~
+0 0 5481
+D2
+~
+door south~
+3 0 5479
+S
+#5481
+Barn~
+The floor here is hardpacked dirt, clear of refuse, though the smell
+typical of animal residence hangs thick in the air.  Dust motes swirl in
+shafts of light cast by gaps in the wooden boards of the ceiling.  There is
+a door to the west, and the aisle here is lined with stalls for livestock,
+all closed and latched with heavy iron hasps.  
+~
+0 0 0
+D0
+~
+~
+0 0 5484
+D2
+~
+~
+0 0 5480
+D3
+~
+door west~
+3 0 5482
+S
+#5482
+Tack Room~
+Row upon row of thick iron hooks line the walls in this room, on which
+hang a myriad of different leather straps and rope lines.  Pieces of harness
+for the animals on the farm lie neatly oiled and stacked on shelves, and the
+cleaning implements used on them sit waiting for their next use.  
+~
+0 4194304 0
+D1
+~
+door east~
+3 0 5481
+D3
+~
+secret door~
+3 0 5483
+S
+#5483
+Secret Room~
+This tiny room, hidden behind mounds of tack, and guarded by the farmer's
+fiercest dog, holds an assortment of valuables the family keeps hidden from
+possible theft.  Barrels line the walls and a small opening in the floor at
+the back of the room indicates another cubbyhole.  
+~
+0 4202496 0
+D1
+~
+secret door~
+3 0 5482
+D5
+~
+~
+0 0 5486
+S
+#5484
+Aisle in the Barn~
+Further down the aisle, the sound of animals gets louder.  A cow lows
+from a stall to the north and something slams a hoof into boards.  The
+rustling of movement in straw fills the space between the floor and ceiling.
+Stall doors line the aisle to the north, with another door here to the east.
+~
+0 0 0
+D0
+~
+~
+0 0 5487
+D1
+~
+door east~
+3 0 5485
+D2
+~
+~
+0 0 5481
+S
+#5485
+Feed Room~
+Tightly sealed sacks of grain sit against the walls, along with stacks of
+baled alfalfa filling the room with their sweet scent.  A handy stack of
+buckets has been left beside the door, cleaned and ready for carrying feed
+to stalls.  The floor is hard packed dirt, strewn with a layer of hay.  In
+the relative quiet of this room, the sounds of tiny feet scurrying through
+straw in the corners seems all the louder, as mice hunt down spilled feed.  
+~
+0 0 0
+D3
+~
+door west~
+3 0 5484
+S
+#5486
+Secret~
+Down through yet another cubby, is this room.  Filled with stacks of
+weapons and tools, it looks more like an armoury than anything one might
+find in a simple farmer's barn.  Though in excellent condition, the items in
+this room are covered with a fine layer of dust, and it seems as if no one
+in the family has entered here in a long time.  
+~
+0 4202496 0
+D4
+~
+~
+0 0 5483
+S
+#5487
+Aisle in the Barn~
+Stalls on either side of the aisle here smell strongly of dung and sweet
+straw.  A donkey in the dim barn brays, the sound swallowed by the close
+confines of the low ceiling.  Ahead to the north are more stalls, straw
+rustles as the animals move about restlessly.  
+~
+0 0 0
+D0
+~
+~
+0 0 5490
+D1
+~
+stall door~
+3 0 5489
+D2
+~
+~
+0 0 5484
+D3
+~
+stall door~
+3 0 5488
+S
+#5488
+Stall~
+Just to the east side of the door to the stall is a trough filled with
+water for the occupant, while to the west is an iron rack fixed to the wall,
+containing a quarter bale of sweet alfalfa.  Across the stall through the
+ankle-deep layer of straw, is a half-door its top half open to a fenced in
+paddock and the fields beyond it.  
+~
+0 0 0
+D1
+~
+stall door~
+3 0 5487
+D3
+~
+half-door~
+3 0 5509
+S
+#5489
+Stall~
+The floor in the stall in hard-packed dirt covered over in a thick layer
+of aromatic straw, crunching underfoot.  A knee-high trough on the floor
+just inside the door is half-filled with water, scummy with the occupant's
+slobber, while nailed firmly to the wall chest-high is an iron basket filled
+with half-eaten alfalfa.  Across the stall, in the eastern wall is a closed
+half-door leading out through the wall of the barn itself.  
+~
+0 0 0
+D1
+~
+half-door~
+3 0 5513
+D3
+~
+stall door~
+3 0 5487
+S
+#5490
+Aisle in the Barn~
+The last two stalls in the barn lie to the east and west, while another
+double set of large barn doors loom to the north.  To one side of the doors
+a double stack of baled hay has been left, a pitchfok leans discarded
+against it.  Fixed solidly to the wall beside the doors is a wooden ladder
+leading up into the loft above.  
+~
+0 0 0
+D0
+~
+barn doors~
+3 0 5510
+D1
+~
+stall door~
+3 0 5491
+D2
+~
+~
+0 0 5487
+D3
+~
+stall door~
+3 0 5492
+D4
+~
+~
+0 0 5493
+S
+#5491
+Stall~
+Much like the other stalls in this row, this one has a trough of water, a
+rack for hay, and the floor is ankle deep in clean straw.  One noticeable
+difference is the wooden boards of the southern wall look like new, recently
+repaired with fresh-looking new boards.  The top half of the door across the
+way is open, allowing a view of another paddock, and beyond that, a grove of
+short trees stretch their limbs over the grass.  
+~
+0 0 0
+D1
+~
+half-door~
+3 0 5512
+D3
+~
+stall door~
+3 0 5490
+S
+#5492
+Stall~
+Dust drifts gently from the wooden ceiling above, dancing in the dim
+light before getting lost in the thick straw underfoot, only to be stirred
+up again by currents of air driven by the opening of the stall door.  Nearly
+identical to the stall next door, both in size and the additions of trough
+and alfalfa, the half-door to the paddock outside is closed and latched in
+the western wall.  
+~
+0 0 0
+D1
+~
+stall door~
+3 0 5490
+D3
+~
+half-door~
+3 0 5508
+S
+#5493
+Loft~
+At the top of the sturdy ladder, there is a large loft extending south
+for the entire length of the barn itself.  Thick rafters above hold up the
+heavy shingled roof, while all around are stacked a variety of baled hay,
+from sweet alfalfa to the inedible straw used to line the stalls.  
+~
+0 0 0
+D1
+~
+~
+0 0 5494
+D2
+~
+~
+0 0 5
+D3
+~
+~
+0 0 5495
+D5
+~
+~
+0 0 5490
+S
+#5494
+Loft~
+Stacks of hay from floor to ceiling fill the loft, making it difficult to
+explore south.  The floorboards creak underfoot, and the lowing from the
+cows below filters up from their stalls.  Dust dances wildly in the shafts
+of light, kicked up with every footstep and scuff in the stray chaff fallen
+from the bales.  
+~
+0 0 0
+D2
+~
+~
+0 0 5498
+D3
+~
+~
+0 0 5493
+S
+#5495
+Loft~
+Neatly baled hay is stacked all along the walls of the loft, the roof
+having been built high enough to accomodate the huge supply necessary to
+keep all the animals fed through the winter.  Stray chaff has fallen from
+some of the bales, making the wooden floorboards slick with smooth-edged
+straw.  
+~
+0 0 0
+D1
+~
+~
+0 0 5493
+D2
+~
+~
+0 0 5497
+S
+#5496
+Loft~
+~
+0 0 0
+D1
+~
+~
+0 0 5498
+D2
+~
+~
+0 0 5500
+D3
+~
+~
+0 0 5497
+S
+#5497
+Loft~
+~
+0 0 0
+D0
+~
+~
+0 0 5495
+D1
+~
+~
+0 0 5496
+S
+#5498
+Loft~
+Further into the dim and dusty hayloft, straw whispers underfoot, and
+stacked hay bales rise up on all four sides.  Navigating south is difficult
+for the haphazard sizes of the stacks, some only two bales high, some
+towering overhead.  Further to the south, it seems as if one stack has
+fallen over, spilling a mound of hay all over the wooden floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 5494
+D2
+~
+~
+0 0 5501
+D3
+~
+~
+0 0 5496
+S
+#5499
+Farmlands~
+Waving grass surrounds the path you stand on.  To the west, in the
+distance, there is a stretch of fence running north to south bordering
+flattened soil.  South is a trampled path leading off into the high grass,
+and to the east is another stretch of fields.  The scent of freshly turned
+soil wafts on the wind.  A lovely fruit tree stands here, spreading boughs
+heavy with ripe fruit.  
+~
+0 0 2
+E
+tree~
+A tall tree in the prime of its life stands here, its roots sunk deep in
+the soft soil.  Spread boughs overhead promise a bountiful harvest, already
+heavy with fruit ripened early.  
+~
+D1
+~
+~
+0 0 5433
+D2
+~
+~
+0 0 5419
+D3
+~
+~
+0 0 5441
+S
+#5500
+Loft~
+The spill of broken bales cascades here to the center of the loft, making
+footing difficult in the slick straw.  High giggling is muffled in the
+sounds of rustling hay and the low chuckling of a male nature follows. 
+Seems this loft serves as more than simple storage of hay for the animals.  
+~
+0 0 0
+D1
+~
+~
+0 0 5501
+D2
+~
+~
+0 0 5503
+D3
+~
+~
+0 0 5502
+S
+#5501
+Loft~
+Around this particular stack of bales, the sound of muffled rustling
+comes to the ear, along with the high giggles of a girlish tenor.  Loose
+straw has broken from one, or maybe two bales and spilled across the wooden
+planks, making a thick cushion on the floor here.  
+~
+0 0 0
+D0
+~
+~
+0 0 5498
+D2
+~
+~
+0 0 5504
+D3
+~
+~
+0 0 5500
+S
+#5502
+Loft~
+~
+0 0 0
+D1
+~
+~
+0 0 5500
+D2
+~
+~
+0 0 5505
+S
+#5503
+Loft~
+Here to the south is a tall door in the outer wall of the barn itself. 
+On pegs in the wall next to the door hang a neat coil of thick, braided
+rope, and several hayhooks, used to grab and stack the heavy bales.  
+~
+0 0 0
+D0
+~
+~
+0 0 5500
+D1
+~
+~
+0 0 5504
+D2
+~
+door south~
+3 0 5519
+D3
+~
+~
+0 0 5505
+S
+#5504
+Loft~
+~
+0 0 0
+D0
+~
+~
+0 0 5501
+D3
+~
+~
+0 0 5503
+S
+#5505
+Loft~
+~
+0 0 0
+D0
+~
+~
+0 0 5502
+D1
+~
+~
+0 0 5503
+S
+#5507
+Paddock~
+~
+0 4194304 2
+D1
+~
+gate~
+3 0 5510
+D2
+~
+~
+0 0 5508
+S
+#5508
+Paddock~
+~
+0 0 2
+D0
+~
+~
+0 0 5507
+D1
+~
+half-door~
+3 0 5492
+D2
+~
+~
+0 0 5509
+S
+#5509
+Paddock~
+~
+0 0 2
+D0
+~
+~
+0 0 5508
+D1
+~
+half-door~
+3 0 5488
+S
+#5510
+Refuse Pile~
+The large doors of the back entrance to the barn lie to the south, while
+to the east and west are gated entries to fenced paddocks on either side of
+the barn itself.  Not far to the north, next to another path, worn by much
+use, is a large pile of refuse from the barn.  Soiled straw from stalls as
+well as weeds pulled from the garden and fields make up a rich supply of
+fertilizer for new crops.  A wooden wheelbarrow stands overturned against a
+recent reeking addition to the growing pile.  
+~
+0 0 2
+D0
+~
+~
+0 0 5514
+D1
+~
+gate~
+3 0 5511
+D2
+~
+barn doors~
+3 0 5490
+D3
+~
+gate~
+3 0 5507
+S
+#5511
+Paddock~
+~
+0 0 2
+D2
+~
+~
+0 0 5512
+D3
+~
+gate~
+3 0 5510
+S
+#5512
+Paddock~
+~
+0 0 2
+D0
+~
+~
+0 0 5511
+D2
+~
+~
+0 0 5513
+D3
+~
+half-door~
+3 0 5491
+S
+#5513
+Paddock~
+~
+0 0 2
+D0
+~
+~
+0 0 5512
+D3
+~
+half-door~
+3 0 5489
+S
+#5514
+Path to the Orchard~
+Further down this beaten track, the sound of pigs' squealing can be heard
+from the pens to the north.  The reek from the refuse pile to the south
+still permeates the air, and in the distance to the north, the tops of trees
+in the orchard are visible over the grass.  To the west lies a squat wooden
+shack with no windows, and the faint stench of old blood drifts from it on
+the breeze.  
+~
+0 0 2
+D0
+~
+~
+0 0 5524
+D2
+~
+~
+0 0 5510
+D3
+~
+~
+0 0 5515
+S
+#5515
+Butcher Shack~
+Here the short path to the shack opens into a wide yard.  A fenced pen to
+the north holds a solitary pig, awaiting its fate.  Chickens, strangely more
+subdued than the ones in the farmyard, peck disconsolately at the dirt. 
+There is a large block of wood to the south, stained a menacing brown with
+old blood.  A large heavy-bladed axe is stuck deep in its surface.  The door
+to the shack opens to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 5514
+D3
+~
+door west~
+3 0 5516
+S
+#5516
+Butcher Shack~
+Though clean, the air in the interior of this building is heavy with the
+scent of blood.  The old panic of the animals brought here permeates the
+atmosphere.  Dominating this room is a large wooden table, scarred with the
+marks of the heavy butcher knives hanging clean and bright on hooks in the
+wall.  The fact that the room has no windows contributes to the heavy
+oppression of the air within.  There is a wide, open doorway to the west,
+leading to a walkway sloping down into darkness.  
+~
+0 1 0
+D1
+~
+door east~
+3 0 5515
+D3
+~
+~
+0 0 5517
+S
+#5517
+Butcher Shack~
+The ground underfoot slopes steeply, then levels out into a wide room
+just under ground level.  Huge solid beams arch overhead, from which hang
+thick iron chains ending in wickedly sharp hooks.  The purpose of the hooks
+is demonstrated by the heavy dead-weight of a large bull-pig, stuck through
+the back and hanging upside down, draining its blood from a neatly slashed
+throat, into a pan underneath it.  
+~
+0 1 0
+D1
+~
+~
+0 0 5516
+S
+#5518
+Pig Pen~
+Separated from the path by a sturdy fence and a gate to the west, this
+pig pen is full of swine.  They crowd the long trenches of feed, contentedly
+burying their noses in the troughs, snorting and grunting.  The pen itself
+is huge, extending to the east from the gate.  
+~
+0 0 2
+D1
+~
+~
+0 0 5520
+D3
+~
+gate~
+1 0 5524
+S
+#5519
+Falling from the Loft~
+A large iron pulley fixed firmly above the outer door to the north is
+used to lower hay down from the loft, while below, in distance equal to the
+height of the barn, is the farmyard.  The tiny shapes of chickens move about
+below your feet as you float on the wind.  
+~
+0 4194304 9
+D0
+~
+door north~
+3 0 5503
+D5
+~
+~
+0 0 5479
+S
+#5520
+Pig Pen~
+Fat placid pigs crowd closely together for warmth, or perhaps
+companionship here in the southern corner of the sty.  A large puddle of
+runoff from the troughs has made a huge mud bath to the north, while further
+to the east is an open sided shed for partial shelter from the elements.  
+~
+0 0 2
+D0
+~
+~
+0 0 5521
+D1
+~
+~
+0 0 5523
+D3
+~
+~
+0 0 5518
+S
+#5521
+Pig Pen~
+The sound of contented grunts and splashing water fill the air here. 
+Water covers the ground a handspan deep, seeping into the dry dust creating
+a thick pasty muck.  
+~
+0 4194304 0
+D1
+~
+~
+0 0 5522
+D2
+~
+~
+0 0 5520
+S
+#5522
+Pig Pen~
+Another mothering sow is settled here in the straw, while her offspring
+crawl over each other in an eager a feeding frenzy as the older pigs at the
+trough.  To the west is the rest of the sty, much less clean, with a large
+wallow full of mud-coated, rolling swine.  
+~
+0 0 0
+D2
+~
+~
+0 0 5523
+D3
+~
+~
+0 0 5521
+S
+#5523
+Pig Pen~
+Under the sheltering eaves of this shed made up of three walls and a
+roof, straw underfoot is mostly dry.  A huge sow nurses tiny piglets in
+relative comfort, her mud-caked forefeet gently cradles one between cloven
+hoofs as she cleans its pink hide.  
+~
+0 0 0
+D0
+~
+~
+0 0 5522
+D3
+~
+~
+0 0 5520
+S
+#5524
+Path to the Orchard~
+The brisk breeze washes along the path, bearing away the last traces of
+the refuse pile to the south, and replacing it with the faint, sweet smell
+of apples.  Behind a closed gate to the east comes the contented sounds of
+pigs grunting, while to the north, the path continues into the trees in the
+distance.  
+~
+0 0 2
+D1
+~
+gate~
+1 0 5518
+D2
+~
+~
+0 0 5514
+S
+#5525
+Asmo's Treehouse~
+Asmo's Treehouse.
+ISn't it pretty.
+Oh yes it is.
+yeah.
+~
+0 0 0
+D5
+~
+~
+0 0 99
+S
+#5545
+Meeting Chamber~
+A quiet chamber, mellow in it's austerity.  A long table dominates the
+room, surrounded by comfortable high-backed chairs.  This is where
+guildmembers gather together to discuss issues and settle disputes.  A
+window in the ceiling gives a view of the Morgue, to keep guildmembers
+abreast of current souls passing the Wheel.  
+~
+0 4194816 0
+D1
+~
+~
+0 0 5547
+S
+#5546
+Breakroom~
+Here is the guide breakroom.  Full of comfortable chairs and poofy couches, it's the ideal place to rest and observe the goings-on of the folks in healer.
+Refreshments are served regularly, keeping members well-fed and content.
+~
+0 4194816 0
+D3
+~
+~
+0 0 5547
+S
+#5547
+Guide Outpost~
+Here is the entrance to the Guide Guild's sanctum.  The Supreme Guide
+stands here always, to remind guildmembers to follow his lead in remaining
+objective in disputes, and confident in helping the Novices.  Rooms to the
+east and west provide much needed refuge for the guides to relax and share
+experiences, as well as decide issues.  
+~
+0 4194304 0
+D1
+~
+~
+0 0 5546
+D2
+~
+~
+0 0 6399
+D3
+~
+~
+0 0 5545
+S
+#5548
+Hole~
+Ack!!  You've been Duped!  That ought to teach you to listen to Crows. 
+Wait...  What is that crack on the ground, there?  
+~
+0 4 0
+S
+#5549
+none~
+~
+0 138471940 0
+S
+#5550
+Village street~
+You stand at the small village street in Ofcol.
+From here you see small houses and only few people.
+North of here the village street continues up to the small
+square where some people are gathered as always.
+~
+0 0 1
+D0
+You look up the village street noticing nothing special at all.
+~
+~
+0 -1 5551
+D2
+The wide road leads south here towards the T-crossing.
+~
+~
+0 -1 314
+S
+#5551
+Village street~
+You are standing on the village street of Ofcol.
+East from here is a small alley and north you enter the village
+square. Towards the south you can leave Ofcol.
+~
+0 0 1
+D0
+The village square is as usual not overcrowded.
+~
+~
+0 -1 5552
+D1
+The small alley looks relative peaceful.
+~
+~
+0 -1 5553
+D2
+You see the village street eventually becoming the wide road.
+~
+~
+0 -1 5550
+S
+#5552
+Village square~
+The village square is a place where inhabitants of Ofcol gather
+to talk, trade and sell items and just have a good time.
+You see a small shop to the west and the local inn to the north.
+If you leave south you go to village street.
+~
+0 0 1
+D0
+You see a local inn called 'The Ofcol Local Inn'. Looks nice.
+~
+~
+0 -1 5556
+D2
+You see the village street of Ofcol.
+~
+~
+0 -1 5551
+D3
+A small shop with the sign 'Luxan's Mixed goods' hanging in front of it.
+~
+~
+0 -1 5555
+S
+#5553
+The small alley~
+You are in a small, quiet alley.  From here you see the village street
+to the west and a small room lies to the south.
+~
+0 0 1
+D2
+It looks like the future site of a training room.
+~
+~
+0 -1 5554
+D3
+You notice nothing but the village street.
+~
+~
+0 -1 5551
+S
+#5554
+The future training room~
+This is the future site of a training room.  The only exit is north
+leading to the small alley.
+~
+0 8 1
+D0
+You are able to see the small alley, really not very interesting.
+~
+~
+0 -1 5553
+S
+#5555
+Luxan's mixed shop~
+You are standing in a small shop, filled with all kinds of goods.
+Here you might be able to find just the thing you're looking for.
+The only exit is east to village square.
+~
+0 8 1
+D1
+The village square is as usual not overcrowded.
+~
+~
+0 -1 5552
+S
+#5556
+The Local Inn~
+You are in the local inn, where the peaceful citizens of Ofcol
+gather to have a drink or 5 if they have dry throats.
+You can't help thinking that Ofcol is a dry city, when you see the
+many people here.
+The only exit is south to the village square.
+~
+0 8 1
+D2
+The village square is as usual not overcrowded.
+~
+~
+0 -1 5552
+S
+#5577
+Ravan's hideout~
+This place is a small, cosy place where no one disturbs you all
+the time. The room has little decoration except for some pictures
+on the wall.
+You notice that there are no exits from this room.
+~
+0 4 0
+E
+friend friends~
+The list include such prominent names as : God, Lottie, Kurgan,
+Ezzard, Mike, Sprocket and Stormbringer.
+~
+E
+foe foes enemies~
+There is only one picture yet... Dim.
+It pictures him hanging from a gallow, north of the town.
+It has the letters R.I.P. inscripted underneath.
+~
+E
+pictures picture decoration~
+These pictures show the friend's and foe's of Ravan.
+They are easy to separate, as most of the foe's have the letters
+R.I.P. inscripted underneath them.
+~
+S
+#0
+
+
+
+#SPECIALS
+M 5407 spec_cast_adept
+M 5411 spec_cast_adept
+M 5547 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 5406 1 2
+D 0 5410 3 2
+D 0 5411 0 1
+D 0 5412 2 1
+D 0 5416 0 2
+D 0 5431 5 1
+D 0 5439 5 1
+D 0 5447 5 1
+D 0 5455 1 1
+D 0 5456 3 1
+D 0 5457 5 1
+D 0 5467 3 1
+D 0 5467 4 1
+D 0 5468 1 1
+D 0 5470 0 1
+D 0 5471 3 1
+D 0 5472 1 1
+D 0 5472 2 1
+D 0 5473 0 1
+D 0 5473 5 1
+D 0 5474 4 1
+D 0 5478 2 1
+D 0 5478 3 1
+D 0 5479 0 1
+D 0 5479 1 1
+D 0 5480 2 1
+D 0 5481 3 1
+D 0 5482 1 1
+D 0 5482 3 1
+D 0 5483 1 1
+D 0 5484 1 1
+D 0 5485 3 1
+D 0 5487 1 1
+D 0 5487 3 1
+D 0 5488 1 1
+D 0 5488 3 1
+D 0 5489 1 1
+D 0 5489 3 1
+D 0 5490 0 1
+D 0 5490 1 1
+D 0 5490 3 1
+D 0 5491 1 1
+D 0 5491 3 1
+D 0 5492 1 1
+D 0 5492 3 1
+D 0 5503 2 1
+D 0 5507 1 1
+D 0 5508 1 1
+D 0 5509 1 1
+D 0 5510 1 1
+D 0 5510 2 1
+D 0 5510 3 1
+D 0 5511 3 1
+D 0 5512 3 1
+D 0 5513 3 1
+D 0 5515 3 1
+D 0 5516 1 1
+D 0 5518 3 1
+D 0 5519 0 1
+D 0 5524 1 1
+M 0 5407 1 5400 1 100 Load a small statue of a Lady
+M 0 5400 40 5401 1 100 Load a shiftless field hand
+M 0 5409 40 5402 1 100 Load A field mouse
+M 0 5400 40 5402 1 100 Load a shiftless field hand
+E 0 5400 0 5 0 100 `7a mottled cloak is loaded on the body of a shiftless field hand
+M 0 5409 6 5406 1 100 Load A field mouse
+O 0 5402 0 5408 0 100 A crack in the dry earth loaded to Around the Hummock
+P 0 5401 2 5402 1 100 A key to a secret put inside a key to a secret
+M 0 5409 1 5409 1 100 Load A field mouse
+M 0 5412 1 5412 1 100 Load A dung beetle
+O 0 5403 0 5412 0 100 A long narrow shelf in the wall loaded to Crypt
+P 0 5404 6 5403 1 100 `7a jumbled pile of rotted bones. put inside `7A jumbled pile of rotted bones.
+O 0 5403 0 5413 0 100 A long narrow shelf in the wall loaded to In the Dark 
+P 0 5432 1 5403 1 100 A wreath of dried flowers put inside a wreath of dried flowers
+P 0 5404 6 5403 1 100 `7a jumbled pile of rotted bones. put inside `7A jumbled pile of rotted bones.
+O 0 5403 0 5414 0 100 A long narrow shelf in the wall loaded to In the Dark
+P 0 5431 1 5403 1 100 Anklets of bone put inside anklets of bone
+P 0 5404 6 5403 1 100 `7a jumbled pile of rotted bones. put inside `7A jumbled pile of rotted bones.
+O 0 5403 0 5415 0 100 A long narrow shelf in the wall loaded to In the Dark
+P 0 5430 1 5403 1 100 A jumbled pile of bones  put inside a jumbled pile of bones 
+M 0 5412 6 5415 1 100 Load A dung beetle
+O 0 5416 0 5416 0 100 A trickle of water loaded to Glimmering Light
+M 0 5411 1 5416 1 100 Load a tiny spider
+M 0 5414 1 5417 1 100 Load A Corporeal Presence
+E 0 5438 0 2 0 100 A ghostly band of silver is loaded on the right finger of A Corporeal Presence
+E 0 5438 0 1 0 100 A ghostly band of silver is loaded on the left finger of A Corporeal Presence
+E 0 5441 0 20 0 100 `*the essence of life is loaded floating nearby of A Corporeal Presence
+P 0 4309 3 5441 3 100 An elixir of life put inside an elixir of life
+M 0 5400 40 5418 1 100 Load a shiftless field hand
+O 0 5442 0 5419 0 100 A placeholder for lynn loaded to Grasslands
+M 0 5400 40 5419 1 100 Load a shiftless field hand
+O 0 5405 0 5420 0 100 A lovely fruit tree loaded to Farmland
+P 0 5407 10 5405 2 100 A delicious looking fruit put inside a delicious looking fruit
+M 0 5449 3 5422 1 100 Load a Flimsy Scarecrow
+E 0 5411 0 16 0 100 A spindly staff is loaded on the right wrist of a Flimsy Scarecrow
+O 0 5437 0 5422 0 100 A crossbeam loaded to Farmland
+P 0 5440 1 5437 1 100 A simple key put inside a simple key
+O 0 5420 0 5425 0 100 A puddle loaded to Standing Puddle
+O 0 5442 0 5429 0 100 A placeholder for lynn loaded to Plowed Pasture
+O 0 5442 0 5430 0 100 A placeholder for lynn loaded to Plowed Pasture
+M 0 5409 40 5430 1 100 Load A field mouse
+M 0 5400 40 5430 1 100 Load a shiftless field hand
+O 0 5442 0 5431 0 100 A placeholder for lynn loaded to Plowed Pasture
+M 0 5409 40 5432 1 100 Load A field mouse
+M 0 5409 40 5432 1 100 Load A field mouse
+M 0 5400 40 5432 1 100 Load a shiftless field hand
+O 0 5442 0 5433 0 100 A placeholder for lynn loaded to Plowed Pasture
+O 0 5408 0 5435 0 100 A small pile of seeds loaded to Inside a Burrow
+O 0 5408 0 5436 0 100 A small pile of seeds loaded to Inside a Burrow
+M 0 5409 30 5436 1 100 Load A field mouse
+O 0 5442 0 5437 0 100 A placeholder for lynn loaded to Fallow Fields
+M 0 5400 40 5437 1 100 Load a shiftless field hand
+O 0 5442 0 5438 0 100 A placeholder for lynn loaded to Fallow Fields
+O 0 5442 0 5439 0 100 A placeholder for lynn loaded to Fallow Fields
+M 0 5400 40 5439 1 100 Load a shiftless field hand
+O 0 5442 0 5440 0 100 A placeholder for lynn loaded to Fallow Fields
+M 0 5409 6 5440 3 100 Load A field mouse
+O 0 5442 0 5441 0 100 A placeholder for lynn loaded to Fallow Fields
+M 0 5400 40 5441 1 100 Load a shiftless field hand
+O 0 5442 0 5442 0 100 A placeholder for lynn loaded to Fallow Fields
+O 0 5408 0 5443 0 100 A small pile of seeds loaded to Inside a Burrow
+O 0 5408 0 5444 0 100 A small pile of seeds loaded to Inside a Burrow
+M 0 5409 30 5444 1 100 Load A field mouse
+M 0 5409 40 5445 1 100 Load A field mouse
+M 0 5409 40 5446 1 100 Load A field mouse
+M 0 5400 40 5446 1 100 Load a shiftless field hand
+M 0 5409 40 5448 1 100 Load A field mouse
+M 0 5409 40 5449 1 100 Load A field mouse
+M 0 5400 40 5449 1 100 Load a shiftless field hand
+O 0 5420 0 5449 0 100 A puddle loaded to Standing Puddle
+M 0 5409 40 5450 1 100 Load A field mouse
+O 0 5451 0 5450 0 100 `*green leaves with a white strip loaded to Trickling Stream
+M 0 5400 40 5451 1 100 Load a shiftless field hand
+M 0 5409 40 5452 1 100 Load A field mouse
+O 0 5454 0 5454 0 100 A well loaded to Farmyard
+O 0 5458 0 5458 0 100 A gap in the floorboards loaded to Attic
+M 0 5401 15 5458 2 100 Load A vicious moth
+M 0 5401 15 5459 2 100 Load A vicious moth
+M 0 5401 15 5460 2 100 Load A vicious moth
+O 0 5421 0 5461 0 100 A dusty chest loaded to Attic
+P 0 5428 1 5421 1 100 A poor farmer's life savings put inside a poor farmer's life savings
+M 0 5401 15 5461 2 100 Load A vicious moth
+O 0 5421 0 5462 0 100 A dusty chest loaded to Attic
+P 0 5427 1 5421 1 100 A beautiful lace gown put inside a beautiful lace gown
+M 0 5401 15 5462 2 100 Load A vicious moth
+O 0 5421 0 5463 0 100 A dusty chest loaded to Attic
+P 0 5426 1 5421 1 100 A scarlet tunic put inside a scarlet tunic
+M 0 5401 15 5463 2 100 Load A vicious moth
+O 0 5419 0 5470 0 100 A window loaded to Master Bedroom
+O 0 5418 0 5471 0 100 A window loaded to Bedroom
+M 0 5413 1 5471 1 100 Load the farmer's daughter
+G 0 5433 0 0 0 100 A folding chair is given to the farmer's daughter
+O 0 5419 0 5472 0 100 A window loaded to Sitting Room
+O 0 5419 0 5473 0 100 A window loaded to Kitchen
+M 0 5402 1 5473 1 100 Load a Frenzied Farmwife
+E 0 5423 0 17 0 100 A heavy-bladed meat cleaver is loaded wielded of a Frenzied Farmwife
+M 0 5406 8 5475 2 100 Load a scuttling roach
+M 0 5406 8 5476 2 100 Load a scuttling roach
+M 0 5406 8 5477 2 100 Load a scuttling roach
+M 0 5403 9 5479 1 100 Load a Buxom Milk Maid
+M 0 5403 9 5481 1 100 Load a Buxom Milk Maid
+E 0 5425 0 19 0 100 A big jug of milk is loaded held in the hands of a Buxom Milk Maid
+M 0 5408 15 5482 1 100 Load A handsome stableboy
+E 0 5424 0 17 0 100 A bullwhip is loaded wielded of A handsome stableboy
+M 0 5410 1 5483 1 100 Load a grizzled mutt
+O 0 9576 0 5483 0 100 A barrel of beer loaded to Secret Room
+O 0 1652 0 5483 0 100 A barrel of ale loaded to Secret Room
+M 0 5408 15 5485 1 100 Load A handsome stableboy
+E 0 5424 0 17 0 100 A bullwhip is loaded wielded of A handsome stableboy
+O 0 5429 0 5486 0 100 A spiked iron cudgel loaded to Secret
+M 0 5404 4 5488 1 100 Load a Mad Cow
+E 0 5422 0 16 0 100 The horn of a mad cow is loaded on the right wrist of a Mad Cow
+M 0 5403 9 5489 1 100 Load a Buxom Milk Maid
+M 0 5404 8 5489 2 100 Load a Mad Cow
+E 0 5422 0 16 0 100 The horn of a mad cow is loaded on the right wrist of a Mad Cow
+M 0 5408 15 5490 1 100 Load A handsome stableboy
+E 0 5424 0 17 0 100 A bullwhip is loaded wielded of A handsome stableboy
+M 0 5403 9 5491 1 100 Load a Buxom Milk Maid
+M 0 5404 8 5491 2 100 Load a Mad Cow
+E 0 5422 0 17 0 100 The horn of a mad cow is loaded wielded of a Mad Cow
+M 0 5404 8 5492 2 100 Load a Mad Cow
+E 0 5422 0 17 0 100 The horn of a mad cow is loaded wielded of a Mad Cow
+M 0 5408 15 5494 1 100 Load A handsome stableboy
+E 0 5412 0 17 0 100 A wicked pitchfork is loaded wielded of A handsome stableboy
+M 0 5408 15 5497 1 100 Load A handsome stableboy
+O 0 5405 0 5499 0 100 A lovely fruit tree loaded to Farmlands
+P 0 5407 20 5405 2 100 A delicious looking fruit put inside a delicious looking fruit
+M 0 5408 15 5501 1 100 Load A handsome stableboy
+M 0 5408 15 5503 1 100 Load A handsome stableboy
+M 0 5408 15 5510 1 100 Load A handsome stableboy
+E 0 5424 0 17 0 100 A bullwhip is loaded wielded of A handsome stableboy
+O 0 5410 0 5515 0 100 A headless chicken loaded to Butcher Shack
+M 0 5405 15 5518 2 100 Load a fat placid pig
+M 0 5405 15 5520 2 100 Load a fat placid pig
+M 0 5405 15 5521 2 100 Load a fat placid pig
+M 0 5405 15 5522 2 100 Load a fat placid pig
+M 0 5405 15 5523 2 100 Load a fat placid pig
+O 0 5482 0 5545 0 100 A window to the morgue loaded to Meeting Chamber
+O 0 5480 0 5546 0 100 A window to machael loaded to Breakroom
+O 0 1402 0 5546 0 100 A fridge loaded to Breakroom
+P 0 1403 1 1402 1 100 A bottle of absolut vodka put inside a bottle of Absolut vodka
+P 0 1404 1 1402 1 100 A bottle of cranberry juice put inside a bottle of cranberry juice
+P 0 721 3 1402 3 100 `*an ice cold can of dr. pepper put inside `*An Ice cold Can of Dr. Pepper
+O 0 5481 0 5547 0 100 A window to pella in whitebridge loaded to Guide Outpost
+M 0 5547 1 5547 1 100 Load The Supreme Guide
+E 0 6200 0 5 0 100 `4t`$h`4e `$fl`4owi`$ng `&wh`8i`&te `4ro`$be`4s of a `#g`&ui`#de`* is loaded on the body of The Supreme Guide
+E 0 5434 0 0 0 100 `$a `#gl`&o`#w `4o`$f sa`4fe p`$ass`4age`*   is loaded as a light of The Supreme Guide
+E 0 5435 0 8 0 100 `4com`$fo`4rtab`$le `3le`&ath`3er `4sa`$nd`4als`* is loaded on the feet of The Supreme Guide
+E 0 5436 0 13 0 100 `4a s`$as`4h of `&b`*r`8a`!i`8d`*e`&d `$li`4ne`$n`* is loaded around the waist of The Supreme Guide
+O 0 5548 0 5548 0 100 A crack in the floor loaded to Hole
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#5400
+if level $n < 10
+say Greetings, Friend!  Welcome to the Mud University!
+I wonder, though we've just met, if you would do me the favor of reprimanding the rogue to the east.  He has offended me in the worst way, but I'm old, and no longer have the strength to fight.  He goes by the name Gordon.
+tell $n Welcome, go east and kill gordon, making sure to gather his equipment, please be sure to read "Help Newbie" as soon as you get a chance, it will be a good guide in the levels to come.  Feel free to ask anyone for assistance.
+endif
+~
+#5401
+say Please!  You're ki..killing me!
+emote gasps a last dying breath.
+~
+#5402
+say Wait!  Stop!  I promise to change my ways!  I'll walk in the Light!
+say Wait!  Stop!  Please, you're hurting me!
+~
+#5403
+~
+#5404
+if level ($n) < 75
+tell ($n) You don't want to go any further, you're not ready yet.
+else
+tell ($n) Walk in the Light.
+endif
+~
+#5542
+~
+#5543
+if isnpc $n
+mob remember $n
+break
+endif
+~
+#5544
+if hastarget $i
+goose $q
+say Heh, I know what you can do for me, you sexy thing...
+wink $q
+else
+mob forget
+endif
+~
+#5545
+emote shrieks in terror and hides under a table.
+~
+#5546
+if race $n andor
+say `!Hey!  You don't treat a lady like that when I'm around!!!!!`*
+kill $n
+endif
+~
+#5547
+giggle
+~
+#5548
+smile
+~
+#5549
+if sex $n == 2
+goose $n
+say Heya sexy..
+wink $n
+else
+goose $n
+innocent
+say what?  I'm an equal opportunity advocate.
+wink $n
+end if
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

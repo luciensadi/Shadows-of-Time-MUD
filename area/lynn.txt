@@ -1,0 +1,147 @@
+`!REQUIREMENTS`*
+
+
+1.  You must have logged a minimum of 300 hours on your oldest alt 
+charactor and at least one alt charactor at level 75 or above.
+
+For Example:
+
+You have two charactors, one a lowbie level 20 with 40 hours, and one a 
+level 75 with 400, tou qualify.  
+
+You have six characters with 50 hours each, `!you do not qualify`*.  
+Consistancy is as valuable as time put in.  Dedicated time put in to a 
+character shows a determination as well as a certain amount of know-how.  
+
+
+2.  You must get a minimum of 2 Immortals from this mud to send a note 
+addressed to the Immortal in charge of mediating the council, endorsing
+you for the position on this council. 
+
+
+3.  You must get a minimum of 5 mortal charactors from this mud, who have 
+no immortal alts, to send a note addressed to the Immortal in charge of 
+mediating the council, endorsing you for the position on this council.
+
+
+4.  Final Approval will be granted initially by the single Immortal on the 
+council, and further down the road, by a majority vote by the Mortal charactors 
+on this council.
+
+
+5.  You may not have an Immortal alt and be a member of Council, unless 
+you are the obligatory 
+
+Immortal pre-selected by the leading Implementors in power.
+
+
+`!DUTIES AND RESPONSIBILITIES PERTAINING TO NOVICES:`*
+
+
+While the powers-that-be do not expect you to give up excessive time on 
+your own charactors, once you have made the decision to be a part of this 
+council, you must be prepared to dedicate yourself to it appropriately.
+
+
+
+Thus, we are allowing your council charactor the freedom of multi-playing 
+for the `!sole purpose`* of assisting those in need.  You are restricted 
+from killing anything with your council member, and any abuse of the 
+priviledge given will of course be met with immediate and final action.
+
+Now that we understand that, we come to your true purpose.
+
+
+1.  Your one true purpose and the thing that should be uppermost in your 
+mind at all times, is that you represent this mud and our staff to all 
+the visitors and new players we get.  
+
+
+2.  It falls on you to answer questions, no matter how small you think 
+they are, and provide initial advice to our incoming pbase.  There is 
+no excuse for treating a new player with disrespect or anything but 
+polite understanding and patience.  If you have to leave, or are 
+otherwise occupied, handing questions to trustworthy players is an 
+adequate solution, however, you should then follow up on the outcome.
+
+
+3.  It is important to note that there `!IS`* such a thing as `!TOO MUCH`* 
+help.  We are not here to plevel new players, or give hand outs.  We are 
+teachers, and the best way to learn is through experience.  
+
+For example, don't just give a port to gleeman area; show them the way to 
+walk there.  Do not just give them eq; show them which mob loads it.  I 
+trust you get the idea.
+
+
+4.  `!Do not`* accept rudeness from new players any more than you accept 
+it from our current pbase.  Politely excuse yourself and address the immortal present with your 
+problem.  We do not expect you to be walked on.
+
+
+5.  If your council member is logged, your Novice channel is expected to 
+be on.  You have the ability to silence any player on the channel for due cause,
+though, of course, abuse of this ability will be quickly corrected.
+
+
+
+syntax is: ntoggle <player name>
+
+
+`!DUTIES AND RESPONSIBILITIES PERTAINING TO DISPUTES:`*
+
+
+
+These responsibilities may be the most frustrating and irritating of 
+anything you do with regard to this guild's operation.  However; 
+`!it is the intent of the staff to pick from GUIDE guild our 
+future Immortals`*.  Thus, it is your chance to diplay how very 
+level-headed and objective you can be in times when tempers flare 
+and people are at their nastiest.
+
+
+If players have an issue, first: each player involved must `!NOTE GUIDE`*.  
+All the members of the guild must have the opportunity to examine the issue 
+objectively from BOTH sides.  Witnesses to the event may also note the guild 
+with exactly what they saw, `!minus speculation `*as to anything that may have 
+happened prior, or after the event.
+
+When no less than three GUIDE guild members as well as the mediating Immortal, 
+have had a chance to review the issue, the decision reached will be returned to 
+the players.  
+
+Appeals to these decisions may be granted, with cause, by the mediating immortal, 
+in which case they will be forwarded to the Implementors in charge, with the findings 
+of the guild.
+
+Since each situation you encounter is bound to be different, and every battle has at 
+least two sides we can offer these basic guidelines to assist you in settling disputes 
+between players.
+
+
+
+1.  `!Keep heated discussion of the incident off OOC.  `*It only adds to the clamor and 
+distorts the facts.  Not to mention it reflects badly on the mud.
+
+
+2.  `!Know the Rules.  `*Know the rules as they are written in the helps.  These are the
+rules the players know. We cannot go by what may have been said in passing a week ago, or
+by suspected intent of the rule-makers.  Use hard text fact to back up your knowledge.
+
+
+3.  `!When in doubt, refer to Imms.`*There is no shame in saying you can't handle their 
+problems right away.  We don't expect you to feel comfortable passing judgement on every 
+problem brought to your attention.  Rather than make a bad decision, pass the problem on 
+to someone who has the necessary power to enforce it.
+
+
+4.  `!Do Not Take Sides.  `*Regardless of how well you think you know the people playing 
+with you on this mud, you will refrain from taking sides openly on any issue without having 
+the facts presented.  If this means you must keep the identity of your Guildmember cloaked, 
+so be it.  Any show of favoritism on the part of the GUIDE guild in respect to settling disputes 
+only serves to downgrade authority, and damage the respect the guild and staff of the mud require 
+to do their jobs.
+
+
+5.  `!Be nice.  `*Yeah yeah, Roadhouse.  Still applies.  Be nice.  It looks good, makes people 
+feel good, and when they feel good, understandings can be reached that much quicker.

@@ -1,0 +1,1088 @@
+#AREADATA
+Name Stone of Tear~
+Builders None~
+VNUMs 5801 5850
+Credits `4[`7 High `4]`7 Saradin   The Stone of Tear~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#5801
+defender stone tear~
+The Defender~
+One of the elite Defender's of the Stone of Tear is here.
+~
+~
+tear~
+0 0
+ABRT 0 1024 0 0 -1  -1000 0
+180 100 12d12+5500 12d12+400 1d50+25 pierce
+0 0 0 0
+0 AB HJP 0
+stand stand male  1200
+AHMV ABCDEFGHIJK medium unknown
+#5849
+none~
+A sentinel of stone~
+A sentinel of stone is standing here.
+~
+~
+unique~
+0 0
+AB 0 0 0 0 -1  -1000 0
+0 1 1d1+1 0d0+0 0d0+0 punch
+0 0 0 0
+0 0 0 0
+stand stand male  1200
+0 0 medium unknown
+#5850
+Stone of Tear Captain~
+The Captain of the Defenders~
+The Captain of the legendary Defenders of the Stone of Tear is here.
+~
+~
+tear~
+0 0
+ABFTe 256 64 128 0 -1  1000 0
+100 40 10d50+4500 0d0+0 50d1+30 slice
+-30 -30 -30 -25
+CDFK K I H
+stand stand male  239
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#5803
+Defender's Leg Plates~
+defender's Leg Plates~
+The leg plates of the stone of tear's defender guard is lying here~
+unknown~
+armor ABY AF
+0
+CE CE CE CE 0
+68 50 1500 P
+A
+20 -1
+A
+13 3
+A
+19 3
+A
+18 3
+ T 0 none~
+#5849
+Stone Of Tear Helm~
+the Stone of Tear Guard Helmet~
+The helmet of one of the Stone of Tear's Guards is lying here~
+unknown~
+armor ABIY AE
+0
+E E E E 0
+75 100 0 P
+A
+20 -2
+A
+12 1
+A
+18 7
+A
+19 1
+ T 0 none~
+#5850
+callandor~
+callandor~
+Suspended in air is one of the strongest Sa'angreal ever made, Callandor.~
+true source~
+treasure A 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#5801
+Road That Leads to the Stone~
+Continuing along the semi-paved path, you can now distinctly see the door
+leading into the Stone. It is weird how the walls are still crystal clean
+after at least a hundred attempts to take to Stone.
+~
+0 0 0
+D1
+~
+~
+0 0 5802
+D2
+~
+~
+0 0 5804
+S
+#5802
+Outside the Stone of Tear~
+Staring at the enormous Stone of Tear, which is said to be one of the, if
+not the oldest fortress in the world. Its walls have not one mortar piece to
+connect bricks. It is said to be made from the one power in which earth,
+water, fire, and wind were used to gather rocks from all corners of the
+world and forge them together.
+~
+0 0 0
+D3
+~
+~
+0 0 5801
+S
+#5803
+Inside the Stone~
+The mighty walls of the Stone of Tear are now within reach.  The vaunted
+gate that has surpassed over one hundred sieges still stands and guards the
+Stone and the angreal within.  
+~
+0 0 0
+D0
+~
+~
+0 0 8519
+D2
+~
+~
+0 0 5805
+S
+#5804
+Road through Tear~
+Along this dusty road a formidable fortress can be seen to the south. It
+must be huge inside for the walls are rumored to be stronger than those of
+the White Tower. Pedlers, merchants, and various other people roam the
+streets looking for sell or trade.
+~
+0 0 0
+D0
+~
+~
+0 0 5801
+S
+#5805
+Inside the Stone~
+Finally inside the crystal white perfectly dome shaped fortress, the main
+hall is huge and wide. Pictures hand with banners on the wall. Several
+groups of Defenders can be seen throughout the hall, keeping watch over
+anything.
+~
+0 8 0
+D0
+~
+~
+0 0 5803
+D1
+~
+~
+0 0 5807
+D3
+~
+~
+0 0 5806
+S
+#5806
+The Delegation Room~
+Here is a semi-circle type room with seats arranged like a stadium. Rows
+and rows of seats climb to towards the ceiling. This is the room where all
+nobles of Tear hold meetings in which to discuss detail, minor or major, and
+where everyones opinion can be heard.
+~
+0 8 0
+D1
+~
+~
+0 0 5805
+D2
+~
+~
+0 0 5825
+D3
+~
+~
+0 0 5813
+S
+#5807
+The Main Hall of the Stone~
+The beautiful white walls line the halls, not a mark on them nor a
+scrath. When the Aes Sedai built the Stone of Tear, they used the One Power,
+and ever since the Stone has not been broken.
+~
+0 8 0
+D1
+~
+~
+0 0 5808
+D2
+~
+~
+0 0 5827
+D3
+~
+~
+0 0 5805
+S
+#5808
+Captain of the Defenders Room~
+This room unlike the other rooms for soldiers is moderatly decorated. It
+is the room of the Captain of the Defenders of the Stone. He and his fellow
+Defenders will defend the Stone at any cost and will never fail until the
+Prophecies of the Dragon are fulfilled.
+~
+0 8 0
+D1
+~
+~
+0 0 5809
+D2
+~
+~
+0 0 5830
+D3
+~
+~
+0 0 5807
+S
+#5809
+Defenders Bunks~
+Several wooden beds clutter the room with chests in front of each. Racks
+of armor and weapons line one wall while clothes are thrown about the room.
+This is where the Defenders of the Stone live, and the place they protect.
+~
+0 8 0
+D3
+~
+~
+0 0 5808
+S
+#5810
+Defenders Bunks~
+Several wooden beds clutter the room with chests in front of each. Racks
+of armor and weapons line one wall while clothes are thrown about the room.
+This is where the Defenders of the Stone live, and the place they protect.
+~
+0 0 0
+D3
+~
+~
+0 0 5830
+S
+#5811
+Armor Storage Room~
+Lying about the floor and hung in rows on the walls hang various pieces
+of armor. Helmets, breastplates, simple shirts, leggings, and shields line
+the walls with outdated or broken armor waiting to be fixed sitting in the
+corner.
+~
+0 8 0
+D3
+~
+~
+0 0 5831
+S
+#5812
+Weapons Storage Room~
+Many different types of weapons litter the grey marble floor of the
+Stone. Thousands of arrows are stacked in the far corner, while swords,
+pikes, axes, staffs, bows, and other pieces of destruction scatter the
+walls.
+~
+0 0 0
+D3
+~
+~
+0 0 5824
+S
+#5813
+Down the Main Hall~
+Covered with banners and pictures you walk further along the main hall of
+the Stone. Its crystal white walls reflect your image well enough to see
+almost every detail. Sever doors are on each side of the hall leading down
+several other hallways or into other rooms.
+~
+0 8 0
+D1
+~
+~
+0 0 5806
+D3
+~
+~
+0 0 5814
+S
+#5814
+Beneath the Dome~
+Here beneath the safety of the dome, is one of the largest rooms in the
+Stone. It is here that the loyal citizens of Tear come during times of
+invasion when the Stone is the last line of defense. Much safer than the
+walls of their own house, they stay here and sometimes grab arms and fight.
+~
+0 8 0
+D1
+~
+~
+0 0 5813
+D2
+~
+~
+0 0 5832
+D3
+~
+~
+0 0 5815
+S
+#5815
+Defenders Bunks~
+Several wooden beds clutter the room with chests in front of each. Racks
+of armor and weapons line one wall while clothes are thrown about the room.
+This is where the Defenders of the Stone live, and the place they protect.
+~
+0 0 0
+D1
+~
+~
+0 0 5814
+S
+#5816
+The Eating Room of the Stone~
+Several rows of large tables cover the room stretching its complete
+length. It has the capacity to seat at least five hundred people and maybe
+up to one thousand. One of the tables however is covered in a red cloth, and
+the chairs are elegant and exqusite, it is the table of the High Lords of
+Tear.
+~
+0 8 0
+D1
+~
+~
+0 0 5832
+D2
+~
+~
+0 0 5817
+S
+#5817
+The Stone's Kitchen~
+Here several men and women spend countless hours cooking and feeding the
+noble Defenders of the Stone, and the High Lords of Tear. Several different
+plates can be seen throughout the kitchen, all seem to be completely
+different and look quite delicious.
+~
+0 8 0
+D0
+~
+~
+0 0 5816
+D2
+~
+~
+0 0 5818
+S
+#5818
+Secret Door of the Stone~
+Here the white walls branch off leading towards a heavily guarded tunnel.
+What looks to be near twenty Defenders are on duty here watching over the
+secretive tunnel. Could there be more than one way into the Stone of Tear?
+~
+0 8 0
+D0
+~
+~
+0 0 5817
+D1
+~
+~
+0 0 5819
+S
+#5819
+The Stone's Storage Room~
+Here everything and anything has been thrown about the room. Books,
+clothes, banners, machines, broken weapons, shattered armor, and papers are
+a few of the many things that little the floor.
+~
+0 8 0
+D1
+~
+~
+0 0 5820
+D3
+~
+~
+0 0 5818
+D5
+~
+~
+0 0 20401
+S
+#5820
+The Back of the Stone~
+This is the furthest point into the Stone which you can go. The crystal
+white walls filled with the One Power still surround the hall and Defenders
+can be seen throughout the hall keeping watch and monitoring any guests.
+~
+0 8 0
+D0
+~
+~
+0 0 5834
+D1
+~
+~
+0 0 5821
+D3
+~
+~
+0 0 5819
+S
+#5821
+Training Room for the Defenders~
+Here is the room where the Defenders of the Stone of Tear can train
+without even stepping foor outside. Several large apparatuses are in the
+room that help in movement and agility as well as speed and skill. Several
+Defenders are always training for they must keep there skills up at all
+times.
+~
+0 8 0
+D0
+~
+~
+0 0 5826
+D1
+~
+~
+0 0 5822
+D3
+~
+~
+0 0 5820
+S
+#5822
+Back Hall of the Stone~
+Walking down a brightly lit hall, several pictures are hung on the
+cyrstal white stone. One of them stands about above others, it is of several
+men and women all looking to the sky, where a building is floating, witha
+spinning ball above the center. Several red colored transports seem to be
+going up and down. Below the painting simply reads, "Lost City."
+~
+0 8 0
+D1
+~
+~
+0 0 5823
+D3
+~
+~
+0 0 5821
+S
+#5823
+Further Down the Back Hall~
+Walking further down the back hallway of the massive fortress a few
+paintings dot the white walls. Most are images of brave men standing against
+the onslaught of trollocs led by Dreadlords. There is one painting that
+catches your eye more than any of the others. Below the image of a few
+humans surrounded by trollocs is written, "Tai Shar Manetheran."
+~
+0 8 0
+D0
+~
+~
+0 0 5828
+D1
+~
+~
+0 0 5824
+D3
+~
+~
+0 0 5822
+S
+#5824
+Defenders Hall~
+This part of the Stone's crystal white walls has been dedicated to the
+men that serve as Defenders of the Stone. They have kept it and never failed
+as long as its existed. Several of the famous members even have pictures on
+the walls, but many are old and faded and not clearly visible.
+~
+0 8 0
+D0
+~
+~
+0 0 5831
+D1
+~
+~
+0 0 5812
+D3
+~
+~
+0 0 5823
+S
+#5825
+Side Hall Inside the Stone~
+Here a small hall splits from the main hall and leads towards another
+hall. Its' walls are the same crystal white that makes up the rest of the
+mighty fortress and keep it secure from all who threaten it.
+~
+0 8 0
+D0
+~
+~
+0 0 5806
+D2
+~
+~
+0 0 5826
+D3
+~
+~
+0 0 5833
+S
+#5826
+High Lord's Hallway~
+Walking down the High Lord's Hall, loud noises can be heard from what
+appears to look like some sort of meeting room, where the other High Lord's
+and Lady's of Tear come together to discuss the most important matters at
+hand.
+~
+0 8 0
+D0
+~
+~
+0 0 5825
+D1
+~
+~
+0 0 5829
+D2
+~
+~
+0 0 5821
+D3
+~
+~
+0 0 5834
+S
+#5827
+The Stone of Tears Library~
+Inside what looks to resemble an unorganized library only about a
+thousand books line the shelves. Some are historical documents about Tear,
+but few are from the Age of Legends or before. Several men and women are
+sitting down, reading books about the room.
+~
+0 8 0
+D0
+~
+~
+0 0 5807
+D2
+~
+~
+0 0 5828
+S
+#5828
+Tarian Nobles Meeting Chamber~
+Here any noble lord or lady of Tear can come to the monthly meetings. All
+matters are discussed at these meetings ranging from talk of the world, or
+trouble inside Tear itself.
+~
+0 8 0
+D0
+~
+~
+0 0 5827
+D1
+~
+~
+0 0 5831
+D2
+~
+~
+0 0 5823
+D3
+~
+~
+0 0 5829
+S
+#5829
+High Lords Meeting Chamber~
+A large table of polished oak dominates the room. Enough room for at
+least fifty of Tear's nobles to sit at and talk about matters of the nation,
+and the rest of the world.
+~
+0 0 0
+D1
+~
+~
+0 0 5828
+D3
+~
+~
+0 0 5826
+D5
+~
+~
+0 0 5835
+S
+#5830
+Maids Quarters~
+Here several beds are scattered around the floor. A few thin lines hang
+over the room with clothes hanging on them drying. This is the maids room,
+where all the High Lord's and Lady's servants sleep at night and live. The
+main room is split up into many rooms with wooden walls and doors.
+~
+0 8 0
+D0
+~
+~
+0 0 5808
+D1
+~
+~
+0 0 5810
+D2
+~
+~
+0 0 5831
+S
+#5831
+Entertainment Room~
+Here is where the people of the Stone can go to have a peaceful no
+eventful evening of fun and joy. A bar rests against one wall while a small
+stage is in the corner of the room. Ofter there is a man in a patchwork
+cloak on the stage telling storys and singing songs, but not today, for
+their numbers have grown scarce and are hard to find.
+~
+0 8 0
+D0
+~
+~
+0 0 5830
+D1
+~
+~
+0 0 5811
+D2
+~
+~
+0 0 5824
+D3
+~
+~
+0 0 5828
+S
+#5832
+Hallway Through the Stone~
+Still walking down the crystal white walls of the stone, filled with the
+One Power ever since its creation, you are on yet another hallway. A few
+doors branch of to the north and south while the hall continues further in
+the other directions.
+~
+0 8 0
+D0
+~
+~
+0 0 5814
+D1
+~
+~
+0 0 5833
+D3
+~
+~
+0 0 5816
+S
+#5833
+Deeper Into the Stone~
+Still on the same white hall walking deeper and deeper into the Stone.
+Defenders have grown more numerous the further into the Stoe you have gone.
+Several groups of ten or more can be seen pacing up and down the halls.
+~
+0 8 0
+D1
+~
+~
+0 0 5825
+D2
+~
+~
+0 0 5834
+D3
+~
+~
+0 0 5832
+S
+#5834
+Secret Passage~
+Even the crystal white walls envelope you while inside a secret
+passageway within the Stone. Its access is only know by the Defenders and
+can be used as an effective short-cut through the Stone. If ever the Stone
+was to be over-run Defenders could pile in this passage and suprise the
+enemy at night and possibly take back the Stone.
+~
+0 8 0
+D0
+~
+~
+0 0 5833
+D1
+~
+~
+0 0 5826
+D2
+~
+~
+0 0 5820
+S
+#5835
+Below the Hidden Door~
+Below the hidden door, that only certain nobles and other higher ranking
+people know about is a large hallway. Doors branch of to either side, but
+most are locked and store historical documents, but it is said some store
+ancient angreal...
+~
+0 8 0
+D1
+~
+~
+0 0 5836
+D3
+~
+~
+0 0 5841
+D4
+~
+~
+0 0 5829
+S
+#5836
+Beneath the High Lords Hall~
+Here directly beneath the High Lords Hall is another hall that most
+regular people of Tear have no clue exists. It is said by some nobles that
+below is the ancient ritual room, where four times a year the High Lords
+come down for what they call the "Rite."
+~
+0 8 0
+D1
+~
+~
+0 0 5837
+D3
+~
+~
+0 0 5835
+S
+#5837
+Curve in the Hall~
+Here the hall curves into another which has paintings and posters on the
+walls. Compared to the other hallway it is very colorful and lively. The
+bleak greyness of the prior hall has faded into a dim red which lights the
+hall an eerie red.
+~
+0 8 0
+D0
+~
+~
+0 0 5838
+D3
+~
+~
+0 0 5836
+S
+#5838
+The Historical Hall of the Stone~
+Unlike the hall that the trap door led too, this hall is full of pictures
+and inscriptions. Along one wall, which needless to say is filled with
+armies that attempted to over-run the Stone and in big letters next to them
+is there result that is summed up in simply one word.... FAILED.
+~
+0 8 0
+D0
+~
+~
+0 0 5839
+D2
+~
+~
+0 0 5837
+S
+#5839
+Along the Hall Beneath the Stone~
+Here beneath the part of the Stone that is known to most, is a faint
+reddish coloured hall. Several banners hang on the wall, each representing a
+past high noble of Tear. Some have names below while others have nothing.
+~
+0 8 0
+D0
+~
+~
+0 0 5840
+D2
+~
+~
+0 0 5838
+S
+#5840
+Turn in the Hall~
+Here the dark reddish colored hall turns into a smooth gray. The hall
+stretches what looks to be forever in front of you. Ahead are several
+Defenders of the Stone casually walking down the hall.
+~
+0 8 0
+D2
+~
+~
+0 0 5839
+D3
+~
+~
+0 0 5848
+S
+#5841
+Beneath the Tarian Nobility's Hall~
+Directly beneath the nobility's hall you find yourself in what seems to
+be a secretive area. Only a few Defenders stand watch, and there faces
+scarred with battles past, and ready for more to come.
+~
+0 8 0
+D1
+~
+~
+0 0 5835
+D3
+~
+~
+0 0 5842
+S
+#5842
+An Exchange of Sorts~
+Here the dim grey hallway that is the only way down transforms into a
+mystical golden hall. Several banners of ancient nations hang from the
+walls, several of them are recognizable as the past three major cities of
+Essenia, the capitol Aren Mador (now Far Madding), Tear, and Delsande.
+~
+0 8 0
+D0
+~
+~
+0 0 5843
+D1
+~
+~
+0 0 5841
+S
+#5843
+Walking Towards Several Defenders~
+Down the hall a ways, several Defenders stand straight and tall guarding
+what looks to be an opening to the outside world. In this part of the hall,
+ancient banners cover the walls with inscriptions beneath them.
+~
+0 8 0
+D0
+~
+~
+0 0 5844
+D2
+~
+~
+0 0 5842
+S
+#5844
+Hidden Entrance to the Stone ~
+Here is the secret entrance to the Stone of Tear which only the leader of
+the Defenders of the Stone knows about. There is a small guard kept outside,
+but details on what they are guarding, are only that it is a matter of life
+and death. These soldiers are trusted men, that will not defer for the sake
+of power, so they guard it with their life.
+~
+0 0 0
+D0
+~
+~
+0 0 5845
+D2
+~
+~
+0 0 5843
+S
+#5845
+Another Curve Beneath the Stone~
+Yet another curve in the hall leads down a faint yellow colored hall. A
+few tourches glitter off the yellow paint and give the hall almost a golden
+color.
+~
+0 8 0
+D1
+~
+~
+0 0 5846
+D2
+~
+~
+0 0 5844
+S
+#5846
+The Stones Grey Hall~
+Here the grey hall leads in both directions, but a small wooden sign
+hangs on one wall and reads, "Whoever holds the Stone of Tear, is Lord of
+Tear, city and nation."
+~
+0 8 0
+D1
+~
+~
+0 0 5847
+D3
+~
+~
+0 0 5845
+S
+#5847
+Beneath the Stone~
+Here the long grey hall has an opening to one side that leads to an
+almost pitch black hall. Next to the hall, is a the flag of Tear which is
+three white Crescent Moons slanting across a field half red, and half gold.
+~
+0 8 0
+D1
+~
+~
+0 0 5848
+D2
+~
+~
+0 0 5849
+D3
+~
+~
+0 0 5846
+S
+#5848
+Through the Gray Halls~
+Down inside the Stone, it seems to be one long continuos grey hallway
+with the occasional locked door to either side. Walking down the hall you
+meet and pass several Defenders that are walking along having casual
+conversation.
+~
+0 8 0
+D1
+~
+~
+0 0 5840
+D3
+~
+~
+0 0 5847
+S
+#5849
+Dim Lit Hallway Inside the Stone~
+Walking along a dark hallway, light can finally be seen at the end. From
+where you stand it looks to be a fairly big room with a bright glow coming
+from the center. That could only be one thing, Callandor.
+~
+0 9 0
+D0
+~
+~
+0 0 5847
+D2
+~
+~
+0 0 5850
+S
+#5850
+The Heart of the Stone~
+Deep inside the fortress you have come to the fabled Heart of the Stone.
+Amid polished restone columns and golden lamps, Callandor, one of the
+strongest sa'angreal to be made hangs waiting for the Dragon to reclaim it.
+~
+0 8 0
+D0
+~
+~
+0 0 5849
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 5801 30 5803 5 100 Load The Defender
+E 0 5803 0 7 0 100 Defender's leg plates is loaded on the legs of The Defender
+M 0 5801 30 5803 5 100 Load The Defender
+E 0 5803 0 7 0 100 Defender's leg plates is loaded on the legs of The Defender
+M 0 5801 30 5805 5 100 Load The Defender
+E 0 5803 0 7 0 100 Defender's leg plates is loaded on the legs of The Defender
+M 0 5801 30 5805 5 100 Load The Defender
+E 0 5803 0 7 0 100 Defender's leg plates is loaded on the legs of The Defender
+M 0 5801 30 5807 1 100 Load The Defender
+E 0 5803 0 7 0 100 Defender's leg plates is loaded on the legs of The Defender
+M 0 5801 30 5809 5 100 Load The Defender
+M 0 5801 30 5809 5 100 Load The Defender
+M 0 5801 30 5810 5 100 Load The Defender
+M 0 5801 30 5810 5 100 Load The Defender
+M 0 5801 30 5813 1 100 Load The Defender
+E 0 5803 0 7 0 100 Defender's leg plates is loaded on the legs of The Defender
+M 0 5801 30 5815 5 100 Load The Defender
+M 0 5801 30 5815 5 100 Load The Defender
+E 0 5803 0 7 0 100 Defender's leg plates is loaded on the legs of The Defender
+M 0 5801 2 5815 2 100 Load The Defender
+E 0 5803 0 7 0 100 Defender's leg plates is loaded on the legs of The Defender
+M 0 5801 30 5818 5 100 Load The Defender
+M 0 5801 30 5818 5 100 Load The Defender
+M 0 5801 30 5818 5 100 Load The Defender
+M 0 5801 30 5818 5 100 Load The Defender
+M 0 5801 30 5818 5 100 Load The Defender
+M 0 5801 30 5821 1 100 Load The Defender
+M 0 5801 30 5821 1 100 Load The Defender
+M 0 5801 30 5823 1 100 Load The Defender
+M 0 5801 30 5829 5 100 Load The Defender
+M 0 5801 30 5829 5 100 Load The Defender
+M 0 5801 30 5833 1 100 Load The Defender
+M 0 5801 30 5834 5 100 Load The Defender
+M 0 5801 30 5834 5 100 Load The Defender
+M 0 5801 30 5834 5 100 Load The Defender
+M 0 5801 30 5834 5 100 Load The Defender
+M 0 5801 30 5834 5 100 Load The Defender
+M 0 5801 30 5835 5 100 Load The Defender
+M 0 5801 30 5835 5 100 Load The Defender
+M 0 5801 30 5835 5 100 Load The Defender
+M 0 5801 30 5838 1 100 Load The Defender
+M 0 5801 30 5840 1 100 Load The Defender
+M 0 5801 30 5843 1 100 Load The Defender
+M 0 5801 30 5847 5 100 Load The Defender
+M 0 5801 30 5847 5 100 Load The Defender
+M 0 5850 1 5850 1 100 Load The Captain of the Defenders
+O 0 5850 0 5850 0 100 Callandor loaded to The Heart of the Stone
+E 0 5849 0 6 0 100 The stone of tear guard helmet is loaded over the head of The Captain of the Defenders
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

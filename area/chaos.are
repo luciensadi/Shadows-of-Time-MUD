@@ -1,0 +1,907 @@
+#AREADATA
+Name Realms of Chaos~
+Builders None~
+VNUMs 20601 20899
+Credits `4[`7 None `4]`7 Jasin     Realms of Chaos~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#20601
+the infidel~
+the infidel~
+The infidel is here, glaring at you for disturbing its lair.
+~
+Standing taller than any man you've ever seen, the infidel can only be
+described as a beast.  It is covered in bloody and matted hair, and seems
+almost to be smiling at you.  
+~
+unique~
+0 0
+ABFTe 256 2112 128 0 -1  0 0
+250 240 29000d1+1000 10d1+1000 10d1+250 acbite
+-100 -100 -100 -100
+0 K 0 I
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#20601
+portal sorrow blue black~
+a `&sh`7i`&mm`7e`&r`7i`&ng `$b`4l`$u`4e `7and `8black`7 portal~
+A portal to the Realm of Sorrow is here, shimmering blue and black.~
+unknown~
+portal 0 0
+0
+0 0 0 ABCDEFGMO 0
+1 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#20601
+Entering the Realms of Chaos~
+The sky above you moves at an incredible speed, black and red clouds
+taking turns blocking out the sun.  The land around you is barren, holding
+nothing but endless miles of sand, dunes consuming the earth.  The wind
+pushes at you, threatening to lift you from the ground, yet the sand does
+not move.  Before you, a hole in the earth gives way to darkness, beckoning
+to you.  
+~
+0 0 10
+D5
+~
+~
+0 0 20602
+S
+#20602
+Within the Vortex~
+The darkness consumes you, penetrating the depths of your mind.  As the
+waves of sorrow, anger, deception, destruction, and insanity move through
+you, the vortex becomes your soul.  The world no longer exists; inside the
+realms, you are everything, and nothing.  
+~
+0 8 0
+D4
+~
+~
+0 0 20601
+D5
+~
+~
+0 0 20603
+S
+#20603
+Within the Vortex~
+Continuing through the methodic tearing away of your being, you become
+calm, almost serene, but only for a brief moment.  The vortex becomes the
+images of your life, images carefully tucked away in the deepest reaches of
+your mind.  All things painful in your existence, become your life for a
+brief moment.  
+~
+0 8 0
+D4
+~
+~
+0 0 20602
+D5
+~
+~
+0 0 20604
+S
+#20604
+Within the Vortex~
+Moving deeper into the vortex, you begin to feel an overwhelming sense of
+sadness.  Blue and black images of all things sorrowful in your life become
+the vortex around you.  The feelings consume your body for a moment,
+destroying your confidence, clawing at your achievements.  You become a
+swirl of toxic disgust, but only for a brief moment.  
+~
+0 8 0
+D4
+~
+~
+0 0 20603
+D5
+~
+~
+0 0 20605
+S
+#20605
+Within the Vortex~
+As the images leave, you are left with a feeling of hatred for everything
+and everyone who has ever caused you pain.  The vortex becomes spiraling
+patterns of red and black images, only vaguely recognizable as your anger. 
+The images tear at your soul, raping you of innocence and tolerance.  But
+only for a moment.  
+~
+0 8 0
+D4
+~
+~
+0 0 20604
+D5
+~
+~
+0 0 20606
+S
+#20606
+Within the Vortex~
+Fear begins to set in.  The vortex begins to flicker in a purplish tint,
+revealing flashes of memories that consume your mind.  Faced with the raw
+emotion of pain caused by deception, your soul is bruised further.  Your
+mind is on the brink of collapse, but only for a moment.  
+~
+0 8 0
+D4
+~
+~
+0 0 20605
+D5
+~
+~
+0 0 20719
+S
+#20607
+Entering the Realm of Sorrow~
+As the blue and black light consumes you, you feel momentarily at ease
+before standing in a totally different place than before.  The land before
+you is old and worn, as if it has been traveled countless times.  It feels
+almost familiar, although in a different sense than seeing..  
+~
+0 8 0
+D2
+~
+~
+0 0 20608
+S
+#20608
+A Narrow Path~
+Looking back, the portal is gone, leaving the same worn road that leads
+in the opposite direction.  The roads and surrounding land look identical,
+even down to the formation of the black clouds circling above.  
+~
+0 8 0
+D0
+~
+~
+0 0 20607
+D2
+~
+~
+0 0 20609
+S
+#20609
+A Narrow Path~
+Further down the narrow path, you come closer to an intersection with a
+river.  From here, the river looks normal, except for a foreboding mist
+covering it's surface.  The trees surrounding the road are twisted and
+black, and almost seem to be reaching out to you from a great distance.  
+~
+0 8 0
+D0
+~
+~
+0 0 20608
+D2
+~
+~
+0 0 20610
+S
+#20610
+An Intersection~
+The road continues onto a small bridge over the river.  From here, the
+mist is just thin enough to notice that the river is blood red. 
+Occassionally the water trembles as if disturbed, but surely you're safe on
+the bridge.  
+~
+0 8 0
+D0
+~
+~
+0 0 20609
+D1
+~
+~
+0 0 20713
+D2
+~
+~
+0 0 20611
+D3
+~
+~
+0 0 20716
+S
+#20611
+A Winding Path~
+After crossing the bridge, the road begins to wind downhill, leading
+towards a wall of black mist.  The surrounding trees and terrain look
+twisted and worn, as if despite time eating away, it would not completely
+disappear.  
+~
+0 8 0
+D0
+~
+~
+0 0 20610
+D2
+~
+~
+0 0 20612
+S
+#20612
+A Winding Path~
+The path continues downhill, among broken boulders that temporarily block
+your path.  Here and there, large cracks in the earth disrupt your journey,
+but an alternative route is never too far.  
+~
+0 8 0
+D0
+~
+~
+0 0 20611
+D2
+~
+~
+0 0 20613
+S
+#20613
+A Winding Path~
+Before the wall of black mist, even the sky seems to change; Jagged
+lightning bolts scream from the sky but dissipate before ever reaching the
+earth.  Black and red clouds scatter the skyline, as if to foreshadow what
+lies within the mist.  
+~
+0 8 0
+D0
+~
+~
+0 0 20612
+D2
+~
+~
+0 0 20614
+S
+#20614
+A Wall of Black Mist~
+The road abruptly ends as you enter the wall of mist.  At first the
+abscence of light is startling, but soon your eyes adapt, and you see more
+than light could ever give life to.  Lost souls clamor about the edge of
+mist, looking out for any more travelers coming down that winding path. 
+They float about aimlessly, consumed by the mist, trapped eternally inside
+its black walls.  A few reach out to touch you, but always pass right
+through you instead.  Strangely enough, the ground is lighted by a long neon
+stripe, leading you through the labyrinth of forgotten souls.  
+~
+0 8 0
+D0
+~
+~
+0 0 20613
+D2
+~
+~
+0 0 20615
+S
+#20615
+Before a Castle Shrouded in Darkness~
+After passing through the mist, the world seems considerably darker.  On
+the other side, the wall of mist cannot be seen; instead the path by which
+you travelled here dominates your vision.  Before you stands the ruins of a
+modest castle.  Five spires protrude into the now empty and calm sky, and
+the doors of the castle are open, welcoming you.  
+~
+0 8 0
+D0
+~
+~
+0 0 20614
+D2
+~
+~
+0 0 20616
+S
+#20616
+Entrance to the Castle~
+Upon entering the castle, a wave of terror passes through you from an
+unknown source.  The marble floor beneath your feet shines back at your
+brilliantly, as if polished before your arrival.  
+~
+0 8 0
+D0
+~
+~
+0 0 20615
+D2
+~
+~
+0 0 20617
+S
+#20617
+A Chamber in Ruins~
+The first chamber of the castle is in ruins.  Covered in it's own debris,
+the room sits in frozen time.  Anything you touch immediately goes back to
+how it was before you entered the room.  
+~
+0 8 0
+D0
+~
+~
+0 0 20616
+D1
+~
+~
+0 0 20618
+D2
+~
+~
+0 0 20620
+D3
+~
+~
+0 0 20621
+S
+#20618
+A Chamber in Ruins~
+Here the statue of a man lies broken in pieces on the floor.  The body
+seems almost decapitated, and oddly enough the statue's face portrays a
+moment of shocked horror.  
+~
+0 8 0
+D2
+~
+~
+0 0 20619
+D3
+~
+~
+0 0 20617
+S
+#20619
+A Chamber in Ruins~
+In this corner of the chamber, the marble floor is replaced by a smooth
+black surface, but instead of your normal reflection, you see a much uglier,
+evil being.  
+~
+0 8 0
+D0
+~
+~
+0 0 20618
+D3
+~
+~
+0 0 20620
+S
+#20620
+A Chamber in Ruins~
+The far wall of the chamber is completely gone, but an invisible barrier
+keeps you from exploring further.  
+~
+0 8 0
+D0
+~
+~
+0 0 20617
+D1
+~
+~
+0 0 20619
+D3
+~
+~
+0 0 20622
+S
+#20621
+A Chamber in Ruins~
+As you examine the room closer, you notice every clock is stuck on the
+same moment.  Despite the ruins of the chamber, the marble floor still
+shines up at you.  
+~
+0 8 0
+D1
+~
+~
+0 0 20617
+D2
+~
+~
+0 0 20622
+S
+#20622
+A Chamber in Ruins~
+Entering another section of the chamber, you notice immediately a table
+intact, along with 4 chairs, one of which is toppled over.  A glass of what
+appears to be red wine rests on each corner of the table, and a pitcher in
+the center.  
+~
+0 8 0
+D0
+~
+~
+0 0 20621
+D1
+~
+~
+0 0 20620
+S
+#20623
+A Chamber in Ruins~
+~
+0 12 0
+S
+#20624
+A Common Room~
+~
+0 12 0
+S
+#20625
+The Infidel's Lair~
+The lair you've entered seems empty upon first glance, which doesn't give
+away much other than silence and darkness.  The only sounds that can be
+heard are the occassional dripping of water from above, and a low,
+unidentifiable rasp.  The stench is horrible, as well.  
+~
+0 134742017 0
+D1
+~
+~
+0 0 20626
+D4
+~
+~
+0 0 20718
+S
+#20626
+The Infidel's Lair~
+The stench becomes overwhelming the futher into the lair you venture, and
+the darkness begins to almost glow an eerie tint of red.  You can distinctly
+make out some sort of creature's heavy breathing, but it's unrecognizable.  
+~
+0 134742017 0
+D1
+~
+~
+0 0 20627
+D3
+~
+~
+0 0 20625
+S
+#20627
+The Infidel's Lair~
+The stench becomes overwhelming the futher into the lair you venture, and
+the darkness begins to almost glow an eerie tint of red.  You can distinctly
+make out some sort of creature's heavy breathing, but it's unrecognizable.  
+~
+0 134742017 0
+D1
+~
+~
+0 0 20628
+D3
+~
+~
+0 0 20626
+S
+#20628
+The Infidel's Lair~
+The cavern opens up into a wide circular room, the surrounding wall and
+floor covered in blood, bones, and flesh.  
+~
+0 134742017 0
+D1
+~
+~
+0 0 20631
+D3
+~
+~
+0 0 20627
+S
+#20629
+The Infidel's Lair~
+The lair you've entered seems empty upon first glance, which doesn't give
+away much other than silence and darkness.  The only sounds that can be
+heard are the occassional dripping of water from above, and a low,
+unidentifiable rasp.  The stench is horrible, as well.  
+~
+0 134742017 0
+D3
+~
+~
+0 0 20630
+D4
+~
+~
+0 0 20715
+S
+#20630
+The Infidel's Lair~
+The stench becomes overwhelming the futher into the lair you venture, and
+the darkness begins to almost glow an eerie tint of red.  You can distinctly
+make out some sort of creature's heavy breathing, but it's unrecognizable.  
+~
+0 134742017 0
+D1
+~
+~
+0 0 20629
+D3
+~
+~
+0 0 20631
+S
+#20631
+The Infidel's Lair~
+The stench becomes overwhelming the futher into the lair you venture, and
+the darkness begins to almost glow an eerie tint of red.  You can distinctly
+make out some sort of creature's heavy breathing, but it's unrecognizable.  
+~
+0 134742017 0
+D1
+~
+~
+0 0 20630
+D3
+~
+~
+0 0 20628
+S
+#20632
+The Infidel's Lair~
+The cavern opens up into a wide circular room, the surrounding wall and
+floor covered in blood, bones, and flesh.  
+~
+0 134742021 0
+S
+#20700
+Center of the Portal~
+~
+0 8200 0
+D0
+~
+~
+0 0 20701
+D1
+~
+~
+0 0 20707
+D2
+~
+~
+0 0 20704
+D3
+~
+~
+0 0 20710
+S
+#20701
+Nearing the Entrance to Inferno~
+~
+0 8192 0
+D0
+~
+~
+0 0 20702
+D2
+~
+~
+0 0 20700
+S
+#20702
+Nearing the Entrance to Inferno~
+~
+0 8192 0
+D0
+~
+~
+0 0 20703
+D2
+~
+~
+0 0 20701
+S
+#20703
+Before the Gateway to Inferno~
+~
+0 8192 0
+D2
+~
+~
+0 0 20702
+S
+#20704
+Nearing the Entrance to Paradise~
+~
+0 8192 0
+D0
+~
+~
+0 0 20700
+D2
+~
+~
+0 0 20705
+S
+#20705
+Nearing the Entrance to Paradise~
+~
+0 8192 0
+D0
+~
+~
+0 0 20704
+D2
+~
+~
+0 0 20706
+S
+#20706
+Before the Gateway to Paradise~
+~
+0 8192 0
+D0
+~
+~
+0 0 20705
+S
+#20707
+The Astral Plain~
+~
+0 8192 0
+D1
+~
+~
+0 0 20708
+D3
+~
+~
+0 0 20700
+S
+#20708
+The Astral Plain~
+~
+0 8192 0
+D1
+~
+~
+0 0 20709
+D3
+~
+~
+0 0 20707
+S
+#20709
+The Astral Plain~
+~
+0 8192 0
+D3
+~
+~
+0 0 20708
+S
+#20710
+The Astral Plain~
+~
+0 8192 0
+D1
+~
+~
+0 0 20700
+D3
+~
+~
+0 0 20711
+S
+#20711
+The Astral Plain~
+~
+0 8192 0
+D1
+~
+~
+0 0 20710
+D3
+~
+~
+0 0 20712
+S
+#20712
+The Astral Plain~
+~
+0 8192 0
+D1
+~
+~
+0 0 20711
+S
+#20713
+River of the Devils~
+Walking along the bank of the river it becomes clear that something is
+not right.  The trembling of the surface becomes more and more frequent the
+further down the bank you travel, and the water begins to turn even darker. 
+~
+0 0 0
+D1
+~
+~
+0 0 20714
+D3
+~
+~
+0 0 20610
+S
+#20714
+River of the Devils~
+Here the water seems to boil, giving off steam earlier thought to be
+mist.  The smell here is overwhelming, an acrid scent that makes your eyes
+water.  
+~
+0 0 0
+D1
+~
+~
+0 0 20715
+D3
+~
+~
+0 0 20713
+S
+#20715
+River of the Devils~
+Here the river abruptly ends; No drop-off, it just seems to hit an
+invisible wall and stop.  Even stranger, the river opens up into a hole
+leading into darkness, where no water enters.  
+~
+0 0 0
+D3
+~
+~
+0 0 20714
+D5
+~
+~
+0 0 20629
+S
+#20716
+River of the Devils~
+Walking along the bank of the river it becomes clear that something is
+not right.  The trembling of the surface becomes more and more frequent the
+further down the bank you travel, and the water begins to turn even darker. 
+~
+0 0 0
+D1
+~
+~
+0 0 20610
+D3
+~
+~
+0 0 20717
+S
+#20717
+River of the Devils~
+Here the water seems to boil, giving off steam earlier thought to be
+mist.  The smell here is overwhelming, an acrid scent that makes your eyes
+water.  
+~
+0 0 0
+D1
+~
+~
+0 0 20716
+D3
+~
+~
+0 0 20718
+S
+#20718
+River of the Devils~
+Here the river abruptly ends; No drop-off, it just seems to hit an
+invisible wall and stop.  Even stranger, the river opens up into a hole
+leading into darkness, where no water enters.  
+~
+0 0 0
+D1
+~
+~
+0 0 20717
+D5
+~
+~
+0 0 20625
+S
+#20719
+Within the Vortex~
+The fear leaves you, consumed now by an unfamiliar feeling.  The vortex
+shifts, no longer threatening, but almost welcoming.  Images of destruction,
+wars, murders, anarchy, images unfamiliar to you become the vortex.  Your
+pain is no longer as troublesome; now, it is almost desired.  You can feel
+the depths of your soul and mind changing, drastically, as the vortex
+becomes you.  
+~
+0 0 0
+D4
+~
+~
+0 0 20606
+D5
+~
+~
+0 0 20720
+S
+#20720
+Within the Vortex~
+You are now something different, something more, as you spiral down.  You
+control the vortex, you have become the vortex.  Where it leads is now up to
+you.  Your name no longer exists; your body is now but a tool to carry out
+your desires; your mind, consumed by insanity.  The vortex ends, as you are
+now complete.  
+~
+0 0 0
+D4
+~
+~
+0 0 20719
+D5
+~
+~
+0 0 20721
+S
+#20721
+Realization~
+As the realization closes in, you feel at ease with your new form.  You
+now stand in a round, neon room with five shimmering portals.  The colors of
+the waves reflect the same colors you encountered in the vortex.  Sorrow,
+anger, deception, destruction, and insanity.  There is no other way out than
+through one of the portals.  
+~
+0 0 0
+D4
+~
+~
+0 0 20720
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 20601 1 20628 1 100 Load the infidel
+M 0 24444 1 20700 1 100 Load the Ghost of Dante
+O 0 20601 0 20721 0 100 A `&sh`7i`&mm`7e`&r`7i`&ng `$b`4l`$u`4e `7and `8black`7 portal loaded to Realization
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

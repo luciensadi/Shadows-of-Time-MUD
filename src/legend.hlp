@@ -1,0 +1,179 @@
+#HELPS
+
+-1 PLAYERSTORES STORES PLAYERRUNESTORES~
+Ownership       Store Type         Location`7
+==========================================`7
+[WHITECLOAK]    Guild              Azgar
+[RED HAND]      Guild              Shayla
+Graendal        Personal           Black Sister
+[TINKER]        Guild              Kinswoman, 4w1n
+[WOLFBROTHER]   Guild              Errand
+~
+-1 MELFINA~
+Be silly.
+~
+-1 RIANNA~
+There is no help for Rianna!
+~
+-1 ASMODEUS THOM~
+Asmodeus is one bad ass motherfucker and I love him like no other.  
+Thom is a bigger bad ass motherfucker and I love him more than Asmo.
+~
+-1 JASIN VOOSHKA~
+Vooshka's Mom has seen Jasin's Wang, and liked it too.
+Jasin wants to see Vooshka's Wang, but is too afraid.
+~
+77 ASMOIDEAS~
+These are basically just some ideas of mine for the mud and more specifically ideas for
+different individuals to do.  I'll start with assignments.
+   
+Asmodeus:
+1) Finish Horseback riding
+2) Go back and improve on build, disguise for bombs and a bunch of other stuff I haven't
+   totally finished.
+3) Work on builder tools.
+   
+Diem:
+1) Work on council get that going and working.
+2) Really lay out what we want in mobs and areas, i.e. stats for mobs at each level
+   differentiate between levelling mobs and equip mobs.  Give these to asmo and let
+   him make defaults in olc.
+3) Define all the rules for the mud, like war, pkilling, rkilling, just everything,  
+   write these out and pass to Deviant to get put in a helpfile.  Too many rules are
+   recently made up on a spot and in a note.
+4) Maybe work on a story for the mud, like a general mud story or theme line.
+5) This can be shared by others, but come up with new indepth creative rp quests that
+   can be done in the future.  Make a web page accessible to imms with these quest
+   ideas so if they want to run a quest they can do that.  We need to get away from 
+   cheesy hack N slash 30 minute quests.
+
+Cammaedros:
+1) Continue to check out classes and balance, mebbe make a bunch of standard chars like
+   Berelain used to let people tournament with them and see if some always turn up on
+   top and why.
+2) Work on archers and mob killing.  The blind is a somewhat bad fix, because it really
+   affects everyone so they spend an hour blinding a big bad mob, flee for a sec, then
+   he's healed.  This may not be possible, but dunno only make them cure blind when they
+   are in the rage from getting hit by an arrow.
+3) Work on messaging in codes, maybe some more WoT things or something just spice up the
+   spells.  Perhaps come up with something other than the latin in the say_spell  
+
+Thom:
+1) Continue the good work with keeping the builders on track.  We're doing better in this
+   now than we ever have.
+2) Work with Diem on setting base stats for builders to emphasize this, I think we're
+   expecting the builders to do the mobs exactly how we want them, but expecting them
+   to get that without us telling them what we want.  This is not their fault, it is
+   ours.
+3) Maybe hire some more builders if there seems to be some more talent out there.  The more
+   builders the more areas so long as they are productive.
+4) Make a plan for keeping track of builder progress.  I know we've been doing this with
+   notes recently for a few people, but I think we should do this with all builders.
+
+Deviant:
+1) You're doing a great job with helpfiles, just keep doing that it's what we need.
+   
+Lynn:
+1) Work with Diem on council find good people to help you with it.
+2) Come up with ideas on improving newbie relations.
+
+Other builders:
+1) Build build build build build
+   
+Basically I think we've done about all we need to with code except for cleanup and   
+balancing.  What we really need to focus is on the other infrastructure of the mud  
+the coders need to focus on making it easier for the builders.  The Admin Diem needs
+to focus on policy so there's no confusion about what's going on and the builders
+need to pump out high quality areas.  That's what I'd like to do.
+~
+   
+75 DEVIDEAS~
+`2(`@GENERAL`2)`7
+`!* `&prize`7: questmaster list should have all eq updated, and everything be contained
+within Prize Coupons (everything part of the QM area and 24401 vnums)
+`!* `&enchants`7: needs to be able to redeem 5 instead of the 3 set now.
+`!* `&anti-gangbang`7: made so that the number of players that can fight be limited to
+2 people with 0-1 exit rooms, then number of exits + 1 for more exits. You can limit this
+to only affecting rooms with "indoors" flag. Since outside roads would be much bigger. Or,
+you could make a new REDIT flag that would be affected by this.
+`!* `&powers`7: Be made that so each number of the average of the spell above or below 10
+should do 5-10% damage less or more. Also, it should increase effectiness against saves
+by around the same. Maybe by reducing the opposing players saves by -5 to -10 for each
+number above or below 10 for that specific spell.
+`!* `&classes`7: change Mage to Channeler, and Cleric to Healer. I know AoL uses it, but
+Mage/Cleric is so not WoTish.
+`!* `&melee hitting armor`7: When hit by a weapon it should damage the armor as well. Also
+give the opportunity to absorb some of the damage. As a result, the 20% damage reducer for
+melee should be removed. With the average absorbation for armor to be the 20%.
+`!* `&repair/fix`7: Repair shops need to be put in that fixes it randomly from 75-100% of
+condition. Tinkers fixes should fix it to 150% so it breaks less.
+`!* `&logs in area directory`7: Would be nice to have any area file error logs piped also
+into the area directory into a file. That way any modifications that cause crashes can be
+quickly fixed if no IMP is around.
+`!* `&qm tells`7: After each of the values generated it should redo `2green`7 color. Some
+of the mobs/areas change color and it looks tacky
+`!* `&healing hp`7: HPs healing needs to be a % of hps, like it is with mana. 5500 hps
+healing only 200 hps a tick is a little excessive.
+   
+`2(`@TOURNAMENT`2)`7
+`!* `&tourament topten`7: shows a list of top ten players and their stats
+`1* `&bonus practices`7: chance for extra pracs when you die or are killed with
+the exception of helpless ranks
+`!* `&ticks to quit`7: How about a 10 tick timer or something where they can't quit tourney
+after starting. So people don't join just for the restore.
+
+`2(`@GUILD`2)`7
+`!* `&roster enemy name`7: adds an enemy to list of guild killable targets w/o rp
+(rp reason has already been established). You can remove their names by typign it in again
+like a toggle, or they automatically drop off after 1 week. "roster enemy" by itself
+shows a list of all enemies
+`!* `&roster log`7: usable by GL shows all real pks/deaths/leaveguilds/guildings/deletes
+/enemy list additions and subtractions. this helps keep track of what's going on the guild
+and prevents peoples from removing guild enemies for their "friend" without gl knowing
+`!* `&still`7: should be made similar to restrain in that you can only use it once every
+so many ticks, and you can't reuse it on the same opponent more than once in a given time
+`!* `&dream`7: shouldn't be able to dream OUT of nodream rooms.
+`!* `&warcry`7: Costs 50 mana even when you fail. When you fail it should only cost 25.
+`!* `&gnote`7: Guildmaster notes don't function. Please fix it so GLs get notes when player
+kills and gets killed.
+
+`2(`@SKILLS/SPELLS`2)`7
+`!* `&protection good/evil`7: ability to cast these over each other to switch protection
+`!* `&bomb malfunction`7: give it a large chance to fail based on int/wis, 25% at lowest
+and 75% at highest. this applies only to non-illuminators without knowledge of bombs
+`!* `&backstab/strike/assassinate`7: needs to miss less when at 100% (it's barely usable).
+`!* `&scrolls`7: limit it's usage like potions/pills, or make it illegal/impossible to put
+heal spells on them. Also there needs to be a wait_state like potions on scrolls.
+`!* `&blackjack`7: made to be level based as well as saves based. 55s should not be able to
+easily land it on a 77.
+`!* `&disarm`7: made so that mobs can't disarm players SO easily
+`!* `&iron grip`7: possibly part of above, but make it so it reduces the chance more for
+being disarmed. It is important not to make them undisarmable becasue disarm would become
+absolutely useless.
+`!* `&acid breath`7: should not permanently damage your ac on items.
+`!* `&portal/nexus`7: reduce portal lag to 1 round and nexus to 2 rounds
+`!* `&trip`7: shouldn't be blockable by air barrier, or air barrier should have a chance to
+be dispelled whenever it blocks something, or it should only lag lag attacks by 1 round instead
+of 2 when air barrier blocks it.
+`!* `&bandage`7: As you get below 25% hps lag should increaes on movement slightly. You can
+stem this lag by bandaging yourself. Since you move slower from bloodloss. It's also an option
+to make them bleed like before, but just less severely. Or both!
+`!* `&saves while asleep`7: Shouldn't be eliminated. Saves should be halved while
+asleep, which is more than reasonable.
+
+`2(`@LEGEND ABILITIES`2)`7
+
+`2(`@NEW BOOKS`2)`7
+`!* `&Book of Replenish:`7 resets timer on spell, so if sanc is at 2 ticks, it would bring it
+back up to max, like 15
+`!* `&Book of Mana Pool`7: Castable on items, to give a one-time usage of mana that can
+be used even in nomagic areas
+`!* `&Book of Warning`7: Tells player when someone logs on that's on roster enemy list
+`!* `&Book of Tactics`7: legend only that shows a mobs vuln/imm/res
+`!* `&Book of Accuracy`7: Archer only book that allows them to land arrows
+on mobs easier. Immunity to arrows is entirely possible now.
+~
+ 
+-1 $~
+ 
+#$

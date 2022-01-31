@@ -1,0 +1,1531 @@
+#AREADATA
+Name Seanchan Guild Area~
+Builders None~
+VNUMs 14001 14050
+Credits `4[`2GUILD `4]`7 Saradin   Seanchan Safe~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#14001
+damane~
+a damane is here healing the wounded~
+A damane is here, healing the wounded.
+~
+A damane, led by a sul'dam is here healing seanchan warriors that have
+been wounded in battle 
+~
+unique~
+0 0
+A 336 1024 0 0 -1  1000 0
+40 0 1000d1+0 0d0+0 4d8+13 none
+-22 -22 -22 -22
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#14002
+suldam seanchan sul'dam~
+a sul'dam and damane pair~
+A sul'dam is here holding the leash on a damane that heals the forces of the Hailene.
+~
+A beautiful `$damane`7 is here healing seanchan warriors.  She
+is dressed in an extravagant silk robe.
+ 
+~
+unique~
+0 0
+ABJKQab 0 0 0 0 -1  1000 0
+100 10000 2499d1+1 1000d1000+1000 0d0+0 none
+-40 -40 -40 -40
+AFHIK ABLMQ ABIMQRX 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#14003
+DeathWatch Guard Commander~
+`7DeathWatch Guard Commander~
+A Deathwatch Guard Commander flashes a quick smile at you.
+~
+A `$DeathWatch Guard Commander`7 is here before you.  He is completely
+armored in dark green and red armor.  His thick musculars and 
+long curved sword look like an overwhelming duo.
+ 
+~
+seanchan~
+0 0
+ABFTUZ 16652 2114 0 0 -1  0 0
+100 200 12d12+10000 0d0+0 9d12+200 none
+-90 -90 -90 -30
+EFHIJKNO AB CGHIKLNQ 0
+stand stand male  3400
+AHMV ABCDEFGHIJK medium unknown
+#14004
+Seeker~
+The Seeker~
+The Seeker glares at you, watching your every move.
+~
+The Seeker, one of the blood, stands erect and at attention.  He carries
+a great deal of authority and promptly asks you if you've sworn the Oaths.  
+~
+seanchan~
+0 0
+ABTe 16640 2128 0 0 -1  0 0
+200 270 30000d1+50 0d0+0 10d1+260 blood
+-100 -100 -100 -100
+CDFHIKNO AB CEHIK 0
+stand stand male  2250
+AHMV ABCDEFGHIJK medium unknown
+#14005
+sojhin so'jhin~
+So'jhin~
+So'jhin to the Empire stands here.
+~
+A woman of great stature sits here.  Her delicate looks send awes within
+anyone who glances at her.  She beholds a great power and is revered by the
+entire Seanchan Empire.  
+~
+seanchan~
+0 0
+ABGJKRZ 336 80 0 0 -1  0 0
+350 450 12d12+20000 6d6+500 450d1+150 slap
+-100 -100 -100 -100
+ADFHJKN ABHJQ EIK LN
+stand stand female 4500
+AHMV ABCDEFGHIJK small unknown
+M GRALL 14002 100~
+#14006
+DeathWatch Guard~
+`7A DeathWatch Guard~
+A Deathwatch Guard is here playing with his spear.
+~
+A large man stands before bearing a black insectoid-shaped helm.  He
+wears a breastplate containing dark green and red markings, signifying his
+rank within the Seanchan.  By his side is a long, black tassled spear.  He
+is one of the few Deathwatch Guards.  He is a loyal, personal bodyguard of
+the Empress and will protect her at any cost if matters as such that would
+endanger her would ensue.  
+~
+unique~
+0 0
+ABT 16640 2 0 0 -1  -1000 0
+100 100 10000d1+2000 0d0+0 10d1+90 none
+-10 -10 -10 -10
+CDFHJKN ABL EH 0
+stand stand male  1750
+AHMV ABCDEFGHIJK medium unknown
+#14007
+Fist of Heaven~
+`7A Fists of Heaven ~
+A Fists of Heaven stands here, seemingly dazed.
+~
+Before you is one of the `$Fists of Heaven`7.  They are the light infantry of
+the Ever Victorious Army.  They wear `8black `7 helms and `8black breast-
+plates. 
+~
+unique~
+0 0
+AGT 16384 2112 0 0 -1  0 0
+40 55 12d12+1200 0d0+0 6d10+10 none
+-11 -11 -11 -11
+DFKPQRU AB CHIK E
+stand stand male  1200
+AHMV ABCDEFGHIJK medium unknown
+#14008
+Raken Rider~
+`7A Raken Rider~
+A Raken Rider is here, resting against the wall.
+~
+A small lean figure stands before you.  He wears the lightest of armor.
+He is one of the `$Seanchan `7 Raken Riders.  They are used as 
+spys and transports.  His job is to guide the large raken to its
+destination.
+~
+unique~
+0 0
+ABT 0 0 0 0 -1  0 0
+35 40 12d12+800 0d0+0 6d10+35 none
+-8 -8 -8 -8
+CDFHK AB C 0
+stand stand male  600
+AHMV ABCDEFGHIJK small unknown
+#14009
+Damane~
+A Damane~
+A Damane stands here, disheveled in obvious pain and terror.
+~
+~
+seanchan~
+0 0
+ABGZe 0 0 0 0 -1  0 0
+1000 400 1d1+5000 0d0+0 0d0+0 slap
+0 0 0 0
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK large unknown
+M ACT 14010 bows before you.~
+#14010
+Damane~
+A Damane~
+A Damane stands here, disheveled in obvious pain and terror.
+~
+~
+seanchan~
+0 0
+ABGZe 0 0 0 0 -1  0 0
+1 240 1d1+5000 0d0+0 0d0+0 slap
+0 0 0 0
+HR ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK large unknown
+#14011
+whatever leash suldam~
+der'Sul'dam~
+A woman holding a silver leash stands here, watching your every move.
+~
+~
+seanchan~
+0 0
+ABGJKZbe 80 0 0 0 -1  0 0
+78 0 1d1+1 0d0+0 0d0+0 slap
+0 0 0 0
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 14012 bows deeply.~
+M GREET 14011 100~
+#14012
+damane~
+A damane~
+A sul'dam is here, holding a leash tightly as a damane heals at her command.
+~
+A beautiful `$damane`7 is here healing seanchan warriors.  She
+is dressed in an extravagant silk robe.
+ 
+~
+unique~
+0 0
+ABJKQab 256 0 0 0 -1  1000 0
+100 10000 1d1+999 1000d1000+1000 0d0+0 slap
+-40 -40 -40 -40
+AFHIK ABLMQ ABIMQRX 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#14013
+torm~
+a torm~
+Thrashing wildly in the corner is one of the Seanchans tame beasts, the Torm.
+~
+The Torm is considered the most intelligent of the Seanchan "exotics." 
+Resembling a cross between a horse-sized cat and a lizard, the torm make a
+fierce looking enemy.  They have bronze scales with siz clawed feet that can
+grip the stones wherever they are.  They also have three eyes.  Torm are
+carnivores but will subsist on plants for as mush as three to four days if
+they must.  If deprived of meat for longer periods than that, the torm
+becomes increasingly instintive and hard to control.  
+~
+seanchan~
+0 0
+AD 0 0 0 0 -1  0 0
+80 50 12d12+4500 0d0+0 12d12+60 scratch
+-20 -20 -15 -15
+0 A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#14014
+Corlm~
+a corlm~
+The Corlm, one of the rare Seanchan beasts is here training for battle.
+~
+To many, the Corlm appears to be a flightless bird, that just happens to
+stand at eight feet.  It possess a long neck and sort of double crest on its
+head, however unlike birds it is covered with fur not feathers.  This fur,
+usually in colors such as gray, black, and brown extends down the tail to
+where it flattens out for stability.  The Corlm average around three hundred
+points at maturity and are equipped with four-toed small-clawed hing feet
+and tiny forearms.  The beak is large, and oblong when compared to the head.
+It has two eyes like normal beasts.  It is also a carnivore.  Perhaps the
+best instinctive tracker there is, it can sprint very fast for short
+distances.  
+~
+seanchan~
+0 0
+AD 0 0 0 0 -1  0 0
+60 30 12d12+2500 0d0+0 12d12+30 bite
+-7 -7 -7 -7
+0 A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#14015
+grolm~
+a grolm~
+Looking awkward in appearance, a Grolm is pacing around the place.
+~
+Weighing in at three hundred to five hundred pounds, grolm are the size
+of large bears.  They have a unique grayish green colorization and skin
+texture of a reptile.  Like the torm they have three eyes, but the eyes are
+small and fierce, lined with hard ridges used for ripping flesh.  Grolm are
+not the most graceful of creatures, they often look off balance as they
+waddle along.  They also have a keen sense of smell and good vision as well
+as extremely territorial.  Because of these characteristics they make
+excellent guard animals.  They rapidly learn friend vs foe and are able to
+detect fear and nervousness.  Gorlm are used in battle, but just in light
+armored opponents and are very hard to kill, but the Seanchan perserve them
+more because of their lack of offspring survival.  
+~
+seanchan~
+0 0
+AD 0 0 0 0 -1  0 0
+75 45 12d12+4000 0d0+0 12d12+70 scratch
+-17 -17 -17 -17
+0 A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#14016
+deathwatch guard commander~
+a Deathwatch Guard Commander~
+A Deathwatch Guard Commander is standing here, protecting the Court of the Nine Moons.
+~
+~
+seanchan~
+0 0
+ABGZe 336 64 128 0 -1  0 0
+175 500 30000d1+5000 0d0+0 2d350+0 blood
+-120 -120 -120 -120
+CFHK ABQb ABC 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 14016 100~
+#14017
+fist heaven commander~
+A Fist of Heaven Commander~
+A Fist of Heaven Commander is here, glancing side to side to find anything awkward.
+~
+~
+seanchan~
+0 0
+ABGTZe 49488 64 128 0 -1  0 0
+200 400 40000d1+4000 0d0+0 10d1+360 blood
+-119 -119 -119 -119
+CDEFHK ABb CDb 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#14045
+deatchwatch commander~
+Deathwatch Commander~
+A Deathwatch Commander stands here guarding the empress and her empire.
+~
+~
+seanchan~
+0 0
+AGTZ 49488 1088 129 0 -1  0 0
+200 200 17000d1+0 1000d1+1000 3d100+100 blood
+-130 -130 -130 -140
+FHK ABJb C a
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#14001
+black-insectoid helm~
+a Black-Insectoid Helm~
+A `8b`&l`8a`&c`8k-`&i`8n`&s`8e`&c`8t`&o`8i`&d `7helm is lying here on the ground.~
+unknown~
+armor AB AE
+0
+ABF ABF ABF ABF 0
+110 20 0 P
+A
+13 80
+A
+18 6
+A
+19 6
+ T 0 none~
+#14002
+golden armor~
+`3G`&o`3l`&d`3e`&n `3P`&l`3at`&e of `8Armor`7~
+A glistening plate of mail lies here.~
+unknown~
+armor ABFG AD
+0
+ACE ACE ACE ACE 0
+40 40 0 P
+A
+13 44
+A
+19 4
+A
+18 4
+ T 0 none~
+#14003
+DeathWatch Plates~
+`7Arm Plates of the DeathWatch Guard~
+A pair of arm plates lies here on the floor~
+unknown~
+armor B AI
+0
+ABCD ABCD ABCD ABCD 0
+89 350 0 P
+A
+14 2
+A
+12 10
+A
+13 40
+A
+20 -3
+ T 0 none~
+#14004
+white marble fountain~
+a `&white`7 marble fountain~
+A `&white`7 marble fountain sprays red liquid into the air.~
+marble~
+fountain 0 0
+0
+-1 -1 'blood' 0 0
+78 0 0 P
+ T 0 none~
+#14005
+crystal throne~
+`7The `^C`6r`&y`7s`&t`6a`^l `&Throne`7~
+`7The `^C`6r`&y`7s`&t`6a`^l `&Throne`7 sits on the back wall, gleaming brightly.~
+unknown~
+furniture 0 0
+0
+A FHJKPQ EHK 0 0
+78 0 0 P
+ T 0 none~
+#14006
+heartstone key~
+a heartstone key~
+A large key made of a shiny, brown stone lays here dully.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+1 10 100 P
+ T 0 none~
+#14007
+blue speckled ter'angreal~
+a blue speckled ter'angreal~
+A blue ter'angreal shimmers with a mirrored surface, reflecting your image.~
+unknown~
+window 0 0
+0
+ADEFHIJL 0 0 0 0
+0 0 0 P
+ T 0 none~
+#14008
+breastplate dark green blood red~
+`7A Breastplate Laquered in Dark Green and Blood Red~
+An oddly, colored breastplate has been left here.~
+unknown~
+armor A AD
+DH
+ABF ABF ABF ABF 0
+110 20 1000 P
+A
+20 -8
+A
+18 8
+A
+19 8
+A
+13 20
+ T 0 none~
+#14009
+sword ever victorious army~
+`7Sword of the Ever Victorious Army`7~
+A small sword with a silver hilt lies on the floor.~
+unknown~
+weapon A AN
+0
+sword 40 1 slash 0
+61 450 1300 P
+A
+13 10
+A
+18 3
+A
+19 7
+ T 0 none~
+#14010
+curved blade seanchan~
+a Curved Blade of the Seanchan~
+A curved sword lays here.~
+unknown~
+weapon 0 AN
+0
+sword 75 1 slice CH
+110 50 1000 P
+A
+17 -15
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 6
+ T 0 none~
+#14011
+black shield~
+`7A Shield Laquered in Black~
+A dark colored shield is here.~
+unknown~
+armor A AJ
+DH
+ABF ABF ABF ABF 0
+110 50 1000 P
+A
+20 -8
+A
+13 50
+A
+19 5
+A
+18 5
+ T 0 none~
+#14012
+ring nobility~
+`7A Ring of Nobility~
+A strange ring is here.~
+unknown~
+armor AB AB
+DH
+ABF ABF ABF ABF 0
+110 10 1000 P
+A
+20 -8
+A
+19 8
+A
+18 8
+A
+13 20
+ T 0 none~
+#14013
+wrist scales black~
+`7Wrist Scales Laquered in Black~
+Some weird scales are left here.~
+unknown~
+armor 0 AM
+DH
+ABF ABF ABF ABF 0
+110 30 1000 P
+A
+20 -6
+A
+13 60
+A
+19 5
+A
+18 5
+ T 0 none~
+#14014
+raken girth rider~
+`7Girth of a Raken Rider~
+A riding girth lies over in the corner~
+leather~
+armor 0 AL
+0
+BD BD BD BD 0
+61 450 450 P
+A
+13 35
+A
+12 10
+ T 0 none~
+#14015
+insectoid helm black~
+`7An Insectoid Helm Laquered in Black~
+A weird helm with "feelers" on it has been left here.~
+unknown~
+armor A AE
+DH
+ABF ABF ABF ABF 0
+110 20 1000 P
+A
+13 40
+A
+18 8
+A
+19 8
+A
+20 -4
+ T 0 none~
+#14016
+insignia empress~
+`7Insignia of the Empress~
+An odd piece of equipment is here.~
+unknown~
+armor B AC
+DH
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+13 10
+A
+20 -8
+A
+19 9
+A
+18 9
+ T 0 none~
+#14021
+seekers ring~
+`7Seeker of the Empire's Ring~
+A small blue ring is on the floor~
+unknown~
+armor A AB
+0
+CD CD CD CD 0
+89 50 1000 P
+A
+12 21
+A
+13 50
+ T 0 none~
+#14029
+plate empress~
+`7Plate of the Empress~
+A breastplate lies in the corner covered with dust~
+steel~
+armor A AD
+0
+BCDE BCDE BCDE BCDE 0
+16 450 740 P
+A
+13 15
+ T 0 none~
+#14045
+slighty rusty key~
+a slightly rusty key~
+A slightly rusty key lies here in the dirt.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+1 100 0 P
+ T 0 none~
+#14050
+couch~
+`*A comfortable couch.~
+A comfortable couch is here.~
+unknown~
+furniture 0 0
+0
+BD FINPQRS EHK CFG CFG
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#14001
+Road to the Seanchan Fortress~
+Ahead in the distance looms a huge fortress. By the architecture and size
+it can only be seanchan. Could it be where the Empress herself resides? 
+~
+0 1 2
+D0
+~
+~
+0 0 14002
+S
+#14002
+Gate of the Fortress~
+A large gate that will be lowered upon acceptance as seanchan leads into
+the Fortress. 
+~
+0 1 1
+D0
+~
+~
+0 0 14003
+D2
+~
+~
+0 0 14001
+S
+#14003
+Inside the Fortress on the Main Hall~
+The Main Hall of the Fortress is absolutely huge! A grand fortress it
+seems. The walls are large and grey as would be expected. Seanchan werent
+known for there artistic side. They are fierce warriors rarely matched in
+battle 
+~
+0 0 0
+D0
+~
+~
+0 0 14004
+D1
+~
+~
+0 0 14005
+D2
+~
+~
+0 0 14002
+D3
+~
+~
+0 0 14010
+D4
+~
+~
+0 0 14015
+S
+#14004
+The Healing Room~
+Inside a musty dim-lit room, several female figures bustle over beds of
+injured or sick people.  The smell in here is nausiating and sickening. 
+Moans, groans, and other sounds that go with sickness can be heard from all
+over the room.  The women tending to the wounded wear a silver a'dam around
+their neck identifying them as Seanchan damane.  Their masters, the sul'dam
+can not be far away.  
+~
+0 1024 0
+D2
+~
+~
+0 0 14003
+M 150 H 150
+S
+#14005
+The Main Hall~
+A gleaming white hall about five feet wide continues to the west. The
+stones are polished so much that you can almost see your own reflection off
+them. 
+~
+0 8 0
+D1
+The hall continues to the east 
+~
+~
+0 0 14006
+D3
+The spiral staircase and entrance are to the west. 
+~
+~
+0 0 14003
+S
+#14006
+The south-east corner of the Fortress~
+The Main Hall branches off into the Fists of Heaven hall.  The Fists of
+Heaven hall is much large then the mainhall.  Many troops walk up and down
+this hall everyday on there way to and from the Fortress.  
+~
+0 8 0
+D0
+~
+~
+0 0 14007
+D3
+~
+~
+0 0 14005
+S
+#14007
+The Fists of Heaven Hallway~
+In honor of the Ever Victorious Army, the Empress has named this the
+Fists of Heaven Hall. Pictures of elite members hang on the wall while a few
+black slots are still open encouraging recruits to aim high. 
+~
+0 8 0
+D0
+The hall continues north 
+~
+~
+0 0 14008
+D2
+The hall continues south 
+~
+~
+0 0 14006
+S
+#14008
+The North-East corner of the Fortress~
+The FoH Ha abrupty come to an endexcept The white was curve in
+encosing the hal.  For a small door on the left.  It leads to the Fists of
+Heaven sleeping room.  It is rumored that almost 00 men can sleep in there.
+~
+0 8 0
+D2
+~
+~
+0 0 14007
+D3
+~
+~
+0 0 14009
+S
+#14009
+Fists of Heaven quarters~
+A long row of bunk-beds completely lines both walls of the long room.
+Probably enough beds to support around 200 men. In other words, its a very
+large room. It is the Fists of Heavens room, the light infantry of the Ever
+Victorious Army. 
+
+~
+0 8 0
+D1
+~
+~
+0 0 14008
+S
+#14010
+The Main Hall~
+A gleaming white hall about five feet wide continues to the west. The
+stones are polished so much that you can almost see your own reflection off
+them. 
+~
+0 8 0
+D1
+~
+~
+0 0 14003
+D3
+~
+~
+0 0 14011
+S
+#14011
+The western corner of the Fortress~
+The gleaming white hall meets and branches into another hall. 
+~
+0 9 0
+D0
+~
+~
+0 0 14012
+D1
+~
+~
+0 0 14010
+S
+#14012
+A long, dark wide hall.~
+The hall is dimly lit, not even enough for anyone except someone
+extremely used to the night to make anything out. It is a hall suitable for
+the elite raken rider scouting crew and transports of the Ever Victorious
+Army. 
+~
+0 9 0
+D0
+The Hall continues north 
+~
+~
+0 0 14013
+D2
+The hall continues south 
+~
+~
+0 0 14011
+S
+#14013
+The northern end of the Rider Hall~
+Here a giant circle has been constructed. A door is to the east, while
+straight up the pitch black night can be seen. This is an escape for the
+raken rider. As soon as ordered to leave, they just summon the raken and are
+on there way. 
+~
+0 9 0
+D1
+Barracks are to the east 
+~
+~
+0 0 14014
+D2
+~
+~
+0 0 14012
+D4
+Spire leads up 
+~
+~
+0 0 14033
+S
+#14014
+Raken Riders Room~
+Here is were the daring men and women who have masted the art of riding
+the raken or to'raken spend their evenings and nights.  Their quarters look
+to be fairly comfortable with several stable beds lining each side.  A solid
+black door is the only exit from the dark moon-lit room.  
+~
+0 9 0
+D3
+The spire entrance is to the left. 
+~
+~
+0 0 14013
+S
+#14015
+The top of a grand spiral staircase~
+At the top of a grand staircase there are three paths to chose from. The
+one to the west smells, different, while the one to the north is dark and
+gloomy. The hall towards the east is well lit and looks like above average
+soldiers hallway. 
+~
+0 8 0
+D0
+~
+~
+0 0 14028
+D1
+A hallway is to the east 
+~
+~
+0 0 14016
+D3
+A musty corridor is to the west 
+~
+~
+0 0 14022
+D5
+~
+~
+0 0 14003
+S
+#14016
+A  dark hall branches off to the north ~
+The stairwell has led to a dark and gloomy hall. Its walls are a deep
+grey and the floor is the same. The simplicity of the hall is astonishing. 
+~
+0 9 0
+D0
+~
+~
+0 0 14018
+D1
+A bed chamber is to the left 
+~
+~
+0 0 14017
+D2
+~
+~
+0 0 14020
+D3
+~
+~
+0 0 14015
+S
+#14017
+DWG Barracks~
+This is the DeathWatch Guard bed chamber. Unlike the Fists of Heaven, the
+DWG have planty of space. Only five beds are in the room. Along the walls,
+dark green and red armor and black tassled weapons are found. These are the
+elite of the elite soldiers. They guard the Empress with their heart and
+soul. If she dies, they die. They will protect her at all costs! 
+~
+0 9 0
+D3
+The hall is to the west 
+~
+~
+0 0 14016
+S
+#14018
+Northern end of the hall~
+The Hall comes to an end and a door is to the east. 
+ 
+ 
+~
+0 9 0
+D1
+~
+~
+0 0 14019
+D2
+~
+~
+0 0 14016
+S
+#14019
+DWG Barracks~
+This is the DeathWatch Guard bed chamber. Unlike the Fists of Heaven, the
+DWG have planty of space. Only five beds are in the room. Along the walls,
+dark green and red armor and black tassled weapons are found. These are the
+elite of the elite soldiers. They guard the Empress with their heart and
+soul. If she dies, they die. They will protect her at all costs! 
+~
+0 9 0
+D3
+The hall is to the west 
+~
+~
+0 0 14018
+S
+#14020
+Secret Passage~
+A secret passage has been found, where does it lead? ? ? ? 
+~
+0 1048584 0
+D0
+~
+~
+0 0 14016
+D5
+~
+~
+0 0 14035
+S
+#14021
+The Seeker's Room~
+Undoubtably the seekers room seeing as that was carved on the wood above
+the door. Carpet lies on the floor and a large soft bed is in the corner. A
+long rack holding many clothes that look very important line one wall while
+pictures of a man with a partially shaved head line the other. 
+~
+0 0 0
+D1
+The Emperess's hall is to the east. 
+~
+~
+0 0 14029
+S
+#14022
+A dark musty corridor~
+The hallway splits into two seperate halls one leading north, the other
+south. Both are dimly lit with a few lanterns on the walls. Odors are about
+the room but are to vaied to make out just one. 
+~
+0 9 0
+D0
+A musty corridor is to the north 
+~
+~
+0 0 14024
+D1
+~
+~
+0 0 14015
+D2
+A musty corridor is to the south 
+~
+~
+0 0 14026
+D3
+~
+~
+0 0 14023
+S
+#14023
+Seanchan armor storage room~
+Piles of leather armor litter the ground, while strange looking helmets
+and armor cover the wall. Dark green and red armor covers one whole wall,
+above on a piece of wood the letters DWG are etched in. Black insectoid
+looking helms cover most of the other walls, along with an asortment of
+shields and other wear. 
+~
+0 9 0
+D1
+A hallway is towards the east 
+~
+~
+0 0 14022
+S
+#14024
+Northern end of a musty corridor~
+Heavy smells of spices, and other goods surround the hall. Small lanterns
+along the wall provide the only light and the air is damp and cold. 
+~
+0 9 0
+D0
+~
+~
+0 0 14027
+D2
+The musty hall contnues south 
+~
+~
+0 0 14022
+D3
+~
+~
+0 0 14025
+S
+#14025
+Seanchan weapon storage room~
+The room is covered in steel and iron seanchan weapons. Long speak and
+black tassled spears line the walls, while maces and small daggers litter
+the corners is large piles. 
+~
+0 9 0
+D1
+A hallway is towards the east 
+~
+~
+0 0 14024
+S
+#14026
+At the end of a musty corridor~
+Varied smells litter the air. None can be made out, due to many different
+smells. The corridor is dimly lit by a single lantern that puts out just
+enought light to see shapes of walls. 
+~
+0 9 0
+D0
+The musty hall continues to the north 
+~
+~
+0 0 14022
+D3
+~
+~
+0 0 14032
+S
+#14027
+Spices storage room~
+Huge barrels cover the floor of the room. Hardly any two labeled the
+same. These must have been captured of lost ships and brought back for the
+joy of the Empress. 
+~
+0 9 0
+D2
+~
+~
+0 0 14024
+S
+#14028
+A narrow corridor~
+A narrow corridor dimly lit by a single torch leads north. 
+~
+0 9 0
+D0
+~
+~
+0 0 14029
+D2
+~
+~
+0 0 14015
+S
+#14029
+A Narrow Corridor~
+The narrow corridor has opened into a splendid hall, elaboratly
+decorated. The pinkish color walls glisten with the light shone on them by
+the lights above. Pictures of women line the walls and a door guarded by two
+dark men is ahead. 
+~
+0 8 0
+D0
+A door is to the north 
+~
+~
+0 0 14030
+D1
+~
+~
+0 0 14031
+D2
+~
+~
+0 0 14028
+D3
+~
+~
+0 0 14021
+S
+#14030
+End of the Corridor~
+The corridor comes to an abrupt stop.  Here stands the Fist of Heaven
+Commander, familiarizing himself with the surroundings so he would be quick
+to take action if anything were to heppen.  
+~
+0 8 0
+D2
+~
+~
+0 0 14029
+S
+#14031
+DWG Commanders Quarters~
+The room is dimly lit with enough light to make out objects shape and
+form. A table with maps is on the left side of the room, while a stand with
+armor on it is on the left. In the back of the room is a bed facing towards
+the door incase of an emergency. 
+~
+0 8 0
+D3
+The emperess's hall is to the west 
+~
+~
+0 0 14029
+S
+#14032
+A storage room for anything and everything~
+Everything possibly imaginable can be founf here. Beds, blankets, chairs,
+frnutitures, even toys litter the floor. Maybe a rare prize is beneath the
+rubble. 
+~
+0 9 0
+D1
+A must hallway is towards the east 
+~
+~
+0 0 14026
+S
+#14033
+Around the middle of the spire~
+A long black tunnel leading straight into the pitch black night for the
+raken riders to recover valuable information to the Ever Victorious Army. 
+~
+0 9 0
+D4
+The spire continures north 
+~
+~
+0 0 14034
+D5
+~
+~
+0 0 14013
+S
+#14034
+The top spire of the fortress~
+The long black tunnel has finally give way to the gleaming night. The
+stars are the guide now. Here the raken finally set free from the fortress
+to undertake their mission. 
+~
+0 9 0
+D5
+~
+~
+0 0 14033
+S
+#14035
+The bottom level of the passage~
+The dark passage has gone downstairs. 
+~
+0 1048589 0
+D2
+~
+~
+0 0 14036
+D4
+The secret passage is up 
+~
+~
+0 0 14020
+S
+#14036
+Along the secret passage~
+The secret passage is almost over. A light has finally become visable
+straight ahead. 
+~
+0 9 0
+D0
+~
+~
+0 0 14035
+D1
+The oulet into the forest 
+~
+~
+0 0 14037
+S
+#14037
+The begining of the forests~
+The secret passage has led to a dark forest. The trees and underbrush
+make for good cover. This must be how the troops get out un-noticed. 
+~
+0 1 3
+D3
+~
+~
+0 0 14036
+S
+#14038
+A Hallway~
+~
+0 134217732 0
+D0
+~
+~
+4 14006 14045
+D2
+~
+~
+0 0 14043
+S
+#14039
+The Central Lobby~
+~
+0 138421248 0
+D0
+~
+~
+0 0 14044
+D1
+~
+~
+0 0 14040
+D2
+~
+~
+0 0 14045
+D3
+~
+~
+0 0 14041
+S
+#14040
+Practice Arena~
+~
+0 138420228 0
+D3
+~
+~
+0 0 14039
+S
+#14041
+Training Room~
+~
+0 138420228 0
+D1
+~
+~
+0 0 14039
+S
+#14042
+Entrance to the Court of the Nine Moons~
+~
+0 138421248 0
+D2
+~
+~
+0 0 14044
+D5
+~
+~
+0 0 14046
+S
+#14043
+Seanchan's Store~
+There is a smell of wealth in the air in this shop. A vast number of items can
+be seen on display. Weapons and armor on stands and hanging from the walls, to
+small items of jewelery and statues that can be seen in cabinets. Numerous items
+of clothing can also be seen, everything is for sale.
+A sign on the wall states - "If we don't have it, we can get it."
+~
+0 1024 0
+D0
+~
+~
+0 0 14038
+S
+#14044
+Near the Court of the Nine Moons~
+~
+0 138420224 0
+D0
+~
+~
+0 0 14042
+D2
+~
+~
+0 0 14039
+S
+#14045
+A Narrow Corridor~
+~
+0 138420224 0
+D0
+~
+~
+0 0 14039
+D2
+~
+~
+4 14006 14038
+S
+#14046
+Foyer of the Court of Nine Moons~
+~
+0 272629760 0
+D0
+~
+~
+0 0 14048
+D1
+~
+~
+0 0 14047
+D2
+~
+~
+0 0 14050
+D3
+~
+~
+0 0 14049
+D4
+~
+~
+0 0 14042
+S
+#14047
+Chamber of Decision and Punishment~
+~
+0 0 0
+D3
+~
+~
+0 0 14046
+S
+#14048
+Court of the Nine Moons~
+~
+0 0 0
+D2
+~
+~
+0 0 14046
+S
+#14049
+Meeting Room~
+~
+0 0 0
+D1
+~
+~
+0 0 14046
+S
+#14050
+Damane Holding Area~
+~
+0 0 0
+D0
+~
+~
+0 0 14046
+S
+#0
+
+
+
+#SPECIALS
+M 14005 spec_questmaster
+M 14016 spec_breath_lightning
+S
+
+
+
+#RESETS
+D 0 14038 0 2
+D 0 14045 2 2
+M 0 14006 30 14003 2 100 Load `7A DeathWatch Guard
+M 0 14002 1 14004 1 100 Load a sul'dam and damane pair
+M 0 14007 10 14009 5 100 Load `7A Fists of Heaven 
+M 0 14007 10 14009 5 100 Load `7A Fists of Heaven 
+M 0 14007 10 14009 5 100 Load `7A Fists of Heaven 
+M 0 14007 10 14009 5 100 Load `7A Fists of Heaven 
+E 0 14009 0 16 0 100 `7sword of the ever victorious army`7 is loaded on the right wrist of `7A Fists of Heaven 
+M 0 14008 30 14014 4 100 Load `7A Raken Rider
+E 0 14014 0 13 0 100 `7girth of a raken rider is loaded around the waist of `7A Raken Rider
+M 0 14008 30 14014 4 100 Load `7A Raken Rider
+M 0 14008 30 14014 4 100 Load `7A Raken Rider
+M 0 14008 30 14014 4 100 Load `7A Raken Rider
+M 0 14006 30 14017 3 100 Load `7A DeathWatch Guard
+M 0 14006 30 14017 3 100 Load `7A DeathWatch Guard
+M 0 14006 30 14017 3 100 Load `7A DeathWatch Guard
+M 0 14006 30 14019 3 100 Load `7A DeathWatch Guard
+M 0 14006 30 14019 3 100 Load `7A DeathWatch Guard
+M 0 14006 30 14019 3 100 Load `7A DeathWatch Guard
+M 0 14004 1 14021 1 100 Load The Seeker
+E 0 14012 0 1 0 100 `7a ring of nobility is loaded on the left finger of The Seeker
+E 0 14013 0 16 0 100 `7wrist scales laquered in black is loaded on the right wrist of The Seeker
+M 0 14006 30 14029 2 100 Load `7A DeathWatch Guard
+E 0 14029 0 5 0 100 `7plate of the empress is loaded on the body of `7A DeathWatch Guard
+M 0 14006 30 14029 2 100 Load `7A DeathWatch Guard
+E 0 14029 0 5 0 100 `7plate of the empress is loaded on the body of `7A DeathWatch Guard
+M 0 14006 30 14030 3 100 Load `7A DeathWatch Guard
+E 0 14016 0 3 0 100 `7insignia of the empress is loaded around the neck (1) of `7A DeathWatch Guard
+M 0 14006 30 14030 3 100 Load `7A DeathWatch Guard
+E 0 14016 0 3 0 100 `7insignia of the empress is loaded around the neck (1) of `7A DeathWatch Guard
+M 0 14017 1 14030 1 100 Load A Fist of Heaven Commander
+E 0 14008 0 5 0 100 `7a breastplate laquered in dark green and blood red is loaded on the body of A Fist of Heaven Commander
+E 0 14011 0 11 0 100 `7a shield laquered in black is loaded as a shield of A Fist of Heaven Commander
+M 0 14045 1 14030 1 100 Load Deathwatch Commander
+E 0 14006 0 19 0 100 A heartstone key is loaded held in the hands of Deathwatch Commander
+M 0 14003 1 14031 1 100 Load `7DeathWatch Guard Commander
+E 0 14003 0 10 0 100 `7arm plates of the deathwatch guard is loaded on the arms of `7DeathWatch Guard Commander
+E 0 14015 0 6 0 100 `7an insectoid helm laquered in black is loaded over the head of `7DeathWatch Guard Commander
+E 0 14010 0 17 0 100 A curved blade of the seanchan is loaded wielded of `7DeathWatch Guard Commander
+M 0 14011 1 14038 1 100 Load der'Sul'dam
+M 0 14012 1 14042 1 100 Load A damane
+O 0 14007 0 14042 0 100 A blue speckled ter'angreal loaded to Entrance to the Court of the Nine Moons
+M 0 14005 1 14042 1 100 Load So'jhin
+O 0 14004 0 14044 0 100 A `&white`7 marble fountain loaded to Near the Court of the Nine Moons
+O 0 14050 0 14046 0 100 `*a comfortable couch. loaded to Foyer of the Court of Nine Moons
+O 0 14005 0 14048 0 100 `7the `^c`6r`&y`7s`&t`6a`^l `&throne`7 loaded to Court of the Nine Moons
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#14002
+if clan $n 'seanchan'
+stand
+bow
+say Greetings, $n.
+end
+else
+emote glances about the room.
+say I am So'jhin to the Empire, what are you doing here?
+endif
+~
+#14010
+if clan $n seanchan
+mob oload 14006
+give key $n
+else
+break
+endif
+~
+#14011
+if sex $n == 2
+say Greetings Ma'am
+else
+say Greetings Sir
+endif
+~
+#14012
+if clan $n 'seanchan'
+tell $n You have permission to enter the Court of Nine Moons.
+mob transfer $n 14045
+else
+tell $n You do not have permission to enter the court.
+break
+endif
+~
+#14016
+if clan $n 'seanchan'
+say Greetings, $n, may the Empress live forever.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

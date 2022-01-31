@@ -1,0 +1,2661 @@
+#AREADATA
+Name The Black Tower~
+Builders None~
+VNUMs 24000 24199
+Credits `4[`2GUILD `4]`7 Saradin   Asha'man Safe~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#24000
+no name~
+The Asha'man Soldier~
+One of the Lord Dragons Soldier's walks past through the hall.
+~
+~
+andor~
+0 0
+ABR 0 64 0 0 -1  0 0
+90 55 12d12+3600 12d12+2000 12d12+75 none
+-25 -25 -25 -25
+C ABHK I 0
+stand stand male  1234
+AHMV ABCDEFGHIJK medium unknown
+#24001
+dedicated~
+`*A Dedicated~
+A Dedicated of the Black Tower briskly strides past you carrying several books.
+~
+~
+andor~
+0 0
+ABR 0 64 0 0 -1  0 0
+120 70 12d12+4800 12d12+4000 12d12+90 none
+-32 -32 -32 -32
+CFH ABHK I 0
+stand stand male  1234
+AHMV ABCDEFGHIJK medium unknown
+#24002
+ashaman~
+`*An Asha'man~
+Cloaked in black, a man stares intently at you, gazing up and down as if evaluating you.
+~
+~
+andor~
+0 0
+AB 0 0 8 0 -1  0 0
+120 90 12d12+4800 12d12+4000 12d12+90 none
+-37 -37 -37 -37
+CF ABHK I 0
+stand stand male  1234
+AHMV ABCDEFGHIJK medium unknown
+#24003
+attack leader~
+`*The Attack Leader~
+Standing in the middle of the room, seemingly waiting on you to speak is the Attack Leader of the Asha'man.
+~
+~
+andor~
+0 0
+AB 0 0 0 0 -1  0 0
+120 140 12d12+16000 12d12+6000 12d12+80 none
+-35 -35 -35 -35
+FH ABHK I 0
+stand stand none 3500
+AHMV ABCDEFGHIJK medium unknown
+#24004
+Storm Leader~
+`*The Storm Leader~
+The Storm Leader of the Asha'man is quietly sitting behind his desk reading through a stack of papers.
+~
+~
+andor~
+0 0
+AB 0 0 0 0 -1  0 0
+180 360 12d12+29750 12d12+7500 12d12+148 none
+-40 -40 -40 -40
+ADFHIK ABHK I 0
+stand stand male  4320
+AHMV ABCDEFGHIJK medium unknown
+#24005
+ashaman dedicated~
+`7A Dedicated `!A`8sha`&'`!m`8an`7~
+A man of the Dedicated stands before you.
+~
+The Asha'man's posture is perfect as can be.  He is very aware of his
+surroundings and peers at your prescence before him.  He wields the One
+Power, but not as much as those ranked above him.  His Silver Sword Pin is a
+sign that presents him as a Dedicated.
+~
+andor~
+0 0
+ABGTZe 80 9280 0 0 -1  0 0
+50 800 1000d2+500 0d0+0 1d1+0 slash
+0 0 0 0
+FHKR ABCD 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#24006
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#24007
+ashaman storm leader~
+a Storm Leader of the Asha'man~
+A Storm Leader of the Black Tower stands here calmly looking side to side.
+~
+He wears the Dragon and Sword Pins with great honor and stares straight
+ahead, acting as if not to be paying attention to anything.  He is more
+aware than most think, and awais his orders from the M'hael himself.  
+~
+andor~
+0 0
+ABRZe 336 64 0 32768 -1  0 0
+500 500 20000d1+0 10000d1+0 10d1+490 magic
+-150 -150 -150 -150
+FK ABb CD 0
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 24001 bows deeply.~
+#24008
+ashaman guard~
+Dragon's Guard~
+A guard for the Dragon Reborn is here.
+~
+~
+unique~
+0 0
+ABRVZe 50432 66 16384 33796 -1  0 0
+200 200 35000d1+15000 30000d1+2000 200d1+200 chop
+0 0 0 0
+0 Cb D 0
+stand stand none 0
+0 0 medium unknown
+M SPEECH 24008 key~
+#24020
+arymilla~
+Maiden in Waiting~
+Here stands the lovly Arymilla waiting to serve Rand al'Thor.
+~
+This lovly young lady seems to have to cares in the world. 
+Happy to serve the Lord Dragon she stands and waits for his
+need or want.
+~
+amadicia~
+0 0
+AB 256 0 0 0 -1  0 0
+35 0 100d2+50 100d2+20 30d2+5 none
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#24100
+flinn~
+Flinn~
+Flinn, the `!A`8sha'`!M`8an`7 healer is here, healing the wounded.
+~
+His high-collared, black coat is accompanied with a Dragon Pin and Sword
+Pin on each side of his collar.  He is very skilled in the arts of healing,
+therefore making him an important addition to the Black Tower.  
+~
+unique~
+0 0
+ABJKab 1360 2112 0 0 -1  1000 0
+100 100 1000d1+0 0d0+0 6d10+100 none
+-10 -10 -10 -10
+0 Z 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 24100 nods at you in agreement.~
+#24101
+oldstyle griffin~
+A griffin~
+A large black winged griffin swoops into an attack.
+~
+Golden maned and black all over.  It's quite a beautiful creature if not
+for the fact it is hungry and is attacking you!
+~
+unique~
+0 0
+AFG 0 0 0 0 -1  300 0
+8 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+EFNU 0 0 0
+stand stand male  25
+AHMV ABCDEFGHIJK medium unknown
+#24138
+no name~
+(no short description)~
+?
+~
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#24170
+Asha'man Trainer~
+An Asha'man~
+One of the Asha'man is here sitting behind a wooden desk.
+~
+~
+andor~
+0 0
+AGZe 80 0 0 0 -1  1000 0
+1 450 25000d1+1 0d0+0 250d1+1 thrust
+-150 -150 -150 -150
+0 AB CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK large unknown
+M ACT 24170 bow~
+#24171
+trolloc illusion~
+The Illusion of a Trolloc~
+An illusion of a trolloc, created by the male half of the One Power shimmers in the light.
+~
+~
+andor~
+0 0
+A 0 64 0 0 -1  0 0
+1 1000 2500d1+1 0d0+0 0d0+0 none
+0 0 0 0
+U ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#24197
+weathered soul~
+Weathered Soul~
+A transparent form hangs just above the ground.
+~
+~
+kandor~
+0 0
+ABFGTe 336 2112 0 0 -1  -1000 0
+600 600 3500d5+1500 1000d2+200 650d6+600 pierce
+-90 -90 -90 -90
+ADFHJKU J CDLb IK
+stand stand female 0
+AGHMVXc ABCDEFGHIJKQV medium unknown
+#24198
+soul keeper~
+Soul Keeper~
+The keeper of souls looms over head.
+~
+~
+kandor~
+0 0
+AG 49488 64 0 0 -1  0 0
+700 1000 45000d4+5000 1000d5+500 350d5+300 frbite
+-200 -200 -200 -200
+A I EF H
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#24008
+black key~
+`*Dragon Shaped Key~
+A key in the shape of a dragon is here.~
+unknown~
+key ABTU A
+K
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#24022
+Curtain~
+`1B`8u`7r`&g`7u`8nd`1y`7 Curtain ~
+A crushed velvet curtain with a rich `1b`8u`7r`&g`7u`8nd`1y`7 color hangs here.~
+unknown~
+window 0 0
+0
+BCEGHIKLMO 0 0 0 0
+0 0 0 P
+ T 0 none~
+#24023
+Curtain~
+`1B`8u`7r`&g`7u`8nd`1y`7 Curtain~
+A crushed velvet curtain with a rich `1b`8u`7r`&g`7u`8nd`1y`7 color hangs here.~
+unknown~
+window 0 0
+0
+ABCEGHIKLMO 0 0 0 0
+0 0 0 P
+ T 0 none~
+#24100
+lord morning throne~
+`7The `1L`!o`1rd `&of `4M`$orning`4'`$s `8Throne`*~
+The `!L`!o`1rd `&of `4M`$or`4n`$ing`4'`$s `8 Throne`7 is in the middle of the room.~
+unknown~
+furniture 0 0
+0
+B EIJKN EHK BH DEFG
+0 0 0 P
+ T 0 none~
+#24101
+black tower key~
+a small Dragon Pin~
+A `8black `7key lies here.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+35 20 0 P
+ T 0 none~
+#24198
+black feather~
+`8B`&la`8c`7k `8F`7ea`8t`7he`8r`7 ~
+A soft `8b`&la`8c`7k `8f`7ea`8t`7he`8r`7 drifts slowly to the ground.~
+feather~
+light d A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 20 2000 P
+A
+19 5
+A
+18 5
+A
+12 25
+A
+17 -10
+A
+20 -10
+ T 0 none~
+#24199
+black feather~
+`8B`&lac`7k `&F`8ea`&t`7he`8r`7~
+A soft `8b`&lac`7k `&f`8ea`&t`7he`8r`7 drifts slowly to the ground.~
+feather~
+light d A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 100 2000 P
+A
+20 -10
+A
+17 -10
+A
+12 25
+A
+18 5
+A
+19 5
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#24000
+Asha'Man Training Grounds~
+~
+0 138412036 0
+D3
+~
+~
+0 0 24136
+S
+#24001
+Stair Well~
+The candles lighting the hallway barely give off enough light to
+see by. A small breeze makes the candles flicker almost making them 
+go out. Somehow they kept lit giving off a dull glow.
+~
+0 1 0
+D0
+~
+~
+0 0 24002
+D1
+~
+~
+1 0 24023
+D5
+~
+~
+0 0 24117
+S
+#24002
+A Well Lit Hallway~
+Many candles light this hallway giving off a shine that almost blinds.
+The candles do not seem to be loosing any wax as they burn. To the east
+lies the bedrooms of those that train within the tower.
+~
+0 138412032 0
+D1
+~
+~
+0 0 24003
+D2
+~
+~
+0 0 24001
+S
+#24003
+Hallway~
+Pictures lines these halls of the past Ashaman that have come and gone.
+Many of the faces are not fimialiar to most who reside among the Black
+tower. Dust seems to have collect over the years masking the faces within
+the paintings.
+~
+0 138412032 0
+D0
+~
+~
+4 24008 24021
+D1
+~
+~
+0 0 24005
+D3
+~
+~
+0 0 24002
+S
+#24004
+A Room of Study~
+Here is a room of study that the Dragon Reborn uses while contemplating
+things.  It has everything a person could want in such a room, books, a
+small area for food, a small chamber pot area, and a large comfortable chair
+that could be used for naps.  
+~
+0 4260868 0
+S
+#24005
+Hallway~
+A tapestry hangs on the wall showing a great battle. It illustrates a great
+battle although it is hard to tell which side is winning. Men on horse back 
+fight those on foot. Fire shoots from one man's hands striking bring down 
+serveral men along with much of the forest. The tapesty is filled with blood
+and sorrow.
+~
+0 138412032 0
+D1
+~
+~
+0 0 24007
+D2
+~
+~
+0 0 24006
+D3
+~
+~
+0 0 24003
+S
+#24006
+Bedroom~
+~
+0 512 0
+D0
+~
+~
+0 0 24005
+S
+#24007
+Hallway~
+The end of the hallway is bare of any pictures, or candles strangly enough
+it is well lit. There are doors to the bedrooms on either sides.
+~
+0 138412032 0
+D0
+~
+~
+0 0 24008
+D1
+~
+~
+0 0 24010
+D2
+~
+~
+0 0 24009
+D3
+~
+~
+0 0 24005
+S
+#24008
+Bedroom~
+~
+0 512 0
+D2
+~
+~
+0 0 24007
+S
+#24009
+Bedroom~
+~
+0 512 0
+D0
+~
+~
+0 0 24007
+S
+#24010
+Bedroom~
+~
+0 512 0
+D3
+~
+~
+0 0 24007
+S
+#24011
+none~
+~
+0 4 0
+S
+#24012
+none~
+~
+0 4 0
+S
+#24013
+none~
+~
+0 4 0
+S
+#24014
+none~
+~
+0 4 0
+S
+#24015
+none~
+~
+0 4 0
+S
+#24016
+none~
+~
+0 4 0
+S
+#24017
+none~
+~
+0 4 0
+S
+#24018
+none~
+~
+0 4 0
+S
+#24019
+none~
+~
+0 4 0
+S
+#24020
+Lord of Morning's Bedroom~
+A plush feather bed sits in the middle of the far wall of this large
+bedroom. The walls are bare except for an embroidered flag bearing the 
+head of a `!D`1ragon`7. An empty goblet of wine, old enough that the residue
+in the bottom has dried to the sides, sits on a small wooden side table to
+the left of the bed. The windows are covered with thick purple drapes that let 
+little sunlight in unless they are drawn. If not for the watchful eyes of the
+Maidens of the Spear in the hallway, one might think this was nothing more than 
+a visiting guest's room.
+~
+0 138477568 0
+D3
+~
+~
+0 0 24021
+S
+#24021
+Audience Chamber~
+Befitting the Audience Chamber of the Dragon Reborn, the walls of this 
+mid-sized room are adorned with several ceremonial swords and glittering
+armor. A comfortable woven chair sits in one corner of the room, surrounded
+by a half dozen wooden stools. A large wooden table stands to one side, maps, 
+both current and ancient are strewn about on it. This room has an odd 'feel'
+to it. It is almost os if you cannot hear anything happening outside this room.
+~
+0 138477568 0
+D1
+~
+~
+0 0 24020
+D2
+~
+~
+4 24008 24003
+S
+#24022
+Private room for the M'hael~
+~
+0 138413060 0
+S
+#24023
+M'Hael's Office.~
+A dim light comes from behind the thick velvet curtain covering the huge windows.
+Candlelight pours into the room from the corners, casting ominous shadows around 
+the highbacked chair and weapons rack. Shelves are lined with books, and a sturdy
+wooden desk rests in the corner, covered with paper. Thick curtains conceal the far 
+conrner of the room.
+~
+0 138413061 0
+D3
+~
+~
+1 0 24001
+S
+#24024
+Center Court~
+Emerging from the darkened hallways of the Black Tower lies a lovely
+seemingly misplaced garden.  From the looks of it is very well kept but no
+gardener is to be found.  Rose vines grow along the sides of the Tower walls
+with beautiful flowers blooming.  In the center of the garden is a large
+marble fountain.  
+~
+0 138412036 0
+D1
+~
+~
+0 0 24025
+D3
+~
+~
+0 0 24032
+S
+#24025
+Serenity~
+~
+0 138412036 0
+D1
+~
+~
+0 0 24026
+D3
+~
+~
+0 0 24024
+S
+#24026
+Serenity's Tranquil Path~
+~
+0 138412036 0
+D2
+~
+~
+0 0 24027
+D3
+~
+~
+0 0 24025
+S
+#24027
+Serenity's Tranquil Path~
+~
+0 138412036 0
+D0
+~
+~
+0 0 24026
+D3
+~
+~
+0 0 24028
+S
+#24028
+Serenity's Tranquil Path~
+~
+0 138412036 0
+D1
+~
+~
+0 0 24027
+D2
+~
+~
+0 0 24029
+S
+#24029
+A Crossing~
+~
+0 138412036 0
+D0
+~
+~
+0 0 24028
+D1
+~
+~
+0 0 24031
+D2
+~
+~
+0 0 24032
+D3
+~
+~
+0 0 24030
+S
+#24030
+none~
+~
+0 138412036 0
+D1
+~
+~
+0 0 24029
+S
+#24031
+none~
+~
+0 138412036 0
+D3
+~
+~
+0 0 24029
+S
+#24032
+none~
+~
+0 138412036 0
+D0
+~
+~
+0 0 24029
+D1
+~
+~
+0 0 24024
+S
+#24033
+A grassy Alcove~
+~
+0 0 0
+D2
+~
+~
+0 0 24127
+S
+#24034
+none~
+~
+0 4 0
+S
+#24035
+none~
+~
+0 4 0
+S
+#24036
+none~
+~
+0 4 0
+S
+#24037
+none~
+~
+0 4 0
+S
+#24038
+none~
+~
+0 4 0
+S
+#24039
+none~
+~
+0 4 0
+S
+#24040
+none~
+~
+0 4 0
+S
+#24041
+none~
+~
+0 4 0
+S
+#24042
+none~
+~
+0 4 0
+S
+#24043
+none~
+~
+0 4 0
+S
+#24044
+none~
+~
+0 4 0
+S
+#24045
+none~
+~
+0 4 0
+S
+#24046
+none~
+~
+0 4 0
+S
+#24047
+none~
+~
+0 4 0
+S
+#24048
+none~
+~
+0 4 0
+S
+#24049
+none~
+~
+0 4 0
+S
+#24050
+Learning Different Ways to Enhance the Power~
+After passing through a narrow dorrway, a musty smell hits you head on. 
+A single candle lights a small room occupied by a single man in a black
+cloak.  His cloak has a sword and dragon pen at the collar, identifying him
+as an Asha'man.  Looking around the room you notice the plainess of it. 
+Back in one corner is a small wooden stump and in the center of the room is
+a small oak desc with a few miniture statues on top of it.  After a few
+seconds were only each others breath is audible, the man speaks, "`%If you
+wish to learn about enhancing the power, then by all means, sit down.  `*" 
+~
+0 0 0
+D0
+~
+~
+0 0 24158
+S
+#24051
+Defensive Tactics Training~
+~
+0 0 0
+D2
+~
+~
+0 0 24151
+S
+#24052
+Training on how to Travel ~
+~
+0 0 0
+D0
+~
+~
+0 0 24150
+S
+#24053
+Training in the Usage of Angreals~
+~
+0 0 0
+D2
+~
+~
+0 0 24141
+S
+#24054
+none~
+~
+0 4 0
+S
+#24055
+none~
+~
+0 4 0
+S
+#24056
+none~
+~
+0 4 0
+S
+#24057
+none~
+~
+0 4 0
+S
+#24058
+none~
+~
+0 4 0
+S
+#24059
+none~
+~
+0 4 0
+S
+#24060
+none~
+~
+0 4 0
+S
+#24061
+none~
+~
+0 4 0
+S
+#24062
+none~
+~
+0 4 0
+S
+#24063
+none~
+~
+0 4 0
+S
+#24064
+none~
+~
+0 4 0
+S
+#24065
+none~
+~
+0 4 0
+S
+#24066
+none~
+~
+0 4 0
+S
+#24067
+none~
+~
+0 4 0
+S
+#24068
+none~
+~
+0 4 0
+S
+#24069
+none~
+~
+0 4 0
+S
+#24070
+none~
+~
+0 4 0
+S
+#24071
+none~
+~
+0 4 0
+S
+#24072
+none~
+~
+0 4 0
+S
+#24073
+none~
+~
+0 4 0
+S
+#24074
+none~
+~
+0 4 0
+S
+#24075
+none~
+~
+0 4 0
+S
+#24076
+none~
+~
+0 4 0
+S
+#24077
+none~
+~
+0 4 0
+S
+#24078
+none~
+~
+0 4 0
+S
+#24079
+none~
+~
+0 4 0
+S
+#24080
+none~
+~
+0 4 0
+S
+#24081
+none~
+~
+0 4 0
+S
+#24082
+none~
+~
+0 4 0
+S
+#24083
+none~
+~
+0 4 0
+S
+#24084
+none~
+~
+0 4 0
+S
+#24085
+none~
+~
+0 4 0
+S
+#24086
+none~
+~
+0 4 0
+S
+#24087
+none~
+~
+0 4 0
+S
+#24088
+none~
+~
+0 4 0
+S
+#24089
+none~
+~
+0 4 0
+S
+#24090
+none~
+~
+0 4 0
+S
+#24091
+none~
+~
+0 4 0
+S
+#24092
+none~
+~
+0 4 0
+S
+#24093
+none~
+~
+0 4 0
+S
+#24094
+none~
+~
+0 4 0
+S
+#24095
+none~
+~
+0 4 0
+S
+#24096
+none~
+~
+0 4 0
+S
+#24097
+none~
+~
+0 4 0
+S
+#24098
+none~
+~
+0 4 0
+S
+#24099
+none~
+~
+0 4 0
+S
+#24100
+First Floor Tower~
+Walking through a fairly forested section in southern Andor, the blazing
+sun beats down on your fragile skin.  Walking through a fairly forested
+section in southern Andor, the blazing sun beats down on your fragile skin
+through the open gaps high in the trees overhead.  Large trees, and smaller
+ones alike occupy much of the space to either side of the small firt trail,
+that seems to be almost washed away.  No person has set foot on it in quite
+some while by the looks of it.  
+~
+0 138412037 3
+D0
+~
+~
+0 0 24115
+D1
+~
+~
+0 0 24116
+D2
+~
+~
+0 0 24101
+S
+#24101
+First Floor Tower~
+~
+0 138412044 0
+D0
+~
+~
+0 0 24100
+D2
+~
+~
+0 0 24102
+S
+#24102
+First Floor Tower~
+~
+0 138412044 0
+D0
+~
+~
+0 0 24101
+D1
+~
+~
+0 0 24103
+S
+#24103
+First Floor Tower~
+~
+0 138412044 0
+D1
+~
+~
+0 0 24104
+D3
+~
+~
+0 0 24102
+S
+#24104
+First Floor Tower~
+~
+0 138412044 0
+D0
+~
+~
+0 0 24118
+D1
+~
+~
+0 0 24105
+D2
+~
+~
+0 0 24124
+D3
+~
+~
+0 0 24103
+S
+#24105
+First Floor Tower~
+~
+0 138412037 3
+D1
+~
+~
+0 0 24106
+D3
+~
+~
+0 0 24104
+S
+#24106
+First Floor Tower~
+~
+0 138412037 3
+D0
+~
+~
+0 0 24107
+D3
+~
+~
+0 0 24105
+S
+#24107
+First Floor Tower~
+~
+0 138412037 3
+D0
+~
+~
+0 0 24108
+D2
+~
+~
+0 0 24106
+D4
+~
+~
+0 0 24122
+S
+#24108
+First Floor Tower~
+~
+0 138412036 2
+D0
+~
+~
+0 0 24109
+D2
+~
+~
+0 0 24107
+D3
+~
+~
+0 0 24120
+S
+#24109
+First Floor Tower~
+~
+0 138412036 2
+D0
+~
+~
+0 0 24110
+D2
+~
+~
+0 0 24108
+S
+#24110
+First Floor Tower~
+~
+0 138412036 2
+D2
+~
+~
+0 0 24109
+D3
+~
+~
+0 0 24111
+S
+#24111
+First Floor Tower~
+~
+0 138412036 2
+D1
+~
+~
+0 0 24110
+D3
+~
+~
+0 0 24112
+S
+#24112
+First Floor Tower~
+~
+0 138412036 6
+D0
+~
+~
+0 0 24136
+D1
+~
+~
+0 0 24111
+D2
+~
+~
+0 0 24138
+D3
+~
+~
+0 0 24113
+S
+#24113
+First Floor Tower~
+~
+0 138412044 0
+D1
+~
+~
+0 0 24112
+D3
+~
+~
+0 0 24114
+S
+#24114
+First Floor Tower~
+~
+0 138412044 0
+D1
+~
+~
+0 0 24113
+D2
+~
+~
+0 0 24115
+S
+#24115
+First Floor Tower~
+~
+0 138412044 0
+D0
+~
+~
+0 0 24114
+D2
+~
+~
+0 0 24100
+S
+#24116
+West of Main Chamber~
+~
+0 138412044 0
+D1
+~
+~
+0 0 24117
+D3
+~
+~
+0 0 24100
+S
+#24117
+Inside the Main Chamber~
+Deep within the heart of the Black Tower, you find yourself enclosed by
+bleak, polished grey walls.  The room is quite large, and would be
+considered normal except for the floor, which is unique in a way all its
+own.  The floor, looks to be a painting about fifty times the size of the
+Dragons Bannar.  The dragon is a bright gold, surrounded by black and red
+polished marble.  Several wooden tables are spaced around the room, some
+host to a group of black cloaked men.  
+~
+0 138413068 0
+D0
+~
+~
+0 0 24138
+D1
+~
+~
+0 0 24120
+D2
+~
+~
+0 0 24118
+D3
+~
+~
+0 0 24116
+D4
+~
+~
+0 0 24001
+M 150 H 150
+S
+#24118
+South of Main Chamber~
+~
+0 138412044 0
+D0
+~
+~
+0 0 24117
+D2
+~
+~
+0 0 24104
+S
+#24119
+North of Main Chamber~
+~
+0 138412044 0
+S
+#24120
+East of Main Chamber~
+~
+0 138412036 0
+D0
+~
+~
+0 0 24121
+D1
+~
+~
+0 0 24108
+D3
+~
+~
+0 0 24117
+S
+#24121
+Healing Chamber of the Black Tower~
+Deep within the confines of the Black Tower, secure by the outer walls
+and the men behind them, you have come to the room of healing.  There are
+only a handful of beds within the room due to that fact that the only wounds
+that take any time to recover from are those recieved in battle. 
+Ministering to the sick is a single black cloaked man.  
+~
+0 138413064 0
+D2
+~
+~
+0 0 24120
+M 150 H 150
+S
+#24122
+The Beginning of the Entrance Hall~
+~
+0 138412044 0
+D0
+~
+~
+0 0 24168
+D5
+~
+~
+0 0 24107
+S
+#24123
+Path to the Black Tower~
+~
+0 138413056 2
+D2
+~
+~
+0 0 24137
+S
+#24124
+Southern Entrance to Tower~
+~
+0 4 4
+D0
+~
+~
+0 0 24104
+D2
+~
+~
+0 0 24125
+S
+#24125
+Grassy Path Around Camp~
+~
+0 4 4
+D0
+~
+~
+0 0 24124
+D1
+~
+~
+0 0 24127
+D2
+~
+~
+0 0 24126
+D3
+~
+~
+0 0 24144
+S
+#24126
+Healers Training~
+Within this room is where the men who can weave the flows of healing are 
+trained. Those men will spend many months, sometimes years learning how to
+control the powers that were given to them. The smell of healing herbs 
+and oils fill the small but comfortable room.
+~
+0 4 2
+D0
+~
+~
+0 0 24125
+S
+#24127
+Grassy Path Around Camp~
+~
+0 12 0
+D0
+~
+~
+0 0 24033
+D1
+~
+~
+0 0 24128
+D3
+~
+~
+0 0 24125
+S
+#24128
+Grassy Path Around Camp~
+~
+0 12 0
+D1
+~
+~
+0 0 24129
+D3
+~
+~
+0 0 24127
+S
+#24129
+Grassy Path Around Camp~
+~
+0 12 0
+D1
+~
+~
+0 0 24130
+D3
+~
+~
+0 0 24128
+S
+#24130
+Grassy Path Around Camp~
+~
+0 4 0
+D0
+~
+~
+0 0 24131
+D3
+~
+~
+0 0 24129
+S
+#24131
+Grassy Path Around Camp~
+~
+0 12 0
+D0
+~
+~
+0 0 24132
+D2
+~
+~
+0 0 24130
+S
+#24132
+Grassy Path Around Camp~
+~
+0 4 0
+D0
+~
+~
+0 0 24133
+D2
+~
+~
+0 0 24131
+S
+#24133
+Grassy Path Around Camp~
+~
+0 4 0
+D0
+~
+~
+0 0 24143
+D2
+~
+~
+0 0 24132
+S
+#24134
+Grassy Path Around Camp~
+~
+0 4 0
+D0
+~
+~
+0 0 24135
+D2
+~
+~
+0 0 24143
+S
+#24135
+Grassy Path Around Camp~
+~
+0 4 0
+D0
+~
+~
+0 0 24142
+D2
+~
+~
+0 0 24134
+S
+#24136
+Northern Entrance to Tower~
+Approaching the Black Tower, an iron gate is swung open and two men in
+black cloaks quickly step outside.  Their eyes look you from head to foot
+without giving off any of their thoughts.  One of them then motions with his
+arm that you may enter the Tower, The walls are a dull gray, and dimly
+illuminated.  Several men in black cloaks can be seen talking to each other
+in small groups a way off to the south.  Looking back you can see outside
+the gate, to the perimeter wall.  
+~
+0 138412036 0
+D0
+~
+~
+4 24101 24137
+D1
+~
+~
+0 0 24000
+D2
+~
+~
+0 0 24112
+S
+#24137
+Before the Gates of the Black Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 24123
+D1
+~
+~
+0 0 24159
+D2
+~
+~
+4 24101 24136
+D3
+~
+~
+0 0 24151
+S
+#24138
+Marketplace Inside the Black Tower~
+Walking through the swinging wooden door, shelves line your few.  The
+shelves are all basic wooden planks that are lined with various items. 
+Herbs, Potions, Food, and Clothing make up for most of the goods.  It is the
+General Store here in the Black Tower selling the basic necessities of life.
+~
+0 4 0
+D0
+~
+~
+0 0 24112
+D2
+~
+~
+0 0 24117
+S
+#24139
+Grassy Path Around Camp~
+~
+0 4 0
+D2
+~
+~
+0 0 24142
+D3
+~
+~
+0 0 24152
+S
+#24140
+Northwestern Corner of the Grounds ~
+~
+0 4 0
+D1
+~
+~
+0 0 24141
+S
+#24141
+Walking Through a Grass Field Outside the Tower~
+~
+0 4 0
+D0
+~
+~
+0 0 24053
+D1
+~
+~
+0 0 24150
+D3
+~
+~
+0 0 24140
+S
+#24142
+Grassy Path Around Camp~
+~
+0 4 0
+D0
+~
+~
+0 0 24139
+D2
+~
+~
+0 0 24135
+S
+#24143
+Grassy Path Around Camp~
+A narrow marble staircase continues up while a hall branches to the
+south. A few torches line both the stairwell and the hall, these not kept up
+by the One Power.
+~
+0 12 0
+D0
+~
+~
+0 0 24134
+D1
+~
+~
+0 0 24162
+D2
+~
+~
+0 0 24133
+S
+#24144
+Grassy Path Around Camp~
+~
+0 12 0
+D1
+~
+~
+0 0 24125
+D2
+~
+~
+0 0 24166
+D3
+~
+~
+0 0 24145
+S
+#24145
+Grassy Path Around Camp~
+~
+0 12 0
+D1
+~
+~
+0 0 24144
+D3
+~
+~
+0 0 24146
+S
+#24146
+Grassy Path Around Camp~
+~
+0 4 0
+D1
+~
+~
+0 0 24145
+D3
+~
+~
+0 0 24147
+S
+#24147
+Grassy Path Around Camp~
+~
+0 4 0
+D0
+~
+~
+0 0 24148
+D1
+~
+~
+0 0 24146
+S
+#24148
+Grassy Path Around Camp~
+~
+0 4 0
+D0
+~
+~
+0 0 24149
+D2
+~
+~
+0 0 24147
+S
+#24149
+Grassy Path Around Camp~
+~
+0 12 0
+D0
+~
+~
+0 0 24156
+D2
+~
+~
+0 0 24148
+S
+#24150
+Outside the Tower along a Grass Path~
+~
+0 4 0
+D1
+~
+~
+0 0 24151
+D2
+~
+~
+0 0 24052
+D3
+~
+~
+0 0 24141
+S
+#24151
+Grass Path surrounding the Tower~
+~
+0 12 0
+D0
+~
+~
+0 0 24051
+D1
+~
+~
+0 0 24137
+D3
+~
+~
+0 0 24150
+S
+#24152
+Grassy Path Around Camp~
+~
+0 12 0
+D1
+~
+~
+0 0 24139
+S
+#24153
+Grassy Path Around Camp~
+Lightning and Thunder can be seen and heard from outside his door most of
+the time. He is a furocious leader of the Asha'Man and will stop at nothing
+short of complete victory.
+~
+0 12 0
+D2
+~
+~
+0 0 24154
+S
+#24154
+Grassy Path Around Camp~
+~
+0 12 0
+D0
+~
+~
+0 0 24153
+D2
+~
+~
+0 0 24155
+S
+#24155
+Grassy Path Around Camp~
+~
+0 4 0
+D0
+~
+~
+0 0 24154
+D2
+~
+~
+0 0 24157
+S
+#24156
+Grassy Path Around Camp~
+~
+0 4 0
+D0
+~
+~
+0 0 24157
+D2
+~
+~
+0 0 24149
+S
+#24157
+Grassy Path Around Camp~
+~
+0 4 0
+D0
+~
+~
+0 0 24155
+D2
+~
+~
+0 0 24156
+D3
+~
+~
+0 0 24160
+S
+#24158
+Pathway Around the Tower~
+Walking just outside the Tower walls, men in black cloaks can be seen all
+over.  Many have an audience that they are speaking too.  The grass beneath
+your feet is lush and green even under the scorching sun.  Over the walls a
+gentle breeze sweeps by you cooling you off.  
+~
+0 12 0
+D2
+~
+~
+0 0 24050
+D3
+~
+~
+0 0 24159
+S
+#24159
+Grass Path Inside the Protective Walls of the Tower~
+Between the outer walls and the Tower itself, there is not much to be
+worried about.  Several men and even a few women can be seen off to the
+sides of the dirt path.  Several houses are also spotted along the edge of
+the path.  The path bends off to the north leading to the outer walls, where
+several men in black cloaks can be seen pacing back and forth.  
+~
+0 4 0
+D0
+~
+~
+0 0 24164
+D1
+~
+~
+0 0 24158
+D3
+~
+~
+0 0 24137
+S
+#24160
+Somewhere Inside the Black Tower~
+~
+0 4 0
+D1
+~
+~
+0 0 24157
+D3
+~
+~
+0 0 24161
+S
+#24161
+Somewhere Inside the Black Tower~
+~
+0 4 0
+D1
+~
+~
+0 0 24160
+S
+#24162
+Somewhere Inside the Black Tower~
+~
+0 4 0
+D1
+~
+~
+0 0 24163
+D3
+~
+~
+0 0 24143
+S
+#24163
+A hidden passage~
+~
+0 4 0
+D3
+~
+~
+0 0 24162
+S
+#24164
+Somewhere Inside the Black Tower~
+~
+0 4 0
+D0
+~
+~
+0 0 24165
+D2
+~
+~
+0 0 24159
+S
+#24165
+Somewhere Inside the Black Tower~
+~
+0 4 0
+D2
+~
+~
+0 0 24164
+S
+#24166
+The Lord of Mornings Throne Room~
+~
+0 138412036 0
+D0
+~
+~
+0 0 24144
+D2
+~
+~
+0 0 24167
+S
+#24167
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24166
+S
+#24168
+Within the Entrance Hall~
+~
+0 138412036 0
+D0
+~
+~
+0 0 24169
+D2
+~
+~
+0 0 24122
+S
+#24169
+Inner Corridor~
+~
+0 4 0
+D0
+~
+~
+0 0 24170
+D2
+~
+~
+0 0 24168
+S
+#24170
+Asha'man Testing Area~
+Deep in the upper confines of the Black Tower, you find yourself in a
+room with a single black-cloaked man.  About the room nothing stands out,
+the bleak grey walls stand silent and forbodding.  The cloaked man is behind
+an oak desk, and on that desk is a ball of light that shines just enough to
+light the whole room.  
+~
+0 138412036 0
+D2
+~
+~
+0 0 24169
+D3
+~
+~
+0 0 24171
+S
+#24171
+Training Room of the Asha'man~
+Within this room the Asha'man soldiers do their final training. While they 
+wait to be tested by the M'hael. Not everyone with pass on to the ranks
+among the M'hael's army.
+~
+0 138412036 0
+D1
+~
+~
+0 0 24170
+D3
+~
+~
+0 0 24172
+S
+#24172
+You are here!~
+~
+0 4 0
+D1
+~
+~
+0 0 24171
+D3
+~
+~
+0 0 24173
+S
+#24173
+~
+~
+0 4 0
+D1
+~
+~
+0 0 24172
+D2
+~
+~
+0 0 24191
+D3
+~
+~
+0 0 24174
+S
+#24174
+~
+~
+0 4 0
+D1
+~
+~
+0 0 24173
+D2
+~
+~
+0 0 24175
+S
+#24175
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24174
+D2
+~
+~
+0 0 24176
+S
+#24176
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24175
+D1
+~
+~
+0 0 24189
+D2
+~
+~
+0 0 24177
+S
+#24177
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24176
+D2
+~
+~
+0 0 24178
+S
+#24178
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24177
+D1
+~
+~
+0 0 24179
+S
+#24179
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24190
+D1
+~
+~
+0 0 24180
+D3
+~
+~
+0 0 24178
+S
+#24180
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24183
+D1
+~
+~
+0 0 24181
+D3
+~
+~
+0 0 24179
+S
+#24181
+~
+~
+0 4 0
+D1
+~
+~
+0 0 24182
+D3
+~
+~
+0 0 24180
+S
+#24182
+~
+~
+0 4 0
+D3
+~
+~
+0 0 24181
+S
+#24183
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24188
+D1
+~
+~
+0 0 24184
+D2
+~
+~
+0 0 24180
+S
+#24184
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24185
+D3
+~
+~
+0 0 24183
+S
+#24185
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24186
+D2
+~
+~
+0 0 24184
+S
+#24186
+~
+~
+0 4 0
+D2
+~
+~
+0 0 24185
+D3
+~
+~
+0 0 24187
+S
+#24187
+~
+~
+0 4 0
+D1
+~
+~
+0 0 24186
+D4
+~
+~
+0 0 24192
+S
+#24188
+~
+~
+0 4 0
+D2
+~
+~
+0 0 24183
+D3
+~
+~
+0 0 24189
+S
+#24189
+~
+~
+0 4 0
+D1
+~
+~
+0 0 24188
+D3
+~
+~
+0 0 24176
+S
+#24190
+Training room of the Dedicated~
+Deep in the upper confines of the Black Tower, you find yourself in a
+room with a single black-cloaked man.  About the room nothing stands out,
+the bleak grey walls stand silent and forbodding.  The cloaked man is behind
+an oak desk, and on that desk is a ball of light that shines just enough to
+light the whole room.  
+~
+0 4 0
+D2
+~
+~
+0 0 24179
+S
+#24191
+Storage Room ~
+Here is where many of the testing supplies are kept by the M'hael.  
+Many of the object look very foreign and unrecognizable to those
+that havent ever been tested.
+~
+0 4 0
+D0
+~
+~
+0 0 24173
+S
+#24192
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24193
+D5
+~
+~
+0 0 24187
+S
+#24193
+~
+~
+0 4 0
+D1
+~
+~
+0 0 24194
+D2
+~
+~
+0 0 24192
+S
+#24194
+~
+~
+0 4 0
+D1
+~
+~
+0 0 24195
+D3
+~
+~
+0 0 24193
+S
+#24195
+~
+~
+0 4 0
+D2
+~
+~
+0 0 24196
+D3
+~
+~
+0 0 24194
+S
+#24196
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24195
+D2
+~
+~
+0 0 24197
+S
+#24197
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24196
+D2
+~
+~
+0 0 24198
+S
+#24198
+~
+~
+0 4 0
+D0
+~
+~
+0 0 24197
+D3
+~
+~
+0 0 24199
+S
+#24199
+~
+~
+0 4 0
+D1
+~
+~
+0 0 24198
+S
+#0
+
+
+
+#SPECIALS
+M 24001 spec_breath_fire
+M 24002 spec_breath_any
+M 24003 spec_breath_lightning
+M 24004 spec_breath_frost
+M 24007 spec_breath_any_but_acid
+M 24198 spec_breath_frost
+S
+
+
+
+#RESETS
+D 0 24001 1 1
+D 0 24003 0 2
+D 0 24021 2 2
+D 0 24023 3 1
+D 0 24136 0 2
+D 0 24137 2 2
+M 0 24008 1 24003 1 100 Load Dragon's Guard
+E 0 24008 0 19 0 100 `*dragon shaped key is loaded held in the hands of Dragon's Guard
+M 0 24020 1 24020 1 100 Load Maiden in Waiting
+M 0 24020 1 24020 1 100 Load Maiden in Waiting
+O 0 24023 0 24022 0 100 `1b`8u`7r`&g`7u`8nd`1y`7 curtain loaded to Private room for the M'hael
+O 0 24023 0 24022 0 100 `1b`8u`7r`&g`7u`8nd`1y`7 curtain loaded to Private room for the M'hael
+O 0 24022 0 24023 0 100 `1b`8u`7r`&g`7u`8nd`1y`7 curtain  loaded to M'Hael's Office.
+O 0 14004 0 24024 0 100 A `&white`7 marble fountain loaded to Center Court
+M 0 24100 1 24117 1 100 Load Flinn
+O 0 7517 0 24122 0 100 The `8black `7mace loaded to The Beginning of the Entrance Hall
+M 0 24007 1 24137 1 100 Load a Storm Leader of the Asha'man
+G 0 24101 0 0 0 100 A small dragon pin is given to a Storm Leader of the Asha'man
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#24001
+if clan $n 'blacktower'
+say I am glad to see you again, perhaps the M'hael has plans for us now.
+mob transfer $n 24136
+else
+say You have no business being here. It would be wise if you left.
+kill $n
+break
+endif
+~
+#24002
+if clan $n 'tinker'
+growl $n
+kill $n
+else
+emote glances at your face for a brief moment.
+break
+endif
+~
+#24003
+if room $n == 24137
+if name $n rand
+say It is good that you are here Dragon.
+mob transfer $n 24003
+say Walk in the Light, $n.
+else
+say $n. You are not worthy to enter this room.  Move along now.
+say I suggest you leave before I become angry.
+mob delay 5
+say I have warned you, now prepare your soul.
+kill $n
+endif
+~
+#24008
+if room $n == 24003
+if name $n rand
+$n. Do not lose this key, it is vital that it stays with you!
+mob oload 24008
+give key $n
+say Walk in the Light, $n.
+else
+say $n. You are not worthy to enter this room.  Move along now.
+mob transfer $n 24002
+endif
+else
+otell $n You are not in the right room.
+endif
+ 
+~
+#24100
+if clan $n 'ashaman'
+say Greetings, $n.
+give key $n
+mob oload 24101
+otell $n Please do no fail in losing this key!
+end
+else
+say I am sorry my friend, but you are not one who trains within the Black Tower.
+break
+~
+#24170
+if clan $n ashaman
+tell $n Come with me i will help you further your abilities
+mob transfer $n 24171
+else
+yell $n, You do not belong here, leave the Black Tower at once!
+break
+endif
+ 
+~
+#24171
+if $n sex == 1 
+say $n Greetings Sir
+else
+say $n Greetings My Lady
+break
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,3 +1,16 @@
+# Ignore sensitive files.
+player/*
+player.backup
+gods/*
+data/roster/*
+
+# Ignore logs.
+log/*.log
+log/imm/*.log
+log/logs
+log/pk/*.log
+log/rp/*.log
+
 # Prerequisites
 *.d
 

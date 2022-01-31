@@ -1,0 +1,7439 @@
+#AREADATA
+Name Falme~
+Builders None~
+VNUMs 10101 10399
+Credits `4[`7Middle`4]`7 Vooshka   Falme~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#10101
+A Falme citizen~
+a Falme citizen~
+A Falme citizen is here, walking about the streets minding their own business.
+~
+A quiet Falme citizen is standing here with long, fine hair.  She seems
+to glide through the city with grace.  She looks at you and beams a smile.  
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+65 50 1000d1+100 1d1+0 10d1+45 slap
+0 0 0 0
+FK 0 0 H
+stand stand female 500
+A AE medium unknown
+#10102
+A Falme merchant~
+A Falme merchant~
+A merchant is standing here, trying to sell you something.
+~
+A merchant is here, attempting to sell you his various things.  He winks
+at you as he tries to bargain with you.  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+50 50 1000d1+100 0d0+0 10d1+45 punch
+0 0 0 0
+FK 0 0 H
+stand stand male  0
+0 0 medium unknown
+#10103
+A small child~
+a small child~
+A small child is here, running around acting silly.
+~
+A small child is playing here.  She seems to be having fun and not
+engaging in any sort of conflicts with the merchants or citizens.  She
+smiles at you and continues to play.  
+~
+unique~
+0 0
+AZ 0 0 0 0 -1  0 0
+65 40 800d1+100 0d0+0 10d1+30 punch
+0 0 0 0
+0 0 0 H
+stand stand female 0
+0 AEK small unknown
+#10104
+A small child~
+a small child~
+A small child runs back and forth from one side of the streets to the other.
+~
+The small child glances up for a brief moment to look at you.  He giggles
+for a brief moment and grins at you.  
+~
+unique~
+0 0
+AZ 0 0 0 0 -1  0 0
+50 60 900d1+100 0d0+0 10d1+40 thwack
+0 0 0 0
+FK 0 0 J
+stand stand none 0
+0 ADK small unknown
+#10105
+A Falme Guard~
+a Falme guard~
+The eyes of the Falme Guard stare at you as you walk past him.
+~
+The Falme Guard is fully eqipped with essential armor to guard his post. 
+He stands erect, peering around himself.  He watches anything and everything
+very closely.  He glances at you and mutters something under his breath.  
+~
+unique~
+0 0
+AB 256 0 0 0 -1  -500 0
+150 70 5000d1+3000 0d0+0 10d1+60 crush
+-15 -15 -15 -15
+CEFHK 0 0 K
+stand stand male  0
+0 0 large unknown
+#10106
+A sleeping man~
+a sleeping man~
+A Sleeping Man is quietly sleeping on the bed.
+~
+A sleeping man is here, sleeping very comfortably.  He turns slowly once
+and a while but doesn't wake for even a second.  He seems to be very tired. 
+~
+unique~
+0 0
+AB 256 0 0 0 -1  0 0
+100 120 10000d1+5000 0d0+0 100d1+25 beating
+-40 -40 -40 -12
+EFHK J 0 HI
+sleep stand male  1000
+0 0 medium unknown
+#10107
+herbalist shopkeeper~
+a herbalist~
+An herbalist smiles at you as you enter his shop.
+~
+Before you stands an aging man who obviously hasn't gotten out much
+lately.  
+~
+rabbit~
+0 0
+AB 256 0 0 0 -1  0 0
+100 100 1000d1+10000 0d0+0 0d0+0 slap
+0 0 0 0
+FH 0 0 0
+stand stand male  0
+AGV ACDEFHJK medium unknown
+#10108
+wine specialist shopkeeper~
+a wine specialist~
+The winery's expert is standing here smiling.
+~
+Here is a man who supposedly has great taste for wine.  He knows every
+kind and can suggest the best for you.  
+~
+arafel~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 1000d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 J H
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#10109
+old man~
+an old man~
+An old man is standing here, not even noticing you.
+~
+The old man looks very old.  His sun-beaten face shows that he's been
+living a long life.  He's wearing simple clothing.  
+~
+unique~
+0 0
+AB 256 0 0 0 -1  0 0
+90 90 2000d1+4000 0d0+0 10d1+90 slap
+-30 -30 -30 -10
+CFHK L 0 HIJ
+stand stand male  0
+0 0 medium unknown
+#10110
+old woman~
+an old woman~
+An old woman is standing here, shaking a bit.
+~
+A very old woman is standing here.  She's a bit shakey but that's due to
+her old age.  
+~
+unique~
+0 0
+AB 256 0 0 0 -1  0 0
+90 90 2000d1+1075 0d0+0 10d1+85 slap
+-22 -22 -22 -7
+0 L 0 HIJ
+stand stand female 0
+0 0 small unknown
+#10111
+old drunk man~
+an old drunk man~
+A drunkard staggers on the street, nearly stumbling.
+~
+The old man smells of alcohol.  He's holding a bottle of beer in his hand
+and mumbling under his breath.  
+~
+unique~
+0 0
+ABZ 0 0 128 0 -1  0 0
+85 90 1000d1+2300 0d0+0 50d1+49 pierce
+-27 -27 -27 -9
+CFHK JL 0 HI
+stand stand male  0
+0 0 medium unknown
+#10112
+tobacco shopkeeper~
+a tobacco shopkeeper~
+A tobacco expert is here, smelling some samples.
+~
+The shopkeeper is wearing glasses and suspenders.  His fingernails are of
+a yellowish color and his face seems old.  He occasionly coughs from
+obviously smoking too much.  
+~
+rabbit~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 1000d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 0
+stand stand male  0
+AGV ACDEFHJK medium unknown
+#10113
+small furry gerbel~
+a small gerbel~
+A small, furry gerbel scuttles across seeking safety.
+~
+The tiny gerbel looks so cute and innocent.  It nibbles on some food and
+scuttles about the field, paying no attention to you.  Why would you hurt
+it?  
+~
+unique~
+0 0
+AB 0 2 0 0 -1  0 0
+60 30 100d1+500 0d0+0 10d1+20 bite
+-7 -7 -7 -2
+FK 0 0 HIJ
+stand stand either 0
+0 0 tiny unknown
+#10114
+weary traveler~
+weary traveler~
+A traveler walks slowly, looking very weary from traveling too much.
+~
+They walk at a very slow pace, not paying much attention to anything
+around them.  Their clothes are a bit ragged, but still considered wearable.
+They seem to be very tired and wanting to find a place to sleep.  
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+75 75 5000d1+1000 0d0+0 10d1+79 beating
+-14 -14 -14 -2
+EFK 0 0 BDK
+stand stand either 0
+0 0 medium unknown
+#10115
+falme innkeeper~
+Falme Innkeeper~
+The Falme Innkeeper is here, waiting to see you want to stay here.
+~
+He looks pretty old and tired.  Perhaps it's because he's been working at
+this job for so long.  He stammers when he speaks to you and twitches a bit.
+~
+unique~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 1000d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+#10116
+jeweler amir~
+the Jeweler Amir~
+Amir the Jeweler is here, looking very bored.
+~
+Amir is sitting behind his desk, observing some gems and stones.  He pays
+no attention to you as you walk in.  He hums a low tune and continues
+viewing his gems.  
+~
+rabbit~
+0 0
+AB 336 0 0 0 -1  0 0
+100 0 1000d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 0
+stand stand male  0
+AGV ACDEFHJK medium unknown
+#10117
+grocer ginger~
+the grocer ginger~
+Ginger is here, smiling at everyone that walks in.
+~
+Ginger's long brown hair catches your attention.  Walking around Falme,
+you don't really notice any attractive women, but this one.  She glances at
+you and smiles.  Maybe she likes you?  
+~
+unique~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 1000d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+#10118
+small silver fish~
+a small silver fish~
+A small, silver fish is swimming nearby.
+~
+It swims around, not harming anything or anyone.  It's silver color
+reflects the light from the sun, making it a bright looking fish during the
+day.  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+70 35 500d1+700 0d0+0 10d1+25 bite
+-14 -14 -14 -2
+FHK H 0 IJ
+stand stand none 0
+0 0 small unknown
+#10119
+small black mouse~
+a small black mouse~
+A small, black mouse scuttles across you, seeking safety.
+~
+The mouse twitches his head and glances at your from a side view. 
+Keeping an eye on you, it then runs trying to avoid danger.  
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+30 20 500d1+250 0d0+0 10d1+21 claw
+-8 -8 -8 0
+FHK 0 0 HIJK
+stand stand none 40
+0 0 small unknown
+#10120
+small tadpole~
+a small tadpole~
+A small tadpole swims vigorously nearby.
+~
+The tadpole is very small and doesn't appear to be a threath.  It swims
+in circles for a bit and then sits there, resting at the bottom of the
+stream.  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+60 30 500d1+300 0d0+0 10d1+25 bite
+-8 -8 -8 0
+FHK 0 0 IJ
+stand stand none 0
+0 0 tiny unknown
+#10121
+disgruntled mother~
+a disgruntled mother~
+An eye watches you closely, and you realize a disgruntled mother is here.
+~
+Sitting in the shadows is disgruntled mother.  She peers at you, sending
+chills down your spine.  You don't know what you have done to irritate her,
+but it looks like she's about ready to knock you out.  
+~
+unique~
+0 0
+ABFGTe 256 2112 128 0 -1  -1000 0
+200 180 25000d1+5000 1000d1+5000 10d1+150 slap
+-57 -57 -57 -32
+CDFHK HIL DKQ 0
+stand stand female 50000
+0 0 huge unknown
+#10122
+small bird~
+a small bird~
+A small bird is flying about.
+~
+A small bird flies over your head and perches on a tree nearby.  It looks
+around and begins to sing a tune.  
+~
+unique~
+0 0
+A 0 16 0 0 -1  0 0
+55 60 500d1+750 0d0+0 50d1+10 peck
+-8 -8 -8 0
+FK 0 0 0
+stand stand none 0
+0 0 small unknown
+#10123
+old man cepheus~
+old man Cepheus~
+An old man is here, walking blindingly about the room.
+~
+His skin is very pale since he's confined himself to this hole for many
+years.  He's blind from years of darkness.  He glances in your direction
+because he has a great since of hearing.  
+~
+unique~
+0 0
+ABe 258 64 128 0 -1  -1000 0
+200 200 10000d1+9000 0d0+0 10d1+180 wrath
+-50 -50 -50 -30
+CDFHK 0 D 0
+stand stand male  50000
+0 0 medium unknown
+#10124
+falme carpet shopkeeper~
+a Falme carpet shopkeeper~
+A Falme Carpet seller is here, trying to get you to notice his products.
+~
+He looks around, checking his own inventory.  It appears he doesn't get
+much sun because his skin is pale.  He glances at you for a second, then
+goes back to what he was doing.  
+~
+unique~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 1000d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+#10125
+wise woman~
+a wise woman~
+A Wise Woman is here, offering advice to those in need.
+~
+She looks fairly young, even though she's not.  Her long brown hair
+covers her shoulders.  
+~
+unique~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 1000d1+10000 0d0+0 100d1+100 slap
+0 0 0 0
+FK 0 0 0
+stand stand female 0
+0 0 medium unknown
+#10126
+antique shopkeeper~
+an antique shopkeeper~
+An antique shopkeeper is here, peering around the room.
+~
+She looks old, just like the antiques.  Her face is wrinkly and it sort
+of scares you when she smiles.  
+~
+rabbit~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 1000d1+10000 0d0+0 100d1+100 none
+0 0 0 0
+FH 0 0 0
+stand stand female 0
+AGV ACDEFHJK medium unknown
+#10127
+bartender aleya~
+bartender aleya~
+Aleya is here, cleaning mugs and smiling at all the customers.
+~
+Aleya is the most beautiful woman in Falme.  Every man believes she's
+also the kindest, even more than their own wives.  
+~
+rabbit~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 1000d1+10000 0d0+0 100d1+100 none
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+AGV ACDEFHJK medium unknown
+#10128
+garment clerk~
+a garment clerk~
+A store clerk is here, looking irritated and attempting to sell garments.
+~
+She looks a bit old and pale.  Small traces of gray hair can be seen. 
+The look on her face is horrible.  
+~
+rabbit~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 1000d1+10000 0d0+0 100d1+100 slap
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+AGV ACDEFHJK medium unknown
+#10129
+blacksmith don~
+blacksmith don~
+Don the Blacksmith is here, doing things that no other man can do with metal.
+~
+Don is looking very muscular.  Years of working at a hard job has made
+him the man he is today.  The local folk call him Donny.  
+~
+rabbit~
+0 0
+AB 256 0 0 0 -1  0 0
+100 0 1000d1+10000 0d0+0 100d1+100 slap
+0 0 0 0
+FH 0 0 0
+stand stand male  0
+AGV ACDEFHJK medium unknown
+#10130
+small white sheep~
+a small white sheep~
+A small sheep is here, grazing on grass.
+~
+The sheep is very fluffly.  He grazes on grass, paying no attention to
+his surroundings.  
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+38 35 100d1+750 0d0+0 10d1+21 bite
+-12 -12 -12 -1
+FK 0 0 HIJK
+stand stand either 0
+0 0 small unknown
+#10131
+saron infantile~
+Saron the Infantile~
+A giggling, dark figure is here looking almost like a stick figure.
+~
+Saron the Infantile is here, giggling at nothing in particular.  He
+laughs girlishly every once in a while.  He looks very thin and pale, but
+rumor has it that he's very powerful.  Those are just rumors right?  
+~
+unique~
+0 0
+ABTe 256 2112 128 0 -1  0 0
+200 250 20000d1+9000 1000d1+3000 10d1+240 slap
+-70 -70 -70 -40
+DEFHK IJ HKL E
+stand stand male  70000
+0 0 giant unknown
+#10132
+grey witch karla~
+Karla the Grey Witch~
+A figure dressed in gray and long white hair is here, laughing evilly.
+~
+A woman stands here, laughing insanely at nothing in particular.  Her
+unusual white hair catches your attention.  Her skin is a bit tan.  She
+turns to you and glances at you with her red eyes.  
+~
+rabbit~
+0 0
+ABTe 260 34880 0 0 -1  -1000 0
+200 250 20000d1+9999 1000d1+1240 10d1+240 scratch
+-70 -70 -70 -50
+DEFHK ABL Q 0
+stand stand female 90000
+AGV ACDEFHJK medium unknown
+#10133
+Johnny Cage~
+`!J`1o`!h`1nn`!y `!C`1ag`!e`7~
+`!J`1o`!h`1nn`!y `!C`1ag`!e `7stands here, crossing his arms and acting like a ***.
+~
+~
+unique~
+0 0
+ABFTe 49488 0 0 0 -1  0 0
+200 350 34000d1+1000 1000d1+100 10d1+350 claw
+-200 -200 -200 -200
+CEFHK D CHIJK 0
+stand stand male  0
+0 0 medium unknown
+#10134
+raiden~
+`^R`6a`^id`6e`^n`7~
+`^R`6a`^id`6e`^n`7 is here, ready to cram lightning bolts up your ass.
+~
+~
+unique~
+0 0
+ABFTe 336 34880 0 0 -1  0 0
+250 300 34000d1+1000 20000d1+1000 10d1+270 none
+-100 -100 -100 -100
+CFHK 0 ABCDHIJKLQ 0
+stand stand none 0
+0 0 medium unknown
+#10135
+reptile~
+`@R`2ep`@t`2il`@e`7~
+`@R`2ep`@t`2il`@e `7is here, spitting acid at you.
+~
+~
+unique~
+0 0
+ABFTe 49488 64 0 32768 -1  0 0
+350 350 25000d1+1000 25000d1+1000 10d1+270 punch
+-100 -100 -100 -100
+FHIK 0 CDHIJKQ 0
+stand stand male  0
+0 0 medium unknown
+#10136
+sub zero~
+`$S`4u`$b `$Z`4er`$o`7~
+`$S`4u`$b `$Z`4er`$o `7is here, trying to freeze you.
+~
+~
+tear~
+0 0
+ABFTe 336 0 128 0 -1  0 0
+350 900 44000d1+1000 25000d1+1000 10d1+890 punch
+-100 -100 -100 -100
+CDEFHK AB CDHIJKQ 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#10137
+Princess~
+the Princess~
+The princess
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#10138
+garnev~
+Garnev~
+A shrouded figure stirs within the shadows.
+~
+He sits quietly where no light touches him.  Barely moving, he turns his
+head at anything that catches his attention.  He chuckles evilly and gives
+you a warm smile.  
+~
+rabbit~
+0 0
+ABFTe 49408 64 128 0 -1  -1000 0
+210 230 20000d1+9999 0d0+0 10d1+200 wrath
+-95 -95 -95 -75
+CDEFHK ADEQ 0 0
+stand stand none 20000
+AGV ACDEFHJK medium unknown
+#10139
+Scorpion~
+`#S`3co`#rp`3io`#n`7~
+`#S`3co`#rp`3io`#n `7is here, trying to do that hella cheap move, Back+Back+B.
+~
+~
+unique~
+0 0
+ABFTe 336 34880 0 0 -1  0 0
+250 300 44000d1+1000 20000d1+1000 10d1+270 wrath
+-100 -100 -100 -100
+CFHK 0 ABCDHIJKLQ 0
+stand stand none 0
+0 0 medium unknown
+#10140
+liu kang~
+`8L`1iu `8K`1ang`7~
+`8L`1iu `8K`1ang `7is here, saying "Hoi ha hi hey hoi ha he he ho" while doing a bicycle kick.
+~
+~
+unique~
+0 0
+ABFTe 49488 0 0 0 -1  0 0
+200 350 44000d1+1000 1000d1+100 10d1+350 punch
+-200 -200 -200 -200
+CEFHK D CHIJK 0
+stand stand male  0
+0 0 medium unknown
+M HPCNT 10134 100~
+#10141
+Shang Tsung~
+`8S`&h`7a`&n`8g T`&s`7u`&n`8g`7~
+`8S`&h`7a`&n`8g T`&s`7u`&n`8g `7is here, morphing into some of you.
+~
+~
+unique~
+0 0
+ABTe 49488 0 0 0 -1  0 0
+200 350 49000d1+1000 1000d1+100 10d1+350 thrust
+-200 -200 -200 -200
+CEFHK D CHIJK 0
+stand stand male  0
+0 0 medium unknown
+#10142
+embodiment existence~
+the `!Embodiment `7of `8Existence`7~
+The `!Embodiment `7of `8Existence `7is here.
+~
+~
+unique~
+0 0
+ABFTe 49488 64 0 32768 -1  0 0
+700 700 59000d1+1000 19000d1+5000 10d1+500 punch
+-200 -200 -200 -200
+CEFHK 0 CHIJK 0
+stand stand male  0
+0 0 medium unknown
+#10143
+Baraka~
+`&B`7a`&ra`7k`&a`7~
+`&B`7a`&ra`7k`&a `7stands here, attempting to cut you.
+~
+~
+tear~
+0 0
+ABFTe 336 0 128 0 -1  0 0
+350 350 39000d1+1000 25000d1+1000 10d1+270 slice
+-100 -100 -100 -100
+CEFHK 0 CDHIJKQ 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#10144
+smoke~
+`8S`&m`7o`&k`8e`7~
+`8S`&m`7o`&k`8e`7 is here, peeking out from behind the trees.
+~
+~
+unique~
+0 0
+ABFTe 49488 0 0 0 -1  0 0
+200 350 44000d1+1000 1000d1+100 10d1+350 flame
+-200 -200 -200 -200
+CEFHK D CHIJK 0
+stand stand male  0
+0 0 medium unknown
+#10145
+jumanji~
+A vicious beast of Jumanji~
+A vicious beast of Jumanji is here.
+~
+~
+cat~
+0 0
+ABGTZe 0 0 0 0 -1  2000 0
+90 90 1000d1+400 0d0+0 10d1+70 scratch
+-20 -20 -20 -20
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQUV medium unknown
+#10146
+cloud boy darkness parabol~
+Parabol~
+A cloud of darkness swirls into the shape of a child.
+~
+The cloud of darkness embodies a small child, innocent to the eye.  He is
+oddly out of place with his surroundings, as a small child couldn't be the
+one who litters the room with bones..  He smiles slightly, and says hello.  
+~
+unique~
+0 0
+ABTZe 256 2112 128 0 -1  0 0
+150 40 3000d1+400 0d0+0 10d1+30 drain
+-15 -15 -15 -15
+CDFHK 0 0 0
+stand stand male  100000
+0 0 medium unknown
+#10147
+maxim dark essence~
+the Dark Essence of Maxim~
+A dark essence fills the room, swallowing darkness itself into nothingness.
+~
+The essence of Maxim twists and molds within itself.  Faces of those
+condemned to eternal suffering moan as they try to escape their entrapment
+within Maxim.  Maxim turns within itself and sends chills down your spine.  
+~
+unique~
+0 0
+ABTe 1360 2112 128 0 -1  -1000 0
+150 100 20000d1+7000 0d0+0 20d1+100 suction
+-67 -67 -67 -67
+CDFHK C D 0
+stand stand none 1000000
+0 0 medium unknown
+#10148
+old withered man~
+an Old Withered Man~
+An old man is here, mumbling to himself about wealth.
+~
+The old man looks pale and withered.  His long, bony fingers shake when
+he extends them out every once in a while.  His age has left him blind, but
+capable of sensing anything around him for some odd reason.  He utters words
+that you cannot understand.
+~
+unique~
+0 0
+ABa 256 0 0 0 -1  1000 0
+200 150 20000d1+5000 0d0+0 10d1+140 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  1000000
+0 0 medium unknown
+M GRALL 10148 100~
+M SPEECH 10149 yes~
+M SPEECH 10150 no~
+#10149
+old withered man~
+an Old Withered Man~
+An old man is here, mumbling to himself about wealth.
+~
+The old man looks pale and withered.  His long, bony fingers shake when
+he extends them out every once in a while.  His age has left him blind, but
+capable of sensing anything around him for some odd reason.  He utters words
+that you cannot understand.
+~
+unique~
+0 0
+ABa 256 0 0 0 -1  1000 0
+200 150 20000d1+5000 0d0+0 10d1+140 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  1000000
+0 0 medium unknown
+M SPEECH 10151 1~
+#10325
+Justin~
+Justin~
+A man is resting here on the beach.
+~
+~
+kandor~
+0 0
+ABCTWZ 49232 1104 1 0 -1  0 0
+110 800 3000d5+1000 0d0+0 3d300+100 grep
+-100 -100 -100 -100
+EFHKN AB CD 0
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 10325 dark~
+M SPEECH 10326 no~
+M SPEECH 10327 yes~
+#0
+
+
+
+#OBJECTS
+#10101
+falme guard helm~
+a Falme Guard's Helm~
+A helm belonging to a Falme Guard is here.~
+unknown~
+armor AB AE
+0
+F F F ABCDE 0
+97 50 1000 P
+A
+18 8
+A
+19 8
+A
+13 20
+A
+20 -5
+A
+14 4
+ T 0 none~
+#10102
+herb restore health~
+an herb of restore health~
+A green herb lies here.~
+unknown~
+pill TY A
+0
+70 'bless' 'reserved' 'heal' 'reserved'
+50 0 5000 P
+ T 0 none~
+#10103
+herb cure poison~
+an herb of cure poison~
+A brown herb lies here.~
+unknown~
+pill TY A
+0
+80 'cure poison' 'cure poison' '' ''
+50 0 1500 P
+ T 0 none~
+#10104
+falme guard leggings~
+a Falme Guard's Leggings~
+A pair of leggings belonging to a Falme Guard.~
+unknown~
+armor AB AF
+0
+F F F ABCDE 0
+97 50 1000 P
+A
+13 30
+A
+20 -5
+A
+18 7
+A
+19 7
+A
+14 2
+ T 0 none~
+#10105
+A Nightgown~
+a nightgown~
+A nightgown is crumpled up here.~
+unknown~
+armor AB AD
+0
+ACDE ACDE ACDE CDE 0
+85 50 1000 P
+A
+20 -3
+A
+13 40
+A
+19 6
+A
+18 6
+ T 0 none~
+#10106
+herb cure disease~
+an herb of cure disease~
+A yellowish herb is here.~
+unknown~
+pill TY A
+0
+90 'cure disease' 'cure disease' 'reserved' 'reserved'
+50 0 1500 P
+ T 0 none~
+#10107
+bottle red wine~
+a bottle of red wine~
+A bottle of red wine here.~
+unknown~
+drink 0 A
+0
+3 3 'red wine' 0 0
+50 0 1000 P
+ T 0 none~
+#10108
+bottle white wine~
+a bottle of white wine~
+A bottle of white wine is here.~
+unknown~
+drink 0 A
+0
+3 3 'white wine' 0 0
+50 0 1000 P
+ T 0 none~
+#10109
+empty beer bottle~
+an empty beer bottle~
+An empty beer bottle is here.~
+unknown~
+weapon AB AN
+0
+mace 9 13 pierce D
+85 20 1000 P
+A
+13 20
+A
+13 10
+A
+19 8
+A
+18 8
+ T 0 none~
+#10110
+two rivers tobacco~
+`7Two River's tobacco~
+Very fine tobac from Two Rivers is here.~
+unknown~
+pill T A
+0
+70 'slow' 'cure disease' 'heal' 'reserved'
+50 0 1500 P
+ T 0 none~
+#10111
+falme guard arm-plates~
+a Falme Guard's Arm-Plates~
+Some Falme Guard arm-plates are here.~
+unknown~
+armor AB AI
+0
+F F F ABCDE 0
+97 20 1000 P
+A
+20 -5
+A
+12 10
+A
+13 20
+A
+18 7
+A
+19 7
+A
+14 4
+ T 0 none~
+#10112
+small locket~
+a small locket~
+A small locket is here.~
+unknown~
+armor AB AC
+0
+ACDE ACDE ACDE CDE 0
+85 20 1000 P
+A
+18 4
+A
+19 4
+A
+13 30
+A
+12 20
+A
+20 -5
+ T 0 none~
+#10113
+an ivory cane~
+an Old Man's cane~
+A thin, ivory cane is laying here.~
+unknown~
+armor AB AO
+0
+ACDE ACDE ACDE CDE 0
+85 100 1000 P
+A
+18 6
+A
+19 6
+A
+13 10
+A
+12 30
+A
+20 -3
+ T 0 none~
+#10114
+red ruby~
+a red ruby~
+A shiny, red ruby is here.~
+unknown~
+gem 0 A
+0
+0 0 0 0 0
+50 100 5000 P
+ T 0 none~
+#10115
+sparkling diamond~
+a Sparkling Diamond~
+A diamond is laying here, sparkling and catching your eye.~
+unknown~
+gem 0 A
+0
+0 0 0 0 0
+50 200 7000 P
+ T 0 none~
+#10116
+eternal flame torch~
+a Torch of Eternal Flame~
+A torch is here, continuously burning.~
+unknown~
+light AB A
+0
+0 0 ACDEHIJKLMNOPQRSTUVWXYZabcdef 0 0
+40 50 2000 P
+A
+18 3
+A
+19 3
+ T 0 none~
+#10117
+fresh bread~
+fresh bread~
+A loaf of fresh bread is here.~
+unknown~
+pill 0 A
+0
+70 'heal' 'reserved' 'bless' 'reserved'
+50 20 8000 P
+ T 0 none~
+#10118
+small pouch~
+a small pouch~
+A small, thin pouch has been carelessly left here.~
+unknown~
+container 0 AL
+0
+1 AE 0 100 1
+50 30 1000 P
+ T 0 none~
+#10119
+rare emerald~
+a rare emerald~
+A small emerald is here that seems to look very unfamiliar.~
+unknown~
+gem 0 A
+0
+0 0 0 0 0
+20 50 5000 P
+ T 0 none~
+#10120
+white apron~
+a white apron~
+A small white apron is here, looking used.~
+unknown~
+armor AB AL
+0
+BF BF BF BF 0
+110 200 1000 P
+A
+12 10
+A
+13 50
+A
+18 5
+A
+19 5
+A
+20 -6
+ T 0 none~
+#10121
+small sapphire ring~
+a small sapphire ring~
+A small, sapphire ring shimmers on the floor.~
+unknown~
+armor AB AB
+0
+ABF ABF ABF ABF 0
+110 20 1000 P
+A
+20 -1
+A
+13 75
+A
+19 6
+A
+18 6
+ T 0 none~
+#10122
+momma combat boots~
+a pair of combat boots~
+A pair of momma's combat boots are here.~
+unknown~
+armor AB AG
+0
+ABF ABF ABF ABF 0
+110 20 1000 P
+A
+13 40
+A
+20 -5
+A
+19 9
+A
+18 9
+ T 0 none~
+#10123
+blue flame~
+a blue flame~
+A flame burns here, lighting the room in a blue color.~
+unknown~
+light AB A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+95 150 1000 P
+A
+20 -7
+A
+18 7
+A
+19 7
+A
+13 10
+A
+12 10
+ T 0 none~
+#10124
+fine carpet~
+a fine carpet~
+Fine carpet is extended for those who wish to lay here.~
+unknown~
+furniture T A
+0
+A CFG EHK ADFG ADFG
+50 250 20000 P
+ T 0 none~
+#10125
+wise advice~
+wise advice~
+Some advice from the Wise Woman is here.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+20 0 1 P
+ T 0 none~
+#10126
+antique oil lamp~
+an antique oil lamp~
+An antique oil lamp is here.~
+unknown~
+light 0 A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 40 400 P
+A
+18 2
+A
+19 2
+A
+13 5
+A
+12 5
+ T 0 none~
+#10127
+undergarments~
+undergarments~
+Some undergarments that can't be worn are here.. teeheehee.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+20 40 400 P
+ T 0 none~
+#10128
+circular stone rise~
+a stone circular rise~
+The ground rises a bit in a perfect circle, with weird symbols inscribed on it.~
+unknown~
+furniture AT P
+0
+C DFGHIJ EHK BCEH BCEH
+10 1000 1000 P
+ T 0 none~
+#10129
+wool mittens~
+a pair of wool mittens~
+Some mittens have been left here and they look comfortable.~
+unknown~
+armor AB AH
+0
+ABF ABF ABF ABF 0
+110 50 1000 P
+A
+13 40
+A
+19 5
+A
+18 5
+A
+20 -10
+ T 0 none~
+#10130
+wooden spatula~
+a wooden spatula~
+A wooden spatula is here, not being used.~
+unknown~
+armor AB AO
+0
+ABF ABF ABF ABF 0
+110 50 100 P
+A
+18 8
+A
+19 8
+A
+13 50
+A
+20 -5
+ T 0 none~
+#10131
+iron pan~
+an Iron Pan~
+An iron pan has been left here.~
+unknown~
+weapon AB AN
+0
+mace 75 1 thwack CDG
+110 250 1000 P
+A
+13 5
+A
+20 -5
+A
+18 8
+A
+19 8
+A
+12 18
+ T 0 none~
+#10132
+rusty infantile shield~
+a rusty Infantile Shield~
+A shield is laying here, looking a bit rusty but who cares.~
+unknown~
+armor AB AJ
+0
+ABF ABF ABF ABF 0
+110 250 100 P
+A
+13 50
+A
+18 4
+A
+19 4
+A
+20 -8
+A
+12 10
+ T 0 none~
+#10133
+stone key~
+a stone key~
+A stone key is here, magically glowing.~
+unknown~
+key T A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#10134
+master key~
+a master key~
+The master key is here.~
+unknown~
+key T A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#10135
+blue vase~
+a blue vase~
+A blue vase is here on the table.~
+unknown~
+container T 0
+0
+20 0 0 200 20
+0 0 0 P
+ T 0 none~
+#10136
+saron infantile dagger~
+an Infantile Dagger~
+A sword lies here and you can swear you hear it giggling.~
+unknown~
+weapon AB AN
+0
+dagger 75 1 stab ACE
+110 80 1000 P
+A
+13 25
+A
+19 10
+A
+18 10
+ T 0 none~
+#10137
+sceptre domination~
+the Sceptre of Domination~
+A sceptre is here, giving off radiant light.~
+unknown~
+light AB A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 100 1000 P
+A
+13 30
+A
+19 8
+A
+18 8
+A
+20 -6
+ T 0 none~
+#10138
+intricate key~
+an Intricate Key~
+A weird looking key is here.~
+unknown~
+key 0 A
+0
+0 0 0 0 0
+0 10 0 P
+ T 0 none~
+#10139
+studded collar~
+a Studded Collar~
+A weird, studded collar lays here.~
+unknown~
+armor ABJL AC
+0
+ABF ABF ABF ABF 0
+110 100 1000 P
+A
+13 15
+A
+18 8
+A
+19 8
+A
+12 10
+A
+20 -8
+A
+17 -6
+ T 0 none~
+#10140
+war-hammer light~
+`7War-Hammer of Light~
+A huge hammer is here, glowing with intense energy.~
+unknown~
+weapon EJLM AN
+0
+mace 75 1 pierce CDG
+110 200 1000 P
+A
+18 10
+A
+19 10
+A
+12 10
+A
+13 33
+ T 0 none~
+#10141
+studded wrist plate~
+`7Studded Wrist Plate~
+A studded wrist plate is here.~
+unknown~
+armor AEJL AM
+0
+ABF ABF ABF ABF 0
+110 50 1000 P
+A
+18 7
+A
+19 7
+A
+20 -10
+A
+13 35
+ T 0 none~
+#10142
+ring burning darkness~
+a Ring of Burning Darkness~
+A strange ring is here, burning but not giving off light.~
+unknown~
+armor AB AB
+0
+ABF ABF ABF ABF 0
+110 50 1000 P
+A
+20 -2
+A
+13 40
+A
+19 8
+A
+18 8
+ T 0 none~
+#10143
+cloak burning darkness~
+a Cloak of Burning Darkness~
+A burning cloak is here, glowing of eerie darkness.~
+unknown~
+armor AEJL AD
+0
+ABF ABF ABF ABF 0
+110 100 1000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 5
+ T 0 none~
+#10144
+orb screaming souls~
+an Orb of Screaming Souls~
+An orb floats here, giving off an audible sound of tortured screaming.~
+unknown~
+armor ABJ AQ
+0
+ABF ABF ABF ABF 0
+110 200 1000 P
+A
+18 9
+A
+19 9
+A
+13 15
+A
+20 -8
+ T 0 none~
+#10145
+silver tipped arrow~
+a silver tipped arrow~
+A sharp arrow with a silver tip, is here.~
+unknown~
+arrow 0 AO
+0
+0 15 9 0 CEGH
+110 100 5000 P
+A
+19 10
+A
+18 10
+ T 0 none~
+#10146
+bow darkness~
+a Bow of Darkness~
+A bow lays here, glowing evilly.~
+unknown~
+weapon JL AN
+0
+bow 75 1 crush CEG
+110 200 1000 P
+A
+13 30
+A
+18 8
+A
+19 8
+A
+20 -4
+A
+12 8
+ T 0 none~
+#10147
+quiver light~
+a Quiver of Light~
+A quiver is here, sparking and sending bits of energy around the area.~
+unknown~
+quiver JL AS
+0
+100 250 0 10145 0
+110 150 4000 P
+A
+12 5
+A
+13 50
+A
+18 8
+A
+19 8
+A
+20 -4
+ T 0 none~
+#10148
+cloud flask darkness~
+a flask clouded with darkness~
+A weird essence is lurking here.~
+unknown~
+potion Ta A
+0
+73 'heal' 'heal' 'refresh' 'reserved'
+75 50 10000 P
+ T 0 none~
+#10149
+vast cloud darkness~
+a vast cloud of darkness~
+Vast clouds of darkness take a swirling form here.~
+hearstone~
+window T 0
+0
+BCEHLN 0 0 0 0
+0 0 0 P
+ T 0 none~
+#10150
+gnarled wooden staff~
+a Gnarled Wooden Staff~
+A gnarled piece of wood is here, with faint, dark mist spiraling around it.~
+unknown~
+weapon ALS AN
+0
+staff 75 1 suction CDE
+110 200 100000 P
+A
+13 10
+A
+18 8
+A
+19 8
+A
+20 -8
+ T 0 none~
+#10151
+ancient chest~
+an ancient chest~
+An ancient chest with rusty hinges sits here.~
+unknown~
+container 0 0
+0
+200 AC 0 300 100
+0 2000 100000 P
+ T 0 none~
+#10152
+pile silver coins~
+a pile of silver coins~
+A pile of silver coins are here.~
+gold~
+money 0 A
+0
+ABCEFHI 0 0 0 0
+0 500 1000 P
+ T 0 none~
+#10153
+scroll curse object~
+a scroll of curse object~
+A scroll of curse is here.~
+unknown~
+scroll Ta A
+0
+110 'curse object' 'curse object' 'iron grip' 'reserved'
+75 20 50000 P
+ T 0 none~
+#10154
+falme guard belt~
+a Falme Guard's Belt~
+A belt is here.~
+unknown~
+armor AB AL
+0
+F F F ABCDE 0
+97 100 1000 P
+A
+13 25
+A
+20 -5
+A
+18 7
+A
+19 7
+A
+12 5
+A
+14 4
+ T 0 none~
+#10155
+falme signet ring~
+a Falme Signet ring~
+A weird looking ring has been left here.~
+unknown~
+armor AB AB
+0
+F F F ABCDE 0
+97 50 1000 P
+A
+18 7
+A
+19 7
+A
+20 -5
+A
+13 30
+A
+14 4
+ T 0 none~
+#10156
+falme pendant honesty~
+a Falme Pendant of Honesty~
+A shiny pendant has been left here.~
+unknown~
+armor AB AC
+0
+F F F ABCDE 0
+97 50 1000 P
+A
+18 7
+A
+19 7
+A
+20 -5
+A
+13 30
+A
+14 4
+ T 0 none~
+#10157
+bracer lined silver~
+a Bracer Lined with Silver~
+A silver bracer is here.~
+unknown~
+armor AB AM
+0
+F F F ABCDE 0
+97 100 1000 P
+A
+18 7
+A
+19 7
+A
+13 30
+A
+20 -5
+A
+12 2
+ T 0 none~
+#10158
+radiant banner light~
+a Radiant Banner of Light~
+A banner is here, giving off a bright glow.~
+unknown~
+light AB A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+97 50 1000 P
+A
+17 -20
+A
+18 6
+A
+19 6
+A
+13 30
+A
+14 14
+ T 0 none~
+#10159
+falme guard boots~
+a pair of Falme Guard Boots~
+Some nice boots have been left here.~
+unknown~
+armor AB AG
+0
+F F F ABCDE 0
+97 100 1000 P
+A
+18 6
+A
+19 6
+A
+13 30
+A
+20 -5
+A
+12 10
+A
+14 4
+ T 0 none~
+#10160
+pair gauntlets silver~
+a pair of Silver Gauntlets~
+A pair of silver gauntlets have been left here.~
+unknown~
+armor AB AH
+0
+F F F ABCDE 0
+97 150 1000 P
+A
+18 7
+A
+19 7
+A
+13 25
+A
+20 -5
+A
+12 5
+A
+14 4
+ T 0 none~
+#10161
+medallion faith~
+a Medallion of Faith~
+A strange medallion is here.~
+unknown~
+armor AB AO
+0
+F F F ABCDE 0
+97 100 1000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 20
+A
+14 4
+ T 0 none~
+#10162
+fine cloak bearing silver~
+a Fine Cloak bearing Silver lining~
+A cloak is here.~
+unknown~
+armor AB AK
+0
+F F F ABCDE 0
+97 50 1000 P
+A
+18 8
+A
+19 8
+A
+13 35
+A
+20 -2
+A
+14 4
+ T 0 none~
+#10163
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#10164
+silver chain mail~
+`7Silver Chain Mail~
+A one size fits all chain mail is here.~
+unknown~
+armor AB AD
+0
+F F F ABCDE 0
+97 100 1000 P
+A
+14 4
+A
+12 5
+A
+13 25
+A
+20 -5
+A
+19 7
+A
+18 7
+ T 0 none~
+#10165
+aura bravery~
+an Aura of Bravery~
+A weird aura floats here.~
+unknown~
+armor AB AQ
+0
+F F F ABCDE 0
+97 100 1000 P
+A
+18 8
+A
+19 8
+A
+13 20
+A
+20 -5
+A
+14 4
+ T 0 none~
+#10166
+dagger omen~
+a Dagger of Omens~
+A fine looking dagger has been left here.~
+Steal~
+weapon L AN
+0
+dagger 66 1 stab ACD
+97 100 1000 P
+A
+13 25
+A
+20 -3
+A
+19 8
+A
+18 8
+ T 0 none~
+#10167
+snake headed whip~
+a Snaked Headed Whip~
+A metal whip is here.~
+iron~
+weapon AB AN
+0
+whip 75 1 sting AC
+110 100 1000 P
+A
+13 7
+A
+19 10
+A
+18 10
+A
+20 -5
+ T 0 none~
+#10168
+dead skull~
+a skull of the dead~
+A skull is here.~
+unknown~
+armor MPT AE
+0
+ADE ADE ADE ADE 0
+75 100 1000 P
+A
+14 -1000
+A
+13 -5000
+A
+12 -3000
+ T 0 none~
+#10169
+potion divine power~
+a potion of divine power~
+A weird potion is here.~
+unknown~
+potion 0 A
+0
+75 'giant strength' 'bless' 'reserved' 'reserved'
+75 10 1000 P
+ T 0 none~
+#10325
+potion of faith~
+potion of faith~
+A glass vile with an unsual glow to it rests here.~
+glass~
+potion ABGa A
+0
+10 'heal' 'word of recall' 'reserved' 'reserved'
+10 0 0 P
+ T 0 none~
+#10326
+dark~
+a dark scroll~
+A dark scroll written in a language you do not understand.~
+paper~
+trash 0 A
+0
+0 0 0 0 0
+1 10 1 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#10240
+An Antique Shop~
+There seems to be no one here, but you catch a glimpse of a small old
+lady behind the counter.  The room is very dim and full of dust.  Antiques
+line the shelves and stand alone in the corners of the room.  Small cobwebs
+hand from the ceiling.  
+~
+0 0 0
+D2
+~
+~
+0 0 10235
+S
+#10241
+The Wise Woman~
+The Wise Woman roams around the room searching for something.  She's
+eager to help those in need, especially the women.  She looks up at you and
+quickly turns her attention to doing what she was doing, nothing.  The room
+smells of roses and perfume.  
+~
+0 0 0
+D0
+~
+~
+0 0 10235
+S
+#10242
+The Wise Man~
+A wise man sits here meditating, but eager to help those in need.  The
+room smells of incents and beautiful flowers.  Along this man's shelves are
+small artifacts which he probably uses.  The Wise Man glances at you and
+nods, then goes back to what he was doing.  
+~
+0 0 0
+D2
+~
+~
+0 0 10228
+S
+#10243
+A Carpet Shop~
+The room is filled with lots of colorful carpets.  Each has their own
+intricate design left by their maker.  Few people walk in and out,
+purchasing these great carpets.  The store clerk looks up and smiles
+happily, looking eager to help you find what you are searching for.  
+~
+0 4194304 0
+D0
+~
+~
+1 0 10228
+S
+#10244
+A Garment Store~
+Clothes line racks in this room.  The clerk looks up and peers at you. 
+She doesn't seem to look happy.  
+~
+0 0 0
+D2
+~
+~
+0 0 10230
+S
+#10245
+The Drunk's Tavern~
+The room permiates of alcohol.  Tables are scattered around, with empty
+beer mugs on them.  Aleya the bartender smiles at you and asks you what you
+want.  
+~
+0 0 0
+D0
+~
+~
+0 0 10230
+S
+#10246
+Market Road~
+The road is filled with many types of people.  Some are obvious citizens
+from Falme and others are travelers such as you.  Small shops line the
+streets with sellers ready to profit from anything they find within their
+wagons.  This place is alive with joy.  
+~
+0 0 0
+D1
+~
+~
+0 0 10247
+D3
+~
+~
+0 0 10138
+S
+#10247
+Market Road~
+The road is filled with many types of people.  Some are obvious citizens
+from Falme and others are travelers such as you.  Small shops line the
+streets with sellers ready to profit from anything they find within their
+wagons.  This place is alive with joy.  
+~
+0 0 0
+D1
+~
+~
+0 0 10248
+D3
+~
+~
+0 0 10246
+S
+#10248
+Market Road~
+The road is filled with many types of people.  Some are obvious citizens
+from Falme and others are travelers such as you.  Small shops line the
+streets with sellers ready to profit from anything they find within their
+wagons.  This place is alive with joy.  
+~
+0 0 0
+D1
+~
+~
+0 0 10249
+D3
+~
+~
+0 0 10247
+S
+#10249
+Market Road~
+The road is filled with many types of people.  Some are obvious citizens
+from Falme and others are travelers such as you.  Small shops line the
+streets with sellers ready to profit from anything they find within their
+wagons.  This place is alive with joy.  
+~
+0 0 0
+D1
+~
+~
+0 0 10250
+D3
+~
+~
+0 0 10248
+S
+#10250
+Market Road~
+The road is filled with many types of people.  Some are obvious citizens
+from Falme and others are travelers such as you.  Small shops line the
+streets with sellers ready to profit from anything they find within their
+wagons.  This place is alive with joy.  
+~
+0 0 0
+D0
+~
+~
+0 0 10355
+D1
+~
+~
+0 0 10163
+D2
+~
+~
+0 0 10195
+D3
+~
+~
+0 0 10249
+S
+#10251
+Market Road~
+The road is filled with many types of people.  Some are obvious citizens
+from Falme and others are travelers such as you.  Small shops line the
+streets with sellers ready to profit from anything they find within their
+wagons.  This place is alive with joy.  
+~
+0 0 0
+D1
+~
+~
+0 0 10138
+D3
+~
+~
+0 0 10252
+S
+#10252
+Market Road~
+The road is filled with many types of people.  Some are obvious citizens
+from Falme and others are travelers such as you.  Small shops line the
+streets with sellers ready to profit from anything they find within their
+wagons.  This place is alive with joy.  
+~
+0 0 0
+D1
+~
+~
+0 0 10251
+D3
+~
+~
+0 0 10253
+S
+#10253
+Market Road~
+The road is filled with many types of people.  Some are obvious citizens
+from Falme and others are travelers such as you.  Small shops line the
+streets with sellers ready to profit from anything they find within their
+wagons.  This place is alive with joy.  
+~
+0 0 0
+D1
+~
+~
+0 0 10252
+D3
+~
+~
+0 0 10254
+S
+#10254
+Market Road~
+The road is filled with many types of people.  Some are obvious citizens
+from Falme and others are travelers such as you.  Small shops line the
+streets with sellers ready to profit from anything they find within their
+wagons.  This place is alive with joy.  
+~
+0 0 0
+D1
+~
+~
+0 0 10253
+D3
+~
+~
+0 0 10255
+S
+#10255
+Market Road~
+The road is filled with many types of people.  Some are obvious citizens
+from Falme and others are travelers such as you.  Small shops line the
+streets with sellers ready to profit from anything they find within their
+wagons.  This place is alive with joy.  
+~
+0 0 0
+D1
+~
+~
+0 0 10254
+D3
+~
+~
+0 0 10204
+S
+#10256
+Path around the Walls of Falme~
+The path is a bit narrow and rugged.  Small vines line the outter wall of
+Falme.  On your other side, tiny shrubs are just now growing from the damp
+soil.  The path shows it's age, but it's still very used by many this day.  
+~
+0 0 0
+D1
+~
+~
+0 0 10176
+D3
+~
+~
+0 0 10257
+S
+#10257
+Path around the Walls of Falme~
+The path is a bit narrow and rugged.  Small vines line the outter wall of
+Falme.  On your other side, tiny shrubs are just now growing from the damp
+soil.  The path shows it's age, but it's still very used by many this day.  
+~
+0 0 0
+D1
+~
+~
+0 0 10256
+D3
+~
+~
+0 0 10277
+S
+#10258
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D0
+~
+~
+0 0 10259
+D2
+~
+~
+0 0 10210
+S
+#10259
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D0
+~
+~
+0 0 10260
+D2
+~
+~
+0 0 10258
+S
+#10260
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D0
+~
+~
+0 0 10261
+D2
+~
+~
+0 0 10259
+S
+#10261
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D0
+~
+~
+0 0 10277
+D2
+~
+~
+0 0 10260
+S
+#10262
+A Dirt Road~
+The road is filled with dirt.  Wagon prints can be seen within them. 
+Small trees on either side of the road lean inward, creating somewhat of an
+arch.  
+~
+0 0 0
+D0
+~
+~
+0 0 10212
+D2
+~
+~
+0 0 10263
+S
+#10263
+A Dirt Road~
+The road is filled with dirt.  Wagon prints can be seen within them. 
+Small trees on either side of the road lean inward, creating somewhat of an
+arch.  
+~
+0 0 0
+D0
+~
+~
+0 0 10262
+D2
+~
+~
+0 0 10264
+S
+#10264
+Farmer's Avenue~
+You look around and notice there are several farm houses.  Before your
+eyes unfolds a field of crops.  This must be the Farmer's Avenue.  To your
+east and west are two houses, but they look empty.  
+~
+0 0 0
+D0
+~
+~
+0 0 10263
+D1
+~
+~
+0 0 10265
+D2
+~
+~
+0 0 10272
+D3
+~
+~
+0 0 10266
+S
+#10265
+A Farm Field~
+This part of the field looks a bit unused.  They dry cracked ground seems
+like it wouldn't allow crops to grow.  Small holes are all over the place.  
+~
+0 0 0
+D1
+~
+~
+0 0 10276
+D2
+~
+~
+0 0 10267
+D3
+~
+~
+0 0 10264
+S
+#10266
+A Farm Field~
+This part of the field looks a bit unused.  They dry cracked ground seems
+like it wouldn't allow crops to grow.  Small holes are all over the place.  
+~
+0 0 0
+D1
+~
+~
+0 0 10264
+D2
+~
+~
+0 0 10271
+D3
+~
+~
+0 0 10275
+S
+#10267
+A Farm Field~
+The field is a bit dry, but crops are still flourishing in it for some
+odd reason.  Tall pitch forks stand stuck into the ground, left by their
+owners.  Rows of different crops turn the dull earth into a colorful
+scenery.  
+~
+0 0 0
+D0
+~
+~
+0 0 10265
+D2
+~
+~
+0 0 10268
+D3
+~
+~
+0 0 10272
+S
+#10268
+A Farm Field~
+The field is a bit dry, but crops are still flourishing in it for some
+odd reason.  Tall pitch forks stand stuck into the ground, left by their
+owners.  Rows of different crops turn the dull earth into a colorful
+scenery.  
+~
+0 0 0
+D0
+~
+~
+0 0 10267
+D1
+~
+~
+0 0 10273
+D3
+~
+~
+0 0 10269
+S
+#10269
+A Farm Field~
+The field is a bit dry, but crops are still flourishing in it for some
+odd reason.  Tall pitch forks stand stuck into the ground, left by their
+owners.  Rows of different crops turn the dull earth into a colorful
+scenery.  
+~
+0 0 0
+D0
+~
+~
+0 0 10272
+D1
+~
+~
+0 0 10268
+D2
+~
+~
+0 0 10326
+D3
+~
+~
+0 0 10270
+S
+#10270
+A Farm Field~
+The field is a bit dry, but crops are still flourishing in it for some
+odd reason.  Tall pitch forks stand stuck into the ground, left by their
+owners.  Rows of different crops turn the dull earth into a colorful
+scenery.  
+~
+0 0 0
+D0
+~
+~
+0 0 10271
+D1
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10274
+S
+#10271
+A Farm Field~
+The field is a bit dry, but crops are still flourishing in it for some
+odd reason.  Tall pitch forks stand stuck into the ground, left by their
+owners.  Rows of different crops turn the dull earth into a colorful
+scenery.  
+~
+0 0 0
+D0
+~
+~
+0 0 10266
+D1
+~
+~
+0 0 10272
+D2
+~
+~
+0 0 10270
+S
+#10272
+A Farm Field~
+The field is a bit dry, but crops are still flourishing in it for some
+odd reason.  Tall pitch forks stand stuck into the ground, left by their
+owners.  Rows of different crops turn the dull earth into a colorful
+scenery.  
+~
+0 0 0
+D0
+~
+~
+0 0 10264
+D1
+~
+~
+0 0 10267
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10271
+S
+#10273
+A Farmhouse~
+The house is humid and smells almost like a farm.  A table sits in the
+middle of the room with a small vase in the center of it.  Plates with half
+eaten food lay in the sink.  There seems to be no one around.  
+~
+0 0 0
+D3
+~
+~
+0 0 10268
+S
+#10274
+A Farmhouse~
+The house is humid and smells almost like a farm.  A table sits in the
+middle of the room with a small vase in the center of it.  Plates with half
+eaten food lay in the sink.  There seems to be no one around.  
+~
+0 0 0
+D1
+~
+~
+0 0 10270
+S
+#10275
+A Farmhouse~
+The house is humid and smells almost like a farm.  A table sits in the
+middle of the room with a small vase in the center of it.  Plates with half
+eaten food lay in the sink.  There seems to be no one around.  
+~
+0 0 0
+D1
+~
+~
+0 0 10266
+D4
+~
+~
+3 0 10384
+S
+#10276
+A Farmhouse~
+The house is humid and smells almost like a farm.  A table sits in the
+middle of the room with a small vase in the center of it.  Plates with half
+eaten food lay in the sink.  There seems to be no one around.  
+~
+0 0 0
+D3
+~
+~
+0 0 10265
+S
+#10277
+A bend in the path~
+The narrow, rugged path makes a bend and heads south.  Small trees line
+the outside of the path.  A small bird flies over you and perches in one of
+the trees.  
+~
+0 0 0
+D0
+~
+~
+0 0 3687
+D1
+~
+~
+0 0 10257
+D2
+~
+~
+0 0 10261
+S
+#10278
+Outside the Soutern Gates of Falme~
+Few people enter and leave the gates on this side.  A single guard is
+posted here observing activity that goes on.  A few wagons enter the gate,
+being pulled by small horses.  
+~
+0 0 0
+D0
+~
+~
+1 0 10139
+D1
+~
+~
+0 0 10317
+D2
+~
+~
+0 0 37462
+D3
+~
+~
+0 0 10279
+S
+#10279
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D1
+~
+~
+0 0 10278
+D3
+~
+~
+0 0 10280
+S
+#10280
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D1
+~
+~
+0 0 10279
+D3
+~
+~
+0 0 10281
+S
+#10281
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D1
+~
+~
+0 0 10280
+D3
+~
+~
+0 0 10282
+S
+#10282
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D1
+~
+~
+0 0 10281
+D3
+~
+~
+0 0 10283
+S
+#10283
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D1
+~
+~
+0 0 10282
+D3
+~
+~
+0 0 10284
+S
+#10284
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D1
+~
+~
+0 0 10283
+D3
+~
+~
+0 0 10289
+S
+#10285
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D0
+~
+~
+0 0 10210
+D2
+~
+~
+0 0 10286
+S
+#10286
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D0
+~
+~
+0 0 10285
+D2
+~
+~
+0 0 10287
+S
+#10287
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D0
+~
+~
+0 0 10286
+D2
+~
+~
+0 0 10288
+S
+#10288
+Along the outter Walls of Falme~
+Tall trees lean towards the wall, producing a small amount of shade while
+walking on this path.  Vines grow along the walls like intricate spider
+webs.  Few patches of grass grow here and there, adding a sense of calmness
+to everything that is around.  
+~
+0 0 0
+D0
+~
+~
+0 0 10287
+D2
+~
+~
+0 0 10289
+S
+#10289
+A bend in the path~
+The narrow, rugged path makes a bend and heads east.  Small trees line
+the outside of the other side.  More vines hang from the walls and flutter
+when wind passes.  It's mostly dim, but small rays of sunlight break through
+the trees and hit the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 10288
+D1
+~
+~
+0 0 10284
+S
+#10290
+On the Eastern Wall~
+This small section on top of the wall holds only a few people at a time. 
+Many travelers come up here to get a grand view of the Aryth Ocean.  You
+look down at the water and marvel at it's beauty.  
+~
+0 0 0
+D5
+~
+~
+0 0 10162
+S
+#10291
+On the Eastern Wall~
+This small section on top of the wall holds only a few people at a time. 
+Many travelers come up here to get a grand view of the Aryth Ocean.  You
+look down at the water and marvel at it's beauty.  
+~
+0 0 0
+D5
+~
+~
+0 0 10160
+S
+#10292
+A small path~
+The small path offers little room for those traveling in numbers.  It's
+wide enough for at least two people to walk side by side.  On either side of
+the path are small bushes and sprouting trees.  The path seems a bit bumpy,
+but walkable.  
+~
+0 0 0
+D0
+~
+~
+0 0 10293
+D2
+~
+~
+0 0 10104
+S
+#10293
+At the foot of a hill~
+The small path comes to an abrubt end.  Before you is a small hill which
+no one can see the top of.  The hill isn't very steep, so walking up it
+would be a walk in the park for those weary of travel.  
+~
+0 0 0
+D2
+~
+~
+0 0 10292
+D4
+~
+~
+0 0 10294
+S
+#10294
+On a small hill~
+The top of the hill has apparently nothing, but it does have a good view
+down the hill and further north of the hill.  The ground is warm from being
+above the earth and receiving sunlight constantly.  
+~
+0 0 0
+D0
+~
+~
+0 0 10295
+D5
+~
+~
+0 0 10293
+S
+#10295
+On a small hill~
+The top of the hill has apparently nothing, but it does have a good view
+down the hill and further south of the hill.  The ground is warm from being
+above the earth and receiving sunlight constantly.  
+~
+0 0 0
+D2
+~
+~
+0 0 10294
+D5
+~
+~
+0 0 10296
+S
+#10296
+At the foot of a hill~
+The small path comes to an abrubt end.  Before you is a small hill which
+no one can see the top of.  The hill isn't very steep, so walking up it
+would be a walk in the park for those weary of travel.  
+~
+0 0 0
+D0
+~
+~
+0 0 10297
+D4
+~
+~
+0 0 10295
+S
+#10297
+A small path~
+The small path offers little room for those traveling in numbers.  It's
+wide enough for at least two people to walk side by side.  On either side of
+the path are small bushes and sprouting trees.  The path seems a bit bumpy,
+but walkable.  
+~
+0 0 0
+D0
+~
+~
+0 0 10153
+D2
+~
+~
+0 0 10296
+S
+#10298
+A worn path~
+This seems to be a worn path traveled by many.  It looks as if it's been
+here for a long time.  The grass is pressed down into the earth from all the
+weight it has indured.  
+~
+0 0 0
+D1
+~
+~
+0 0 10133
+D3
+~
+~
+0 0 10299
+S
+#10299
+A worn path~
+This seems to be a worn path traveled by many.  It looks as if it's been
+here for a long time.  The grass is pressed down into the earth from all the
+weight it has indured.  
+~
+0 0 0
+D0
+~
+~
+1 0 10300
+D1
+~
+~
+0 0 10298
+D3
+~
+~
+0 0 10353
+S
+#10300
+A small house~
+This is a tiny little house.  No one seems to live here except for your
+mom sitting in the corner in full clothing.  The stench coming from the
+other corner is unbearable and the wind seems to be blowing nice, fresh air
+through the very few windows that are in this home.  You take a second
+opinion, and leave this home.  
+~
+0 71303168 0
+D2
+~
+~
+1 0 10299
+S
+#10301
+Path to Falme~
+The path leads east to the Great City of Falme.  You look north and see a
+dense brush.  The path looks a bit worn, but still walkable.  Small horse
+prints line the entire road heading east to Falme.  Small shrubs grow on
+either side of the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 10166
+D3
+~
+~
+0 0 10302
+S
+#10302
+Path to Falme~
+The path leads east to the Great City of Falme.  You look north and see a
+dense brush.  The path looks a bit worn, but still walkable.  Small horse
+prints line the entire road heading east to Falme.  Small shrubs grow on
+either side of the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 10301
+D2
+~
+~
+0 0 10304
+S
+#10303
+A worn path~
+The worn path looks stable enough to walk on.  Small trees line both
+sides of the path, offering small amounts of shade for those weary
+travelers.  
+~
+0 0 0
+D0
+~
+~
+0 0 10343
+D1
+~
+~
+0 0 10304
+S
+#10304
+A worn path~
+The worn path looks stable enough to walk on.  Small trees line both
+sides of the path, offering small amounts of shade for those weary
+travelers.  
+~
+0 0 0
+D0
+~
+~
+0 0 10302
+D3
+~
+~
+0 0 10303
+S
+#10305
+Along the outter Walls of Falme~
+The bumpy path contains many footprints.  You realize many people have
+gone this way to get to the shore and view the grand Aryth Ocean.  Trees
+slightly lean with the cool breeze that blows.  Birds sing their songs and
+lighten up the day.  
+~
+0 0 0
+D1
+~
+~
+0 0 10306
+D3
+~
+~
+0 0 10185
+S
+#10306
+An abrubt end~
+The path fades from it's normal texture and you observe the small rocks
+that lay around.  There is little plantlife around this area.  Below are
+loose rocks that eventually lead to the shore.  You wonder if it's safe.  
+~
+0 0 0
+D3
+~
+~
+0 0 10305
+D5
+~
+~
+0 0 10309
+S
+#10307
+A Tobacco Store~
+The room permiates of tobacco smoke.  Clouds of smoke linger about.  A
+shopkeeper is here urging you to buy some.  
+~
+0 0 0
+D0
+~
+~
+0 0 10120
+S
+#10308
+A Pipe Shop~
+Smoke fills the air and your lungs with the sweet scent of fine tobacco. 
+Smoking pipes line the shelves in many varieties.  You realize that they are
+placed in order by size.  Small pipes fill the front of the room and
+continue to grow larger as you walk further down the room.  The air attracts
+many that wish to relax themselves with a simple smoke.  
+~
+0 0 0
+D0
+~
+~
+0 0 10127
+S
+#10309
+A steep hillside~
+The land inclines downwards at a steep angle.  You practically have to
+lean back and skid down slowly.  Leaning forward would only mean a few
+seconds of painful tumbling.  You see the Aryth Ocean just below and head
+for it.  
+~
+0 0 0
+D4
+~
+~
+0 0 10306
+D5
+~
+~
+0 0 10310
+S
+#10310
+Loose rocks~
+Loose rocks fill the side of the small incline.  With every step you
+take, rocks wiggle about and loosen more.  You wonder if this is such a good
+idea, but the shore looks so fascinating.  
+~
+0 0 0
+D4
+~
+~
+0 0 10309
+D5
+~
+~
+0 0 10311
+S
+#10311
+Loose rocks~
+Loose rocks fill the side of the small incline.  With every step you
+take, rocks wiggle about and loosen more.  You wonder if this is such a good
+idea, but the shore looks so fascinating.  
+~
+0 0 0
+D0
+~
+~
+0 0 10312
+D2
+~
+~
+0 0 10314
+D4
+~
+~
+0 0 10310
+S
+#10312
+A rough shore~
+The sand underneath you feels soft.  Seagulls fly in the skies looking
+down at you.  You hear the waves crashing onto small rocks that are in the
+ocean.  Waves roll onto the shore and soak your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 10313
+D2
+~
+~
+0 0 10311
+S
+#10313
+Near rough waters~
+The tides roll high and hit the side of the cliffs.  Small drops of water
+splash onto you.  A couple of fish flaot on the water, lifeless.  It seems
+dangerous here with the tides growing higher and higher.  It might be safe
+if you turned back.  
+~
+0 0 0
+D2
+~
+~
+0 0 10312
+S
+#10314
+A rough shore~
+The sand underneath you feels soft.  Seagulls fly in the skies looking
+down at you.  You hear the waves crashing onto small rocks that are in the
+ocean.  Waves roll onto the shore and soak your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 10311
+D2
+~
+~
+0 0 10315
+S
+#10315
+A rough shore~
+The sand underneath you feels soft.  Seagulls fly in the skies looking
+down at you.  You hear the waves crashing onto small rocks that are in the
+ocean.  Waves roll onto the shore and soak your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 10314
+D2
+~
+~
+0 0 10316
+S
+#10316
+A rough shore~
+The sand underneath you feels soft.  Seagulls fly in the skies looking
+down at you.  You hear the waves crashing onto small rocks that are in the
+ocean.  Waves roll onto the shore and soak your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 10315
+D2
+~
+~
+0 0 10327
+S
+#10317
+Along the outter Walls of Falme~
+Small ants crawl in a line, heading up the wall of Falme.  The grass on
+the side of the path sways with the wind.  Leaves fall as the birds dart out
+of the trees in great speed.  Vines climb the walls offering a natural
+ladder for other insects to utilize.  
+~
+0 0 0
+D1
+~
+~
+0 0 10318
+D3
+~
+~
+0 0 10278
+S
+#10318
+Along the outter Walls of Falme~
+Small ants crawl in a line, heading up the wall of Falme.  The grass on
+the side of the path sways with the wind.  Leaves fall as the birds dart out
+of the trees in great speed.  Vines climb the walls offering a natural
+ladder for other insects to utilize.  
+~
+0 0 0
+D1
+~
+~
+0 0 10319
+D3
+~
+~
+0 0 10317
+S
+#10319
+Along the outter Walls of Falme~
+Small ants crawl in a line, heading up the wall of Falme.  The grass on
+the side of the path sways with the wind.  Leaves fall as the birds dart out
+of the trees in great speed.  Vines climb the walls offering a natural
+ladder for other insects to utilize.  
+~
+0 0 0
+D1
+~
+~
+0 0 10320
+D3
+~
+~
+0 0 10318
+S
+#10320
+Along the outter Walls of Falme~
+Small ants crawl in a line, heading up the wall of Falme.  The grass on
+the side of the path sways with the wind.  Leaves fall as the birds dart out
+of the trees in great speed.  Vines climb the walls offering a natural
+ladder for other insects to utilize.  
+~
+0 0 0
+D1
+~
+~
+0 0 10321
+D3
+~
+~
+0 0 10319
+S
+#10321
+Along the outter Walls of Falme~
+Small ants crawl in a line, heading up the wall of Falme.  The grass on
+the side of the path sways with the wind.  Leaves fall as the birds dart out
+of the trees in great speed.  Vines climb the walls offering a natural
+ladder for other insects to utilize.  
+~
+0 0 0
+D1
+~
+~
+0 0 10322
+D3
+~
+~
+0 0 10320
+S
+#10322
+An abrubt end~
+The path begins to fade as it turns to a type of gravel.  You look down
+and notice that the shore is below.  You get a small glimpse of the Aryth
+Ocean from here.  It looks tempting to go down the path.  
+~
+0 0 0
+D3
+~
+~
+0 0 10321
+D5
+~
+~
+0 0 10323
+S
+#10323
+Loose rocks~
+Loose rocks fill the side of the small incline.  With every step you
+take, rocks wiggle about and loosen more.  You wonder if this is such a good
+idea, but the shore looks so fascinating.  
+~
+0 0 0
+D4
+~
+~
+0 0 10322
+D5
+~
+~
+0 0 10324
+S
+#10324
+Loose rocks~
+Loose rocks fill the side of the small incline.  With every step you
+take, rocks wiggle about and loosen more.  You wonder if this is such a good
+idea, but the shore looks so fascinating.  
+~
+0 0 0
+D4
+~
+~
+0 0 10323
+D5
+~
+~
+0 0 10325
+S
+#10325
+A rough shore~
+The sand underneath you feels soft.  Seagulls fly in the skies looking
+down at you.  You hear the waves crashing onto small rocks that are in the
+ocean.  Waves roll onto the shore and soak your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 10332
+D4
+~
+~
+0 0 10324
+S
+#10326
+A Cornfield~
+Rows of corn fill the entire field.  They stand very tall, almost making
+it impossible to see the barns when you're in the field.  
+~
+0 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10344
+D2
+~
+~
+0 0 10351
+D3
+~
+~
+0 0 10345
+S
+#10327
+Near the water's edge~
+The water comes up higher and soak your feet even more.  The smell of the
+ocean fills your nose and you become relaxed.  You notice small fish jump
+out of the ocean here and there.  The sun's rays reflect off the water and
+hit you in your eye, making it almost impossible to see.  
+~
+0 0 0
+D0
+~
+~
+0 0 10316
+D2
+~
+~
+0 0 10328
+S
+#10328
+Near the water's edge~
+The water comes up higher and soak your feet even more.  The smell of the
+ocean fills your nose and you become relaxed.  You notice small fish jump
+out of the ocean here and there.  The sun's rays reflect off the water and
+hit you in your eye, making it almost impossible to see.  
+~
+0 0 0
+D0
+~
+~
+0 0 10327
+D2
+~
+~
+0 0 10329
+S
+#10329
+Near the water's edge~
+The water comes up higher and soak your feet even more.  The smell of the
+ocean fills your nose and you become relaxed.  You notice small fish jump
+out of the ocean here and there. The sun's rays reflect off the water and
+hit you in your eye, making it almost impossible to see.  
+~
+0 0 0
+D0
+~
+~
+0 0 10328
+D2
+~
+~
+0 0 10330
+S
+#10330
+Near the water's edge~
+The water comes up higher and soak your feet even more.  The smell of the
+ocean fills your nose and you become relaxed.  You notice small fish jump
+out of the ocean here and there. The sun's rays reflect off the water and
+hit you in your eye, making it almost impossible to see.  
+~
+0 0 0
+D0
+~
+~
+0 0 10329
+D2
+~
+~
+0 0 10331
+S
+#10331
+A rough shore~
+The sand underneath you feels soft.  Seagulls fly in the skies looking
+down at you.  You hear the waves crashing onto small rocks that are in the
+ocean.  Waves roll onto the shore and soak your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 10330
+D2
+~
+~
+0 0 10332
+S
+#10332
+A rough shore~
+The sand underneath you feels soft.  Seagulls fly in the skies looking
+down at you.  You hear the waves crashing onto small rocks that are in the
+ocean.  Waves roll onto the shore and soak your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 10331
+D2
+~
+~
+0 0 10325
+S
+#10333
+A narrow street~
+The street is very narrow and possibly capable of holding two people
+walking at a time side by side of you.  The street is a bit cracked for some
+reason.  
+~
+0 0 0
+D0
+~
+~
+0 0 10186
+D2
+~
+~
+0 0 10143
+S
+#10334
+A narrow street~
+~
+0 0 0
+D0
+~
+~
+0 0 10142
+D2
+~
+~
+0 0 10194
+S
+#10335
+Merchant's Route~
+Merchant carts line either side of the street with their owners yelling
+what they have to offer.  Crowds of Falme citizens fill the street with a
+wave of movement.  Conversations between buyers and merchants can be heard. 
+~
+0 0 0
+D0
+~
+~
+0 0 10144
+D2
+~
+~
+0 0 10336
+S
+#10336
+Merchant's Route~
+Merchant carts line either side of the street with their owners yelling
+what they have to offer.  Crowds of Falme citizens fill the street with a
+wave of movement.  Conversations between buyers and merchants can be heard. 
+~
+0 0 0
+D0
+~
+~
+0 0 10335
+D2
+~
+~
+0 0 10337
+S
+#10337
+Merchant's Route~
+Merchant carts line either side of the street with their owners yelling
+what they have to offer.  Crowds of Falme citizens fill the street with a
+wave of movement.  Conversations between buyers and merchants can be heard. 
+~
+0 0 0
+D0
+~
+~
+0 0 10336
+D2
+~
+~
+0 0 10200
+S
+#10338
+Merchant's Route~
+Merchant carts line either side of the street with their owners yelling
+what they have to offer.  Crowds of Falme citizens fill the street with a
+wave of movement.  Conversations between buyers and merchants can be heard. 
+~
+0 0 0
+D0
+~
+~
+0 0 10339
+D2
+~
+~
+0 0 10144
+S
+#10339
+Merchant's Route~
+Merchant carts line either side of the street with their owners yelling
+what they have to offer.  Crowds of Falme citizens fill the street with a
+wave of movement.  Conversations between buyers and merchants can be heard. 
+~
+0 0 0
+D0
+~
+~
+0 0 10237
+D2
+~
+~
+0 0 10338
+S
+#10340
+A small path~
+The path wears thinner as you keep walking on it.  The ground is a bit
+soft for some reason but you don't pay much attention to it.  Small patches
+of clovers wave with the wind to your right.  
+~
+0 0 0
+D0
+~
+~
+0 0 10341
+D2
+~
+~
+0 0 10111
+S
+#10341
+A small path~
+The path wears thinner as you keep walking on it.  The ground is a bit
+soft for some reason but you don't pay much attention to it.  Small patches
+of clovers wave with the wind to your left.  
+~
+0 0 0
+D0
+~
+~
+0 0 10342
+D2
+~
+~
+0 0 10340
+S
+#10342
+A small path~
+This small path branches from the main roads to Falme.  There are few
+visible people about and very few plant life.  The path is a tad bit ruggish
+but still walkable.  
+~
+0 0 0
+D1
+~
+~
+0 0 10105
+D2
+~
+~
+0 0 10341
+S
+#10343
+A worn path~
+The worn path looks stable enough to walk on.  Small trees line both
+sides of the path, offering small amounts of shade for those weary
+travelers.  
+~
+0 0 0
+D2
+~
+~
+0 0 10303
+S
+#10344
+A Cornfield~
+Rows of corn fill the entire field.  They stand very tall, almost making
+it impossible to see the barns when you're in the field.  
+~
+0 0 0
+D1
+~
+~
+0 0 10346
+D2
+~
+~
+0 0 10348
+D3
+~
+~
+0 0 10326
+S
+#10345
+A Cornfield~
+Rows of corn fill the entire field.  They stand very tall, almost making
+it impossible to see the barns when you're in the field.  
+~
+0 0 0
+D1
+~
+~
+0 0 10326
+D2
+~
+~
+0 0 10352
+D3
+~
+~
+0 0 10349
+S
+#10346
+A Cornfield~
+Rows of corn fill the entire field.  They stand very tall, almost making
+it impossible to see the barns when you're in the field.  
+~
+0 0 0
+D2
+~
+~
+0 0 10347
+D3
+~
+~
+0 0 10344
+S
+#10347
+A Cornfield~
+Rows of corn fill the entire field.  They stand very tall, almost making
+it impossible to see the barns when you're in the field.  
+~
+0 0 0
+D0
+~
+~
+0 0 10346
+D3
+~
+~
+0 0 10348
+D5
+~
+hole~
+1 0 10385
+S
+#10348
+A Cornfield~
+Rows of corn fill the entire field.  They stand very tall, almost making
+it impossible to see the barns when you're in the field.  
+~
+0 0 0
+D0
+~
+~
+0 0 10344
+D1
+~
+~
+0 0 10347
+D3
+~
+~
+0 0 10351
+S
+#10349
+A Cornfield~
+Rows of corn fill the entire field.  They stand very tall, almost making
+it impossible to see the barns when you're in the field.  
+~
+0 0 0
+D1
+~
+~
+0 0 10345
+D2
+~
+~
+0 0 10350
+S
+#10350
+A Cornfield~
+Rows of corn fill the entire field.  They stand very tall, almost making
+it impossible to see the barns when you're in the field.  
+~
+0 0 0
+D0
+~
+~
+0 0 10349
+D1
+~
+~
+0 0 10352
+S
+#10351
+A Cornfield~
+Rows of corn fill the entire field.  They stand very tall, almost making
+it impossible to see the barns when you're in the field.  
+~
+0 0 0
+D0
+~
+~
+0 0 10326
+D1
+~
+~
+0 0 10348
+D3
+~
+~
+0 0 10352
+D5
+~
+~
+1 0 10377
+S
+#10352
+A Cornfield~
+Rows of corn fill the entire field.  They stand very tall, almost making
+it impossible to see the barns when you're in the field.  
+~
+0 0 0
+D0
+~
+~
+0 0 10345
+D1
+~
+~
+0 0 10351
+D3
+~
+~
+0 0 10350
+S
+#10353
+A small path~
+This seems to be a worn path traveled by many.  It looks as if it's been
+here for a long time.  The grass is pressed down into the earth from all the
+weight it has indured.  
+~
+0 0 0
+D1
+~
+~
+0 0 10299
+D3
+~
+~
+0 0 10354
+S
+#10354
+A small stream~
+A small stream slowly moves down the riverbed.  The sun slowly reflects
+off the water and continues on it's course.  Small tadpoles swim within the
+river hoping to become adult frogs one day.  
+~
+0 0 0
+D1
+~
+~
+0 0 10353
+S
+#10355
+The Commoner's Street~
+The street consists of the common people of Falme.  Small children walk
+gloomly about because they have nothing to do here.  Citizens pass you on
+either side and smile at you.  An old man is here observing you with his
+sun-beaten eyes.  
+~
+0 0 0
+D0
+~
+~
+0 0 10356
+D2
+~
+~
+0 0 10250
+S
+#10356
+The Commoner's Street~
+The street consists of the common people of Falme.  Small children walk
+gloomly about because they have nothing to do here.  Citizens pass you on
+either side and smile at you.  A few beggars approach you for the obvious
+reasons.  
+~
+0 0 0
+D0
+~
+~
+0 0 10156
+D2
+~
+~
+0 0 10355
+S
+#10357
+The Commoner's Street~
+The street consists of the common people of Falme. Small children walk gloomly about
+because they have nothing to do here. Citizens pass you on either side and smile at you.
+A few beggars approach you for the obvious reasons.
+~
+0 0 0
+D0
+~
+~
+0 0 10358
+D2
+~
+~
+0 0 10156
+S
+#10358
+The Commoner's Street~
+The street consists of the common people of Falme. Small children walk gloomly about
+because they have nothing to do here. Citizens pass you on either side and smile at you.
+A few beggars approach you for the obvious reasons.
+~
+0 0 0
+D0
+~
+~
+0 0 10232
+D2
+~
+~
+0 0 10357
+S
+#10359
+A dense brush~
+The brush is very dense, making it almost impossible to see what lies
+ahead if you continued north.  Small woodland creatures can be seen from the
+corner of your eyes as you walk.  They sit motionless, waiting for you to
+leave because they feel that you are a threat.  Few rays of sunlight break
+through the dense brush and strike the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 10360
+D2
+~
+~
+0 0 10166
+S
+#10360
+A dense brush~
+The brush is very dense, making it almost impossible to see what lies
+ahead if you continued north.  Small woodland creatures can be seen from the
+corner of your eyes as you walk.  They sit motionless, waiting for you to
+leave because they feel that you are a threat.  Few rays of sunlight break
+through the dense brush and strike the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 10361
+D2
+~
+~
+0 0 10359
+S
+#10361
+A dense brush~
+The brush is very dense, making it almost impossible to see what lies
+ahead if you continued north.  Small woodland creatures can be seen from the
+corner of your eyes as you walk.  They sit motionless, waiting for you to
+leave because they feel that you are a threat.  Few rays of sunlight break
+through the dense brush and strike the ground.  
+~
+0 0 0
+D2
+~
+~
+0 0 10360
+D5
+~
+~
+0 0 10362
+S
+#10362
+Down a small hill~
+The land inclines downwards softly.  Small pebbles slide down the hill
+when you place your foot on them.  Very few plants grow on the side of the
+hill. Down below you can see a small pond.
+~
+0 0 0
+D4
+~
+~
+0 0 10361
+D5
+~
+~
+0 0 10363
+S
+#10363
+Down a small hill~
+The land inclines downwards softly.  Small pebbles slide down the hill
+when you place your foot on them.  Very few plants grow on the side of the
+hill. Down below you can see a small pond.
+~
+0 0 0
+D4
+~
+~
+0 0 10362
+D5
+~
+~
+0 0 10364
+S
+#10364
+Near a small pond~
+The ground seems a bit sluggish.  Every step you take, you sink into the
+banks of the pond.  The pond water looks clear itself, and it looks tempting
+to just jump in.  Small fish dart in every direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 10365
+D4
+~
+~
+0 0 10363
+S
+#10365
+In the pond~
+You are standing in the small pond.  It didn't look this shallow from the
+banks, but oh well.  The cool water refreshes your body and cools you down. 
+Don't you wish you could stay longer?  
+~
+0 0 0
+D0
+~
+~
+0 0 10366
+D1
+~
+~
+0 0 10375
+D2
+~
+~
+0 0 10364
+D3
+~
+~
+0 0 10376
+S
+#10366
+In the pond~
+You almost completely sink to the bottom because there is a tremendous
+drop off here.  The bottom looks a bit murky but you can still make out
+everything that swims in it.  Now you're completely wet and will take a
+while for you to dry off.  
+~
+0 0 0
+D0
+~
+~
+0 0 10372
+D1
+~
+~
+0 0 10373
+D2
+~
+~
+0 0 10365
+D3
+~
+~
+0 0 10374
+S
+#10367
+A small cave entrance~
+It seems a bit dark, but the light coming from outside lightens it up
+slightly.  There seems to be nothing here except left over logs that had
+been used for fire.  It appears to be a decent place to stay if you had no
+money or were hiding from whoever.  
+~
+0 0 0
+D1
+~
+~
+0 0 10368
+D3
+~
+~
+0 0 10372
+S
+#10368
+A small cave~
+The cave feels a little warm.  It would be comfortable to spend time here
+in the winter, but who knows.  As you walk deeper into the cave, it suddenly
+becomes darker as the light no longer reaches this far.  The cave suddenly
+bends to the south.  
+~
+0 0 0
+D2
+~
+~
+3 10133 10369
+D3
+~
+~
+0 0 10367
+S
+#10369
+End of the small cave~
+The cave comes to a complete dead end.  You smell the scent of burning
+wood and peer around.  Only ashes that barely smoke are here.  Someone was
+here before you.  
+~
+0 71303168 0
+D0
+~
+~
+3 10133 10368
+D5
+~
+~
+3 10134 10378
+S
+#10370
+A Falme Home~
+There seems to be no one here.  You glance about the room and hear small
+sounds coming from upstairs.  Maybe someone is here?  The house smells of
+roses and intrigues you for a moment.  
+~
+0 0 0
+D1
+~
+~
+0 0 10158
+D4
+~
+~
+0 0 10371
+S
+#10371
+A Falme Home~
+There is a bed against the wall.  Next to it stands a dresser with a
+small mirror laying on it.  A cool breeze blows in from the window.  Looking
+out the window, you can see the Eastern Wall of Falme and the Aryth Ocean. 
+A small noise catches your attention and you realize someone is sleeping in
+the bed.  
+~
+0 0 0
+D5
+~
+~
+0 0 10370
+S
+#10372
+On the other side of the pond~
+This side of the pond is very similar to the other side.  It does seem a
+bit more stable though.  Small rocks line the banks and some roll down when
+you walk on the bank.  You notice a small cave to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 10367
+D2
+~
+~
+0 0 10366
+S
+#10373
+In the pond~
+You almost completely sink to the bottom because there is a tremendous
+drop off here.  The bottom looks a bit murky but you can still make out
+everything that swims in it.  Now you're completely wet and will take a
+while for you to dry off.  
+~
+0 0 0
+D2
+~
+~
+0 0 10375
+D3
+~
+~
+0 0 10366
+S
+#10374
+In the pond~
+You almost completely sink to the bottom because there is a tremendous
+drop off here.  The bottom looks a bit murky but you can still make out
+everything that swims in it.  Now you're completely wet and will take a
+while for you to dry off.  
+~
+0 0 0
+D1
+~
+~
+0 0 10366
+D2
+~
+~
+0 0 10376
+S
+#10375
+In the pond~
+You are standing in the small pond.  It didn't look this shallow from the
+banks, but oh well.  The cool water refreshes your body and cools you down. 
+Don't you wish you could stay longer?  
+~
+0 0 0
+D0
+~
+~
+0 0 10373
+D3
+~
+~
+0 0 10365
+S
+#10376
+In the pond~
+You are standing in the small pond.  It didn't look this shallow from the
+banks, but oh well.  The cool water refreshes your body and cools you down. 
+Don't you wish you could stay longer?  
+~
+0 0 0
+D0
+~
+~
+0 0 10374
+D1
+~
+~
+0 0 10365
+S
+#10377
+A Dark Hole~
+Light barely seeps into the hole.  The darkness is all around, making it
+difficult to see anything.  A small blue flicker can be seen.  
+~
+0 4194304 0
+D4
+~
+~
+1 0 10351
+S
+#10378
+A small cramped space~
+The small, cramped space can barely contain people.  It's a bit dark but
+you can still see around the place.  The air is dry and cool.  
+~
+0 138412032 0
+D4
+~
+~
+3 10134 10369
+S
+#10379
+A small tunnel~
+The musty tunnel extends further down.  It's a bit dark but a few torches
+here and there provide a sufficient amount of light.  Dust falls from the
+ceiling from every step you take.  
+~
+0 0 0
+D2
+~
+~
+0 0 10380
+D4
+~
+~
+1 0 10174
+S
+#10380
+A bend in the tunnel~
+The tunnel comes to a sudden bend and goes east.  As you walk further and
+further, the tunnel gets more compact, almost closing in on you.  
+~
+0 0 0
+D0
+~
+~
+0 0 10379
+D1
+~
+~
+0 0 10381
+S
+#10381
+End of the tunnel~
+The tunnel suddenly stops and there is nothing here.  The candles are
+burned out and the only small amounts of light are from the torches near the
+corner you just came from.  
+~
+0 0 0
+D0
+~
+~
+3 10138 10382
+D3
+~
+~
+0 0 10380
+S
+#10382
+The Grey Witch's Altar~
+~
+0 71303168 0
+D2
+~
+~
+3 10138 10381
+S
+#10384
+A Musty Attic~
+Cobwebs line the entire room, obscuring what can't be seen.  Tapping
+seems to be coming from one side of the room.  You look around and see old
+furniture, but then it all disappears into darkness.  Something evil is in
+here.  
+~
+0 205520896 0
+D5
+~
+~
+3 0 10275
+S
+#10385
+Down the Hole~
+Finding yourself in a hole, you can barely see anything through the
+shroud of darkness.  Occassionally you run into a spider-web, but no animals
+seem to be about.  
+~
+0 0 0
+D1
+~
+~
+0 0 10386
+D4
+~
+hole~
+1 0 10347
+S
+#10386
+A Tunnel~
+The tunnel continues eastward into the darkness.  Now and again you hear
+some noise like heavy breathing coming from the darkness, and every now and
+again something flickers out of the corner of your eye.  
+~
+0 4194304 0
+D1
+~
+~
+0 0 10387
+D3
+~
+~
+0 0 10385
+S
+#10387
+A Tunnel~
+The tunnel continues eastward into the darkness.  Now and again you hear
+some noise like heavy breathing coming from the darkness, and every now and
+again something flickers out of the corner of your eye.  
+~
+0 4194304 0
+D1
+~
+~
+0 0 10389
+D3
+~
+~
+0 0 10386
+S
+#10389
+A Tunnel~
+The tunnel ends abruptly, coming to a smooth wall that closes in.  A
+pungent odor inhabits the room, like that of a wild animal's lair.  A few
+bones lay scattered here and there, and the breathing is now more audible,
+closer.  
+~
+0 138412032 0
+D3
+~
+~
+0 0 10387
+S
+#10390
+A Room of Pure Darkness~
+The room is dark and faint clouds swirl around you.  Looking in every
+direction, it is almost impossible to determine which direction is which. 
+Faint screams of children dying are audible to your ears.  Images of a man
+enveloping the weak with clouds of darkness then stripping them of their
+souls appear before you.  Faint smells of blood permeate through the walls
+and sicken you.  You step on something and realize it is the hand of a
+small, dead child.  
+~
+0 138412037 0
+S
+#10391
+A Dense Brush~
+The brush is thick and is barely manueverable in it.  Small thorns poke
+your sides as you walk through it.  
+~
+0 4202497 0
+D3
+~
+~
+3 0 10134
+D5
+~
+thicket~
+1 0 10392
+S
+#10392
+A Dense Thicket~
+As you walk further, it becomes more dense.  All of a sudden it leads to
+a circular area that looks as if it was perfectly cut.  Nothing grows here,
+but an old man stands shakingly.  Behind him is a mesh of trees, thorns, and
+shrubs molded within themselves.  
+~
+0 0 0
+D4
+~
+~
+1 0 10391
+S
+#10393
+A Small Clearing~
+A small clear space is here.  Rays of sunlight break through the tree
+tops and strike the center.  
+~
+0 5 0
+S
+#10101
+A Road to Falme~
+The road looks a bit ruggish from all the traveling.  It's age can't be
+determined but you know it's been there for a long time.  The road is wide
+enough to hold two wagons at a time.  It proceeds south to the Great City of
+Falme.  
+~
+0 0 0
+D0
+~
+~
+0 0 10132
+D2
+~
+~
+0 0 10102
+S
+#10102
+A Road to Falme~
+The road looks a bit ruggish from all the traveling.  It's age can't be
+determined but you know it's been there for a long time.  The road is wide
+enough to hold two wagons at a time.  It proceeds south to the Great City of
+Falme.  
+~
+0 0 0
+D0
+~
+~
+0 0 10101
+D2
+~
+~
+0 0 10103
+S
+#10103
+Before the Outskirts of Falme~
+You slowly walk at a steady pace and notice you're getting to the Great
+Walls of Falme.  The road begins to widen as you near the Great City of
+Falme and the forest begins to thin as you look back.  You look around and
+notice there are a few people walking about and minding their own business. 
+More people begin to walk by you.  
+~
+0 0 0
+D0
+~
+~
+0 0 10102
+D1
+~
+~
+0 0 10104
+D2
+~
+~
+0 0 10106
+D3
+~
+~
+0 0 10105
+S
+#10104
+A small path~
+The small path offers little room for those traveling in numbers.  It's
+wide enough for at least two people to walk side by side.  On either side of
+the path are small bushes and sprouting trees.  The path seems a bit bumpy,
+but walkable.  
+~
+0 0 0
+D0
+~
+~
+0 0 10292
+D3
+~
+~
+0 0 10103
+S
+#10105
+A small path~
+This small path branches from the main roads to Falme.  There are few
+visible people about and very few plant life.  The path is a tad bit ruggish
+but still walkable.  
+~
+0 0 0
+D1
+~
+~
+0 0 10103
+D3
+~
+~
+0 0 10342
+S
+#10106
+A Road to the Gates of Falme~
+The road widens even more and there are more people about chatting about
+their day.  Some of them glance at you and then go back to what they were
+doing as if you weren't a threat to them.  Proceeding south is the Gates of
+Falme.  
+~
+0 0 0
+D0
+~
+~
+0 0 10103
+D2
+~
+~
+0 0 10107
+S
+#10107
+A Road to the Gates of Falme~
+The road widens even more and there are more people about chatting about
+their day.  Some of them glance at you and then go back to what they were
+doing as if you weren't a threat to them.  Proceeding south is the Gates of
+Falme.  
+~
+0 0 0
+D0
+~
+~
+0 0 10106
+D2
+~
+~
+0 0 10108
+S
+#10108
+Before the Grand Gates of Falme~
+You stand before the Grand Gates of Falme.  The guards stand at their
+post to watch the activity that moves about before the gates.  People move
+along entering and leaving the Great City of Falme.  The walls stand tall
+and you can hear the bustling noise that seems to come from within.  You are
+eager to enter and walk calmy through the gates.  
+~
+0 0 0
+D0
+~
+~
+0 0 10107
+D1
+~
+~
+0 0 10109
+D2
+~
+~
+0 0 10113
+D3
+~
+~
+0 0 10110
+S
+#10109
+The Eastern Side of the Gates~
+You are standing to the eastern side of the Gates of Falme.  The walls
+extend to a great height.  You hear people off in the distance and notice
+them entering and leaving the main entrance.  
+~
+0 0 0
+D1
+~
+~
+0 0 10183
+D3
+~
+~
+0 0 10108
+S
+#10110
+The Western Side of the Gates~
+You are standing to the western side of the Gates of Falme.  The walls
+extend to a great height.  You hear people off in the distance and notice
+them entering and leaving the main entrance.  
+~
+0 0 0
+D1
+~
+~
+0 0 10108
+D3
+~
+~
+0 0 10111
+S
+#10111
+Path around the Walls of Falme~
+The path is a bit narrow and rugged.  Small vines line the outter wall of
+Falme.  On your other side, tiny shrubs are just now growing from the damp
+soil.  The path shows it's age, but it's still very used by many this day.  
+~
+0 0 0
+D0
+~
+~
+0 0 10340
+D1
+~
+~
+0 0 10110
+D3
+~
+~
+0 0 10112
+S
+#10112
+Path around the Walls of Falme~
+The path is a bit narrow and rugged.  Small vines line the outter wall of
+Falme.  On your other side, tiny shrubs are just now growing from the damp
+soil.  The path shows it's age, but it's still very used by many this day.  
+~
+0 0 0
+D1
+~
+~
+0 0 10111
+D3
+~
+~
+0 0 10176
+S
+#10113
+Within the Walls of Falme~
+You step foot into the Great City of Falme and see lots of people
+hurrying around to get their personal things done.  Small children run
+around you, curious to know who you are while the adults pay no mind to you.
+You hear some laughter off in the distance.  This city welcomes any stranger
+with a warm heart.  
+~
+0 0 0
+D0
+~
+~
+0 0 10108
+D1
+~
+~
+0 0 10114
+D2
+~
+~
+0 0 10116
+D3
+~
+~
+0 0 10115
+S
+#10114
+Northern Wall~
+The Northern Wall towers over most of the building structures of Falme. 
+Along this wall are many people walking and nodding at you.  Many children
+run around you to see what you're up to.  Small grass grows between cracks
+in the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 10164
+D3
+~
+~
+0 0 10113
+S
+#10115
+Northern Wall~
+The Northern Wall towers over most of the building structures of Falme. 
+Along this wall are many people walking and nodding at you.  Many children
+run around you to see what you're up to.  Small grass grows between cracks
+in the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 10113
+D3
+~
+~
+0 0 10167
+S
+#10116
+The Streets of Falme~
+The Streets of Falme offer an abundant room for many people to travel on.
+Small merchants have their wagons set up to do their business and some of
+what they have to offer catches your attention for just a brief moment.  
+~
+0 0 0
+D0
+~
+~
+0 0 10113
+D1
+~
+~
+0 0 10228
+D2
+~
+~
+0 0 10117
+D3
+~
+~
+0 0 10233
+S
+#10117
+The Streets of Falme~
+The Streets of Falme offer an abundant room for many people to travel on.
+Small merchants have their wagons set up to do their business and some of
+what they have to offer catches your attention for just a brief moment.  
+~
+0 0 0
+D0
+~
+~
+0 0 10116
+D1
+~
+~
+0 0 10128
+D2
+~
+~
+0 0 10118
+D3
+~
+~
+0 0 10146
+S
+#10118
+The Streets of Falme~
+The Streets of Falme offer an abundant room for many people to travel on.
+Small merchants have their wagons set up to do their business and some of
+what they have to offer catches your attention for just a brief moment.  
+~
+0 0 0
+D0
+~
+~
+0 0 10117
+D2
+~
+~
+0 0 10119
+S
+#10119
+The Streets of Falme~
+A small fountain is here in the middle of the whole city.  To your east
+and west is the Main Street of Falme.  More people crowd this part of street
+as time goes on in the day.  
+~
+0 0 0
+D0
+~
+~
+0 0 10118
+D1
+~
+~
+0 0 10120
+D2
+~
+~
+0 0 10136
+D3
+~
+~
+0 0 10125
+S
+#10120
+The Main Street~
+The streets are crowded with citizens of Falme and those visiting. 
+Light-hearted laughter can be heard coming from everywhere and conversations
+can also be overheard.  Merchant carts are parked everywhere, ready to sell
+what they have to offer.  Few soliciters walk up to you and offer their
+values.  
+~
+0 0 0
+D1
+~
+~
+0 0 10121
+D2
+~
+~
+0 0 10307
+D3
+~
+~
+0 0 10119
+S
+#10121
+The Main Street~
+The streets are crowded with citizens of Falme and those visiting. 
+Light-hearted laughter can be heard coming from everywhere and conversations
+can also be overheard.  Merchant carts are parked everywhere, ready to sell
+what they have to offer.  Few soliciters walk up to you and offer their
+values.  
+~
+0 0 0
+D0
+~
+~
+0 0 10124
+D1
+~
+~
+0 0 10122
+D3
+~
+~
+0 0 10120
+S
+#10122
+The Main Street~
+The streets are crowded with citizens of Falme and those visiting. 
+Light-hearted laughter can be heard coming from everywhere and conversations
+can also be overheard.  Merchant carts are parked everywhere, ready to sell
+what they have to offer.  Few soliciters walk up to you and offer their
+values.  
+~
+0 0 0
+D1
+~
+~
+0 0 10123
+D3
+~
+~
+0 0 10121
+S
+#10123
+The Main Street~
+The streets are crowded with citizens of Falme and those visiting. 
+Light-hearted laughter can be heard coming from everywhere and conversations
+can also be overheard.  Merchant carts are parked everywhere, ready to sell
+what they have to offer.  Few soliciters walk up to you and offer their
+values.  
+~
+0 0 0
+D0
+~
+~
+0 0 10140
+D1
+~
+~
+0 0 10156
+D2
+~
+~
+0 0 10141
+D3
+~
+~
+0 0 10122
+S
+#10124
+Inn Entrance~
+You walk into the entrance of the Inn.  Small tables are scattered around
+the room with several people sitting at them.  The room smells nice and
+appears that by it's order, that it gets lots of business.  The Innkeeper is
+standing here, looking at you.  
+~
+0 0 0
+D2
+~
+~
+0 0 10121
+D4
+~
+~
+0 0 10215
+S
+#10125
+The Main Street~
+The streets are crowded with citizens of Falme and those visiting. 
+Light-hearted laughter can be heard coming from everywhere and conversations
+can also be overheard.  Merchant carts are parked everywhere, ready to sell
+what they have to offer.  Few soliciters walk up to you and offer their
+values.  
+~
+0 0 0
+D1
+~
+~
+0 0 10119
+D3
+~
+~
+0 0 10126
+S
+#10126
+The Main Street~
+The streets are crowded with citizens of Falme and those visiting. 
+Light-hearted laughter can be heard coming from everywhere and conversations
+can also be overheard.  Merchant carts are parked everywhere, ready to sell
+what they have to offer.  Few soliciters walk up to you and offer their
+values.  
+~
+0 0 0
+D0
+~
+~
+0 0 10148
+D1
+~
+~
+0 0 10125
+D2
+~
+~
+0 0 10150
+D3
+~
+~
+0 0 10127
+S
+#10127
+The Main Street~
+The streets are crowded with citizens of Falme and those visiting. 
+Light-hearted laughter can be heard coming from everywhere and conversations
+can also be overheard.  Merchant carts are parked everywhere, ready to sell
+what they have to offer.  Few soliciters walk up to you and offer their
+values.  
+~
+0 0 0
+D1
+~
+~
+0 0 10126
+D2
+~
+~
+0 0 10308
+D3
+~
+~
+0 0 10135
+S
+#10128
+A dark Alley~
+The alley is very narrow and offers no light whatsoever.  Small pools of
+water leftover from another day's rainfall still lay here.  The air seems
+very dry here for some reason.  
+~
+0 0 0
+D1
+~
+~
+0 0 10129
+D3
+~
+~
+0 0 10117
+S
+#10129
+A bend in the Alley~
+You come to a turn and notice that further south it seems to get darker. 
+You're not sure if you want to continue in that direction.  The ground is
+moist and a bit broken.  
+~
+0 0 0
+D2
+~
+~
+0 0 10130
+D3
+~
+~
+0 0 10128
+S
+#10130
+A dark Alley~
+The alley is very narrow and offers no light whatsoever.  Small pools of
+water leftover from another day's rainfall still lay here.  The air seems
+very dry here for some reason.  
+~
+0 0 0
+D0
+~
+~
+0 0 10129
+D2
+~
+~
+0 0 10131
+S
+#10131
+A Dead-End~
+The path ally comes to an abrupt halt.  There is nothing here but a dead
+end.  Your only choice is to go back the way you came.  
+~
+0 0 0
+D0
+~
+~
+0 0 10130
+S
+#10132
+A Northern Road~
+This road proceeds to the south to the Roads of Falme.  To the north
+continues the Northern Road.  On either side of the road are some small
+bushes and yearling trees.  
+~
+0 0 0
+D0
+~
+~
+0 0 10133
+D2
+~
+~
+0 0 10101
+S
+#10133
+A Northern Road~
+The road proceeds to continue south to the Roads of Falme.  To the east
+you see a small path bearing trees.  To the west, yet another small path
+leading to unknown territory.  
+~
+0 0 0
+D0
+~
+~
+0 0 10134
+D1
+~
+~
+0 0 10153
+D2
+~
+~
+0 0 10132
+D3
+~
+~
+0 0 10298
+S
+#10134
+A Northern Road~
+The dimly-lit path bears worn markings that it's a very used path.  To
+each side are an array of trees bearing a height of no larger than a village
+home.  The little sunlight that pours through the small openings offer a
+small sense of security from complete utter darkness.  The road speaks of
+it's age and continues south.  
+~
+0 0 0
+D1
+~
+brush~
+3 0 10391
+D2
+~
+~
+0 0 10133
+S
+#10135
+The Main Street~
+The street now has fewer people as you come closer to it's end.  There
+still are an abundant number of wagons and carts selling their valuables,
+but just not as many as further down east.  Few people seem to be here and
+walk away as their attention is caught by the commotion down east.  
+~
+0 0 0
+D0
+~
+~
+0 0 10152
+D1
+~
+~
+0 0 10127
+D2
+~
+~
+0 0 10151
+D3
+~
+~
+0 0 10144
+S
+#10136
+The Streets of Falme~
+The Streets of Falme offer an abundant room for many people to travel on.
+Small merchants have their wagons set up to do their business and some of
+what they have to offer catches your attention for just a brief moment.  
+~
+0 0 0
+D0
+~
+~
+0 0 10119
+D1
+~
+~
+0 0 10181
+D2
+~
+~
+0 0 10137
+D3
+~
+~
+0 0 10182
+S
+#10137
+The Streets of Falme~
+The Streets of Falme offer an abundant room for many people to travel on.
+Small merchants have their wagons set up to do their business and some of
+what they have to offer catches your attention for just a brief moment.  
+~
+0 0 0
+D0
+~
+~
+0 0 10136
+D2
+~
+~
+0 0 10138
+D3
+~
+~
+0 0 10190
+S
+#10138
+The Streets of Falme~
+The Streets of Falme offer an abundant room for many people to travel on.
+Small merchants have their wagons set up to do their business and some of
+what they have to offer catches your attention for just a brief moment.  
+~
+0 0 0
+D0
+~
+~
+0 0 10137
+D1
+~
+~
+0 0 10246
+D2
+~
+~
+0 0 10139
+D3
+~
+~
+0 0 10251
+S
+#10139
+Within the Southern Gates of Falme~
+The Southern Gates of Falme are before you.  These grand gates tower
+above the entire city making it just about impossible to view from the road.
+Guards are posted here to observe any type of weird actions that take place.
+~
+0 0 0
+D0
+~
+~
+0 0 10138
+D1
+~
+~
+0 0 10191
+D2
+~
+~
+1 0 10278
+D3
+~
+~
+0 0 10149
+S
+#10140
+A narrow street~
+The street is very narrow and possibly capable of holding two people
+walking at a time side by side.  It's a bit dim but you can see small rays
+of sunlight beat on the walls on either side of you.  The street is a bit
+cracked for some reason.  
+~
+0 0 0
+D0
+~
+~
+0 0 10143
+D2
+~
+~
+0 0 10123
+S
+#10141
+A narrow street~
+~
+0 0 0
+D0
+~
+~
+0 0 10123
+D2
+~
+~
+0 0 10142
+S
+#10142
+A narrow street~
+~
+0 0 0
+D0
+~
+~
+0 0 10141
+D2
+~
+~
+0 0 10334
+S
+#10143
+A narrow street~
+The street is very narrow and possibly capable of holding two people
+walking at a time side by side of you.  The street is a bit cracked for some
+reason.  
+~
+0 0 0
+D0
+~
+~
+0 0 10333
+D2
+~
+~
+0 0 10140
+S
+#10144
+Western end of Main Street~
+The crowd has thinned and only one or two merchant carts are here.  Small
+children play here because the area is big enough for their games.  Few
+citizens roam the street, chatting about their day.  They acknowledge you
+with a simple smile and go back to what they were doing.  
+~
+0 0 0
+D0
+~
+~
+0 0 10338
+D1
+~
+~
+0 0 10135
+D2
+~
+~
+0 0 10335
+D3
+~
+~
+0 0 10145
+S
+#10145
+Within the Western Gates of Falme~
+Two guards stand here on either side of the gates observing.  They glance
+around suspiciously in an attempt to find something out of place.  The Grand
+Gates are huge and made of the finest wood available.  People enter and
+leave the city with their own intentions.  
+~
+0 0 0
+D0
+~
+~
+0 0 10205
+D1
+~
+~
+0 0 10144
+D2
+~
+~
+0 0 10202
+D3
+~
+~
+1 0 10210
+S
+#10146
+A small alley~
+The alley is very narrow and offers no light whatsoever.  The air seems a
+bit humid and the ground a bit wet.  Small flickering catches your eye and
+you realize it's beads of water dripping from a water pump.  
+~
+0 0 0
+D1
+~
+~
+0 0 10117
+D3
+~
+~
+0 0 10147
+S
+#10147
+A bend in a small alley~
+You come to a turn and notice that further south it seems to get darker. 
+You're not sure if you want to continue in that direction.  The ground is
+moist and a bit broken.  
+~
+0 0 0
+D1
+~
+~
+0 0 10146
+D2
+~
+~
+0 0 10148
+S
+#10148
+A small alley~
+The alleyway is a bit cramped.  Small boxes lay everywhere that have been
+thrown from passerbys.  Tiny rats scuttle across the ground hurrying to get
+into the darkness and avoid those that are bigger than them.  To the south
+you notice an exit and people walking by.  
+~
+0 0 0
+D0
+~
+~
+0 0 10147
+D2
+~
+~
+0 0 10126
+S
+#10149
+Southern Wall~
+As you walk along the southern wall you glance around you and notice a
+few people about.  Few citizens roam the southern wall, but most of them
+confine themselves to the major streets in hopes of gaining something. The
+wall is high and it hurts your neck to stand next to it and look up.  
+~
+0 4 0
+D1
+~
+~
+0 0 10139
+D3
+~
+~
+0 0 10197
+S
+#10150
+A small alley~
+The alleyway is a bit cramped.  Small boxes lay everywhere that have been
+thrown from passerbys.  Tiny rats scuttle across the ground hurrying to get
+into darkness and avoid those that are bigger than them.  To the north you
+notice an exit and people walking by.  
+~
+0 0 0
+D0
+~
+~
+0 0 10126
+D2
+~
+~
+0 0 10189
+S
+#10151
+A Grocery Store~
+The air seems a bit dry but you really don't care at this point.  Small
+shelves offer loaves of bread, rolls, and other fine foods.  Items such as
+rafts, candles, and hand bags can be seen in the corner of the grocery
+store.  Two store clerks look up and beam a smile at you.  
+~
+0 0 0
+D0
+~
+~
+0 0 10135
+S
+#10152
+Jewelry Store~
+The room brightens from the glistening jewelry that fills the place. 
+Small diamonds and emeralds line the table waiting for an eager owner.  An
+expert is here, observing each and every piece with precision.  
+~
+0 0 0
+D2
+~
+~
+0 0 10135
+S
+#10153
+A dense forest~
+The trees are closely packed together, making it unseemingly impossible
+to get through from afar.  Little sunlight seems to pour through the tops of
+these vast giants.  The ground is cold from the morning dew and patches of
+darkness fill the hearts of unbrave men with fear.  The many trees offer
+little shelter to those who wish to hide.  
+~
+0 0 0
+D1
+~
+~
+0 0 10154
+D2
+~
+~
+0 0 10297
+D3
+~
+~
+0 0 10133
+S
+#10154
+A small clearing~
+There are fewer trees here and more light.  This looks like it would be a
+nice spot to set up camp.  This place could serve as a haven from the forest
+to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 10155
+D3
+~
+~
+0 0 10153
+S
+#10155
+A Plain Field~
+The land is flat and stretches this way in many directions.  An open area
+that allows rays of sunshine to pour through and warm the earth.  The grass
+is comforting and allows small life to live about their lives in it.  A gust
+of wind rolls over the field and produces a small wavering of the fine
+blades of glass in unison.  It just makes you want to stay here and never
+leave.  
+~
+0 0 0
+D0
+~
+~
+0 0 10170
+D1
+~
+~
+0 0 10175
+D3
+~
+~
+0 0 10154
+S
+#10156
+Eastern end of Main Street~
+The few wagons that are here seem to be getting little business due to
+the fact they are posted at the end of the Main Street.  The merchants wave
+their products to catch your eye and hopefully sell it to you.  There seem
+to be fewer people here than further west along the Main Street.  
+~
+0 0 0
+D0
+~
+~
+0 0 10357
+D1
+~
+~
+0 0 10157
+D2
+~
+~
+0 0 10356
+D3
+~
+~
+0 0 10123
+S
+#10157
+Eastern Gates of Falme~
+Small groups of people walk about the place heading north and south.  Few
+go west to the eastern end of the Main Street.  An old man walks by you with
+a bottle in his hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 10158
+D1
+~
+~
+0 0 37462
+D2
+~
+~
+0 0 10159
+D3
+~
+~
+0 0 10156
+S
+#10158
+Along the East Wall~
+The path is a bit dim from walking between such a high wall and a
+building that's on your other side.  The path is a bit dirty and could use a
+good washing, but who cares.  People pass you on either side and glance at
+your face.  You feel a bit strange and continue on your way.  
+~
+0 0 0
+D0
+~
+~
+0 0 10160
+D2
+~
+~
+0 0 10157
+D3
+~
+~
+0 0 10370
+S
+#10159
+Along the East Wall~
+The East Wall towers over you and continues to the north and south. 
+People walk around actually acknowledging you with a simple nod.  Small
+children zip past you running south, heading for the ladder.  
+~
+0 0 0
+D0
+~
+~
+0 0 10157
+D2
+~
+~
+0 0 10162
+S
+#10160
+Along the East Wall~
+The path is a bit dim from walking between such a high wall and a
+building that's on your other side.  The path is a bit dirty and could use a
+good washing, but who cares.  There seems to be another ladder here leading
+up to the top of the East Wall.  Small children run past you in an attempt
+to reach the top first.  
+~
+0 0 0
+D0
+~
+~
+0 0 10161
+D2
+~
+~
+0 0 10158
+D4
+~
+~
+0 0 10291
+S
+#10161
+Eastern Wall~
+The path is a bit dim from walking between such a high wall and a
+road that's on your other side. The path is a bit dirty and could use a
+good washing, but who cares.  People pass you on either side and glance at
+your face.  You acknowledge them and they move along.  
+~
+0 0 0
+D0
+~
+~
+0 0 10179
+D2
+~
+~
+0 0 10160
+D3
+~
+~
+0 0 10232
+S
+#10162
+Along the East Wall~
+The East Wall towers over you and continues to the north and south. 
+People walk around actually acknowledging you with a simple nod.  There is a
+ladder here going up to the tops of the East Wall.  Many come here to get a
+good view of the Aryth Ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 10159
+D2
+~
+~
+0 0 10163
+D4
+~
+~
+0 0 10290
+S
+#10163
+Along the East Wall~
+The East Wall of Falme raises higher than most of the buildings within
+the city.  Few people bustle this narrow path except for those just out for
+a joyous walk around the city.  The scent of ocean water catches your
+attention and you realize the reason for this wall being so high.  On the
+other side is the Aryth Ocean.  
+~
+0 0 0
+D0
+~
+~
+0 0 10162
+D2
+~
+~
+0 0 10196
+D3
+~
+~
+0 0 10250
+S
+#10164
+Northern Wall~
+The Northern Wall towers over most of the building structures of Falme. 
+Along this wall are many people walking and nodding at you.  Many children
+run around you to see what you're up to.  Small grass grows between cracks
+in the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 10165
+D3
+~
+~
+0 0 10114
+S
+#10165
+Northern Wall~
+The Northern Wall towers over most of the building structures of Falme. 
+Along this wall are many people walking and nodding at you.  Many children
+run around you to see what you're up to.  Small grass grows between cracks
+in the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 10186
+D3
+~
+~
+0 0 10164
+S
+#10166
+Path to Falme~
+The path leads east to the Great City of Falme.  You look north and see a
+dense brush.  The path looks a bit worn, but still walkable.  Small horse
+prints line the entire road heading east to Falme.  Small shrubs grow on
+either side of the path.  
+~
+0 4 0
+D0
+~
+~
+0 0 10359
+D3
+~
+~
+0 0 10301
+S
+#10167
+Northern Wall~
+The Northern Wall towers over most of the building structures of Falme. 
+Along this wall are many people walking and nodding at you.  Many children
+run around you to see what you're up to.  Small grass grows between cracks
+in the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 10115
+D3
+~
+~
+0 0 10168
+S
+#10168
+Northern Wall~
+The Northern Wall towers over most of the building structures of Falme. 
+Along this wall are many people walking and nodding at you.  Many children
+run around you to see what you're up to.  Small grass grows between cracks
+in the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 10167
+D3
+~
+~
+0 0 10169
+S
+#10169
+Northern Wall~
+The Northern Wall towers over most of the building structures of Falme. 
+Along this wall are many people walking and nodding at you.  Many children
+run around you to see what you're up to.  Small grass grows between cracks
+in the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 10168
+D3
+~
+~
+0 0 10209
+S
+#10170
+A Plain Field~
+The land is flat and stretches this way in many directions.  An open area
+that allows rays of sunshine to pour through and warm the earth.  The grass
+is comforting and allows small life to live about their lives in it.  A gust
+of wind rolls over the field and produces a small wavering of the fine
+blades of glass in unison.  It just makes you want to stay here and never
+leave.  
+~
+0 0 0
+D0
+~
+~
+0 0 10171
+D1
+~
+~
+0 0 10174
+D2
+~
+~
+0 0 10155
+S
+#10171
+A Plain Field~
+The land is flat and stretches this way in many directions.  An open area
+that allows rays of sunshine to pour through and warm the earth.  The grass
+is comforting and allows small life to live about their lives in it.  A gust
+of wind rolls over the field and produces a small wavering of the fine
+blades of glass in unison.  It just makes you want to stay here and never
+leave.  
+~
+0 0 0
+D1
+~
+~
+0 0 10172
+D2
+~
+~
+0 0 10170
+S
+#10172
+A Plain Field~
+The land is flat and stretches this way in many directions.  An open area
+that allows rays of sunshine to pour through and warm the earth.  The grass
+is comforting and allows small life to live about their lives in it.  A gust
+of wind rolls over the field and produces a small wavering of the fine
+blades of glass in unison.  It just makes you want to stay here and never
+leave.  
+~
+0 0 0
+D1
+~
+~
+0 0 10180
+D2
+~
+~
+0 0 10174
+D3
+~
+~
+0 0 10171
+S
+#10173
+A Plain Field~
+The land is flat and stretches this way in many directions.  An open area
+that allows rays of sunshine to pour through and warm the earth.  The grass
+is comforting and allows small life to live about their lives in it.  A gust
+of wind rolls over the field and produces a small wavering of the fine
+blades of glass in unison.  It just makes you want to stay here and never
+leave.  
+~
+0 0 0
+D0
+~
+~
+0 0 10177
+D3
+~
+~
+0 0 10175
+S
+#10174
+A Plain Field~
+The land is flat and stretches this way in many directions.  An open area
+that allows rays of sunshine to pour through and warm the earth.  The grass
+is comforting and allows small life to live about their lives in it.  A gust
+of wind rolls over the field and produces a small wavering of the fine
+blades of glass in unison.  It just makes you want to stay here and never
+leave.  
+~
+0 0 0
+D0
+~
+~
+0 0 10172
+D1
+~
+~
+0 0 10177
+D2
+~
+~
+0 0 10175
+D3
+~
+~
+0 0 10170
+D5
+~
+~
+1 10138 10379
+S
+#10175
+A Plain Field~
+The land is flat and stretches this way in many directions.  An open area
+that allows rays of sunshine to pour through and warm the earth.  The grass
+is comforting and allows small life to live about their lives in it.  A gust
+of wind rolls over the field and produces a small wavering of the fine
+blades of glass in unison.  It just makes you want to stay here and never
+leave.  
+~
+0 0 0
+D0
+~
+~
+0 0 10174
+D1
+~
+~
+0 0 10173
+D3
+~
+~
+0 0 10155
+S
+#10176
+Path around the Walls of Falme~
+The path is a bit narrow and rugged.  Small vines line the outter wall of
+Falme.  On your other side, tiny shrubs are just now growing from the damp
+soil.  The path shows it's age, but it's still very used by many this day.  
+~
+0 4 0
+D1
+~
+~
+0 0 10112
+D3
+~
+~
+0 0 10256
+S
+#10177
+A Plain Field~
+The land is flat and stretches this way in many directions.  An open area
+that allows rays of sunshine to pour through and warm the earth.  The grass
+is comforting and allows small life to live about their lives in it.  A gust
+of wind rolls over the field and produces a small wavering of the fine
+blades of glass in unison.  It just makes you want to stay here and never
+leave.  
+~
+0 4 0
+D0
+~
+~
+0 0 10180
+D2
+~
+~
+0 0 10173
+D3
+~
+~
+0 0 10174
+S
+#10178
+A Plain Field~
+~
+0 4 0
+S
+#10179
+North-Eastern Corner~
+You come to a halt and stare at the northeastern corner of Falme.  Your
+only options is to continue your travels back the way you came from or along
+the East Wall.  There seems to be no one here and no activity either.  It's
+just a lonely corner.  
+~
+0 0 0
+D2
+~
+~
+0 0 10161
+D3
+~
+~
+0 0 10187
+S
+#10180
+A Plain Field~
+The land is flat and stretches this way in many directions.  An open area
+that allows rays of sunshine to pour through and warm the earth.  The grass
+is comforting and allows small life to live about their lives in it.  A gust
+of wind rolls over the field and produces a small wavering of the fine
+blades of glass in unison.  It just makes you want to stay here and never
+leave.  
+~
+0 0 0
+D2
+~
+~
+0 0 10177
+D3
+~
+~
+0 0 10172
+S
+#10181
+Herbalist Shop~
+The room smells of herbs and contain many varieties of plants.  Small
+healing herbs can be seen in the back.  A store clerk looks up and smiles
+vaguely at you.  
+~
+0 0 0
+D3
+~
+~
+0 0 10136
+S
+#10182
+A Fine Winery~
+Bottles of fine wine line the many racks in this room.  A tall man with a
+mustache walks around, checking every date on the bottles.  
+~
+0 0 0
+D1
+~
+~
+0 0 10136
+S
+#10183
+Path around the Walls of Falme~
+The bumpy path contains many footprints.  You realize many people have
+gone this way to get to the shore and view the grand Aryth Ocean.  Trees
+slightly lean with the cool breeze that blows.  Birds sing their songs and
+lighten up the day.  
+~
+0 0 0
+D1
+~
+~
+0 0 10184
+D3
+~
+~
+0 0 10109
+S
+#10184
+Along the outter Walls of Falme~
+The bumpy path contains many footprints.  You realize many people have
+gone this way to get to the shore and view the grand Aryth Ocean.  Trees
+slightly lean with the cool breeze that blows.  Birds sing their songs and
+lighten up the day.  
+~
+0 0 0
+D1
+~
+~
+0 0 10185
+D3
+~
+~
+0 0 10183
+S
+#10185
+Along the outter Walls of Falme~
+The bumpy path contains many footprints.  You realize many people have
+gone this way to get to the shore and view the grand Aryth Ocean.  Trees
+slightly lean with the cool breeze that blows.  Birds sing their songs and
+lighten up the day.  
+~
+0 0 0
+D1
+~
+~
+0 0 10305
+D3
+~
+~
+0 0 10184
+S
+#10186
+Northern Wall~
+The Northern Wall towers over most of the building structures of Falme. 
+Along this wall are many people walking and nodding at you.  Many children
+run around you to see what you're up to.  Small grass grows between cracks
+in the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 10187
+D2
+~
+~
+0 0 10333
+D3
+~
+~
+0 0 10165
+S
+#10187
+Northern Wall~
+The Northern Wall towers over most of the building structures of Falme. 
+Along this wall are many people walking and nodding at you.  Many children
+run around you to see what you're up to.  Small grass grows between cracks
+in the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 10179
+D2
+~
+~
+0 0 10232
+D3
+~
+~
+0 0 10186
+S
+#10188
+Northern Wall~
+~
+0 0 0
+D1
+~
+~
+0 0 10179
+S
+#10189
+A bend in a small alley~
+The alleyway seems to get narrower and suddenly bends to the east.  Small
+gnats fly about and get in your face.  A stench comes from out of nowhere
+and hits your nose.  You realize you cannot stand it and frantically rush
+out.  
+~
+0 0 0
+D0
+~
+~
+0 0 10150
+D1
+~
+~
+0 0 10190
+S
+#10190
+A small alley~
+The alleyway is a bit cramped.  Small boxes lay everywhere that have been
+thrown from passerbys.  Tiny rats scuttle across the ground hurrying to get
+into darkness and avoid those that are bigger than them.  To the east you
+notice an exit and people walking by.  
+~
+0 0 0
+D1
+~
+~
+0 0 10137
+D3
+~
+~
+0 0 10189
+S
+#10191
+Southern Wall~
+As you walk along the southern wall you glance around you and notice a
+few people about.  To the east continues along the southern wall.  Little
+sunlight breaks through the clouds to lighten the dim path a bit.  Audible
+laughter can be heard coming from the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 10192
+D3
+~
+~
+0 0 10139
+S
+#10192
+Along the South Wall~
+The South Wall towers high and strong.  It's design was meant to keep out
+most of the unwanted people who want to enter the city from the south.  A
+few people stride by you and smile.  An old couple holding hands, stand
+close and discuss life in general.  The wall continues to tower east and
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 10193
+D3
+~
+~
+0 0 10191
+S
+#10193
+Along the South Wall~
+The South Wall towers high and strong.  It's design was meant to keep out
+most of the unwanted people who want to enter the city from the south.  A
+few people stride by you and smile.  An old couple holding hands, stand
+close and discuss life in general.  The wall continues to tower east and
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 10194
+D3
+~
+~
+0 0 10192
+S
+#10194
+Along the South Wall~
+The South Wall towers high and strong.  It's design was meant to keep out
+most of the unwanted people who want to enter the city from the south.  A
+few people stride by you and smile.  The wall continues to tower east and
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 10334
+D1
+~
+~
+0 0 10195
+D3
+~
+~
+0 0 10193
+S
+#10195
+Southern Wall~
+As you walk along the southern wall you glance around you and notice a
+few people about.  You look to the north and see lots of people and
+merchants at the Market Road.  To the east continues along the southern
+wall.  Little sunlight breaks through the clouds to lighten the dim path a
+bit.  
+~
+0 0 0
+D0
+~
+~
+0 0 10250
+D1
+~
+~
+0 0 10196
+D3
+~
+~
+0 0 10194
+S
+#10196
+South-eastern corner~
+This part of the city has no one whatsoever.  The corner is a bit dark
+and you catch a small glimpse of people walking further down the street. 
+Apparently they avoid coming this way, so what are you doing here?  
+~
+0 0 0
+D0
+~
+~
+0 0 10163
+D3
+~
+~
+0 0 10195
+S
+#10197
+Southern Wall~
+As you walk along the southern wall you glance around you and notice a
+few people about.  Few citizens roam the southern wall, but most of them
+confine themselves to the major streets in hopes of gaining something.  The
+wall is high and it hurts your neck to stand next to it and look up.  
+~
+0 0 0
+D1
+~
+~
+0 0 10149
+D3
+~
+~
+0 0 10198
+S
+#10198
+Southern Wall~
+As you walk along the southern wall you glance around you and notice a
+few people about.  Few citizens roam the southern wall, but most of them
+confine themselves to the major streets in hopes of gaining something.  The
+wall is high and it hurts your neck to stand next to it and look up.  
+~
+0 0 0
+D1
+~
+~
+0 0 10197
+D3
+~
+~
+0 0 10199
+S
+#10199
+Southern Wall~
+As you walk along the southern wall you glance around you and notice a
+few people about.  Few citizens roam the southern wall, but most of them
+confine themselves to the major streets in hopes of gaining something.  The
+wall is high and it hurts your neck to stand next to it and look up.  
+~
+0 0 0
+D1
+~
+~
+0 0 10198
+D3
+~
+~
+0 0 10200
+S
+#10200
+Southern Wall~
+As you walk along the southern wall you glance around you and notice a
+few people about.  Few citizens roam the southern wall, but most of them
+confine themselves to the major streets in hopes of gaining something.  The
+wall is high and it hurts your neck to stand next to it and look up.  
+~
+0 0 0
+D0
+~
+~
+0 0 10337
+D1
+~
+~
+0 0 10199
+D3
+~
+~
+0 0 10201
+S
+#10201
+South-western corner~
+The wall comes to an end, but the path bends to the north.  More people
+seem to be in that general direction.  So why don't you walk on over there? 
+~
+0 0 0
+D0
+~
+~
+0 0 10204
+D1
+~
+~
+0 0 10200
+S
+#10202
+Western Wall~
+The Western Wall seems to be of equal height to the rest of the other
+walls that surround the Great City of Falme.  You can tell it needs reparing
+from it's small breaks and tiny holes that are present in it.  
+~
+0 0 0
+D0
+~
+~
+0 0 10145
+D2
+~
+~
+0 0 10203
+S
+#10203
+Western Wall~
+The Western Wall seems to be of equal height to the rest of the other
+walls that surround the Great City of Falme.  You can tell it needs reparing
+from it's small breaks and tiny holes that are present in it.  
+~
+0 0 0
+D0
+~
+~
+0 0 10202
+D2
+~
+~
+0 0 10204
+S
+#10204
+Western Wall~
+Walking along the Western Wall, you notice nothing really.  To the north
+continues along the wall and east is a surprise.  You glance to the east and
+notice more people are there and audible conversations.  Interesting isn't
+it?  
+~
+0 0 0
+D0
+~
+~
+0 0 10203
+D1
+~
+~
+0 0 10255
+D2
+~
+~
+0 0 10201
+S
+#10205
+Western Wall~
+The Western Wall seems to be of equal height to the rest of the other
+walls that surround the Great city of Falme. You can tell it needs repairing
+from it's small breaks and tiny holes that are present in it.  
+~
+0 0 0
+D0
+~
+~
+0 0 10206
+D2
+~
+~
+0 0 10145
+S
+#10206
+Western Wall~
+The Western Wall seems to be of equal height to the rest of the other
+walls that surround the Great city of Falme. You can tell it needs repairing
+from it's small breaks and tiny holes that are present in it.  
+~
+0 0 0
+D0
+~
+~
+0 0 10207
+D2
+~
+~
+0 0 10205
+S
+#10207
+Western Wall~
+The Western Wall seems to be of equal height to the rest of the other
+walls that surround the Great city of Falme. You can tell it needs repairing
+from it's small breaks and tiny holes that are present in it.  
+~
+0 0 0
+D0
+~
+~
+0 0 10208
+D1
+~
+~
+0 0 10237
+D2
+~
+~
+0 0 10206
+S
+#10208
+North-western corner~
+You've arrived at the northwestern corner of Falme.  Here magic happens
+because the East Wall molds itself into the North Wall to make a corner. 
+It's a dark corner and a single citizen walks past you heading south.
+~
+0 0 0
+D1
+~
+~
+0 0 10209
+D2
+~
+~
+0 0 10207
+S
+#10209
+Northern Wall~
+The Northern Wall towers over most of the building structures of Falme. 
+Along this wall are many people walking and nodding at you.  Many children
+run around you to see what you're up to.  Small grass grows between cracks
+in the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 10169
+D2
+~
+~
+0 0 10237
+D3
+~
+~
+0 0 10208
+S
+#10210
+Outside the Western Gates of Falme~
+Two guards are here guarding their post.  One of them seems content about
+his job and looks straight ahead in silence.  The other guard has a look of
+disdain on his face for everyone entering and leaving Falme, even you. 
+Standing here, you can hear the voices and laughter of many coming from
+within.  
+~
+0 0 0
+D0
+~
+~
+0 0 10258
+D1
+~
+~
+1 0 10145
+D2
+~
+~
+0 0 10285
+D3
+~
+~
+0 0 10211
+S
+#10211
+Near the Western Gates of Falme~
+People pass you hastidly to get to Falme.  Some pass you heading in the
+opposite direction.  You see merchant carts and wagons slowly creak their
+way to enter the city.  Children jump and shout as they greet the incoming
+travelers.  
+~
+0 0 0
+D1
+~
+~
+0 0 10210
+D3
+~
+~
+0 0 10212
+S
+#10212
+Western Road~
+The Western Road contains many travelers like you.  Some journey to the
+city of Falme to seek rest and even profit.  Grass sways with the wind and
+grows a very healthy, green color.  The road shows it's age from all the
+prints left by travelers and wagons.  Maybe someone should consider
+repairing it.  
+~
+0 0 0
+D1
+~
+~
+0 0 10211
+D2
+~
+~
+0 0 10262
+D3
+~
+~
+0 0 10213
+S
+#10213
+Western Road~
+The Western Road contains many travelers like you.  Some journey to the
+city of Falme to seek rest and even profit.  Grass sways with the wind and
+grows a very healthy, green color.  The road shows it's age from all the
+prints left by travelers and wagons.  Maybe someone should consider
+repairing it.  
+~
+0 0 0
+D1
+~
+~
+0 0 10212
+D3
+~
+~
+0 0 10214
+S
+#10214
+Western Road~
+The Western Road contains many travelers like you.  Some journey to the
+city of Falme to seek rest and even profit.  Grass sways with the wind and
+grows a very healthy, green color.  The road shows it's age from all the
+prints left by travelers and wagons.  Maybe someone should consider
+repairing it.  
+~
+0 0 0
+D1
+~
+~
+0 0 10213
+S
+#10215
+A Narrow Hall~
+The hall is quite narrow, but still spacious enough for more than one
+person to walk in.  Small candles light the hall.  There are several rooms
+here but you don't know if they are vacant or occupied.  
+~
+0 0 0
+D0
+~
+~
+0 0 10216
+D2
+~
+~
+0 0 10218
+D5
+~
+~
+0 0 10124
+S
+#10216
+A Narrow Hall~
+The hall is quite narrow, but still spacious enough for more than one
+person to walk in.  Small candles light the hall.  There are several rooms
+here but you don't know if they are vacant or occupied.  
+~
+0 0 0
+D0
+~
+~
+0 0 10217
+D1
+~
+~
+0 0 10222
+D2
+~
+~
+0 0 10215
+D3
+~
+~
+0 0 10223
+S
+#10217
+End of the Hall~
+The hall is quite narrow, but still spacious enough for more than one
+person to walk in.  Small candles light the hall.  There are several rooms
+here but you don't know if they are vacant or occupied.  
+~
+0 0 0
+D1
+~
+~
+0 0 10220
+D2
+~
+~
+0 0 10216
+D3
+~
+~
+0 0 10221
+S
+#10218
+A Narrow Hall~
+The hall is quite narrow, but still spacious enough for more than one
+person to walk in.  Small candles light the hall.  There are several rooms
+here but you don't know if they are vacant or occupied.  
+~
+0 0 0
+D0
+~
+~
+0 0 10215
+D1
+~
+~
+0 0 10224
+D2
+~
+~
+0 0 10219
+D3
+~
+~
+0 0 10225
+S
+#10219
+End of the Hall~
+The hall is quite narrow, but still spacious enough for more than one
+person to walk in.  Small candles light the hall.  There are several rooms
+here but you don't know if they are vacant or occupied.  
+~
+0 0 0
+D0
+~
+~
+0 0 10218
+D1
+~
+~
+0 0 10226
+D3
+~
+~
+0 0 10227
+S
+#10220
+An Inn Room~
+The room is spacious and there's a window on the far side, allowing one
+to view into the streets of Falme.  A bed is up against the wall, ready for
+someone to sleep on it.  
+~
+0 0 0
+D3
+~
+~
+0 0 10217
+S
+#10221
+An Inn Room~
+The room is spacious and there's a window on the far side, allowing one
+to view into the streets of Falme.  A bed is up against the wall, ready for
+someone to sleep on it.  
+~
+0 0 0
+D1
+~
+~
+0 0 10217
+S
+#10222
+An Inn Room~
+The room is spacious and there's a window on the far side, allowing one
+to view into the streets of Falme.  A bed is up against the wall, ready for
+someone to sleep on it.  
+~
+0 0 0
+D3
+~
+~
+0 0 10216
+S
+#10223
+An Inn Room~
+The room is spacious and there's a window on the far side, allowing one
+to view into the streets of Falme.  A bed is up against the wall, ready for
+someone to sleep on it.  
+~
+0 0 0
+D1
+~
+~
+0 0 10216
+S
+#10224
+An Inn Room~
+The room is spacious and there's a window on the far side, allowing one
+to view into the streets of Falme.  A bed is up against the wall, ready for
+someone to sleep on it.  
+~
+0 0 0
+D3
+~
+~
+0 0 10218
+S
+#10225
+An Inn Room~
+The room is spacious and there's a window on the far side, allowing one
+to view into the streets of Falme.  A bed is up against the wall, ready for
+someone to sleep on it.  
+~
+0 0 0
+D1
+~
+~
+0 0 10218
+S
+#10226
+An Inn Room~
+The room is spacious and there's a window on the far side, allowing one
+to view into the streets of Falme.  A bed is up against the wall, ready for
+someone to sleep on it.  
+~
+0 0 0
+D3
+~
+~
+0 0 10219
+S
+#10227
+An Inn Room~
+The room is spacious and there's a window on the far side, allowing one
+to view into the streets of Falme.  A bed is up against the wall, ready for
+someone to sleep on it.  
+~
+0 0 0
+D1
+~
+~
+0 0 10219
+S
+#10228
+Trader's Way~
+The street is alive with a variety of people.  Lots of travelers with
+their findings walk along the street attempting to trade or sell their
+treasures.  Small carts are parked by their merchants in special locations,
+hoping to draw attention.  Many traders come to the Trader's Way hoping to
+profit.  
+~
+0 0 0
+D0
+~
+~
+0 0 10242
+D1
+~
+~
+0 0 10229
+D2
+~
+~
+1 0 10243
+D3
+~
+~
+0 0 10116
+S
+#10229
+Trader's Way~
+The street is alive with a variety of people.  Lots of travelers with
+their findings walk along the street attempting to trade or sell their
+treasures.  Small carts are parked by their merchants in special locations,
+hoping to draw attention.  Many traders come to the Trader's Way hoping to
+profit.  
+~
+0 0 0
+D1
+~
+~
+0 0 10230
+D3
+~
+~
+0 0 10228
+S
+#10230
+Trader's Way~
+The street is alive with a variety of people.  Lots of travelers with
+their findings walk along the street attempting to trade or sell their
+treasures.  Small carts are parked by their merchants in special locations,
+hoping to draw attention.  Many traders come to the Trader's Way hoping to
+profit.  
+~
+0 0 0
+D0
+~
+~
+0 0 10244
+D1
+~
+~
+0 0 10231
+D2
+~
+~
+0 0 10245
+D3
+~
+~
+0 0 10229
+S
+#10231
+Trader's Way~
+The street is alive with a variety of people.  Lots of travelers with
+their findings walk along the street attempting to trade or sell their
+treasures.  Small carts are parked by their merchants in special locations,
+hoping to draw attention.  Many traders come to the Trader's Way hoping to
+profit.  
+~
+0 0 0
+D1
+~
+~
+0 0 10232
+D3
+~
+~
+0 0 10230
+S
+#10232
+Trader's Way~
+The street is alive with a variety of people.  Lots of travelers with
+their findings walk along the street attempting to trade or sell their
+treasures.  Small carts are parked by their merchants in special locations,
+hoping to draw attention.  Many traders come to the Trader's Way hoping to
+profit.  
+~
+0 0 0
+D0
+~
+~
+0 0 10187
+D1
+~
+~
+0 0 10161
+D2
+~
+~
+0 0 10358
+D3
+~
+~
+0 0 10231
+S
+#10233
+Trader's Way~
+The street is alive with a variety of people.  Lots of travelers with
+their findings walk along the street attempting to trade or sell their
+treasures.  Small carts are parked by their merchants in special locations,
+hoping to draw attention.  Many traders come to the Trader's Way hoping to
+profit.  
+~
+0 0 0
+D0
+~
+~
+0 0 10239
+D1
+~
+~
+0 0 10116
+D2
+~
+~
+0 0 10238
+D3
+~
+~
+0 0 10234
+S
+#10234
+Trader's Way~
+The street is alive with a variety of people.  Lots of travelers with
+their findings walk along the street attempting to trade or sell their
+treasures.  Small carts are parked by their merchants in special locations,
+hoping to draw attention.  Many traders come to the Trader's Way hoping to
+profit.  
+~
+0 0 0
+D1
+~
+~
+0 0 10233
+D3
+~
+~
+0 0 10235
+S
+#10235
+Trader's Way~
+The street is alive with a variety of people.  Lots of travelers with
+their findings walk along the street attempting to trade or sell their
+treasures.  Small carts are parked by their merchants in special locations,
+hoping to draw attention.  Many traders come to the Trader's Way hoping to
+profit.  
+~
+0 0 0
+D0
+~
+~
+0 0 10240
+D1
+~
+~
+0 0 10234
+D2
+~
+~
+0 0 10241
+D3
+~
+~
+0 0 10236
+S
+#10236
+Trader's Way~
+The street is alive with a variety of people.  Lots of travelers with
+their findings walk along the street attempting to trade or sell their
+treasures.  Small carts are parked by their merchants in special locations,
+hoping to draw attention.  Many traders come to the Trader's Way hoping to
+profit.  
+~
+0 0 0
+D1
+~
+~
+0 0 10235
+D3
+~
+~
+0 0 10237
+S
+#10237
+Trader's Way~
+The street is alive with a variety of people.  Lots of travelers with
+their findings walk along the street attempting to trade or sell their
+treasures.  Small carts are parked by their merchants in special locations,
+hoping to draw attention.  Many traders come to the Trader's Way hoping to
+profit.  
+~
+0 0 0
+D0
+~
+~
+0 0 10209
+D1
+~
+~
+0 0 10236
+D2
+~
+~
+0 0 10339
+D3
+~
+~
+0 0 10207
+S
+#10238
+Local Blacksmith~
+You walk into the Local Blacksmit and are confronted by heat waves coming
+from the back.  The room is very humid and steamy.  Around lay items such as
+weapons, armor, and even horseshoes.  
+~
+0 0 0
+D0
+~
+~
+0 0 10233
+S
+#10239
+A Trading Store~
+The room is dark, so dark you can't see anyone standing in front of you. 
+Suddenly you see a white sparkle, and the black man is smiling at you.  He
+winks and wants to bargain with you.  
+~
+0 0 0
+D2
+~
+~
+0 0 10233
+S
+#0
+
+
+
+#SPECIALS
+M 10121 spec_breath_frost
+M 10132 spec_breath_any_but_acid
+M 10142 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 10243 0 1
+D 0 10275 4 1
+D 0 10278 0 1
+D 0 10299 0 1
+D 0 10300 2 1
+D 0 10347 5 1
+D 0 10351 5 1
+D 0 10368 2 2
+D 0 10369 0 2
+D 0 10369 5 2
+D 0 10377 4 1
+D 0 10378 4 2
+D 0 10379 4 2
+D 0 10381 0 2
+D 0 10382 2 2
+D 0 10384 5 1
+D 0 10385 4 1
+D 0 10391 3 1
+D 0 10391 5 1
+D 0 10392 4 1
+D 0 10134 1 1
+D 0 10139 2 1
+D 0 10145 3 1
+D 0 10174 5 2
+D 0 10210 1 1
+D 0 10228 2 1
+M 0 10126 1 10240 1 100 Load an antique shopkeeper
+G 0 10126 0 0 0 100 An antique oil lamp is given to an antique shopkeeper
+M 0 10125 1 10241 1 100 Load a wise woman
+G 0 10153 0 0 0 100 A scroll of curse object is given to a wise woman
+G 0 10125 0 0 0 100 Wise advice is given to a wise woman
+G 0 10169 0 0 0 100 A potion of divine power is given to a wise woman
+M 0 10124 1 10243 1 100 Load a Falme carpet shopkeeper
+M 0 10128 1 10244 1 100 Load a garment clerk
+G 0 10127 0 0 0 100 Undergarments is given to a garment clerk
+M 0 10127 1 10245 1 100 Load bartender aleya
+G 0 3001 0 0 0 100 A bottle of beer is given to bartender aleya
+G 0 3154 0 0 0 100 A bottle of george killian's irish red is given to bartender aleya
+M 0 10104 10 10246 1 100 Load a small child
+M 0 10104 10 10247 1 100 Load a small child
+M 0 10101 30 10249 2 100 Load a Falme citizen
+M 0 10101 30 10249 2 100 Load a Falme citizen
+M 0 10101 30 10254 2 100 Load a Falme citizen
+M 0 10101 30 10254 2 100 Load a Falme citizen
+M 0 10145 2 10261 1 100 Load A vicious beast of Jumanji
+M 0 10130 16 10265 2 100 Load a small white sheep
+M 0 10130 16 10265 2 100 Load a small white sheep
+M 0 10130 16 10266 2 100 Load a small white sheep
+M 0 10130 16 10266 2 100 Load a small white sheep
+M 0 10130 16 10267 2 100 Load a small white sheep
+M 0 10130 16 10267 2 100 Load a small white sheep
+M 0 10130 16 10268 2 100 Load a small white sheep
+M 0 10130 16 10268 2 100 Load a small white sheep
+M 0 10130 16 10269 2 100 Load a small white sheep
+M 0 10130 16 10269 2 100 Load a small white sheep
+M 0 10130 16 10270 2 100 Load a small white sheep
+M 0 10130 16 10270 2 100 Load a small white sheep
+M 0 10130 16 10271 2 100 Load a small white sheep
+M 0 10130 16 10271 2 100 Load a small white sheep
+M 0 10130 16 10272 2 100 Load a small white sheep
+M 0 10130 16 10272 2 100 Load a small white sheep
+O 0 10135 0 10276 0 100 A blue vase loaded to A Farmhouse
+P 0 10133 1 10135 1 100 A stone key put inside a stone key
+M 0 10114 20 10278 2 100 Load weary traveler
+M 0 10114 20 10278 2 100 Load weary traveler
+M 0 10105 12 10278 2 100 Load a Falme guard
+E 0 10104 0 7 0 100 A falme guard's leggings is loaded on the legs of a Falme guard
+E 0 10160 0 9 0 100 A pair of silver gauntlets is loaded on the hands of a Falme guard
+M 0 10105 12 10278 2 100 Load a Falme guard
+E 0 10165 0 20 0 100 An aura of bravery is loaded floating nearby of a Falme guard
+E 0 10164 0 5 0 100 `7silver chain mail is loaded on the body of a Falme guard
+M 0 10114 20 10281 2 100 Load weary traveler
+M 0 10114 20 10281 2 100 Load weary traveler
+M 0 10122 10 10283 2 100 Load a small bird
+M 0 10122 10 10283 2 100 Load a small bird
+M 0 10114 20 10286 2 100 Load weary traveler
+M 0 10114 20 10286 2 100 Load weary traveler
+M 0 10114 20 10288 2 100 Load weary traveler
+M 0 10114 20 10288 2 100 Load weary traveler
+M 0 10122 10 10289 2 100 Load a small bird
+M 0 10122 10 10289 2 100 Load a small bird
+M 0 10121 1 10300 1 100 Load a disgruntled mother
+E 0 10120 0 13 0 100 A white apron is loaded around the waist of a disgruntled mother
+E 0 10121 0 1 0 100 A small sapphire ring is loaded on the left finger of a disgruntled mother
+E 0 10122 0 8 0 100 A pair of combat boots is loaded on the feet of a disgruntled mother
+E 0 10130 0 19 0 100 A wooden spatula is loaded held in the hands of a disgruntled mother
+E 0 10129 0 9 0 100 A pair of wool mittens is loaded on the hands of a disgruntled mother
+E 0 10131 0 17 0 100 An iron pan is loaded wielded of a disgruntled mother
+M 0 10112 1 10307 1 100 Load a tobacco shopkeeper
+G 0 10110 0 0 0 100 `7two river's tobacco is given to a tobacco shopkeeper
+M 0 10122 10 10317 2 100 Load a small bird
+M 0 10122 10 10317 2 100 Load a small bird
+M 0 10122 10 10319 2 100 Load a small bird
+M 0 10122 10 10319 2 100 Load a small bird
+M 0 10122 10 10321 2 100 Load a small bird
+M 0 10122 10 10321 2 100 Load a small bird
+M 0 10325 1 10325 1 100 Load Justin
+M 0 10102 20 10335 2 100 Load A Falme merchant
+M 0 10102 20 10335 2 100 Load A Falme merchant
+M 0 10104 10 10336 1 100 Load a small child
+M 0 10101 30 10336 2 100 Load a Falme citizen
+M 0 10101 30 10336 2 100 Load a Falme citizen
+M 0 10102 20 10337 2 100 Load A Falme merchant
+M 0 10102 20 10337 2 100 Load A Falme merchant
+M 0 10102 20 10339 2 100 Load A Falme merchant
+M 0 10102 20 10339 2 100 Load A Falme merchant
+M 0 10120 5 10354 5 100 Load a small tadpole
+M 0 10120 5 10354 5 100 Load a small tadpole
+M 0 10120 5 10354 5 100 Load a small tadpole
+M 0 10120 5 10354 5 100 Load a small tadpole
+M 0 10120 5 10354 5 100 Load a small tadpole
+M 0 10101 30 10358 2 100 Load a Falme citizen
+M 0 10101 30 10358 2 100 Load a Falme citizen
+M 0 10118 12 10365 2 100 Load a small silver fish
+M 0 10118 12 10365 2 100 Load a small silver fish
+M 0 10118 18 10365 2 100 Load a small silver fish
+M 0 10118 18 10365 2 100 Load a small silver fish
+M 0 10118 12 10366 2 100 Load a small silver fish
+M 0 10118 12 10366 2 100 Load a small silver fish
+M 0 10118 18 10366 2 100 Load a small silver fish
+M 0 10118 18 10366 2 100 Load a small silver fish
+M 0 10131 1 10369 1 100 Load Saron the Infantile
+E 0 10132 0 11 0 100 A rusty infantile shield is loaded as a shield of Saron the Infantile
+E 0 10136 0 17 0 100 An infantile dagger is loaded wielded of Saron the Infantile
+O 0 10119 0 10369 0 100 A rare emerald loaded to End of the small cave
+G 0 10138 0 0 0 100 An intricate key is given to Saron the Infantile
+O 0 10168 0 10369 0 100 A skull of the dead loaded to End of the small cave
+M 0 10106 1 10371 1 100 Load a sleeping man
+E 0 10105 0 5 0 100 A nightgown is loaded on the body of a sleeping man
+M 0 10118 12 10373 2 100 Load a small silver fish
+M 0 10118 12 10373 2 100 Load a small silver fish
+M 0 10118 18 10373 2 100 Load a small silver fish
+M 0 10118 18 10373 2 100 Load a small silver fish
+M 0 10118 12 10374 2 100 Load a small silver fish
+M 0 10118 12 10374 2 100 Load a small silver fish
+M 0 10118 18 10374 2 100 Load a small silver fish
+M 0 10118 18 10374 2 100 Load a small silver fish
+M 0 10118 12 10375 2 100 Load a small silver fish
+M 0 10118 12 10375 2 100 Load a small silver fish
+M 0 10118 18 10375 2 100 Load a small silver fish
+M 0 10118 18 10375 2 100 Load a small silver fish
+M 0 10118 12 10376 2 100 Load a small silver fish
+M 0 10118 12 10376 2 100 Load a small silver fish
+M 0 10118 18 10376 2 100 Load a small silver fish
+M 0 10118 18 10376 2 100 Load a small silver fish
+M 0 10123 1 10377 1 100 Load old man Cepheus
+E 0 10123 0 0 0 100 A blue flame is loaded as a light of old man Cepheus
+G 0 10134 0 0 0 100 A master key is given to old man Cepheus
+E 0 10146 0 17 0 100 A bow of darkness is loaded wielded of old man Cepheus
+E 0 10147 0 22 0 100 A quiver of light is loaded over the shoulder of old man Cepheus
+O 0 10128 0 10378 0 100 A stone circular rise loaded to A small cramped space
+M 0 10132 1 10382 1 100 Load Karla the Grey Witch
+G 0 10124 0 0 0 100 A fine carpet is given to Karla the Grey Witch
+E 0 10137 0 0 0 100 The sceptre of domination is loaded as a light of Karla the Grey Witch
+E 0 10140 0 17 0 100 `7war-hammer of light is loaded wielded of Karla the Grey Witch
+E 0 10139 0 3 0 100 A studded collar is loaded around the neck (1) of Karla the Grey Witch
+E 0 10141 0 15 0 100 `7studded wrist plate is loaded on the left wrist of Karla the Grey Witch
+M 0 10138 1 10384 1 100 Load Garnev
+E 0 10142 0 1 0 100 A ring of burning darkness is loaded on the left finger of Garnev
+E 0 10143 0 5 0 100 A cloak of burning darkness is loaded on the body of Garnev
+E 0 10144 0 20 0 100 An orb of screaming souls is loaded floating nearby of Garnev
+M 0 10146 1 10389 1 100 Load Parabol
+G 0 10148 0 0 0 100 A flask clouded with darkness is given to Parabol
+O 0 10149 0 10389 0 100 A vast cloud of darkness loaded to A Tunnel
+M 0 10147 1 10390 1 100 Load the Dark Essence of Maxim
+E 0 10150 0 17 0 100 A gnarled wooden staff is loaded wielded of the Dark Essence of Maxim
+O 0 10151 0 10393 0 100 An ancient chest loaded to A Small Clearing
+M 0 10145 2 10393 1 100 Load A vicious beast of Jumanji
+M 0 10114 20 10101 2 100 Load weary traveler
+M 0 10114 20 10101 2 100 Load weary traveler
+M 0 10114 20 10103 2 100 Load weary traveler
+M 0 10114 20 10103 2 100 Load weary traveler
+M 0 10114 20 10107 2 100 Load weary traveler
+M 0 10114 20 10107 2 100 Load weary traveler
+M 0 10105 12 10108 2 100 Load a Falme guard
+E 0 10104 0 7 0 100 A falme guard's leggings is loaded on the legs of a Falme guard
+E 0 10154 0 13 0 100 A falme guard's belt is loaded around the waist of a Falme guard
+M 0 10105 12 10108 2 100 Load a Falme guard
+E 0 10166 0 17 0 100 A dagger of omens is loaded wielded of a Falme guard
+E 0 10165 0 20 0 100 An aura of bravery is loaded floating nearby of a Falme guard
+M 0 10105 12 10113 2 100 Load a Falme guard
+E 0 10104 0 7 0 100 A falme guard's leggings is loaded on the legs of a Falme guard
+E 0 10155 0 1 0 100 A falme signet ring is loaded on the left finger of a Falme guard
+M 0 10105 12 10113 2 100 Load a Falme guard
+E 0 10101 0 6 0 100 A falme guard's helm is loaded over the head of a Falme guard
+E 0 10111 0 10 0 100 A falme guard's arm-plates is loaded on the arms of a Falme guard
+M 0 10103 10 10113 1 100 Load a small child
+M 0 10101 30 10113 2 100 Load a Falme citizen
+M 0 10101 30 10113 2 100 Load a Falme citizen
+M 0 10103 10 10117 1 100 Load a small child
+O 0 5306 0 10119 0 100 A large beautiful fountain loaded to The Streets of Falme
+M 0 10101 30 10119 2 100 Load a Falme citizen
+M 0 10101 30 10119 2 100 Load a Falme citizen
+M 0 10103 10 10120 1 100 Load a small child
+M 0 10102 20 10121 2 100 Load A Falme merchant
+M 0 10102 20 10121 2 100 Load A Falme merchant
+M 0 10103 10 10122 1 100 Load a small child
+M 0 10101 30 10122 2 100 Load a Falme citizen
+M 0 10101 30 10122 2 100 Load a Falme citizen
+M 0 10102 20 10123 2 100 Load A Falme merchant
+M 0 10102 20 10123 2 100 Load A Falme merchant
+M 0 10115 1 10124 1 100 Load Falme Innkeeper
+M 0 10103 10 10125 1 100 Load a small child
+M 0 10102 20 10125 2 100 Load A Falme merchant
+M 0 10102 20 10125 2 100 Load A Falme merchant
+M 0 10102 20 10126 2 100 Load A Falme merchant
+M 0 10102 20 10126 2 100 Load A Falme merchant
+M 0 10103 10 10127 1 100 Load a small child
+M 0 10101 30 10127 2 100 Load a Falme citizen
+M 0 10101 30 10127 2 100 Load a Falme citizen
+M 0 10119 14 10128 1 100 Load a small black mouse
+M 0 10119 14 10129 1 100 Load a small black mouse
+M 0 10119 14 10130 1 100 Load a small black mouse
+M 0 10119 14 10131 1 100 Load a small black mouse
+M 0 10114 20 10133 2 100 Load weary traveler
+M 0 10114 20 10133 2 100 Load weary traveler
+M 0 10103 10 10137 1 100 Load a small child
+M 0 10105 12 10139 2 100 Load a Falme guard
+E 0 10104 0 7 0 100 A falme guard's leggings is loaded on the legs of a Falme guard
+E 0 10156 0 3 0 100 A falme pendant of honesty is loaded around the neck (1) of a Falme guard
+M 0 10105 12 10139 2 100 Load a Falme guard
+E 0 10101 0 6 0 100 A falme guard's helm is loaded over the head of a Falme guard
+E 0 10111 0 10 0 100 A falme guard's arm-plates is loaded on the arms of a Falme guard
+M 0 10103 10 10139 1 100 Load a small child
+M 0 10101 30 10139 2 100 Load a Falme citizen
+M 0 10101 30 10139 2 100 Load a Falme citizen
+M 0 10105 12 10145 2 100 Load a Falme guard
+E 0 10157 0 15 0 100 A bracer lined with silver is loaded on the left wrist of a Falme guard
+E 0 10159 0 8 0 100 A pair of falme guard boots is loaded on the feet of a Falme guard
+M 0 10105 12 10145 2 100 Load a Falme guard
+E 0 10101 0 6 0 100 A falme guard's helm is loaded over the head of a Falme guard
+E 0 10111 0 10 0 100 A falme guard's arm-plates is loaded on the arms of a Falme guard
+M 0 10101 30 10145 2 100 Load a Falme citizen
+M 0 10101 30 10145 2 100 Load a Falme citizen
+M 0 10119 14 10146 1 100 Load a small black mouse
+M 0 10119 14 10147 1 100 Load a small black mouse
+M 0 10119 14 10148 2 100 Load a small black mouse
+M 0 10119 14 10150 2 100 Load a small black mouse
+M 0 10117 1 10151 1 100 Load the grocer ginger
+G 0 10116 0 0 0 100 A torch of eternal flame is given to the grocer ginger
+G 0 10117 0 0 0 100 Fresh bread is given to the grocer ginger
+G 0 3050 0 0 0 100 A raft is given to the grocer ginger
+G 0 10118 0 0 0 100 A small pouch is given to the grocer ginger
+M 0 10116 1 10152 1 100 Load the Jeweler Amir
+G 0 10114 0 0 0 100 A red ruby is given to the Jeweler Amir
+G 0 10115 0 0 0 100 A sparkling diamond is given to the Jeweler Amir
+M 0 10113 10 10155 2 100 Load a small gerbel
+M 0 10113 10 10155 2 100 Load a small gerbel
+M 0 10103 10 10156 1 100 Load a small child
+M 0 10111 1 10157 1 100 Load an old drunk man
+E 0 10109 0 17 0 100 An empty beer bottle is loaded wielded of an old drunk man
+M 0 10101 30 10157 2 100 Load a Falme citizen
+M 0 10101 30 10157 2 100 Load a Falme citizen
+M 0 10113 10 10171 2 100 Load a small gerbel
+M 0 10113 10 10171 2 100 Load a small gerbel
+M 0 10113 10 10173 2 100 Load a small gerbel
+M 0 10113 10 10173 2 100 Load a small gerbel
+M 0 10113 10 10174 2 100 Load a small gerbel
+M 0 10113 10 10174 2 100 Load a small gerbel
+M 0 10113 10 10180 2 100 Load a small gerbel
+M 0 10113 10 10180 2 100 Load a small gerbel
+M 0 10107 1 10181 1 100 Load a herbalist
+G 0 10102 0 0 0 100 An herb of restore health is given to a herbalist
+G 0 10103 0 0 0 100 An herb of cure poison is given to a herbalist
+G 0 10106 0 0 0 100 An herb of cure disease is given to a herbalist
+M 0 10108 1 10182 1 100 Load a wine specialist
+G 0 10107 0 0 0 100 A bottle of red wine is given to a wine specialist
+G 0 10108 0 0 0 100 A bottle of white wine is given to a wine specialist
+M 0 10119 14 10189 1 100 Load a small black mouse
+M 0 10119 14 10190 1 100 Load a small black mouse
+M 0 10110 1 10192 1 100 Load an old woman
+E 0 10112 0 3 0 100 A small locket is loaded around the neck (1) of an old woman
+M 0 10109 1 10192 1 100 Load an old man
+E 0 10113 0 19 0 100 An old man's cane is loaded held in the hands of an old man
+M 0 10103 10 10192 1 100 Load a small child
+M 0 10101 30 10194 2 100 Load a Falme citizen
+M 0 10101 30 10194 2 100 Load a Falme citizen
+M 0 10104 10 10200 1 100 Load a small child
+M 0 10105 12 10210 2 100 Load a Falme guard
+E 0 10104 0 7 0 100 A falme guard's leggings is loaded on the legs of a Falme guard
+E 0 10158 0 0 0 100 A radiant banner of light is loaded as a light of a Falme guard
+M 0 10105 12 10210 2 100 Load a Falme guard
+E 0 10161 0 19 0 100 A medallion of faith is loaded held in the hands of a Falme guard
+E 0 10162 0 12 0 100 A fine cloak bearing silver lining is loaded about the shoulders of a Falme guard
+M 0 10114 20 10211 2 100 Load weary traveler
+M 0 10114 20 10211 2 100 Load weary traveler
+M 0 10114 20 10213 2 100 Load weary traveler
+M 0 10114 20 10213 2 100 Load weary traveler
+M 0 10104 10 10228 1 100 Load a small child
+M 0 10101 30 10229 2 100 Load a Falme citizen
+M 0 10101 30 10229 2 100 Load a Falme citizen
+M 0 10104 10 10230 1 100 Load a small child
+M 0 10102 20 10230 2 100 Load A Falme merchant
+M 0 10102 20 10230 2 100 Load A Falme merchant
+M 0 10104 10 10232 1 100 Load a small child
+M 0 10102 20 10232 2 100 Load A Falme merchant
+M 0 10102 20 10232 2 100 Load A Falme merchant
+M 0 10104 10 10233 1 100 Load a small child
+M 0 10102 20 10234 2 100 Load A Falme merchant
+M 0 10102 20 10234 2 100 Load A Falme merchant
+M 0 10101 30 10234 2 100 Load a Falme citizen
+M 0 10101 30 10234 2 100 Load a Falme citizen
+M 0 10104 10 10235 1 100 Load a small child
+M 0 10104 10 10237 1 100 Load a small child
+M 0 10101 30 10237 2 100 Load a Falme citizen
+M 0 10101 30 10237 2 100 Load a Falme citizen
+M 0 10129 1 10238 1 100 Load blacksmith don
+G 0 9587 0 0 0 100 A horse shoe is given to blacksmith don
+G 0 3021 0 0 0 100 A small sword is given to blacksmith don
+G 0 21543 0 0 0 100 A longsword is given to blacksmith don
+G 0 15410 0 0 0 100 A iron bracer is given to blacksmith don
+S
+
+
+
+#SHOPS
+10107 26 0 0 0 0 100 100 0 24
+10108 17 0 0 0 0 100 100 0 24
+10112 26 0 0 0 0 100 100 0 24
+10115 0 0 0 0 0 100 100 0 24
+10116 8 33 32 0 0 100 100 0 24
+10117 22 1 19 15 0 100 100 0 24
+10124 12 0 0 0 0 100 100 0 2
+10125 13 0 0 0 0 100 100 0 24
+10127 17 0 0 0 0 100 100 0 24
+10128 13 0 0 0 0 100 100 0 24
+10129 5 9 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#10134
+MOB DAMAGE all [200] [300] lethal
+mob echoat $n `8L`1iu `8K`1ang`7's bicycle kick `!<> `1hurts `!<> `7you!
+~
+#10148
+say Greetings, traveller are you one who likes to gamble?
+~
+#10149
+say Excellent, I am thinking of a number between one and fifteen.
+say If you guess the correct number, then you shall be rewarded greatly!
+say If you guess the wrong number, then you shall perish!
+mob mload 10149
+mob goto 14
+mob purge
+~
+#10150
+say No?! Well then let you die wandering within the void!
+emote growls viciously, and makes a strange gesture towards $n.
+mob echoaround $n A vortex opens, and $n is suddenly sucked into it!
+mob transfer $n 5375
+~
+#10151
+if rand 92
+say You guessed correctly! Here is your prize..
+mob oload 40
+give silver $n
+else
+say I'm sorry, you are wrong.
+kick $n
+endif
+~
+#10325
+if hasquest $n 5
+tell $n Thank you stranger. But unfornatualy you bringing me this means that Stephen was unable to make it.
+tell $n If only I had been there, maybe he would of survived.
+tell $n You have don such a great service, I hate to ask more of you but there is something else we need delivered.
+tell $n Do you feel up to it?
+~
+#10326
+if hasquest $n 5
+tell $n I see. Well I and the other are truly greatful for what you have done for us and it shall not be forgotten.
+mob oload 10325
+give faith $n
+tell $n Use this only if you are in extreme danger. It will save you one day I am sure.
+tell $n Farewell my new found friend.  I may seek you out again in the future.
+mob updatequeststatus $n 5 completed
+else
+emote looks at you funny.
+endif
+~
+#10327
+if !hasquest $n 6
+tell $n I was hopeing you would agree.
+emote gets out a new scroll and scribbles some words on it in a writting you do not understand.
+mob oload 10326
+give dark $n
+tell $n seek out a man in near the Gleemans Passage.  You will know him by the scar on his right cheek.
+tell $n it is of the up most importance that you do this descreatly, let no one see you two meet.
+tell $n He will have more information for you once you get there.
+mob updatequeststatus $n 5 completed
+mob addquest $n 6
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,2175 @@
+#AREADATA
+Name Amador~
+Builders None~
+VNUMs 25201 25699
+Credits `4[ `7None `4]`7 Ishamael  Fal Dara~
+Security 10
+Flags F
+Version 4
+End
+
+
+
+#MOBILES
+#25201
+MPROG BITCH~
+mprog bitch~
+Mprog bitch
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 50d200+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M GRALL 25201 100~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#25201
+Amador Central Square~
+Serenda Street and Tallan Avenue intersect here at a cobblestone-paved
+town square.  A large fountain stands at the center of the square with shops
+and taverns all around.  There is activity here at all hours with townsfolk
+stopping to chat or collect water and travellers visiting the many
+establishments that provide food and services.  
+~
+0 0 1
+D0
+~
+~
+0 0 25228
+D1
+~
+~
+0 0 25202
+D2
+~
+~
+0 0 25223
+D3
+~
+~
+0 0 25226
+S
+#25202
+Tallan Avenue~
+The sound of metal clashing against metal can be heard from the south,
+where an armorer's workshop stands.  Amador's central square can be seen to
+the west, and a general store occupies the building to the north.  Further
+east down the road stands the eastern gate of Amador.  
+~
+0 0 1
+D0
+~
+~
+0 0 25229
+D1
+~
+~
+0 0 25203
+D2
+~
+~
+0 0 25224
+D3
+~
+~
+0 0 25201
+S
+#25203
+Tallan Avenue~
+Stout, sturdy buildings of stone or brick line the street which continues
+east towards the city's gate and west towards the central square.  Paving
+stones which make up the road have been worn smooth from the seemingly
+endless stream of traffic through the city.  
+~
+0 0 1
+D1
+~
+~
+0 0 25204
+D3
+~
+~
+0 0 25202
+S
+#25204
+Amador's Eastern Gate~
+Inside Amador's eastern gate, Tallan Avenue extends to the west where in
+the distance the city's central square can be seen.  The less travelled
+Ailron Avenue leads south.  The stone streets are well-worn but kept
+impeccably clean.  The surrounding buildings, though not large, are
+impressive in their elegant simplicity.  
+~
+0 0 1
+D0
+~
+~
+0 0 38528
+D2
+~
+~
+0 0 25205
+D3
+~
+~
+0 0 25203
+S
+#25205
+Ailron Avenue~
+Directly to the north is where Ailron Avenue intersects with Tallan
+Avenue and also the location of Amador's eastern gate.  The sound of the
+busy street to the north can be heard clearly and echos off the city wall on
+the east side of the street.  
+~
+0 0 1
+D0
+~
+~
+0 0 25204
+D2
+~
+~
+0 0 25206
+S
+#25206
+Ailron Avenue~
+The eastern street continues here to the north and south, the massive
+city wall lining the street to the east.  A small home made of red brick can
+be seen to the west, seemingly abandoned.  Large planks of wood cover the
+home's door and windows barring entry.  
+~
+0 0 1
+D0
+~
+~
+0 0 25205
+D2
+~
+~
+0 0 25207
+S
+#25207
+Ailron Avenue~
+Amador's city wall runs alongside the road to the east.  It is a wall of
+massive rocks standing several spans tall allowing no view outside the city
+from here.  A row of thick hedges lines the road to the west.  Ailron Avenue
+continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 25206
+D2
+~
+~
+0 0 25208
+S
+#25208
+Ailron Avenue~
+A vine covered archway to the west leads into Amador Park, it's wide open
+field of grass can be seen from here.  The semi-worn paving stones of Ailron
+Avenue continue to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 25207
+D2
+~
+~
+0 0 25215
+D3
+~
+~
+0 0 25209
+S
+#25209
+At the Well~
+A stone well with a bucket and ladle offers cool water to visitors of
+Amador Park.  The park itself spreads out in a carpet of green grass to the
+south and west.  A vine-covered archway leads west to Ailron Avenue, and a
+small thatch cottage is to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 25210
+D1
+~
+~
+0 0 25208
+D2
+~
+~
+0 0 25213
+D3
+~
+~
+0 0 25211
+S
+#25210
+A Thatch Cottage~
+This rather rustic thatch cottage stands on the edge of Amador Park.  It
+is furnished in a completely practical fashion with all the necessities and
+little extraneous decor.  Large windows allow a view of Amador Park to the
+south.  
+~
+0 8 1
+D2
+~
+~
+0 0 25209
+S
+#25211
+Amador Park~
+A break in the hedges to the west leads out on to bustling Serenda
+Street.  The green grass spreads out to the south, and to the east where a
+stone well offers cool refreshment.  The sounds of children laughing and
+adults engaged in relaxed conversation fills the air.  
+~
+0 0 1
+D1
+~
+~
+0 0 25209
+D2
+~
+~
+0 0 25212
+D3
+~
+~
+0 0 25220
+S
+#25212
+Amador Park~
+The perfumed scent of flowers wafts from the south on the occasional
+breeze.  The park is a mostly level field of neatly manicured grass with
+wooden benches beneath the sporadically placed shade trees.  The park
+continues to the north and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 25211
+D1
+~
+~
+0 0 25213
+D2
+~
+~
+0 0 25219
+S
+#25213
+Amador Park~
+The peaceful beauty of Amador Park continues to the north and west.  The
+grass is emerald green and meticulously manicured.  Several shade trees
+stand some distance from each other, each with a wooden bench beneath.  To
+the south the park leads out onto Mantelar Avenue.  
+~
+0 0 1
+D0
+~
+~
+0 0 25209
+D2
+~
+~
+0 0 25214
+D3
+~
+~
+0 0 25212
+S
+#25214
+Mantelar Avenue~
+Mantelar Avenue continues to the south, and intersect with Ailron Avenue
+to the east.  A break in the row of hedges to the north gives access to
+Amador Park, a peaceful expanse of neatly trimmed grass and shade trees.  
+~
+0 0 1
+D0
+~
+~
+0 0 25213
+D1
+~
+~
+0 0 25216
+D2
+~
+~
+0 0 25218
+S
+#25215
+Ailron Avenue~
+The road is made up of paving stones.  The texture is somewhat rough, not
+nearly as smoothed as some of the more well travelled roads in Amador. 
+Ailron Avenue continues north towards the city gate and south towards a
+building of large stones.  
+~
+0 0 1
+D0
+~
+~
+0 0 25208
+D2
+~
+~
+0 0 25216
+S
+#25216
+Ailron Avenue~
+The quiet side street of Ailron Avenue meets with Mantelar Avenue to the
+west.  A stone building stands to the south, and Ailron Avenue continues
+north towards the city's eastern gate.  
+~
+0 0 1
+D0
+~
+~
+0 0 25215
+D2
+~
+woodendoor~
+3 0 25217
+D3
+~
+~
+0 0 25214
+S
+#25217
+Southeast Watch Tower~
+This stout building can barely be regarded as a tower.  A wooden ledge,
+just wide enough to stand on, encircles the interior stone wall about one
+half-span above the granite floor allowing access to view out of the high
+windows.  Doors to the north and west lead out onto the city streets.  
+~
+0 8 1
+D0
+~
+~
+3 0 25216
+D3
+~
+~
+0 0 25218
+S
+#25218
+Mantelar Avenue~
+A small, stone building to the east forces Mantelar Avenue to bend here. 
+The stone paved road leads north and west, bordered by small yellow flowers.
+Pretty homes stand beyond each flowery border, smoke gently rising from
+their chimneys.  
+~
+0 0 1
+D0
+~
+~
+0 0 25214
+D1
+~
+~
+0 0 25217
+D3
+~
+~
+0 0 25315
+S
+#25219
+Flower Gardens~
+This southern corner of Amador Park is the city's botanical garden, a
+wide variety of flowers bloom in every imaginable color and hue.  Some of
+the species appear to be odd hybrids that are unlikely to be found in the
+wild.  The meticulously cultivated gardens fill the air with both the
+perfumed scent of the many flowers and the earthy scent of fertilizer.  
+~
+0 0 1
+D0
+~
+~
+0 0 25212
+S
+#25220
+Serenda Street~
+A bit of green among the densely built Amador can be seen to the east as
+the road opens to Amador Park.  The sounds of children laughing and people
+engaged in merry conversation drifts from the park to the street, which
+continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 25221
+D1
+~
+~
+0 0 25211
+D2
+~
+~
+0 0 25307
+S
+#25221
+Serenda Street~
+A narrow side street departs from Serenda Street to the west. 
+Perpetually bustling with pedestrian traffic, the occasional horse-drawn
+cart that navigates this busy road finds travel slow indeed.  The smooth
+stone street continues to the north and the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 25222
+D2
+~
+~
+0 0 25220
+D3
+~
+~
+0 0 25269
+S
+#25222
+Serenda Street~
+Serenda Street's stone paving extends to the north and south surrounded
+by stout, well-kept buildings.  The Oak and Thorn Inn is one of the largest
+buildings in sight, its deep brown wood siding and large windows making it
+appear as inviting as the smell of something cooking within.  
+~
+0 0 1
+D0
+~
+~
+0 0 25223
+D1
+~
+~
+0 0 25271
+D2
+~
+~
+0 0 25221
+S
+#25223
+Serenda Street~
+A cacophony of sounds waft from various directions: the splashing of the
+fountain in the central square to the north, the merriment and chatter from
+the tavern to the west.  From the east, a rhythmic clanging can be heard,
+and the bustling city street sounds carry from the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 25201
+D1
+~
+~
+0 0 25224
+D2
+~
+~
+0 0 25222
+D3
+~
+~
+0 0 25225
+S
+#25224
+Golden Hand Armor~
+The sounds of sheets of metal being hammered into pieces of armor ring
+loudly in this workshop.  Various types of protective wear are displayed
+along the clay walls.  Outside the north door is Tallan Avenue, and the door
+leading west opens onto busy Serenda Street.  
+~
+0 8 1
+D0
+~
+~
+0 0 25202
+D3
+~
+~
+0 0 25223
+S
+#25225
+The Blue Grape Tavern~
+The air is heavy with both the scent of tabac and the sounds of the many
+patrons talking and enjoying their meals and drink.  The ceiling of the
+tavern is high with brighlty burning lanterns hanging from the exposed
+beams.  The floorboards squeak as barmaids scurry across the room to
+accomodate the many calls for refills.  
+~
+0 8 1
+D0
+~
+~
+0 0 25226
+D1
+~
+~
+0 0 25223
+S
+#25226
+Tallan Avenue~
+A large, white-stone building stands to the north of this well travelled
+avenue.  Sounds of chatter and merriment waft from a bustling tavern to the
+south.  Tallan Avenue's stone paving continues to the east and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 25227
+D1
+~
+~
+0 0 25201
+D2
+~
+~
+0 0 25225
+D3
+~
+~
+0 0 25235
+S
+#25227
+Bank of Amador~
+Blocks of smooth white stone form the walls of this financial
+institution.  Thick pillars of cold marble support the ceiling which soars
+several spans overhead.  An imposing counter of dark cherry divides the
+clientele from the vaults just beyond it.  
+~
+0 1048584 1
+D1
+~
+~
+0 0 25228
+D2
+~
+~
+0 0 25226
+S
+#25228
+Serenda Street~
+The main retail and business center of Amador, in this section of
+bustling Amador a number of shops and services can be obtained.  The
+splashing of fountain just south in the central square adds a rythmic
+backdrop to the din of the people that fill the city.  A general store
+offering a wide variety of necessities stands to the east a busy financial
+institution is housed in an impressive stone building to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 25230
+D1
+~
+~
+0 0 25229
+D2
+~
+~
+0 0 25201
+D3
+~
+~
+0 0 25227
+S
+#25229
+Supplies and Sundries~
+An eclectic assortment of supplies, necessities and trinkets are neatly
+displayed on ample shelving which fills this store.  Items for home and
+travel alike can be purchased here at reasonable prices.  At times, items
+can be sold here, which accounts for the diverse origins of the merchandise.
+~
+0 0 1
+D2
+~
+~
+0 0 25202
+D3
+~
+~
+0 0 25228
+S
+#25230
+Serenda Street~
+Buildings no more than two stories high line either side of the road.  In
+this part of the city these buildings are mostly elegant homes.  Farther
+south lies the central square and some of the many fine shops in Amador.  In
+the distance to the north stand the city's north gates.  
+~
+0 0 1
+D0
+~
+~
+0 0 25231
+D2
+~
+~
+0 0 25228
+S
+#25231
+Serenda Street~
+A neatly manicured lawn stretches to the west between the buildings
+lining busy Serenda Street.  The persistant traffic of pedestrians and carts
+on the stone-paved road have smoothed the stones till they almost gleam. 
+The many people in the streets proceed to their desired destinations in an
+orderly fashion the watchful eyes of the guards are never far.  
+~
+0 0 1
+D0
+~
+~
+0 0 25232
+D2
+~
+~
+0 0 25230
+S
+#25232
+Serenda Street~
+The wide avenue of Serenda Street is the main thoroughfare of Amador. 
+Elegant homes line the paved street, which runs north towards the northern
+gate and south towards the town's central square.  
+~
+0 0 1
+D0
+~
+~
+0 0 25233
+D2
+~
+~
+0 0 25231
+S
+#25233
+Serenda Street~
+Paving stones, made smooth from many travellers, make up the main road
+that runs though Amador.  Serenda Street, named after the King's palace
+nearby, is meticulously kept in spite of the heavy traffic of residents and
+visitors perpetually filling the city streets.  
+~
+0 0 1
+D0
+~
+~
+0 0 25234
+D2
+~
+~
+0 0 25232
+S
+#25234
+Amador Northern Gate~
+Just inside Amador's Northern Gate, the wide, stone boulevard of Serenda
+Street extends to the south.  The paving stones are well-worn indicating
+numerous travellers have passed through these tall, sturdy gates.  The
+bustling noises of the city reverberate off the stout buildings lining the
+city streets.  
+~
+0 0 1
+D2
+~
+~
+0 0 25233
+S
+#25235
+Tallan Avenue~
+Attractive homes line both sides of Tallan Avenue.  The stone-paved road
+leads east towards the city's central square, where the splashing waters of
+a large fountain can be heard.  To the west the road leads to some small
+shops and eventually intersects with Sunburst Way.  
+~
+0 0 1
+D1
+~
+~
+0 0 25226
+D3
+~
+~
+0 0 25236
+S
+#25236
+Tallan Avenue~
+A small cottage stands to the south, its front yard brimming with a
+variety of aromatic flowers and strange green plants.  Tallan Avenue
+continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 25235
+D2
+~
+~
+0 0 25237
+D3
+~
+~
+0 0 25239
+S
+#25237
+Hedgedoctor's Cottage~
+This small cottage has walls of hardened clay and a roof of wood
+shingles.  Large windows on each wall allow plenty of daylight in to nurture
+the dozens of potted plants which fill the room.  The hedgedoctor's garden
+is just beyond the back door to the south.  
+~
+0 8 1
+D0
+~
+~
+0 0 25236
+D2
+~
+~
+0 0 25238
+S
+#25238
+A Herb Garden~
+A low, picket fence surrounds the back yard to the hedgedoctor's cottage.
+Though small in size, the garden is brimming with a wide variety of strange
+and armomatic herbs.  The plant life is lined in orderly, tilled rows with
+narrow dirt paths between them.  
+~
+0 0 1
+D0
+~
+~
+0 0 25237
+S
+#25239
+Tallan Avenue~
+Here is a junction of two roads.  Tallan Avenue continues to the east,
+leading straight through to Amador's eastern gate.  To the south is the
+twisting Sunburst Way, which winds its way towards the Fortress of Light.  
+~
+0 0 1
+D1
+~
+~
+0 0 25236
+D2
+~
+~
+0 0 25240
+S
+#25240
+Sunburst Way~
+The great stone wall of Amador lines the road to the west, too tall to
+see beyond at this point.  The stone-paved Sunburst Way leads north to
+Tallan Avenue and south where in the distance the out wall of the Fortress
+of Light can barely be seen.  
+~
+0 0 1
+D0
+~
+~
+0 0 25239
+D2
+~
+~
+0 0 25241
+S
+#25241
+Sunburst Way~
+Arrow slits in Amador's city wall, which stands along the western side of
+the street, allow a partial view of the fields and forests of Amadicia. 
+Stout buildings stand on the eastern side of the road, with neatly manicured
+lawns and gardens.  Sunburst Way continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 25240
+D2
+~
+~
+0 0 25242
+S
+#25242
+Sunburst Way~
+To the south, in the distance, the Fortress wall can be seen.  The spires
+of the Fortress reach high above its stone wall.  The road continues to the
+north and south.  A narrow, darkened path departs from Sunburst Way to the
+east.  
+~
+0 0 1
+D0
+~
+~
+0 0 25241
+D1
+~
+~
+0 0 25243
+D2
+~
+~
+0 0 25244
+S
+#25243
+Dark Side Street~
+This narrow dirt road continues to the east, lined with deteriorating
+buildings.  Sunlight and moonlight alike seem to avoid this dark path, and
+airborn dirt kicked up as you walk fills the strangely quiet air.  To the
+west the road meets with Sunburst Way.  
+~
+0 4 0
+D1
+~
+~
+0 0 25265
+D3
+~
+~
+0 0 25242
+S
+#25244
+Sunburst Way~
+A sign above the door to the east declares the small building to be the
+shop of Amador's Clothier.  The latest fashions are on display in the
+storefront windows.  Sunburst Way continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 25242
+D1
+~
+~
+0 0 25245
+D2
+~
+~
+0 0 25246
+S
+#25245
+Clothier's Shop~
+A wide variety of clothing hangs neatly on orderly rows of racks which
+fill this tidy shop.  Even the tailor's work space is kept free of the
+debris which normally covers the floor of a shop as busy as this one.  A
+doorway to the west leads out onto Sunburst Way.  
+~
+0 8 1
+D3
+~
+~
+0 0 25244
+S
+#25246
+Sunburst Way~
+The sigil of the Children of the Light is embossed on a wooden placard
+above the doorway to the east.  To the south, the wall of the Fortress of
+Light stands tall.  The road bends here, leading north and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 25244
+D1
+~
+~
+0 0 25247
+D3
+~
+~
+0 0 25248
+S
+#25247
+Children of Light Annex~
+Two enormous banners decorate opposite walls of this pristine white-clay
+building.  One banner is the sigil of the Children of the Light, a golden
+flaring sun on a backdrop of white edged in gold.  The other is the Thistle
+ans Star on a field of blue and gold stripes, the banner of Amadicia.  This
+is an unofficial guard house for the Children, a place where Children of
+Light who are currently on patrol of Amador can take a short break.  
+~
+0 8 1
+D3
+~
+~
+0 0 25246
+S
+#25248
+Sunburst Way~
+The stone wall of the Fortress of Light runs along the road to the south.
+With the city wall of Amador running along this section of the road to the
+north, the road has a tunnel-like atmosphere as it continues to the east and
+west.  
+~
+0 4 0
+D1
+~
+~
+0 0 25246
+D3
+~
+~
+0 0 25249
+S
+#25249
+Sunburst Way~
+A bright tavern stands to the north.  Sporadic bits of hushed
+conversation can be heard coming through the tavern door.  Footsteps click
+crisply on the travel-worn stones that pave the road, echoing off the
+Fortress wall running along the road to the south.  The road continues east
+and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 25250
+D1
+~
+~
+0 0 25248
+D3
+~
+~
+0 0 25252
+S
+#25250
+Sunburst Tavern~
+Located in close proximity to the Fortress of Light, this tavern is a
+favorite dining place for the Children when outside the Fortress.  Though
+all are welcome, many who live in Amador tend to shy away from this
+establishment due to reproachful and mistrusting glares the ever present
+Children of Light offer to common patrons.  
+~
+0 8 1
+D2
+~
+~
+0 0 25249
+D3
+~
+~
+0 0 25251
+S
+#25251
+A Stone Terrace Overlooking the Fields of Amadicia~
+A Stone Terrace Overlooking the Fields of Amadicia The fields of Amadicia
+sprawl before you to the north beyond a thick stone wall.  The Sunburst
+Tavern, strangely quiet for a food and drink establishment, stands on the
+eastern end of the terrace.  Sunbursy Way lies to the south.  
+~
+0 0 1
+D1
+~
+~
+0 0 25250
+D2
+~
+~
+0 0 25252
+S
+#25252
+Sunburst Way~
+A sprawling terrace of slate surrounded by a stone wall opens on the
+north side of the road.  The forboding, and seemingly inpenetrable, wall of
+the Fortress of Light stands tall on the south side of the road.  Sunburst
+Way continues east and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 25251
+D1
+~
+~
+0 0 25249
+D3
+~
+~
+0 0 25253
+S
+#25253
+Sunburst Way~
+With the city wall of Amador standing on the north side of the road, and
+the Fortress wall to the south, voices and footsteps reverberate off the
+walls.  Sunburst Way continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 25252
+D3
+~
+~
+0 0 25254
+S
+#25254
+Sunburst Way~
+The road bends here, its stone paving leading to the east and south.  In
+the distance to the south, the entrance to the Fortress of Light can be
+seen.  Arrowslits in Amador's city wall to the west allow a view of the
+Amadician countryside.  
+~
+0 0 1
+D1
+~
+~
+0 0 25253
+D2
+~
+~
+0 0 25255
+S
+#25255
+Sunburst Way~
+The Amador city wall stands approximately neck-high here.  Looking over
+the edge of the city wall, it is clear why the wall need not be high at this
+point.  Just beyond the wall is a sheer cliff that drops many spans to a
+forested valley below.  To scale the rock wall would be near impossible. 
+The stone-paved road continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 25254
+D2
+~
+~
+0 0 25256
+S
+#25256
+Sunburst Way~
+Banners bearing the sigil of the Children of the Light hang from each
+side of the impressive gates to the Fortress.  Sunburst Way runs north,
+between the Amador city wall to the west and the Fortress wall to the east,
+through the bustling city of Amador.  
+~
+0 0 1
+D0
+~
+~
+0 0 25255
+D1
+~
+gate~
+3 0 25257
+S
+#25257
+Western Gates of the Fortress of Light~
+The western gates of the fortress stand vigilant and strong.  The wooden
+doors are enforced with black iron and held up with hinges of cold steel. 
+The wall of the fortress stretches towards the west and east making the
+gates the only obvious entrance into the fortress.  To the north a wide path
+leads into the inner part of the stronghold.  
+~
+0 8 1
+D1
+~
+~
+0 0 25258
+D3
+~
+gate~
+3 0 25256
+S
+#25258
+Path to the Fortress of Light~
+The cobblestone path is extremely wide here, wide for the traffic that
+courses through this walkway everyday.  The path leads in two directions,
+the western gates of the Fortress of Light can be seen clearly to the west. 
+To the east the path narrows slightly.  
+~
+0 8 1
+D1
+~
+~
+0 0 25259
+D3
+~
+~
+0 0 25257
+S
+#25259
+Before a Checkpoint~
+The cobblestone path leading eastward narrows somewhat, presumably to
+control the traffic admitted into the fortress.  To the west the path widens
+making it wide enough for fifteen men abreast.  Further west the shining
+gates of the Fortress of Light can be made out.  The smell of horse manure
+hangs thick here, indicating horses are nearby.  
+~
+0 8 1
+D1
+~
+~
+0 0 25261
+D2
+~
+~
+0 0 25260
+D3
+~
+~
+0 0 25258
+S
+#25260
+Stables~
+Judging by the smell here, you are in the stables of some of the
+smelliest horses around.  This stable is huge with row upon row of pens to
+stock horses and the tools needed to clean them.  The stable ends before a
+thick stone wall to the east.  To the west a cobblestone path can be made
+out leading to the Fortress of Light.  
+~
+0 8 1
+D0
+~
+~
+0 0 25259
+S
+#25261
+Checkpoint Before the Western Entrance~
+You are at a checkpoint in which the traffic of people wanting to go to
+and from the Fortress of Light is channelled.  A guards post is here, just
+in case the need came when the Child of Light sentinels are not enough.  The
+western gates of the Fortress of Light lies to the west.  
+~
+0 8 1
+D1
+~
+gate~
+3 0 25262
+D3
+~
+~
+0 0 25259
+S
+#25262
+Entrance to the Fortress of Light~
+Twin doors, tall and solid stand open for those welcome into the Fortress
+of Light.  Thick marble columns, each with a diameter of at least three feet
+stand on either side of the entrance.  The entrance leads northward into a
+wide hallway.  To the west a checkpoint can be clearly made out.  
+~
+0 8 1
+D0
+~
+~
+0 0 25263
+D3
+~
+gate~
+3 0 25261
+S
+#25263
+Mouth of a White Marble Hallway~
+Twin marble column streaked with gold and silver support the entrance of
+a wide hallway here.  The doorway is extremely wide, making it possible for
+ten or more men to walk abreast.  A large chandelier is suspended over head,
+just before the doorway.  The hallway leads eastward where it seems to end
+or take a sharp turn.  The western gates of the Fortress of Light lies to
+the west beyond a bend in the hallway.  
+~
+0 8 1
+D1
+~
+~
+0 0 25264
+D2
+~
+~
+0 0 25262
+S
+#25264
+Bend in the Hallway~
+Banners are draped over the white marble walls, symbolizing the power of
+the Children of the Light over the shadow and its minions.  The hallway
+bends here, one exit leading north where the hallway takes yet another bend
+or west towards the western gates of the Fortress of Light.  
+~
+0 8 1
+D0
+~
+~
+0 0 25274
+D3
+~
+~
+0 0 25263
+S
+#25265
+Dark Side Street~
+The dirt kicked up from the unpaved road floats freely in the air, which
+is tinged by the scent of hay and manure coming from the south.  A tiny
+shack, which leans precariously close to falling down, is to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 25266
+D1
+~
+~
+0 0 25269
+D2
+~
+~
+0 0 25267
+D3
+~
+~
+0 0 25243
+S
+#25266
+A Dingy Shack~
+Floorboards squeak and groan beneath your footfalls in this cramped
+shack.  The walls barely lack the necessary support to hold them up, and the
+whole building has begun to lean as if ready to fall down.  It does not
+appear that anyone has been here in quite some time, and when the rotten
+wooden supports fail it is unlikely any will mourn the loss of this
+abandoned building.  
+~
+0 8 1
+D2
+~
+~
+0 0 25265
+S
+#25267
+A Small Corral~
+A fence of wooden planks surrounds the corral.  A dirt path is worn
+around the circumference of the fence where the horses trot for their daily
+exercise.  The center of the corral is rich with green grass.  A wooden
+stable stands to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 25265
+D2
+~
+~
+0 0 25268
+S
+#25268
+Stables~
+Weathered wooden planks provide the walls and roof of this stable.  The
+air is thick with the combined scents of hay and manure, both plentiful on
+the stable floor.  Stalls, enough to house several horses, line the back
+wall, and an exercise corral is to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 25267
+S
+#25269
+Dark Side Street~
+This tiny dirt side street is so narrow that two men can barely walk side
+by side.  The buildings are drab and close together, so that little sunlight
+reaches the street in the day.  At night, the lack of city streetlamps makes
+this a dark place that may be unwise to travel alone.  
+~
+0 0 1
+D1
+~
+~
+0 0 25221
+D2
+~
+~
+0 0 25270
+D3
+~
+~
+0 0 25265
+S
+#25270
+A Clean Home~
+This is more like a shack than a home but it has been thouroughly cleaned
+and well maintained.  The one room building has few windows, and most of
+them covered with inexpensive but nicely made drapes.  The floor is a dark
+wood, displaying a gleaming patina from years of polishing.  Washed dishes
+sit on a small table in the center of the room.  Birds can be heard coming
+through the window overlooking the back yard.  
+~
+0 8 1
+D0
+~
+~
+0 0 25269
+S
+#25271
+The Oak and Thorn Inn~
+The common room of this comfortable inn stands beyond a wide archway to
+the east.  Upstairs are many cozy rooms that can be obtained for a
+reasonable price.  A chandelier, burning brightly with several candles,
+hangs from the exposed beams, casting a warm glow on the polished oak walls.
+The busy sounds of Serenda Street can be heard from the west.  
+~
+0 8 1
+D1
+~
+~
+0 0 25273
+D3
+~
+~
+0 0 25222
+D4
+~
+~
+0 0 25272
+S
+#25272
+Reception~
+A wide hallway lined with thick, wooden doors extends south beyond a
+massive counter of dark cherry.  The reception area is spotless, and all the
+wood trim is polished to a high gleam.  A leather bound ledger atop the
+counter notes the guests currently rooming here.  
+~
+0 8 1
+D5
+~
+~
+0 0 25271
+S
+#25273
+Common Room of the Oak and Thorn~
+Several round tables, surrounded by comfortable chairs, fill this ample
+room.  A fireplace with a fieldstone hearth burns brightly with a roaring
+fire.  Two large cookpots hang over the fire, their contents bubbling and
+filling the air with a delicious scent.  Oil lamps burning on each table
+cast a cheery glow throughout the common room.  
+~
+0 8 1
+D3
+~
+~
+0 0 25271
+S
+#25274
+A White Marble Hallway~
+The white marble hallway bends, one exit leading eastward the other going
+south.  The walls are white marble, not even a spot marring its pristine
+surface.  A row of hanging lamps ebb with the corridor, bending along with
+it.  
+~
+0 8 1
+D1
+~
+~
+0 0 25275
+D2
+~
+~
+0 0 25264
+S
+#25275
+Break in a White Marble Hallway~
+The corridor is broad with banners and tapestries draped over the white
+marble walls.  To the north a wide double panelled door leads into a huge
+room, with ranks of mattresses lining its length.  The hallway continues to
+the east and west.  
+~
+0 8 1
+D0
+~
+~
+0 0 25276
+D1
+~
+~
+0 0 25277
+D3
+~
+~
+0 0 25274
+S
+#25276
+Children of the Light Quarters~
+Ranks of mattresses line the length and width of the room.  The room is
+extremely wide, with a length to match.  A giant sunburst banner draped on
+the far wall is the only thing that is imprudent in this room, everything
+else seems to be identical and simply made.  A wide double door leading into
+a wide corridor lies to the south.  
+~
+0 0 1
+D2
+~
+~
+0 0 25275
+S
+#25277
+Along a White Marble Hallway~
+This vaulted corridor is extremely wide with more than enough room for
+several men to walk abreast.  A row of gilded lamps are suspended overhead,
+running down the center of the ceiling.  The hallway continues east and
+west, both seemingly identical.  
+~
+0 8 1
+D1
+~
+~
+0 0 25278
+D3
+~
+~
+0 0 25275
+S
+#25278
+A White Marble Hallway~
+You are at an intersection in an extremely broad corridor.  The walls are
+white marble with banners of fallen enemies ranking its length.  Double
+white marble pillars support a wide entrance to the north.  The smell of
+grease can be detected quite potently to the south.  
+~
+0 8 1
+D0
+~
+~
+0 0 25279
+D1
+~
+~
+0 0 25280
+D2
+~
+~
+0 0 25281
+D3
+~
+~
+0 0 25277
+S
+#25279
+Children of Light Recruitment Room~
+A large wooden table sits near the entrance this room, with letters and
+scrolls littering its dark-wood surface.  The walls are scattered with
+banners and panels while trophies and gifts are nestled into display
+cabinets around the room.  The floor has the insignia of the Children of the
+Light, a golden sunburst, laid into its white marble surface, serving as a
+greeting for friends and a warning to enemies.  The exit to this room lies
+to the south, beyond a pillar supported doorway.  
+~
+0 8 1
+D2
+~
+~
+0 0 25278
+S
+#25280
+Western End of The Hall of Anointed~
+White and gold marble pillars support the entrance to the Children of the
+Light's quarters and administration to the west.  To the east is the heart
+of the hall of anointed, where a giant, golden sunburst can be seen which
+has been carefully laid into the floor.  
+~
+0 8 1
+D1
+~
+~
+0 0 25284
+D3
+~
+~
+0 0 25278
+S
+#25281
+T-Junction in the Hallway~
+You are at a junction in a short corridor.  The corridor is narrow but
+high, the ceiling peaking at about twelve feet.  To the west a dimly lit
+corridor leads into an armory.  Judging from the heavy odor of grease and
+oil, a weaponry lies to the east.  
+~
+0 8 1
+D0
+~
+~
+0 0 25278
+D1
+~
+~
+0 0 25282
+D3
+~
+~
+0 0 25283
+S
+#25282
+Armory Supplies~
+The room is scattered with row upon row of armor plates and other
+assorted goods made for battle.  An anvil rests in the center of the room,
+on which most of armor plates are mended.  A smoke vent is merged into the
+western wall over a huge furnace.  A soot covered doorway lies to the west. 
+~
+0 8 1
+D3
+~
+~
+0 0 25281
+S
+#25283
+Weaponry Supplies~
+Weapons of every sort can be found here.  Weapon racks line the grease
+and soot covered walls, displaying blades and clubs or all sorts.  An anvil
+and whetstone mill is stationed in the center of the room.  The only exit
+seems to be east, through an iron doorway.  
+~
+0 8 1
+D1
+~
+~
+0 0 25281
+S
+#25284
+The Heart of the Fortress of Light~
+Hundreds of golden lamps are suspended over you, each illuminating a
+region of this huge room.  A golden sunburst several feet in diameter is
+intricately set into the white marble floor, as a symbol of the power and
+wealth of the Children of Light.  You may go from here, in any direction,
+each leading to a section of the Fortress of Light.  
+~
+0 8 1
+D0
+~
+~
+0 0 25285
+D1
+~
+~
+0 0 25288
+D3
+~
+~
+0 0 25280
+S
+#25285
+Northern End of the Hall of Anointed~
+Battle banner of enemies beaten by the Children of Light line every facet
+of this end of the room.  Fringes of the giant sunburst lies under your
+feet, set into the white marble flooring.  To the north is a long, pillar
+supported hallway.  To the south, the heart of the Fortress of Light.  
+~
+0 4 0
+D0
+~
+~
+0 0 25286
+D2
+~
+~
+0 0 25284
+S
+#25286
+A White Marble Hallway~
+Pristine, white marble walls hold up a semi-vaulted ceiling from which
+gilded lamps are suspended.  The walls have small display shelves affixed to
+them where trophies, gifts and other assorted items attained by the Children
+of the Light are displayed.  The corridor stretches on to the north and
+south.  
+~
+0 8 1
+D0
+~
+~
+0 0 25287
+D2
+~
+~
+0 0 25285
+S
+#25287
+Base of a Huge Staircase~
+The staircase is wide to say the least, with more than enough room for
+ten men to walk side by side.  The rails and steps are constructed of white
+marble rounded off in bronze and silver.  The room is ringed with thick,
+white marble pillars.  The staircase leads up to the second level of the
+Fortress of Light.  
+~
+0 8 1
+D2
+~
+~
+0 0 25286
+S
+#25288
+Eastern End of the Hall of Anointed~
+Panels and banners of beaten foes of the Children of the Light are laid
+over a white and golden wall.  The floor is made of white marble, on which a
+giant, golden sunburst is laid into the floor.  The fringes of the sunburst
+lie only a few feet away from you, while the center of the sunburst is at
+the heart of the hall of anointed, to the west.  White marble pillars
+support the entrance to an expansive hallway to the east.  
+~
+0 8 1
+D1
+~
+~
+0 0 25289
+D3
+~
+~
+0 0 25284
+S
+#25289
+Mouth of a White Marble Corridor~
+Two gold and silver streaked marble pillars support the mouth of a wide
+marble corridor to the east.  The corridor seems to stretch for several
+spans before it breaks off into two, one passage going to the south and the
+other continuing its run further east.  To the west is a huge room with
+golden lamps hanging from the ceiling and battle banners lining its white
+marble walls.  
+~
+0 8 1
+D1
+~
+~
+0 0 25290
+D3
+~
+~
+0 0 25288
+S
+#25290
+Along the White Marble Corridor~
+Pictures and tapestries of wars and famous battles line either side of
+this corridor.  The corridor is very wide, with a white plastered ceiling
+reaching its peak at about fifteen feet.  The corridor continues to the east
+and west.  To the east, the corridor breaks off to the south.  To the west,
+two huge marble pillars supporting a door frame indicates the entrance of
+this passageway.  
+~
+0 8 1
+D1
+~
+~
+0 0 25291
+D3
+~
+~
+0 0 25289
+S
+#25291
+Junction in the Corridor~
+Golden lamps hang suspended from a white plastered ceiling above you. 
+The corridor junction leads in two directions.  To the south a bubbling
+fountain can be made out providing water to all.  The corridor stretches
+either east or west where the sides of each wall is lined with banner after
+banner of fallen enemies conquered by the Children of the Light.  
+~
+0 8 1
+D1
+~
+~
+0 0 25293
+D2
+~
+~
+0 0 25292
+D3
+~
+~
+0 0 25290
+S
+#25292
+Sunburst Courtyard~
+A fountain carefully crafted of marble and gold, sits at the centre of
+this courtyard, offering water for all.  Slate slabs and granite pieces form
+a intricate pattern on the ground around the fountain.  There are seating on
+the southern end of this room, made from a dark-wood of some sort.  Twin
+pillars supporting a curved-top doorway mark the exit to this courtyard to
+the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 25291
+S
+#25293
+Before the Dome of Truth~
+Two gold-streaked white marble columns mark the entrance to the Dome of
+Truth.  To either side of each column are banners one with a crimson
+shepherds crook and the other with a golden sunburst over a field of white. 
+The Dome of Truth lies to east where a marble dais stands in the center of
+it.  To the west, a wide brightly lit corridor.  
+~
+0 8 1
+D1
+~
+~
+0 0 25294
+D3
+~
+~
+0 0 25291
+S
+#25294
+The Dome of Truth~
+Hundreds of golden leaf-shaped lamps are suspended from a domed ceiling
+at least twenty feet high.  This circular room his held up with thick marble
+pillars, with panels and banners placed between every second pillar.  An
+intricately crafted marble dais lies in the center of this room.  There are
+three exits to his huge room.  A wide passageway lies to either the south,
+north or west.  
+~
+0 8 1
+D0
+~
+~
+0 0 25295
+D3
+~
+~
+0 0 25293
+S
+#25295
+Before the Dome of Truth~
+Before you is the Dome of Truth, its high vaulted ceiling from which
+hundreds of leaf-shaped lamps are suspended overhead, almost seems unreal in
+magnificence.  The passageway to the Dome of Truth lies to the south,
+through an entranceway held up by twin redstone pillars.  A wide corridor
+stretches towards the north.  
+~
+0 8 1
+D0
+~
+~
+0 0 25296
+D2
+~
+~
+0 0 25294
+S
+#25296
+A Wide Corridor~
+Both sides of this broad hallway is ranked with banners and trophies
+attained from enemies of the Children of the Light.  The ceiling of the room
+is extremely high and peaks at about fifteen feet.  The hallway stretches
+onwards, towards the north and south.  
+~
+0 8 1
+D0
+~
+~
+0 0 25297
+D2
+~
+~
+0 0 25295
+S
+#25297
+Bend in the Wide Corridor~
+You are at a bend in a hallway.  The floor of this hallway is white
+stone, inlaid with streaks of silver and bronze.  The walls are scattered
+with victory banners and trophies representing victories over the enemies of
+the Children of the Light and hence shadowspawn and darkfriends.  The
+hallway leads in two directions, one way going eastward towards the eastern
+gates and the other south down a long passageway.  
+~
+0 0 1
+D1
+~
+~
+0 0 25298
+D2
+~
+~
+0 0 25296
+S
+#25298
+Along a Wide Corridor~
+The unmarred, pristine white walls of this corridor stretch several feet
+in two directions.  To the east the corridor continues several feet where it
+seems to end or take a sharp turn.  To the west the hallway leads to a wide
+bend.  
+~
+0 8 1
+D1
+~
+~
+0 0 25299
+D3
+~
+~
+0 0 25297
+S
+#25299
+Along the Corridor~
+The pristine walls of this hallway stretch for several spans to the west
+and the east, both seemingly identical.  The ceiling of this room is very
+high, supported by redstone columns, edged in white-clay plaster.  The floor
+is clean and free of scratches, not at all like what you would expect from a
+hallway that is used frequently.  
+~
+0 8 1
+D1
+~
+~
+0 0 25300
+D3
+~
+~
+0 0 25298
+S
+#25300
+Eastern Entrance of the Fortress of Light~
+Double pillars, thick as oak trees and equally as tall, support a doorway
+wide enough for several men to walk abreast.  The symbol of the Children of
+the Light, a golden sunburst, is set into the white marble floor, just
+before the doorway, welcoming guests and warning enemies.  A wide hallway
+leading into the fortress lies to the west, running on for several feet
+until it seems to end or take a sharp turn.  
+~
+0 8 1
+D1
+~
+gate~
+1 0 25301
+D3
+~
+~
+0 0 25299
+S
+#25301
+Checkpoint~
+The hallway narrows slightly here, possibly to control the traffic that
+comes in and out of the Fortress of Light.  A large desk is stationed by the
+entrance to one side, letters and ledger books scattered upon its dark-wood
+surface.  The entrance into the Fortress of Light can be made out to the
+west.  
+~
+0 0 1
+D2
+~
+~
+0 0 25302
+D3
+~
+gate~
+1 0 25300
+S
+#25302
+Before a Checkpoint~
+The path bends here, narrowing slightly to the north to control the
+traffic admitted into the Fortress of Light.  To the east, the path widens
+somewhat and leads to the eastern gates of this stronghold.  
+~
+0 0 1
+D0
+~
+~
+0 0 25301
+D1
+~
+~
+0 0 25303
+S
+#25303
+Path to the Fortress of Light~
+The once pristine surface of the cobblestone path beneath you is now
+marred with dirt and scratches from years of wear and tear.  The path
+continues west, towards the Fortress of Light, or east towards the eastern
+gates.  A narrower walkway lies to the south.  
+~
+0 0 1
+D1
+~
+~
+0 0 25305
+D2
+~
+~
+0 0 25304
+D3
+~
+~
+0 0 25302
+S
+#25304
+A Wide Pathway~
+Before you is a huge door frame with the symbol of the hand of light
+marked clearly on its upper post.  The path is wide and seems to show signs
+of deterioration.  The walkway leads in two directions, to the north the
+path ends to join up with a wide cobblestone path, going in a east-west
+direction.  The path opens up to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 25303
+D2
+~
+~
+0 0 25306
+S
+#25305
+Eastern Gates of the Fortress of Light~
+A wood and iron gate towers before you, its painted white panels standing
+in contrast to the stone walls that support it.  The once white cobblestone
+path that lies beneath your feet now wear the marks of deterioration.  To
+the west the stronghold of the Children of the Light can be made out
+clearly.  
+~
+0 0 1
+D1
+~
+gate~
+1 0 25312
+D3
+~
+~
+0 0 25303
+S
+#25306
+Courtyard of Deliverance~
+This is where friends of the shadow, as the Hand of Light sees it, are
+forgiven.  Stationed in the south-western corner is a lengthy platform, with
+row upon row of nooses hanging from a thick beam about ten feet off the
+platform deck.  The courtyard is circular, ringed halfway with instruments
+of torture and punishment.  The other half is empty of equipment for
+spectators.  
+~
+0 0 1
+D0
+~
+~
+0 0 25304
+S
+#25307
+Serenda Street~
+A row of thick hedges borders Amador Park to the east, the park's
+entrance can be seen to the north.  Songbirds nesting in the hedge chirp
+endlessly as they happily flit from branch to branch.  The Amador Postal
+Service stands to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 25220
+D2
+~
+~
+0 0 25309
+D3
+~
+~
+0 0 25308
+S
+#25308
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25307
+S
+#25309
+Serenda Street~
+Heated air comes from a red-brick building to the west, from it's chimney
+rises an endless stream of smoke.  Serenda Street continues north, and to
+the south is Amador's southernmost street, Mantelar Avenue.  
+~
+0 0 1
+D0
+~
+~
+0 0 25307
+D2
+~
+~
+0 0 25313
+D3
+~
+~
+0 0 25310
+S
+#25310
+Weaponsmith's Forge and Workshop~
+The heat in here is overwhelming as it rises steadily in visible waves
+from the the weaponsmith's forge.  Windows standing wide open do little to
+cool the grueling heat.  An array of the craftsman's wares are displayed on
+numerous racks lining the walls.  
+~
+0 8 1
+D1
+~
+~
+0 0 25309
+D3
+~
+~
+0 0 25311
+S
+#25311
+Practice Yard~
+Short, green grass covers this level courtyard, which is used as a
+training ground for initiates of the cityguards of Amador.  Long benches sit
+on each side of the yard, where the guard trainees await their turn to spar.
+To the west stands the weaponsmith's workshop, to the south is the city
+street before the entrance to the Fortress of Light.  
+~
+0 0 1
+D1
+~
+~
+0 0 25310
+D2
+~
+~
+0 0 25312
+S
+#25312
+Before The Eastern Gates of the Fortress of Light~
+The stone street ends abruptly to the west at tall gates of wrought iron
+which mark the entrance to the Fortress of Light, the headquarters of the
+Children of the Light whose power is so evident throughout Amador.  The
+Fortress is the most impressive work of architecture in this city of many
+impressive buildings.  The stone street leads east down Mantelar Avenue, a
+grass-covered courtyard is to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 25311
+D1
+~
+~
+0 0 25314
+D3
+~
+gate~
+1 0 25305
+S
+#25313
+Mantelar Avenue~
+Mantelar Avenue intersects bustling Serenda Street here.  The city's main
+thoroughfare extends to the north, a wide avenue of smooth paving stones. 
+Mantelar Avenue runs west and to the east where it eventually stops at the
+gates of the Fortress of Light.  
+~
+0 0 1
+D0
+~
+~
+0 0 25309
+D1
+~
+~
+0 0 25315
+D3
+~
+~
+0 0 25314
+S
+#25314
+Mantelar Avenue~
+The gates of the Fortess of Light loom large towards the west at the end
+of the street.  Small flowers line this stretch of Mantelar Avenue as it
+extends to the east and west from here.  Most of the people who walk this
+close to the Fortress wear somber expressions so as not to draw the
+attention of the many Children of Light who travel to and from the Fortress.
+~
+0 0 1
+D1
+~
+~
+0 0 25313
+D3
+~
+~
+0 0 25312
+S
+#25315
+Mantelar Avenue~
+The southern street of Amador, Mantelar Avenue continues east and west
+from here.  Stout homes stand on both sides of the road, all well-kept with
+neatly manicured gardens and lawns.  
+~
+0 0 0
+D1
+~
+~
+0 0 25218
+D3
+~
+~
+0 0 25313
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 25256 1 1
+D 0 25257 3 1
+D 0 25261 1 1
+D 0 25262 3 1
+D 0 25300 1 1
+D 0 25301 3 1
+D 0 25305 1 1
+D 0 25312 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#25201
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#25201
+room zecho TEST!
+~
+#0
+
+#$

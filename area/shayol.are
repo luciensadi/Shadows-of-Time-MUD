@@ -1,0 +1,1592 @@
+#AREADATA
+Name Shayol Ghul~
+Builders Dreyus~
+VNUMs 2400 2445
+Credits `4[`7 Hard `4]`7 Dreyus    Shayol Ghul~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#2400
+presence dark one~
+Presence of the Dark One~
+The presence of the Dark One floats here, waiting for another soul.
+~
+Standing before you is the presence of the Dark One himself. His eyes are a glowing red
+and there is an aura of absolute evil that surrounds him.  Small black thin lines can
+be seen coming out from all sides of his body, seemingly going off into nothingness.
+You realize these are what attaches the Dark One to his minions in the outer world.
+~
+unique~
+0 0
+ABFGQRZ 33108 1107 1024 0 -1  -1000 0
+125 400 15000d1+1450 20d200+20000 200d1+100 wrath
+-70 -70 -70 -70
+ACDEFGHIJKN DE 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK huge unknown
+#2401
+Dreadlord ghost~
+Ghost of a Dreadlord~
+The ghost of a mighty Dreadlord is here.
+~
+Even in death the Dreadlords from the Age of Legends continue to serve their Master.
+The ghost is almost distinguishable as a male human.  He stands taller than most men by at
+least 2 hands.  His touch can be death, and his bite can be even worse.
+~
+unique~
+0 0
+AFGT 1108 3136 0 0 -1  -1000 0
+95 100 8000d1+0 50d200+10000 125d1+45 drain
+-30 -30 -30 -30
+EFKU DEFGXY Q JKLNO
+stand stand none 0
+AHIMV ABCDEFGHIJK medium unknown
+#2402
+myrddraal eyeless~
+Myrddraal~
+A very fearsome Myrrddraal stands here.
+~
+One of the Eyeless Ones stands before you, his long black cloak almost touching the ground.
+As he moves around, you notice that the cloak is not affected by his movements.  It does not
+move at all.  As he raises his sword, your bones start to paralyze in fear.
+~
+unique~
+0 0
+AF 336 80 0 0 -1  -1000 0
+110 100 8500d1+143 20d50+9000 50d1+1 slash
+-40 -40 -40 -40
+ABCDFIKN BIKLOPQ 0 EHIJZ
+stand stand male  0
+AHMV ABCDEFGHIJK huge unknown
+#2403
+Forgemaster~
+Forgemaster~
+A master of the forges stands here, looking over his apprentices.
+~
+You see some sort of being that seems like given time, it could almost be construed as human.
+But as it is now, there is now way it could be confused as anything but one of the Dark Ones
+minions. The forgemaster has very strong arms, and a thick round upper body, obviously from 
+swinging huge hammers all day.
+~
+unique~
+0 0
+AFY 272 80 0 0 -1  -1000 0
+99 90 10000d1+1200 1000d1+1000 10d20+100 pound
+-60 -60 -60 -60
+CDEFKNU ABHJ 0 DEIKZ
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#2404
+Forger~
+Forger~
+A forger of Thakan'dar stands here, tending the bellows.
+~
+It appears to be almost human, but not quite.  It's huge arms and chest almost overpower the
+rest of the body, but that is to be expected in their work.  The forger tends to ignore all
+that is around him.
+~
+unique~
+0 0
+AFZ 272 0 0 0 -1  -1000 0
+95 90 10000d1+1 1000d1+0 10d15+125 pound
+-50 -50 -50 -50
+CFIK BHJ 0 DI
+stand stand none 4000
+AHMV ABCDEFGHIJK medium unknown
+#2405
+Darkhound~
+Darkhound~
+One of the Dark One's hounds is here.
+~
+The largest hound you have ever seens is standing before you.  It is easily the size of a small 
+donkey or mule.  Its eyes seem to glow in the night, and as it touches stone, it leaves a mark.
+~
+unique~
+0 0
+AF 80 35 0 0 -1  -1000 0
+90 100 8000d1+143 1000d1+100 60d1+1 bite
+-30 -30 -30 -30
+CDEFGHIJKLMNO B 0 CD
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#2406
+trolloc misshapen~
+Trolloc~
+An ugly, misshapen form stands here.
+~
+Huge in stature, it is a twisted blend of human and animal stock.  It screams as it sees you and
+attacks immediately.
+~
+unique~
+0 0
+AFOQRY 340 2112 0 0 -1  -1000 0
+90 80 8000d1+1 1000d1+40 10d20+50 claw
+-20 -20 -20 -20
+CDEFIK 0 CIJKLZ EFG
+stand stand male  10000
+AHMV ABCDEFGHIJK huge unknown
+#2407
+darkfriend friend dark df~
+A Friend of the Dark~
+A Friend of the Dark is skulking along here.
+~
+This man, or what you assume is a man, is completely covered from head to toe in clothes of
+all types and from many different nations.  It is impossible to tell exactly where he came from
+but you know he is up to no good.
+~
+unique~
+0 0
+ABR 336 67 0 0 -1  -1000 0
+92 150 15000d1+1 1000d10+500 15d22+100 smash
+-50 -50 -50 -50
+ACEJLU BLQ EF C
+stand stand male  3000
+AHMV ABCDEFGHIJK medium unknown
+#2408
+bad man~
+A very bad man~
+A very bad man is here.
+~
+~
+unique~
+0 0
+Ae 336 3155 0 0 -1  0 0
+99 500 15000d1+1 0d0+0 100d1+0 slash
+-50 -50 -50 -50
+EFK 0 C 0
+stand stand none 0
+H 0 medium unknown
+#2409
+drey1 illuminati magus~
+Magus of the Illuminati~
+A human being in a dark flowing robe with a strange medallion around it's neck is here.
+~
+~
+wyvern~
+0 0
+A 260 2 0 0 -1  0 0
+100 200 15000d1+1 25000d1+0 45d1+0 none
+0 0 0 0
+ACDFHIKRU ABIJL 0 S
+stand stand none 0
+ABGZ ACDEFHJKQVX medium unknown
+#2410
+Richard mob~
+Richard Hatch~
+A very large and very tubby man is here.
+~
+~
+wyvern~
+0 0
+ABQRTe 49412 2050 0 4 -1  0 0
+200 3000 22000d1+1 20000d1+1 90d1+1 thrust
+-50 -50 -50 -50
+0 0 EG JKS
+stand stand none 1000
+ABGKZ ACDEFHJKQVX medium unknown
+F off CFH
+F imm L
+#2411
+Tina mob~
+Tina Wesson~
+A diminutive woman stands here.
+~
+~
+unique~
+0 0
+AFe 1280 64 16384 4096 -1  0 0
+110 1000 25000d1+1 10000d1+1 80d1+1 scratch
+-40 -40 -40 -40
+CEFK ABNQ K IJ
+stand stand female 0
+H 0 medium unknown
+#2412
+gholam soulless~
+A Gholam~
+Something slips out of a crack in the floor and forms into a semblance of a man.
+~
+~
+unique~
+0 0
+AF 49152 3 0 4096 -1  -1000 0
+100 500 9000d1+1 2d1+1 60d1+0 thrust
+-80 -80 -80 -80
+BDFIJKN C 0 D
+stand stand male  0
+H 0 medium unknown
+#2413
+draghkar~
+A Draghkar~
+A draghkar is here waiting to embrace you.
+~
+~
+unique~
+0 0
+Ae 33104 1091 0 0 -1  -1000 0
+100 400 22000d1+1 5000d1+0 100d1+1 none
+-40 -90 -10 -39
+CEFIK ABE 0 D
+stand stand none 0
+H 0 medium unknown
+#2414
+helpless man~
+A helpless man~
+A man long-ravaged by the Shadow is trying to escape.
+~
+~
+unique~
+0 0
+ABe 80 0 0 32768 -1  0 0
+1 1 10d10+1 25000d1+1000 400d1+1 pound
+50 50 50 50
+0 ABDEHIJMNOPTXYZ 0 0
+stand stand none 5
+H 0 medium unknown
+#2415
+jimmy joe bob~
+Jimmy Joe Bob~
+A large man is here, ready to give out quests.
+~
+~
+tear~
+0 0
+ABZe 344 9280 32768 8192 -1  0 0
+100 1000 32000d1+0 5000d1+5000 250d1+100 chop
+-80 -80 -80 -80
+0 ABL JP 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 2400 100~
+#2416
+horse~
+A horse is here.~
+A storm trooper is here.
+~
+~
+lizard~
+0 0
+AD 49408 8272 4096 4096 -1  0 0
+100 250 500d1+5000 4000d2+1000 100d2+100 pound
+-150 -100 -150 -200
+ACFKN ABQa HIKLb JP
+stand stand none 0
+AGXc ACDEFHKQV medium unknown
+F vul I
+#2418
+Darth Vader~
+Darth Vader~
+A dark Lord of the Sith is here.
+~
+~
+unique~
+0 0
+AR 256 8195 4096 41984 -1  -1000 0
+200 500 50000d1+200000 25000d1+2000 500d1+400 divine
+-200 -200 -200 -200
+ABCEFIKN ABEb CD N
+stand stand male  0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#2400
+Armor lost~
+`7Armor of the Lost~
+The armor of the lost soldiers is here.~
+unknown~
+armor ABY AD
+0
+ABF ABF ABF ABF 0
+110 200 100 P
+A
+20 -8
+A
+18 8
+A
+19 8
+A
+13 20
+ T 0 none~
+#2401
+shield lost~
+`7Shield of the Lost`7~
+The shield of the lost soldiers is here.~
+unknown~
+armor AB AJ
+0
+ABF ABF ABF ABF 0
+110 100 4875 P
+A
+20 -8
+A
+18 8
+A
+19 8
+A
+12 10
+A
+13 10
+ T 0 none~
+#2402
+face ghost~
+`7Dreadlord Ghost's Face~
+The face of a recently departed Dreadlord ghost is here.~
+unknown~
+armor CHY AR
+0
+ABF ABF ABF ABF 0
+110 1 10000 P
+A
+20 -5
+A
+13 35
+A
+18 7
+A
+19 7
+A
+12 10
+ T 0 none~
+#2403
+human vest~
+`7Human Leather Vest~
+A leather vest, made from human skin, is here.~
+unknown~
+armor AB AK
+0
+ABF ABF ABF ABF 0
+110 7 1000 P
+A
+20 -8
+A
+18 8
+A
+19 8
+A
+12 20
+ T 0 none~
+#2404
+dark hammer~
+`7Dark Hammer~
+A hammer made in Thakan'dar is here.~
+unknown~
+weapon ABM AN
+0
+mace 10 14 pound BCG
+110 280 23000 P
+A
+20 -6
+A
+18 8
+A
+19 8
+A
+13 21
+ T 0 none~
+#2405
+boots darkhound~
+`7Darkhound Skin Boots~
+Boots made from the skin of a Darkhound are here.~
+unknown~
+armor AB AG
+0
+ABF ABF ABF ABF 0
+110 3 0 P
+A
+20 -8
+A
+18 8
+A
+19 8
+A
+17 -10
+A
+13 5
+ T 0 none~
+#2406
+fear myrddraal~
+`7Myrddraal's Fear~
+The fear of an Eyeless is here.~
+unknown~
+armor AB AQ
+0
+ABF ABF ABF ABF 0
+110 10 10000 P
+A
+20 -8
+A
+18 8
+A
+19 8
+A
+13 20
+ T 0 none~
+#2407
+ear human sack~
+`7Sack of Human Ears~
+A bag containing human ears is here.~
+unknown~
+armor AB AO
+0
+ABF ABF ABF ABF 0
+110 10 10000 P
+A
+20 -5
+A
+18 7
+A
+19 7
+A
+13 45
+ T 0 none~
+#2408
+light~
+`?Drey's `?Light`*~
+(no description)~
+unknown~
+light ABMa A
+0
+0 0 DFGHIJ 0 0
+78 1 450000 P
+ T 0 none~
+#2409
+drey coupon~
+`?D`?r`?e`?y`?'s`? C`?o`?u`?p`?o`?n `?Q`?u`?e`?s`?t`*~
+A little round piece of paper with the name Dreyus written on it is here.~
+unknown~
+trash ABT A
+0
+0 0 0 0 0
+78 0 0 P
+E
+coupon~
+Turn in rates for coupon are as follows.
+Restring coupon = 6 Drey coupons
+Corpseretrieval =5 Drey coupons
+Prize coupon = 9 Drey coupons
+Enchant coupon =10 Drey coupons
+No_break coupon = 16 Dreyus coupons
+ 
+Any other coupons will be dealt with on a individual basis.  They can only be turned into Dreyus.
+No other imm is allowed to give out coupons, so don't ask.
+~
+ T 0 none~
+#2410
+ring raven~
+`7Raven's Ring~
+A black ring with a picture of a raven inscribed on the top is here.~
+unknown~
+armor AC AB
+0
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+20 -10
+A
+18 8
+A
+19 7
+A
+13 15
+ T 0 none~
+#2411
+drey bag~
+`1D`!r`1e`!y`1's `@B`2a`@g `3'`#O `4G`$o`4o`$d`4i`$e`4s`*~
+In bag~
+unknown~
+container ABTa AS
+0
+100000 0 0 10000 75
+100 0 0 P
+A
+20 -900
+A
+17 -2000
+A
+19 25000
+A
+18 25000
+ T 0 none~
+#2412
+brand illuminati~
+`6B`5r`6a`5n`6d `4o`3f `2t`1h`2e `8I`*l`8l`*u`8m`*i`8n`*a`8t`*i~
+A branded wristband with a strange symbol is here.~
+unknown~
+armor ABHad AM
+0
+ABDF ABDF ABDF ADF 0
+110 100 1000 P
+A
+18 10
+A
+19 9
+A
+20 -10
+A
+13 12
+ T 0 none~
+#2413
+scroll metal~
+`7Metal Scroll~
+A scroll made out of metal is here.~
+iron~
+scroll 0 A
+0
+150 'iron grip' 'iron grip' '' ''
+75 20 10000 P
+ T 0 none~
+#2414
+bag goodie~
+`?D`?r`?e`?y`?'s `2G`@o`2o`@d`2i`@e `1B`!a`1g`*~
+After looking at this bag, it might not be a good idea to wear it.~
+unknown~
+container MY AK
+0
+10000 A 0 10000 20
+40 2000 50 P
+A
+1 5
+A
+2 2
+A
+9 5
+A
+14 100
+A
+19 -5
+A
+18 -5
+A
+20 10
+A
+13 -100
+ T 0 none~
+#2415
+key~
+`*Key to prison chambers~
+This is the key that will lead you to the prison chambers~
+unknown~
+key ABCPU A
+0
+0 0 0 0 0
+150 250 0 P
+ T 0 none~
+#2416
+Armor legend lost~
+`*Legendary Armor of the Lost~
+This armor, only obtained through strenuous means, is meant only for the strongest.~
+unknown~
+armor ABa AD
+0
+ABDF BDF ACDF ACDF 0
+150 450 45000 P
+A
+19 10
+A
+18 10
+A
+20 -5
+A
+13 45
+ T 0 none~
+#2417
+shield legend lost~
+`*Legendary Shield of the Lost~
+This shield is to be worn by only the strongest of people.~
+unknown~
+armor ABa AJ
+0
+ACDF ACDF ACDF ACDF 0
+150 0 0 P
+A
+19 10
+A
+18 10
+A
+20 -10
+A
+17 -13
+ T 0 none~
+#2418
+legend ghost face~
+`*Legendary Face of a Dreadlord Ghost~
+This mask is to be worn by only the most high~
+unknown~
+armor ABa AR
+0
+ACDF CDF ABDF BDF 0
+150 200 45000 P
+A
+17 -13
+A
+20 -10
+A
+19 10
+A
+18 10
+ T 0 none~
+#2419
+legend human vest~
+`*Legendary Humanskin Vest~
+A very powerful looking vest made from humanskin is here.~
+unknown~
+armor ABa AD
+0
+CDF ADF ABDF BDF 0
+150 500 55000 P
+A
+19 10
+A
+18 10
+A
+20 -10
+A
+17 -13
+ T 0 none~
+#2420
+coupon quest~
+`$T`4his `!C`1oupon `@i`2s `%g`5ood `&f`7or `*o`8ne `^p`6iece `?o`?f `?e`?q`*~
+Give this to drey.~
+unknown~
+trash AB A
+0
+0 0 0 0 0
+110 400 25000 P
+ T 0 none~
+#2421
+twisted face draghkar~
+`*The Twisted Face of a Draghkar~
+A twisted face of a Draghkar is here.~
+unknown~
+armor AB AR
+0
+ACDF BCDF CDF CDF 0
+150 530 65000 P
+A
+13 40
+A
+20 -8
+A
+19 10
+A
+18 10
+ T 0 none~
+#2422
+seared flesh~
+`*Seared Flesh in the shape of a Foxhead~
+A piece of burned skin in the shape of a foxhead is here.~
+unknown~
+armor 0 AC
+0
+F BF CF ABF 0
+110 200 1 P
+A
+20 -8
+A
+18 8
+A
+19 8
+A
+13 20
+ T 0 none~
+#2423
+scroll~
+portal scroll~
+Portal scroll~
+unknown~
+scroll 0 A
+0
+45 'teleport' 'reserved' 'reserved' 'reserved'
+45 0 0 P
+ T 0 none~
+#2424
+drey coupon quest~
+`*Drey's Quest Coupon~
+A new and improved coupon from Dreyus is here.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+79 0 0 P
+ T 0 none~
+#2425
+no name~
+(no short description)~
+(no description)~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+110 0 0 P
+ T 0 none~
+#2426
+Quest eq coupon~
+`8Q`&uest`! E`1Q `$C`4oupon`*~
+This coupon is good for one piece of eq, personally created just for you by Dreyus.~
+unknown~
+treasure 0 A
+0
+0 0 0 0 0
+75 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#2400
+Pathway to Shayol Ghul~
+You have begun the path that will lead you to the realm of the Dark One
+himself.  You have obviously been summoned before the Great Lord.  Who could
+possibly want to enter here if you weren't commanded to be here.  Behind you
+is the Blight, and it would be best if you head back that way.
+~
+0 8196 5
+D0
+~
+~
+0 0 2401
+D2
+~
+~
+0 0 35557
+D5
+~
+~
+0 0 2402
+S
+#2401
+Further down the path~
+You continue towards your own destruction as each step down this path
+leads you closer and closer towards a meeting with the Dark One himself.  It
+would be wise to turn back now while you still can.
+~
+0 138420224 5
+D0
+~
+~
+0 0 2403
+D2
+~
+~
+0 0 2400
+S
+#2402
+Further along the path~
+You have slipped a little further down the path.  The only exit seems to
+be north, but going that way may not be such a good idea.
+~
+0 4194304 5
+D0
+~
+~
+0 0 2401
+S
+#2403
+Continuing along the path~
+As you continue along the path the Shayol Ghul, you keep asking yourself,
+"What am I doing here?"  It seems to get even darker than before.  There is
+a presence here that can only be felt, not seen.
+~
+0 138420224 5
+D0
+~
+~
+0 0 2404
+D2
+~
+~
+0 0 2401
+S
+#2404
+Bottom of Shayol Ghul~
+You now stand at the bottom of Thakan'dar.  Towards the middle of the
+mountain, you see what appears to be a clearing.  To the west of the
+clearing you can faintly see what appears to be a large building with smoke
+coming out of it.  If you are smart, you will turn back now.
+~
+0 138420224 5
+D1
+~
+~
+0 0 2405
+D2
+~
+~
+0 0 2403
+S
+#2405
+Path to Thakan'dar~
+As you get closer to the clearing to the north, you can hear grunting and
+other noises which you recognize to be trollocs.  You can also hear screams
+now coming from the building.  That must be the fabled forge where
+myrddraals get their blades.  Not a happy place to be unless commanded to be
+here.
+~
+0 138420224 5
+D0
+~
+~
+0 0 2406
+D3
+~
+~
+0 0 2404
+S
+#2406
+Trolloc Cookpit~
+In the middle of the clearing, you see a giant cookpit, with many pots in
+and around the fire.  There are many limbs and other body parts of various
+sizes and ages scattered around the clearing.  The trollocs have been
+satiated for the time being, but who knows how long that will last.  To the
+west is the forge where Myrddraal get their swords made.  To the north is a
+path that seems to lead around the mountain.  To the east, well, it would
+probably not be a good idea to go east.  The evil radiating from that
+direction is so strong you can taste it.
+~
+0 138420224 5
+D0
+~
+~
+0 0 2408
+D1
+~
+~
+0 0 2409
+D2
+~
+~
+0 0 2405
+D3
+~
+~
+0 0 2407
+S
+#2407
+Creek near Thakan'dar~
+There is a small creek which runs under the path leading to the forges. 
+There is water of a sort, but it is black as night.  As you stand gazing
+towards the forges, you see a forger come forth and shove a gleaming silver
+blade into the water.  When he pulls it back out, the blade has turned to
+the color of the blackest of nights.
+~
+0 138420228 0
+D1
+~
+~
+0 0 2406
+D3
+~
+~
+0 0 2435
+S
+#2408
+Thakan'dar~
+The mountain continues to haunt your every step.  The evil radiating from
+around Thakan'dar is almost thick enough to touch.  It is a desert setting
+all around you, but it is still extremely cold.
+~
+0 138420224 5
+D1
+~
+~
+0 0 2414
+D2
+~
+~
+0 0 2406
+D5
+~
+~
+0 0 2413
+S
+#2409
+Booga's Store~
+Booga's store is waiting to be decorated and filled.~
+0 138485760 0
+D1
+~
+~
+0 0 2410
+D3
+~
+~
+0 0 2406
+S
+#2410
+Path to the `&B`8o`&r`*e~
+This direction leads to the `&B`8o`&r`8e`* folks!  Do you know who
+resides inside there?  It is not too late to turn back.  If you do so now,
+people will not think less of you.  And you will still have your life and
+belongings.
+~
+0 138485760 0
+D1
+~
+~
+0 0 2411
+D3
+~
+~
+0 0 2409
+S
+#2411
+Path to the `&B`8o`&r`*e~
+The closer you get to the `&B`8o`&r`8e`*, the more you realize just how
+futile this is.  You could never hope to defeat the Dark One.  He is akin to
+the Creator himself in power, evil incarnate.
+~
+0 138485760 0
+D3
+~
+~
+0 0 2410
+D5
+~
+~
+0 0 2412
+S
+#2412
+Closer to the `&B`8o`&r`*e~
+Well, it seems that it is too late to turn back, as you see ahead of you,
+a large outcropping of rocks which form a skull.  At the base of the skull,
+some rocks are in the form of teeth.
+~
+0 138485760 0
+D0
+~
+~
+0 0 2415
+S
+#2413
+Thakan'dar~
+This way takes you further around the mountain.  The cold seems to have
+steeped into your very bones.  The chilling air, mixed with the feeling of
+all-around dread, make this a very nervous trip.
+~
+0 138420224 5
+D4
+~
+~
+0 0 2408
+D5
+~
+~
+0 0 2424
+S
+#2414
+Tunnel in the mountain~
+You have entered a small cave that seems to lead through the mountain
+itself.  The walls are completely smooth, and continues on towards the
+north.  To the west is the entrance.
+~
+0 138420224 5
+D0
+~
+~
+0 0 2430
+D3
+~
+~
+0 0 2408
+S
+#2415
+Closer to the `&B`8o`&r`*e~
+You are standing directly in front of the skull formation.  There looks
+to be a path that leads up and away from the skull.  That path is clearly
+the one that leads away from the Dark One, it is highly suggested that you
+take that path.
+~
+0 138485760 0
+D2
+~
+~
+0 0 2412
+D4
+~
+~
+0 0 2416
+D5
+~
+~
+0 0 2417
+S
+#2416
+Above the `&B`8o`&r`*e~
+This path will lead you away from the `&B`*o`&r`8e`* itself, although you
+can still feel quite a bit of danger around you.  You may go west farther
+away from the `&B`8o`&r`8e`* or down back towards it.
+~
+0 138485760 0
+D5
+~
+~
+0 0 2415
+S
+#2417
+Near the `&B`8o`&r`*e~
+You step beneath the rock outcroppings that look like teeth.  When you
+got close to them, you thought you had at least 12 inches of clearance, but
+as you passed beneath them, they brushed your hair.  Making you stoop just a
+bit, the path continues to the north.
+~
+0 138485760 0
+D0
+~
+~
+0 0 2418
+D4
+~
+~
+0 0 2415
+S
+#2418
+Near the `&B`8o`&r`*e~
+There is no turning back you realize.  The only way out of this now, is
+to fight your way out.  Perhaps the Dark One will take pity on you and make
+your death immediate.  Don't count on it though.
+~
+0 138485760 0
+D0
+~
+~
+0 0 2420
+S
+#2419
+Drey's Questmaster Room~
+You are in the room of Drey's Questmaster.  His name is Jimmy Joe Bob. 
+Ask him how his day is, or give him the appropriate coupon for a prize.  You
+might even try bribing him with a sack of gold.  I would suggest at least
+100 gold for his bribe.  
+~
+0 140518404 1
+S
+#2420
+Near the `&B`8o`&r`*e~
+The closer you get to the Dark One's prison, the more it's evil pulls at
+you.  There are screams inside your head that are almost unbearable.  If you
+stay too long here, you will surely go mad.  It is impossible to hear
+yourself think, let alone anyone else.
+~
+0 138485760 0
+D5
+~
+~
+0 0 2421
+S
+#2421
+Next to the `&B`8o`&r`*e~
+You have reached where very few people have ever gotten to.  You should
+feel honored to be granted the presence of the Dark One.  He is just a few
+more steps to the north, and with him you can see his Dreadlord ghosts,
+serving him even in death.
+~
+0 138485760 0
+D0
+~
+~
+0 0 2422
+S
+#2422
+At the edge to the `&B`8o`&r`*e~
+To the west is the `&B`8o`&r`8e`* itself.  Here at the edge, you can feel
+the evil radiating in all directions.  The Dark One is just to the west,
+with his Dreadlord Ghosts.
+~
+0 138485760 0
+D3
+~
+~
+0 0 2423
+S
+#2423
+The `&B`8o`&r`*e~
+You have entered the very heart of the prison of the Dark One.  It is
+here where your soul is to be trapped forever, serving Shai'tan however he
+pleases.  His Dreadlords have felt your presence and they demand to know
+your business.  You had better have a good reason for coming this far.  The
+Dark One does not take kindly to intruders.  They usually end up as food for
+the trollocs or sacrifices for the Myrddraal.
+~
+0 138477568 0
+D0
+~
+~
+4 2415 5578
+S
+#2424
+Thakan'dar~
+It seems to be getting darker on this side of the mountain, if only in
+the way the air itself feels.  You may travel back up the hill, or go north
+along the path around the mountain.
+~
+0 138420224 5
+D0
+~
+~
+0 0 2425
+D4
+~
+~
+0 0 2413
+S
+#2425
+Thakan'dar~
+The mountain continues to be the main focal point in your vision.  No
+matter which way you seem to turn, it is always there, in your vision. 
+Something is not right about that.  The path continues to the west and
+south.
+~
+0 138420224 5
+D2
+~
+~
+0 0 2424
+D3
+~
+~
+0 0 2426
+S
+#2426
+Thakan'dar~
+Myrddraals and trollocs are prevalent in this part of the mountain.  Be
+very careful about how and where you step.  One false step could bring
+hundreds of trollocs crashing into your position.  The path continues east
+and south.
+~
+0 138420224 5
+D1
+~
+~
+0 0 2425
+D2
+~
+~
+0 0 2428
+S
+#2427
+~
+~
+0 138477568 0
+D0
+~
+~
+0 0 2426
+S
+#2428
+Thakan'dar~
+The path around the mountains continues north and also down a small path
+in front of you.  The path looks to lead into a dark corner, it probably
+isn't a good idea to take that direction.
+~
+0 138420224 5
+D0
+~
+~
+0 0 2426
+D5
+~
+~
+0 0 2429
+S
+#2429
+Thakan'dar~
+Well, in every group, there is always someone who doesn't listen to
+instructions, apparently you are that person.  You have reached the dark
+area and there doesn't appear to be any way out.
+~
+0 136323076 5
+S
+#2430
+Tunnel in the mountain~
+This is further along inside the cave.  It is getting a little bit
+colder, and the walls seem to glisten with some sort of iridescent hue. 
+They are still completely smooth, as if they were cut with an extremely
+sharp knife.  The path continues to the north.
+~
+0 138420224 0
+D0
+~
+~
+0 0 2431
+D2
+~
+~
+0 0 2414
+S
+#2431
+Tunnel in the mountain~
+The path ahead of you starts to gradually rise.  It is not too steep to
+walk yet though.  There are droppings on the floor which can only be trolloc
+droppings.  This must be a cave in which they frequent.  You had best be on
+your guard then.  The path continues both south and up.
+~
+0 138420224 0
+D2
+~
+~
+0 0 2430
+D4
+~
+~
+0 0 2432
+S
+#2432
+Tunnel in the mountain~
+There are more and more droppings, there could be a large number of
+trollocs around, be careful.  There seems to be some sort of luminesence
+coming from the north.  You cannot make out it's source, but there is
+definitley light towards what may be the end of the tunnel.
+~
+0 138420224 0
+D0
+~
+~
+0 0 2433
+D5
+~
+~
+0 0 2431
+S
+#2433
+Tunnel in the mountain~
+The light continues to grow brighter as there is a bend in the tunnel. 
+It is not a complete 90 degree turn to the east, but it is really close. 
+The trolloc droppings have become almost too much, they are everywhere, and
+on everything.  The path continues to the east and south.
+~
+0 138420224 0
+D1
+~
+~
+0 0 2434
+D2
+~
+~
+0 0 2432
+S
+#2434
+Tunnel in the mountain~
+You enter the room, and immediately notice that there is no way back to
+where you came from.  The trolloc droppings, and their smell, have all but
+disappeared.  You can see two openings, one is to the north, and the other
+is east.  From both exits, comes a light so bright, that you cannot see
+through them, so you have no idea what is, or may be, beyond them.
+~
+0 138420224 0
+D0
+~
+~
+0 0 2424
+D1
+~
+~
+0 0 2407
+S
+#2435
+Thakan'dar Forges~
+You are inside a large building which appeared from the outside to be
+just one building, but once you stepped inside, you can see many forges in
+all directions.  There is an attic of sorts above you, and the Creator only
+knows what lies beneath you.
+~
+0 138420224 0
+D0
+~
+~
+0 0 2436
+D1
+~
+~
+0 0 2407
+D2
+~
+~
+0 0 2438
+D3
+~
+~
+0 0 2440
+D4
+~
+~
+0 0 2437
+S
+#2436
+Thakan'dar Forges~
+This is the northeastern corner of the forges.  Myrddraal and forgers
+alike notice your presence, but they deem you not worthy of questioning. 
+Just hope that they do not wish for you to become the next sacrifice needed
+for the blades.
+~
+0 138420224 0
+D2
+~
+~
+0 0 2435
+D3
+~
+~
+0 0 2444
+S
+#2437
+Forge Attic~
+This is the storage area for various pieces of equipment.  You can see
+hammers, leather aprons, and other miscellaneous items commonly found in a
+smithy.  The only exit is down.
+~
+0 134225920 0
+D5
+~
+~
+0 0 2435
+S
+#2438
+Thakan'dar Forges~
+This is the southern part of the forges, with exits leading in all
+directions.  To the south is the holding cells for the sacrifices.  The
+screaming coming from that area is almost too much to bear.
+~
+0 138420224 0
+D0
+~
+~
+0 0 2435
+D1
+~
+~
+0 0 2443
+D2
+~
+~
+0 0 2441
+D3
+~
+~
+0 0 2445
+S
+#2439
+Beneath the Forges~
+~
+0 134291460 0
+S
+#2440
+Thakan'dar Forges~
+This is the western edge of the forges.  All around you are forgers,
+Myrddraal and the screaming victims used to make the black blades.  To the
+north and the south are more forges.  A ways to the east is the door out of
+here.
+~
+0 4202496 4
+D0
+~
+~
+0 0 2444
+D1
+~
+~
+0 0 2435
+D2
+~
+~
+0 0 2445
+S
+#2441
+Holding Cell~
+Men, women, and children abound here.  They are all frightened to the
+point of hysteria, with them all screaming non-stop.  There is filth
+everywhere, and the stench is nauseating to say the least.
+~
+0 138420224 0
+D0
+~
+~
+0 0 2438
+D3
+~
+~
+0 0 2442
+S
+#2442
+Holding Cell~
+Men, women, and children abound here.  They are all frightened to the
+point of hysteria, with them all screaming non-stop.  There is filth
+everywhere, and the stench is nauseating to say the least.
+~
+0 134217728 4
+D1
+~
+~
+0 0 2441
+S
+#2443
+Thakan'dar Forges~
+The southeastern corner of the forge area has exits to the north and the
+west.  The forgers and even an occasional master forger can be seen walking
+around.  The remains of the sacrifices are littered all over the area.
+~
+0 138420224 0
+D0
+~
+~
+0 0 2435
+D3
+~
+~
+0 0 2438
+S
+#2444
+Thakan'dar Forges~
+This is the northwestern area of the smithy.  There are pieces of iron
+and other bits of metal that are used in the forging process littered all
+over the floor.  Scattered amongst them are the remains of humans and other
+creatures which are not quite recognizable.
+~
+0 138420224 0
+D1
+~
+~
+0 0 2436
+D2
+~
+~
+0 0 2440
+S
+#2445
+Thakan'dar Forges~
+This is the southwestern corner of the forges.  The screaming of the
+sacrifices almost drown out your thinking.  The Myrddraal glide past you, on
+their way to get another blade.  The forgers are huddled around the bellows,
+working on another black blade.
+~
+0 138420224 0
+D0
+~
+~
+0 0 2440
+D1
+~
+~
+0 0 2438
+S
+#0
+
+
+
+#SPECIALS
+M 2400 spec_cast_mage
+M 2401 spec_breath_any_but_acid
+M 2407 spec_cast_mage
+M 2411 spec_breath_acid
+M 2413 spec_thief
+M 2415 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 2423 0 2
+M 0 2414 1 2400 1 100 Load A helpless man
+M 0 2412 1 2404 1 100 Load A Gholam
+E 0 2422 0 3 0 100 `*seared flesh in the shape of a foxhead is loaded around the neck (1) of A Gholam
+M 0 2405 5 2405 1 100 Load Darkhound
+G 0 2405 0 0 0 100 `7darkhound skin boots is given to Darkhound
+M 0 2406 4 2406 2 100 Load Trolloc
+E 0 2407 0 19 0 100 `7sack of human ears is loaded held in the hands of Trolloc
+M 0 2402 6 2408 1 100 Load Myrddraal
+G 0 2406 0 0 0 100 `7myrddraal's fear is given to Myrddraal
+M 0 2401 4 2410 1 100 Load Ghost of a Dreadlord
+E 0 2402 0 21 0 100 `7dreadlord ghost's face is loaded on the face of Ghost of a Dreadlord
+M 0 2405 3 2414 1 100 Load Darkhound
+M 0 2400 1 2423 1 100 Load Presence of the Dark One
+E 0 2415 0 19 0 100 `*key to prison chambers is loaded held in the hands of Presence of the Dark One
+E 0 2417 0 11 0 100 `*legendary shield of the lost is loaded as a shield of Presence of the Dark One
+E 0 2416 0 5 0 100 `*legendary armor of the lost is loaded on the body of Presence of the Dark One
+M 0 2413 6 2423 2 100 Load A Draghkar
+E 0 2421 0 21 0 100 `*the twisted face of a draghkar is loaded on the face of A Draghkar
+M 0 2401 5 2423 1 100 Load Ghost of a Dreadlord
+E 0 2402 0 21 0 100 `7dreadlord ghost's face is loaded on the face of Ghost of a Dreadlord
+M 0 2406 4 2425 1 100 Load Trolloc
+M 0 2406 1 2425 1 100 Load Trolloc
+M 0 2407 10 2426 2 100 Load A Friend of the Dark
+E 0 2410 0 2 0 100 `7raven's ring is loaded on the right finger of A Friend of the Dark
+E 0 2410 0 1 0 100 `7raven's ring is loaded on the left finger of A Friend of the Dark
+M 0 2407 10 2428 1 100 Load A Friend of the Dark
+E 0 2410 0 2 0 100 `7raven's ring is loaded on the right finger of A Friend of the Dark
+E 0 2410 0 1 0 100 `7raven's ring is loaded on the left finger of A Friend of the Dark
+M 0 2406 5 2429 1 100 Load Trolloc
+M 0 2407 10 2429 1 100 Load A Friend of the Dark
+M 0 2407 5 2429 1 100 Load A Friend of the Dark
+M 0 2406 4 2429 1 100 Load Trolloc
+M 0 2405 1 2430 1 100 Load Darkhound
+M 0 2402 4 2430 1 100 Load Myrddraal
+E 0 2406 0 20 0 100 `7myrddraal's fear is loaded floating nearby of Myrddraal
+M 0 2405 2 2431 1 100 Load Darkhound
+M 0 2406 3 2432 1 100 Load Trolloc
+M 0 2404 2 2435 1 100 Load Forger
+M 0 2407 10 2437 1 100 Load A Friend of the Dark
+E 0 2400 0 5 0 100 `7armor of the lost is loaded on the body of A Friend of the Dark
+E 0 2401 0 11 0 100 `7shield of the lost`7 is loaded as a shield of A Friend of the Dark
+M 0 2404 2 2438 1 100 Load Forger
+M 0 2404 6 2440 1 100 Load Forger
+E 0 2404 0 17 0 100 `7dark hammer is loaded wielded of Forger
+M 0 2403 3 2444 1 100 Load Forgemaster
+E 0 2403 0 12 0 100 `7human leather vest is loaded about the shoulders of Forgemaster
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#2400
+if clan $n tinker
+bow $n
+end
+else
+say You are not Tua'thon, you are not permitted here.
+mob transfer $n 7587
+end
+else
+if sex $n == 1
+say Welcome, good sir.  Would you like to go on a quest?
+end
+else
+if sex $n == 2
+say Welcome, fair lady.  Would you like to go on a quest?
+endif
+~
+#2401
+~
+#2412
+nod
+tell dreyus One vote for $n
+~
+#2413
+~
+#2416
+yell Please don't make me go back to the cake! There are too many candles, I will get burnt!
+~
+#0
+
+#OBJPROGS
+#2400
+~
+#0
+
+#ROOMPROGS
+#2400
+~
+#0
+
+#$

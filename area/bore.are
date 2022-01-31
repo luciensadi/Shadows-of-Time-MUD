@@ -1,0 +1,243 @@
+#AREADATA
+Name Bore~
+Builders Dreyus~
+VNUMs 5578 5800
+Credits `4[`3Legend`4]`7 Dreyus    Bore~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#5578
+fade myrddraal shaidar~
+Shaidar Haran~
+An extremely tall myrddraal is here.
+~
+An exceptionally tall myrddraal stands here, glaring your way.  He
+notices your presence, even though he has no eyes.  He pulls out his black
+sword and advances towards you.  
+~
+unique~
+0 0
+ATWZ 49240 1024 0 32768 -1  -1000 0
+120 800 28000d1+248 15000d1+0 150d1+25 slash
+-100 -100 -100 -100
+ACEFGJN ABJOP 0 HIL
+stand stand none 25000
+0 0 medium unknown
+#5579
+shaitan shai Shai'tan~
+Shai'tan~
+Shai'tan, the antithesis of all that is good, is here.
+~
+~
+unique~
+0 0
+ABFe 1280 2051 0 40960 -1  -1000 0
+150 800 32000d1+0 32000d1+0 400d1+50 crush
+-200 -200 -200 -200
+0 ABDEHb 0 C
+stand stand male  0
+0 0 medium unknown
+#5580
+Sauron~
+Sauron~
+An immense figure with black obsidian armor, faceless, with a golden ring upon his right hand is here.
+~
+~
+unique~
+0 0
+AFR 256 1 0 0 -1  -1000 0
+200 900 25000d1+0 15000d1+1 66d5+200 pound
+-90 -90 -90 -90
+AFIKN 0 HJ 0
+stand stand none 0
+0 0 medium unknown
+#5581
+black rider~
+Black Rider~
+A shadowy figure atop a dark horse is here.
+~
+~
+unique~
+0 0
+AFTZ 0 81 0 4096 -1  -1000 0
+100 500 10000d1+0 5000d1+0 75d1+10 bite
+-20 -20 -20 -20
+ACEIJKO B 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#5578
+key~
+`*Key to the Prison~
+The key to Shai'tans prison is here.~
+unknown~
+key ABCPUa AO
+0
+0 0 0 0 0
+150 400 25000 P
+ T 0 none~
+#5579
+manacles shackles~
+`*Manacles of the Dark One~
+The manacles that hold the Dark One are here.~
+unknown~
+armor CU AM
+0
+ACDF ACDF ACDF ACDF 0
+150 0 0 P
+A
+18 10
+A
+19 10
+A
+20 -6
+A
+13 50
+ T 0 none~
+#5580
+armor~
+`*The armor of a thousand lost souls~
+Armor made from the destruction of thousands of lost souls is here.~
+unknown~
+armor Z AD
+0
+ACDF ACDF ACDF ACDF 0
+150 500 70000 P
+A
+20 -7
+A
+18 10
+A
+19 10
+A
+13 45
+ T 0 none~
+#5581
+light unholy~
+`*An Unholy Light~
+A light that can only be described as unholy is here~
+unknown~
+light L A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+150 600 45000 P
+A
+20 -7
+A
+19 10
+A
+18 10
+A
+13 40
+A
+17 -10
+ T 0 none~
+#5582
+crown~
+`*Crown of Shai'tan~
+The Dark One's crown is here~
+unknown~
+armor MZ AE
+0
+ACDF ACDF ACDF ACDF 0
+150 350 75000 P
+A
+13 40
+A
+18 10
+A
+19 10
+A
+20 -8
+ T 0 none~
+#5583
+do not use!~
+(no short description)~
+(no description)~
+unknown~
+pill 0 A
+0
+150 'heal' 'heal' 'heal' 'heal'
+150 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#5578
+Bore~
+You have defeated the presence of the Dark One, but you were not prepared
+for what lies behind the door.  You can hear screaming and crying from
+beyond the door, and you become even more afraid.  The actual prison of
+Shai'tan is past this door, and it is unlikely you will survive the meeting.
+~
+0 138485764 0
+D0
+~
+~
+4 5578 5579
+S
+#5579
+Prison of Shai'tan~
+This is the actual prison of the Dark One, Shai'tan.  You have seen his
+presence and defeated it.  But it is unlikely you will defeat the real
+thing.  He turns his head and looks at you with his glowing red eyes, "If
+you free me, all the world will be yours."  You step to free his manacled
+hands, then remember that he is the Father of Lies.  Instead, you raise your
+weapon to attack.  
+~
+0 138485764 0
+D2
+~
+~
+4 0 5578
+S
+#0
+
+
+
+#SPECIALS
+M 5578 spec_breath_any_but_acid
+S
+
+
+
+#RESETS
+D 0 5578 0 2
+D 0 5579 2 2
+M 0 5578 1 5578 1 100 Load Shaidar Haran
+E 0 5578 0 19 0 100 `*key to the prison is loaded held in the hands of Shaidar Haran
+M 0 5579 1 5579 1 100 Load Shai'tan
+E 0 5579 0 15 0 100 `*manacles of the dark one is loaded on the left wrist of Shai'tan
+E 0 5580 0 5 0 100 `*the armor of a thousand lost souls is loaded on the body of Shai'tan
+E 0 5581 0 0 0 100 `*an unholy light is loaded as a light of Shai'tan
+E 0 5582 0 6 0 100 `*crown of shai'tan is loaded over the head of Shai'tan
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,386 @@
+#AREADATA
+Name Tower of The Damned~
+Builders None~
+VNUMs 10900 10950
+Credits Lute~
+Security 10
+Flags F
+Version 4
+End
+
+
+
+#MOBILES
+#10907
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#10900
+Base of the Tower~
+On the walls there are a series of pictures showing the family tree.  At
+the entrance are the people who built the tower.  Hanging from the ceiling
+is a great chandelier lighting the whole room up.  A book lies on a stand. 
+On the cover are the words "Diary."  
+~
+0 1 0
+D0
+~
+~
+0 0 10901
+S
+#10901
+Inside the Tower~
+This room is much darker than the entrance.  It has several torches
+lighting the room.  The torches look old and they never dim or waver.  
+~
+0 1 0
+D1
+~
+~
+0 0 10902
+D2
+~
+~
+0 0 10900
+S
+#10902
+Entering the Gauntlet.~
+~
+0 205530117 0
+D2
+~
+~
+0 0 10903
+D3
+~
+~
+0 0 10901
+S
+#10903
+Challenge 1~
+The room is well lit from the torches all over the room.  There is some
+blood on the floor and a few skeletons.  A man stands in the center of the
+room with in a suit or armor and a sword in his hand.  Branded on the hilt
+of the sword are the words Lone Wolf.  He stands by the door, opposing all
+who dare try and scale the Tower.  
+~
+0 205529101 0
+D0
+~
+~
+0 0 10902
+D4
+~
+~
+0 0 10904
+S
+#10904
+Prepare for combat~
+Two people sit in the corner staring blankly, obviously traumitized by
+the loss of there companions.  A box to store items is in the corner.  Here
+you may rest in preparation for the next challenge ahead of you.  Hanging on
+the wall is a picture of Pella, the healer in Whitebridge.  
+~
+0 205530125 0
+D3
+~
+~
+0 0 10905
+D5
+~
+~
+0 0 10903
+S
+#10905
+Challenge 2~
+The room is well lit with blazing torches.  Some broken weapons lie on
+the ground or travelers who attempted to scale the Tower.  It appears
+strange the there are no skeletons on the ground, until you look and see a
+rabid dog knawing on a human skull gaurding the door forward.  
+~
+0 205529101 0
+D0
+~
+~
+0 0 10906
+D1
+~
+~
+0 0 10904
+S
+#10906
+Prepare for combat~
+The room is dimly lit by one torch in the corner.  It burns as if it is
+about to die out, but never does.  A skeleton sits against the wall, it must
+have been somebody that died of a bad wound.  A chest is in the corner,
+waiting to hold your valuables to protect them from harm.  
+~
+0 205530125 0
+D1
+~
+~
+0 0 10907
+D2
+~
+~
+0 0 10905
+S
+#10907
+Challenge 3~
+Around the room there are bodies lying apparently dead.  It seems as if
+they are looking at you.  As you approach the door the bodies stir and moan.
+The zombies stand up smelling fresh blood and look in your direction.  
+~
+0 205529101 0
+D2
+~
+~
+0 0 10908
+D3
+~
+~
+0 0 10906
+S
+#10908
+Prepare for combat~
+A man huddles in the corner wrapping a stump where his elbow used to be
+with bandages.  A box sits in the corner for you to store items in.  You
+begin to notice that less and less people are in the safe rooms as you
+ascend.  
+~
+0 205530125 0
+D0
+~
+~
+0 0 10907
+D4
+~
+~
+0 0 10909
+S
+#10909
+Challenge 4~
+This room is different from the previous ones.  It is very large and the
+ceiling is a wide doom.  In the middle of the room barely visible is a large
+wooden pedestal with a shadowy figure hanging from it.  A set of eyes glow
+red upon hearing your footsteps into the room.  
+~
+0 205529101 0
+D3
+~
+~
+0 0 10910
+D5
+~
+~
+0 0 10908
+S
+#10910
+Prepare for combat~
+A man is walking around the room mumbling to himself and holding a
+bandage to his neck.  He has a look of insanity in his eyes from losing his
+comrades in battle while scaling the tower.  A box is near the door for you
+to store items in.  
+~
+0 205530125 0
+D0
+~
+~
+0 0 10911
+D1
+~
+~
+0 0 10909
+S
+#10911
+Challenge 5~
+The room is dark and stuffy.  There doesn't appear to be anything to bar
+your way.  You walk to the door and with one last time, look around, making
+sure nothing is going to ambush you before you get out.  As you step out of
+the door a vine wraps around your leg pulling to back in.  
+~
+0 205529101 0
+D1
+~
+~
+0 0 10912
+D2
+~
+~
+0 0 10910
+S
+#10912
+Prepare for combat~
+Three people sit in the corner cutting off growth attached about their
+arms and legs with their swords and daggers.  A fourth person sleeps on the
+cold floor, obviously tired from the six hard battles to get this far.  A
+chest sits in the corner for you to store your valuables in.  
+~
+0 205530125 0
+D2
+~
+~
+0 0 10913
+D3
+~
+~
+0 0 10911
+S
+#10913
+Challenge 6~
+~
+0 205529101 0
+D0
+~
+~
+0 0 10912
+D4
+~
+~
+0 0 10914
+S
+#10914
+Prepare for combat~
+~
+0 205530125 0
+D3
+~
+~
+0 0 10915
+D5
+~
+~
+0 0 10913
+S
+#10915
+Challenge 7~
+~
+0 205529101 0
+D0
+~
+~
+0 0 10916
+D1
+~
+~
+0 0 10914
+S
+#10916
+Prepare for combat~
+~
+0 205530125 0
+D1
+~
+~
+0 0 10917
+D2
+~
+~
+0 0 10915
+S
+#10917
+Challenge 8~
+~
+0 205529101 0
+D2
+~
+~
+0 0 10918
+D3
+~
+~
+0 0 10916
+S
+#10918
+Prepare for combat~
+~
+0 67108873 0
+D0
+~
+~
+0 0 10917
+D4
+~
+~
+0 0 10919
+S
+#10919
+Final Challenge~
+A single torch lights the room.  Scattered everywhere are skeletons of
+travelers who dared scale the Tower with hopes of making it to the top.  The
+walls are stained red with blood and weapons lay everywhere.  At the door to
+At the door to the next room sleeps a red dragon, waiting for some unlucky
+fool to try and pass.  
+~
+0 205529101 0
+D3
+~
+~
+0 0 10920
+D5
+~
+~
+0 0 10918
+S
+#10920
+The treasure room~
+Torches are lit on the walls casting an eerie glow about the room.  It is
+entirely empty save for a gold and platinum chest sitting in the middle of
+the room.  Inside the chest, only the greatest warriors and treasure hunters
+have seen.  
+~
+0 1 0
+D1
+~
+~
+0 0 10919
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

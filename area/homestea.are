@@ -1,0 +1,103 @@
+#AREADATA
+Name Homestead~
+Builders Balwen~
+VNUMs 9851 9900
+Credits (null)~
+Security 1
+Flags CF
+Version 3
+End
+
+
+
+#MOBILES
+#9851
+Wuss~
+A Wuss Stands here~
+A Big Wuss
+~
+~
+unique~
+Aa 0 0 0 0 -1  0 0
+1000 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 ABCDFGHIJKLNQa 0
+stand stand male  0
+0 L tiny unknown
+#9852
+Wuss Bandage~
+a messy pile of bandages~
+A cackling pile of bandages dances just out of reach, laughing.
+~
+Looks like a pile of bandages, absorbant.  It's moving, though, laughing
+as you bleed to death on the ground.  
+~
+unique~
+AQ 0 0 0 0 -1  0 0
+100 0 5d5+7 0d0+0 3d6+4 slap
+15 15 15 15
+CEFKN AB Q CDHJ
+stand stand none 500
+MV ACHM small unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9851
+`8B`*a`&lw`*e`8n`*`&s`* Wuss Training Facility~
+
+Welcome to Balwens Wuss Training Facility.  If you are here, you are either already a wuss,
+or just need some guidance so you know how to take a beating like a true Wuss!
+ 
+`%Im afraid Im `%not very good at this, because afterall, I am the `#King of Wussies. 
+`%But feel free to make yourself at home, and feel free to allow yourself to be used as a 
+`%punching bag like the others!  Nothing says `#Wuss`% better than a good ole 
+`%ass beating!`*
+ 
+In the Background you see various wimpy guys hanging by their arms from the ceiling as 
+much larger bruitish people use them as a punching bag.  You hear the cracking of ribs and 
+the sound of air being let out of lungs as `#Balwen`* watches his trainees from a distance.  
+On the Walls of the room you see displayed the `#Wussies Wall of Shame`* with a picture
+of every graduate wearing a shirt with a big `#W`* printed on it.
+ 
+~
+0 0 0
+M 100 H 5000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 9851 1 9851 1 100 Load A Wuss Stands here
+M 0 9852 1 9851 1 100 Load a messy pile of bandages
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

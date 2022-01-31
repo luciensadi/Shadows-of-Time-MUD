@@ -1,0 +1,41 @@
+[    1] Bambi: catchup
+[ 3054] Bekkar: ju
+[ 3054] Merkonia: when i type 'practice cure serious' or 'practice cure light' it says "you are already learned at cure blindness",
+[11852] Dhamon: the snarling wolf has no name besides 2.
+[ 3054] Remy: list
+[ 3054] Remy: there are a lot of area that are no longer linked and now no_port
+[11970] Dhamon: this shopkeeper is blind
+[ 3002] Balla: ?  I still can't practice anything with the word "create" in front of it, it keeps telling me "you are already learned at create food"
+[32134] Dhamon: uhm friday is a guy
+[ 6400] Zedd: grun is grin, fix that. it should be gri for grin and gru for grumble
+[13151] Kyron: liaa
+[ 3700] David: The channels listing for 'trivia' is printed twice
+[  200] David: I think the RESETs for the Mud University room, east of the entrance of mudschool, have objects that would be normally found on Gordon, on the floor, as well as on Gordon
+[ 3736] Elthana: list
+[ 3054] Elthana: when i type spell to see a list of available spells, it does not show fly, which i am able to practice
+[ 6400] Iome: plaid
+[ 6400] Iome: Plate of Empress is too much AC (id is worng)
+[ 4351] Raziel: ellen
+[ 3054] Ronik: drag command - can drag while sleeping!
+[ 8199] Serenia: This is a test.
+[ 6400] Pero: bag back
+[20309] Daegreth: I've had the same envenom on my fire dagger all day
+[ 2646] Ishamael: list
+[ 3054] Pedrin: asmo
+[ 3054] Pedrin: asmo
+[ 1212] Cammaedros: cel
+[ 6400] Adelin: birg
+[ 8199] Anaki: when i type gain point, it does lower my exp per lvl, but it also resets the exp to the beginning of the lvl. EX: say i have 3783 per lvl, and 618 exp to lvl, but i type gain point at, oh say machael's, and my exp per lvl lowers to oh say 3618 my exp
+[20309] Naku: list
+[ 3718] Talbain: list
+[ 3744] Forneth: boar healing almost instantly every tick
+[ 6400] Sunjoy: acebo ooc
+[ 6400] Sunjoy: acebo ooc
+[ 3721] Maarken: newbie merchant dude ... erm Kimber just sits there grinning pretending to be selling stuff (cant list or buy) .... and I killed the flee blob sorry
+[   99] Plaid: Diem is a tool.
+[   99] Plaid: I once saw a bug .. I thought it might be looking at me.. so I stepped on it..
+[   99] Plaid: Someone is touching the Lynn
+[ 1212] Ishamael: list
+[ 3700] Plaid: null password
+[ 8199] Kaaenn: dunno if this is a bug...'help teleport' has a reference to 'help trasportation' in it-transportation is spelt wrong. :)
+[ 6400] Svelta: balwen

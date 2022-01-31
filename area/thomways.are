@@ -1,0 +1,1481 @@
+#AREADATA
+Name The Ways~
+Builders Demandred~
+VNUMs 8100 8199
+Credits `4[`&Middle`4]`* Thom Allen    The Ways~
+Security 10
+Flags EF
+Version 4
+End
+
+
+
+#MOBILES
+#8100
+Machin Sin~
+Machin Sin~
+Machin Sin, the infamous Black Wind, murmurs it's insane curses as it attacks!
+~
+~
+unique~
+0 0
+AFGZc 336 3136 0 0 -1  -1000 0
+600 200 20000d1+500 50d50+50 25d25+40 wrath
+-150 -150 -150 -150
+AFHO ABOPb DHM 0
+stand stand none 1
+E 0 large unknown
+M GRALL 8100 100~
+#8102
+insane ogier~
+an insane Ogier~
+A young looking Ogier male wanders about talking to himself.
+~
+~
+giant~
+0 0
+AGOTZ 1280 3136 0 0 -1  -1000 0
+85 150 100d90+100 50d50+50 100d1+50 beating
+-30 -30 -30 -35
+FHJK AB EHIJ H
+stand stand male  3
+AHMV ABCDEFGHIJK huge unknown
+F vul JP
+#8103
+Halfman~
+a Halfman~
+A Halfman turns his eyeless gaze on you and attacks.
+~
+~
+tear~
+0 0
+AFGT 33024 1090 0 0 -1  -1000 0
+90 151 100d100+100 100d20+40 95d1+50 slash
+-45 -45 -45 -40
+EFGHIKU ABEGJ Lb R
+stand stand none 1
+AHIMV ABCDEFGHIJK large unknown
+#8104
+Trolloc~
+a vicious trolloc~
+A vicious trolloc snarls and growls as he attacks!
+~
+~
+troll~
+0 0
+AGT 33024 3136 0 0 -1  -1000 0
+85 145 100d90+1 50d50+50 95d1+50 crush
+-40 -40 -40 -35
+DFIKNOU ABEL BEIb K
+stand stand none 2
+ABHMV ABCDEFGHIJKUV huge unknown
+F vul H
+#0
+
+
+
+#OBJECTS
+#8100
+waygate gate~
+a shimmering `8w`&a`8yg`7a`8te`7~
+A shimmering surface glows here as the trefoil leaves spread apart.~
+unknown~
+portal AG 0
+0
+0 AB 0 ACFHIJKLM 0
+0 0 0 P
+ T 0 none~
+#8101
+guiding pillar stone~
+a `1G`8ui`1d`8i`!n`1g`7~
+A long, thick pillar sticks out of the ground, containing foreign writing.~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+E
+guidings~
+North: The Stedding
+South: Gleeman's Passage
+~
+E
+pillar~
+North: The Stedding
+South: Gleeman's Passage
+~
+E
+stone~
+North: The Stedding
+South: Gleeman's Passage
+~
+ T 0 none~
+#8102
+waygate gate~
+a shimmering `8w`&a`8yg`7a`8te`7~
+A shimmering surface glows here as the trefoil leaves spread apart.~
+unknown~
+portal AG 0
+0
+0 AB 0 ACDFGIJ 0
+0 0 0 P
+ T 0 none~
+#8103
+guiding pillar stone~
+a `1G`8ui`1d`8i`!n`1g`7~
+A long, thick pillar sticks out of the ground, containing foreign writing.~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+E
+pillar~
+Northwest: Shayol Ghul
+Northeast: The Waste
+~
+E
+stone~
+Northwest: Shayol Ghul
+Northeast: The Waste
+~
+E
+guidings~
+Northwest: Shayol Ghul
+Northeast: The Waste
+~
+ T 0 none~
+#8107
+aura~
+an Aura of Dementia~
+A glowing aura floats here, an insane cackling seeming to come from it.~
+insanity~
+armor AB AQ
+0
+DF DF DF ABF 0
+96 20 7000 P
+A
+19 6
+A
+18 5
+A
+20 -14
+ T 0 none~
+#8108
+cloak~
+a cloak of Black Wind~
+A cloak so black that it appears almost frictionless lies here.~
+air~
+armor F AK
+0
+DF DF ACDF DF 0
+110 10 9000 P
+A
+18 7
+A
+19 8
+A
+13 30
+A
+12 30
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#8199
+A Storage Room~
+There are barrels lined up against the walls here. They permiate of old
+ale and wine. The walls and shelves are coated with a thick, gray dust or
+dirt. The room is very large and there seems to be cots and beds all around.
+A gleeman is standing in the center offering ballads. 
+~
+0 1048588 0
+D2
+~
+~
+0 0 13153
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 13152
+M 150 H 150
+S
+#8100
+Into the Darkness~
+The darkness rolls in from all directions leaving nothing to be seen,
+barely your own hand.  A stench lingers that smells of rank air, and the
+ground is hard like rock, but you can feel occasional cracks in it.  As you
+look down, all you see is the white line, leading you into darkness.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8102
+S
+#8101
+Under the cellar~
+~
+0 4202500 0
+D4
+~
+~
+1 0 13186
+S
+#8102
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8103
+D2
+~
+~
+0 0 8100
+S
+#8103
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8123
+D1
+~
+~
+0 0 8104
+D2
+~
+~
+0 0 8102
+D3
+~
+~
+0 0 8107
+S
+#8104
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8122
+D1
+~
+~
+0 0 8105
+D3
+~
+~
+0 0 8103
+S
+#8105
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8121
+D1
+~
+~
+0 0 8106
+D3
+~
+~
+0 0 8104
+S
+#8106
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8120
+D2
+~
+~
+0 0 13058
+D3
+~
+~
+0 0 8105
+S
+#8107
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8124
+D1
+~
+~
+0 0 8103
+D3
+~
+~
+0 0 8108
+S
+#8108
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8125
+D1
+~
+~
+0 0 8107
+D3
+~
+~
+0 0 8109
+S
+#8109
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8110
+D1
+~
+~
+0 0 8108
+D3
+~
+~
+0 0 13051
+S
+#8110
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8111
+D1
+~
+~
+0 0 8125
+D2
+~
+~
+0 0 8109
+S
+#8111
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8112
+D1
+~
+~
+0 0 8126
+D2
+~
+~
+0 0 8110
+D3
+~
+~
+0 0 8133
+S
+#8112
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8113
+D2
+~
+~
+0 0 8111
+S
+#8113
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8114
+D2
+~
+~
+0 0 8126
+D3
+~
+~
+0 0 8112
+S
+#8114
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8115
+D2
+~
+~
+0 0 8127
+D3
+~
+~
+0 0 8113
+S
+#8115
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8131
+D1
+~
+~
+0 0 8116
+D2
+~
+~
+0 0 8128
+D3
+~
+~
+0 0 8114
+S
+#8116
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8117
+D2
+~
+~
+0 0 8129
+D3
+~
+~
+0 0 8115
+S
+#8117
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 13057
+D1
+~
+~
+0 0 8118
+D2
+~
+~
+0 0 8130
+D3
+~
+~
+0 0 8116
+S
+#8118
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D2
+~
+~
+0 0 8119
+D3
+~
+~
+0 0 8117
+S
+#8119
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8118
+D1
+~
+~
+0 0 8136
+D2
+~
+~
+0 0 8120
+D3
+~
+~
+0 0 8130
+S
+#8120
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8119
+D2
+~
+~
+0 0 8106
+D3
+~
+~
+0 0 8121
+S
+#8121
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8120
+D2
+~
+~
+0 0 8105
+D3
+~
+~
+0 0 8122
+S
+#8122
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8121
+D2
+~
+~
+0 0 8104
+D3
+~
+~
+0 0 8123
+S
+#8123
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8122
+D2
+~
+~
+0 0 8103
+D3
+~
+~
+0 0 8124
+S
+#8124
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8123
+D2
+~
+~
+0 0 8107
+D3
+~
+~
+0 0 8125
+S
+#8125
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8124
+D2
+~
+~
+0 0 8108
+D3
+~
+~
+0 0 8110
+S
+#8126
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8113
+D1
+~
+~
+0 0 8127
+D3
+~
+~
+0 0 8111
+S
+#8127
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8114
+D1
+~
+~
+0 0 8128
+D3
+~
+~
+0 0 8126
+S
+#8128
+The Guiding~
+The darkness presses closer to your skin as you settle upon the middle of
+the island, or at least you think it is an island.  The light doesn't reach
+far, but far enough to show the presence of a large stone pillar, sticking
+out of the ground.  The writings on the pillar are very peculiar indeed, but
+look like the language the Ogier write.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8115
+D1
+~
+~
+0 0 8129
+D3
+~
+~
+0 0 8127
+S
+#8129
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8116
+D1
+~
+~
+0 0 8130
+D3
+~
+~
+0 0 8128
+S
+#8130
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8117
+D1
+~
+~
+0 0 8119
+D3
+~
+~
+0 0 8129
+S
+#8131
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8132
+D2
+~
+~
+0 0 8115
+S
+#8132
+Into the Darkness~
+The darkness rolls in from all directions leaving nothing to be seen,
+barely your own hand.  A stench lingers that smells of rank air, and the
+ground is hard like rock, but you can feel occasional cracks in it.  As you
+look down, all you see is the white line, leading you into darkness.  
+~
+0 4202496 0
+D2
+~
+~
+0 0 8131
+S
+#8133
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8111
+D5
+~
+~
+0 0 8134
+S
+#8134
+On a ramp~
+You begin to head down a ramp with no rails, and only more eternal
+blackness below.  Not knowing what is above or below, or if you've been here
+before, there is no choice but continue.  The ramp below you is cracked and
+is flaking away as you step foot onto it.  You kick a rock off the edge, and
+never hear it hit bottom.  
+~
+0 4202496 0
+D4
+~
+~
+0 0 8133
+D5
+~
+~
+0 0 8135
+S
+#8135
+On a ramp~
+You stand at the bottom of what seems to be a ramp...and only more eternal
+blackness below.  Not knowing what is above or below, or if you've been here
+before, there is no choice but continue.  The ramp below you is cracked and
+is flaking away as you step foot onto it.  You kick a rock off the edge, and
+never hear it hit bottom.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8159
+D1
+~
+~
+0 0 8139
+D3
+~
+~
+0 0 13069
+D4
+~
+~
+0 0 8134
+S
+#8136
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D3
+~
+~
+0 0 8119
+D5
+~
+~
+0 0 8137
+S
+#8137
+On a ramp~
+You begin to head down a ramp with no rails, and only more eternal
+blackness below.  Not knowing what is above or below, or if you've been here
+before, there is no choice but continue.  The ramp below you is cracked and
+is flaking away as you step foot onto it.  You kick a rock off the edge, and
+never hear it hit bottom.  
+~
+0 4202496 0
+D4
+~
+~
+0 0 8136
+D5
+~
+~
+0 0 8138
+S
+#8138
+On a ramp~
+You begin to head down a ramp with no rails, and only more eternal
+blackness below.  Not knowing what is above or below, or if you've been here
+before, there is no choice but continue.  The ramp below you is cracked and
+is flaking away as you step foot onto it.  You kick a rock off the edge, and
+never hear it hit bottom.  
+~
+0 4202496 0
+D4
+~
+~
+0 0 8137
+S
+#8139
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8140
+D3
+~
+~
+0 0 8135
+S
+#8140
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8141
+D3
+~
+~
+0 0 8139
+S
+#8141
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8142
+D3
+~
+~
+0 0 8140
+S
+#8142
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8143
+D1
+~
+~
+0 0 13075
+D3
+~
+~
+0 0 8141
+S
+#8143
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8144
+D2
+~
+~
+0 0 8142
+S
+#8144
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8145
+D2
+~
+~
+0 0 8143
+D3
+~
+~
+0 0 8155
+S
+#8145
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8153
+D2
+~
+~
+0 0 8144
+D3
+~
+~
+0 0 8146
+S
+#8146
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8145
+D2
+~
+~
+0 0 8155
+D3
+~
+~
+0 0 8147
+S
+#8147
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8146
+D2
+~
+~
+0 0 8154
+D3
+~
+~
+0 0 8148
+S
+#8148
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 8147
+D2
+~
+~
+0 0 8168
+D3
+~
+~
+0 0 8149
+S
+#8149
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8150
+D1
+~
+~
+0 0 8148
+D2
+~
+~
+0 0 8152
+S
+#8150
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8151
+D2
+~
+~
+0 0 8149
+S
+#8151
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 20100
+D2
+~
+~
+0 0 8150
+S
+#8152
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8149
+D2
+~
+~
+0 0 8159
+S
+#8153
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8161
+D2
+~
+~
+0 0 8145
+S
+#8154
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8147
+D1
+~
+~
+0 0 8155
+D3
+~
+~
+0 0 8168
+S
+#8155
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8146
+D1
+~
+~
+0 0 8144
+D3
+~
+~
+0 0 8154
+S
+#8156
+8156-8199~
+~
+0 4 0
+S
+#8159
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8152
+D2
+~
+~
+0 0 8135
+S
+#8160
+~
+~
+0 4 0
+S
+#8161
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D1
+~
+~
+0 0 13066
+D2
+~
+~
+0 0 8153
+S
+#8168
+Darkness~
+The darkness seems to hug in tighter and tighter around your body, and
+even seems to absorb much of the light.  Your lamp reaches a couple feet in
+front of you before its suddenly stops and surrenders to the rolling waves
+of dark around you.  Perhaps you should move on and follow the white line
+below your boots.  
+~
+0 4202496 0
+D0
+~
+~
+0 0 8148
+D1
+~
+~
+0 0 8154
+S
+#0
+
+
+
+#SPECIALS
+M 8100 spec_nasty
+M 8102 spec_ogre_member
+M 8103 spec_nasty
+M 8104 spec_troll_member
+S
+
+
+
+#RESETS
+D 0 8101 4 1
+M 0 13151 1 8199 1 100 Load `2Gleeman`7 Machael
+O 0 8100 0 8100 0 100 A shimmering `8w`&a`8yg`7a`8te`7 loaded to Into the Darkness
+M 0 8104 10 8104 2 100 Load a vicious trolloc
+M 0 8103 4 8110 2 100 Load a Halfman
+M 0 8100 1 8114 1 100 Load Machin Sin
+E 0 8108 0 12 0 100 A cloak of black wind is loaded about the shoulders of Machin Sin
+M 0 8102 1 8119 1 100 Load an insane Ogier
+E 0 8107 0 20 0 100 An aura of dementia is loaded floating nearby of an insane Ogier
+M 0 8104 10 8125 2 100 Load a vicious trolloc
+O 0 8101 0 8128 0 100 A `1g`8ui`1d`8i`!n`1g`7 loaded to The Guiding
+M 0 8103 4 8128 2 100 Load a Halfman
+M 0 8104 10 8130 2 100 Load a vicious trolloc
+O 0 8102 0 8132 0 100 A shimmering `8w`&a`8yg`7a`8te`7 loaded to Into the Darkness
+M 0 8104 10 8132 2 100 Load a vicious trolloc
+M 0 8103 4 8135 2 100 Load a Halfman
+M 0 8104 10 8140 2 100 Load a vicious trolloc
+M 0 8103 4 8142 2 100 Load a Halfman
+M 0 8104 10 8150 2 100 Load a vicious trolloc
+O 0 8103 0 8154 0 100 A `1g`8ui`1d`8i`!n`1g`7 loaded to Darkness
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#8100
+emote cackles hoarsly and whispers, "`5Flesh so fine, so fine to tear, to gash the skin..so red the drops fall...blood so red, so sweet..sweet screams, pretty screams, scream your songs, sing your screams...
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

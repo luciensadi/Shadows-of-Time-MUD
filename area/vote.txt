@@ -1,0 +1,56 @@
+#
+I have a way to add sound and music into the game.  However, it'd require you to
+use the latest ZMUD client (this isn't free, there's a 30 day trial).  Unless you know of
+any other free MUD clients which support MSP.
+MSP (is Mud Sound Protocol), comes only with ZMUD usually.
+
+Anyhow, each skill you use could have it's own sound, I.E. chain lightning could
+make a thunder sound.  Teleport could have a buzz, or even getting hurt could have sort of
+Ahh "ooh" sounds.  These sounds do not have to be on, you'd have the option to turn them
+on or off at will.
+ 
+Please vote YES if you would use such a feature, and NO if you do not.  Be honest!  It'll be
+lots of work to add in sound for every skill.  If there's a high enough demand for it,
+I'll do it!
+ 
+-Demi
+ 
+~
+2
+8
+#
+69.92.26.44~
+1164529811
+1
+None~
+#
+12.186.52.134~
+1164227410
+1
+None~
+#
+68.51.131.229~
+1163400132
+1
+None~
+#
+24.183.27.252~
+1162068885
+1
+None~
+#
+24.119.213.36~
+1163648984
+1
+None~
+#
+70.136.109.246~
+1164666593
+1
+None~
+#
+24.117.211.108~
+1163462455
+1
+g to izay~
+$

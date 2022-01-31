@@ -1,0 +1,619 @@
+#AREADATA
+Name Fortress of the Light~
+Builders None~
+VNUMs 24200 24250
+Credits `4[`2GUILD `4]`7 Saradin   Whitecloak Safe~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#24200
+Whitecloak Soldier~
+Whitecloak Soldier~
+A Whitecloak Soldier is here keeping watch.
+~
+~
+amadicia~
+0 0
+A 0 64 0 0 -1  -1000 0
+55 32 12d12+1300 0d0+0 6d10+34 slash
+0 0 0 0
+EN 0 0 0
+stand stand male  1250
+AHMV ABCDEFGHIJK medium unknown
+#24201
+Whitecloak Cavalry~
+A Whitecloak Calvary Soldier~
+One of the mounted Whitecloak Soldiers is here on horseback.
+~
+~
+amadicia~
+0 0
+ABT 0 2048 0 0 -1  -1000 0
+55 46 12d12+2225 0d0+0 1d1+36 none
+-4 -4 -4 -4
+EKQRU J 0 HI
+stand stand male  2234
+AHMV ABCDEFGHIJK medium unknown
+#24202
+Whitecloak General~
+A Whitecloak Cavalry General~
+One of the Generals of the Children of the Light is here.
+~
+~
+amadicia~
+0 0
+ABG 112 0 0 0 -1  -1000 10707
+66 15 100d10+12500 659d1+1 20d6+50 thwack
+-32 -32 -32 -1
+ENQRU AB 0 0
+stand stand male  16000
+AHMV ABCDEFGHIJKL medium unknown
+#24219
+azgar~
+Azgar~
+Azgar, the Whitecloak Healer, hovers over the wounded.
+~
+~
+unique~
+0 0
+ABJKQa 256 0 0 0 -1  -1000 0
+100 10000 1000d1+0 12d12+10000 12d12+10000 none
+-100 -100 -100 -100
+ACFK ABHIKL 0 0
+stand stand male  10000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#24200
+whitecloak sunburst breastplate~
+`7Whitecloak Sunburst Breastplate~
+A gleaming white breastplate with a sun in the middle rests against the wall.~
+unknown~
+armor 0 AD
+0
+ADE ADE ADE ADE 0
+61 550 1400 P
+A
+12 13
+A
+20 -5
+A
+19 3
+A
+18 3
+A
+13 23
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#24200
+Road to the Fortress of the Light~
+A gravel road leads to the dreaded Fortress of the Light. The most feared
+members, the Hand of the Light, conduct their investigations inside its walls.
+It is fairly large and made of huge granite slabs with banners hanging down
+it on some points.
+~
+0 0 2
+D0
+~
+~
+0 0 24201
+S
+#24201
+Entrance to the Fortress~
+Inside the Fortress of the Light, your worries about the Hand of the Light, known as the Questioners to some, fade
+to the back of your mind as the main hall becomes visible. Extravagant
+paintings line the walls and a warm fireplace is on one side of the hall
+giving it that warm homely feeling.
+~
+0 0 0
+D0
+~
+~
+0 0 24202
+D2
+~
+~
+0 0 24200
+S
+#24202
+Inside the Fortress~
+Inside the Fortress, beauty surrounds you. Completely opposite from
+rumored tails of a horrible dark fortress full of Inquisitors questioning everyone
+in it. Large Paintings line the walls with pictures of past Lord Captain
+Commanders and other important people in the Children of the Light's history.
+~
+0 8 0
+D0
+~
+~
+0 0 24218
+D1
+~
+~
+0 0 24203
+D2
+~
+~
+0 0 24201
+D3
+~
+~
+0 0 24229
+S
+#24203
+Further Down the Main Hall~
+The grand entrance is now behind you and the hall continues to the east.
+No doors are visible but several different paitings and photos line the
+sides of the glossy white hall.
+~
+0 8 0
+D1
+~
+~
+0 0 24204
+D2
+~
+~
+0 0 24102
+D3
+~
+~
+0 0 24202
+S
+#24204
+Along the Main Hall~
+At this point of the main hall nothing can be seen to the north and
+south. A few paintings line one wall. The biggest is a picture of a warrior
+in a suburst standing on top of the Fortress holding the flag of the
+Children of the Light.
+~
+0 8 0
+D1
+~
+~
+0 0 24208
+D2
+~
+~
+0 0 24205
+D3
+~
+~
+0 0 24203
+S
+#24205
+A Trap Door~
+Here is a secret trap door, where it ends up is a mystery to almost
+everyone else inside the Fortress. Obviously it is a place that is not
+suppose to be found.
+~
+0 9 0
+D0
+~
+~
+0 0 24204
+D1
+~
+~
+0 0 24206
+S
+#24206
+A Dark Secret Path~
+You are on a dark dimly lit path. A single lantern lines the walls and
+gives off just enought light for the minimum visibility.
+~
+0 9 0
+D2
+~
+~
+0 0 24207
+D3
+~
+~
+0 0 24205
+S
+#24207
+The High Inquisitors Room~
+This is the High Inqusitors room. Besides the High Inquitisor, only a
+handful of others are allowed into his private chamber. Secret documents are
+scattered among his desk while his bed is covered with maps of Andor.
+~
+0 8 0
+D0
+~
+~
+0 0 24206
+S
+#24208
+The Far Side of the Main Hall~
+Here, the Main Hall comes to an end and the Sunburst Hall begins. The
+splendor of the main hall seems to continue down the Sunburst Hall. Pitcures
+and paitings can be seen further down the hall lining its walls.
+~
+0 8 0
+D0
+~
+~
+0 0 24209
+D3
+~
+~
+0 0 24204
+S
+#24209
+Sunburst Hall~
+Walking down the sunburst hall you caome upon a hige painting on the
+wall. It is a painting of about one hundred soldiers lined up nest to each
+other displaying their sunburst upon their chests.
+~
+0 8 0
+D0
+~
+~
+0 0 24210
+D2
+~
+~
+0 0 24208
+S
+#24210
+The Northeast Corner of the Fortress~
+Here, the Golden Hall ends and the Sunburst Hall begins. The sunburst
+hall got its name from the sunburst that is in the middle of every
+whitecloaks armor. It is a golden sun surrounded by a white background.
+Thousands of these lined up next to each other on the battlefield make an
+impressive sight.
+~
+0 8 0
+D0
+~
+~
+0 0 24211
+D2
+~
+~
+0 0 24209
+D3
+~
+~
+0 0 24214
+S
+#24211
+A Heavily Guarded Hall~
+Several large Whitecloak guards, guard the hall from anyone that could be
+considered a threaght. They are all alert and ready for anything, suprising
+them will be all but impossible.
+~
+0 8 0
+D1
+~
+~
+0 0 24212
+D2
+~
+~
+0 0 24210
+S
+#24212
+A Dark Secret Hall~
+You are on a dark hall where hardly anything can be seen. The only light
+is from the hall to the south. Where this path leads is unknown to all but a
+select few among the Whitecloaks.
+~
+0 9 0
+D0
+~
+~
+0 0 24213
+D3
+~
+~
+0 0 24211
+S
+#24213
+Lord Captain Commanders Bedchamber~
+Inside the exquisite Lord Captain Commanders room, everything is glossy
+and well polished. Furniture in the room is some of the best crafted you've
+ever seen. Hundreds of papers are scattered accross several desks while maps
+are rolled and thrown into the corner.
+~
+0 8 0
+D2
+~
+~
+0 0 24212
+S
+#24214
+Inscriptions on the Hall~
+Several lengthy inscriptions have been made here upon the hall. Some tell
+of glorious victories while ithers tell of honored defeat. Others tell of
+past events, while some tell of recent. Many discriptions upon this wall
+have been eroded over time.
+~
+0 8 0
+D1
+~
+~
+0 0 24210
+D3
+~
+~
+0 0 24215
+S
+#24215
+The Golden Hall~
+This is the Golden Hall. The walls are gold, no not pure gold but the
+color gold. A few pictures line the hall and recognize past famous soldiers
+of the Children of the Light. Several doors branch off from the main hall
+but they are all in diferent spots of the hall.
+~
+0 0 0
+D1
+~
+~
+0 0 24214
+D2
+~
+~
+0 0 24216
+D3
+~
+~
+0 0 24217
+S
+#24216
+Recruits Room~
+This is where the brand new recruits of the Children of the Light sleep.
+About Twenty bunk-beds fill the room making it able to hold up to forty
+recruits. Here in the Fortress they will learn all they need in order to
+serve as full Children of the Light.
+~
+0 8 0
+D0
+~
+~
+0 0 24215
+S
+#24217
+Along the Golden Hall~
+Further down the golden hall its splendor continues. A few pictures dot
+the walls, which are mostly covered with banners, flags, and other
+remembrances of past Whitecloaks.
+~
+0 8 0
+D1
+~
+~
+0 0 24215
+D3
+~
+~
+0 0 24220
+S
+#24218
+Well-Lit Hall~
+This part of the Fortress is very well lit and leads to the healing
+chamber. There wounded or sick Children can go to heal so they can get back
+up to their feet faster to protect the world from all darkfriends.
+~
+0 8 0
+D1
+~
+~
+0 0 24219
+D2
+~
+~
+0 0 24202
+S
+#24219
+Whitecloak Healer~
+Here is the healing room of the Fortress. Many beds line the walls, most
+filled with wounded soldiers, and some seperated from the rest are with
+naturally sick men. Several Whitecloak assist an old monk who is healing the
+wounded warriors.
+~
+0 1032 0
+D3
+~
+~
+0 0 24218
+M 150 H 150
+S
+#24220
+Further Down the Golden Hall~
+At this point of the golden hall, nothing lines it. No photos, no
+paintings, nothing. Just plain bright gold walls.
+~
+0 8 0
+D1
+~
+~
+0 0 24217
+D3
+~
+~
+0 0 24222
+S
+#24222
+The Northwest Corner of the Fortress~
+At this corner of the Fortress, the Whitecloak hall meets the golden
+hall. The golden color becomes less bright and fades into an pale white. No
+pictures or paintings hang from the walls in this part of the Fortress.
+~
+0 8 0
+D1
+~
+~
+0 0 24220
+D2
+~
+~
+0 0 24223
+S
+#24223
+Whitecloak Soldier's Hall~
+This hall was dedicated to every Whitecloak soldier that has ever served
+under a Lord Captain Commander. Several pictures hang from the hall, these
+are photos of the best whitecloak soldiers to ever walk on this planet.
+~
+0 8 0
+D0
+~
+~
+0 0 24222
+D1
+~
+~
+0 0 24224
+D2
+~
+~
+0 0 24226
+S
+#24224
+The Questioner's Hall~
+This is the hall that leads to the chamber of the Questioners. It is a
+fairly large hall, well lit and kept. Several pictures of past questioners
+line one of the walls with a few words beneath each.
+~
+0 8 0
+D0
+~
+~
+0 0 24225
+D3
+~
+~
+0 0 24223
+S
+#24225
+Questioners Room~
+This is the room of the questioners. They are an elite unit of men that
+are used by the Children of the Light to get the truth out of people. The
+truth being what they want to hear. Only 5 beds are in the room, making it
+fairly spacy and spread out.
+~
+0 8 0
+D2
+~
+~
+0 0 24224
+S
+#24226
+At the End of the Main Hall~
+At the end of the main hall, several paths can be taken. North is the
+Whitecloak hall which serves as a pillar to all those who gave thier lives
+to establish what whitecloaks are known as today. A small wooded door is to
+the south while the main hall continues back to the east.
+~
+0 0 0
+D0
+~
+~
+0 0 24223
+D1
+~
+~
+0 0 24229
+D2
+~
+~
+0 0 24227
+S
+#24227
+Soldiers Quarters~
+About ten bads line each wall of this large chamber. Many of the
+Whitecloak recruits are stationed in the Fortress of the Light, that way
+they are where most of the expert teachers are.
+~
+0 8 0
+D0
+~
+~
+0 0 24226
+S
+#24228
+Soldiers Quarters~
+About ten bads line each wall of this large chamber. Many of the
+Whitecloak recruits are stationed in the Fortress of the Light, that way
+they are where most of the expert teachers are.
+~
+0 8 0
+D0
+~
+~
+0 0 24229
+S
+#24229
+On the Main Hall~
+Here, the main entrance has gone out of view, but many of the pictures
+and paitings can still be seen ahead. The hall continues to run to both the
+east and to the west.
+~
+0 0 0
+D1
+~
+~
+0 0 24202
+D2
+~
+~
+0 0 24228
+D3
+~
+~
+0 0 24226
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 24201 4 24200 2 100 Load A Whitecloak Calvary Soldier
+M 0 24202 1 24200 1 100 Load A Whitecloak Cavalry General
+E 0 24200 0 5 0 100 `7whitecloak sunburst breastplate is loaded on the body of A Whitecloak Cavalry General
+M 0 24201 4 24200 2 100 Load A Whitecloak Calvary Soldier
+M 0 24200 2 24201 2 100 Load Whitecloak Soldier
+M 0 24200 2 24201 2 100 Load Whitecloak Soldier
+M 0 24200 10 24202 2 100 Load Whitecloak Soldier
+M 0 24219 30 24219 1 100 Load Azgar
+M 0 24200 10 24227 3 100 Load Whitecloak Soldier
+M 0 24200 10 24227 3 100 Load Whitecloak Soldier
+M 0 24200 10 24227 3 100 Load Whitecloak Soldier
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

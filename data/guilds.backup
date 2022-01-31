@@ -1,0 +1,260 @@
+Clan 0
+Name None~
+WhoName None~
+Display None~
+Ranks 0
+GSkills 0
+
+Clan 1
+Name tinker~
+WhoName [`6TINKER`7] ~
+Display Tinker~
+Ranks 6
+0 Hermit~
+1 Traveler~
+2 Ruespieler~
+3 Gypsy Joker~
+4 Elder~
+5 Mahdi~
+GSkills 2
+0 Fix~
+1 Build~
+
+Clan 2
+Name aiel~
+WhoName [`4AIEL`7] ~
+Display Aiel~
+Ranks 6
+0 Gai'shan~
+1 Scout~
+2 Spear Dancer~
+3 Sept Chief~
+4 Clan Chief~
+5 Wise One~
+GSkills 2
+0 veil~
+1 dream~
+
+Clan 3
+Name sedai~
+WhoName [`5AES SEDAI`7] ~
+Display Aes Sedai~
+Ranks 6
+0 Novice~
+1 Accepted~
+2 Aes Sedai~
+3 Sitter~
+4 Keeper~
+5 Amyrlin Seat~
+GSkills 2
+0 still~
+1 balefire~
+
+Clan 4
+Name shadow~
+WhoName [`8SHADOW`7] ~
+Display Shadow~
+Ranks 6
+0 Human Slave~
+1 Friend of the Dark~
+2 Circle Leader~
+3 Dreadlord~
+4 Chosen~
+5 Nae'blis~
+GSkills 4
+0 stealth~
+1 shroud~
+2 pray~
+3 taint~
+
+Clan 5
+Name seanchan~
+WhoName [`$SEANCHAN`7] ~
+Display Seanchan~
+Ranks 6
+0 Citizen~
+1 Fist of Heaven~
+2 Seeker~
+3 High Lord~
+4 DeathWatch Commander~
+5 `%E`5mpress`7/`$E`4mperor`7~
+GSkills 3
+0 blood~
+1 ravage~
+2 damane~
+
+Clan 6
+Name redhand~
+WhoName [`!RED HAND`7] ~
+Display Red Hand~
+Ranks 6
+0 Soldier~
+1 Veteran~
+2 Banner-General~
+3 Lt. Commander~
+4 Marshal General~
+5 Lord General~
+GSkills 3
+0 luck~
+1 warcry~
+2 medallion~
+
+Clan 7
+Name ashaman~
+WhoName [`!A`8SHA`7'`!M`8AN`7] ~
+Display Asha'man~
+Ranks 6
+0 Soldier~
+1 Dedicated~
+2 Ashaman~
+3 Attack Leader~
+4 Storm Leader~
+5 M'hael~
+GSkills 3
+0 restrain~
+1 firestorm~
+2 tap~
+
+Clan 8
+Name gleeman~
+WhoName [`2GLEEMAN`7] ~
+Display Gleeman~
+Ranks 6
+0 Musician~
+1 Dancer~
+2 Singer~
+3 Poet~
+4 Storyteller~
+5 Bard~
+GSkills 3
+0 dome~
+1 ballad~
+2 daze~
+
+Clan 9
+Name whitecloak~
+WhoName [`&WHITECLOAK`7] ~
+Display Whitecloak~
+Ranks 6
+0 Soldier~
+1 Captain~
+2 Inquisitor~
+3 Lord Captain~
+4 High Inquisitor~
+5 Lord Captain Commander~
+GSkills 2
+0 stance~
+1 cleanse~
+
+Clan 10
+Name warder~
+WhoName [`1WARDER`7] ~
+Display Warder~
+Ranks 6
+0 Student~
+1 Youngling~
+2 Warder~
+3 Gaidin~
+4 Dai Shan~
+5 Master of Arms~
+GSkills 1
+0 void~
+
+Clan 11
+Name admin~
+WhoName [`!A`1dm`8i`1n`7] ~
+Display Admin~
+Ranks 7
+0 Scuz Bucket~
+1 Tinker~
+2 Tinker~
+3 `2Jerk `7of `2Justice`7~
+4 `!Z `!C`&oder`*~
+5 Master of the Universe~
+6 Asmo is God~
+GSkills 0
+
+Clan 12
+Name wolfbrother~
+WhoName [`#WOLFBROTHER`7] ~
+Display Wolfbrother~
+Ranks 6
+0 Cub~
+1 Yearling~
+2 Wolfbrother~
+3 Elder Wolfbrother~
+4 Denleader~
+5 Leader of the Pack~
+GSkills 3
+0 wolf~
+1 hunt~
+2 howl~
+
+Clan 13
+Name shaido~
+WhoName [`4SHA`8i`4DO`7] ~
+Display Shaido~
+Ranks 6
+0 Gai'shan~
+1 Algai'd'siswai~
+2 Sept Chief~
+3 Clan Chief~
+4 Wise One~
+5 Car'a'Carn~
+GSkills 2
+0 veil~
+1 dream~
+
+Clan 14
+Name outcast~
+WhoName [`@OUTCAST`7] ~
+Display Outcast~
+Ranks 6
+0 Outcast~
+1 Outcast~
+2 Outcast~
+3 Outcast~
+4 Outcast~
+5 Outcast~
+GSkills 0
+
+Clan 15
+Name furies~
+WhoName [`8F`7U`&RI`7E`8S`*] ~
+Display Furies~
+Ranks 6
+0 `8Apprentice`*~
+1 `8Journeyman`*~
+2 `8Assassin`*~
+3 `8Master Class`*~
+4 `8Council of Three`*~
+5 `8Master Fury`*~
+GSkills 0
+
+Clan 16
+Name guide~
+WhoName [`#G`3U`#I`3D`#E`*] ~
+Display Guide~
+Ranks 6
+0 Guide Trainee~
+1 Advanced Guide~
+2 Master Guide~
+3 Mediator Trainee~
+4 Advanced Mediator~
+5 Head Mediator~
+GSkills 0
+
+Clan 17
+Name wang~
+WhoName [`#WANG`*] ~
+Display Wang~
+Ranks 6
+0 Guide Trainee~
+1 Advanced Guide~
+2 Master Guide~
+3 Mediator Trainee~
+4 Advanced Mediator~
+5 Head Mediator~
+GSkills 0
+
+#END

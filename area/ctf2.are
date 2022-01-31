@@ -1,0 +1,899 @@
+#AREADATA
+Name CaptureTheFlag2~
+Builders None~
+VNUMs 11500 11545
+Credits `4[`7 None `4]`7 Imm       Capture the Flag~
+Security 10
+Flags CEF
+Version 4
+End
+
+
+
+#MOBILES
+#11544
+Brona Shadow~
+`1B`8rona's `1S`8hadow`*~
+`1B`8rona's `1S`8hadow `*is here.
+~
+~
+dragon~
+0 0
+ADFQRTYZ 336 1024 128 41473 -1  500 0
+150 74 5000d10+10000 3000d5+5000 212d1+0 grep
+-115 -115 -100 -115
+ACFHT AGIKOVb BCHV FIQ
+stand stand none 0
+AGHVZ ACDEFGHIJKPQUVX large unknown
+F res E
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11500
+~
+~
+0 4 0
+S
+#11501
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D0
+~
+~
+0 0 11503
+D2
+~
+~
+0 0 11502
+D4
+~
+~
+0 0 2207
+S
+#11502
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D0
+~
+~
+0 0 11501
+S
+#11503
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D1
+~
+~
+0 0 11504
+D2
+~
+~
+0 0 11501
+D3
+~
+~
+0 0 11505
+S
+#11504
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D3
+~
+~
+0 0 11503
+S
+#11505
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D1
+~
+~
+0 0 11503
+D3
+~
+~
+0 0 11506
+S
+#11506
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D0
+~
+~
+0 0 11508
+D1
+~
+~
+0 0 11505
+D2
+~
+~
+0 0 11507
+D3
+~
+~
+0 0 11509
+S
+#11507
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D0
+~
+~
+0 0 11506
+D2
+~
+~
+0 0 11510
+S
+#11508
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D0
+~
+~
+0 0 11513
+D1
+~
+~
+0 0 11515
+D2
+~
+~
+0 0 11506
+D3
+~
+~
+0 0 11514
+S
+#11509
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D1
+~
+~
+0 0 11506
+D3
+~
+~
+0 0 11512
+S
+#11510
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D0
+~
+~
+0 0 11507
+D3
+~
+~
+0 0 11511
+S
+#11511
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D1
+~
+~
+0 0 11510
+S
+#11512
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D1
+~
+~
+0 0 11509
+S
+#11513
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D2
+~
+~
+0 0 11508
+S
+#11514
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D0
+~
+~
+0 0 11519
+D1
+~
+~
+0 0 11508
+D2
+~
+~
+0 0 11517
+D3
+~
+~
+0 0 11516
+S
+#11515
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D3
+~
+~
+0 0 11508
+S
+#11516
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D1
+~
+~
+0 0 11514
+S
+#11517
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D0
+~
+~
+0 0 11514
+D3
+~
+~
+0 0 11518
+S
+#11518
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D0
+~
+~
+0 0 11521
+D1
+~
+~
+0 0 11517
+D2
+~
+~
+0 0 11520
+D3
+~
+~
+0 0 11522
+S
+#11519
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D2
+~
+~
+0 0 11514
+S
+#11520
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D0
+~
+~
+0 0 11518
+D1
+~
+~
+0 0 11523
+D2
+~
+~
+0 0 11524
+D3
+~
+~
+0 0 11528
+S
+#11521
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D1
+~
+~
+0 0 11540
+D2
+~
+~
+0 0 11518
+S
+#11522
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D0
+~
+~
+0 0 11544
+D1
+~
+~
+0 0 11518
+D2
+~
+~
+0 0 11541
+D3
+~
+~
+0 0 11542
+S
+#11523
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D0
+~
+~
+0 0 11531
+D1
+~
+~
+0 0 11530
+D3
+~
+~
+0 0 11520
+S
+#11524
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D0
+~
+~
+0 0 11520
+D2
+~
+~
+0 0 11525
+D3
+~
+~
+0 0 11526
+S
+#11525
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D0
+~
+~
+0 0 11524
+D2
+~
+~
+0 0 11527
+S
+#11526
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D1
+~
+~
+0 0 11524
+S
+#11527
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D0
+~
+~
+0 0 11525
+S
+#11528
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D0
+~
+~
+0 0 11529
+D1
+~
+~
+0 0 11520
+D2
+~
+~
+0 0 11534
+D3
+~
+~
+0 0 11533
+S
+#11529
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D0
+~
+~
+0 0 11536
+D2
+~
+~
+0 0 11528
+D3
+~
+~
+0 0 11535
+S
+#11530
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D3
+~
+~
+0 0 11523
+S
+#11531
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D0
+~
+~
+0 0 11532
+D2
+~
+~
+0 0 11523
+S
+#11532
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D2
+~
+~
+0 0 11531
+S
+#11533
+Walking in the Forest~
+The trail narrows to squeeze between mossy trunks of trees, then widens
+into bright clearings, thick with the verdant grass and blooming flowers.
+The dappled shape through overhead boughs shelter a miasma of pale fungi,
+from tiny caps to the large shelf mushrooms springing from the sides of
+the old trees.
+~
+0 0 0
+D1
+~
+~
+0 0 11528
+S
+#11534
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D0
+~
+~
+0 0 11528
+S
+#11535
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D0
+~
+~
+0 0 11538
+D1
+~
+~
+0 0 11529
+D2
+~
+~
+0 0 11537
+D3
+~
+~
+0 0 11539
+S
+#11536
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D2
+~
+~
+0 0 11529
+S
+#11537
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D0
+~
+~
+0 0 11535
+S
+#11538
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D2
+~
+~
+0 0 11535
+S
+#11539
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D1
+~
+~
+0 0 11535
+S
+#11540
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D3
+~
+~
+0 0 11521
+S
+#11541
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D0
+~
+~
+0 0 11522
+D2
+~
+~
+0 0 11543
+S
+#11542
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D1
+~
+~
+0 0 11522
+S
+#11543
+Walking in the Forest~
+The creaking of tree limbs overhead mingle with the cries of birds and
+the chittering of small mammals in the woods all around.  Fallen leaves
+rustle with the stirring of the wind, crackling underfoot and exuding
+the fragrance of slow decay.  The trail here winds around thick tree
+trunks and between short ferns growing green beside it.
+~
+0 0 0
+D0
+~
+~
+0 0 11541
+S
+#11544
+Walking in the Forest~
+As you walk through the low vines and leaves that inhabit the ground,
+you notice the density of the forest surrounding you.  Fallen trees
+and huge limbs make it difficult to travel.  In some parts, sunlight
+can barely penetrate the canopy, making the terrain hard to judge.  A
+few animals can be seen from time to time, seeming startled by your
+presence.  Fortunately the forest looks a little less rough in the
+distance.
+~
+0 0 0
+D2
+~
+~
+0 0 11522
+D4
+~
+~
+0 0 2202
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 4452 2 11505 8 100 Load a large wolf
+M 0 4453 2 11512 8 100 Load lumber
+M 0 4452 2 11516 8 100 Load a large wolf
+M 0 4452 2 11534 8 100 Load a large wolf
+M 0 4452 2 11535 8 100 Load a large wolf
+M 0 4452 2 11538 8 100 Load a large wolf
+M 0 4452 2 11540 8 100 Load a large wolf
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

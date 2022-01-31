@@ -1,0 +1,26 @@
+<html>
+<head><title>Cgi-ALICE</title></head>
+<body bgcolor=#ffffff onLoad="document.forms[0].text.focus()">
+<b>
+> <client_input> <br>
+<alice_output>
+<FORM METHOD="GET" ACTION="http://YouNeedToChangeThis">
+<FONT FACE="Helvetica, Arial">You say:
+&quot;<INPUT TYPE="text" NAME="text" SIZE="30">&quot; 
+<INPUT TYPE="submit" NAME="submit" VALUE="Reply">
+<INPUT TYPE="hidden" NAME="virtual" VALUE="<client_id>">
+<INPUT TYPE="reset" NAME="name" VALUE="Reset">
+</FORM>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

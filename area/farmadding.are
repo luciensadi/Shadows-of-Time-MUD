@@ -1,0 +1,581 @@
+#AREADATA
+Name Far Madding~
+Builders None~
+VNUMs 400 599
+Credits {Middle} Sellers     Far Madding~
+Security 10
+Flags EF
+Version 4
+End
+
+
+
+#MOBILES
+#400
+grid keeper~
+A Grid Keeper~
+A Keeper of the Grid is here, waiting for you.
+~
+~
+pig~
+0 0
+AFc 1280 11344 0 32768 -1  -1000 0
+200 900 32000d1+5000 20000d1+10 300d1+100 pound
+-90 -90 -90 -90
+ACFHIK Bb CDX JS
+stand stand male  0
+AGHMV ABCDEFGHIJKP medium unknown
+#401
+silent thief~
+Thief~
+A silent thief sneaks by you.
+~
+~
+unique~
+0 0
+A 4 3 0 0 -1  0 0
+65 25 700d1+25 0d0+0 7d9+0 pierce
+-8 -8 -8 -8
+0 0 0 0
+stand stand none 500
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#400
+healing bed~
+`*A healing bed~
+A healing bed is here.~
+unknown~
+furniture AB 0
+0
+ABCD FINPQRS DEHK DGH DGH
+90 0 0 P
+A
+19 6
+A
+18 8
+A
+14 100
+ T 0 none~
+#401
+quest window~
+a quest only window~
+This is a quest only window, if you enter this window while not quested, no help will be given if you die.~
+unknown~
+window 0 0
+0
+BDEFGHIKLO 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+ T 0 none~
+#402
+birthday cake~
+`8De`&m`8andred's `$B`4irthday `!C`1ake`*~
+A cake for `8De`&m`8andred`* is here.~
+unknown~
+trash AB A
+0
+0 0 0 0 0
+20 0 0 P
+ T 0 none~
+#403
+second prize~
+`?S`?e`?c`?o`?n`?d `?P`?r`?i`?z`?e`*~
+Second prize~
+unknown~
+container 0 A
+0
+1 A 0 5342 75
+0 0 0 P
+ T 0 none~
+#404
+consolation prize~
+`?C`?o`?n`?s`?o`?l`?a`?t`?i`?o`?n `?P`?r`?i`?z`?e`*~
+Consolation prize~
+unknown~
+container 0 A
+0
+1 0 0 5342 75
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#400
+1:1~
+~
+0 138420228 1
+S
+#401
+1:2~
+~
+0 138420228 0
+S
+#402
+1:3~
+~
+0 138420228 0
+S
+#403
+1:4~
+~
+0 146808836 0
+S
+#404
+1:5~
+~
+0 138420228 0
+S
+#405
+1:6~
+~
+0 140517381 0
+S
+#406
+2:6~
+~
+0 138420228 0
+S
+#407
+2:5~
+~
+0 138420228 0
+S
+#408
+2:4~
+~
+0 138420228 0
+S
+#409
+2:3~
+~
+0 140517380 0
+S
+#410
+2:2~
+~
+0 138420228 0
+S
+#411
+2:1~
+~
+0 146808836 0
+S
+#412
+3:1~
+~
+0 138420228 0
+S
+#413
+3:2~
+~
+0 138420228 0
+S
+#414
+3:3~
+~
+0 138421252 0
+S
+#415
+3:4~
+~
+0 138420740 0
+S
+#416
+3:5~
+~
+0 138420228 0
+S
+#417
+3:6~
+~
+0 138420228 0
+S
+#418
+4:1~
+~
+0 138420228 0
+S
+#419
+4:2~
+~
+0 138420228 0
+S
+#420
+4:3~
+~
+0 138420228 0
+S
+#421
+4:4~
+~
+0 138420228 0
+S
+#422
+4:5~
+~
+0 146808836 0
+S
+#423
+4:6~
+~
+0 140517380 0
+S
+#424
+5:1~
+~
+0 138420228 0
+S
+#425
+5:2~
+~
+0 140517380 0
+S
+#426
+5:3~
+~
+0 138420228 0
+S
+#427
+5:4~
+~
+0 138420228 0
+S
+#428
+5:5~
+~
+0 146808836 0
+S
+#429
+5:6~
+~
+0 138420228 0
+S
+#430
+6:1~
+~
+0 138420229 0
+S
+#431
+6:2~
+~
+0 140517380 0
+S
+#432
+6:3~
+~
+0 138420740 0
+S
+#433
+6:4~
+~
+0 138420228 0
+S
+#434
+6:5~
+~
+0 138420228 0
+S
+#435
+6:6~
+~
+0 138420229 0
+S
+#436
+Mortal Preparation Room~
+~
+0 4203524 0
+S
+#437
+Legend Preparation Room~
+~
+0 4202500 0
+S
+#438
+Street of Joy~
+~
+0 6299652 0
+S
+#439
+Street of Joy~
+~
+0 6299652 0
+S
+#440
+Street of Joy~
+~
+0 6299652 0
+S
+#441
+Amhara Market~
+~
+0 6299652 0
+D0
+~
+~
+0 0 3054
+S
+#442
+Amhara Market~
+~
+0 6299652 0
+S
+#443
+Amhara Market~
+~
+0 6299652 0
+S
+#444
+Amhara Market~
+~
+0 6299652 0
+S
+#445
+Amhara Market~
+~
+0 6299652 0
+S
+#446
+Amhara Market~
+~
+0 6299652 0
+S
+#447
+Amhara Market~
+~
+0 6299652 0
+S
+#448
+Amhara Market~
+~
+0 6299652 0
+S
+#449
+Amhara Market~
+~
+0 6299652 0
+S
+#450
+Amhara Market~
+~
+0 6299652 0
+S
+#451
+Amhara Market~
+~
+0 6299652 0
+S
+#452
+Amhara Market~
+~
+0 6299652 0
+S
+#453
+Amhara Market~
+~
+0 6299652 0
+S
+#454
+Amhara Market~
+~
+0 6299652 0
+S
+#455
+Amhara Market~
+~
+0 6299652 0
+S
+#456
+Amhara Market~
+~
+0 6299652 0
+S
+#457
+Amhara Market~
+~
+0 6299652 0
+S
+#458
+Amhara Market~
+~
+0 6299652 0
+S
+#459
+Amhara Market~
+~
+0 6299652 0
+S
+#460
+Amhara Market~
+~
+0 6299652 0
+S
+#461
+Amhara Market~
+~
+0 6299652 0
+S
+#462
+Amhara Market~
+~
+0 6299652 0
+S
+#463
+Amhara Market~
+~
+0 6299652 0
+S
+#464
+Amhara Market~
+~
+0 6299652 0
+D0
+~
+~
+0 0 3001
+S
+#465
+~
+~
+0 6299652 0
+S
+#466
+~
+~
+0 6299652 0
+S
+#467
+~
+~
+0 6299652 0
+S
+#468
+~
+~
+0 6299652 0
+S
+#469
+~
+~
+0 6299652 0
+S
+#470
+~
+~
+0 6299652 0
+S
+#471
+~
+~
+0 6299652 0
+S
+#472
+~
+~
+0 6299652 0
+S
+#473
+~
+~
+0 6299652 0
+S
+#474
+~
+~
+0 6299652 0
+S
+#475
+~
+~
+0 6299652 0
+S
+#476
+Narm Street~
+~
+0 6299652 0
+S
+#477
+Narm Street~
+~
+0 6299652 0
+S
+#478
+Narm Street Armoury~
+~
+0 6299652 0
+S
+#479
+Narm Street~
+~
+0 6299652 0
+S
+#480
+Narm Street~
+~
+0 6299652 0
+S
+#481
+Narm Street~
+~
+0 6299652 0
+S
+#482
+Narm Street~
+~
+0 6299652 0
+S
+#483
+Narm Street~
+~
+0 6299652 0
+S
+#484
+Narm Street~
+~
+0 6299652 0
+S
+#485
+~
+~
+0 2105348 0
+S
+#486
+~
+~
+0 2105348 0
+S
+#0
+
+
+
+#SPECIALS
+M 400 spec_breath_any_but_acid
+S
+
+
+
+#RESETS
+O 0 400 0 414 0 100 `*a healing bed loaded to 3:3
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,1136 @@
+#AREADATA
+Name Red Hand Guild Area~
+Builders None~
+VNUMs 24251 24299
+Credits `4[`2GUILD `4]`7 Saradin   Red Hand Safe~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#24251
+soldier of the band arad_domon tear amadicia murandy tarabon~
+A Soldier of the Band~
+One of the Soldiers of the Band of the Red Hand is here checking out his equipment.
+~
+~
+tear~
+0 0
+ABT 0 64 0 0 -1  -1000 0
+92 47 12d12+4000 0d0+0 5d3+45 slash
+-16 -16 -16 -16
+KN AB J 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#24252
+lieutenant band red hand~
+a Lieutenant of the Band~
+A Lieutenant of the Red Hand is here, inspecting his men.
+~
+~
+tear~
+0 0
+ABT 0 64 0 0 -1  -1000 0
+102 50 12d12+4125 0d0+0 5d3+45 slash
+-16 -16 -16 -16
+KN AB J 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#24253
+captain band red hand~
+A Captain of the Band~
+A Captain of the Band of the Red Hand is pacing back and forth accross the grass.
+~
+~
+tear~
+0 0
+ABT 0 64 0 0 -1  -1000 0
+105 50 12d12+4125 0d0+0 5d3+45 slash
+-16 -16 -16 -16
+KN AB J 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#24254
+general band red hand~
+A General of the Band~
+One of the respected Generals of the Band is here.
+~
+~
+tear~
+0 0
+ABT 256 0 0 0 -1  -1000 0
+110 55 12d12+4125 0d0+0 5d3+45 slash
+-18 -18 -18 -18
+KN AB J H
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#24255
+general band red hand~
+the Lord General~
+The Lord General of the Band is here staring straight at you!
+~
+~
+tear~
+0 0
+ABT 256 64 0 0 -1  -1000 0
+150 79 12d12+12000 0d0+0 12d12+101 slash
+-45 -45 -45 -45
+ACDHJKN AB J H
+stand stand male  4505
+AHMV ABCDEFGHIJK medium unknown
+#24256
+armory guard~
+Armory Guard~
+The Armory Guard is here.
+~
+~
+unique~
+0 0
+ABMUYZ 0 0 0 0 -1  0 0
+1 0 200d200+500 0d0+0 0d0+0 none
+0 0 0 0
+0 CDb 0 0
+stand stand none 0
+0 0 large unknown
+M ACT 24256 salutes~
+#24257
+weapons locker guard~
+weapons locker guard~
+The Weapons Locker guard is here.
+~
+~
+unique~
+0 0
+ABMUYZ 0 0 0 0 -1  0 0
+1 0 200d200+500 0d0+0 0d0+0 none
+0 0 0 0
+0 CDb 0 0
+stand stand none 0
+0 0 large unknown
+M ACT 24257 salute~
+#24260
+Dregg~
+Dregg~
+Dregg is here, giving you your orders.
+~
+~
+unique~
+0 0
+ABJKabd 80 0 0 8192 -1  0 0
+200 0 1d1+1 1d1+1 1d1+1 none
+0 0 0 0
+0 ABQ 0 0
+stand stand none 0
+0 0 large unknown
+M ACT 24260 salute~
+#24261
+elite red hand guard~
+Elite Red Hand Guard~
+An Elite Red Hand Guard is here.
+~
+~
+tear~
+0 0
+ABTYZe 336 0 0 32769 -1  500 0
+100 175 400d200+500 3000d5+1 1d1+200 grep
+-110 -110 -110 -110
+CFH AGIOVZ CEJQV 0
+stand stand none 1
+AHMV ABCDEFGHIJKQV large unknown
+M ACT 24284 salutes~
+#24262
+red hand training sergeants~
+Red Hand Training Sergeant~
+A Red Hand Training Sergeant is ready to train you.
+~
+~
+unique~
+0 0
+ABGZe 0 64 0 0 -1  0 0
+40 125 10000d1+10000 0d0+0 0d0+0 none
+300 300 300 300
+U ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+#24273
+shayla~
+Shayla~
+Shayla, is here helping the wounded members of the Band
+~
+A small woman garbed in a dark green woolen robe hovers over the wounded
+from the prior days battle.  Several soldiers lay on mats of hay with parts
+of there bodies covered with bandages.  Shaylas soft hands seem to put the
+men she helps at ease and lets them be more peaceful.  
+~
+unique~
+0 0
+ABJKa 256 0 0 0 -1  100 0
+100 1000 1000d1+0 0d0+0 12d12+1000 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#24274
+generals shield~
+general's Shield~
+A long shield is here resting against the wall~
+unknown~
+armor 0 AJ
+0
+ABCD ABCD ABCD ABCD 0
+61 250 1000 P
+A
+13 38
+ T 0 none~
+#24275
+blood red boots~
+blood-red boots~
+A pair of red leather boots lay discarded in the corner of the room~
+unknown~
+armor 0 AG
+0
+ACDF ACDF ACDF ACDF 0
+150 150 1000 P
+A
+19 8
+A
+13 100
+A
+18 6
+A
+12 10
+ T 0 none~
+#24276
+secret storage locker~
+secret storage locker~
+The secret storage locker is here~
+unknown~
+container O 0
+0
+1000 0 0 1000 100
+0 0 0 P
+ T 0 none~
+#24277
+small metal key~
+small metal key~
+A small metal key is here.~
+unknown~
+key 0 AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#24278
+practice stick~
+wooden practice stick~
+A wooden practice stick lies here.~
+unknown~
+weapon H AN
+0
+exotic 1 1 none 0
+5 10 0 P
+ T 0 none~
+#24279
+beautiful fountain sculpted ice~
+an ice fountain~
+A beautiful fountain sculpted from pure ice is here.~
+blood~
+fountain 0 0
+0
+-1 0 'blood' 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#24251
+In the Middle of the Swamp~
+In the middle of a fairly small murky swamp, slurping and gurgling can be
+heard all over. The occasional turd, i mean toad can be heard over the
+normal swamp noises.
+~
+0 4 6
+D0
+~
+~
+0 0 24252
+S
+#24252
+On Top of a Mountain~
+On the side of the Raknar Mountain you can see every direction for miles.
+Beneath you in the valley floor a small camp is visible. From the looks of
+it, it looks like it has been there only a few days. To the south past the
+swamp a black field can be seen. It is black with bodies of the dead and
+wounded from the prior battle. Hundreds of ravens, and vultures can be seen
+circling the skys.
+~
+0 4 5
+D0
+~
+~
+0 0 24253
+D2
+~
+~
+0 0 24251
+S
+#24253
+Southern Entrance to Camp~
+Crosses mark the ground on each side of the southern entrance to the
+camp. These is the graveyard for those that made it out of battle only to
+finally succumb to death in this fertile valley.
+~
+0 4 2
+D0
+~
+~
+0 0 24274
+D1
+~
+~
+0 0 24254
+D2
+~
+~
+0 0 24252
+D3
+~
+~
+0 0 24267
+S
+#24254
+Path Around the Camp~
+Here, you are on the path that should lead all around the camp surrounded
+by the protective mountains. This is where this small regiment of the band
+shall stay until further orders from Lord Matrim are given out.
+~
+0 4 2
+D0
+~
+~
+0 0 24276
+D1
+~
+~
+0 0 24255
+D3
+~
+~
+0 0 24253
+S
+#24255
+More Small Campfires~
+Several more small campfires dot the field. Several men are around each
+keeping warm at night after the parties and the rum. Some men can be seen
+playing dice, while others are playing stones. Both very complicated and
+require a natural luck to succeed.
+~
+0 4 2
+D0
+~
+~
+0 0 24268
+D1
+~
+~
+0 0 24257
+D3
+~
+~
+0 0 24254
+S
+#24256
+A Pleasant Resting Spot~
+The fertile valley floor seems to be almost cushiony here making this the
+perfect spot for sleeping or just relaxing. Inside these protective giants
+is one of the most peaceful spots you can remember.
+~
+0 4 2
+D0
+~
+~
+0 0 24257
+D3
+~
+~
+0 0 24257
+S
+#24257
+Under the Cloudless Sky~
+This is one of the most peaceful spots in camp. At night it is said you
+can see the Heavens straight above you on a cloudless night. Often times
+this is where the majority of the soldiers sleep under the clear sky.
+~
+0 4 2
+D0
+~
+~
+0 0 24258
+D1
+~
+~
+0 0 24256
+D2
+~
+~
+0 0 24256
+D3
+~
+~
+0 0 24255
+S
+#24258
+Eastern Entrance into the Camp~
+This is the eastern entrance to the encampment. A few soldiers keeping
+the watch can be seen in the near distance carrying long spears and short
+staffs. The dense forest still surrounds you but seems to be letting up
+some.
+~
+0 5 3
+D0
+~
+~
+0 0 24259
+D1
+~
+~
+0 0 24278
+D2
+~
+~
+0 0 24257
+S
+#24259
+Beginning of a Forest~
+Still in the dense forest that covers the Northeastern part of the
+encampment, the running stream to the south is now too far in the distance
+to be heard. Instead joyful songs can be heard to the west in the direction
+of the bonfire.
+~
+0 5 3
+D2
+~
+~
+0 0 24258
+D3
+~
+~
+0 0 24260
+S
+#24260
+Bonfire~
+Here a large fifty foot bonfire reaches up to the Heavens. When it is
+lit, some call it the Stairway to Heaven while others sit back and enjoy the
+song and dance not worrying about a soul outside these mountains.
+~
+0 4 2
+D1
+~
+~
+0 0 24259
+D2
+~
+~
+0 0 24269
+D3
+~
+~
+0 0 24261
+S
+#24261
+Northern Entrance to Camp~
+Here is another entrance to the camp. This is probably the most
+complicated to get throught seeing as the mountains are the most jagged and
+spiked for miles in any direction. The forest that led here has completely
+dissipated into a grassy field which looks to cover most of the camp.
+~
+0 4 2
+D0
+~
+~
+0 0 24280
+D1
+~
+~
+0 0 24260
+D2
+~
+~
+0 0 24277
+D3
+~
+~
+0 0 24262
+S
+#24262
+Armor Tent~
+All types of armor ranging from plate to leather lies upon the earthen
+floor of the tent. No armor besides cloth hangs on the walls or else the
+walls would collapse not being able to support that much weight.
+~
+0 12 0
+D1
+~
+~
+0 0 24261
+D3
+~
+~
+0 0 24263
+S
+#24263
+On a Smooth Hillside~
+The flat rolling plains of the valley floor have turned into small hills
+which later will makeway for gigantic mountains reaching high into the sky.
+There is no set path except that of missing pot holes and other obstacles.
+~
+0 4 4
+D1
+~
+~
+0 0 24262
+D2
+~
+~
+0 0 24264
+S
+#24264
+Beneath the Cover of Moutains~
+Here it seems like a mountain is literally covering you because it is
+blocking all light that the sun produces. They call this spot, beneath the
+mountain and looking around you can see why.
+~
+0 4 2
+D0
+~
+~
+0 0 24263
+D2
+~
+~
+0 0 24265
+S
+#24265
+Western Entrance to Camp~
+The wester entrance to the camp is much like the others. Mountains are
+farther to the west while an encampment can be seen to the east. Small
+shrubs and other bushes line the valley floor ahead with the occasional tree
+reaching towards the sky.
+~
+0 4 2
+D0
+~
+~
+0 0 24264
+D2
+~
+~
+0 0 24266
+D3
+~
+~
+0 0 24282
+S
+#24266
+Blacksmiths Tent~
+Here is the blacksmiths forge. Dented or dull weapons are brought here as
+well as dented or split armor to be repaired. The smith seems to be an old
+man with supreme knowlegde of these killing devies and armor.
+~
+0 12 0
+D0
+~
+~
+0 0 24265
+D1
+~
+~
+0 0 24267
+S
+#24267
+Small Campfire~
+Several small camp fires dot the open field. Around each fire are several
+hay mats, of course far enough away so that the fire wont catch. Men sit
+around the fires some excitingly talking while others keep to themselves and
+mourn the prior days losses.
+~
+0 4 2
+D0
+~
+~
+0 0 24270
+D1
+~
+~
+0 0 24253
+D3
+~
+~
+0 0 24266
+S
+#24268
+Cooks Tent~
+All types of strange smells have generated at this camp. This is where
+the camp's cook, cooks the meals that feed the band. He is a rather gruff
+man and his kitchen is barely big enough to work in it seems.
+~
+0 12 0
+D0
+~
+~
+0 0 24269
+D2
+~
+~
+0 0 24255
+S
+#24269
+Supply Tent~
+Here, all types of spare supplies are kept. Extra wagon wheels, covers,
+blankets, cloths.... Everything can be found here. The floor is littered
+with junk and the sides are barely visible at all.
+~
+0 12 0
+D0
+~
+~
+0 0 24260
+D2
+~
+~
+0 0 24268
+S
+#24270
+Between the Tents~
+Here between the surrounding tents, the grass seems to overwhelm you.
+Even though it is only about one and a half feet tall it makes you feel
+small and weak compared to the awesome power of the raw earth.
+~
+0 4 2
+D0
+~
+~
+0 0 24271
+D2
+~
+~
+0 0 24267
+S
+#24271
+Path Towards an Enormous Tent~
+Ahead of you is a gigantic tent, at least four times the size of normal
+ones. Smells of rum and ale come from inside as well as the smell of death.
+It is no doubt the local temporary inn and a makeshift healer.
+~
+0 4 2
+D0
+~
+~
+0 0 24272
+D2
+~
+~
+0 0 24270
+S
+#24272
+Inside a Huge Tent~
+Inside of an enormous tent, a large table is in the direct center. A man
+with a patchwork cloak seems to be standing in the middle entertaining his
+guests. To the east is another tent which is inside of this larger one.
+~
+0 12 0
+D1
+~
+~
+0 0 24273
+D2
+~
+~
+0 0 24271
+S
+#24273
+`*Red Hand's Store~
+`3The `!  B`1and of the `!  R`1ed `!  H`1and `3has filled this Pavilion
+with various items.  Several huge tables hold exotic and rare items not
+found anywhere else while racks full of the latest weapons of warfare line
+the tent walls.  Shop attendants run around filling orders for members of
+the `!  B`1and `3and other patrons that have come here.  A sign above the
+enterance says, '`8All are Welcome, but thieves are hung on sight`7.  `3'
+The Shopkeeper looks at you intently as you walk through the store.  `7 
+~
+0 1036 0
+D3
+~
+~
+0 0 24272
+D5
+~
+~
+1 0 24284
+M 150 H 150
+S
+#24274
+Generals Tent~
+The generals tent is just a hay mat covered by a tent. A chair is the
+only other object in the room besides the hay mattress. A set of armor lies
+against the side of the tent near the entrance with a mighty axe spliting
+the ground next to it.
+~
+0 12 0
+D0
+~
+~
+0 0 24275
+D2
+~
+~
+0 0 24253
+S
+#24275
+Lord Generals Personal Tent~
+Inside the Lord Generals personal tent, nothing is different from those
+camps outside. A small hay mat lies to one side serving as a bed while a
+poorly constructed table is in the center of the room covered with open maps
+and papers.
+~
+0 12 0
+D2
+~
+~
+0 0 24274
+S
+#24276
+Weapons Tent~
+Spears, swords, daggers, maces, if it kills, its probably in this room.
+This is where all the spare weapons are kept. A few blackblades from
+Myrrdral can be seen on the floor with an assortment of swords from all over
+the land. Most probably came after their owner vacated them on the field of
+battle.
+~
+0 12 0
+D0
+~
+~
+0 0 24277
+D2
+~
+~
+0 0 24254
+S
+#24277
+Planning Tent~
+Inside of this tent, planning between the Generals and their command
+posts takes place. Maps are thrown about the room with writings of orders
+and other documents littering the table.
+~
+0 12 0
+D0
+~
+~
+0 0 24261
+D2
+~
+~
+0 0 24276
+S
+#24278
+On a Path through a Dimly Lit Forest~
+The moutainous terrain has changed into a dense forset which is very
+dimly lit. Birds singing and water smoothly running can be heard in the
+surroundings giving this place a calm sense.
+~
+0 5 3
+D1
+~
+~
+0 0 24279
+D3
+~
+~
+0 0 24258
+S
+#24279
+Looking Down on a Small Encampment~
+On top of a fair size mountain a small encampment is laid out in front of
+your eyes. There are a few tents, but most of the soldiers seem to be
+sleeping on the ground. Off in the distance on all sides you can see the
+samc chain of mountains thus making this the perfect camping spot.
+~
+0 4 5
+D3
+~
+~
+0 0 24278
+S
+#24280
+Inside a Dark Forest~
+Inside of a dark dim forest nothin joyful can be found or heard. No birds
+are singing, but off in the distance the sound of men singing is barely
+audible.
+~
+0 5 3
+D0
+~
+~
+0 0 24281
+D2
+~
+~
+0 0 24261
+S
+#24281
+On the Peak of a Mountain~
+On top of one of the larger mountains in the immediate area, you can see
+for miles in any direction. The tents covering the ground beneath you look
+like ants giving you a feeling of lesser imprtance.
+~
+0 4 5
+D2
+~
+~
+0 0 24280
+S
+#24282
+Along the Rolling Hills~
+The mountains that surround the valley have been shaped into hills from
+thousands of years of corosion and other biddings of the Creator. In years
+past these small hills might have dwarfed the largest mountain in this part
+of the world.
+~
+0 4 4
+D1
+~
+~
+0 0 24265
+D3
+~
+~
+0 0 24283
+S
+#24283
+Looking Down on a Small Valley Between the Mountains~
+This being one of the highest mountains in the range, visiblity extends
+for miles and miles. With a scope, you can even see past the eastern
+mountains which help protect the valley floor from any outside threat.
+~
+0 4 5
+D1
+~
+~
+0 0 24282
+S
+#24284
+Secret Underground Entrance~
+~
+0 4 0
+D2
+~
+~
+4 24277 24285
+D4
+~
+~
+1 0 24273
+S
+#24285
+Underground Archway~
+~
+0 138412032 0
+D0
+~
+~
+4 24277 24284
+D2
+~
+~
+0 0 24287
+S
+#24286
+~
+~
+0 0 0
+D0
+~
+~
+0 0 24285
+S
+#24287
+Underground Passage~
+~
+0 138412032 0
+D0
+~
+~
+0 0 24285
+D2
+~
+~
+0 0 24288
+S
+#24288
+Underground Passage~
+~
+0 138420224 0
+D0
+~
+~
+0 0 24287
+D2
+~
+~
+0 0 24289
+S
+#24289
+Underground Pasage~
+~
+0 138420224 0
+D0
+~
+~
+0 0 24288
+D1
+~
+~
+0 0 24291
+D2
+~
+~
+1 0 24290
+D3
+~
+~
+0 0 24292
+S
+#24290
+Secure Planning Room~
+~
+0 138413056 0
+D0
+~
+~
+1 0 24289
+D5
+~
+~
+4 0 24297
+M 150 H 150
+S
+#24291
+Underground Passage~
+~
+0 138420224 0
+D1
+~
+~
+0 0 24293
+D3
+~
+~
+0 0 24289
+S
+#24292
+Underground Passage~
+~
+0 138420224 0
+D1
+~
+~
+0 0 24289
+D3
+~
+~
+0 0 24296
+S
+#24293
+Underground Passage~
+~
+0 138420224 0
+D0
+~
+~
+0 0 24294
+D2
+~
+~
+0 0 24295
+D3
+~
+~
+0 0 24291
+S
+#24294
+Training Room~
+~
+0 138420224 0
+D2
+~
+~
+0 0 24293
+S
+#24295
+Training Room~
+~
+0 138420224 0
+D0
+~
+~
+0 0 24293
+S
+#24296
+Recreational Room~
+~
+0 155198464 0
+D1
+~
+~
+0 0 24292
+M 120 H 120
+S
+#24297
+Private Armory~
+~
+0 138413056 0
+D4
+~
+~
+4 0 24290
+S
+#24298
+Chamber of the `!C`#ouncil `7of `3T`!hree`7~
+~
+0 0 0
+D0
+~
+~
+0 0 14004
+D2
+~
+~
+0 0 24117
+D3
+~
+~
+0 0 24273
+D4
+~
+~
+0 0 24273
+S
+#24299
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 24255 spec_breath_fire
+M 24260 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 24273 5 1
+D 0 24284 2 2
+D 0 24284 4 1
+D 0 24285 0 2
+D 0 24289 2 1
+D 0 24290 0 1
+D 0 24290 5 2
+D 0 24297 4 2
+M 0 24252 10 24253 2 100 Load a Lieutenant of the Band
+M 0 24251 10 24254 2 100 Load A Soldier of the Band
+M 0 24251 10 24254 2 100 Load A Soldier of the Band
+M 0 24251 10 24255 2 100 Load A Soldier of the Band
+M 0 24252 10 24255 1 100 Load a Lieutenant of the Band
+M 0 24252 10 24256 1 100 Load a Lieutenant of the Band
+M 0 24251 10 24258 2 100 Load A Soldier of the Band
+M 0 24251 10 24258 2 100 Load A Soldier of the Band
+M 0 24254 10 24259 1 100 Load A General of the Band
+M 0 24251 10 24261 2 100 Load A Soldier of the Band
+M 0 24251 10 24261 2 100 Load A Soldier of the Band
+M 0 24253 10 24263 2 100 Load A Captain of the Band
+M 0 24251 10 24265 2 100 Load A Soldier of the Band
+M 0 24251 10 24265 2 100 Load A Soldier of the Band
+M 0 24252 10 24268 1 100 Load a Lieutenant of the Band
+M 0 24253 10 24269 1 100 Load A Captain of the Band
+M 0 24251 10 24270 3 100 Load A Soldier of the Band
+M 0 24253 10 24271 1 100 Load A Captain of the Band
+M 0 24252 10 24271 1 100 Load a Lieutenant of the Band
+M 0 24251 1 24271 1 100 Load A Soldier of the Band
+M 0 24251 10 24272 3 100 Load A Soldier of the Band
+M 0 24251 10 24272 3 100 Load A Soldier of the Band
+M 0 24251 10 24272 3 100 Load A Soldier of the Band
+M 0 24273 30 24273 1 100 Load Shayla
+M 0 24254 10 24274 2 100 Load A General of the Band
+E 0 24274 0 11 0 100 General's shield is loaded as a shield of A General of the Band
+M 0 24254 10 24274 2 100 Load A General of the Band
+M 0 24255 1 24275 1 100 Load the Lord General
+E 0 24275 0 8 0 100 Blood-red boots is loaded on the feet of the Lord General
+M 0 24261 1 24284 1 100 Load Elite Red Hand Guard
+E 0 24277 0 19 0 100 Small metal key is loaded held in the hands of Elite Red Hand Guard
+O 0 24279 0 24289 0 100 An ice fountain loaded to Underground Pasage
+M 0 24256 1 24290 1 100 Load Armory Guard
+M 0 24260 1 24296 1 100 Load Dregg
+O 0 24276 0 24297 0 100 Secret storage locker loaded to Private Armory
+M 0 24257 1 24297 1 100 Load weapons locker guard
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#24256
+if clan $n red
+whisp $n You may enter the Armory, $n.
+mob transfer $n 24297
+else
+yell There is an intruder within the Secure Area!
+endif
+~
+#24257
+if clan $n red
+whisp $n Come back safe, $n.
+mob transfer $n 24290
+else
+yell The Private Armory is breached!
+endif
+~
+#24260
+mob transfer $n pella
+done
+~
+#24284
+if clan $n red
+whisp $n Get your orders from Dregg, $n.
+mob transfer $n 24285
+else
+say Please see the General for admittance, $n.
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

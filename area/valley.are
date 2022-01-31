@@ -1,0 +1,3293 @@
+#AREADATA
+Name Mayene~
+Builders Hornsby~
+VNUMs 7800 7899
+Credits `4[`7Lowbie`4]`7 Hatchet   Valley of the Elves~
+Security 10
+Flags EF
+Version 4
+End
+
+
+
+#MOBILES
+#7800
+A mangy stray dog~
+A mangy dog~
+A mangy stray dog is wandering the streets looking for food.
+~
+A mangy dog is poking around the garbage of the streets looking for food. Its coat is riddled with open sores, its ribs can easily be seen through the skin.
+It is amazing that the dog is alive in the condition it looks.
+~
+dog~
+0 0
+ACGH 0 1 0 0 -1  50 0
+25 4 2d6+60 2d9+100 1d6+1 bite
+5 5 5 9
+EFHN GV EFUV 0
+stand stand none 0
+AGV ACDEFHJKUV medium unknown
+#7801
+A banker~
+A banker~
+A banker is here awaiting your business.
+~
+A small man with an intense look on his face stands behind the counter. His eyes are almost glowing with greed. His looks must make one wonder whether he is honest enough to place one's money in his hands.
+~
+andor~
+0 0
+ABCGHY 0 1 0 0 -1  -100 0
+28 6 2d7+96 4d9+100 1d7+2 claw
+3 3 3 9
+EFNR AP B HZ
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7802
+A winged guard~
+A soldier~
+On of the famed Mayene winged guards is here.
+~
+This member of the winged guards is resting here, waiting to start his 
+patrol. He is attending to his armor and weapons.
+~
+unique~
+0 0
+ABG 0 1 0 0 -1  200 0
+28 6 2d7+96 4d9+100 1d7+2 none
+3 3 3 3
+CEFNU A B HZ
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7803
+A patrolman~
+A patrolman~
+One of the winged guards is on patrol here.
+~
+This soldier is a member of the winged guards, he is currently on a patrol.
+His eyes are intent, and he watches everyone, noting them and looking for
+trouble of any sort.
+~
+unique~
+0 0
+AT 72 1 0 0 -1  200 0
+27 6 2d6+85 3d9+100 1d8+1 slash
+4 4 4 4
+EFNU A B H
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7804
+A dock worker~
+A dock worker~
+A dock worker is leaning against the wall, she is either resting or trying not to work.
+~
+This young woman is standing here, leaning against the wall. Perhaps she is taking
+a break, or she maybe trying to get out of work.
+~
+unique~
+0 0
+ABC 0 3 0 0 -1  -100 0
+27 0 2d6+85 3d9+100 1d8+1 stab
+3 3 3 3
+EFN R B H
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#7805
+A co-op worker~
+A fish co-op worker~
+A fish co-op worker is here, they are selling various types of fish.
+~
+This man is working in the fish markets. He alternates between refilling 
+the shelves and serving customers.
+~
+andor~
+0 0
+ABCG 0 1 0 0 -1  -100 0
+26 0 2d7+71 3d9+100 1d7+1 slap
+4 4 4 4
+EFNR I B HZ
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7806
+A household's butler~
+A butler~
+A household's butler is here, running errands.
+~
+A middle aged man, dressed as a servant is walking a long the street. He does
+not notice anyone passing him, he is intent on getting where he is going.
+~
+shienar~
+0 0
+AGH 0 1 0 0 -1  -30 0
+26 5 2d7+71 3d9+100 1d7+1 pound
+4 4 4 4
+EFN A B H
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7807
+An apothecary~
+An apothecary~
+An old man is behind a work bench here, he is working away with a mortar an pestle.
+~
+An old apothecary is here working away at his bench. He is grinding some
+foul smelling herbs with a mortar and pestle.
+~
+ghealdan~
+0 0
+ABCQZ 49152 0 0 0 -1  50 0
+35 14 3d9+208 15d9+100 2d5+3 chop
+-2 -2 -2 -3
+EIKR A BJ HZ
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7808
+A jeweler~
+A jeweler~
+A jeweler is here working on a piece, he has a small looking glass stuck in one eye.
+~
+There is a middle aged man here, concentrating on a piece of jewelery he is
+working on. He must be the shops jeweler.
+~
+tear~
+0 0
+ABCHRZ 49152 0 0 0 -1  -100 0
+35 15 2d10+190 15d9+100 1d10+3 thrust
+-1 -1 -1 -3
+FGKR K BY O
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7809
+A training dummy~
+A training dummy~
+A large iron creation moves forward to attack anyone entering the room.
+~
+There is a large iron dummy against the far wall. As someone moves into the room 
+it moves forward. There is no emotion shown on what it has for a face.
+~
+unique~
+0 0
+ABF 0 0 0 0 -1  0 0
+40 20 3d9+333 10d9+100 2d8+5 smash
+-4 -4 -4 -2
+EFNU BE H I
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#7810
+A wine buff~
+A wine buff~
+A woman is here, she is going around inspecting the bottles of wine.
+~
+A feeble old lady is wandering around looking at the bottles of wine in the racks.
+~
+illian~
+0 0
+ABCH 0 0 0 0 -1  -100 0
+23 3 2d6+35 1d9+100 1d6+0 stab
+7 7 7 10
+EFNU 0 B 0
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#7811
+Captain in the Winged guards~
+A guards captain~
+A captain in the winged guards is leading a patrol.
+~
+A weathered looking man is leading a patrol of the winged guards of Mayene.
+His eyes are scanning the area around him looking for trouble.
+~
+cairhien~
+0 0
+ABCFR 0 0 0 0 -1  200 0
+45 23 5d10+500 25d9+100 4d4+6 thrust
+-6 -6 -6 2
+FJKU BE A Y
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7812
+A bank guard~
+A bank guard~
+A large well armed man is here, guarding the door.
+~
+A bored looking man is guarding the door to the bank, he does not look overly
+interested in his job. He looks to be well armed however, so anything threatening
+to the bank may be a silly thing to do.
+~
+tarabon~
+0 0
+AB 0 0 0 0 -1  -500 0
+45 25 5d10+550 12d9+100 2d10+7 smash
+-7 -7 -7 -4
+EFNU BE A H
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+#7813
+A child playing~
+A child~
+A samll child is here playing in the park.
+~
+A child is playing in the park with her friends, they look to be only 
+around four or five years old.
+~
+saldaea~
+0 0
+AFH 0 1024 0 0 -1  500 0
+24 4 2d7+46 2d9+100 1d5+1 scratch
+6 6 6 9
+EFHN AV EFV B
+stand stand female 0
+AGHMV ABCDEFGHIJKQV small unknown
+#7814
+A vigilante parent.~
+A vigilante parent~
+A good wife is here keeping an eye on the children
+~
+A young woman is keeping a watchful eye over the children playing in the 
+park. She is also most likely watching for anyone who is going to hurt
+the children.
+~
+cairhien~
+0 0
+ABHZ 16392 2112 0 0 -1  400 0
+27 6 2d7+71 3d9+100 1d7+1 slap
+4 4 4 9
+EFJNU B AG K
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#7815
+A retired captain of the guards~
+A retired captain~
+A long retired captain of the winged guards is within his study.
+~
+A man well past middle aged, but still stiff backed is wandering around
+the room, looking for something. He has the air of someone who once
+commanded and fought in some organisation.
+~
+andor~
+0 0
+ABGTZ 272 0 0 0 -1  400 0
+90 75 12d312+1200 80d10+100 7d12+40 slice
+-78 -78 -78 -70
+CEFIJN ABF I O
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7816
+A labourer~
+A labourer~
+A well muscled young man is moving along the street.
+~
+There is a young man moving along the street here. He looks to be well
+muscled, whatever his job is it must involve heavy lifting. Perhaps he 
+a labourer.
+~
+ghealdan~
+0 0
+AZ 0 64 0 0 -1  -50 0
+26 5 1d17+42 6d10+100 2d3+2 smash
+6 6 6 9
+FNO E F O
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7829
+A Winged guard on duty~
+A winged guard~
+One of the Mayene winged guards is here, his duty is to protect the First and man the gates.
+~
+There is one of the winged guards on duty here, guarding the gate. He is resplendent in his red breastplate and armor.
+~
+seanchan~
+0 0
+ABGZ 88 0 0 4 -1  500 0
+100 96 4000d2+2000 100d10+100 5d10+30 slash
+-100 -100 -100 -100
+CEFKNU B A K
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7836
+A merchant~
+A wealthy merchant~
+A rather old merchant is strolling along the street.
+~
+A well dressed, though rather old man is walking along the street.
+He appears to be rather wealthy, at least judging by his clothes,
+perhaps he is a good merchant.
+~
+kandor~
+0 0
+AGH 16 64 0 0 -1  -200 0
+40 18 5d42+268 20d10+100 4d5+10 wrath
+-5 -5 -5 -1
+CJK AB G T
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7845
+The First of Mayene~
+The First of Mayene~
+A young woman in her early twenties is here.
+~
+The First of Mayene is here, she is a young and very beautiful 
+woman. She radiates an air of authority, despite her age, and also
+despite her clothing.
+~
+saldaea~
+0 0
+ABGZ 264 64 0 0 -1  700 0
+150 140 2000d2+2000 150d10+100 8d15+40 scratch
+-100 -100 -100 -100
+EFJKN AB IL M
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#7847
+An aes sedai advisor~
+A advisor~
+A woman with an ageless face is here, advising the First.
+~
+This woman is the aes sedai advisor to the First of Mayene. As with all
+aes sedai she exudes an aura of calmness and it is impossible to tell
+her age.
+~
+kandor~
+0 0
+ABRZ 272 0 0 32770 -1  300 0
+150 96 2000d2+3000 100d10+100 5d10+30 wrath
+-105 -105 -105 -105
+GHINU BJ KQ L
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#7848
+The First's secretary~
+The First's secretary~
+A dry and weatherd looking old woman is working at a desk.
+~
+An ancient looking woman is here, working away at a huge stack of
+papers on the desk. She looks up briefly at anyone who enters the 
+study.
+~
+kandor~
+0 0
+ABZ 0 0 0 2 -1  100 0
+60 48 10d169+900 50d10+100 6d8+30 scratch
+-50 -50 -50 -50
+JKN AB I H
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#7857
+A ships captain~
+A ships captain~
+A woman is here, ordering people around
+~
+A young woman is ordering the dock hands and the sailors around.
+She looks very confident in her authority.
+~
+arafel~
+0 0
+AG 0 0 0 0 -1  -100 0
+50 28 10d60+420 30d10+100 6d6+20 whip
+-10 -10 -10 -5
+CFHKR JR I H
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#7870
+A local~
+A local man~
+A middle aged man is on his way to work.
+~
+A fit looking middle aged local man is walking along the street on
+his way to work. He does not look to upset about having to go to
+work.
+~
+illian~
+0 0
+AG 0 0 0 0 -1  200 0
+32 10 4d25+130 12d10+100 2d5+7 smash
+2 2 2 3
+CFJ E LQ Y
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#7883
+The head maid~
+Head maid~
+An elderly woman is standing here, observing the staff working.
+~
+This elderly woman is here, ordering the staff around. She is doing little
+work herself, just ensuring that the work is done efficiently and 
+correctly.
+~
+saldaea~
+0 0
+AGYZ 0 0 0 0 -1  300 0
+45 22 7d45+300 25d10+100 5d6+11 slash
+-12 -12 -12 -10
+EIN IL EK B
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#7892
+The head cook~
+Head cook~
+A broad woman is here overseeing the other workers.
+~
+An imperious looking woman is ordering staff around the kitchen.
+She is very broad, from years of sampling the food being 
+prepared.
+~
+ghealdan~
+0 0
+ABG 0 64 0 0 -1  400 0
+55 32 10d100+635 35d10+100 6d8+20 cleave
+-30 -30 -30 -25
+CN H IT B
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#7898
+An off duty sailor~
+A sailor~
+An off duty sailor is here, wandering around looking for a drink.
+~
+A young man is wandering around here, he walks with the rolling gait common
+for a sailor. He must be off duty and looking for something to drink.
+~
+tarabon~
+0 0
+ACFG 0 0 0 0 -1  -80 0
+26 5 2d20+68 6d10+100 2d4+4 stab
+2 2 2 4
+CHK R IL FQ
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#7800
+Mayene guard's surcoat~
+a surcoat~
+A Mayene guard's surcoat in red and white is here~
+oldstyle~
+armor 0 AD
+0
+C C C B 0
+5 30 1080 P
+A
+14 10
+A
+18 3
+A
+19 3
+ T 0 none~
+#7801
+Mayene guards helm~
+a Mayene helm~
+A helm from a Mayene winged guards is here.~
+oldstyle~
+armor 0 AE
+0
+AB AB AB AB 0
+7 30 390 P
+A
+19 2
+A
+18 2
+A
+17 -5
+A
+13 5
+A
+12 5
+ T 0 none~
+#7802
+A streamered lance~
+a streamered lance~
+A horsemans lance with red-streamers attached to the head is here.~
+oldstyle~
+weapon 0 AN
+0
+exotic 3 3 smash 0
+7 30 670 P
+A
+18 1
+A
+19 2
+A
+13 8
+A
+12 6
+A
+14 16
+ T 0 none~
+#7803
+Red cloak~
+a red cloak~
+A cloak of the Mayene winged guards is hanging from a hook.~
+oldstyle~
+armor G AC
+0
+AB AB AB AB 0
+7 30 900 P
+A
+19 1
+A
+18 2
+A
+12 5
+A
+13 10
+A
+2 1
+ T 0 none~
+#7804
+key~
+a key~
+A shiny key is on the floor.~
+oldstyle~
+key 0 A
+0
+BCFHJKLM 0 0 0 0
+0 10 0 P
+ T 0 none~
+#7805
+key~
+a key~
+A shiny key is on the floor.~
+oldstyle~
+key 0 A
+0
+DGHJKLM 0 0 0 0
+0 10 0 P
+ T 0 none~
+#7806
+Winged guard's breastplate~
+a red breastplate.~
+A red breastplate belonging to one of the winged guards is here.~
+oldstyle~
+armor 0 AD
+0
+AB AB AB C 0
+5 10 110 P
+A
+12 10
+A
+13 10
+A
+2 2
+A
+14 10
+ T 0 none~
+#7807
+A long sword.~
+a long sword.~
+A well made long sword is here.~
+oldstyle~
+weapon B AN
+0
+sword 4 5 slash D
+21 50 670 P
+A
+19 3
+A
+18 3
+A
+2 3
+ T 0 none~
+#7808
+potion~
+a potion~
+A potion is on the floor.~
+oldstyle~
+potion G A
+0
+10 'armor' 'invisibility' '' ''
+1 10 200 P
+ T 0 none~
+#7809
+potion~
+a potion~
+A potion is on the floor.~
+oldstyle~
+potion G A
+0
+10 'energy drain' '' '' ''
+8 10 580 P
+ T 0 none~
+#7810
+potion~
+a potion~
+A potion is on the floor.~
+oldstyle~
+potion G A
+0
+10 'detect hidden' 'detect magic' '' ''
+4 10 290 P
+ T 0 none~
+#7811
+potion~
+a potion~
+A potion is on the floor.~
+oldstyle~
+potion G A
+0
+50 'dispel magic' 'dispel magic' 'dispel magic' ''
+6 10 1380 P
+ T 0 none~
+#7812
+potion~
+a potion~
+A potion is on the floor.~
+oldstyle~
+potion G A
+0
+10 'refresh' 'protection evil' '' ''
+2 10 240 P
+ T 0 none~
+#7813
+potion~
+a potion~
+A potion is on the floor.~
+oldstyle~
+potion G A
+0
+10 'sleep' '' '' ''
+1 10 250 P
+ T 0 none~
+#7814
+potion~
+a potion~
+A potion is on the floor.~
+oldstyle~
+potion G A
+0
+10 'bless' '' '' ''
+1 10 220 P
+ T 0 none~
+#7815
+potion~
+a potion~
+A potion is on the floor.~
+oldstyle~
+potion G A
+0
+10 'cure critical' '' '' ''
+5 10 330 P
+ T 0 none~
+#7816
+potion~
+a potion~
+A potion is on the floor.~
+oldstyle~
+potion G A
+0
+14 '' '' '' ''
+6 10 420 P
+ T 0 none~
+#7817
+an apron~
+an apron~
+An apron covered in fish guts is lying on the floor.~
+oldstyle~
+armor G AC
+0
+B B B B 0
+5 10 660 P
+A
+18 2
+A
+19 2
+A
+17 -2
+A
+2 2
+ T 0 none~
+#7818
+Filleting knife~
+filleting knife~
+A knife covered in blood and gore is resting on the counter~
+oldstyle~
+weapon G AN
+0
+dagger 3 5 stab 0
+5 10 800 P
+A
+2 2
+A
+18 3
+A
+19 2
+ T 0 none~
+#7819
+a mortar and pestle~
+a mortar and pestle~
+A marble bowl and grinding tool are placed on the bench~
+oldstyle~
+weapon G AN
+0
+exotic 4 6 smash 0
+15 10 400 P
+A
+14 10
+A
+19 2
+A
+13 8
+A
+12 2
+A
+18 4
+ T 0 none~
+#7820
+A jeweler's eye piece~
+an eye piece~
+A jeweler has left his eye piece on the counter~
+oldstyle~
+armor G AR
+0
+CD CD CD CD 0
+10 10 400 P
+A
+2 2
+A
+12 15
+A
+13 13
+ T 0 none~
+#7821
+A small pack~
+a small pack~
+A small bundle filled with food is lying on the ground.~
+oldstyle~
+container G A
+0
+3 A 0 15 5
+3 10 100 P
+A
+12 5
+A
+13 8
+A
+19 2
+A
+18 2
+ T 0 none~
+#7822
+scroll~
+a scroll~
+A scroll is on the floor.~
+oldstyle~
+scroll G A
+0
+10 'chill touch' '' '' ''
+0 10 400 P
+ T 0 none~
+#7823
+scroll~
+a scroll~
+A scroll is on the floor.~
+oldstyle~
+scroll G A
+0
+10 'heal' '' '' ''
+11 10 1360 P
+ T 0 none~
+#7824
+rod light~
+the Rod of Neutrality~
+A dull iron shaft is on the floor.~
+oldstyle~
+light GK A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 10 1150 P
+A
+19 2
+A
+18 3
+A
+2 2
+A
+13 10
+A
+12 10
+ T 0 none~
+#7825
+quarterstaff staff two-handed~
+a quarterstaff~
+A quarterstaff is on the floor.~
+oldstyle~
+weapon G AN
+0
+staff 3 5 pound F
+14 50 310 P
+A
+18 3
+A
+2 3
+A
+14 15
+A
+13 6
+A
+13 15
+A
+12 6
+ T 0 none~
+#7829
+A key to the gate~
+a key to a gate~
+A key to the front gate of the palace is here~
+unknown~
+key 0 AO
+0
+0 0 0 0 0
+50 10 10 P
+ T 0 none~
+#7845
+Crown of Mayene~
+mayene's crown~
+The jewel encrusted crown of Mayene is here.~
+unknown~
+armor AB AE
+0
+ABF ABF ABF ABF 0
+110 60 7829 P
+A
+14 10
+A
+2 3
+A
+13 15
+A
+12 30
+A
+19 8
+A
+18 7
+ T 0 none~
+#7847
+An angreal~
+an angreal~
+A small statue of a woman in a seated position.~
+unknown~
+armor AI AO
+0
+ABF ABF ABF ABF 0
+110 50 5938 P
+A
+2 4
+A
+12 30
+A
+13 20
+A
+18 7
+A
+19 7
+ T 0 none~
+#7857
+A captain's whip~
+a captain's whip~
+A whip belonging to the captain of a ship is here.~
+unknown~
+weapon 0 AN
+0
+whip 4 10 whip 0
+30 10 250 P
+A
+19 2
+A
+18 2
+A
+2 3
+A
+13 10
+A
+12 8
+A
+14 14
+ T 0 none~
+#7884
+A captain's sword~
+a captain's sword~
+A gold inlaid sword is resting against the wall~
+unknown~
+weapon 0 AN
+0
+sword 5 10 pierce 0
+60 60 899 P
+A
+12 5
+A
+2 3
+A
+13 15
+A
+19 5
+A
+18 6
+ T 0 none~
+#7889
+A sharp dagger~
+a dagger from Tear~
+A small, but sharp dagger made in tear is on the floor~
+unknown~
+weapon B AN
+0
+dagger 8 10 none D
+96 20 1498 P
+A
+14 20
+A
+12 20
+A
+13 15
+A
+18 8
+A
+19 7
+ T 0 none~
+#7892
+A cleaver~
+a cleaver~
+The head cook's cleaver is here on the bench.~
+unknown~
+weapon 0 AN
+0
+exotic 5 6 cleave 0
+35 20 1506 P
+A
+12 10
+A
+13 10
+A
+18 5
+A
+19 4
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#7800
+Before the gates of Mayene~
+Standing before the entrance to Mayene.  The gates are thrown wide open
+and people Mayeners can be seen passing through the gates.  Several of the
+Mayener winged guards can be seen guarding the entrance to the city.  The
+huge level of noise created by a city can be heard coming from within the
+city itself.  A most prosperous city, from any point of view, even if it is
+considerable smaller than the other major cities of the land.  The docks
+stretch out to the south and east of the gates.  
+~
+0 0 8
+D0
+The path continues north.
+~
+~
+0 0 7801
+D2
+You see the Plains of Ofcol.
+~
+~
+0 0 323
+D3
+~
+~
+0 0 39246
+S
+#7801
+Entering the city of Mayene~
+The Winged guards seem to pay particular attention to new arrivals as
+they pass through the gates.  Outlanders seem to be viewed even more warily,
+however only a few people are actually stopped by the guards.  Most go
+unhindered and move further into the city on whatever errands they have. 
+The hustle of the larger cities is not seen here, the atmosphere of the
+inhabitants seems to be a little more relaxed.  A walkway appears to be
+trailing around the city walls, ahead there can be a broad set of stairs
+seen leading down into the city proper.  
+~
+0 0 1
+D0
+~
+~
+0 0 7805
+D2
+You see the path back toward Ofcol.
+~
+~
+0 0 7800
+S
+#7802
+West on the walkway~
+The walkway stretches around to the west and north, following the line of
+the city walls.  Looking out over the city walls the ocean can be seen, and
+there are many boats rocking in the swell.  This part of the city appears to
+be leading towards the docks.  
+~
+0 0 1
+D0
+The trail continues north.
+~
+~
+0 0 7867
+D1
+~
+~
+0 0 7896
+S
+#7803
+The eastern side of the walkway.~
+Moving to the east, the walkway curves around the city just within the
+city walls.  People can be seen hurrying along here, some of them have
+bundles slung across their shoulders.  There seems to be a large number of
+people using the walkway, perhaps it is a good short cut, to get to other
+parts of the city.  
+~
+0 0 1
+D0
+The trail continues north.
+~
+~
+0 0 7849
+D3
+~
+~
+0 0 7896
+S
+#7804
+Broad stairway leading to the city proper.~
+This walkway appears to run around the cities walls.  Here is a set of
+wide stairs that leads down into the city proper.  Below the citizens of
+Mayene can be seen going about their business.  A scattering of foreigners
+can also be seen.  No tairens can be seen amongst the crowd.  Hawkers can be
+heard announcing their wares.  
+~
+0 0 1
+D2
+~
+~
+0 0 7896
+D5
+You see the entrance to the valley.
+~
+~
+0 0 7805
+S
+#7805
+At the base of the southern stairs~
+From the bottom of the stairs, the city spreads out to the north. 
+Hawkers can be seen on the sides of the streets selling their wares.  Shops
+can also be seen along the streets, the signs of the individual shops can be
+clearly seen hanging from poles.  As is usual for a city a few stray dogs
+can be seen searching the streets for food.  A few vagrants and beggars can
+also be seen, roving about looking for hand outs.  
+~
+0 0 1
+D0
+The valley continues north.
+~
+~
+0 0 7810
+D1
+The valley continues east.
+~
+~
+0 0 7807
+D2
+~
+~
+0 0 7801
+D3
+The valley continues west.
+~
+~
+0 0 7806
+D4
+The overlook is above you.
+~
+~
+0 0 7804
+S
+#7806
+A guard house~
+Several off duty guards can be seen in the room.  Some of the guards are
+attending to their equipment, others are sitting around a table playing a
+dice game.  All of the guards are alert, and glance up at anyone entering
+the guard house.  The sounds of the city can be heard filtering from
+outside.  
+~
+0 8 0
+D1
+The entrance to the valley is to the east.
+~
+~
+0 0 7805
+S
+#7807
+An armory~
+An exit can be seen to the north and one to the west.  Around the walls
+of this building various types of arms and armor can be seen.  Their is a
+rack of polearms against the southern wall, several shields can be seen upon
+hooks of the southern wall also.  Another rack is resting against the
+eastern wall, this rack contains a number of lances.  They have the red
+streamers of the Winged guards attached to their heads.  
+~
+0 8 0
+D0
+The valley continues north.
+~
+~
+0 0 7811
+D3
+The entrance to the valley is to the west.
+~
+~
+0 0 7805
+S
+#7808
+The Apocathery~
+A wall of smell is passed when entering this building.  The smell of
+hundreds of spices, their scents all mixed in together.  A wizened old woman
+is seated at a bench grinding away with a mortar and pestle.  Shelves lining
+the walls are covered with dried herbs, leaves, roots, tubers and all sorts
+can be seen.  Some are tied together and hang from the ceiling, others are
+contained in jars.  The old woman glances up at those people entering, and
+then goes back to work.  On close inspection, some of the jars look to hold
+various body parts and even slime can be seen in some.  
+~
+0 0 0
+D0
+The valley continues north.
+~
+~
+0 0 7813
+S
+#7809
+A tavern~
+This is were the sailors come to drink when they are in port, judging by
+the large number of them that can be seen filling up the seats.  There are
+twelve tables, all have a bench running down either side.  All are filled,
+even the bar is filled, there is very little sitting room left.  In fact
+there is little in the way of standing room.  There are two women behind the
+bar, vainly trying to keep up with orders.  A dozen serving girls can be
+seen weaving their way around the tables taking and delivering orders. 
+Standing on a stage at the opposite side of the doorway a gleeman is
+performing.  He is playing the harp, he is being drowned out by the noise of
+the drunken crowd.  A fact that does not sit well with him.  He has an
+extremely grumpy look on his face, and is sweating heavily.  No of the
+patrons look to be listening to his song.  
+~
+0 8 0
+D0
+The valley continues north.
+~
+~
+0 0 7814
+D1
+The valley continues east.
+~
+~
+0 0 7810
+S
+#7810
+Central avenue~
+Central avenue, as this road is called, travels directly through the
+commercial district of Mayene.  It also links the commercial district to the
+residential areas of the city.  There is a cross street here, that travels
+east and west, shops can be seen along this cross street.  Those areas to
+the east look to be much quieter than those on the western side of Central
+avenue.  
+~
+0 0 1
+D0
+The valley continues north.
+~
+~
+0 0 7815
+D1
+The valley continues east.
+~
+~
+0 0 7811
+D2
+You see the entrance to the valley.
+~
+~
+0 0 7805
+D3
+The valley continues west.
+~
+~
+0 0 7809
+S
+#7811
+Within the financial district.~
+Moving east of the main street, the financial district proves to be
+completely different in attitude to the commercial district.  Here it the
+prevailing attitude is much more sedate, those people that can be seen
+moving around the streets and buildings are a more serious looking lot. 
+There is a greater number of guards in the district, they are not members of
+the winged guards though.  They are simply hired men and women, they are
+mostly likely employed to protect the monetary interests of the bankers and
+investors of the district.  
+~
+0 0 1
+D0
+The valley continues north.
+~
+~
+0 0 7816
+D1
+The valley continues east.
+~
+~
+0 0 7812
+D2
+The valley continues south.
+~
+~
+0 0 7807
+D3
+The valley continues west.
+~
+~
+0 0 7810
+S
+#7812
+The southeast corner of the financial district.~
+The street ends here, in the southeastern corner of the financial
+district.  There is little movement along the street here.  There is a
+building to the north that has several large men are standing at the doors,
+providing security.  As can be seen everywhere in this city, sea birds are
+wheeling over head in search of food.  The cries from them can be heard
+quite easily from most parts of the city.  
+~
+0 0 1
+D0
+The valley continues north.
+~
+~
+0 0 7817
+D3
+The valley continues west.
+~
+~
+0 0 7811
+S
+#7813
+The western side of the commercial area.~
+Standing at the base of the western stairs the city's commercial area
+spread out to the east.  To the west the noise of the docks is almost
+deafening.  Sailors walk past with their odd rolling gait, whilst well
+dressed merchants move amongst the crowd.  Some of the sailors are moving
+back towards the docks, they are moving rather gingerly as if they have
+spent a hard night drinking.  
+~
+0 0 1
+D0
+The valley continues north.
+~
+~
+0 0 7818
+D1
+The valley continues east.
+~
+~
+0 0 7814
+D2
+The valley continues south.
+~
+~
+0 0 7808
+D3
+~
+~
+0 0 7897
+D4
+The steep trail leads up.
+~
+~
+0 0 7863
+S
+#7814
+Towards the docks~
+This is the middle of the mercantile area.  Merchants hurry along the
+street, moving from shop to shop.  Porters can be seen following their
+masters along carrying the merchant's goods.  Some locals can be seen moving
+in and out of the shops buying the weekly household goods.  Some Mayener
+guards can be seen moving amongst the crowd keeping the peace.  They
+apparently do a good job as no scuffles or fights can be seen breaking out
+in the city.  
+~
+0 0 2
+D0
+The valley continues north.
+~
+~
+0 0 7819
+D1
+The valley continues east.
+~
+~
+0 0 7815
+D2
+The valley continues south.
+~
+~
+0 0 7809
+D3
+The valley continues west.
+~
+~
+0 0 7813
+S
+#7815
+The middle of Mayene's commercial district~
+This area of the avenue is the middle of the city's commercial area.  On
+the eastern side of the road the bankers of the city move around on their
+business.  The western side has merchants moving around at a good pace,
+trying to make their fortunes.  The odd sailor can be seen pushing their way
+through the crowd.  
+~
+0 0 1
+D0
+The valley continues north.
+~
+~
+0 0 7820
+D1
+The valley continues east.
+~
+~
+0 0 7816
+D2
+The valley continues south.
+~
+~
+0 0 7810
+D3
+The valley continues west.
+~
+~
+0 0 7814
+S
+#7816
+The Merchant Bank of Mayene~
+Pure opulence strikes those entering the bank.  The columns that support
+the ceiling are covered in gold leaf.  The floor is made of blue marble, and
+the walls are clad in obsidian.  Clerks stand behind a counter made from
+white marble streaked with black.  There are guards standing either side of
+the three entrances.  Those people that are here waiting to do business seem
+to be unconcerned about trouble, in fact most look to be content.  Obviously
+they have little trouble in this bank 
+~
+0 4194312 0
+D0
+The valley continues north.
+~
+~
+0 0 7821
+D2
+The valley continues south.
+~
+~
+0 0 7811
+D3
+The valley continues west.
+~
+~
+0 0 7815
+S
+#7817
+Descending the eastern stairs.~
+Descending the eastern stairs, it is noticeably quieter on this side of
+the commercial area.  The people that can be seen are more sombre and
+sedately dressed.  It appears as though this area is the financial part of
+the city, Obviously the city folk working here are a more reserved type of
+people.  There is no speed shown by passing citizens, little litter can be
+seen.  Also no strays can be seen or beggars.  
+~
+0 0 1
+D0
+The valley continues north.
+~
+~
+0 0 7822
+D2
+The valley continues south.
+~
+~
+0 0 7812
+D4
+The steep trail leads up.
+~
+~
+0 0 7853
+S
+#7818
+The fishmarkets~
+This is the western side of the fish markets.  As with all the areas
+within the commercial district, this is a loud area and fairly crowded.  A
+number of women are trying to keep up with customer demands.  At this end of
+the markets, small whole fish of various types are on display.  Also, there
+are fillets of numerous types of fish.  Steaks of fish can also be seen on
+display.  Over in one corner even the heads of some fish can be seen on
+sale.  As can the fleshless skeletons of some fish.  There is a large tank
+up against the eastern wall, that is divided into two sections.  One side
+has a number of varieties of live fish swimming around.  The other side is
+filled with what appears to be different types of shell fish.  
+~
+0 8 0
+D1
+The valley continues east.
+~
+~
+0 0 7819
+D2
+The valley continues south.
+~
+~
+0 0 7813
+S
+#7819
+fishmarket~
+This is the eastern end of the fish market.  There are six women behind
+the display shelves serving the customers.  The counters are full of a huge
+number of sea life.  The smell of sea food assaults the nostrils.  There is
+shell fish, strange animals with eight legs, large round fish the size of a
+dog on display.  Further to the west smaller fish can be seen, as well as
+pieces of fish.  This area seems to be set aside for whole fish and other
+oddities caught from the ocean.  A couple of young lads are wandering around
+the counters, topping up the ice levels.  They are as kept as busy as the
+the serving staff.  
+~
+0 8 0
+D1
+The valley continues east.
+~
+~
+0 0 7820
+D2
+The valley continues south.
+~
+~
+0 0 7814
+D3
+The valley continues west.
+~
+~
+0 0 7818
+S
+#7820
+Towards the end of the Commercial area~
+A short walk to the north the commercial district finishes, there is a
+small break in the buildings before avenue enters the residential district. 
+There are less merchants and bankers wandering the streets here, thought the
+crowd has not thinned at all.  The crush of people has been added to by the
+local residents coming here to do their shopping.  A few birds can be seen
+flying over head, the screams from many other birds can be heard.  
+~
+0 0 1
+D0
+The valley continues north.
+~
+~
+0 0 7824
+D1
+The valley continues east.
+~
+~
+0 0 7821
+D2
+The valley continues south.
+~
+~
+0 0 7815
+D3
+The valley continues west.
+~
+~
+0 0 7819
+S
+#7821
+The middle of the financial district.~
+This appears to be the main thoroughfare of the district, ahead a broad
+set of stairs can be seen leading up to a walkway.  Bankers and merchants
+can be seen heading off for their meetings.  Other citizens can be seen
+moving along this street, though not in great numbers.  Perhaps some of them
+have business to attend to in the district.  To the south there are two very
+large men in black uniforms, they are guarding a door.  Above the door is a
+plaque stating, 'The Merchant Bank of Mayene.  ' Several people can be seen
+entering and leaving the building, all are richly dressed.  Those entering
+seem to be a little preoccupied, whilst those leaving look content and
+visibly relaxed.  
+~
+0 0 1
+D0
+The valley continues north.
+~
+~
+0 0 7825
+D1
+The valley continues east.
+~
+~
+0 0 7822
+D2
+The valley continues south.
+~
+~
+0 0 7816
+D3
+The valley continues west.
+~
+~
+0 0 7820
+S
+#7822
+Eastern side of the financial district.~
+To the south and east a broad set of stairs can be seen leading up to the
+walkway.  There does not appear to be to many people on this side of the
+walkway, and only a couple can be seen upon the stairs.  The street heads
+south and connects to the stairs a short distance away.  A troop of winged
+guards can be seen patrolling the streets, they are moving with an
+impressive display of discipline.  The ever present sea birds can be seen
+flying over head, however there cries do not seem to be as loud here.  It is
+almost as though they understand the decorum of the area an are abiding by
+the wishes of the merchants and bankers.  
+~
+0 0 1
+D2
+The valley continues south.
+~
+~
+0 0 7817
+D3
+The valley continues west.
+~
+~
+0 0 7821
+S
+#7823
+A wine shop.~
+A young man and bored looking man looks up as anyone enters the shop. 
+The walls of the shop are lined with racks full of bottles of wine.  The
+young man immediately goes into his spiel.  "We have wines from all over the
+land.  They range in quality from mediocre to those that high lords and
+royalty would drink."  The last line is delivered with a sneer, obviously he
+has a problem with the upper class.  There are several decanters and
+unsealed bottles on the counter to used as samples.  There is even a platter
+with various cheeses on it, and next to it a bowl containing some fruits. 
+Several loaves of bread and some biscuits also sit beside the cheese
+platter.  
+~
+0 8 0
+D1
+The valley continues east.
+~
+~
+0 0 7824
+S
+#7824
+Leaving the commercial area~
+The street narrows ahead as it leaves the commercial area.  Behind the
+noise and hustle of merchants can be heard, whilst ahead all looks much
+quieter and the pace of the citizens is slower.  This central street runs
+back to the city gates in a straight line, and runs north to the residential
+areas of the city.  A head neighbours can be seen standing outside of houses
+talking quietly, others can be seen moving around in no real hurry.  
+~
+0 0 1
+D0
+A small trail leads away from the valley.
+~
+~
+0 0 7826
+D1
+The valley continues east.
+~
+~
+0 0 7825
+D2
+The valley continues south.
+~
+~
+0 0 7820
+D3
+The valley continues west.
+~
+~
+0 0 7823
+S
+#7825
+A dealer in precious stones and metals.~
+A small man stands behind a glass topped counter.  Within the counter is
+an array of precious and semi-precious stones.  In a display cabinet behind
+him ingots of gold and silver can be seen, also their are a number of coins
+of various shapes and sizes.  Another two display cases are positioned
+against the walls and one stands in the middle of the room.  All have gems
+of various types on display.  Diamonds, rubies, moon-drops and others can be
+seen.  One of the display cases is full of pieces of jewelery.  There are
+ornate rings, an bejeweled necklaces.  Their is even a sheath for a sword
+that is set with rubies, and covered in gold and silver.  Hovering in the
+corners are four guards, who watch everyone closely.  Better be careful or
+they might take action.  
+~
+0 8 0
+D2
+The valley continues south.
+~
+~
+0 0 7821
+D3
+The valley continues west.
+~
+~
+0 0 7824
+S
+#7826
+Towards the residential areas~
+Standing on the city street here, the city looks to be split in two.  The
+commercial area is to the south and the residential area is to the north. 
+Mayeners can be seen coming from the north unburdened.  Those seen coming
+from the south, all look to be carrying goods.  Looking closely at the
+citizens, they all look happy and content, life must be good in this city.  
+~
+0 0 1
+D0
+The trail continues north.
+~
+~
+0 0 7827
+D2
+The trail leads back to the valley.
+~
+~
+0 0 7824
+D4
+You see the rope bridge above you.
+~
+~
+0 0 7858
+S
+#7827
+A junction in central avenue~
+Central avenue finished here.  From here there are routes to the east and
+the west, leading to different parts of the residential areas.  It looks
+like any other city, with homes built of the road ways.  A couple of larger
+mansions can be seen on both western and eastern sections.  Also there are
+two palaces, one on either side.  
+~
+0 0 1
+D1
+The trail continues east.
+~
+~
+0 0 7828
+D2
+The trail continues south back toward the valley.
+~
+~
+0 0 7826
+D3
+The trail continues west.
+~
+~
+0 0 7868
+S
+#7828
+Affulent residences~
+This part of the residential areas looks to have many rich and well
+appointed houses.  Obviously this is an area where the more affluent
+citizens live.  Servants can be seen moving about the streets on errands for
+their masters.  There are also some of the household owners moving around,
+however they are in the minority.  
+~
+0 0 1
+D0
+You see a small valley north.
+~
+~
+0 0 7829
+D3
+The trail goes back to the west.
+~
+~
+0 0 7827
+S
+#7829
+Within the wealthy area.~
+Again the road splits here, heading east and west.  Directly ahead a
+palace can be seen.  The gates are guarded by Mayener winged guards.  They
+are looking intensely at who ever passes them.  The palace is richly
+appointed and has lush grounds, it is like it has been built within a park. 
+~
+0 0 1
+D0
+You see the building.
+~
+door~
+1 7829 7834
+D1
+You see the trail around the building.
+~
+~
+0 0 7831
+D2
+You see the trail leading away from this valley.
+~
+~
+0 0 7828
+D3
+You see the trail around the building.
+~
+~
+0 0 7830
+S
+#7830
+The south western corner.~
+The street ends in a corner, it turns towards the east heading back to
+the main gates of the palace.  The guards stationed at the gate can be seen
+from here.  There looks to be no easy way in to the palace, except those
+overhanging branches.  So any exploration must be done once entering the
+main gates, that is off course if any one is allowed in without permission
+or an invite.  
+~
+0 0 1
+D0
+You see the trail.
+~
+~
+0 0 7832
+D1
+You see the trail.
+~
+~
+0 0 7829
+S
+#7831
+Within the wealthy areas.~
+Several large houses can be seen situated of the street.  However the
+area is dominated by the palace that is to the north.  The palace looks to
+cover the same sized area of two large mansions.  The trade of Mayene has
+certainly set up the wealth and made this city-state a very wealthy place,
+indeed.  
+~
+0 0 1
+D1
+You see the trail.
+~
+~
+0 0 7833
+D3
+You see the trail.
+~
+~
+0 0 7829
+S
+#7832
+Beside the royal palace~
+The palace casts an imposing figure on the eastern side of the street. 
+On the western a number of much smaller and somewhat humbler dwellings can
+be seen.  There are a couple of trees over hanging the palace walls.  Two of
+the palace gardeners can be seen trying to remove the overhanging limbs.  
+~
+0 0 1
+D0
+You see the trail.
+~
+~
+0 0 7837
+D2
+You see the trail.
+~
+~
+0 0 7830
+S
+#7833
+The eastern side if the residential estates.~
+This is the eastern extent of the city, a few house can be seen backing
+up on the city wall.  The palace can be seen to the north and west, almost
+filling the middle of the block.  A few household servants can be seen
+moving along the street.  A carriage can be seen moving south, there are
+several mounted guardsmen riding along side it.  
+~
+0 0 1
+D0
+You see the trail.
+~
+~
+0 0 7836
+D3
+You see the trail.
+~
+~
+0 0 7831
+S
+#7834
+The entrance foyer to the palace.~
+The foyer is a vast room with ceilings that stand well over head.  Every
+where signs of the cities wealth and the First's wealth can be seen.  The
+stair case is inlaid with gold, the tapestries that hang around the walls
+are threaded with gold and silver.  All is on show, a typical demonstration
+of royalty and their tastes.  
+~
+0 4194304 0
+D0
+The building continues to the north.
+~
+~
+0 0 7838
+D1
+The building continues to the east.
+~
+~
+0 0 7835
+D2
+The exit is to the south.
+~
+door~
+1 -1 7829
+S
+#7835
+Formal dining area.~
+This can only be a formal dining area, judging by the size and placement
+of the tables in the room.  One table sits apart from the others and must be
+the head table.  All of the tables can seat around a dozen people.  The head
+table is located on a slightly raised dais, and all the other tables are
+placed so that no diner would have to turn around to see those seated at the
+head table.  Everything here is exquisite in detail, from the carved dark
+tables to the padded chairs and the richly embroidered wall hangings.  
+~
+0 8 0
+D0
+The building continues to the north.
+~
+~
+0 0 7839
+D1
+~
+~
+0 0 7890
+D3
+The building continues to the west.
+~
+~
+0 0 7834
+S
+#7836
+Outside a citizens home~
+The gates to a citizens home stand open, perhaps this is where the
+carriage came from.  Several guards are just starting to close the gate. 
+The house is fairly large and looks to be well appointed.  The gardens of
+the house are not overly extensive, but they are well maintained.  
+~
+0 0 1
+D0
+You see the trail.
+~
+~
+0 0 7840
+D1
+~
+~
+0 0 7894
+D2
+You see the trail.
+~
+~
+0 0 7833
+S
+#7837
+The north west corner.~
+The street here heads north and south.  The south is obviously moving
+back towards the commercial area of the city.  The road moves down from a
+slight rise and now the inside of the palace compound can not be seen.  Life
+really seems to be good for those people living in this district.  
+~
+0 0 1
+D0
+You see the trail.
+~
+~
+0 0 7841
+D2
+You see the trail.
+~
+~
+0 0 7832
+S
+#7838
+Formal audience chamber~
+Situated to the back of the room is a large throne, this is where the
+First sits when in audience.  A dozen or so chairs are placed against the
+opposite wall so petitioners can sit whilst waiting to present their request
+or problems to the First.  The marble floor echoes with the sound of booted
+footsteps of pacing petitioners.  Others sit quietly and with patience
+waiting on the First's presence to her them speak.  
+~
+0 8 0
+D1
+The building continues to the east.
+~
+~
+0 0 7839
+D2
+The entrance is to the south.
+~
+~
+0 0 7834
+S
+#7839
+The base of the stair case.~
+The palace spreads out around the staircase, the wealth of Mayene is seen
+every where within the walls.  The stair case itself has been inlaid with
+gold and is made of blue marble.  Two guards can be seen at the top of the
+stairs, guarding the private areas that are found on the next level.  Maids
+and manservants move efficiently around the palace performing their alotted
+duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 7892
+D1
+~
+~
+0 0 7891
+D2
+The building continues to the south.
+~
+~
+0 0 7835
+D3
+The building continues to the west.
+~
+~
+0 0 7838
+D4
+You see the second floor.
+~
+~
+0 0 7848
+S
+#7840
+North if a residence~
+The northern wall of the city can be seen just ahead, where the road
+turns to the west.  The palace is on the west of the street.  There is a
+residence on the east, it is the one who's gate that opens just up to the
+south.  There is little movement on the streets.  However the ever present
+sea birds still wheel over head.  
+~
+0 0 1
+D0
+You see the trail.
+~
+~
+0 0 7844
+D2
+You see the trail.
+~
+~
+0 0 7836
+S
+#7841
+The north west of the rich sector.~
+The street continues to the east and south here.  The palace can still be
+seen to the southeast, it takes up the entire middle of the block.  A slight
+rise in the street here allows a view over the palace wall.  Guards can be
+seen patrolling the palace grounds.  Laborers, gardeners and workman can
+also be seem moving around.  Other household servants, though in limited
+numbers, are also strolling around the park like grounds.  
+~
+0 0 1
+D1
+You see the trail.
+~
+~
+0 0 7842
+D2
+You see the trail.
+~
+~
+0 0 7837
+S
+#7842
+Nearing the north western side of the district~
+The streets are extremely quite, it is obvious that the residents of this
+area do not go out much, and do not like high noise levels.  A small patrol
+of the winged guards can be seen marching along the street, looks like they
+are doing their job well then.  Of course the guards or the rich owners
+cannot get rid of the ever presents sounds of sea birds.  
+~
+0 0 1
+D1
+You see the trail.
+~
+~
+0 0 7843
+D3
+You see the trail.
+~
+~
+0 0 7841
+S
+#7843
+Before a gate~
+To the north there is a closed gate, barring the entrance to another
+palatial home.  Well presented gardens and large lawn areas can be seen,
+being attended to by an army of gardeners.  The owner obviously has a love
+of plant life.  Several exotic looking fountains can also be seen within the
+grounds, creating an even more peaceful atmosphere.  
+~
+0 0 1
+D0
+~
+~
+1 0 7895
+D1
+You see the trail.
+~
+~
+0 0 7844
+D3
+You see the trail.
+~
+~
+0 0 7842
+S
+#7844
+The northern part of the city.~
+There is a residence to the north, it is backed up to the cities inner
+wall.  It also looks to be a very well appointed dwelling, as they are all
+are in this section of the residential area.  A little to the west a closed
+gate can be seen, leading to the house.  This area must be the place where
+the rich merchants and nobles live.  
+~
+0 0 1
+D2
+You see the trail.
+~
+~
+0 0 7840
+D3
+You see the trail.
+~
+~
+0 0 7843
+S
+#7845
+The First of Mayene's bedroom.~
+The bedroom is dominated by a massive four posted bed.  It is made from
+some dark wood and polished until it gleams.  There are light curtains
+falling from the upper frame, they are transparent and more likely in place
+to stop insects.  The bed is that big that it should hold eight people or
+more.  There is an ornate dresser in one corner, it is heavily carved in
+vines in flowers, and of course inlaid with gold.  Nearby is a large stand
+mirror.  There is also a large wardrobe standing against one of the walls,
+it is made from a lighter colored wood.  It is still heavily carved, though
+this time it is carved in small animals and birds.  
+~
+0 4202496 0
+D0
+You see another room.
+~
+door~
+1 -1 7847
+D1
+~
+~
+1 0 7846
+D2
+~
+~
+0 0 7889
+D3
+~
+~
+0 0 7893
+S
+#7846
+A walk in robe~
+Judging by the amount of clothes that can be seen hanging in here or
+neatly folded and placed onto the available shelves, this is the First's
+wardrobe.  As befits royalty there is a huge array of styles and makes of
+clothing to be found here.  All of it is well made, and in general it is
+made of expensive materials.  There are silks, satins, high quality cloth
+garments, and even some clothes that are all but transparent.  
+~
+0 4202496 0
+D0
+You see another room.
+~
+door~
+1 7804 7848
+D3
+~
+~
+1 0 7845
+S
+#7847
+Personal receiving chamber~
+This room is where the First receives personal guests.  There are several
+long couches and some divans on which the guest can sit.  Within an easy
+reach of all of them are a number of tables, most are only small, only a
+foot or so in diameter.  There is a larger table in the middle of the
+chamber, this is surrounded by six chairs and obviously used for more for
+unofficial meetings, than the official meetings.  
+~
+0 4202504 0
+D1
+You see another room.
+~
+door~
+1 -1 7848
+D2
+You see another room.
+~
+door~
+1 -1 7845
+S
+#7848
+Study~
+Standing at the top of the stairs the study of the First can be seen. 
+There is a large desk situated in one corner, facing the stairs.  A number
+of book shelves line the walls, all are filled to over flowing with books. 
+The desk itself is arranged neatly, with piles of neatly stacked papers.  A
+quill can be seen placed in a stand that has an ink well attached.  It is a
+little difficult to tell, but the ink well and stand seem to be made of
+marble.  It is so heavily plated in gold it is difficult to tell, if indeed
+it is a marble piece.  
+~
+0 4202504 0
+D2
+You see another room.
+~
+door~
+1 7804 7846
+D3
+You see another room.
+~
+door~
+1 7804 7847
+D5
+You see the first floor.
+~
+~
+0 0 7839
+S
+#7849
+Further along the eastern side~
+There is little difference to any other parts of the walkway here, as it
+moves east and north.  A building can be seen below, that has several winged
+guards moving around the entrance.  It must have some importance to them. 
+Maybe it is some kind of barracks, or perhaps it is an armory.  A man can be
+seen moving swiftly towards the south, he is extremely well dressed, an
+looks to be concentrating hard on some problem.  
+~
+0 0 1
+D1
+~
+~
+0 0 7850
+D2
+~
+~
+0 0 7803
+S
+#7850
+Closer to the eastern side of the city~
+The walk way continues its movement to the north and east.  There is
+little in the way of people moving along this area of the way.  Sea birds
+can be seen landing on the railings and the cities outer wall.  In some
+areas it almost looks like the wall and the railing is a living and moving
+thing, they are that covered by birds.  
+~
+0 0 1
+D0
+~
+~
+0 0 7851
+D3
+~
+~
+0 0 7849
+S
+#7851
+Overlooking the financial district~
+Looking out over the financial district, from this section of the way. 
+One building stands out from all the others, simply as it has a large number
+of people gathered around its doors.  People can be seen entering and
+leaving the building, and there are a number of guards that are stationed
+around the building.  Other buildings in this section are not as busy and
+only a few people can be seen moving around them.  
+~
+0 0 1
+D1
+~
+~
+0 0 7852
+D2
+~
+~
+0 0 7850
+S
+#7852
+The eastern limit of the walkway.~
+The way stops moving east at this junction.  From here heads directly
+north for a short distance, then it can be seen to leading back to the north
+and west.  Just a little ways ahead another of the grand stairs can be seen
+leading down into the city proper, and also there is another of the guards
+barracks or resting points, just the other side of the stairs.  Compared to
+the other side of the city there is little in the way of noise and movement
+on the stairs or coming up from the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 7853
+D3
+~
+~
+0 0 7851
+S
+#7853
+Eastern side of the walkway.~
+Looking out over the city walls ships can be seen rising and falling on
+the ocean's swells.  Perhaps they are fishermen out looking for the famed
+oilfish shoals.  Somewhere out over the marching lines of the swell is the
+land of legend, Shara.  Some Sea Folk ships can be seen sailing due east,
+mayhap they are on a trading run to those lands.  
+~
+0 0 1
+D0
+~
+~
+0 0 7854
+D2
+~
+~
+0 0 7852
+D5
+The trail down looks safe.
+~
+~
+0 0 7817
+S
+#7854
+Another guard's rest stop~
+Located just to the north of the stairs, there is another guard house. 
+Two of the winged guards can be seen standing outside the building.  They
+are watching everyone who passes this way.  There are few people moving
+around here, so these guards will probably have little to on their shift.  
+~
+0 0 1
+D2
+~
+~
+0 0 7853
+D3
+~
+~
+0 0 7855
+S
+#7855
+Somewhere on the eastern section.~
+There is little movement along this section of the walk way.  In fact
+there is no one else around.  Some people can be seen to the south and east,
+and there looks to be movement to the north and west.  No noise reaches up
+from the city, at least that is not drowned out by the cries of the sea
+birds.  All seems rather quiet, especially for a large city.  
+~
+0 0 1
+D0
+~
+~
+0 0 7856
+D1
+~
+~
+0 0 7854
+S
+#7856
+The start of the eastern section.~
+The northern part of the way finishes here, and the way turns south.  It
+can be seen taking a series of turns until it staightens out.  Again, as
+with every where within this city birds can be seen flying over head.  There
+are a couple of young men dressed in fairly dirty clothes working along this
+section.  On closer inspection of what they are doing, it can be seen that
+they are cleaning up the droppings left by the sea birds.  This would be an
+endless job, looking at the vast numbers of sea birds flying around.  
+~
+0 0 1
+D2
+~
+~
+0 0 7855
+D3
+~
+~
+0 0 7857
+S
+#7857
+Towards the eastern wall~
+Having passed the stairs that lead down to the city proper, the walkway
+has barely any persons upon it as it passes over the financial section of
+the city.  Looking over the sides, there is little in the way of traffic
+when compared to the other side of the city.  There do appear to be a
+greater number of stationary guards in the area though.  The odd well
+dressed banker can be seen sitting on the benches located around the
+walkway, eating, drinking or talking with associates.  
+~
+0 0 1
+D1
+~
+~
+0 0 7856
+D3
+You see a rope bridge~
+~
+0 0 7858
+S
+#7858
+The centre of Mayene~
+The walkway continues to pass over the city center.  Looking over either
+side, a large market place can be seen to the south.  To the north the
+residential areas of the city can be seen.  To the north west a large palace
+can be seen, one can also be seen to the north east.  Surely on of these
+must be the residence of the first of Mayene.  There is a another set broad
+stairs leading down to the city proper here.  Looking to the north the
+drowned lands can be seen, and just seen in the distance is the tail end of
+the Spine of the World.  
+~
+0 0 1
+D1
+~
+~
+0 0 7857
+D3
+~
+~
+0 0 7859
+D5
+You see the trail.
+~
+~
+0 0 7826
+S
+#7859
+A patrol's barracks~
+Located here along the northern section of the walkway is a way stop
+barracks for patrols.  There is a patrol of winged guards gathered around
+the barracks, joking and generally resting.  The barracks is set half on the
+walkway and half of it is suspended in mid air.  The barracks is obviously
+to be used as a resting spot for the patrols, somewhere that they can grab a
+drink or some food, and relax a bit.  There is also two or three guards
+stationed here, as ready reaction force.  
+~
+0 0 1
+D1
+You see a rope bridge.
+~
+~
+0 0 7858
+D3
+~
+~
+0 0 7860
+S
+#7860
+The northern limit of the walkway.~
+The walkway stops heading north here, and straightens out and heads east.
+The homes and houses of the Mayener's can be seen to the north, whilst the
+shops and inns are to the south.  There are no people to be seen along this
+part of the walkway.  However just ahead a fortification can be seen, and
+some winged guards are moving out along the walkway in formation.  
+~
+0 0 1
+D1
+~
+~
+0 0 7859
+D2
+~
+~
+0 0 7861
+S
+#7861
+The northern part of the walkway.~
+The walkway is no longer skirting the wall around the city.  Instead it
+is running over the northern end of the commercial district.  The
+residential areas of the city can be seen to the north, they are quiet when
+compared to the noise and hustle of the area directly below.  A large man
+can be seen walking his hounds along the walkway.  The hounds snap and snarl
+at passers by.  It seems strange to walk aggressive dogs in public areas
+like this, but he appears to unconcerned.  
+~
+0 0 1
+D0
+~
+~
+0 0 7860
+D3
+~
+~
+0 0 7862
+S
+#7862
+Overlooking the docks.~
+The walkway turns back towards the east here.  Sea birds can still be
+seen and heard as they wheel over head.  Some children run past playing
+chasing games on the walkway.  This area still has a few people wandering
+around, though most seem intent on reaching the stairs, or are staring over
+the city walls watching the boats in the harbour.  None of the winged guards
+can be seen along the walkway, in the near distance.  Perhaps they are
+patrolling further along it.  
+~
+0 0 1
+D1
+~
+~
+0 0 7861
+D2
+~
+~
+0 0 7863
+S
+#7863
+Overlooking the Dock gates.~
+Standing here on the walkway the bay can be seen stretching to the north,
+whilst looking south the Sea of Storms stretches to the horizon.  To the
+east their is another set of broad stairs leading down into the mercantile
+area of the city.  There is little different seen within the city itself,
+however glancing over the wall to the west the docks can be seen.  The docks
+are alive with activity, ships are being loaded and unloaded.  Voices can be
+heard yelling orders, from the ships of various nations.  Unloaded goods
+pass through a gate into the city and move onto the warehouses.  
+~
+0 0 1
+D0
+~
+~
+0 0 7862
+D2
+~
+~
+0 0 7864
+D5
+The trail down looks safe.
+~
+~
+0 0 7813
+S
+#7864
+The western edge of the walkway~
+The walkway here finishes moving to the west and can be seen running due
+north for a short stretch before it turns to the east.  Below the docks
+stretch out in the bay, sailors and fishermen can be seen moving around
+unloading the wares.  Ahead a set of broads stairs can be seen leading down
+to the city.  A group of children are gathered at the top of the stairs
+looking at the commotion around the docks, pointing and laughing.  
+~
+0 0 1
+D0
+~
+~
+0 0 7863
+D1
+~
+~
+0 0 7865
+S
+#7865
+The western walkway~
+Nearing the western edge of the walkway, the cries of the dock workers
+can be heard.  The smell of freshly caught fish also increases in strength. 
+Occasionally some of the gamer birds can be seen carrying out sudden attacks
+on the piles of fish being unloaded from some of the boats.  Some local
+youngsters seem to have been employed to stop this from occurring.  They can
+be seen running around the fish waving poles at any approaching birds.  
+~
+0 0 1
+D2
+~
+~
+0 0 7866
+D3
+~
+~
+0 0 7864
+S
+#7866
+The western walkway~
+There are a group of Andorans gathered here looking down into the city. 
+They are quietly discussing something, they stop talking as anyone
+approaches them.  Some sea birds are perched along the city walls.  Every
+now and then a scuffle breaks out and one or two fly off.  The noise from
+the docks can be heard more clearly from here.  
+~
+0 0 1
+D0
+~
+~
+0 0 7865
+D1
+~
+~
+0 0 7867
+S
+#7867
+The western walkway~
+Heading west and north along the walkway.  Looking over the eastern side,
+shops can be seen, and many seem to be quite busy.  Sea birds can be seen
+flying over the city, but mostly gathered over the western side, near the
+docks.  Mostly likely they are waiting to pounce on whatever food is
+available, their raucous cries can be heard.  A few foreigners can be seen
+standing along the walkway gazing at the view out across the bay, whilst
+others are looking towards the commercial area.  
+~
+0 0 1
+D2
+~
+~
+0 0 7802
+D3
+~
+~
+0 0 7866
+S
+#7868
+Entering another residential section~
+There is another residential area just ahead, it seems that one of the
+areas is for the wealthy and the on directly ahead is for the normal working
+class citizens.  Those homes that can be seen are not large, they look to be
+only 4 or 5 rooms in size, however there is a larger looking building to the
+north west.  
+~
+0 0 1
+D0
+The trail continues north.
+~
+~
+0 0 7869
+D1
+The trail continues east.
+~
+~
+0 0 7827
+S
+#7869
+Within the resiidential area.~
+The street turns to the west here and just ahead the western residential
+area starts.  There is much more movement of citizens within this area,
+locals are moving towards the commercial area.  They maybe on their way to
+work or just going to buy some house hold goods.  There are also many coming
+back from that section, some are carrying bundles of goods, others are
+carrying nothing.  Still others are stumbling slightly as if they have a few
+drinks after work.  
+~
+0 0 1
+D2
+The trail continues south.
+~
+~
+0 0 7868
+D3
+The entrance to the small valley is to the west.
+~
+~
+0 0 7870
+S
+#7870
+A fork in the street.~
+The road splits here, it now runs north and south and leads further into
+the workers homes.  To the west a larger building than the any of the others
+can be seen.  The owner must be a little better of than the others that live
+here.  However lives there must also not have enough capital to buy a home
+in the wealthy section.  
+~
+0 0 1
+D0
+The valley continues to the north.
+~
+~
+0 0 7871
+D1
+The exit from this small valley is to the east.
+~
+~
+0 0 7869
+D2
+The valley continues to the south.
+~
+~
+0 0 7872
+D3
+You see the small shack.
+~
+door~
+1 -1 7878
+S
+#7871
+A south and west turn in the street.~
+This street of the workers residences turns to the west here.  The
+workers houses are set off the road to the north, and some are to the west. 
+Some of the homes are two stories and most are only made up of six rooms or
+so.  Sea birds can be seen flying over head, and some are even nesting on
+roofs and eaves of houses.  
+~
+0 0 1
+D2
+The valley continues to the south.
+~
+~
+0 0 7870
+D3
+The valley continues to the west.
+~
+~
+0 0 7873
+S
+#7872
+South west section~
+This is the south west area of this section.  The street heads to the
+north and turns to the west here.  There is a large building to the north
+and west, and many other smaller buildings can be seen off the street.  The
+sea birds almost seem to be louder here than they are in the wealthier area,
+its as if they know that this area is not as sedate and quiet as the wealthy
+residential area.  
+~
+0 0 1
+D0
+The valley continues to the north.
+~
+~
+0 0 7870
+D3
+The valley continues to the west.
+~
+~
+0 0 7877
+S
+#7873
+The northerh stretch of street.~
+The northern most stretch of this street, homes can be seen to the
+north, and one larger one is to the south.  Neighbours can be seen talking
+to one another over fences, or in the street.  This residential area looks
+to much more open than the wealthy area.  There may even be an inn in the
+area so one can stay here and enjoy the comfortable atmosphere of the common
+people.  
+~
+0 0 1
+D1
+The valley continues to the east.
+~
+~
+0 0 7871
+D3
+The valley continues to the west.
+~
+~
+0 0 7874
+S
+#7874
+Turning south in the commons.~
+The main street of the area turns south here, again homes can be seen
+backed up to the city walls, to the north and west.  To the east the area is
+dominated by one larger mansion, but there are several other homes tucked in
+behind the mansion.  Children can be seen playing games in the street,
+whilst their mothers are seen watching carefully over them.  
+~
+0 0 1
+D1
+The valley continues to the east.
+~
+~
+0 0 7873
+D2
+The valley continues to the south.
+~
+~
+0 0 7875
+S
+#7875
+Further along the street.~
+This street can be seen turning back to the east just ahead.  The houses
+are built almost wall to wall, and all available space is used up.  Most
+homes have little or no space for grassed areas, but all have small herb and
+vegetable gadrens.  Men can be seen leaving to go to work, and also moving
+wearily on their way home from work.  House wives can be seen fussing around
+in the windows or even tending to the gardens.  This area is a hive of
+activity.  
+~
+0 0 1
+D0
+The valley continues to the north.
+~
+~
+0 0 7874
+D2
+The valley continues to the south.
+~
+~
+0 0 7876
+S
+#7876
+A turn in the street.~
+Houses can be seen again wall to wall along the street, however there is
+an open area of grass in the corner, where the street turns.  There are a
+number of structures in the area, and all have children playing on them. 
+Looks to be a local park.  There are a number of good wives standing
+nattering away, whilst they watch over the playing children.  
+~
+0 0 1
+D0
+The valley continues to the north.
+~
+~
+0 0 7875
+D1
+The valley continues to the east.
+~
+~
+0 0 7877
+S
+#7877
+The common folks residences.~
+To the north a larger building can be seen, it must be the residence of
+someone who does not have enough funds to move to the wealthy estates to the
+east.  People can be seen moving around the area in greater numbers than
+elsewhere.  Children also are running around in numbers playing and
+laughing, everyone here is in good spirits.  
+~
+0 0 1
+D1
+The valley continues to the east.
+~
+~
+0 0 7872
+D3
+The valley continues to the west.
+~
+~
+0 0 7876
+S
+#7878
+The home of a relatively successful merchant~
+This is a well stocked house hold of a merchant.  The owner is not
+wealthy enough to move to the other residential area, or perhaps they just
+choose not to live with that class of people.  All that can be seen in this
+room, from the furniture to the engraved cornices is fairly valuable and
+well made.  Nothing however is overly done and it obvious that the owners do
+not wish to show off what they have.  
+~
+0 8 0
+D1
+You see the valley outside.
+~
+door~
+1 -1 7870
+D4
+~
+~
+0 0 7883
+D5
+You see a trap door!
+~
+trap door~
+1 -1 7879
+S
+#7879
+The cellars of the house~
+This is the basement of the household, it is the same as another cellar. 
+Cool and dark, it is a place to store perishables, and wine.  This room
+itself is entirely empty, all that can be seen are the four walls and the
+stairs leading back up 
+~
+0 9 0
+D2
+The room looks reddish down there.
+~
+~
+0 0 7880
+D4
+Back to known territory!
+~
+trap door~
+1 -1 7878
+S
+#7880
+A wine cellar~
+The walls of this room are covered in wine racks.  The room itself is
+cool, and there is a musty odour on the air.  The racks are only about half
+full, but this still means the owner has a decent stock of wine.  A number
+of casks, kegs and barrels of varying sizes can be seen stacked on the
+floor.  They contain other times of alcohol, mostly stronger drinks.  
+~
+0 8 0
+D0
+You see the relative safety to the north.
+~
+~
+0 0 7879
+D1
+You see breaks in the charred rock to the east.
+~
+secret~
+1 7805 7882
+D3
+You see a door to the west.
+~
+door~
+1 7805 7881
+S
+#7881
+The Workroom~
+This is a strange looking workroom, there are none of the ordinary items
+and tools to be found in a normal workroom.  Instead what can be found here,
+are dummies made from straw, also there are wooden dummies.  On the far wall
+several targets can be seen, and beside them is a large statue made from
+bronze.  This must be the workroom of a warrior.  The air in the room smells
+of stale sweat and lineament.  There are a number of shafts in the ceiling,
+and cool fresh air can be felt coming from them 
+~
+0 138420232 0
+D1
+~
+door~
+1 7805 7880
+S
+#7882
+The Storage Room~
+Within this rooms the light of the lanterns id reflected back, from the
+gleam of armor and weapons.  Full suits of plate mail are arrayed on stands,
+as is some chain mail suits.  Shields can be seen hanging from hooks on the
+wall.  There are numerous bows and quivers also hanging from this hooks.  A
+couple of stands hold pole arms of various types, crossbows are leaning
+against the walls.  Daggers, axes, swords and maces are placed on some
+shelving.  Everything is in excellent condition, even though some of it
+looks to be very old, they are still well cared for.  
+~
+0 8 0
+D3
+~
+secret door~
+1 7805 7880
+S
+#7883
+The upper levels~
+At the top of the stairs there are four doorways leading to different
+rooms.  The room here at the top of the stairs is fairly vacant, it is
+merely a way to get to the other rooms.  There is one display case against
+the southern wall.  It has a very tasteful display of porcelain figurines. 
+In another corner is a stand containing a full suit of armor, it is the
+armor of one of the winged guards.  A lance complete with the red streamers
+stand beside the armor.  
+~
+0 4194316 0
+D0
+~
+~
+0 0 7887
+D1
+~
+~
+0 0 7885
+D2
+~
+~
+0 0 7884
+D3
+~
+~
+0 0 7886
+D5
+~
+~
+0 0 7878
+S
+#7884
+A study~
+This is the study of the owner of this building.  It is a very neat and
+everything is in order.  A desk sits in the room under a window, so that any
+one using the desk has the window at their back.  The selves have ledgers
+and books loading them down.  A blotter and a single pile of papers are on
+the desk, nothing else disrupts the desks surface.  
+~
+0 67108872 0
+D0
+~
+~
+0 0 7883
+S
+#7885
+A master bedroom~
+A huge bed capable of sleeping five people dominates the bedroom.  The
+sheets are made of silk, and the mattress and down filled cover are made of
+the finest linens.  A large wardrobe stands in one corner with a large
+mirror beside it.  There are several battle flags and pennons on the walls,
+instead of the usual tapestries.  A series of shelves on the wall hold
+different weapons, there are two swords, a wicked looking axe.  Several
+daggers can also be seen.  Two lances stand along side the shelving, and
+there are several bows displayed on the shelves.  
+~
+0 4194312 0
+D2
+~
+~
+0 0 7888
+D3
+~
+~
+0 0 7883
+S
+#7886
+A balcony~
+Standing on the balcony the view is amazing.  The ocean can easily be
+seen to the south and west, to the north the drowned lands can also be
+spotted.  There is a small table with three chairs beside it.  A cool breeze
+gusts in from the south, and the calling of the sea birds seems less
+intrusive sitting here.  
+~
+0 0 0
+D1
+~
+~
+0 0 7883
+S
+#7887
+A bedroom~
+This is a quests bedroom, a large bed is placed against the northern
+wall, under an open window.  Against another wall is a medium sized writing
+desk, complete with a sheaf of blank paper and a quill and ink.  There is
+also a large stand mirror next to a dresser in one corner.  It is a nice
+place for guests to be put up.  
+~
+0 8 0
+D2
+~
+~
+0 0 7883
+S
+#7888
+An attached bathroom.~
+This bathroom is for the use of the nearby bedroom's occupants.  There is
+nothing to be seen here that is overly expensive, it is all well made. 
+There is a small mirror set on the wall over a basin on a stand.  Nearby
+there is a shelf that holds shaving equipment.  
+~
+0 8 0
+D0
+~
+~
+0 0 7885
+S
+#7889
+The bedroom's balcony.~
+This balcony is a nice place for the First to retreat to and take in the
+vista of the city.  From here the whole southern and western areas of the
+city can be seen.  It also has great views if the ocean.  There is a small
+table and a large and well padded leather chair place here, so the First can
+really relax.  
+~
+0 8192 0
+D0
+~
+~
+0 0 7845
+S
+#7890
+The wine storage room.~
+This room has row after row of wine racks, all reach the ceiling and all
+are if not full not very far from it.  A number of ladder on wheels can be
+seen leaning against the racks, to aid in getting to the top of the racks. 
+In the back corner there is stack of small kegs and barrels, the labeling on
+them says that they contain brandy, cider and other alcohol.  Again royalty
+is well placed to own this much in the way of anything, and much of it is
+imported and no of it appears to be inexpensive types of alcohol.  
+~
+0 8 0
+D0
+~
+~
+0 0 7891
+D3
+~
+~
+0 0 7835
+S
+#7891
+A storage room for the kitchen.~
+This room is obviously a food store room, the walls are lined with
+shelves.  These shelves are loaded with the goods that are used to prepare
+and make meals.  Flour, spices, oil and many other items can be seen on the
+shelves.  Barrels of fruits are placed on the floor, rounds of cheese can
+also be seen laying on the shelves.  One set of shelves even has jars full
+of pickled items, such as quails eggs, ox tongues and other delicacies.  
+~
+0 8 1
+D2
+~
+~
+0 0 7890
+D3
+~
+~
+0 0 7839
+S
+#7892
+The palace kitchen.~
+The kitchen is a hubbub of action and movement, cooks and their helpers
+are working away at preparing meals for the people of the palace.  Looks
+like the place really never closes down, and the aromas drifting through the
+air are heavenly.  On one bench people can be seen making pies, another
+vegetables are being prepared.  Still another has various types of birds
+being stuffed, from geese to wood hens.  There are several large roasts
+turning in the fire pits.  
+~
+0 8 0
+D2
+~
+~
+0 0 7839
+S
+#7893
+The First's bathroom~
+This bathroom could only belong to an extremely rich person or royalty. 
+There is gold and silver trimmings every where.  The bath itself could
+easily hold five people, and there is a a floor to ceiling gilded mirror on
+on wall.  All of the utensils are gold or silver plated, and the furnishings
+are covered in the finest silk or satin.  
+~
+0 4202504 0
+D1
+~
+~
+0 0 7845
+S
+#7894
+A residence of a wealthy citizen~
+Standing in the foyer of this mansion it looks very, very well appointed.
+The furnishing is tastefully done, however lives here is a person of class. 
+Nothing here is extremely expensive but it is all well made and is not
+cheap.  Maids and man servants rush around preparing things for their
+master.  On the whole it looks like a well organized household.  
+~
+0 8 0
+D3
+~
+~
+0 0 7836
+S
+#7895
+Within the grounds~
+Looking around the plant life is almost overwhelming.  Hundreds of
+different types of plants can be seen, water can be heard whispering in the
+background.  The gardens are broken up into different sections, it looks
+like they represent the vegetation from the different areas of the
+continent.  It is no wonder that the owner has employed an army of
+gardeners.  
+~
+0 0 2
+D2
+~
+~
+1 0 7843
+S
+#7896
+A walkway~
+This is the southern extent of the walkway, it appears to run around the
+city walls.  The gates to the city lie somewhere below, a set of broad
+stairs lies to the north.  A pair of the winged guards are standing against
+the inner railing watching and observing any persons entering the city. 
+Looks like the city is very well guarded, the winged guards must keep a
+tight lid on things.  
+~
+0 0 1
+D0
+~
+~
+0 0 7804
+D1
+~
+~
+0 0 7803
+D3
+~
+~
+0 0 7802
+S
+#7897
+The city's commercial docks.~
+The commercial docks are full off hustle and bustle, people are moving in
+every direction.  Fishermen are unloading their catches, other ships are
+having goods unloaded.  There are more guards to be seen here than anywhere
+else in the city.  Cargo masters can be heard yelling orders at deck hands,
+sea birds can be seen and heard diving in after fish.  The noise level here
+is massive, it is hard to here if some one is talking to you.  
+~
+0 0 1
+D0
+~
+~
+0 0 7898
+D1
+~
+~
+0 0 7813
+D2
+~
+~
+0 0 7899
+S
+#7898
+The north docks.~
+The ships at this end of the dock are all smaller vessels, mostly fishing
+boats.  They are quickly unloaded and the next craft pulls into the docks to
+be unloaded.  It is very efficiently done and occurs in almost no time.  The
+majority of fish being unloaded appears to be the famed oil fish, on which
+the city's wealth is based.  
+~
+0 0 1
+D2
+~
+~
+0 0 7897
+S
+#7899
+The south end of the dock~
+This end of the docks is no different to anywhere else, full of noise and
+people hurrying about attempting to make money.  Some small lads are fishing
+at the end of the dock, they are enjoying themselves.  No one is interested
+in the lads and they are playing with each other more than they are actually
+fishing.  
+~
+0 0 1
+D0
+~
+~
+0 0 7897
+S
+#0
+
+
+
+#SPECIALS
+M 7807 spec_cast_cleric
+M 7808 spec_cast_mage
+M 7809 spec_breath_fire
+M 7811 spec_cast_mage
+M 7845 spec_breath_gas
+M 7847 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 7829 0 2
+D 0 7834 2 2
+D 0 7843 0 1
+D 0 7845 0 1
+D 0 7845 1 1
+D 0 7846 0 2
+D 0 7846 3 1
+D 0 7847 1 2
+D 0 7847 2 1
+D 0 7848 2 2
+D 0 7848 3 2
+D 0 7870 3 1
+D 0 7878 1 1
+D 0 7878 5 1
+D 0 7879 4 1
+D 0 7880 1 2
+D 0 7880 3 2
+D 0 7881 1 2
+D 0 7882 3 2
+D 0 7895 2 1
+M 0 7802 15 7800 1 100 Load A soldier
+E 0 7800 0 5 0 100 A surcoat is loaded on the body of A soldier
+E 0 7803 0 3 0 100 A red cloak is loaded around the neck (1) of A soldier
+M 0 7811 2 7800 1 100 Load A guards captain
+E 0 7807 0 17 0 100 A long sword. is loaded wielded of A guards captain
+M 0 7802 10 7806 1 100 Load A soldier
+E 0 7802 0 17 0 100 A streamered lance is loaded wielded of A soldier
+E 0 7806 0 5 0 100 A red breastplate. is loaded on the body of A soldier
+E 0 7801 0 6 0 100 A mayene helm is loaded over the head of A soldier
+M 0 7807 1 7808 1 100 Load An apothecary
+E 0 7819 0 17 0 100 A mortar and pestle is loaded wielded of An apothecary
+M 0 7812 3 7811 1 100 Load A bank guard
+M 0 7800 2 7813 1 100 Load A mangy dog
+M 0 7812 3 7815 1 100 Load A bank guard
+E 0 7825 0 17 0 100 A quarterstaff is loaded wielded of A bank guard
+M 0 7801 3 7816 1 100 Load A banker
+M 0 7805 4 7818 1 100 Load A fish co-op worker
+E 0 7817 0 3 0 100 An apron is loaded around the neck (1) of A fish co-op worker
+M 0 7805 4 7819 1 100 Load A fish co-op worker
+E 0 7818 0 17 0 100 Filleting knife is loaded wielded of A fish co-op worker
+M 0 7812 3 7821 1 100 Load A bank guard
+M 0 7810 1 7823 1 100 Load A wine buff
+M 0 7808 1 7825 1 100 Load A jeweler
+E 0 7820 0 21 0 100 An eye piece is loaded on the face of A jeweler
+M 0 7829 2 7829 1 100 Load A winged guard
+E 0 7829 0 19 0 100 A key to a gate is loaded held in the hands of A winged guard
+M 0 7836 1 7836 1 100 Load A wealthy merchant
+M 0 7816 3 7837 1 100 Load A labourer
+M 0 7806 3 7839 1 100 Load A butler
+M 0 7845 1 7845 1 100 Load The First of Mayene
+E 0 7845 0 6 0 100 Mayene's crown is loaded over the head of The First of Mayene
+E 0 7889 0 17 0 100 A dagger from tear is loaded wielded of The First of Mayene
+M 0 7847 1 7847 1 100 Load A advisor
+E 0 7847 0 19 0 100 An angreal is loaded held in the hands of A advisor
+M 0 7848 1 7848 1 100 Load The First's secretary
+E 0 7804 0 19 0 100 A key is loaded held in the hands of The First's secretary
+M 0 7803 3 7852 1 100 Load A patrolman
+E 0 7801 0 6 0 100 A mayene helm is loaded over the head of A patrolman
+E 0 7802 0 17 0 100 A streamered lance is loaded wielded of A patrolman
+M 0 7803 3 7859 1 100 Load A patrolman
+M 0 7811 2 7859 1 100 Load A guards captain
+E 0 7807 0 17 0 100 A long sword. is loaded wielded of A guards captain
+M 0 7870 2 7870 1 100 Load A local man
+M 0 7813 2 7876 1 100 Load A child
+M 0 7814 1 7876 1 100 Load A vigilante parent
+E 0 7821 0 19 0 100 A small pack is loaded held in the hands of A vigilante parent
+M 0 7810 1 7880 1 100 Load A wine buff
+M 0 7809 1 7881 1 100 Load A training dummy
+O 0 7813 0 7881 0 100 A potion loaded to The Workroom
+O 0 7814 0 7881 0 100 A potion loaded to The Workroom
+O 0 7815 0 7881 0 100 A potion loaded to The Workroom
+O 0 7816 0 7881 0 100 A potion loaded to The Workroom
+O 0 7809 0 7882 0 100 A potion loaded to The Storage Room
+O 0 7810 0 7882 0 100 A potion loaded to The Storage Room
+O 0 7811 0 7882 0 100 A potion loaded to The Storage Room
+O 0 7808 0 7882 0 100 A potion loaded to The Storage Room
+O 0 7812 0 7882 0 100 A potion loaded to The Storage Room
+M 0 7806 1 7883 1 100 Load A butler
+M 0 7883 1 7883 1 100 Load Head maid
+E 0 7824 0 0 0 100 The rod of neutrality is loaded as a light of Head maid
+M 0 7815 1 7884 1 100 Load A retired captain
+E 0 7805 0 19 0 100 A key is loaded held in the hands of A retired captain
+E 0 7884 0 17 0 100 A captain's sword is loaded wielded of A retired captain
+M 0 7892 1 7892 1 100 Load Head cook
+E 0 7892 0 17 0 100 A cleaver is loaded wielded of Head cook
+M 0 7803 2 7896 1 100 Load A patrolman
+M 0 7898 4 7898 1 100 Load A sailor
+M 0 7800 1 7899 1 100 Load A mangy dog
+M 0 7804 2 7899 1 100 Load A dock worker
+M 0 7857 1 7899 1 100 Load A ships captain
+E 0 7857 0 17 0 100 A captain's whip is loaded wielded of A ships captain
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

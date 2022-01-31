@@ -1,0 +1,316 @@
+#AREADATA
+Name The Witch Circle~
+Builders None~
+VNUMs 15520 15600
+Credits `4[`7Middle`4]`7 Nikitha   The Witch Circle~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#15520
+high priestess~
+A High Priestess~
+A High Priestess dances wildly before you!
+~
+~
+unique~
+0 0
+AQRW 8192 16976 0 0 -1  1000 0
+50 50 50d10+4500 1d1+5000 5d8+19 wrath
+-20 -20 -20 -20
+FIK ACL FP JNQXY
+stand stand female 300
+AHMV ABCDEFGHIJK large unknown
+#15521
+witch~
+A witch~
+A witch is standing here.
+~
+~
+unique~
+0 0
+AQRW 8192 529 0 0 -1  1000 0
+35 40 10d10+1300 100d100+100 4d7+11 wrath
+-11 -11 -11 -11
+EFIK ACLO HY GMNY
+stand stand female 200
+AHMV ABCDEFGHIJK medium unknown
+#15522
+high priest~
+A High Priest~
+An older man is here, reading a book.
+~
+~
+unique~
+0 0
+AQR 0 18 0 0 -1  1000 0
+35 43 10d10+1300 100d3+50 4d7+11 magic
+-11 -11 -11 -11
+FKN CLP 0 JMNY
+stand stand male  20
+AHMV ABCDEFGHIJK medium unknown
+#15523
+maiden~
+a young maiden~
+A young maiden looks into your eyes and smiles.
+~
+~
+unique~
+0 0
+AQRY 2050 80 0 0 -1  1000 0
+60 46 50d10+9500 800d100+700 8d6+28 magic
+-30 -30 -30 -30
+EIKN CLOP AJS FIMN
+stand stand female 348
+AHMV ABCDEFGHIJK medium unknown
+#15524
+mother~
+A mother~
+An older woman, probably a mother, is standing here.
+~
+~
+unique~
+0 0
+AQRY 10240 82 0 0 -1  1000 0
+41 40 25d10+2000 100d10+750 4d8+14 magic
+-14 -14 -14 -14
+EIJK CHLOP GHS JMNY
+stand stand female 259
+AHMV ABCDEFGHIJK medium unknown
+#15525
+old woman~
+an Old woman~
+A woman is dressed in dark red, and looks for someone.
+~
+~
+unique~
+0 0
+ADQRY 0 0 0 0 -1  1000 0
+42 30 25d10+2250 940d100+1000 3d12+14 none
+-14 -14 -14 -14
+0 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK small unknown
+#0
+
+
+
+#OBJECTS
+#15520
+silvery wand~
+Silvery wand~
+You see a Silvery wand, humming to itself~
+~
+wand ABG AO
+0
+30 5 0 'call lightning' 0
+30 2 150 P
+ T 0 none~
+#15521
+an old parchment~
+An old parchment~
+A crumpled piece of paper.~
+~
+scroll ABGK A
+0
+22 'bless' 'armor' 'cure serious' 'fly'
+20 1 100 P
+ T 0 none~
+#15522
+pentagram~
+A Large Pentagram~
+A heavy necklace~
+~
+armor ABGI AC
+0
+CD CD CD D 0
+25 20 1550 P
+A
+19 2
+A
+18 3
+ T 0 none~
+#15523
+waterfall~
+You see a sparkling waterfall.~
+~
+~
+fountain MT 0
+0
+5000 5000 'ale' 0 0
+0 5000 0 A
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#15520
+Witch's Circle~
+Clouded in smoke and faint scents you can't describe, you have entered a
+witch's place of worship! 
+~
+0 0 2
+D0
+~
+~
+0 0 15521
+D2
+~
+~
+0 0 15526
+S
+#15521
+Center of the Circle~
+You see the rest of the coven chanting and praying, they don't seem to
+notice you passing through. 
+~
+0 0 2
+D1
+~
+~
+0 0 15522
+D2
+~
+~
+0 0 15520
+S
+#15522
+High Priest's Quarters~
+You are in a small room. The only furnature is a cot and an altar. 
+~
+0 8 0
+D2
+~
+~
+0 0 15523
+D3
+~
+~
+0 0 15521
+S
+#15523
+Maiden's Chambers~
+You enter a room decorated in a rainbow of flowers and ribbons. 
+~
+0 8 0
+D0
+~
+~
+0 0 15522
+D1
+~
+~
+0 0 15524
+S
+#15524
+Mother's Chambers~
+This room looks very delicate. Don't touch anything, it might break! 
+~
+0 8 0
+D2
+~
+~
+0 0 15525
+D3
+~
+~
+0 0 15523
+S
+#15525
+Crone's Chambers~
+This room is slightly darker. You see dried flowers everywhere. 
+~
+0 8 0
+D0
+~
+~
+0 0 15524
+D3
+~
+~
+0 0 15527
+S
+#15526
+Outside the Circle~
+~
+0 0 2
+D0
+~
+~
+0 0 15520
+D1
+~
+~
+0 0 15527
+D5
+~
+~
+0 0 903
+S
+#15527
+The Great Bonfire~
+You stand before a fire at least ten feet tall! 
+~
+0 0 2
+D3
+~
+~
+0 0 15526
+D4
+~
+~
+1 0 1
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 15527 4 1
+M 0 15520 1 15520 1 100 Load A High Priestess
+G 0 15520 0 0 0 100 Silvery wand is given to A High Priestess
+G 0 15522 0 0 0 100 A large pentagram is given to A High Priestess
+M 0 15521 13 15521 1 100 Load A witch
+M 0 15522 1 15522 1 100 Load A High Priest
+G 0 15521 0 0 0 100 An old parchment is given to A High Priest
+M 0 15523 1 15523 1 100 Load a young maiden
+G 0 15521 0 0 0 100 An old parchment is given to a young maiden
+M 0 15524 1 15524 1 100 Load A mother
+G 0 15520 0 0 0 100 Silvery wand is given to A mother
+M 0 15521 1 15524 1 100 Load A witch
+M 0 15525 1 15525 1 100 Load an Old woman
+M 0 15521 2 15525 1 100 Load A witch
+M 0 15521 1 15526 1 100 Load A witch
+O 0 15523 0 15526 0 100 You see a sparkling waterfall. loaded to Outside the Circle
+M 0 15521 2 15527 1 100 Load A witch
+G 0 15521 0 0 0 100 An old parchment is given to A witch
+S
+
+
+
+#SHOPS
+15520 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

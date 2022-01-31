@@ -1,0 +1,989 @@
+#HELPS
+
+-1 'ARCHER DEFAULT' 'ASSASSIN DEFAULT' 'CLERIC DEFAULT' 'FORM MASTER DEFAULT' 'ILLUMINATOR DEFAULT' 'MAGE DEFAULT' 'ROGUE DEFAULT' 'WARRIOR DEFAULT'~
+For the purpose of speeding up customization or going with defaults, a range of
+skills and groups have been added. These are the bare bones, no frills setup
+that allows you to level easily, but still have a strong character.
+~
+-1 'ADVANCED ARCHERY' ADVANCED_ARCHERY~
+With great practice and perserverance Archers can become skilled enough in the 
+bow to give them another ranged attack. This combined with "Archery" will grant
+Archers a total of three ranged attacks.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^16`7
+~
+-1 ARCHERY~
+The next step beyond the skills of the bow is that of "Archery". It provides an
+Archer with a second ranged attack, doubling their abilities.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^FREE`7		Lvl - `^8`7
+~
+-1 ASSASSINATE~
+The most advanced of an assasin's skills is the deadly art of assassination. Only
+the best of them will master this ability. While it requires great stealth to use
+this skill it has the potential to instantly kill the victim. The drawback to this
+ability is that you must be in good health (above 50%) and the victim must be in
+extremely good condition (above 90%). You also cannot use this if the target is
+already engaged in combat.
+
+`$SYNTAX`4:`& assassinate <target>
+
+`$AVAILABLE`4:`7
+Assassin    - `^FREE`7		Lvl - `^60`7
+~
+-1 AWARENESS~
+Some are blessed with this ability that gives them a small chance to notice fine
+details that no one else can see. This includes seeing when people move around you
+even though they are doing their best to be sneaky. Also, some of the [`8SHADOW`7]
+guild may shroud themselves from others eyes. This concealment can be penetrated by
+this ability.
+
+`$SYNTAX`4:`&"Awareness" (as with "hide" or "sneak")`*
+
+`$AVAILABLE`4:`7
+Archer      - `^6`7  CP		Lvl - `^12`7
+Assassin    - `^8`7  CP		Lvl - `^14`7
+Form Master - `^4`7  CP		Lvl - `^3`7
+Rogue       - `^7`7  CP		Lvl - `^13`7
+Warrior     - `^7`7  CP		Lvl - `^16`7
+~
+-1 AXE~
+Training with this ability shows that the wielder is proficent with all types of
+axes. This includes half-mooned, hand axes, throwing axes, and anything else that
+the wielder desires.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`77
+Archer      - `^5`7  CP		Lvl - `^1`7
+Assassin    - `^5`7  CP		Lvl - `^1`7
+Cleric      - `^6`7  CP		Lvl - `^1`7
+Form Master - `^4`7  CP		Lvl - `^1`7
+Illuminator - `^5`7  CP		Lvl - `^1`7
+Mage        - `^6`7  CP		Lvl - `^1`7
+Rogue       - `^4`7  CP		Lvl - `^1`7
+~
+-1 BACKSTAB~
+Rogues and assassins have the expertise to sneak up on their opponents and backstab
+them. Either by stealth or by attacking from behind while they are distracted,
+possibly when they are fighting someone else.
+
+`$SYNTAX`4:`& backstab <target>
+
+`$AVAILABLE`4:`7
+Assassin    - `^5`7  CP		Lvl - `^1`7
+Rogue       - `^FREE`7		Lvl - `^1`7
+~
+-1 BANDAGE~
+In the process of battle many wounds are endured. However after a while they become
+more than you can ignore. Travelling any distance results in more loss of blood and
+strength. With this skill you can learn to slow the wounds sustained so that they no
+longer harm you.
+
+`$SYNTAX`4:`& bandage <target>
+
+`$AVAILABLE`4:`7
+Archer      - `^2`7  CP		Lvl - `^1`7
+Assassin    - `^2`7  CP		Lvl - `^1`7
+Cleric      - `^1`7  CP		Lvl - `^1`7
+Form Master - `^2`7  CP		Lvl - `^1`7
+Illuminator - `^2`7  CP		Lvl - `^1`7
+Mage        - `^2`7  CP		Lvl - `^1`7
+Rogue       - `^2`7  CP		Lvl - `^1`7
+Warrior     - `^2`7  CP		Lvl - `^1`7
+~
+-1 BASH~
+Fighting a victim they can become feared and try to run from your crushing blows, or
+you could find yourself subjected to multiple attacks with the One Power. You know
+the best philosphy, "If they can't walk they can't run." Bashing them to the ground
+prevents them from taking any actions for 2 combat rounds, but this unfortunately is
+taxing on you as well making you suffer a similar command lag.
+
+`$SYNTAX`4:`& bash <target>
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^35`7
+Warrior     - `^4`7  CP		Lvl - `^1`7
+~
+-1 BERSERK~
+The frenzy of battle subject fighters to tremedous emotional conditions. Some of them
+hone their ability into a pure rage. This skill allows them to increase their potential
+for hitting and the damage they inflict, but this recklessness has the penalty of 
+lowered defenses.
+
+`$SYNTAX`4:`& berserk
+
+`$AVAILABLE`4:`7
+Warrior     - `^5`7  CP		Lvl - `^18`7
+~
+-1 BLACKJACK~
+This enables a rogue to utilize their arts in stealth to sneak up on an opponent and
+knock them out. This attack will only daze an opponent for 2 rounds, but usually is
+enough time to rob them blind.
+
+`$SYNTAX`4:`& blackjack <target>
+
+`$AVAILABLE`4:`7
+Rogue       - `^6`7  CP		Lvl - `^21`7
+~
+-1 BLOCK~
+Mastering their forms they take advantage of their whole body. Skilled Form Masters
+train their body to be able to deflect any attack, even that of a bladed weapon.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Form Master - `^6`7  CP		Lvl - `^8`7
+~
+-1 BOMBS MINES~
+The Illuminator's Guild closely guards the secrets to making these clever devices.
+Their use if all but a mystery, and their function is as wide a range as anyone can
+imagine. As an Illuminator progresses their bombs become more powerful as their
+proficency grows. Also, they will learn new bombs to add to their arsenal.
+
+`$SYNTAX`4:`&
+bomb known               `7- lists all bombs that the Illuminator currently has access
+`&bomb recipe <type>   `7- lets you know what you need to construct that bomb type
+`&bomb make <type>         `7- once the ingredients are gathered you make the bomb with
+`&bomb set <type>          `7- this activiates the bomb for combat usage
+`&throw <item> <direction> `7- throw a bomb a certain direction
+
+`@NOTE`7:`2 Mined bombs are set and then dropped for use`7
+
+`$BOMB TYPES`4:`7
+`^10`7 - `&Pipe Bomb                `7- 
+A relatively easy bomb to make, that packs a small punch when grabbed.
+`^12`7 - `&Contact Explosive        `7- 
+A relatively easy bomb to make, that can be thrown and explodes on contact.
+`^20`7 - `&Contact Smoke Explosive  `7-
+A small compact device which blinds the target with billowing smoke.
+`^25`7 - `&Mail Bomb                `7- 
+A small charge when put inside a container will surprise the next one to open it.
+`^35`7 - `&Exploding Mine           `7- 
+A decent charge when placed on the ground will explode upon anyone stepping on it.
+`^35`7 - `&Sleeper Mine             `7- 
+A small charge that when set off puts out a cloud of sleeping powder.
+`^40`7 - `&Sticky Bomb              `7- 
+A large jar of oil that explodes on contact covering the victim and leaving them 
+almost complelty immoble. Gives them a % chance to fail when attempting to move.
+`^50`7 - `&Shaped Explosive Mine    `7- 
+A small charge that deals a deadly blow to one target to due it's special shaping.
+`^52`7 - `&Shaped Explosive Pipe    `7-  
+A small charge that deals a deadly blow to one target due to it's special shaping.
+`^55`7 - `&Shaped Contact Explosive `7-
+Much like a contact explosive, this afflicts one target, but does additional damage.
+`^60`7 - `&Poison Contact Explosive `7-
+Along with reduced damage, this explosive poisons the enemy with a poison spray.
+
+`$AVAILABLE`4:`7
+Illuminator - `^6`7  CP		Lvl - `^15`7
+~
+-1 BOW~
+This is the basic skill an Archer will use. This both allows them their ability for a
+single ranged attack, as well as proficency with close at hand combat. You must have 
+no shield or held item to be able to utilize ranged attacks.
+
+`$SYNTAX`4:`& 
+Automatic                  `7- for hand to hand
+`&draw                       `7- pulls an arrow from your quiver
+`&shoot <target> <direction> `7- to actually fire the arrows
+
+`$AVAILABLE`4:`7
+Archer      - `^FREE`7		Lvl - `^1`7
+~
+-1 BUILD CAMPFIRE~
+While traveling the many roads of the realm, the worldly tinkers enjoy gathering
+together with other travelers or with their other companions to tell stories or
+perhaps simply to rest after the wearying day.  With the warmth of their campfires,
+they provide healing and comfort to those they invite.  As is natural, these 
+small fires may only be built in the outdoors, and even then, some areas do not
+support the proper atmosphere for a decent blaze.
+
+`$SYNTAX: `&build <item>  `7-Stacks the <item> to set aflame.
+       `&ignite <item>  `7-Ignites the properly built fuel.
+~
+-1 CLOAK~
+Living to be infamous can be an artform and a survival lifestyle. Rogues use it to blend
+in and escape detection. Assassins use this deception for a similar effect, but for 
+stalking more often than escape. For either, it is a clever tool to mask who they are,
+and appear instead as a mobile in the game. Hiding their true identity.
+
+`$SYNTAX`4:`&
+cloak <target> `7- Must be in the same room, you will take on their name, short, and desc
+`&visible        `7- To remove the cloak, it cannot be cancelled.
+
+`$AVAILABLE`4:`7
+Assassin    - `^4`7  CP		Lvl - `^18`7
+Rogue       - `^4`7  CP		Lvl - `^14`7
+~
+-1 COUNTER~
+The art of war is judged by the masters of their professions. When they achieve a certain
+level of skill they gain the ability to turn an opponents attacks against them. This means
+whenever a hit would do damage to you, the damage is instead dealt to the opponent.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Warrior     - `^8`7  CP		Lvl - `^25`7
+Illuminator - `^10`7 CP		Lvl - `^35`7
+~
+-1 DAGGER~
+These small weapons in the hands of the right person can be deadly. Some classes are more
+adept at this, but all are able to master its use. 
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^2`7  CP		Lvl - `^1`7
+Assassin    - `^FREE`7		Lvl - `^1`7
+Cleric      - `^3`7  CP		Lvl - `^1`7
+Form Master - `^2`7  CP		Lvl - `^1`7
+Illuminator - `^2`7  CP		Lvl - `^1`7
+Mage        - `^FREE`7		Lvl - `^1`7
+Rogue       - `^FREE`7		Lvl - `^1`7
+Warrior     - `^2`7  CP		Lvl - `^1`7
+~
+-1 DAMPEN~
+Through the process of playing with fire, so to speak, Illuminators build up a resistance
+to the arts of the One Power. Although they do not use it directly, for some strange
+reason the chemicals they work with grant them some temper when dealing with Saidin and
+Saidar. For this reason they can reduce all channeling damage by 25%.
+
+`$SYNTAX`4:`& dampen
+
+`$AVAILABLE`4:`7
+Illuminator - `^6`7  CP		Lvl - `^35`7
+~
+-1 'DIRT KICKING' DIRT_KICKING~
+When most people think of fighting they only think of their brute abilities. A smart
+fighter however uses his environment to their advantage. If you are in the right
+surroundings you can kick dirt into the eyes of your opponent. This temporarily will
+blind them until the next tick, or until they can rub it out of their eyes.
+
+`$SYNTAX`4:`& dirt <target>
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^3`7
+Assassin    - `^4`7  CP		Lvl - `^3`7
+Form Master - `^6`7  CP		Lvl - `^3`7
+Illuminator - `^5`7  CP		Lvl - `^3`7
+Rogue       - `^3`7  CP		Lvl - `^3`7
+Warrior     - `^4`7  CP		Lvl - `^3`7
+~
+-1 DISARM~
+Without a weapon your opponent can't do as much damage. Sound philosophy. With
+this ability you can disarm your opponent and possibly even retrieve his weapon.
+This does not however work on Form Masters since they don't use weapons. Also,
+with weaves on items like 'iron grip' and 'curse object' it complicates matters
+even more. Despite this, it is still a good skill to use at the right time.
+
+`$SYNTAX`4:`& disarm <target>
+
+`$AVAILABLE`4:`7
+Archer      - `^6`7  CP		Lvl - `^15`7
+Assassin    - `^6`7  CP		Lvl - `^12`7
+Form Master - `^4`7  CP		Lvl - `^10`7
+Rogue       - `^6`7  CP		Lvl - `^12`7
+Warrior     - `^4`7  CP		Lvl - `^11`7
+~
+-1 DISGUISE~
+Along with their abilities to make bombs Illuminators developed an entirely new
+trade. They learned to disguise their bombs into common objects. This deceiving
+art form can lead to some interesting circumstances, and even more amusing results.
+
+`$SYNTAX`4:`& disguise <object> <string>
+
+`$AVAILABLE`4:`7
+Illuminator - `^4`7  CP		Lvl - `^25`7
+~
+-1 DODGE~
+Perhaps the most basic of defenses. Don't be there. This principle is the reason
+why it is available to all classes. The chance of this working is dependant on
+your dexterity. So higher dex means better dodging.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^6`7  CP		Lvl - `^13`7
+Assassin    - `^4`7  CP		Lvl - `^1`7
+Cleric      - `^8`7  CP		Lvl - `^22`7
+Illuminator - `^7`7  CP		Lvl - `^30`7
+Mage        - `^8`7  CP		Lvl - `^20`7
+Rogue       - `^4`7  CP		Lvl - `^24`7
+Warrior     - `^6`7  CP		Lvl - `^13`7
+~
+-1 'DUAL WIELD' DUAL_WIELD~
+Generally people favor one hand over the other, but there is a great advantage
+to be had by being able to use both hands at the same time. This skill allows
+you to wield two weapons at the same time, but the second weapon must be no
+more than half the weight of the primary weapon.
+
+`$SYNTAX`4:
+`&Automatic
+secondary <weapon> `7- to equip the item
+
+`$AVAILABLE`4:`7
+Archer      - `^5`7  CP		Lvl - `^20`7
+Assassin    - `^4`7  CP		Lvl - `^15`7
+Cleric      - `^8`7  CP		Lvl - `^25`7
+Rogue       - `^8`7  CP		Lvl - `^28`7
+Warrior     - `^5`7  CP		Lvl - `^12`7
+~
+
+-1 ENGAGE~
+Under ideal circumstances you only fight one-on-one, but many fighers must face 
+that odds are not always equal. It's easier to focus your attacks on weakening a
+single target. This ability gives you that option.
+
+`$SYNTAX`4:`& engage <target>
+
+`$AVAILABLE`4:`7
+Archer      - `^8`7  CP		Lvl - `^40`7
+Form Master - `^6`7  CP		Lvl - `^45`7
+Warrior     - `^5`7  CP		Lvl - `^35`7
+~
+-1 'ENHANCED DAMAGE' ENHANCED_DAMAGE~
+The difference between hitting someone and hitting someone powerfully is just a
+matter of technique. Practicing this philosophy is evident in this skill, and
+demonstrates what a powerful fight really can do.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^10`7
+Assassin    - `^5`7  CP		Lvl - `^25`7
+Cleric      - `^10`7 CP		Lvl - `^30`7
+Form Master - `^8`7  CP		Lvl - `^10`7
+Illuminator - `^8`7  CP		Lvl - `^50`7
+Rogue       - `^5`7  CP		Lvl - `^30`7
+Warrior     - `^3`7  CP		Lvl - `^1`7
+~
+-1 ENVENOM~
+Poison is the way of the assassins. This deadly art of mixing herbs and chemicals
+dates back to the earliest days of murder. While usually restricted for those that
+wish an anonymous kill, they also utilize this edge in combat to hopefully help in
+dismissing an enemy. Possibly after the fight has already finished.
+
+`$SYNTAX`4:`& envenom <weapon>
+
+`$AVAILABLE`4:`7
+Assassin    - `^4`7  CP		Lvl - `^10`7
+~
+-1 EVADE~
+Much like dodging an attack, a master of the art of fighting may simply allows the
+attacks to brush by them. Form masters consider this a primary way of avoiding a
+deadly blow while fighting in close.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Form Master - `^4`7  CP		Lvl - `^1`7
+~
+-1 'FAST HEALING' FAST_HEALING~
+Through meditation and a speedy metabolize anyone can quicken their ability to 
+regenerate health. Those endowed with this ability notice vitality is regained
+at a staggering pace.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^5`7  CP		Lvl - `^8`7
+Assassin    - `^6`7  CP		Lvl - `^16`7
+Cleric      - `^5`7  CP		Lvl - `^9`7
+Form Master - `^6`7  CP		Lvl - `^5`7
+Illuminator - `^8`7  CP		Lvl - `^18`7
+Mage        - `^8`7  CP		Lvl - `^15`7
+Rogue       - `^8`7  CP		Lvl - `^18`7
+Warrior     - `^4`7  CP		Lvl - `^6`7
+~
+-1 FLAIL~
+Used in combat, a flail is a deadly weapon with a slight range attack. It is
+designed to leave a lasting impression in an opponents skull.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^6`7  CP		Lvl - `^1`7
+Assassin    - `^6`7  CP		Lvl - `^1`7
+Cleric      - `^3`7  CP		Lvl - `^1`7
+Form Master - `^4`7  CP		Lvl - `^1`7
+Illuminator - `^5`7  CP		Lvl - `^1`7
+Mage        - `^6`7  CP		Lvl - `^1`7
+Rogue       - `^5`7  CP		Lvl - `^1`7
+Warrior     - `^4`7  CP		Lvl - `^1`7
+~
+-1 FLIP~
+Some Form Masters take advantage of all their possibly attacks. Whether it be
+kicks, strikes, or throws. This particular throwing ability stuns an opponent
+for two combat rounds. However, it does stun you for a couple as well as you
+must get up as well from the throw.
+
+`$SYNTAX`4:`& flip <target>
+
+`$AVAILABLE`4:`7
+Form Master - `^6`7  CP		Lvl - `^12`7
+~
+-1 'FLYING KICK' FLYING_KICK FKICK~
+Much like the greatest fighters, Form Masters use their feet in many different
+ways. This ability allows a form master to move in the direction of their opponent
+to reinitate an attack with a flying kick. The distance traveled is dependant on
+their dexterity, up to three rooms. Tactics such as this are very taxing on their
+ability to manuveur, and takes up a signifigant amount of movement.
+
+`$SYNTAX`4:`& fkick <target> <direction>
+
+`$AVAILABLE`4:`7
+Form Master - `^6`7  CP		Lvl - `^15`7
+~
+-1 FOCUS~
+Channelers are the most adept at using their abilties to manipulate the One Power.
+Given this, they are also able to draw more of it in, and thus deal 25% more 
+damage than anyone else with the same weaves.
+
+`$SYNTAX`4:`& focus
+
+`$AVAILABLE`4:`7
+Mage        - `^8`7  CP		Lvl - `^15`7
+~
+-1 'FOURTH ATTACK' FOURTH_ATTACK~
+Only warriors main gain this advanced fighting ability. It gives them a great 
+advantage in combat, and while not landing as often as second or third still
+allows warriors to be the most adept at hand-to-hand fighting.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Warrior     - `^6`7  CP		Lvl - `^20`7
+~
+-1 HAGGLE HAGGLING~
+The world is full of profit, to be had by those most enterprising to take it.
+Truely a skill for the barterer, haggle allows you to negociate a better price
+than the average consumer.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^1`7
+Assassin    - `^3`7  CP		Lvl - `^1`7
+Cleric      - `^8`7  CP		Lvl - `^1`7
+Illuminator - `^3`7  CP		Lvl - `^1`7
+Mage        - `^5`7  CP		Lvl - `^1`7
+Rogue       - `^3`7  CP		Lvl - `^1`7
+Warrior     - `^6`7  CP		Lvl - `^1`7
+~
+-1 'HAND TO HAND' HAND_TO_HAND~
+A person cannot always plan on having a weapon handy, or being caught ready for
+combat at all times. In those instances it's nice to have your fists as a reserve.
+Hand-to-hand fighting gives you more damage inflicted as though you were using a
+normal weapon. Without this ability you do not have the proper training to inflict
+any serious damage without a weapon.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^6`7  CP		Lvl - `^10`7
+Assassin    - `^6`7  CP		Lvl - `^15`7
+Cleric      - `^5`7  CP		Lvl - `^10`7
+Mage        - `^8`7  CP		Lvl - `^25`7
+Warrior     - `^4`7  CP		Lvl - `^6`7
+~
+-1 HIDE~
+Stealth and subterfuge are tools of anyone who plans on living long in a dangerous
+world. Especially applying to the criminal element, training in this artform is to
+use your surroundings to conceal your presence.
+
+`$SYNTAX`4:`& hide
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^14`7
+Assassin    - `^4`7  CP		Lvl - `^1`7
+Illuminator - `^6`7  CP		Lvl - `^10`7
+Rogue       - `^2`7  CP		Lvl - `^1`7
+Warrior     - `^6`7  CP		Lvl - `^12`7
+~
+-1 IRONSKIN~
+Great concentration is required for this greatest form of body manipulation. It is
+a combination of ignoring pain, as well as training to take more damage without 
+suffering the real brunt of force. This acts as a 'sanctuary' spell and combination
+of other protective spells like 'armor', 'shield', and 'stone skin'.
+
+`$SYNTAX`4:`& ironskin
+
+`$AVAILABLE`4:`7
+Form Master - `^10`7 CP		Lvl - `^1`7
+~
+-1 KICK~
+While not as potent as the weavings of the One Power, a swift well aimed kick can
+still be fairly disabling. Not everyone is a master of the True Source and must
+rely on more conventional means of attack.
+
+`$SYNTAX`4:`& kick <target>
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^12`7
+Assassin    - `^6`7  CP		Lvl - `^14`7
+Cleric      - `^4`7  CP		Lvl - `^12`7
+Form Master - `^2`7  CP		Lvl - `^1`7
+Illuminator - `^5`7  CP		Lvl - `^18`7
+Rogue       - `^6`7  CP		Lvl - `^14`7
+Warrior     - `^3`7  CP		Lvl - `^8`7
+~
+-1 LORE~
+Educated guesses are a part of everything, and detecting an items power does not
+exclude this. While not disclosing everything about an item the weavings of Saidar
+and Saidin, it does give you a good idea of the items capabilities.
+
+`$SYNTAX`4:`& lore <item>
+
+`$AVAILABLE`4:`7
+Archer      - `^2`7  CP		Lvl - `^1`7
+Assassin    - `^2`7  CP		Lvl - `^1`7
+Cleric      - `^2`7  CP		Lvl - `^1`7
+Form Master - `^2`7  CP		Lvl - `^1`7
+Illuminator - `^2`7  CP		Lvl - `^1`7
+Mage        - `^2`7  CP		Lvl - `^1`7
+Rogue       - `^2`7  CP		Lvl - `^1`7
+Warrior     - `^3`7  CP		Lvl - `^1`7
+~
+-1 MACE~
+Never underestimate the capability of a blunt instrument. While not causing the 
+vicious and visible damage of a bladed object, the blunt for of a mace is just as
+dangerous. Laying beyond the bruises and battery lies cracked and shattered bones.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^3`7  CP		Lvl - `^1`7
+Assassin    - `^3`7  CP		Lvl - `^1`7
+Cleric      - `^FREE`7		Lvl - `^1`7
+Form Master - `^3`7  CP		Lvl - `^1`7
+Illuminator - `^2`7  CP		Lvl - `^1`7
+Mage        - `^5`7  CP		Lvl - `^1`7
+Rogue       - `^3`7  CP		Lvl - `^1`7
+Warrior     - `^3`7  CP		Lvl - `^1`7
+~
+-1 'MARTIAL ARTS' MARTIAL_ARTS~
+Form Masters have training beyond that of just simply kicking and punching. They
+use the art and dance of combat as their weapon. Their body is the only offense,
+but more deadly than any blade. Using this ability means you have no need for a
+weapon of any kind.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Form Master - `^FREE`7		Lvl - `^1`7
+~
+-1 MEDITATION~
+The True Source is a great burden to endure for any Channeler. Disciplined users
+may adapt their body to regenerate their ability to make weaves in a shorter period
+of time.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^7`7  CP		Lvl - `^15`7
+Assassin    - `^8`7  CP		Lvl - `^15`7
+Cleric      - `^5`7  CP		Lvl - `^6`7
+Form Master - `^10`7 CP		Lvl - `^5`7
+Illuminator - `^8`7  CP		Lvl - `^15`7
+Mage        - `^5`7  CP		Lvl - `^6`7
+Rogue       - `^8`7  CP		Lvl - `^15`7
+Warrior     - `^8`7  CP		Lvl - `^15`7
+~
+-1 'OPEN BAG' OPEN_BAG~
+Theft is perhaps the greatest of thrills. It requires great skill, determination,
+stealth, and timing. Most feel the simple art of pickpocketing is more than they
+are capable of. Some realize that thievery can go to another level. Stealing the
+whole bag is not as fun, and sometimes not possible. This allows you to open a
+container without disturbing the target so you may steal items from within.
+
+`$SYNTAX`4:`& open_bag <item> <target>
+
+`$AVAILABLE`4:`7
+Rogue       - `^4`7  CP		Lvl - `^25`7
+~
+-1 PARRY~
+In combat you try and first avoid the attack, but this is often too much exertion
+and not possible at other times. Parrying their attack is not a last resort, but
+another option. It is basically deflecting another's attack with your own weapon.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^5`7
+Assassin    - `^6`7  CP		Lvl - `^13`7
+Cleric      - `^8`7  CP		Lvl - `^20`7
+Illuminator - `^8`7  CP		Lvl - `^23`7
+Mage        - `^8`7  CP		Lvl - `^22`7
+Rogue       - `^6`7  CP		Lvl - `^16`7
+Warrior     - `^4`7  CP		Lvl - `^1`7
+~
+-1 PEEK~
+Not all valuables are visible at first glance. Peek allows you to check their
+inventory and also see how much gold they have in pocket. This is not perfect
+though and will not display their silver.
+
+`$SYNTAX`4:`& peek <target>
+
+`$AVAILABLE`4:`7
+Archer      - `^3`7  CP		Lvl - `^25`7
+Assassin    - `^3`7  CP		Lvl - `^1`7
+Rogue       - `^3`7  CP		Lvl - `^16`7
+~
+-1 'PEEK IN' PEEK_IN~
+Rogues being the only one that can use this, have a definite advantage over the
+are of theft. This skill allows them to look into bags that are opened which
+belong to another person.
+
+`$SYNTAX`4:`& peek_in <item> <target>
+
+`$AVAILABLE`4:`7
+Rogue       - `^3`7  CP		Lvl - `^25`7
+~
+-1 'PICK LOCK' PICK_LOCK~
+Everyone is always trying to keep you out of places you want to get into. They
+say curiousity killed the cat, but the cat wasn't packing weapons and nimble
+fingers. This skill allows you to open locked doors, which everyone knows should
+always be investigated. Maybe they were keeping it safely locked away for you?
+
+`$SYNTAX`4:`& pick <door> `7AND/OR`& <direction>
+
+`$AVAILABLE`4:`7
+Assassin    - `^4`7  CP		Lvl - `^7`7
+Cleric      - `^8`7  CP		Lvl - `^25`7
+Mage        - `^8`7  CP		Lvl - `^25`7
+Rogue       - `^3`7  CP		Lvl - `^4`7
+Warrior     - `^8`7  CP		Lvl - `^25`7
+~
+-1 POLEARM~
+Walk softly and carry a big pole. Good advice. Polearms give horseback riders an
+advantage in combat, and in general are good fighting weapons. These items are
+usually two-handed and require more strength to use.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^1`7
+Assassin    - `^6`7  CP		Lvl - `^1`7
+Cleric      - `^6`7  CP		Lvl - `^1`7
+Form Master - `^4`7  CP		Lvl - `^1`7
+Illuminator - `^6`7  CP		Lvl - `^1`7
+Mage        - `^6`7  CP		Lvl - `^1`7
+Rogue       - `^6`7  CP		Lvl - `^1`7
+Warrior     - `^4`7  CP		Lvl - `^1`7
+~
+-1 RECALL~
+From levels 1-10 you may use this skill to return 1 south from healer, or the 
+"Temple of Mota". This is the newbie version of 'word of recall' and suffers a
+1/2 movement penalty, but does not require mana. You cannot recall from areas
+which are norecall, or while you are cursed.
+
+`$SYNTAX`4:`& recall `7OR`& /
+
+`$AVAILABLE`4:`7
+Archer      - `^FREE`7		Lvl - `^1`7
+Assassin    - `^FREE`7		Lvl - `^1`7
+Cleric      - `^FREE`7		Lvl - `^1`7
+Form Master - `^FREE`7		Lvl - `^1`7
+Illuminator - `^FREE`7		Lvl - `^1`7
+Mage        - `^FREE`7		Lvl - `^1`7
+Rogue       - `^FREE`7		Lvl - `^1`7
+Warrior     - `^FREE`7		Lvl - `^1`7
+~
+-1 RESCUE~
+Your allies are not usually as powerful as you are, and even when they are seem to
+constantly get themselves into trouble. So here, the knight in shining armor, you
+come to the rescue. This allows you to step in front of the target and shield them
+from normal combat round attacks. They still can be the target of weavings of the
+One Power, or by extra attacks like 'kick', 'bash', 'flip', etc.
+
+`$SYNTAX`4:`& rescue <target>
+
+`$AVAILABLE:
+Archer      - `^6`7  CP		Lvl - `^50`7
+Warrior     - `^4`7  CP		Lvl - `^1`7
+~
+-1 SCROLLS RECITE~
+Weavings are complicated and left to the masters of the True Source. There is a
+small ability inherit in ter'angreal, and some of them may be contained within
+peices of paper. Once read they are used up, but give a limited usage of the
+One Power without the need for channeling abilities.
+
+`$SYNTAX`4:`& recite <item>
+
+`$AVAILABLE`4:`7
+Archer      - `^FREE`7		Lvl - `^1`7
+Assassin    - `^FREE`7		Lvl - `^1`7
+Cleric      - `^FREE`7		Lvl - `^1`7
+Form Master - `^FREE`7		Lvl - `^1`7
+Illuminator - `^FREE`7		Lvl - `^1`7
+Mage        - `^FREE`7		Lvl - `^1`7
+Rogue       - `^FREE`7		Lvl - `^1`7
+Warrior     - `^FREE`7		Lvl - `^1`7
+~
+-1 'SECOND ATTACK' SECOND_ATTACK~
+Usable by all, it is a simple concept to master. Hit em once, and you can hit them
+twice if you strike twice as fast. Any class may gain this ability and practice it
+to it's fullest extend. Having this ability does not guarentee two attacks, but any
+additional attacks are good attacks.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^8`7  CP		Lvl - `^15`7
+Assassin    - `^6`7  CP		Lvl - `^12`7
+Cleric      - `^8`7  CP		Lvl - `^24`7
+Form Master - `^6`7  CP		Lvl - `^8`7
+Illuminator - `^10`7 CP		Lvl - `^24`7
+Mage        - `^10`7 CP		Lvl - `^30`7
+Rogue       - `^6`7  CP		Lvl - `^14`7
+Warrior     - `^FREE`7		Lvl - `^5`7
+~
+-1 'SHADOW KICK' SHADOW_KICK SKICK SHADOWKICK~
+Force of a strike can be painful, but a kick can be even more deadly. This is
+shown in the advanced techniques of Shadow Kick that only Form Masters may
+take advantage of. This ability requires you be in the same room as you opponent
+and will move both you and the target in whatever direction you specify, twice.
+Not only this, but if there is no exit in the direction in which you want to move
+then the target will take increased damage.
+
+`$SYNTAX`4:`& skick <target> <direction>
+
+`$AVAILABLE`4:`7
+Form Master - `^12`7 CP		Lvl - `^60`7
+~
+-1 'SHIELD BLOCK' SHIELD_BLOCK~
+Shield block is a rather fancy name for the art of parrying with a shield.
+Characters with no shield block skill will not be able to defend themselves
+well with a shield.  All classes may learn shield block, but only warriors and
+clerics are good at it.  Beware, flails ignore shield blocking attempts, and
+whips have an easier time getting around them.  Axes may split shields in two.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^5`7  CP		Lvl - `^1`7
+Assassin    - `^6`7  CP		Lvl - `^12`7
+Cleric      - `^6`7  CP		Lvl - `^1`7
+Form Master - `^4`7  CP		Lvl - `^1`7
+Illuminator - `^6`7  CP		Lvl - `^1`7
+Rogue       - `^6`7  CP		Lvl - `^1`7
+Warrior     - `^2`7  CP		Lvl - `^1`7
+~
+-1 SNEAK~
+Sneak is the ability to move without detection. Very useful in the attempt to
+evade pursuit by attackers. It is also not a bad thing to have when you are trying
+to not be detected as you follow someone.
+
+`$SYNTAX`4:`& sneak
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^12`7
+Assassin    - `^4`7  CP		Lvl - `^4`7
+Form Master - `^7`7  CP		Lvl - `^15`7
+Rogue       - `^4`7  CP		Lvl - `^3`7
+~
+-1 SPEAR~
+Aiel use only these in combat, and others have begun to see its potential as well.
+The wielder has increased range and spears also cover staves.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^3`7  CP		Lvl - `^1`7
+Assassin    - `^4`7  CP		Lvl - `^1`7
+Cleric      - `^4`7  CP		Lvl - `^1`7
+Form Master - `^3`7  CP		Lvl - `^1`7
+Illuminator - `^4`7  CP		Lvl - `^1`7
+Mage        - `^4`7  CP		Lvl - `^1`7
+Rogue       - `^4`7  CP		Lvl - `^1`7
+Warrior     - `^3`7  CP		Lvl - `^1`7
+~
+-1 STAFF~
+It's easy to see what someone is capable with these. Matrim Cauthon showed two
+of the finest Gaidin recruits what it means to wield one of these. Skillfully
+bashing and thrashing everything in sight.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^1`7
+Assassin    - `^6`7  CP		Lvl - `^1`7
+Cleric      - `^4`7  CP		Lvl - `^1`7
+Form Master - `^FREE`7		Lvl - `^1`7
+Illuminator - `^FREE`7		Lvl - `^1`7
+Mage        - `^5`7  CP		Lvl - `^1`7
+Rogue       - `^4`7  CP		Lvl - `^1`7
+Warrior     - `^3`7  CP		Lvl - `^1`7
+~
+-1 STAVES BRANDISH~
+Ter'angreal are not as common as they once were in the Age of Legends, but still
+a few remain to this day. Some of these are able to evoke special weavings locked
+within them. This could be healing weaves, or any other number of beneficial and
+harmful effects. They must be held in hands when used.
+
+`$SYNTAX`4:`& brandish <item>
+
+`$AVAILABLE`4:`7
+Archer      - `^8`7  CP		Lvl - `^1`7
+Assassin    - `^5`7  CP		Lvl - `^1`7
+Cleric      - `^3`7  CP		Lvl - `^1`7
+Form Master - `^8`7  CP		Lvl - `^1`7
+Illuminator - `^8`7  CP		Lvl - `^1`7
+Mage        - `^2`7  CP		Lvl - `^1`7
+Rogue       - `^5`7  CP		Lvl - `^1`7
+Warrior     - `^8`7  CP		Lvl - `^1`7
+~
+-1 STEAL~
+Theft is the defining characistic of a Rogue. While also usable by Assassins, it
+is not their primary means. Steal allows you to take items from within the target's
+inventory or their gold.
+
+`$SYNTAX`4:`&
+steal gold <target>
+steal <item> <target>
+
+`$AVAILABLE`4:`7
+Assassin    - `^4`7  CP		Lvl - `^15`7
+Rogue       - `^2`7  CP		Lvl - `^15`7
+~
+-1 'STEAL FROM BAG' STEAL_FROM_BAG~
+Steady hands are useful with this ability. A rogue may actaully steal from within
+a container held by someone else. This is extremely adventageous, because sometimes
+the container can't be taken or the thief just wants more of a challenge.
+
+`$SYNTAX`4:`& steal_from_bag <item> <target>
+
+`$AVAILABLE`4:`7
+Rogue       - `^3`7 CP		Lvl - `^35`7
+~
+-1 STRIKE~
+A precise and well aimed strike can cause serious damage to an opponent. Those who
+have mastered this ability know that. You may only initiate combat and not use if
+already engaged in combat, because it requires too much concentration. This is
+similar to a 'backstab' or 'assassinate' except not quite as much damage.
+
+`$SYNTAX`4:`& strike <target>
+
+`$AVAILABLE`4:`7
+Form Master - `^12`7 CP		Lvl - `^18`7
+~
+-1 SWORD~
+The most widely used of all weapons the sword is a staple of any warrior. They
+know it's most intricate movements and treat it as though it were a part of
+their body. A well tempered sword is easier to find at lower levels, but the
+most sought after swords are harder to come by at the highest of levels. Making
+this a good weapon type for started, but a double edged sword when it comes to 
+finding the best of these.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^3`7  CP		Lvl - `^1`7
+Assassin    - `^3`7  CP		Lvl - `^1`7
+Cleric      - `^6`7  CP		Lvl - `^1`7
+Illuminator - `^6`7  CP		Lvl - `^1`7
+Mage        - `^6`7  CP		Lvl - `^1`7
+Rogue       - `^5`7  CP		Lvl - `^1`7
+Warrior     - `^FREE`7		Lvl - `^1`7
+~
+-1 'THIRD ATTACK' THIRD_ATTACK~
+Much like second attack, third attack is a prized ability. Few classes may
+use this ability, and while it does not guarentee three attacks, any extra
+are gladly accepted in combat.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^10`7 CP		Lvl - `^30`7
+Assassin    - `^10`7 CP		Lvl - `^24`7
+Form Master - `^8`7  CP		Lvl - `^14`7
+Warrior     - `^4`7  CP		Lvl - `^12`7
+~
+-1 TRACK TRACKING~
+By studying footprints, scents, and other things left behind, you can 
+determine which direction or area the opponent is in. If you are in the
+same area it tells you direction. Otherwise it lets you know which area
+they are in.
+
+`$SYNTAX`4:`& track <target>
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^30`7
+~
+-1 TRIP~
+An opponent can't fight very well if they aren't standing, right? This principle
+is put into effect with this skill. Sweeping your opponent off their feet puts
+them into a two round lag, but puts you into the same lag due to the physical
+exertion required.
+
+`$SYNTAX`4:`& trip <target>
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP		Lvl - `^15`7
+Assassin    - `^4`7  CP		Lvl - `^1`7
+Form Master - `^6`7  CP		Lvl - `^15`7
+Rogue       - `^4`7  CP		Lvl - `^1`7
+Warrior     - `^8`7  CP		Lvl - `^15`7
+~
+-1 WEAPONMASTER WEAPONSMASTER~
+If you can't decide what kind of weapon you would want to wield, why not just
+get them all? For a moderately cost you can have an all-in-one advantage of
+being able to wield any type of weapon.
+
+`$SYNTAX`4: `&Automatic`7
+
+`$AVAILABLE`4:`7
+Archer      - `^40`7  CP         Lvl - `^1`7
+Assassin    - `^40`7  CP         Lvl - `^1`7
+Cleric      - `^40`7  CP         Lvl - `^1`7
+Illuminator - `^40`7  CP         Lvl - `^1`7
+Mage        - `^40`7  CP         Lvl - `^1`7
+Rogue       - `^40`7  CP         Lvl - `^1`7
+Warrior     - `^20`7 CP          Lvl - `^1`7
+~
+-1 WANDS ZAP~
+Another type of ter'angreal, wands are used to inflict weaves on another target.
+	This can be any number of adverse affects. This is another skill which does not
+require the ability to channel to utilize.
+
+`$SYNTAX`4:`& zap <item> <target>
+
+`$AVAILABLE`4:`7
+Archer      - `^FREE`7		Lvl - `^1`7
+Assassin    - `^FREE`7		Lvl - `^1`7
+Cleric      - `^FREE`7		Lvl - `^1`7
+Form Master - `^FREE`7		Lvl - `^1`7
+Illuminator - `^FREE`7		Lvl - `^1`7
+Mage        - `^FREE`7		Lvl - `^1`7
+Rogue       - `^FREE`7		Lvl - `^1`7
+Warrior     - `^FREE`7		Lvl - `^1`7
+~
+-1 WHIP~
+Shields have difficulty stopping these, and they grant a slight range advantage.
+Whips give the user a definite advantage in combat. They can be made of various
+materials from leather to metal, but all can tear and wrench flesh from the 
+opponents bones. A dangerous weapon indeed.
+
+`$SYNTAX`4:`& Automatic
+
+`$AVAILABLE`4:`7
+Archer      - `^3`7  CP		Lvl - `^1`7
+Assassin    - `^5`7  CP		Lvl - `^1`7
+Cleric      - `^5`7  CP		Lvl - `^1`7
+Illuminator - `^6`7  CP		Lvl - `^1`7
+Mage        - `^6`7  CP		Lvl - `^1`7
+Rogue       - `^5`7  CP		Lvl - `^1`7
+Warrior     - `^4`7  CP		Lvl - `^1`7
+~
+
+-1 $~
+ 
+#$
+

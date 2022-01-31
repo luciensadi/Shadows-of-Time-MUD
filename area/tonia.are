@@ -1,0 +1,1299 @@
+#AREADATA
+Name Valley of Shattered Dreams~
+Builders Demandred Tonia~
+VNUMs 6776 6876
+Credits Tonia - SoT~
+Security 10
+Flags CF
+Version 4
+End
+
+
+
+#MOBILES
+#6776
+boogey man~
+The Boogey Man ~
+A big hairy boogey man is here trying to frighten you!
+~
+~
+unique~
+0 0
+ABZ 256 66 0 0 -1  -1000 0
+120 400 30000d1+0 5000d1+0 200d1+100 claw
+-75 -75 -75 -75
+FGH BEJb I 0
+stand stand none 0
+0 0 medium unknown
+#6777
+Gabriella ~
+Gabriella~
+Gabriella is here, tending to the wounded as best she can.
+~
+A young woman, of an elvish height, tends to the wounds of all strangers who
+wander into her Tower. Her blonde hair is tangled and needs brushed and her face
+is covered in soot. Her ice blue eyes regard you warmly however as she gestures
+towards a place to sit and offers a cup of tea.
+~
+unique~
+0 0
+ABQZa 336 0 0 0 -1  1000 0
+100 200 20000d1+1 200d1+1 200d1+1 shock
+-50 -50 -50 -50
+EFIJKN ABCDb 0 0
+stand stand none 1
+H ABCEFGH medium unknown
+#6779
+baby boogey man~
+A baby Boogey~
+A little baby boogey is here, growling at you.
+~
+~
+unique~
+0 0
+AFYZ 256 66 0 0 -1  -1000 0
+120 400 20000d1+0 550d1+0 200d1+0 claw
+-70 -70 -70 -70
+FHKU BJOb 0 0
+stand stand none 5
+0 0 small unknown
+#6800
+The Headless Cook~
+A Headless Corpse~
+A gamey headless corpse leaps at you, trying to steal your head!
+~
+~
+unique~
+0 0
+ABFTZ 80 64 0 0 -1  -1000 0
+110 400 30000d1+1 200d1+1 500d1+1 slash
+-75 -75 -75 -75
+FHIKN ABJb I 0
+stand stand male  1
+I ABCFGH huge unknown
+#6803
+Shell of a Child~
+Dead Child~
+A little girl wanders here, lifeless and drooling.
+~
+~
+unique~
+0 0
+AFOWZ 0 0 0 2 -1  -1000 0
+110 350 25000d1+100 300d1+1 400d1+1 chomp
+-50 -50 -50 -50
+FHI BHb I 0
+stand stand female 5
+I 0 medium unknown
+#6809
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6810
+Zombie Mage~
+A Zombie~
+A gamey corpse wanders here, looking for brains!
+~
+~
+unique~
+0 0
+ABFORZ 32848 2048 0 0 -1  -1000 0
+120 400 35000d1+1 200d1+1 250d1+1 wrath
+-80 -80 -80 -80
+DEFHIKN ABCNQb I H
+stand stand none 1
+I ABCEFG large unknown
+#6811
+Nightmarish Elm~
+A Nightmare Elm~
+A hideous, twisted elm tree is here, glaring at you.
+~
+~
+unique~
+0 0
+ABZ 32768 64 0 0 -1  -1000 0
+110 300 20000d1+1 200d1+1 300d1+1 pierce
+-50 -50 -50 -50
+EHK BDJ 0 H
+stand stand none 0
+0 0 large unknown
+#6825
+Alicorn~
+Alicorn~
+A winged unicorn rears on it's hind legs as you approach.
+~
+Alicorn the winged unicorn, rears back on his hind legs as you approach. It
+is said that only the pure of heart may mount him.
+~
+unique~
+0 0
+AGZe 256 16 0 32768 -1  1000 0
+120 400 35000d1+1 500d1+1 500d1+1 chomp
+-75 -75 -75 -75
+FHI BCb 0 0
+stand stand male  0
+G 0 large unknown
+#6836
+Bad Ash~
+`7`8B`1a`8d `1A`8s`1h`7~
+`7`8B`1a`8d `1A`8s`1h`7 stands here reciting the pages of the Necronomicon.
+~
+~
+amadicia~
+0 0
+ABORT 0 1024 1152 512 -1  -1000 0
+300 500 100000d1+2 10000d1+1 100d100+100 slash
+-90 -90 -90 -90
+DFHK Cb G F
+stand stand male  0
+AHMV ABCDEFGHIJK giant unknown
+M GRALL 6836 65~
+#6837
+Linda Deadite~
+`7`1L`!i`1n`!d`1a `8D`7e`8a`7d`8i`7t`8e`7~
+`7`1L`!i`1n`!d`1a `8D`7e`8a`7d`8i`7t`8e`7 spins her neck and spits blood on you!
+~
+~
+amadicia~
+0 0
+ABORT 256 3136 0 32768 -1  -1000 0
+200 350 90000d1+2 10000d1+1 100d100+1 drain
+-85 -85 -85 -85
+DFHJKN JKb FH G
+stand stand female 0
+AHMV ABCDEFGHIJK large unknown
+M GRALL 6837 65~
+#6838
+Sam Raimi~
+`7`8S`7a`8m `7R`8a`7i`8m`7i~
+`7`8S`7a`8m `7R`8a`7i`8m`7i stands here giggling maniacally.
+~
+~
+kandor~
+0 0
+ABORT 0 3136 0 32768 -1  -1000 0
+300 400 85000d1+3 10000d1+1 100d100+100 slash
+-85 -85 -85 -85
+DEFHIKN Kb GJ I
+stand stand male  0
+AHMV ABCDEFGHIJK large unknown
+M GRALL 6838 65~
+#6839
+Bruce Campbell~
+`7`!B`1ruce `8C`1ampbell`7~
+`7`!B`1ruce `8C`1ampbell`7 stands here grinning broadly.
+~
+~
+kandor~
+0 0
+ABRT 0 3136 128 32768 -1  -1000 0
+300 450 85000d1+3 10000d1+1 100d100+100 pierce
+-85 -85 -85 -85
+DFHIKN Jb EK H
+stand stand male  0
+AHMV ABCDEFGHIJK large unknown
+M GRALL 6839 65~
+#0
+
+
+
+#OBJECTS
+#6776
+a latching trap~
+a latching trap~
+A latching trap is here.~
+unknown~
+trap 0 A
+0
+AB 0 0 0 0
+0 0 100 P
+ T 0 none~
+#6777
+damage trap~
+a damage trap~
+A damage trap is here.~
+unknown~
+trap 0 A
+0
+0 0 0 0 0
+0 0 100 P
+ T 0 none~
+#6778
+teleport trap~
+a teleport trap.~
+A teleporting trap is here.~
+unknown~
+trap 0 A
+0
+B 0 0 0 0
+0 0 100 P
+ T 0 none~
+#6779
+mana trap~
+a Mana trap.~
+A mana trap is here.~
+unknown~
+trap 0 A
+0
+A 0 0 0 0
+0 0 100 P
+ T 0 none~
+#6836
+Necronomicon~
+`7`8N`7e`8c`7r`8o`7n`8o`7m`8i`7c`8o`7n~
+Bound in human flesh and inked in blood, the Necronomicon lies here.~
+flesh~
+armor ABEGd AO
+0
+BEF ACDF ACDF ACDF 0
+150 20 10000 P
+A
+20 -12
+A
+12 20
+A
+14 10
+A
+13 20
+A
+18 11
+A
+19 11
+ T 0 none~
+#6837
+Ash's Gory Chainsaw~
+`7`8Ash's `!Gory `8Chainsaw`7~
+A gory chainsaw with `8Ash `7engraved on the handle lies here.~
+steel~
+weapon ABYd AN
+0
+exotic 76 1 drain BCE
+150 30 10000 P
+A
+14 6
+A
+20 -11
+A
+13 20
+A
+12 10
+A
+18 11
+A
+19 11
+ T 0 none~
+#6838
+Sawed-off Shotgun from S-Mart~
+`7`8Sawed-off Shotgun from `!S`1-`!M`1art`7~
+A `7`8Shotgun `7with `!S`1-`!M`1art `7etched on the side, lies here.~
+steel~
+weapon ABd AN
+0
+exotic 75 1 blast ADG
+110 40 10000 P
+A
+14 6
+A
+20 -5
+A
+13 15
+A
+18 10
+A
+19 10
+A
+12 14
+ T 0 none~
+#6839
+Sam Raimi's '73 Oldsmobile~
+`7`8S`7a`8m `7R`8a`7i`8m`7i`8'`7s `3'73 `#O`3l`#d`3s`#m`3o`#b`3i`#l`3e`7~
+A small model of a `7`3'73 `#O`3l`#d`3s`#m`3o`#b`3i`#l`3e`7 lies here upside down.~
+steel~
+armor ABd AO
+0
+ACDF DF DF DF 0
+110 20 10000 P
+A
+14 4
+A
+20 -5
+A
+12 20
+A
+13 20
+A
+19 10
+A
+18 10
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#6776
+Sleeping Chamber~
+The air is cool here and smells faintly of mildew. The floor, made of a
+rough sort of stone, is bare and damp.  Several small cots have been pushed
+up against each wall, and a small sconce hangs beside the door; it's half-melted
+candle casting a warm glow on the room.
+~
+0 525316 0
+D3
+~
+~
+0 0 6777
+S
+#6777
+Atop the winding staircase~
+The cold stone walls and floor here seem moist, and the sound of dripping
+water can be heard from below.  A small sconce hangs on the wall, it's candle
+snuffed and slime-covered. To the east is a heavy wooden door which appears
+to have a strange glow behind it.
+~
+0 524289 0
+D1
+~
+~
+0 0 6776
+D5
+~
+~
+0 0 6778
+S
+#6778
+A winding staircase~
+Slime covers the stone walls and stairs, making them extremely slippery.
+A child's rag doll sits here grinning maniacaly, it's floral print dress is 
+tattered and it's right eye dangles by a single frayed thread.  A dripping sound
+can be heard from below.
+~
+0 524289 0
+D1
+~
+~
+0 0 6779
+D4
+~
+~
+0 0 6777
+S
+#6779
+A winding staircase~
+The handrail ends here in sharp jagged points, as if it had been snapped
+off, and a transparent slime drips from the points forming a small pool in 
+one of the cracks in the floor.  The air has a sickeningly sweet odor.
+~
+0 524289 0
+D3
+~
+~
+0 0 6778
+D5
+~
+~
+0 0 6780
+S
+#6780
+A winding staircase~
+The stone walls and floor here seem almost wet and the dripping sound 
+seems closer.  A small rusty sconce hangs on the wall holding a broken candle.
+The other half of the candle lies on a step in a puddle of slimey goo, and an 
+odd odor fills the air.
+~
+0 524289 0
+D3
+~
+~
+0 0 6781
+D4
+~
+~
+0 0 6779
+S
+#6781
+At the foot of the stairs~
+The rough stone floor is barren and is deeply cracked in several places,
+making it quite possible to trip and fall.  Two rusty sconces hang opposite each
+other, their tiny candles appearing  as if they have been recently snuffed. To
+the north is a worn and cracked wooden door and to the east is a set of winding 
+stairs.
+~
+0 524288 0
+D0
+~
+~
+0 0 6782
+D1
+~
+~
+0 0 6780
+D2
+~
+~
+0 0 6783
+S
+#6782
+A broom closet~
+A small closet at the foot of the stairs stores a broom and a dustpan,
+both covered in cobwebs and mud.  The maids dirty white apron hangs on a tiny
+hook on the wall and her kerchief is tied to her head which lies staring up
+at nothing with dark glazed eyes.
+~
+0 524289 0
+D2
+~
+~
+0 0 6781
+S
+#6783
+In the Foyer~
+An overturned bookcase lies here and a few broken figurines are scattered
+across the floor.  The black and white tiles are peeling up from the floor here,
+and their corners are curling inwards.  Heavy cobwebs hang from the doorways
+and the musty smell in the air is very strong.
+~
+0 524288 0
+D0
+~
+~
+0 0 6781
+D1
+~
+~
+0 0 6788
+D2
+~
+~
+0 0 6787
+D3
+~
+~
+0 0 6784
+S
+#6784
+In the Foyer~
+A black grande piano sits here collecting dust. Four of it's keys are
+missing, and a single dead rose rests in a cracked glass vase on top of it.
+The large tiles are chipped and peeling here and the musty smell hangs in the 
+air.
+~
+0 524288 0
+D0
+~
+~
+0 0 6786
+D1
+~
+~
+0 0 6783
+D2
+~
+~
+0 0 6785
+S
+#6785
+In the Foyer~
+A wooden coat rack is here beside the front door, holding a dusty top
+hat and a rusted tiara.  The floor is of large black and white tiled squares
+and is filthy.  An odd, musty smell hangs in the air.
+~
+0 524288 0
+D0
+~
+~
+0 0 6784
+D1
+~
+~
+0 0 6787
+D2
+~
+~
+0 0 6804
+S
+#6786
+Tiny closet under the stairs~
+The butlers dusty black-tailed coat hangs on a tiny hook on the wall,
+and the butlers gamey corpse hangs from a rope suspended from a horizontal
+pole on the ceiling.  The corpses shirt has yellowed with age and has something
+scrawled on it in a foreign script.
+~
+0 524289 0
+D2
+~
+~
+0 0 6784
+S
+#6787
+In the Foyer~
+A large mantle lies against the eastern wall here, it's white paint has
+yellowed with age and it is covered in dust and cobwebs.  A large painting
+of a headless couple hangs overhead and a stuffed cat covered in an oily 
+residue stands on the floor staring at nothing with it's dead eyes.
+~
+0 524288 0
+D0
+~
+~
+0 0 6783
+D3
+~
+~
+0 0 6785
+S
+#6788
+A small dining room~
+A table sits in the middle of the floor and a rusty bowl of plastic
+fruit sits in the center of it.  The wallpaper is bright yellow and is 
+stenciled with apples, oranges, and grapes, and it peels from the walls in
+places.  The smell of decay is strong in this room.
+~
+0 524288 0
+D2
+~
+~
+0 0 6799
+D3
+~
+~
+0 0 6783
+S
+#6789
+a room~
+~
+0 524292 0
+S
+#6799
+In the kitchen~
+An icebox is here, it's door ajar and the light inside flickering. A
+few pieces of rotted meat have tumbled out from a broken shelf spilling
+blood all over the floor.  Shards of glass are scattered all over the floor
+and the sink is piled high with dishes.  The smells of rot hangs heavy here.
+~
+0 524288 0
+D0
+~
+~
+0 0 6788
+D1
+~
+~
+0 0 6800
+S
+#6800
+In the kitchen~
+The stove is here with it's oven door hanging by a single hinge and
+a big kettle sits on the top.  The cooks filthy hat lies on the counter and
+his head floats inside the kettle.  The stench of burning flesh fills the room.
+~
+0 524288 0
+D0
+~
+~
+0 0 6801
+D3
+~
+~
+0 0 6799
+S
+#6801
+The wash room~
+A large tin tub sits here full of stagnent water and a washboard rests
+alongside.  Old holey socks hang overhead on a clothesline and laundry is 
+strewed about the area.  The back door lies to the east.
+~
+0 524288 0
+D1
+~
+~
+0 0 6802
+D2
+~
+~
+0 0 6800
+S
+#6802
+In the backyard~
+A rusty fence made of thin wire surrounds the tiny back yard and the
+small wooden gate swings back and forth soundlessly as though somone or 
+something has just walked through it.  A tiny swing hangs on a skinny branch
+of a dead tree and a little rusty tricycle lies near the back door overturned,
+it's front wheel spinning.  There is no sound and the air seems stale.
+~
+0 0 2
+D2
+~
+~
+0 0 6803
+D3
+~
+~
+0 0 6801
+S
+#6803
+In the backyard~
+A sandbox is here, glittering with shards of bloodied glass and a
+small pool sits nearby, its water an odd pinkish color.  The small patches
+of grass that cover the area crack and crunch under every step yet they appear
+to be fresh and are a healthy shade of green.
+~
+0 0 0
+D0
+~
+~
+0 0 6802
+D3
+~
+~
+0 0 6805
+S
+#6804
+On the front porch~
+A weather worn swing hangs here, dangling by one heavy chain.  The chain
+that once held the other side appears to have been chewed in two.  An old
+rocking chair rocks slowly back and forth, making an eerie creaking sound, and
+a few boards are missing, leaving holes in the floor.  The front entrance lies
+to the north.
+~
+0 524288 0
+D0
+~
+~
+0 0 6785
+D1
+~
+~
+0 0 6805
+D2
+~
+~
+0 0 6806
+S
+#6805
+Walkway on the side of the house~
+The narrow walkway of cobblestones appears to be wet yet is dry to
+the touch and the windows on the side of the house have been boarded shut.
+It is eerily quiet and the air seems stale and old here.
+~
+0 0 0
+D1
+~
+~
+0 0 6803
+D3
+~
+~
+0 0 6804
+S
+#6806
+In front of the house~
+Three broken steps lead up to the front porch of this strange looking house.
+A small wooden sign sits here, it reads "Howse fer sail," and something else
+, but the writing is old and faded.
+~
+0 524288 3
+D0
+~
+~
+0 0 6804
+D2
+~
+~
+0 0 6807
+S
+#6807
+Road leading to the house~
+The road is muddy and filled with ruts from passing wagons.  The tall dead
+trees that loom overhead, block all light, causing permanant shadow to lay
+across the area.  Their long gnarled branches seem to stab at the ground.
+~
+0 524288 3
+D0
+~
+~
+0 0 6806
+D2
+~
+~
+0 0 6808
+S
+#6808
+Road leading to the house~
+Deep ruts in this section of the road have become home to a few broken
+wagon wheels and a rusty axle which protrudes from the soft ground.  The road
+splits here to the north and to the west.
+~
+0 524288 3
+D0
+~
+~
+0 0 6807
+D1
+~
+~
+0 0 6809
+D3
+~
+~
+0 0 6810
+S
+#6809
+Road leading to the house~
+A horse lies here with it's nose stuck into the mud and it's hind legs
+broken, the bones protruding from it's skin.  It's cold dark eyes stare up
+lifelessly at the tree who's gnarled branch is stuck in the horses middle.
+~
+0 524288 3
+D2
+~
+~
+0 0 6811
+D3
+~
+~
+0 0 6808
+S
+#6810
+Altar in a Clearing~
+A small clearing off the side of the road leads to a small altar covered
+with melted black candles and dried blood, as if someone was performing some
+kind of strange ritual.  Some yellowed pages from an old book are strewn about
+the area and a small golden goblet lies on it's side, congealed blood lining
+the inside of it.
+~
+0 524289 3
+D1
+~
+~
+0 0 6808
+S
+#6811
+A road in the Forest.~
+An overturned wagon is here, spilling hay all over the muddy road.  The
+left rear wheel is broken in half and a tree branch has twisted itself around
+the other wheels.
+~
+0 524288 3
+D0
+~
+~
+0 0 6809
+D3
+~
+~
+0 0 6812
+S
+#6812
+A road in the Forest~
+The road is muddy and full of ruts from previous passing wagons.  The ruts
+are filled with murky water and some unidentifiable debris.  The trees loom
+overhead, menacingly, as if they are waiting to reach out and strike at something.
+~
+0 524288 3
+D1
+~
+~
+0 0 6811
+D2
+~
+~
+0 0 6813
+S
+#6813
+On the other side of the lake~
+The land is completely different here than on the other side of the
+lake. The trees, instead of bieng fresh and green, are dry and dead. There
+is no breeze and the air seems heavy and stale.
+~
+0 524288 3
+D0
+~
+~
+0 0 6812
+D2
+~
+~
+0 0 6814
+S
+#6814
+On the lake~
+The water is oddly clear here and tiny minnows can be seen swimming and
+ducking under the stones and plants beneath the surface.  There is a soft cool
+breeze and the sun shines warmly on the lake, making it sparkle.
+~
+0 524288 6
+D0
+~
+~
+0 0 6813
+D1
+~
+~
+0 0 6815
+D2
+~
+~
+0 0 6818
+D3
+~
+~
+0 0 6816
+S
+#6815
+On the lake~
+Fish dart around beneath the lakes surface, occasionally popping up
+to eat one of the small insects that alight on the water.  The breeze causes
+the water to ripple slightly and splash up.
+~
+0 524288 6
+D2
+~
+~
+0 0 6819
+D3
+~
+~
+0 0 6814
+S
+#6816
+On the lake~
+Fish dart around beneath the lakes surface, occasionally popping up to
+eat one of the small insects that alights on the waters surface.  The breeze 
+causes the water to ripple slightly and splash up.
+~
+0 524288 6
+D1
+~
+~
+0 0 6814
+D2
+~
+~
+0 0 6817
+S
+#6817
+On the lake~
+Tiny multicolored fish dart about beneath the lakes surface, occasionally
+popping up to eat one of the tiny insects that alight on the water.  The breeze
+causes the water to ripple slightly and splash up.
+~
+0 524288 6
+D0
+~
+~
+0 0 6816
+D1
+~
+~
+0 0 6818
+S
+#6818
+On a lake~
+Tiny multicolored fish dart around beneath the lakes surface, occasionally
+popping up to eat one of the tiny insects that alight on the water. The breeze
+causes the water to ripple slightly and splash up.
+~
+0 524288 6
+D0
+~
+~
+0 0 6814
+D1
+~
+~
+0 0 6819
+D2
+~
+~
+0 0 6820
+D3
+~
+~
+0 0 6817
+S
+#6819
+On a lake~
+Tiny colored fish dart around beneath the lakes surface, occasionally
+popping up to eat the small insects that alight on the water.  The breeze
+causes the water to ripple slightly and splash up.
+~
+0 524288 6
+D0
+~
+~
+0 0 6815
+D3
+~
+~
+0 0 6818
+S
+#6820
+On the shore~
+A small sandy shore alongside the lake look the the perfect place to stretch
+out beneath the sun.  The breeze is warm and the air smells fresh and clean
+here. A small house, which rests on a hill, can be seen on the other side of the
+lake.
+~
+0 524288 2
+D0
+~
+~
+0 0 6818
+D1
+~
+~
+0 0 6821
+D2
+~
+~
+0 0 6823
+D3
+~
+~
+0 0 6822
+S
+#6821
+On the shore~
+A small sandy shore is cluttered with debris; a few pieces of driftwood
+, a few leaves that have fallen from the trees, and even a few dead fish have
+washed up from the lake.
+~
+0 524288 2
+D2
+~
+~
+0 0 6825
+D3
+~
+~
+0 0 6820
+S
+#6822
+On the shore~
+A small sandy shore is cluttered with debris; some old driftwood,
+a few leaves from the nearby trees, and even some dead fish that have
+washed up from the lake.
+~
+0 524288 2
+D1
+~
+~
+0 0 6820
+D2
+~
+~
+0 0 6824
+S
+#6823
+In a field of tall grass~
+The grass sways in a lazy dance as the wind caresses it's tips.  The 
+gentle hum of bumblebees can be heard all around as the sun's warm rays
+embrace the field.
+~
+0 524288 2
+D0
+~
+~
+0 0 6820
+D1
+~
+~
+0 0 6825
+D2
+~
+~
+0 0 6827
+D3
+~
+~
+0 0 6824
+S
+#6824
+In a field of tall grass~
+The grass sways in a lazy dance as the wind caresses it's tips.  A
+few fauns leap about each other in play as their mother grazes nearby.
+The sun smiles down on them and embraces the field with it's warm rays.
+~
+0 524288 2
+D0
+~
+~
+0 0 6822
+D1
+~
+~
+0 0 6823
+D2
+~
+~
+0 0 6828
+S
+#6825
+In a field of tall grass~
+The grass sways in a lazy dance as the wind caresses it's tips.  The
+sky is the perfect shade of blue here and the sun's rays embrace the land.
+Different kinds of wildlife can be seen frollicking about the field.
+~
+0 524288 2
+D0
+~
+~
+0 0 6821
+D2
+~
+~
+0 0 6826
+D3
+~
+~
+0 0 6823
+S
+#6826
+In a field of tall grass~
+A small family of furry bunnies hop about and munch on the tall green
+grass here.  A hawk swoops in, closing his claws around one of the rabbits
+and quickly flies away.
+~
+0 524288 2
+D0
+~
+~
+0 0 6825
+D3
+~
+~
+0 0 6827
+S
+#6827
+In a field of tall grass~
+Something has made a nest here in the tall grass, evident by the six spotted
+eggs the lay inside. A small snake slithers up and coils itself around the nest,
+and begins to feast on it's contents.
+~
+0 524288 2
+D0
+~
+~
+0 0 6823
+D1
+~
+~
+0 0 6826
+D3
+~
+~
+0 0 6828
+S
+#6828
+In a field of tall grass~
+A heavy wooden door is here, begging to be opened and explored.  There
+seems to be no evidence that a building was ever attached to it.  The grass
+sways in such a way that it appears to be motioning towards the door, and 
+even the wind seems to grow stronger in this part of the field, pushing itself
+against the door.
+~
+0 524288 2
+D0
+~
+~
+0 0 6824
+D1
+~
+~
+0 0 6827
+D2
+~
+~
+0 0 6829
+S
+#6829
+At the bottom of some stairs~
+The door slams shut and locks, leaving no other choice but to follow this
+strange stairwell to wherever it may lead.  The walls here are transparent and 
+give a fantastic view of the surrounding field outside, yet, they do not seem to 
+allow light to fill the stairwell, leaving it dark.
+~
+0 524289 0
+D4
+~
+~
+0 0 6830
+S
+#6830
+On the stairs~
+The strange transparent walls seem to show a more spectacular view of the
+area the further up they go, yet they still do not allow any sort of light to
+fill this mysterious stairwell.  Neither the top nor the bottom of the stairs 
+are visible at this point, yet there is really nowhere to go but up.
+~
+0 524289 0
+D4
+~
+~
+0 0 6831
+D5
+~
+~
+0 0 6829
+S
+#6831
+On the stairs~
+The whole span of the field and the surrounding area can be seen at this 
+height through the strange transparent walls, and yet still no light fills the
+stairwell. Neither the top nor the bottom of the staircase are visible here.
+~
+0 524289 0
+D4
+~
+~
+0 0 6832
+D5
+~
+~
+0 0 6830
+S
+#6832
+At a Door~
+BANG! A hidden door slams shut, leaving no other exit but through the warped
+wooden door that stands here.  The walls are not transparent as they were in the
+stairwell in fact, they are made of a cold wet stone that seem to be closing in
+on the room.
+~
+0 524289 0
+D3
+~
+~
+0 0 6833
+S
+#6833
+Dark tunnel in the air~
+BANG! Yet another door slamming and locking itself, leaving no other option
+but to venture down this long, dark tunnel in the middle of nowhere.  The air
+feels damp and somewhat unstable.  The strong distinct odor of mildew is thick
+here.
+~
+0 524289 9
+D3
+~
+~
+0 0 6834
+S
+#6834
+Dark tunnel in the air~
+The tunnel seems to go on forever and the air that supports it seems to 
+grow more and more unstable, wavering with each step, as if it will collapse
+at any second.  The air also seems to grow more damp here and the smell of 
+mildew grows stronger.
+~
+0 524289 9
+D1
+~
+~
+0 0 6833
+D3
+~
+~
+0 0 6835
+S
+#6835
+Door at the end of the tunnel~
+The first and only shred of light in this tunnel seems to be coming from
+a tiny crack beneath the small water-warped door that mysteriously floats here.
+The dim light causes the wet surfaces to glisten and appear as though they
+are breathing.
+~
+0 524289 9
+D1
+~
+~
+0 0 6834
+D3
+~
+~
+0 0 6776
+S
+#0
+
+
+
+#SPECIALS
+M 6836 spec_breath_any_but_acid
+M 6837 spec_cast_undead
+M 6838 spec_cast_mage
+M 6839 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 6777 1 6776 1 100 Load Gabriella
+M 0 6776 4 6777 1 100 Load The Boogey Man 
+M 0 6776 4 6777 1 100 Load The Boogey Man 
+M 0 6779 10 6779 1 100 Load A baby Boogey
+M 0 6779 10 6779 1 100 Load A baby Boogey
+M 0 6779 1 6780 1 100 Load A baby Boogey
+M 0 6779 10 6782 1 100 Load A baby Boogey
+M 0 6779 10 6782 1 100 Load A baby Boogey
+M 0 6779 10 6786 1 100 Load A baby Boogey
+M 0 6779 10 6786 1 100 Load A baby Boogey
+M 0 6779 10 6787 1 100 Load A baby Boogey
+M 0 6779 10 6787 1 100 Load A baby Boogey
+M 0 6779 10 6788 1 100 Load A baby Boogey
+M 0 6779 10 6788 1 100 Load A baby Boogey
+M 0 6800 1 6800 1 100 Load A Headless Corpse
+M 0 6800 1 6800 1 100 Load A Headless Corpse
+M 0 6803 1 6803 1 100 Load Dead Child
+M 0 6811 6 6806 1 100 Load A Nightmare Elm
+M 0 6811 6 6808 1 100 Load A Nightmare Elm
+M 0 6810 1 6810 1 100 Load A Zombie
+M 0 6810 1 6810 1 100 Load A Zombie
+M 0 6811 6 6811 1 100 Load A Nightmare Elm
+M 0 6811 6 6812 1 100 Load A Nightmare Elm
+M 0 6825 1 6825 1 100 Load Alicorn
+M 0 6825 1 6825 1 100 Load Alicorn
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#6836
+yell Gimmie some sugar baby!
+~
+#6837
+yell I'll swallow your souls! I'll swallow your souls!
+~
+#6838
+yell Join us!
+emote throws his head back and cackles with insane glee!
+yell You WILL join us!
+~
+#6839
+yell You want some? Come get some!
+emote laughs like a madman.
+yell Hail to the king, baby!
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,887 @@
+#AREADATA
+Name diem quest~
+Builders None~
+VNUMs 6877 6899
+Credits (null)~
+Security 10
+Flags CKL
+Version 4
+End
+
+
+
+#MOBILES
+#6878
+Arcane Spider~
+Arcane Spider~
+An spider scurries along the ground
+~
+~
+unique~
+0 0
+ABFTZ 1360 1091 16384 1024 -1  -1000 0
+450 600 5d40+6000 0d0+0 1d10+150 sting
+-100 -100 -100 -100
+AEKU HKL 0 0
+stand stand none 600
+CP ACV medium unknown
+#6879
+arcane gate keeper~
+Arcane Deamon~
+A gatekeeper walks around, guarding something important.
+~
+~
+unique~
+0 0
+ABFRTU 1364 67 0 0 -1  0 0
+945 1200 50d100+15000 5d10+800 5d10+200 slice
+-300 -300 -300 -300
+ACEHKU HJ KL P
+stand stand none 0
+D 0 medium unknown
+#6880
+Blue Weave Master~
+Blue Weavemaster~
+A powerfull form stands here, not human, not anything of this plane.
+~
+~
+unique~
+0 0
+AFRTUZc 260 66 0 1024 -1  0 0
+1200 4000 9d100+25000 100d100+500 10d50+430 magic
+-900 -900 -900 -900
+FHKU C 0 Z
+stand stand none 0
+0 0 medium unknown
+#6883
+arcane gnats~
+a red gnat~
+A swarming mass is here, swirling in the middle of your path.
+~
+~
+unique~
+0 0
+ABFRTZc 336 8208 4096 4 -1  -10 0
+340 650 10d10+300 3d100+900 40d20+200 sting
+-10 -10 -10 -1000
+AKLU FHKb 0 0
+stand stand none 0
+O 0 medium unknown
+#6884
+red arcana wise gatekeeper~
+Wise Red Gatekeeper~
+An old man, looking to be much like a gatekeeper guards the doorway.
+~
+~
+unique~
+0 0
+ABZ 336 0 0 0 -1  0 0
+200 1 1d1+1 0d0+0 1d1+1 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M SPEECH 6884 pass~
+M SPEECH 6885 weavemaster~
+M SPEECH 6886 yes~
+M SPEECH 6887 no~
+M GIVE 6888 chalice~
+#6885
+pondura~
+Pondura~
+A witch of immense power stands infront of you.
+~
+~
+unique~
+0 0
+AFOQRTZ 340 66 17536 1024 -1  0 0
+300 0 1d100+10000 99d100+9000 5d10+220 none
+-600 -600 -600 -600
+ABDFHKO HIL 0 O
+stand stand none 0
+0 0 medium unknown
+#6886
+fire dragon~
+Arcanus Fire Dragon~
+A huge dragon is here, transparent, but very very real.
+~
+~
+unique~
+0 0
+ABFTZ 340 66 16384 0 -1  0 0
+2400 1200 100d240+38000 10d100+9000 10d100+5 chomp
+100 100 100 100
+0 H 0 D
+stand stand none 0
+Z 0 medium unknown
+#6887
+Red Arcane Weavemaster~
+Red Arcane Weavemaster~
+A powerfull figure cloaked with his back turned to you.
+~
+~
+unique~
+0 0
+ABFZ 260 2 4096 1024 -1  0 0
+3000 1000 100d100+57000 100d100+9000 10d4+310 wrath
+-100 -100 -100 -100
+AFHK 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6888
+white gatekeeper~
+White Arcana Sentinel~
+A powerfull man stands here, giving advice for your adventure.
+~
+~
+unique~
+0 0
+AB 336 0 0 0 -1  0 0
+1 1 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+M GRALL 6990 100~
+#6889
+wasp white ~
+a `&white`7 wasp~
+An insect is here, guarding your path.
+~
+~
+unique~
+0 0
+ABFRTUZ 340 66 5120 0 -1  0 0
+1000 9999 1d1+300 10d10+9000 1d100+450 sting
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6899
+White Weavemaster~
+The `&White `7Weavemaster~
+A pale looking man stands here, guarding something secret.
+~
+~
+unique~
+0 0
+ABFRTZc 340 66 0 1024 -1  0 0
+1200 3000 10d10+80000 1d1+999 10d10+350 slice
+100 100 100 100
+A ANXY C 0
+stand stand none 0
+0 0 medium unknown
+M DEATH 6899 100~
+#0
+
+
+
+#OBJECTS
+#6877
+odd portal~
+an odd portal~
+An odd looking portal~
+unknown~
+portal 0 0
+0
+DHIJM 0 0 ACDEGHJLM 0
+0 0 0 P
+ T 0 none~
+#6878
+Level 2 portal~
+`!L`1evel `!2 `&portal.~
+The level 2 portals is here.~
+unknown~
+portal A 0
+0
+DFIJN 0 0 BFGHJLM 0
+0 0 0 P
+ T 0 none~
+#6880
+blue portal~
+a blue portal glows immense light.~
+A portal of extreme power rests here, awaiting you.~
+unknown~
+portal A 0
+0
+BD 0 0 AFGHJLM 0
+0 0 0 P
+ T 0 none~
+#6881
+level 1 prize ticket~
+`$L`4evel `$1 `&prize ticket.`7~
+A prize lays on the ground.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6883
+level 2 portal warp~
+`!L`1evel `!2 `#W`3arp `&S`8tone`7~
+A gleaming portal is here.~
+unknown~
+portal AB A
+0
+BD 0 0 BFGHJLM 0
+1 0 0 P
+ T 0 none~
+#6884
+Chalice Arcane~
+the Chalice of the Arcanum~
+An important cup is here.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+1 0 0 P
+ T 0 none~
+#6886
+shimmering portal~
+a shimmering portal~
+A glowing portal is here.~
+unknown~
+portal A 0
+0
+DFIJN 0 0 ABCFGHJLM 0
+0 0 0 P
+ T 0 none~
+#6887
+level 2 ticket~
+`!L`1evel `!2 `&prize ticket`7.~
+A prize is on the ground.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+1 0 0 P
+ T 0 none~
+#6893
+level two portal~
+`&Level 3`7 portal~
+The portal to `&level 3`7~
+unknown~
+portal AB 0
+0
+DFIJN 0 0 DFGHJLM 0
+0 0 0 P
+ T 0 none~
+#6894
+level 3 warpstone~
+`&Level `#3`7 warpstone`7~
+An important stone.~
+unknown~
+portal AB A
+0
+A 0 0 DFGHJLM 0
+1 0 0 P
+ T 0 none~
+#6898
+level 3 ticket prize~
+`&Level `#3 `@p`2rize `!t`1icket`7~
+A prize ticket is on the ground.~
+unknown~
+trash AB A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#6899
+glowing portal~
+a glowing vortex~
+A glowing vortex, swirls infront of you.~
+unknown~
+portal AB 0
+0
+A 0 0 AB 0
+1 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#6877
+Arcanus Portal~
+This side of the Arcanus Portal is dark, a myserious dank smell fills
+yours nose, the air seems humid and misted many of the walls are dripping
+with moisture, the ground loose with rocks of all shapes and sizes.  
+~
+0 474488833 0
+D0
+~
+~
+0 0 6878
+S
+#6878
+Portal Fork~
+The road twists east and wests, and joins here.  Along the winding road
+going down there is not very good footing, shadows can be seen scurrying
+across the walls, small shapes can be seen off in the distance but yet far
+away.  Drops of water can be heard down the corridors, and running water
+echos in the distance.  
+~
+0 474488833 0
+D1
+~
+~
+0 0 6879
+D2
+~
+~
+0 0 6877
+S
+#6879
+Arcanic Rune~
+Ancient Runes are scrolled along a doorway leading north they signify the
+ancient powers, and the nessacary steps to unweave entire threads in the
+pattern, they are strong, and almost uncomprehendable by mortal spirits.  
+~
+0 473964545 0
+D0
+~
+~
+1 0 6880
+D3
+~
+~
+0 0 6878
+S
+#6880
+Blue Weave Room~
+A huge blue portal is open infront of you, leading into the unknowntake
+it if you dare, however, it is not safe, beware, turn back if you are
+scared.  
+~
+0 482877441 0
+D2
+~
+~
+1 0 6879
+S
+#6881
+Level 1 Complete~
+You have completed Level 1 of the Weavemaster Quest.  Your prize is on
+the ground, I would suggest vacating this area immediately, only certain
+death can come of standing around here for too long.  
+Look forward for further additions to this quest. 
+~
+0 415760389 0
+S
+#6882
+Red Arcana~
+Red seeps across the walls, glistening with shadows, and moisture.  Red
+plumes of gas rise from between the cracks in the ground, and from crevacies
+above your head.  
+~
+0 403185665 0
+D1
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 3001
+D4
+~
+~
+0 0 6883
+S
+#6883
+Red Passageway~
+Tiny red creatures block movement upwards, obviously not wanting you to
+step any further beyond thier point.  Attempts at communication seem to be
+feeble.  Eyes glow all around you as a swarm of red creatures begins to
+creep up to you.  
+~
+0 473964545 0
+D0
+~
+~
+0 0 6884
+D5
+~
+~
+0 0 6882
+S
+#6884
+Red Arcana Runic Room~
+Red Runes cover the walls, and the enterance through the doorway.  The
+doorway is shut, and an old man stands infront if it, not moving, not even
+looking up as you enter.  
+~
+0 474489856 0
+D2
+~
+~
+0 0 6883
+S
+#6885
+Pondura's Chamber~
+A large woman stands here, obviously a very powerfull mage, and warrior. 
+I suggest caution when dealing with this person, she does not seem to have
+the best of personalities.  
+~
+0 268435461 0
+S
+#6886
+Red Weavemater's Throne~
+The Red Weavemaster is here, conjuring devils of fire, elements of flame,
+and all things destructive.  Beware, his power is great, and you are only a
+mortal!  
+~
+0 474488836 0
+S
+#6887
+Level 2 Complete~
+~
+0 415768580 0
+S
+#6888
+White Arcanus - Hall of Mirrors~
+~
+0 474489857 0
+D0
+~
+~
+0 0 3001
+D1
+~
+~
+0 0 3001
+D2
+~
+~
+0 0 6888
+D3
+~
+~
+0 0 6878
+D4
+~
+~
+0 0 6889
+D5
+~
+~
+0 0 6879
+S
+#6889
+~
+~
+0 482877441 0
+D0
+~
+~
+0 0 6888
+D1
+~
+~
+0 0 3421
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 6878
+D4
+~
+~
+0 0 6889
+D5
+~
+~
+0 0 6890
+S
+#6890
+~
+~
+0 482877441 0
+D0
+~
+~
+0 0 3001
+D1
+~
+~
+0 0 6878
+D2
+~
+~
+0 0 6890
+D3
+~
+~
+0 0 6891
+D4
+~
+~
+0 0 6889
+D5
+~
+~
+0 0 2583
+S
+#6891
+~
+~
+0 482877441 0
+D0
+~
+~
+0 0 6891
+D1
+~
+~
+0 0 6892
+D2
+~
+~
+0 0 6877
+D3
+~
+~
+0 0 3002
+D4
+~
+~
+0 0 6888
+D5
+~
+~
+0 0 6889
+S
+#6892
+~
+~
+0 482877441 0
+D0
+~
+~
+0 0 6893
+D1
+~
+~
+0 0 3007
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 6891
+D4
+~
+~
+0 0 6890
+D5
+~
+~
+0 0 6880
+S
+#6893
+~
+~
+0 482877441 0
+D0
+~
+~
+0 0 6888
+D1
+~
+~
+0 0 6889
+D2
+~
+~
+0 0 6894
+D3
+~
+~
+0 0 6891
+D4
+~
+~
+0 0 6892
+D5
+~
+~
+0 0 3001
+S
+#6894
+~
+~
+0 482877441 0
+D0
+~
+~
+0 0 6895
+D1
+~
+~
+0 0 6890
+D2
+~
+~
+0 0 6878
+D3
+~
+~
+0 0 6891
+D4
+~
+~
+0 0 6892
+D5
+~
+~
+0 0 6893
+S
+#6895
+~
+~
+0 482877441 0
+D0
+~
+~
+0 0 6889
+D1
+~
+~
+0 0 6896
+D2
+~
+~
+0 0 6894
+D3
+~
+~
+0 0 6888
+D4
+~
+~
+0 0 6893
+D5
+~
+~
+0 0 6892
+S
+#6896
+~
+~
+0 482877441 0
+D0
+~
+~
+0 0 6897
+D1
+~
+~
+0 0 6891
+D2
+~
+~
+0 0 6890
+D3
+~
+~
+0 0 6895
+D4
+~
+~
+0 0 6892
+D5
+~
+~
+0 0 6893
+S
+#6897
+~
+~
+0 482877441 0
+D0
+~
+~
+0 0 6897
+D1
+~
+~
+0 0 6892
+D2
+~
+~
+0 0 6898
+D3
+~
+~
+0 0 6895
+D4
+~
+~
+0 0 6894
+D5
+~
+~
+0 0 6896
+S
+#6898
+~
+~
+0 482877441 0
+D0
+~
+~
+0 0 6897
+D1
+~
+~
+0 0 6892
+D2
+~
+~
+0 0 6899
+D3
+~
+~
+0 0 6893
+D4
+~
+~
+0 0 6893
+D5
+~
+~
+0 0 6878
+S
+#6899
+~
+~
+0 474488833 0
+D0
+~
+~
+0 0 6898
+D1
+~
+~
+0 0 6878
+D2
+~
+~
+0 0 6893
+D3
+~
+~
+0 0 6888
+D4
+~
+~
+0 0 6894
+D5
+~
+~
+0 0 6895
+S
+#0
+
+
+
+#SPECIALS
+M 6879 spec_breath_acid
+M 6885 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 6879 0 1
+D 0 6880 2 1
+M 0 6878 6 6878 7 100 Load Arcane Spider
+M 0 6879 3 6879 4 100 Load Arcane Deamon
+O 0 6880 0 6880 0 100 A blue portal glows immense light. loaded to Blue Weave Room
+M 0 6880 2 6880 2 100 Load Blue Weavemaster
+O 0 4351 0 6881 0 100 `^t`6he `^g`6limmering `^p`6ortal`7 loaded to Level 1 Complete
+O 0 6878 0 6881 0 100 `!l`1evel `!2 `&portal. loaded to Level 1 Complete
+M 0 6883 5 6883 10 100 Load a red gnat
+M 0 6884 1 6884 1 100 Load Wise Red Gatekeeper
+M 0 6885 1 6885 1 100 Load Pondura
+E 0 6884 0 19 0 100 The chalice of the arcanum is loaded held in the hands of Pondura
+O 0 6886 0 6886 0 100 A shimmering portal loaded to Red Weavemater's Throne
+M 0 6887 1 6886 1 100 Load Red Arcane Weavemaster
+M 0 6886 2 6886 2 100 Load Arcanus Fire Dragon
+O 0 4351 0 6887 0 100 `^t`6he `^g`6limmering `^p`6ortal`7 loaded to Level 2 Complete
+O 0 6893 0 6887 0 100 `&level 3`7 portal loaded to Level 2 Complete
+M 0 6888 1 6888 1 100 Load White Arcana Sentinel
+M 0 6889 10 6889 1 100 Load a `&white`7 wasp
+M 0 6889 10 6890 1 100 Load a `&white`7 wasp
+M 0 6889 1 6891 3 100 Load a `&white`7 wasp
+M 0 6889 10 6891 1 100 Load a `&white`7 wasp
+M 0 6889 10 6892 1 100 Load a `&white`7 wasp
+M 0 6889 10 6893 1 100 Load a `&white`7 wasp
+M 0 6889 10 6894 1 100 Load a `&white`7 wasp
+M 0 6889 10 6895 1 100 Load a `&white`7 wasp
+M 0 6889 10 6896 1 100 Load a `&white`7 wasp
+M 0 6889 10 6897 1 100 Load a `&white`7 wasp
+M 0 6889 10 6898 1 100 Load a `&white`7 wasp
+M 0 6899 1 6899 1 100 Load The `&White `7Weavemaster
+M 0 6889 10 6899 2 100 Load a `&white`7 wasp
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#6884
+emote narrows his eyes, and then shakes his head slowly.
+say None shall pass before me!
+~
+#6885
+emote looks over towards $n.
+say Ahh, it is you, the young adventurers seeking the Grand Weavemaster.
+say In order to pass this doorway, you will need to retrieve me a chalice
+say that was stolen from me many decades ago. Please seek out Pondura
+say and retrieve my chalice. Bring it back to me, and I will let the bearer
+say continue their journey.
+mob transfer $n pella
+mob echo $n is suddenly sucked into a swirling vortex, and is gone!
+emote tilts back his head, and erupts with laughter! 
+say Those of you who choose to follow $n, simply say, Yes or No..
+~
+#6886
+emote cackles briefly, and then makes a wave with his hand towards $n!
+mob transfer $n pella
+mob echo $n is suddenly sucked into a swirling vortex, and is gone!
+~
+#6887
+emote nods his head slowly, and then frowns briefly.
+mob transfer $n fury
+mob echo $n is suddenly sucked into a violent swirling vortex of color!
+~
+#6888
+emote nods his head slowly.
+say Thank you for your efforts, you may pass.
+mob transfer $n 6886
+~
+#6899
+emote tilts his head back, and emits a loud blood curdling scream!
+mob oload 6899
+mob echo A shimmering vortex spins into existence.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

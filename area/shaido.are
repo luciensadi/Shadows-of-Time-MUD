@@ -1,0 +1,1019 @@
+#AREADATA
+Name Shaido Guild Area~
+Builders None~
+VNUMs 5851 5899
+Credits `4[`2GUILD `4]`7 Vooshka   Shaido Safe~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#5851
+maiden spear~
+a Maiden of the Spear~
+A Maiden of the Spear is here, willing to train.
+~
+~
+aiel~
+0 0
+ABTe 320 4176 0 1 -1  0 0
+1 1200 25000d1+3000 0d0+0 0d0+0 none
+-4 -4 -4 -4
+FHU ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#5852
+shaido black eyes~
+a Shaido Black Eyes~
+A Shaido Black Eyes is here, donning its veil.
+~
+~
+aiel~
+0 0
+ABTe 320 1104 0 1 -1  0 0
+50 800 25000d1+3000 0d0+0 1d1+0 none
+-4 -4 -4 -4
+FHU ABCD 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#5853
+micara shaido~
+Micara~
+Micara, the Shaido Wise One is here, tending to those in need.
+~
+She is of young age and very pretty with her red hair.  Her blue eyes
+glance softly around the tent.  Every word she speaks is soft, coming from
+her delicate mouth.  
+~
+aiel~
+0 0
+ABTae 336 0 0 0 -1  0 0
+110 0 25000d1+3000 0d0+0 0d0+0 none
+0 0 0 0
+0 CD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 5860 bows~
+#5854
+shaido knife hands~
+Shaido Knife Hands~
+A Shaido Knife Hands is here, sharpening his spear.
+~
+He sits quietly on the floor in his tent.  He stops every now and then
+from sharpening his spear to speculate it's deadliness.  Aware of everything
+around him, he knows you're in the room without having to look up.  
+~
+aiel~
+0 0
+ABTe 49408 34898 0 0 -1  -1000 0
+210 400 20000d1+25000 0d0+0 10d1+380 thrust
+-100 -100 -100 -100
+CDEFHJKO ABQ IK LN
+stand stand male  0
+AHMV ABCDEFGHIJK huge unknown
+#5855
+shaido gai'shan~
+a Gai'shan of the Shaido~
+A Gai'shan is here, waiting for orders.
+~
+He is wearing white with a look of disappointment on his face.  
+~
+aiel~
+0 0
+ABJTUe 0 0 0 0 -1  0 0
+100 0 10000d1+3000 0d0+0 0d0+0 none
+-4 -4 -4 -4
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 5855 lowers her veil.~
+M ACT 5856 lowers his veil.~
+#5856
+shaido gai'shan~
+a Gai'shan of the Shaido~
+A Gai'shan is here, waiting for orders.
+~
+He is wearing white with a look of disappointment on his face.  
+~
+aiel~
+0 0
+ABKTUe 0 0 0 0 -1  0 0
+100 0 10000d1+3000 0d0+0 0d0+0 none
+-4 -4 -4 -4
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 5857 lowers his veil.~
+M ACT 5858 lowers her veil.~
+#5857
+anara shaido warrior~
+Anara the Shaido Warrior~
+Anara the Shaido Warrior is here.
+~
+~
+aiel~
+0 0
+ABGTZe 336 32770 128 0 -1  0 0
+100 300 10000d1+20000 0d0+0 10d1+340 pierce
+-150 -150 -150 -150
+CDFHK ABb ABCD 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 5851 bows deeply.~
+#5858
+shaido red shield~
+a Shaido Red Shield~
+A Shaido Red Shield is standing here.
+~
+A Shaido Red Shield is here, observing who enters and who leaves the
+confines of the area.  
+~
+aiel~
+0 0
+ABGJTZbe 336 32832 128 0 -1  0 0
+100 700 30000d1+5000 0d0+0 10d1+690 pierce
+-150 -150 -150 -150
+CDFHJK ABb ABCD 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 5859 nods at you in agreement.~
+M GRALL 5861 100~
+#5859
+small aiel child shaido~
+a Small Aiel Child~
+A small Aiel child of the Shaido stands here.
+~
+A small child looks at you with curiosity. They are not yet able to don the veils such
+as those of the fierce Shaido warriors, but in time they will be able to dance the spears like
+their elders.
+~
+aiel~
+0 0
+ABTe 0 0 0 0 -1  0 0
+250 100 5000d1+2000 0d0+0 10d1+60 stab
+0 0 0 0
+CFHJK 0 0 0
+stand stand either 1000
+AHMV ABCDEFGHIJK small unknown
+#0
+
+
+
+#OBJECTS
+#5851
+small aiel key~
+a small key~
+A small key is here with a small spear etched into it.~
+unknown~
+key T A
+0
+0 0 0 0 0
+0 10 10000 P
+ T 0 none~
+#5852
+rug~
+a rug~
+A rug is here on the floor.~
+unknown~
+furniture T P
+0
+C DFGHIJ EH DGH EHI
+0 100 1000 P
+ T 0 none~
+#5853
+aiel spear~
+a Deadly Aiel Spear~
+An Aiel spear is here, looking deadly.~
+unknown~
+weapon ABEJL AN
+0
+spear 75 1 pierce CDH
+110 200 1000 P
+A
+18 10
+A
+19 10
+A
+13 25
+A
+12 7
+A
+20 -2
+ T 0 none~
+#5854
+aiel veil~
+a Black Veil~
+A piece of black cloth is here.~
+unknown~
+armor B AR
+0
+ABF ABF ABF ABF 0
+110 50 1000 P
+A
+19 10
+A
+18 10
+S 'sneak'   0  80  -1  25   0         16
+A
+13 30
+ T 0 none~
+#5855
+sword training~
+a Sword of Training~
+A training sword is here.~
+unknown~
+weapon Ta AN
+0
+sword 20 4 stab CHJ
+50 200 10000 P
+A
+18 9
+ T 0 none~
+#5856
+shield training~
+`7A Shield of Training~
+A shield has been left here.~
+unknown~
+armor a AJ
+0
+AC AC AC AC 0
+10 50 1000 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#5851
+A Sweat Tent~
+You walk into a Shaido Sweat Tent and find yourself in front of a Wise
+One.  She sits here on the ground, healing those that are in need.  The tent
+is rather large and spacious, capable of holding more than three people.  A
+feeling of sanction overwhelms the room, and Couladin does not seem to be
+here.  
+~
+0 205521924 0
+D0
+~
+~
+4 0 5897
+D2
+~
+~
+0 0 5852
+M 150 H 150
+S
+#5852
+A Main Path in Cold Rocks~
+The main path slowly diminishes as you arrive at a three way
+intersection.  A bit north is the Shaido Sweat Tent.  East and West are
+tents that house Maidens and Black Eyes.  
+~
+0 4194308 0
+D0
+~
+~
+0 0 5851
+D1
+~
+~
+0 0 5853
+D2
+~
+~
+0 5851 5859
+D3
+~
+~
+0 0 5854
+S
+#5853
+A Narrow Path to a Separate Tent~
+The path seems a bit narrow.  Further down the path you can see a figure
+standing outside a tent.  The sun's rays strike the floor of the path,
+warming it up a bit.  
+~
+0 4194308 0
+D1
+~
+~
+0 0 5855
+D3
+~
+~
+0 0 5852
+S
+#5854
+A Narrow Path to a Separate Tent~
+~
+0 4194308 0
+D1
+~
+~
+0 0 5852
+D3
+~
+~
+0 0 5857
+S
+#5855
+Nearing a Separate Tent~
+You near a Shaido tent and are approched by a Gai'shan.  The tent behind
+him seems to be closed for special purposes.  The Gai'shan looks at you and
+questions the orders she were given.  The ground seems a bit warm.  Faint
+noises can be heard coming from the tent.  
+~
+0 71303172 0
+D3
+~
+~
+0 0 5853
+D4
+~
+~
+4 5851 5856
+S
+#5856
+A Tent~
+Maidens of the Spear are here, vigorously training to hone in on their
+weaknesses and weaknesses, and perfect their fighting ability.  Spears lay
+scattered on the floor, as well as some veils that have been taken off. 
+Only the elite, female warriors are allowed to train here.  
+~
+0 205520896 0
+D5
+~
+~
+4 5851 5855
+S
+#5857
+Nearing a Separate Tent~
+~
+0 71303172 0
+D1
+~
+~
+0 0 5854
+D4
+~
+~
+4 5851 5858
+S
+#5858
+A Tent~
+~
+0 138412032 0
+D5
+~
+~
+4 5851 5857
+S
+#5859
+A Small Crevice~
+~
+0 4194308 0
+D0
+~
+~
+0 5851 5852
+D2
+~
+~
+4 5851 5860
+S
+#5860
+`4Sha`8i`4do`7's Store~
+`4Sha`8i`4do`7's store is waiting to be decorated and filled.~
+0 1024 0
+D0
+~
+~
+4 5851 5859
+D1
+~
+~
+0 0 5893
+D2
+~
+~
+0 0 5861
+D3
+~
+~
+0 0 5895
+S
+#5861
+A Main Path in Cold Rocks~
+~
+0 0 0
+D0
+~
+~
+0 0 5860
+D2
+~
+~
+0 0 5862
+S
+#5862
+A Main Path in Cold Rocks~
+~
+0 0 0
+D0
+~
+~
+0 0 5861
+D2
+~
+~
+0 0 5863
+S
+#5863
+At the Base of Cold Rocks Hold~
+~
+0 0 0
+D0
+~
+~
+0 0 5862
+D1
+~
+~
+0 0 5868
+D3
+~
+~
+0 0 5881
+D4
+~
+~
+0 0 5864
+S
+#5864
+Further Down the Canyon~
+~
+0 0 0
+D2
+~
+~
+0 0 5865
+D5
+~
+~
+0 0 5863
+S
+#5865
+A Narrow Path Leading to the Bottom~
+~
+0 0 0
+D0
+~
+~
+0 0 5864
+D4
+~
+~
+0 0 5866
+S
+#5866
+Path down the Small Canyon~
+~
+0 0 0
+D4
+~
+~
+0 0 5867
+D5
+~
+~
+0 0 5865
+S
+#5867
+At the Foot of Cold Rocks Hold~
+~
+0 0 0
+D5
+~
+~
+0 0 5866
+S
+#5868
+A Small Dirt Path~
+~
+0 0 0
+D1
+~
+~
+0 0 5869
+D3
+~
+~
+0 0 5863
+S
+#5869
+A Small Dirt Path~
+~
+0 0 0
+D3
+~
+~
+0 0 5868
+D4
+~
+~
+0 0 5870
+S
+#5870
+A Small Rocky Hill~
+~
+0 0 0
+D1
+~
+~
+0 0 5871
+D5
+~
+~
+0 0 5869
+S
+#5871
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D0
+~
+~
+0 0 5872
+D3
+~
+~
+0 0 5870
+S
+#5872
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D0
+~
+~
+0 0 5873
+D2
+~
+~
+0 0 5871
+S
+#5873
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D0
+~
+~
+0 0 5874
+D2
+~
+~
+0 0 5872
+S
+#5874
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D0
+~
+~
+0 0 5875
+D2
+~
+~
+0 0 5873
+S
+#5875
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D0
+~
+~
+0 0 5876
+D2
+~
+~
+0 0 5874
+S
+#5876
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D0
+~
+~
+0 0 5877
+D2
+~
+~
+0 0 5875
+S
+#5877
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D2
+~
+~
+0 0 5876
+D3
+~
+~
+0 0 5878
+S
+#5878
+A Small Rocky Hill~
+~
+0 0 0
+D1
+~
+~
+0 0 5877
+D5
+~
+~
+0 0 5879
+S
+#5879
+A Small Dirt Path~
+~
+0 0 0
+D3
+~
+~
+0 0 5880
+D4
+~
+~
+0 0 5878
+S
+#5880
+On the Side of the Sweat Tent~
+~
+0 0 0
+D1
+~
+~
+0 0 5879
+S
+#5881
+A Small Dirt Path~
+~
+0 0 0
+D1
+~
+~
+0 0 5863
+D3
+~
+~
+0 0 5882
+S
+#5882
+A Small Dirt Path~
+~
+0 0 0
+D1
+~
+~
+0 0 5881
+D4
+~
+~
+0 0 5883
+S
+#5883
+A Small Rocky Hill~
+~
+0 0 0
+D3
+~
+~
+0 0 5884
+D5
+~
+~
+0 0 5882
+S
+#5884
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D0
+~
+~
+0 0 5885
+D1
+~
+~
+0 0 5883
+S
+#5885
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D0
+~
+~
+0 0 5886
+D2
+~
+~
+0 0 5884
+S
+#5886
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D0
+~
+~
+0 0 5887
+D2
+~
+~
+0 0 5885
+S
+#5887
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D0
+~
+~
+0 0 5888
+D2
+~
+~
+0 0 5886
+S
+#5888
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D0
+~
+~
+0 0 5889
+D2
+~
+~
+0 0 5887
+S
+#5889
+Along the Bottom of the Canyon's Walls~
+~
+0 0 0
+D1
+~
+~
+0 0 5890
+D2
+~
+~
+0 0 5888
+S
+#5890
+A Small Dirt Path~
+~
+0 0 0
+D3
+~
+~
+0 0 5889
+D5
+~
+~
+0 0 5891
+S
+#5891
+A Small Rocky Hill~
+~
+0 0 0
+D1
+~
+~
+0 0 5892
+D4
+~
+~
+0 0 5890
+S
+#5892
+On the Side of the Sweat Tent~
+~
+0 0 0
+D3
+~
+~
+0 0 5891
+S
+#5893
+A Trail to a Small Tent~
+~
+0 0 0
+D1
+~
+~
+0 0 5894
+D3
+~
+~
+0 0 5860
+S
+#5894
+A Small Tent~
+~
+0 0 0
+D3
+~
+~
+0 0 5893
+S
+#5895
+A Trail to a Small Tent~
+~
+0 0 0
+D1
+~
+~
+0 0 5860
+D3
+~
+~
+0 0 5896
+S
+#5896
+A Small Tent~
+~
+0 67108864 0
+D1
+~
+~
+0 0 5895
+S
+#5897
+A Planning Room~
+The area is quite small, but large enough to accomodate the few important
+warriors of the Shaido tribe.  It is fairly dark since it's secluded from
+those who are not of true Aiel blood.  A small candle sits in the center of
+the room, radiating just enough so each warrior can recognize another's
+face.  The unseen, tent flap closes behind you and the room fills with utter
+silence.  
+~
+0 206046212 0
+D3
+~
+~
+3 0 5851
+M 150 H 150
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 5851 0 2
+D 0 5855 4 2
+D 0 5856 5 2
+D 0 5857 4 1
+D 0 5858 5 1
+D 0 5859 2 2
+D 0 5860 0 2
+D 0 5897 3 1
+M 0 5853 1 5851 1 100 Load Micara
+M 0 5858 1 5852 1 100 Load a Shaido Red Shield
+G 0 5855 0 0 0 100 A sword of training is given to a Shaido Red Shield
+G 0 5856 0 0 0 100 `7a shield of training is given to a Shaido Red Shield
+M 0 5855 1 5855 1 100 Load a Gai'shan of the Shaido
+M 0 5851 4 5856 4 100 Load a Maiden of the Spear
+M 0 5851 4 5856 4 100 Load a Maiden of the Spear
+M 0 5851 4 5856 4 100 Load a Maiden of the Spear
+M 0 5851 4 5856 4 100 Load a Maiden of the Spear
+M 0 5856 1 5857 1 100 Load a Gai'shan of the Shaido
+M 0 5852 4 5858 4 100 Load a Shaido Black Eyes
+M 0 5852 4 5858 4 100 Load a Shaido Black Eyes
+M 0 5852 4 5858 4 100 Load a Shaido Black Eyes
+M 0 5852 4 5858 4 100 Load a Shaido Black Eyes
+M 0 5857 1 5860 1 100 Load Anara the Shaido Warrior
+M 0 5859 4 5862 1 100 Load a Small Aiel Child
+M 0 5859 4 5868 1 100 Load a Small Aiel Child
+M 0 5859 4 5881 1 100 Load a Small Aiel Child
+M 0 5859 4 5894 1 100 Load a Small Aiel Child
+O 0 5852 0 5894 0 100 A rug loaded to A Small Tent
+M 0 5854 1 5896 1 100 Load Shaido Knife Hands
+E 0 5853 0 17 0 100 A deadly aiel spear is loaded wielded of Shaido Knife Hands
+G 0 5851 0 0 0 100 A small key is given to Shaido Knife Hands
+E 0 5854 0 21 0 100 A black veil is loaded on the face of Shaido Knife Hands
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#5851
+if clan $n 'shaido'
+mob transfer $n 5859
+tell $n My water is yours, $n.
+else
+say You are not of the shaido!
+kill $n
+break
+~
+#5855
+if clan $n 'blacktower'
+say I see you $n, may you find water and shade this day.
+mob transfer $n 5856
+else
+yell You aren't Shaido, $n!
+break
+endif
+~
+#5856
+if clan $n 'blacktower'
+say I'm sorry $n, only Maidens are allowed in there.
+else
+yell You are neither Shaido or female, $n!
+break
+endif
+~
+#5857
+if clan $n 'blacktower'
+say I see you $n, may you find water and shade this day.
+mob transfer $n 5858
+else
+yell You are not Shaido, $n!
+break
+endif
+~
+#5858
+if clan $n 'blacktower'
+say I'm sorry $n, Maidens aren't allowed in there.
+else
+yell You are neither Shaido or male, $n!
+endif
+break
+~
+#5859
+if clan $n 'shaido'
+say Dance the spears with honor, $n.
+give sword $n
+give shield $n
+else
+say I am sorry, this weapon is for Shaido's training.
+break
+endif
+~
+#5860
+if clan $n 'blacktower'
+whisper $n May you dance the spears with great honor, $n.
+mob transfer $n 5897
+break
+endif
+~
+#5861
+if clan $n 'shaido'
+bow $n
+else
+yell We have an intruder!
+emote folds his arms across his chest.
+emote says ominously, 'Turn away now, unless you would dance.'
+mob delay 7
+kill $n
+endif
+~
+#5862
+if clan $n tinker
+say The way of the leaf cannot be found here.
+kill $n
+else
+peer $n
+break
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

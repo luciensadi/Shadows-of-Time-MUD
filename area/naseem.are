@@ -1,0 +1,6234 @@
+#AREADATA
+Name Rhuidean~
+Builders Demandred Hornsby~
+VNUMs 6500 6775
+Credits `4[`* Lowbie `4]`* Demandred      Rhuidean~
+Security 10
+Flags EF
+Version 4
+End
+
+
+
+#MOBILES
+#6500
+Mother Alnora~
+Mother Alnora~
+Mother Alnora is here to heal the sick and needy.
+~
+A woman with gray hair and yet with a face of a middle-aged woman is
+beaming a motherly smile down at you.  You feel comfortable around her and
+she seems like a nice person.  She is known for being able to heal all sorts
+of diseases with her herbs and that she brought a man back to life once. 
+All gossip of course.  
+~
+unique~
+0 0
+ABGJKQRUab 336 1024 0 0 -1  0 0
+100 500 50d100+10000 50d100+1000 20d20+100 slash
+-150 -150 -150 -150
+CDFHIKNO ABCD 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#6501
+Aleis Carand~
+Aleis Carand~
+Aleis Carand, the herb specialist is here tending to the sick as well as selling herbs and liquid concoctions.
+~
+Aleis Carand is a young pretty woman with red hair and dull blue eyes. 
+She is taller than most men in the city and looks down at you whenever you
+approach her.  She is a specialist with herbs and is selling potions to make
+some profit of her knowledge.  
+~
+aiel~
+0 0
+ABQR 336 1024 0 0 -1  0 0
+100 50 10d100+5000 10d100+3000 10d10+350 slash
+-100 -100 -100 0
+CFHIJKO ABCD 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#6502
+TestMob65~
+TestMob65~
+A Test Mob is waiting here to be attacked.
+~
+Boo
+~
+ghealdan~
+0 0
+ABGZ 0 16 0 0 -1  -1000 0
+85 65 50d15+4500 1d1+1 2d7+36 wrath
+-30 -30 -30 -40
+FIN ABH Jab EFIQ
+stand stand none 100
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#6503
+TestMob50 Test~
+TestMob50~
+Testmob50 is waiting here to be tested.
+~
+~
+unique~
+0 0
+ABGZ 1024 0 0 0 -1  -1000 0
+90 60 50d15+4000 1d1+1 2d7+30 wrath
+-27 -27 -27 -37
+FIN ABH Jab ELNQ
+stand stand none 100
+HMV BCDEFGHIM medium unknown
+#6504
+TestMob75 Test~
+TestMob75~
+TestMob75 is waiting to be tested.
+~
+~
+unique~
+0 0
+AGZ 1024 0 0 0 -1  -1000 0
+117 72 10d50+5000 1d1+1 2d7+43 wrath
+-40 -40 -40 -50
+FIN ABH Jab EL
+stand stand none 100
+HMV CDEFGHIM medium unknown
+#6505
+Dearn~
+Dearn~
+An old man is moving slowly down the stairs.
+~
+A very old man is slowly moving down the stairs. One hand is 
+grasping the hand rail, giving him support, the other hand 
+is using a cane.
+~
+ghealdan~
+0 0
+ABGRZ 16 64 0 32768 -1  -500 0
+115 80 8d50+4800 115d10+100 1d7+50 wrath
+-100 -100 -100 -115
+AJK HJY CE F
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6506
+A lost trolloc~
+Lost trolloc~
+A trolloc is wandering around here looking confused
+~
+A large trolloc with the head of a wolf is wandering around here.
+It looks totally confused, having been separated from the others 
+of its fist.
+~
+troll~
+0 0
+AFHZ 0 1024 0 0 -1  -1000 0
+90 75 60d10+4500 20d8+50 3d7+28 grep
+-30 -30 -30 -50
+DFH FLQ BEHI HJKNP
+stand stand male  1
+ABGHMV ABCDEFGHIJKQUV medium unknown
+#6507
+A wild stallion~
+Wild stallion~
+A wild horse is cantering around here.
+~
+A large wild stallion is cantering around the fields here.
+It is fully twenty hands high, and looks to be a mighty 
+animal.
+~
+pig~
+0 0
+ADWZ 0 64 0 0 -1  0 0
+90 80 30d20+3000 1d10+1 5d8+60 charge
+-35 -35 -35 -30
+FHIO IOPZ AB Lb
+stand stand male  0
+AGV ACDEFHJK medium unknown
+#6508
+Wild boar~
+A wild boar~
+One of a large group of wild boars is here.
+~
+A large and mean looking boar is roaming the paddock
+looking for food. It is a part of a much larger
+group, this may cause some problems.
+~
+pig~
+0 0
+ABDFWZ 64 2048 0 0 -1  -100 0
+60 40 10d230+2500 1d1+30 4d15+30 charge
+-25 -25 -25 -35
+DFNOR BCIQ AO F
+stand stand male  0
+AGV ACDEFHJK medium unknown
+#6509
+Smuggler's leader~
+The lead smuggler~
+A slim and intimidating woman is standing in the shadows here.
+~
+Someone is standing within the shadows of this chamber, it
+is difficult to discern who or what it is. Whatever or
+whomever it is, radiates meanace.
+~
+illian~
+0 0
+ABGRZe 404 2 0 0 -1  -1000 0
+250 105 60d15+30000 250d10+100 50d1+100 slash
+-115 -115 -115 -100
+CHIJKN ABHI ELZ J
+stand stand female 4
+AHMV ABCDEFGHIJK medium unknown
+#6510
+Smuggler lieutenant~
+A small woman~
+A small woman dressed in soft leather is here.
+~
+A small woman who is dressed in leather is here, hiding
+in the shadows. She radiates a calm authority.
+~
+ghealdan~
+0 0
+ABFZe 20 64 2048 0 -1  -1000 0
+150 128 50d20+4500 150d10+100 5d7+84 pierce
+-90 -90 -95 -105
+U ABPb EY O
+stand stand female 2
+AHMV ABCDEFGHIJK medium unknown
+#6511
+Toren~
+Toren~
+A tall man is standing here, watching closely anyone who enters.
+~
+A tall man is standing in the room, watching anyone who
+enters the household. His demeanor suggests that he does
+not like visitors.
+~
+altara~
+0 0
+ABYZ 0 2048 0 0 -1  -50 0
+90 75 50d15+6000 90d10+100 5d10+100 stab
+-90 -90 -90 -75
+CFIK BCKP JQ b
+stand stand male  5
+AHMV ABCDEFGHIJK medium unknown
+#6512
+Neres~
+Neres~
+A rather tall man is standing by the table here.
+~
+A rather tall and distinguished looking man is standing
+next to a table. He is looking over a scroll on the 
+table
+~
+murandy~
+0 0
+AFGSZe 64 2 0 0 -1  -150 0
+105 89 5d7+40 90d20+100 5d10+50 claw
+-100 -100 -100 -95
+BFGHKN BEFKT CX LP
+stand stand male  6
+AHMV ABCDEFGHIJK medium unknown
+#6513
+Ships captain~
+A ships captain~
+A short stocky woman is leaning against the rail here.
+~
+A short stock woman is leaning on the rail here and yelling
+orders at the sailors below, working at unloading the ships
+hold.
+~
+saldaea~
+0 0
+ABTWZ 16392 65 0 0 -1  500 0
+86 75 50d10+3800 88d10+80 5d8+45 whip
+-85 -85 -85 -70
+CDHJKN FNPR Qb Z
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#6514
+A sailor~
+A sailor~
+A swarthy man is wandering the docks here.
+~
+A young man is wandering around the docks, his skin is deeply tanned.
+He looks over his shoulder frequently to see who is
+coming behind him.
+~
+illian~
+0 0
+AGZ 0 65 0 0 -1  -50 0
+60 55 10d200+1500 10d10+50 6d10+30 none
+-70 -70 -70 -55
+CFJKN BFOR AM a
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6515
+A baker~
+A baker~
+A middle aged man is here, dressed in a white apron and carrying a large wooden paddle.
+~
+A middle aged man is moving purposely aroung the bakery, his face is
+ruddy and his apron a little dirty. He is carrying a large wooden 
+paddle and is wearing a pair of mitts.
+~
+tarabon~
+0 0
+ABH 0 2112 0 0 -1  100 0
+60 70 10d180+1200 60d5+50 5d10+45 pound
+-75 -75 -75 -90
+0 EHJO JZ I
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6516
+Baker's wife~
+The baker's wife~
+A large woman with a crisp white apron is here.
+~
+A portly woman is moving about the shop placing various types
+of bread. She moves rather deftly for a large woman.
+~
+altara~
+0 0
+ABHZ 64 0 0 8192 -1  100 0
+60 75 10d200+1000 40d5+80 30d2+40 scratch
+-60 -60 -60 -70
+CDFO EHJOZ AB I
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#6517
+A seamstress~
+A seamstress~
+A young woman is here carrying a bolt of material over her arm.
+~
+This young woman is carrying a length of material over her arm.
+She also has some needles and pins stuck to the breast of her
+blouse, and a thimble on her thumb
+~
+andor~
+0 0
+AGZ 16 64 0 0 -1  500 0
+85 85 10d200+1500 50d10+80 10d15+45 prick
+-85 -85 -85 -70
+FGHIN ABFO TY E
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#6518
+Tailor~
+A tailor~
+A small and bouncy young man is dodging obstacles here.
+~
+A young man with pins and needles stuck in his shirt and carrying
+a rather large pair of scissors is waiting for customers.
+~
+cairhien~
+0 0
+ACHZ 0 1 0 0 -1  -200 0
+65 55 10d200+1500 65d5+55 6d12+30 pierce
+-50 -50 -50 -45
+GHIJKN BOYZ A Q
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6519
+Dearn~
+Dearn~
+A shady looking middle aged old man is here.
+~
+A rather evil and not entirely trustworthy looking man looks fiercely
+at any one moving into the room.
+~
+shienar~
+0 0
+ABFTZ 0 64 0 0 -1  -500 0
+125 100 15d100+1500 120d5+85 50d2+30 slice
+-100 -100 -100 -125
+BCFIJK FIKM BL E
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6520
+blacksmith~
+A blacksmith~
+A large, powerfully built man is here.
+~
+A large and well muscled man is working a forge, pumping a bellows with
+slow steady strokes he keeps the coals glowing white.
+~
+andor~
+0 0
+ABGZ 64 0 0 4 -1  -200 0
+90 85 50d15+3000 10d100+50 6d8+50 crush
+-90 -90 -90 -110
+CEIKO EHKZ CY I
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6521
+Blacksmith's apprentice~
+Blacksmith' apprentice~
+A young and well muscled man is here.
+~
+A young and powerful young man is rhythmically swinging a large hammer,
+pounding on a piece of hot metal that is placed on an anvil
+~
+andor~
+0 0
+ACG 144 2048 0 0 -1  -100 0
+65 60 12d200+1500 60d5+45 4d7+35 crush
+-85 -85 -85 -70
+0 EHJKZ Y I
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6522
+Grocer~
+A grocer~
+A middle aged man is filling the displays.
+~
+A man of average size is wandering about the store refilling the shelves
+and just generally tiding up the displays. A large cleaver is hanging
+from his belt.
+~
+altara~
+0 0
+AGH 32800 0 0 0 -1  -200 0
+80 65 15d200+4500 2d100+100 2d10+50 chop
+-110 -110 -110 -90
+GIJKN FGIJL BC 0
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#6523
+Mull~
+Mull~
+An ancient looking man is here.
+~
+A well preserved man is slowly moving around the room, there is little
+flesh covering his bones. It is a wonder that he is still alive.
+~
+arafel~
+0 0
+ABFSZ 16 64 0 0 -1  -200 0
+85 70 15d200+3500 85d10+100 4d7+40 thwack
+-110 -110 -110 -90
+0 ABCO HL 0
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6524
+A hawker~
+A hawker~
+A scruffy and unkempt man is here, selling his wares
+~
+This dirty man is attempting to sell his wares, most of which look
+to be rather inferior in quality.
+~
+murandy~
+0 0
+ABCGH 80 0 0 0 -1  -1000 0
+70 65 10d169+1000 85d10+100 10d12+35 pierce
+-85 -85 -85 -90
+FGHIJK ABTY JQ R
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6525
+A hawker~
+A female hawker~
+A very dirty woman is standing behind a table full of goods here.
+~
+A woman who looks like she has not bathed in months is attempting
+to sell the goods on the table in front of her.
+~
+murandy~
+0 0
+ABCH 80 64 0 0 -1  -1000 0
+85 70 12d190+2500 60d20+80 12d10+35 scratch
+-105 -105 -105 -110
+FGHJKN ABFJ IR H
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#6526
+A strongarm~
+The inn's strongarm~
+A large and strong man is here.
+~
+A huge man is standing quietly in the corner observing every one
+in the room. His arms are crossed in front of his chest.
+~
+murandy~
+0 0
+ABGT 272 0 32768 0 -1  -1000 0
+130 110 50d20+5000 100d10+100 4d7+50 crush
+-120 -120 -120 -110
+CDEFKO BEMOT AJ b
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6527
+Customs officer~
+A customs officer~
+A bored looking man is here stamping papers.
+~
+A man is stamping papers and then waving people past, occassionally
+he stands up and checks through some packages and bundles.
+~
+tear~
+0 0
+ABGR 336 64 0 0 -1  -500 0
+150 120 50d20+8500 150d50+100 8d10+80 wrath
+-150 -150 -150 -160
+DEFGIJK ABGPR IJa H
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+#6528
+A dock worker~
+A dock worker~
+A sneaky looking young man is lurking here.
+~
+A young man is lurking around the dock, instead of working. There will
+be hell to pay if his boss finds out.
+~
+arad_domon~
+0 0
+ACGH 68 67 0 0 -1  -450 0
+80 0 12d200+1100 10d10+50 10d10+50 stab
+-70 -70 -70 -80
+BDGHIKN GIRYa FOX B
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6529
+A fisherman~
+An ancient fisherman~
+An ancient man is here, dangling a line in the water.
+~
+An ancient old man is sitting on the edge of the docks. A line
+dangling from his hands, into the water. A tub is sitting beside
+him.
+~
+kandor~
+0 0
+ABCGRT 80 3 0 0 -1  1000 0
+150 130 50d10+6500 100d10+300 5d7+50 blast
+-150 -150 -150 -200
+ACDEFGHK BIJRY AKQ 0
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+#6530
+A shopper~
+A shopper~
+A middle aged woman is on a shopping spree here.
+~
+This woman has a frenzied look on her face as she moves quickly
+from shop to shop and stall to stall looking for bargains.
+~
+amadicia~
+0 0
+AGH 0 3072 0 0 -1  -500 0
+80 70 50d10+3500 10d10+100 2d7+40 scratch
+-90 -90 -90 -95
+GHJKN ABHO JP 0
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#6531
+A goldsmith~
+A goldsmith~
+A wrinkled old man is here, engraving a gold cup.
+~
+An old man is leaning intently over a work bench engraving something
+into a gold chalice. Concetration is written all over his face.
+~
+amadicia~
+0 0
+ABGHQ 80 64 0 0 -1  -1000 0
+90 75 50d15+9500 40d10+300 5d10+80 slice
+-120 -120 -120 -140
+CDGKN BFHKP YZ 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#6532
+A silversmith~
+The silversmith~
+A small man is working a silver ingot.
+~
+A small man with nimble fingers is working away at an ingot
+of silver. On the work bench beside him are a number of items
+worked in silver. Some are of solid silver others are only
+laced with it. Looking at the man, he seems plain enough, 
+except for the concentration on his face.
+~
+illian~
+0 0
+ABGHRT 272 1024 32768 0 -1  -1000 0
+120 90 60d20+8000 10d10+500 8d7+50 slice
+-150 -150 -150 -130
+CDFGKN FGKY HJZ 0
+stand stand male  1000
+AHMV ABCDEFGHIJK medium unknown
+#6533
+A tannery worker~
+A tannery worker~
+A man with dark stained skin is here.
+~
+A big man is stirring a stinking mixture with a large paddle. His skin
+is very dark in colour, the occassionaly flash of covered skin, shows
+white skin. He is only wearing a pair of leather pants and
+a leather apron with a short vest under that.
+~
+seanchan~
+0 0
+ABFGT 128 2112 0 8 -1  -1000 0
+150 130 60d15+10200 100d10+300 5d7+50 pound
+-160 -160 -160 -140
+ACIJKOU FHKMR Ja BI
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6534
+An inn's patron~
+An inn's patron~
+A rather tipsy man is weaving his way through the crowd.
+~
+A man is weaving his way, a little unsteadily, through the crowded inn.
+He bumps into more patrons than those that he misses. His eyes look a 
+little unfocused and his face is some what reddened.
+~
+arafel~
+0 0
+ABG 0 2050 0 0 -1  300 0
+80 70 50d10+2500 10d10+50 8d10+45 thrust
+-75 -75 -75 -60
+ACJNO FKRT HQ B
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6535
+A waitress~
+A waitress~
+A harried loooking woman is carrying drinks around here.
+~
+Weaving through the crowd with a tray full of drinks, a harried
+looking young waitress is trying to keep up to the orders. She is
+a rather good looking young woman, with long blonde hair and 
+piercing green eyes.
+~
+tarabon~
+0 0
+ABCGH 8 64 0 0 -1  -200 0
+80 65 40d20+1100 10d10+100 4d10+50 thrust
+-80 -80 -80 -100
+EFGJKN ABJPT FN 0
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#6536
+The cook~
+The cook~
+A large woman is standing here, stirring the pots
+~
+A fat old lady is pottering around the kitchen preparing meals.
+She has a large spoon in one hand and is playing with a large
+kitchen cleaver in the other.
+~
+altara~
+0 0
+ABFGH 0 0 0 4 -1  500 0
+90 85 50d10+2300 90d100+100 4d8+45 cleave
+-150 -150 -150 -110
+CFIKO HIJO MX BG
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+#6537
+A smuggler~
+A smuggler~
+A young and seedy lookin man is here.
+~
+A scruffy young man is moving cautiously through the shadows
+of the area. His eyes are constantly scanning around for 
+anything different in the vicinity. Most of his movements are
+slow and deliberate, except those of his hands. His hands move
+quickly and often jerkily as if reacting to some unseen stimulae.
+~
+illian~
+0 0
+AFGT 272 1088 0 0 -1  -1000 0
+180 150 60d15+4500 90d100+200 4d10+60 thrust
+-170 -170 -170 -190
+CEFGJK BEFGQ HJ Y
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6538
+A sneak thief~
+A sneak thief~
+A form can be just be seen creeping along a wall here.
+~
+Someone can be seen creeping along a wall, moving quietly within
+the shadows. It is difficult to tell whether it is male or female,
+because it is enclosed in a large shapeless cloak.
+~
+arad_domon~
+0 0
+ACGHS 212 67 0 0 -1  -500 0
+140 100 70d20+5000 130d10+300 5d10+50 pierce
+-150 -150 -150 -160
+ABFGJKU BELQ JY NT
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#6539
+Drunken sailor~
+Drunken sailor~
+A barefooted man with a swaying gait is stumbling around here.
+~
+A man is stumbling along here, he is barefooted and is wearing
+a sleeveless vest. The exposed areas of his skin are heavily
+tanned and weather beaten. His walk is that rolling gait
+seen on horsemen and sailors.
+~
+seanchan~
+0 0
+ACFGHTe 0 2051 0 0 -1  -300 0
+100 85 40d20+3500 100d10+100 2d10+40 pound
+-105 -105 -105 -100
+AFIJNO EHMRZ Kb JT
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6540
+The window shopper~
+A window shopper~
+A frantic woman is charging around here.
+~
+A woman is racing around looking for bargians, she is in her middle years
+and is dressed in well made clothes. There is a frantic look on her face
+as she runs around the stalls, she obviously takes her shopping seriously.
+~
+tear~
+0 0
+ACFGHe 0 2048 0 0 -1  -200 0
+90 80 10d169+1100 90d10+100 8d12+40 slap
+-110 -110 -110 -100
+CFGHIN ABHIK TY OQ
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#6541
+Side street chef~
+A side street chef~
+The woman here is preparing and selling food from a stall.
+~
+A chef is standing behind a table next to a large brazier. She is turning
+some types of meat over the open flame. She has on a greasy apron, and is 
+has a large fork in one hand a spatula in the other. Her hair is greasy 
+and her face is covered in grease and ash.
+~
+aiel~
+0 0
+ABCHRT 80 0 0 4 -1  -500 0
+100 90 10d400+3000 100d20+200 8d10+40 cleave
+-125 -125 -125 -130
+ACEFJKN EFHJOZ B I
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#6542
+Drunk patron~
+Drunk patron~
+A drunken man is staggering all over the way here.
+~
+~
+ghealdan~
+0 0
+ACFGH 0 2112 0 0 -1  -100 0
+110 100 40d20+2500 100d20+100 4d7+50 charge
+-120 -120 -120 -100
+ACFGIN BEIRZ H T
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6543
+A performing gleeman~
+Performing gleeman~
+A tall man in a multi-coloured coat is performing here.
+~
+A man is standing here swirling his multi-colured and patched cloak
+around. He has black hair with streaks of white at the temples, and
+his eyes are the colour of slate. His mouth is partially hidden by
+a huge drooping mustache, and there are many laugh lines around his
+eyes. His voice seems to be coming from every part of the room, and 
+it alters pitch and timbre continuously. 
+~
+andor~
+0 0
+ABGT 0 1089 0 0 -1  1000 0
+200 150 80d15+6500 10d100+10 10d10+40 stab
+-200 -200 -200 -170
+EFGHJK ABEJOT H 0
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#6544
+A merchant~
+A merchant~
+A richly dressed woman is standing here.
+~
+~
+tarabon~
+0 0
+AGR 0 2112 0 0 -1  -200 0
+110 90 50d20+7000 10d100+100 3d7+50 pierce
+-130 -130 -130 -150
+AEFJK CHJOP B G
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#6545
+no name~
+A bored merchant~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6546
+no name~
+A household maid~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6547
+no name~
+An eel~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6548
+no name~
+A hunting eagle~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6549
+no name~
+A nesting water bird~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6550
+no name~
+A lazy guard~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#6500
+Comfortable Bed~
+a Comfortable Bed in Mother Alnora's Home~
+A comfortable bed is here that is used to help heal the sick back to health.~
+unknown~
+furniture 0 0
+0
+B DFGHIJ HK DGH DGH
+0 0 0 P
+ T 0 none~
+#6501
+Cupboard~
+a Cupboard~
+A cupboard behind the herb specialist holding unknown things is here.~
+wood~
+container 0 0
+0
+1000 ABCD 6502 10 50
+150 100 100 P
+ T 0 none~
+#6502
+Cupboard Key~
+`7Cupboard Key~
+A key that goes to the cupboard in Mother Alnora's home.~
+unknown~
+key FHTU A
+0
+0 0 0 0 0
+10 50 5000 P
+ T 0 none~
+#6503
+doon dai ticket~
+not a ticket anymore~
+This ticket can't be used for anything.~
+unknown~
+potion 0 A
+0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 10 0 P
+ T 0 none~
+#6504
+Upstairs Key~
+a Trapdoor Key~
+You see a key that was stolen from Mother Alnora's home.~
+metal~
+key FTa A
+0
+0 0 0 0 0
+110 10 5000 P
+ T 0 none~
+#6505
+A banana chair~
+a large foldable plastic chair is here.~
+A large foldable chair~
+unknown~
+furniture M 0
+0
+C DFGHIJ EHK BCEH BCEH
+0 1000 1000 P
+ T 0 none~
+#6506
+A large belt pouch~
+a large belt pouch~
+A large cloth sack is here, it looks like it will fit on a belt.~
+unknown~
+container ABG AU
+0
+100 A 0 20 10
+50 20 100 P
+A
+20 -5
+A
+18 5
+A
+19 5
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#6500
+Dusty Gravel Road~
+You come upon a road that is considerably wide.  You can tell the
+hard-packed dirt road has been used often, yet note recently.  Trees line
+the road on either side blocking much of the view ahead of you.  Many cart
+tracks and footprints lead eastward toward something you will have to see
+for yourself.  
+~
+0 0 8
+D0
+~
+~
+0 0 6501
+S
+#6501
+Dusty Gravel Road~
+Continuing along the hard-packed dirt road more tracks begin to appear
+going eastward.  A strong breeze blows creates a tiny twister of dirt on the
+path.  The breeze moves some of the trees and one would be able to see
+something white up ahead if they look.
+~
+0 0 8
+D1
+~
+~
+0 0 6502
+D2
+~
+~
+0 0 6500
+S
+#6502
+Dusty Gravel Road~
+Continuing along the dirt road and the breeze that is going westward
+seems to become a little stronger than before.  The leatherleaf trees are
+back in place and nothing can be seen up ahead but wooded land.  All that
+you can see besides the trees in your path is a glimmer of the sun beaming
+down on you.  
+~
+0 0 8
+D1
+~
+~
+0 0 6503
+D3
+~
+~
+0 0 6501
+S
+#6503
+Dusty Gravel Road~
+Continuing along the hard-packed dirt road one could notice that the
+leatherleaf trees are becoming less and the area is not as densely wooded as
+before.  Glancing towards the west all you can see are trees behind the
+path.  Eastward is something that resembles a bridge.  
+~
+0 0 8
+D1
+~
+~
+0 0 6504
+D3
+~
+~
+0 0 6502
+S
+#6504
+Dusty Gravel Road~
+Eastward on the hard-packed dirt road is something that slightly
+resembles a bridge or staircase.  However, up ahead it seems like it looks
+more like a very big and thick cloud.  Westward is too dense with trees to
+see anything but a dirt path and some tiny critters.  
+~
+0 0 8
+D1
+~
+~
+0 0 6505
+D3
+~
+~
+0 0 6503
+S
+#6505
+Dusty Gravel Road~
+Eastward on this hard-packed dirt road a large cloud that resembles a
+staircase or bridge upward is in plain sight for a few seconds.  However,
+all of a sudden everything disappears and all that can be seen by the human
+eye is flat land.  
+~
+0 0 8
+D1
+~
+~
+0 0 6506
+D3
+~
+~
+0 0 6504
+S
+#6506
+Dusty Gravel Road~
+Westward all that can be seen are leatherleaf trees for as far as the eye
+can see.  Nothing can be seen eastward all that is there is flat land and
+what you think might be a path downward.  Little critters are litter the
+floor and even though they cannot speak or communicate they seem to urge all
+other living things to continue eastward.  
+~
+0 0 8
+D1
+~
+~
+0 0 6507
+D3
+~
+~
+0 0 6505
+S
+#6507
+Dusty Gravel Road~
+Westward is packed as much as possible with leatherleaf trees and not
+much more than half a mile can be seen.  Eastward something ahead slightly
+shifts.  It almost looks like a fold in the air which is impossible.  Many
+of the critters continue to go eastward where they seem to be beckoned by
+something strange.  
+~
+0 0 8
+D1
+~
+~
+0 0 6508
+D3
+~
+~
+0 0 6506
+S
+#6508
+Dusty Gravel Road~
+Westward is covered in leatherleaf trees and impossible to see much more
+than a mile.  Eastward does not have many trees except for a few pine trees
+on the sides of the road.  You can see something shift quite a bit eastward.
+It looks like a curved line in the air which seems very odd.  As if reality
+is changing and folding.  
+~
+0 0 8
+D1
+~
+~
+0 0 6509
+D3
+~
+~
+0 0 6507
+S
+#6509
+Dusty Gravel Road~
+Westward is littered with tons of trees and it is impossible to see more
+than a mile to the west.  Eastward, there is a curved line folding in the
+air.  It seems to shift most when strong breezes come from the east and blow
+westward.  It almost seems like its an invisible curtain.  
+~
+0 0 8
+D1
+~
+~
+0 0 6581
+D3
+~
+~
+0 0 6508
+S
+#6510
+Kitchen of The River Bend~
+This is the kitchen of the River Bend where gourmet food is being cooked.
+The food smells and looks delicious even as its being cooked.  A fat cook is
+stirring a pot while two other tall and skinny cooks do most of the work. 
+North of here is the bar and the common room.  
+~
+0 4 8
+D0
+~
+~
+0 0 6755
+S
+#6511
+Hornsby's bush hut~
+This is a dilapidated old hut, made from a crazy collection of wood, iron
+and plastic.  A wonky looking bunk can be seen in the corner, along with its
+threadbare mattress.  From outside the howls of dingoes can be heard, the
+grunts of possums and other night life of the Australian bush.  A fire place
+is positioned in one wall, where a fire burns brightly and several pots hang
+from hooks over the fire.  
+~
+0 138412044 3
+S
+#6512
+A hallway leading nowhere.~
+The walls of this hallway all look exactly the same, it gives the
+appearance of on long and endless hall.  There are no paintings or any other
+wall hangings to be seen.  Neither can any sort of furniture be noticed any
+where.  
+~
+0 8 0
+D1
+~
+~
+1 0 6655
+D3
+~
+~
+0 0 6513
+S
+#6513
+Continuation of the hallway~
+The hallway still appears to be running in a straight line, but it is
+hard to tell.  Monotonous and boring are good descriptions of the hall. 
+Glancing back, no doorway can be seen leading into the hall, and no can be
+seen leading off the hall.  An endless journey lies ahead.  
+~
+0 8 0
+D1
+~
+~
+0 0 6512
+D3
+~
+~
+0 0 6514
+S
+#6514
+Endless hallway~
+There is no interruption in the dull gray colored walls.  No paintings,
+tapestries or doors.  The hall stretches in both directions as far as the
+eye can see.  No noises can be heard coming from any where in this hall way,
+and no breeze or shifting of the air.  
+~
+0 8 0
+D1
+~
+~
+0 0 6513
+D3
+~
+~
+0 0 6512
+S
+#6515
+The endless hallway~
+This hallway is still going, the bleakness of the featureless walls is
+mind numbing.  Will the boredom and monotony of this hall never end.  Still
+no sign of life to be seen or heard, where is the hall heading.  
+~
+0 8 0
+D1
+~
+~
+0 0 6514
+D3
+~
+~
+0 0 6516
+S
+#6516
+The endless hall.~
+Ahhh, something looks different up ahead.  Perhaps the hall is coming to
+an end.  There is still no relief from the plain walls, nothing to break
+them boredom.  Maybe all will be well.  
+~
+0 8 0
+D1
+~
+~
+0 0 6515
+D3
+~
+~
+0 0 6512
+S
+#6517
+Inside the Western Gates~
+A beautiful golden gate lies to the west.  Imbued are precious stones of
+all kinds.  There are rubies, emeralds, sapphires, and diamonds glittering
+in the sunlight.  East of here lies the Naseem Island.  An amazing chunk of
+rock and dirt floating in air.  How it came to be is still a mystery.  
+~
+0 0 9
+D1
+~
+~
+0 0 6587
+D3
+~
+~
+1 0 6586
+S
+#6518
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the north you can see a bunch of shops and merchants.  To the
+south you can see most of the houses.  
+~
+0 0 1
+D0
+~
+~
+0 0 6523
+D1
+~
+~
+0 0 6519
+D2
+~
+~
+0 0 6533
+D3
+~
+~
+0 0 6589
+S
+#6519
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+northward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6532
+D1
+~
+~
+0 0 6520
+D2
+~
+~
+0 0 6539
+D3
+~
+~
+0 0 6518
+S
+#6520
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+southward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6531
+D1
+~
+~
+0 0 6521
+D2
+~
+~
+0 0 6540
+D3
+~
+~
+0 0 6519
+S
+#6521
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  A bunch of merchants are in this square but you think you see a
+majority of them lined up in a street to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 6530
+D1
+~
+~
+0 0 6522
+D2
+~
+~
+0 0 6541
+D3
+~
+~
+0 0 6520
+S
+#6522
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+southward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6529
+D1
+~
+~
+0 0 6661
+D2
+~
+~
+0 0 6542
+D3
+~
+~
+0 0 6521
+S
+#6523
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the north you can see a bunch of shops and merchants.  To the
+south you can see most of the houses.  
+~
+0 0 1
+D0
+~
+~
+0 0 6524
+D1
+~
+~
+0 0 6532
+D2
+~
+~
+0 0 6518
+S
+#6524
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the west is the path to the docks where merchant ships are
+coming in, and to the north is a bunch of shops and merchants.  
+~
+0 0 1
+D0
+~
+~
+0 0 6623
+D1
+~
+~
+0 0 6525
+D2
+~
+~
+0 0 6523
+D3
+~
+~
+0 0 6543
+S
+#6525
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the west is the path to the docks where merchant ships are
+coming in.  All the inns are also in this square and you can see one to the
+north called the Wayfarer's Rest.  
+~
+0 0 1
+D0
+~
+~
+0 0 6590
+D1
+~
+~
+0 0 6526
+D2
+~
+~
+0 0 6532
+D3
+~
+~
+0 0 6524
+S
+#6526
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the west is the path to the docks where merchant ships are
+coming in.  All the inns are also in this square and you can see one to the
+south.  
+~
+0 0 1
+D1
+~
+~
+0 0 6527
+D2
+~
+~
+0 0 6531
+D3
+~
+~
+0 0 6525
+S
+#6527
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  A bunch of merchants are in this square but you think you see a
+majority of them lined up northward at Hawker's Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6611
+D1
+~
+~
+0 0 6528
+D2
+~
+~
+0 0 6530
+D3
+~
+~
+0 0 6526
+S
+#6528
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the west is the path to the docks where merchant ships are
+coming in.  All the inns are also in this square and you can see one to the
+south.  
+~
+0 0 1
+D2
+~
+~
+0 0 6529
+D3
+~
+~
+0 0 6527
+S
+#6529
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+southward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6528
+D2
+~
+~
+0 0 6522
+D3
+~
+~
+0 0 6530
+S
+#6530
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  A bunch of merchants are in this square but you think you see a
+majority of them lined up in a street to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 6527
+D1
+~
+~
+0 0 6529
+D2
+~
+~
+0 0 6521
+D3
+~
+~
+0 0 6531
+S
+#6531
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+southward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6526
+D1
+~
+~
+0 0 6530
+D2
+~
+~
+0 0 6520
+D3
+~
+~
+0 0 6532
+S
+#6532
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+northward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6525
+D1
+~
+~
+0 0 6531
+D2
+~
+~
+0 0 6519
+D3
+~
+~
+0 0 6523
+S
+#6533
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  To the north you can see a bunch of shops and merchants.  To the
+south you can see most of the houses.  
+~
+0 0 1
+D0
+~
+~
+0 0 6518
+D1
+~
+~
+0 0 6539
+D2
+~
+~
+0 0 6534
+S
+#6534
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes to this city needs to pass through this square in order
+to leave.  To the south you can see a bunch of houses.  Southward is the
+beginning of Leatherleaf Street, and far to the east is the beginning of
+Cedan Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6533
+D1
+~
+~
+0 0 6535
+D2
+~
+~
+0 0 6624
+S
+#6535
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes to this city needs to pass through this square in order
+to leave.  Far to the north you can see one of the many inns in this city,
+and far to the east is the beginning of Cedan Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6539
+D1
+~
+~
+0 0 6536
+D3
+~
+~
+0 0 6534
+S
+#6536
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes to this city needs to pass through this square in order
+to leave.  To the south is the entrance to an inn named The River's Bend,
+and a little to the east is the beginning of Cedan Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6540
+D1
+~
+~
+0 0 6537
+D2
+~
+~
+0 0 6754
+D3
+~
+~
+0 0 6535
+S
+#6537
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  A bunch of merchants are in this square and you think you can see
+a few more in a street far to the north.  A little to the east lies the
+beginning of Cedan Street as well as the back door to a building.  
+~
+0 0 1
+D0
+~
+~
+0 0 6541
+D1
+~
+~
+0 0 6538
+D3
+~
+~
+0 0 6536
+S
+#6538
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes to this city needs to pass through this square in order
+to leave.  To the south is the entrance to an inn named The Drunken Chorus,
+and to the east is the beginning of Cedan Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6542
+D1
+~
+~
+0 0 6641
+D2
+~
+~
+0 0 6763
+D3
+~
+~
+0 0 6537
+S
+#6539
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+northward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6519
+D1
+~
+~
+0 0 6540
+D2
+~
+~
+0 0 6535
+D3
+~
+~
+0 0 6533
+S
+#6540
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+southward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6520
+D1
+~
+~
+0 0 6541
+D2
+~
+~
+0 0 6536
+D3
+~
+~
+0 0 6539
+S
+#6541
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  A bunch of merchants are in this square but you think you see a
+majority of them lined up in a street to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 6521
+D1
+~
+~
+0 0 6542
+D2
+~
+~
+0 0 6537
+D3
+~
+~
+0 0 6540
+S
+#6542
+The Stone-Paved Square~
+You are in the stone-paved square which is the center of this city. 
+Everyone who comes in this city needs to pass through this square in order
+to leave.  All the inns are also in this square and you can see one
+southward.  
+~
+0 0 1
+D0
+~
+~
+0 0 6522
+D2
+~
+~
+0 0 6538
+D3
+~
+~
+0 0 6541
+S
+#6543
+Path to the Docks~
+There is little of interest on the path from here to the city.  There is
+the odd individual moving along the path, and a small group of merchants who
+are just starting onto the path.  As can be seen along the length of the
+path, it is worn, but it is kept to a usable condition.  
+~
+0 0 1
+D1
+~
+~
+0 0 6524
+D3
+~
+~
+0 0 6544
+S
+#6544
+Path to the Docks~
+After taking a turn to the south, the path now turns to the east and
+heads directly to the city.  The area that it enters the city must be the
+merchants area, judging by the large number of shops that can be seen from
+here.  There is another group of merchants ahead, they are just starting to
+make their way along the path.  
+~
+0 0 1
+D0
+~
+~
+0 0 6545
+D1
+~
+~
+0 0 6543
+S
+#6545
+Path to the Docks~
+Standing here at the top of the slight rise from the docks, the city is
+in full view.  It is a fairly large and well set out city.  Taller buildings
+can be seen interspersed with single level buildings.  There is a large
+square in the centre of the city which has several streets leading from it. 
+The southern half of the city and the square have a large number of planted
+trees, creating a lot of shade.  
+~
+0 0 1
+D2
+~
+~
+0 0 6544
+D3
+~
+~
+0 0 6546
+S
+#6546
+Path to the Docks~
+~
+0 0 1
+D1
+~
+~
+0 0 6545
+D5
+~
+~
+0 0 6547
+S
+#6547
+Path to the Docks~
+The path is still slowly rising up the incline of the land.  A little
+ahead it looks to take a turn to the south.  The path itself is paved and is
+well made, there are few bumps in paving and no large gaps were paving
+stones are missing.  This is as can be expected of a well used and travelled
+path.  A group of merchants are moving along the path, towards the docks.  
+~
+0 0 1
+D3
+~
+~
+0 0 6548
+D4
+~
+~
+0 0 6546
+S
+#6548
+Path to the Docks~
+Moving along the path it rises slightly as it gets closer to the city. 
+The further along the path, more of the city can be seen.  A number of
+people can be seen moving either way on the path.  
+~
+0 0 1
+D1
+~
+~
+0 0 6547
+D5
+~
+~
+0 0 6549
+S
+#6549
+End of the Path to the Docks~
+This is the end of the path, just ahead the city docks are alive with
+movement.  They stretch a few hundred paces out into the Arinelle.  There is
+a small building just ahead on the south side of the docks.  A small crowd
+of people can be seen gathered here, most seem to be some what impatient
+about having to be there.  
+~
+0 0 1
+D3
+~
+~
+0 0 6550
+D4
+~
+~
+0 0 6548
+S
+#6550
+Docks~
+A path leaves to the east here, leading to the city proper.  A few people
+can be seen strolling down the path towards the docks.  Also there are
+several carts moving to the east loaded down with goods.  It is a wide
+enough path, enough so people are not brushing up against one another as
+they pass.  
+~
+0 0 1
+D0
+~
+~
+0 0 6553
+D1
+~
+~
+0 0 6549
+D2
+~
+~
+0 0 6563
+D3
+~
+~
+0 0 6551
+S
+#6551
+Docks~
+The chaos of the docks is much less here in the middle.  All around,
+though people can be seen moving about, completing their respective tasks. 
+Several are gathered at a small building to the east, they look to be
+waiting on someone.  The raucous calls of birds can be heard overhead,
+mixing with the yelling and shouting of the people working on the docks.  
+~
+0 0 1
+D0
+~
+~
+0 0 6555
+D1
+~
+~
+0 0 6550
+D2
+~
+~
+0 0 6561
+D3
+~
+~
+0 0 6552
+S
+#6552
+Edge of the Dock~
+Further along the docks edge, and the view has not changed to much at
+all.  People are still rushing about, working and resting.  There are some
+mysterious looking swirls that arise in the water, there are no obstacles to
+be seen that would suggest how they are formed.  Their formation looks to be
+entirely random.  
+~
+0 0 1
+D0
+~
+~
+0 0 6557
+D1
+~
+~
+0 0 6551
+D2
+~
+~
+0 0 6559
+S
+#6553
+Edge of the Dock~
+A ship lays at anchor to the north being unloaded and reloaded with
+cargo.  Just to the south there is a path leading away from the docks, back
+to the city.  There is a small hut lying to the south, looks like it is some
+sort of customs site.  There are a number of people gathered around it,
+waiting.  
+~
+0 0 1
+D0
+~
+~
+0 0 6554
+D2
+~
+~
+0 0 6550
+D3
+~
+~
+0 0 6555
+S
+#6554
+Corner of the Dock~
+The dock ends here, however it stretches out to the south and west. 
+There is a group of young boys here watching the unloading of the ship. 
+They are keeping well out of the way of the people working on the ship. 
+Several people can be seen hanging of ropes half way down the ship's hull,
+examining it.  
+~
+0 0 1
+D2
+~
+~
+0 0 6553
+D3
+~
+~
+0 0 6556
+S
+#6555
+Docks~
+Near the middle of the docks, there is a little less movement of people
+around here.  There is a small building on the eastern edge of the docks
+near a path.  To the south and west some of the craft can be seen moving
+into position to dock.  
+~
+0 0 1
+D0
+~
+~
+0 0 6556
+D1
+~
+~
+0 0 6553
+D2
+~
+~
+0 0 6551
+D3
+~
+~
+0 0 6557
+S
+#6556
+Edge of the Dock~
+A ship is docked here, and a ramp to the north allows the ship to be
+boarded.  There are several people moving on and off the ship.  To the east
+cargo can be seen being lifted of the ship and some can be seen being moved
+onto the ship.  
+~
+0 0 1
+D0
+~
+~
+0 0 6565
+D1
+~
+~
+0 0 6554
+D2
+~
+~
+0 0 6555
+D3
+~
+~
+0 0 6558
+S
+#6557
+Edge of the Dock~
+The docked ship looms closer here, it is just to the north and east.  A
+ramp can be seen leading up to the ship, people can be seen moving up and
+down the ramp.  A group of young boys can be seen standing to the side
+watching the unloading of the ship.  
+~
+0 0 1
+D0
+~
+~
+0 0 6558
+D1
+~
+~
+0 0 6555
+D2
+~
+~
+0 0 6552
+S
+#6558
+Corner of the Dock~
+This is the most north western part of the docks.  The docked ship is
+standing here, it covers a large area to the east.  It is by far the biggest
+craft that can be seen in the river.  An old man is sitting in the corner if
+the dock fishing, he does not appear to be having much luck.  
+~
+0 0 1
+D1
+~
+~
+0 0 6556
+D2
+~
+~
+0 0 6557
+S
+#6559
+Edge of the Dock~
+Walking along the edge of the docks, a fair drop down to the water. 
+Birds can be seen floating on the water's surface, occasionally diving below
+the surface.  The docks themselves are alive with activity, goods can be
+seen being moved of the docks.  
+~
+0 0 1
+D0
+~
+~
+0 0 6552
+D1
+~
+~
+0 0 6561
+D2
+~
+~
+0 0 6560
+S
+#6560
+Corner of the Dock~
+The wooden deck of the docks creaks softly as people move across it.  A
+ship can be seen tied up to the dock, and there is much activity around it. 
+The Arinelle stretches out away from the docks, and many other types of
+craft can be seen upon it.  
+~
+0 0 1
+D0
+~
+~
+0 0 6559
+D1
+~
+~
+0 0 6562
+D5
+~
+~
+0 0 6579
+S
+#6561
+Docks~
+To the east the line for the checking of goods through customs extends to
+the north, other than those waiting there, this area of the docks is
+relatively empty.  A few deck hands can be seen moving towards the path to
+the city, but little else can be seen in the way of movement here.  
+~
+0 0 1
+D0
+~
+~
+0 0 6551
+D1
+~
+~
+0 0 6563
+D2
+~
+~
+0 0 6562
+D3
+~
+~
+0 0 6559
+S
+#6562
+Edge of the Dock~
+At the southern end of the city docks, refuse can be seen floating on the
+surface of the water.  Several small boats can be seen moving around, they
+are manned by three people and they look to be collecting refuse they see. 
+Several of the other boats are lining up to be docked.  
+~
+0 0 1
+D0
+~
+~
+0 0 6561
+D1
+~
+~
+0 0 6564
+D3
+~
+~
+0 0 6560
+S
+#6563
+Customs house~
+This a small and open building, a sign on the wall states that this is
+the customs house.  All goods must be checked through here.  A line of
+people waiting to be seen, stands outside.  A small officious looking man is
+seated behind a desk calling people through.  
+~
+0 8 1
+D0
+~
+~
+0 0 6550
+D2
+~
+~
+0 0 6564
+D3
+~
+~
+0 0 6561
+S
+#6564
+Corner of the Dock~
+Here at the south eastern edge of the city docks, the taller buildings of
+the city can be seen over a slight rise to the east.  The Arinelle stretches
+out to the south and disappears around a bend.  Boats can be seen making
+their way around the corner and towards the docks.  
+~
+0 0 1
+D0
+~
+~
+0 0 6563
+D3
+~
+~
+0 0 6562
+S
+#6565
+Ramp to a Ship~
+This ramp leads up to the ship, it is just wide enough for two people to
+pass.  To the east cargo is being removed and other cargo is being loaded. 
+There are not to many people moving along the ramp, most seem to be gathered
+around the area where the loading and unloading is taking place.  
+~
+0 0 1
+D0
+~
+~
+0 0 6566
+D2
+~
+~
+0 0 6556
+S
+#6566
+Ramp to a Ship~
+This is roughly the half way point of the ramp, the waters of the
+Arinelle are some distance below.  The waters look dark and ominous, the
+river swirls around the ship's hull and the dock pylons.  The ramp bounces
+up and down slightly as people walk upon it.  
+~
+0 0 1
+D0
+~
+~
+0 0 6567
+D2
+~
+~
+0 0 6565
+S
+#6567
+End of the Ramp~
+This is the end of the ramp, just ahead the deck of the ship can be seen.
+Sailors are moving around the deck under the supervision of the first mate. 
+The ship's captain is no where to be seen.  The hold of the ship is open and
+cargo is being removed from it, in large nets.  
+~
+0 0 1
+D0
+~
+~
+0 0 6568
+D2
+~
+~
+0 0 6566
+S
+#6568
+On Board~
+Stepping on board of the docked ship, deck hands and sailors are running
+around organizing the ship's unloading.  It is probably best to move some
+where else on the ship, to get out of the way of the work being done.  There
+is a stairway to the north leading up to the next level of the ship, might
+be the place to be to get out of the road.  There is a short set of stairs
+leading down into the bow of the ship 
+~
+0 0 1
+D0
+~
+~
+0 0 6721
+D2
+~
+~
+0 0 6567
+D3
+~
+~
+0 0 6720
+S
+#6569
+In Air~
+Stepping of the bridge of clouds into thin air may not have been a smart
+thing.  There is nothing but a few wispy clouds and the sky around.  Far
+below the sun can be seen glinting off something.  
+~
+0 0 9
+D5
+~
+~
+0 0 6570
+S
+#6570
+Falling Downward~
+Stepping of the bridge was not a good idea.  Those clouds that can be
+seen are moving rapidly in the opposite direction.  Even those few birds to
+be seen are look to be moving away at some pace.  The glints seen below are
+coming closer, much faster than could be wished.  
+~
+0 0 9
+D5
+~
+~
+0 0 6571
+S
+#6571
+Above the Water~
+The descent down-wards has not slowed at all, in fact it seems to have
+gotten faster.  The clouds are a long way from here, and the bridge of
+clouds cannot be seen.  Below it can be seen what the sunlight was gleaming
+off.  Water, that can't be too bad to hit after a fall.  
+~
+0 0 9
+D5
+~
+~
+0 0 6572
+S
+#6572
+In the Arinelle~
+The cold water of the Arinelle flow past, the current is persistent if
+not strong.  The are large pylons jutting out of the water, they soar over
+head.  They support the city docks, they are very thick and look to have
+little damage done, from the immersion in water.  
+~
+0 0 6
+D0
+~
+~
+0 0 6576
+D1
+~
+~
+0 0 6578
+D2
+~
+~
+0 0 6577
+D3
+~
+~
+0 0 6573
+S
+#6573
+In the Arinelle~
+Out from under the docks and floating down stream.  A large ship is tied
+up at the docks, and others are waiting to be tied up.  People can be seen
+moving about the decks of the various boats, skillfully maneuvering around
+the other craft.  
+~
+0 0 6
+D0
+~
+~
+0 0 6574
+D1
+~
+~
+0 0 6572
+D2
+~
+~
+0 0 6575
+S
+#6574
+In the Arinelle~
+This is the end of the docks.  The hull of a ship can be seen to the
+east, and to the west is the expanse of the Arinelle , boats can also be
+seen in the open water.  They are of different sizes and designs, small row
+boats are mixing amongst larger barges and passenger boats.  
+~
+0 0 6
+D1
+~
+~
+0 0 6576
+D2
+~
+~
+0 0 6573
+S
+#6575
+In the Arinelle~
+Floating in the Arinelle, the current is moving slowly down stream.  The
+banks are quite some distance away, and the docks are away to the north. 
+The numbers of river craft is less this far from the docks, and a bend just
+ahead will take the city out of view.  
+~
+0 0 6
+D0
+~
+~
+0 0 6573
+D1
+~
+~
+0 0 6577
+S
+#6576
+In the Arinelle~
+Floating underneath the docks of the city, refuse can be seen floating on
+the river's surface.  Swirls in the current are made as the river passes the
+pylons and the ship's hull.  Mysteriously other swirls in the water can be
+seen, where there are no obstacles in the water.  They are most likely from
+fish rising to the surface in search of food.  
+~
+0 0 6
+D1
+~
+~
+0 0 6579
+D2
+~
+~
+0 0 6572
+D3
+~
+~
+0 0 6574
+S
+#6577
+In the Arinelle~
+The docks can be seen to the north, and the eastern bank of the Arinelle
+is only a short swim away.  The city itself is lying to the north, its gates
+can be seen set into the southern wall.  A bridge, or what looks to be one,
+can be seen arching across the river, leading to another entrance to the
+city.  
+~
+0 0 6
+D0
+~
+~
+0 0 6572
+D1
+~
+~
+0 0 6580
+D3
+~
+~
+0 0 6575
+S
+#6578
+In the Arinelle~
+The city docks are just a short distance to the north, however the
+current is moving towards the south.  Its slow pull will soon have moved
+anything caught in the river out of the city's reach.  Some birds can be
+seen diving into the water after food scraps, others are paddling on the
+surface.  
+~
+0 0 6
+D0
+~
+~
+0 0 6579
+D2
+~
+~
+0 0 6580
+D3
+~
+~
+0 0 6572
+S
+#6579
+In the Arinelle~
+The city docks rise above, the noise of the people working there filters
+down.  As is the case for most docks a lot of activity is present.  A ship's
+hull can be seen nearby, the current can be seen swirling around the ships
+hull, and the pylon's of the dock.  
+~
+0 0 6
+D2
+~
+~
+0 0 6578
+D3
+~
+~
+0 0 6576
+D4
+~
+~
+0 0 6560
+S
+#6580
+In the Arinelle~
+Drifting along with the current, many items can be seen.  Most of it is
+garbage and refuse that comes from the city.  The docks are almost out of
+view, much further and the city will be out of reach.  Birds can be seen
+wheeling over head, in more increased numbers even this little distance down
+stream.  
+~
+0 0 6
+D0
+~
+~
+0 0 6578
+D3
+~
+~
+0 0 6577
+S
+#6581
+Before an Invisible Curtain~
+Westward is filled with trees as far as the eye can see.  Eastward it
+feels as though there is nothing to be seen.  In fact, it feels like a big
+black wall.  Yet, there is still scenery and lakes to be seen.  However,
+whenever a breeze comes by, that fold in the air shakes hard and you can see
+an opening to antoher place.  
+~
+0 0 1
+D1
+~
+invisible~
+1 0 6582
+D3
+~
+~
+0 0 6509
+S
+#6582
+Bridge of Clouds~
+Westward you can see that curtain that shifts with the wind.  Eastward
+the breeze becomes much stronger.  It becomes so strong it is hard to open
+your eyes.  Suddenly you notice that you are standing amongst clouds. 
+Clouds that should be up in the sky on the floor and upward this bridge of
+clouds continues.  
+~
+0 0 1
+D1
+~
+~
+0 0 6583
+D3
+~
+~
+1 0 6581
+S
+#6583
+Bridge of Clouds~
+Continuing along these clouds that are below your feet you notice that
+they are slowly going upward.  The only way you could continue along this
+path eastward is if you can fly.  Westward is the curtain that is invisible.
+It is completely transplarent, yet you can tell it is there everytime the
+breeze shifts it.  
+~
+0 0 1
+D3
+~
+~
+0 0 6582
+D4
+~
+~
+0 0 6584
+S
+#6584
+Bridge of Clouds~
+Continuing along the bridge of clouds you notice that the breeze is
+suddenly getting much stronger.  It is starting to push you backwards.  Both
+eastward and downward the bridge continues.  It seems that the breeze is
+protecting what lies eastward.  
+~
+0 0 9
+D0
+~
+~
+0 0 6569
+D1
+~
+~
+0 0 6585
+D5
+~
+~
+0 0 6583
+S
+#6585
+Bridge of Clouds~
+Continuing along the bridge of clouds you notice that the breeze seems to
+be getting steadily stronger as you move forward.  Often times it seems like
+it is pushing you away and trying to keep unwanted visitors outside. 
+Westward would take you back down the Bridge of Clouds.  
+~
+0 0 9
+D3
+~
+~
+0 0 6584
+D4
+~
+~
+0 0 6586
+S
+#6586
+Outside the Western Gate~
+A golden gate lies before you.  The breeze that was keeping you from
+entering has decreased in strength.  Beyond the gates is what looks like a
+city on stone floating in midair.  The only way here seems to be through the
+bridge of clouds.  The fact that a beautiful golden gate is sparkling before
+you is nothing compared to seeing a city floating on this.  The island in
+air is given the name Naseem Island or Breeze Island when translated.  
+~
+0 0 9
+D1
+~
+gate~
+1 0 6517
+D5
+~
+~
+0 0 6585
+S
+#6587
+Path of Clouds~
+A little farther to the east and you will be standing on rock and dirt
+rather than floating in air.  To the west is the golden gate that will lead
+you away from this magnificent island.  You can make out buildings from here
+and from here it looks much like any normal city, but all the buildings are
+made out of a material you can't quite make out.  
+~
+0 0 9
+D1
+~
+~
+0 0 6588
+D3
+~
+~
+0 0 6517
+S
+#6588
+Path of Clouds~
+Continuing along the path of clouds you notice that you are pretty close
+to the city.  The buildings are mostly about two stories high and they seem
+to be made of something other than brick or wood.  To the west you can see
+the clouds forming a bridge that go downward to the ground.  You can see a
+golden gate to the west as well.  How can a gate be floating?  How can an
+island be floating!?  
+~
+0 0 9
+D1
+~
+~
+0 0 6589
+D3
+~
+~
+0 0 6587
+S
+#6589
+Path of Clouds~
+You are on a path made of clouds.  To the east is real solid ground
+floating in the sky.  The west will take you away from this island, through
+a gate, and down some more clouds.  
+~
+0 0 9
+D1
+~
+~
+0 0 6518
+D3
+~
+~
+0 0 6588
+S
+#6590
+Entrance to the Wayfarer's Rest~
+The entrance to the inn is well appointed, colourful tapestries line the
+wall.  By the amount of noise coming from the common room, the inn is well
+patronised.  Someone can be heard playing a harp and singing along.  Many of
+the patrons also are attempting to sing along, it makes for a most horrid
+noise.  
+~
+0 8 0
+D0
+~
+~
+0 0 6591
+D2
+~
+~
+0 0 6525
+S
+#6591
+Common Room of the Wayfarer's Rest~
+The common room of the Wayfarer's rest is dominated by a huge stage, it
+stands in the centre of the room.  A gleeman is upon the stage playing his
+harp and singing, around the stage are the inn's tables.  Most of the
+benches that accompany the tables are full, there are a few empty places on
+the benches but no table is fully empty.  
+~
+0 8 0
+D1
+~
+~
+0 0 6592
+D2
+~
+~
+0 0 6590
+D3
+~
+~
+0 0 6593
+S
+#6592
+Common Room of the Wayfarer's Rest~
+This is the south eastern section of the common room, if it can be said,
+it is quiet or at least quieter than the rest of the inn.  Those patrons in
+this area are paying less attention to the gleeman, and more time quietly
+talking amongst themselves.  All are relative well dressed, they look to be
+merchants.  
+~
+0 8 0
+D0
+~
+~
+0 0 6596
+D3
+~
+~
+0 0 6591
+S
+#6593
+Common Room of the Wayfarer's Rest~
+As the inn's stage is so large, the common room cannot be crossed
+directly.  To get to the other side the patron's must move around the stage.
+This is not a problem though, as there are two bar areas, on on either side
+of the stage.  Each bar has three people standing behind it serving
+customers directly or filling the orders given to them by the waitresses.  
+~
+0 8 0
+D0
+~
+~
+0 0 6594
+D1
+~
+~
+0 0 6591
+S
+#6594
+Common Room of the Wayfarer's Rest~
+It is a little bit difficult moving in around the tables, because of the
+number of patrons and waitresses dodging backwards and forwards to the bar. 
+Most people look to be entranced by the gleeman's performance, many swaying
+in time to the music, and even singing along.  
+~
+0 8 0
+D0
+~
+~
+0 0 6595
+D2
+~
+~
+0 0 6593
+S
+#6595
+Common Room of the Wayfarer's Rest~
+This is the northern most end of the inn, the stage covers the middle of
+the floor to the south and east.  This section of the room has ten tables
+and all of them are filled, there is a stream of waitresses moving in the
+area serving patrons.  The waitresses seem unharried, in fact most look to
+be very happy and go about there work with smiles, grins and laughter.  
+~
+0 8 0
+D1
+~
+~
+0 0 6598
+D2
+~
+~
+0 0 6594
+S
+#6596
+Common Room of the Wayfarer's Rest~
+There is a stairwell just to the north, and there are less tables
+gathered in that area.  Some of the patrons are moving either up or down the
+stairs.  In this section of the common room, all eyes are on the performing
+gleeman.  The numbers of waitresses is no less here, and the bar staff are
+working frantically to keep up with the orders.  
+~
+0 8 0
+D0
+~
+~
+0 0 6597
+D2
+~
+~
+0 0 6592
+S
+#6597
+Common Room of the Wayfarer's Rest~
+There are few less tables set in this section, this is mainly because of
+the stairs that lead up to the second level.  One or two patrons can be seen
+moving up or down the staircase, most likely there are rooms upstairs.  All
+in all the trade of the inn looks to extremely good, the owner must be doing
+well for theirselves.  
+~
+0 8 0
+D2
+~
+~
+0 0 6596
+D3
+~
+~
+0 0 6598
+D4
+~
+~
+0 0 6600
+S
+#6598
+Bar of the Wayfarer's Rest~
+The stage is directly to the south here, filling up the middle of the
+common room.  The gleeman is slowly turning around in circles and using the
+whole of the stage, so he is including every one in his performance.  Just
+to the east there is a large stairwell leading up to the next level.  Down
+that side of the stage are more tables and benches, most are full.  
+~
+0 8 0
+D0
+~
+~
+0 0 6599
+D1
+~
+~
+0 0 6597
+D3
+~
+~
+0 0 6595
+S
+#6599
+Kitchen of the Wayfarer's Rest~
+As can be expected with such a busy inn, the kitchen is in full fly. 
+Cooks and their helpers are moving rapidly around the room preparing food to
+be served to the inn's patrons.  One old man standing in the corner is
+yelling at every one else, he must be the head cook.  The smells emanating
+from the various pots and pans on the fires and the stoves is mouth
+watering.  This inn must have a good name amongst the local populous.  
+~
+0 8 0
+D2
+~
+~
+0 0 6598
+S
+#6600
+Hallway to Bedrooms~
+Standing at the top of the stairs a hallway stretches out to the west. 
+Doors can be seen leading off the hallway, all are closed.  The sign on the
+wall states they are guest rooms, and bookings can be made at the bar.  Two
+people are making there way into one of the rooms at the far end of the
+hall.  
+~
+0 8 0
+D3
+~
+~
+0 0 6601
+D5
+~
+~
+0 0 6597
+S
+#6601
+Hallway~
+With the stairs just behind, the hall goes on with another four rooms
+leading off it.  Two doors leading to rooms are to the north and south here.
+The two people that were moving to a room ahead are no longer able to be
+seen, the door to the room they entered can be seen closing.  No sounds can
+be heard coming from the rooms on either side.  
+~
+0 8 0
+D0
+~
+~
+0 0 6609
+D1
+~
+~
+0 0 6600
+D2
+~
+~
+0 0 6610
+D3
+~
+~
+0 0 6602
+S
+#6602
+Hallway~
+This is roughly the middle of the hallway, two doors again stand on
+either side of the hall.  A couple of tapestries are hanging on either side
+of the doors.  Faint murmuring can be heard coming from behind the southern
+door.  Nothing can be heard coming from behind the northern door.  
+~
+0 8 0
+D0
+~
+~
+0 0 6606
+D1
+~
+~
+0 0 6601
+D2
+~
+~
+0 0 6607
+D3
+~
+~
+0 0 6603
+S
+#6603
+Hallway~
+The hall ends here, there is an open window set in the wall and two doors
+lead to rooms on either side of the hall.  Nothing can be heard coming from
+the room to the south, giggling and laughter can be faintly heard from the
+northern room.  This room is the room that the two people entered a short
+while ago.  
+~
+0 8 0
+D0
+~
+~
+0 0 6604
+D1
+~
+~
+0 0 6602
+D2
+~
+~
+0 0 6605
+S
+#6604
+Inkeeper's Bedroom~
+The innkeeper's room is well appointed, there is a huge bed underneath a
+window in the northen wall.  A desk is placed under another window in the
+eastern wall, and a dresser is on the opposite side of the bed.  Two
+wardrobes are also in the room, one next to the dresser and the other stands
+beside the door.  The two people who entered the room look up as the door
+opens.  One is a waitresses from down stairs, the other must be the
+innkeeper.  Whatever they were talking about must not be to serious, as they
+both are smiling and laughing.  
+~
+0 8 0
+D2
+~
+~
+0 0 6603
+S
+#6605
+Large Bedroom~
+This is extremely large, it is at least twice the size of the rooms found
+near the stairs.  The bed is massive, a small family could sleep in this
+bed.  A large dresser is located under a window on the eastern wall, and two
+large wardrobes are against the southern wall.  Next to the dresser is an
+ornate wash stand with a gold inlaid basin.  
+~
+0 8 0
+D0
+~
+~
+0 0 6603
+S
+#6606
+Medium-Sized Bedroom~
+This room is some what larger than the rooms at the top of the stairs. 
+The bed has enough room for two people and more to spare.  There is a
+dresser and a wardrobe in the room, and a wash stand on the opposite side of
+the bed.  The bed can be easily walked around, however there is little room
+to do anything else.  
+~
+0 8 0
+D2
+~
+~
+0 0 6602
+S
+#6607
+Medium-Sized Bedroom~
+This room is the same size as the room to the north of the hall.  The
+furniture is exactly the same, the only difference is the two people sitting
+on the bed whispering to each other.  The man is leaning in close and
+whispering something in the woman's ear.  They look up slightly startled as
+the door opens.  
+~
+0 8 0
+D0
+~
+~
+0 0 6602
+S
+#6609
+Small Bedroom~
+This bedroom is rather small, there is enough room for the bed, one which
+looks to be made for midgets, or children.  A dresser stands on one side of
+the bed, almost brushing the bed's edge.  A mirror is mounted on the wall. 
+Behind the open door a wash stand and basin is placed in the only other
+available space in the room.  
+~
+0 8 0
+D2
+~
+~
+0 0 6601
+S
+#6610
+Small Bedroom~
+This bedroom is rather small, there is enough room for the bed, one which
+looks to be made for midgets, or children.  A dresser stands on one side of
+the bed, almost brushing the bed's edge.  A mirror is mounted on the wall. 
+Behind the open door a wash stand and basin is placed in the only other
+available space in the room.  
+~
+0 8 0
+D0
+~
+~
+0 0 6601
+S
+#6611
+Hawker's Street~
+This section of Hawker's street is entirely dominated by food stands. 
+All sorts of food stuffs can be bought from here, there are stands selling
+pies of different sorts.  Others sell vegetables and fruits, herbs and
+spices are sold from some other stands.  The smell of cooking meat comes
+from four stands clustered together, they are selling various sorts of
+cooked meats, that are cooked on the spot.  Next to these stands are two
+others that have un-cooked meat on display.  
+~
+0 0 1
+D0
+~
+~
+0 0 6612
+D2
+~
+~
+0 0 6527
+S
+#6612
+Hawker's Street~
+The hawkers crowd the street again, yelling out what they are selling and
+the prices.  There are a few food stores located here, but most are selling
+clothing and general wares.  The smell of cooking meat is stronger here.  A
+few local guards can also be seen wandering through the crowd.  
+~
+0 0 1
+D0
+~
+~
+0 0 6613
+D2
+~
+~
+0 0 6611
+S
+#6613
+Hawker's Street~
+There is a slight break in the numbers of hawkers to found here.  This is
+most likely because of the small alley that leads of the street to the west.
+The alley is mostly in the shade, and some movement can be seen from within
+the shadows.  The smell of cooking meat is drifting from the south, it
+mingles with the odour of rotting rubbish coming from the alley.  
+~
+0 0 1
+D0
+~
+~
+0 0 6614
+D2
+~
+~
+0 0 6612
+D3
+~
+~
+0 0 6649
+S
+#6614
+Hawker's Street~
+The amount of people gathered on this street means they are brushing
+against one another as they pass.  A perfect place for thieves, most seem
+rather unconcerned about the prospect of being robbed though.  The hawker's
+are selling everything from kitchen items to ribbons, there are even some
+stalls selling swords and axes.  
+~
+0 0 1
+D0
+~
+~
+0 0 6615
+D2
+~
+~
+0 0 6613
+S
+#6615
+Intersection of Hawker's and Merchant's Street~
+Hawker's street meets Merchant's street here, looking south along
+Hawker's street it looks to be appropriately named.  There are dozens of
+hawlers to be seen along the street selling or trying to sell their wares. 
+When compared to the other streets in the area there is almost twice the
+number of people wandering along this street.  
+~
+0 0 1
+D2
+~
+~
+0 0 6614
+D3
+~
+~
+0 0 6616
+S
+#6616
+Merchant's Street~
+The street of Merchant's ends just ahead, a street intersects it from the
+south.  From the shop to the north the sound of hammers ringing on metal can
+be heard.  Oily black smoke can be seen rising from the chimneys of the
+building.  The shops sign has a hammer and anvil depicted on it, and a young
+man can be seen through the windows bashing at some metal with a hammer.  
+~
+0 0 1
+D0
+~
+~
+0 0 6648
+D1
+~
+~
+0 0 6615
+D3
+~
+~
+0 0 6617
+S
+#6617
+Merchant's Street~
+By the looks of the sign out the front of this shop a silversmith is
+within.  Several items of cutlery and some goblets are on display in the
+windows.  Merchant street must be the main area for the different types of
+smiths.  A short distance ahead there is another intersection, just before
+it there is another shop.  
+~
+0 0 1
+D1
+~
+~
+0 0 6616
+D2
+~
+~
+0 0 6647
+D3
+~
+~
+0 0 6618
+S
+#6618
+Merchant's Street~
+The flow of traffic on this street has not lessened, it is still a highly
+used street.  The major difference seems to be the type of people using the
+street, most are merchants and not your normal locals out shopping.  A sign
+swinging in the breeze outside the shop here, denotes it as a goldsmith's
+shop.  
+~
+0 0 1
+D0
+~
+~
+0 0 6646
+D1
+~
+~
+0 0 6617
+D3
+~
+~
+0 0 6619
+S
+#6619
+Intersection of Merchant's and Shopkeeper's Street~
+Shopkeeper's street meets Merchant's street here, forming a corner that
+is east and south in direction.  As with Shopkeeper's street, there are a
+number of shops fronting the street.  They are not situated directly across
+from each other, but are set alternately.  A much larger building can be
+seen behind the shops, to the south and east.  
+~
+0 0 1
+D1
+~
+~
+0 0 6618
+D2
+~
+~
+0 0 6620
+S
+#6620
+Shopkeeper's Street~
+The street of shopkeeper's ends just ahead, there is an intersection with
+the road leading off to the east.  By the amount of traffic flowing out of
+the other road, there must also be more shops around the corner.  The shop
+fronting the street here, has on display a variety of clothing on display in
+its windows.  Most of the clothing is for females, but there are a small
+number of items for men.  Another of the windows has bolts of material on
+display.  
+~
+0 0 1
+D0
+~
+~
+0 0 6619
+D2
+~
+~
+0 0 6621
+D3
+~
+~
+0 0 6642
+S
+#6621
+Shopkeeper's Street~
+This part of the street has the aroma of fresh baked bread floating in
+the air.  This is always a most refreshing smell, it seem to be originating
+from the east.  The shop the fronts the street here has no sign hanging out
+front, but the aroma is stronger closer to the shop.  A man in a pristine
+white apron can just be seen moving around in the shop.  
+~
+0 0 1
+D0
+~
+~
+0 0 6620
+D1
+~
+~
+0 0 6643
+D2
+~
+~
+0 0 6622
+S
+#6622
+Shopkeeper's Street~
+A little further along the street of shopkeeper's a disgusting stench
+wafts out of the shop to the west.  A sign hanging above the shop's door
+proclaims it as a tannery, no wonder it smells so bad here.  Two of the
+tannery workers are lazing out the front of the shop on a break.  Their arms
+are stained, and their skin looks to be as well cured as the hides they work
+on.  
+~
+0 0 1
+D0
+~
+~
+0 0 6621
+D2
+~
+~
+0 0 6623
+D3
+~
+~
+0 0 6644
+S
+#6623
+Shopkeeper's Street~
+This street has buildings of to each side, in alternate rows.  It is well
+paved, though it looks to be well travelled.  Merchants and civilians can be
+seen wandering along the street, some disappear into the shops fronting the
+street.  Others can be seen emerging from the shops.  On the eastern side
+here is a rather open fronted shop.  On the path outside the shop, large
+basket have been arranged in a display of fruits and vegetables.  
+~
+0 0 1
+D0
+~
+~
+0 0 6622
+D1
+~
+~
+0 0 6645
+D2
+~
+~
+0 0 6524
+S
+#6624
+Leatherleaf Street~
+You are on a stone-paved street called Leatherleaf Street.  This is the
+residential area of Naseem Island where a few successful merchants live. 
+All the houses are made of red bricks and have signs with the family name
+over the door.  
+~
+0 0 1
+D0
+~
+~
+0 0 6534
+D2
+~
+~
+0 0 6625
+S
+#6625
+Intersection of Leatherleaf and Oak Street~
+You are on a stone-paved street called Leatherleaf Street.  This is the
+residential area of Naseem Island where a few successful merchants live.  To
+the east is Oak Street and north and south of here Leatherleaf Street
+continues.
+~
+0 0 1
+D0
+~
+~
+0 0 6624
+D1
+~
+~
+0 0 6628
+D2
+~
+~
+0 0 6626
+S
+#6626
+Leatherleaf Street~
+You continue on a stone-paved street called Leatherleaf Street.  This is
+the residential area of Naseem Island where a few successful merchants live.
+There aren't actually any houses on this street but if you go north or south
+there are intersections that will lead to the red brick houses.  
+~
+0 0 1
+D0
+~
+~
+0 0 6625
+D2
+~
+~
+0 0 6627
+S
+#6627
+Intersection of Leatherleaf and Evergreen Street~
+You are on a stone-paved street called Leatherleaf Street.  This is a
+residential area of Naseem Island where a few successful merchants live.  In
+fact to the east you can see two red brick houses with signs that have their
+family name written on them.  To the east is Evergreen Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6626
+D1
+~
+~
+0 0 6629
+S
+#6628
+Oak Street~
+You are on a stone-paved street called Oak Street.  This is a residential
+area of Naseem Island where a few successful merchants live.  To the east
+are two red brick houses with signs over their doors.  To the west is the
+intersection for Leatherleaf Street.  
+~
+0 0 1
+D1
+~
+~
+0 0 6638
+D3
+~
+~
+0 0 6625
+S
+#6629
+Evergreen Street~
+You are on a stone-paved street called Evergreen Street.  This is a
+residential area of Naseem Island where a few successful merchants live.  To
+the south is a red brick house with a sign over the door.  The sign has the
+words, "The Toren's" inscribed on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 6630
+D2
+~
+~
+0 0 6712
+D3
+~
+~
+0 0 6627
+S
+#6630
+Evergreen Street~
+You are on a stone-paved street called Evergreen Street.  This is a
+residential area of Naseem Island where a few successful merchants live. 
+Close to the west is a house and farther is the intersection for Leatherleaf
+street.  A little farther to the east is another house and further on is
+Cedan Street.
+~
+0 0 1
+D1
+~
+~
+0 0 6631
+D3
+~
+~
+0 0 6629
+S
+#6631
+Evergreen Street~
+You are on a stone-paved street called Evergreen Street.  This is a
+residential area of Naseem Island where a few successful merchants live.  A
+little to the west is a house and farther is the intersection for
+Leatherleaf Street.  Close to the east is another house and further on is
+Cedan Street.  
+~
+0 0 1
+D1
+~
+~
+0 0 6632
+D3
+~
+~
+0 0 6630
+S
+#6632
+Evergreen Street~
+You are on a stone-paved street called Evergreen Street.  This is a
+residential area of Naseem Island where a few successful merchants live.  To
+the south is a red brick house with a sign over the door.  The sign has the
+words, "The Dearn's" engraved on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 6633
+D2
+~
+~
+0 0 6704
+D3
+~
+~
+0 0 6631
+S
+#6633
+Intersection of Evergreen and Cedan Street~
+You are on a stone-paved street called Evergreen Street.  This is a
+residential area of Naseem Island where a few successful merchants live.  In
+fact to the west you can see two red brick houses with signs that have their
+family name written on them.  To the north is Cedan Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6635
+D3
+~
+~
+0 0 6632
+S
+#6634
+Cain's New Room~
+~
+0 4 0
+S
+#6635
+Cedan Street~
+You are on a stone-paved street called Cedan Street.  This is a
+residential area of Naseem Island where a few successful merchants live. 
+There aren't actually any houses on this street but if you go north or south
+there are intersections that will lead to the red brick houses.  
+~
+0 0 1
+D0
+~
+~
+0 0 6636
+D2
+~
+~
+0 0 6633
+S
+#6636
+Intersection of Cedan and Oak Street~
+You are on a stone-paved street called Cedan Street.  This is the
+residential area of Naseem Island where a few successful merchants live.  To
+the west is Oak Street where a few houses are.  If you go north or south you
+will be on Cedan Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6637
+D2
+~
+~
+0 0 6635
+D3
+~
+~
+0 0 6640
+S
+#6637
+Cedan Street~
+You are on a stone-paved street called Cedan Street.  This is a
+residential area of Naseem Island where a few successful merchants live. 
+The aren't actually any houses on this street, however, to the north the
+back door of someone's home leads into the street.  
+~
+0 0 1
+D0
+~
+~
+0 0 6641
+D2
+~
+~
+0 0 6636
+S
+#6638
+Oak Street~
+You are on a stone-paved street called Oak Street.  This is a residential
+area of Naseem Island where a few successful merchants live.  To the south
+is a red brick house with a sign over the door.  The sign has the words,
+"The Mull's" engraved on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 6639
+D2
+~
+~
+0 0 6688
+D3
+~
+~
+0 0 6628
+S
+#6639
+Oak Street~
+You are on a stone-paved street called Oak Street.  This is a residential
+area of Naseem Island where a few successful merchants live.  To the south
+is a red brick house with a sign over the door.  The sign has the words,
+"The Neres'" engraved on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 6640
+D2
+~
+~
+0 0 6689
+D3
+~
+~
+0 0 6638
+S
+#6640
+Oak Street~
+You are on a stone-paved street called Oak Street.  This is a residential
+area of Naseem Island where a few successful merchants live.  To the west
+are two red brick houses with signs over their doors.  To the east is the
+intersection for Cedan Street.  
+~
+0 0 1
+D1
+~
+~
+0 0 6636
+D3
+~
+~
+0 0 6639
+S
+#6641
+Cedan Street~
+You are on a stone-paved street called Cedan Street.  This is the
+residential area of Naseem Island where a few successful merchants live. 
+All the houses are made of red bricks and have signs with the family name
+over the door.  To your east is a back door to someone's home.  West will
+lead you into a stone-paved square and southward Cedan Street continues.  
+~
+0 0 1
+D1
+~
+~
+1 0 6670
+D2
+~
+~
+0 0 6637
+D3
+~
+~
+0 0 6538
+S
+#6642
+Seamstress~
+Dummies of various shapes and sizes, and also body parts are all over the
+shop.  Most are wearing garments, obviously for display.  Several women and
+one man are working on the clothing that the dummies wear.  One side of the
+shop is devoted to all manner of materials, rolled up into bolts. 
+Everything from silk to wool to segade can be found.  Three or four
+customers are strolling around looking at the materials.  Others are talking
+to the seamstresses and gesturing at the garments that are being worked on. 
+~
+0 8 0
+D1
+~
+~
+0 0 6620
+S
+#6643
+Bakery~
+This shop is warmer then outside, but this heat is overcome by the
+heavenly aroma of fresh baked bread.  Breads of different kinds are
+displayed on the shelves of the shop.  Various cakes and bisuits are also on
+display.  A matronly old woman is standing behind a counter, she stops what
+work she is performing to serve customers when needed.  A man of the same
+age can be seen moving around the rear of the shop, he is wearing a pristine
+white apron.  
+~
+0 8 0
+D3
+~
+~
+0 0 6621
+S
+#6644
+Tannery~
+The is a very unpleasant odour emanating from this building, as the case
+with most tannery's.  Cured hides are hanging from the walls, and layered in
+piles on shelving and the floor.  Through a half open door at the back of
+the room, the main area of the tannery can be seen.  There are huge vats
+placed in this room, most have several men weilding large paddles which they
+are using to stir the vat's contents.  
+~
+0 8 0
+D1
+~
+~
+0 0 6622
+S
+#6645
+Produce Shop~
+There is lines of stands running the length of this shop.  They are
+covered in various types of produce.  On one side the stands are full of
+different types of fruits, some seem to be exactly the same.  The other half
+of the shop is dedicated to vegetables, leafy vegetables can be seen sitting
+next to root vegetables of varying types.  At the back of the shop there is
+a small secion that has a range of spices on sale.  An older man and woman
+are slowly moving around the shop asking patrons if they require any help. 
+Two young men can also be seen moving around the shop, they are fixing and
+adjusting the displays.  Where necessary they are filling them.  
+~
+0 8 0
+D3
+~
+~
+0 0 6623
+S
+#6646
+Goldsmith~
+There is little on display in this shop, and those items that are are
+either richly decorated with gold or gold leaf.  Some items even look to
+made from pure gold.  One cabinet holds chalices and goblets, another has
+plates on display.  There is also some pieces of jewelery on display.  
+~
+0 8 0
+D2
+~
+~
+0 0 6618
+S
+#6647
+Silversmith~
+The silversmith's shop is an orderly place.  There is a small work bench
+set at the back of the shop, and three small display cases placed around the
+shop.  The smith himself is sitting at the work bench polishing some pieces.
+There is a doorway in the rear wall that stands open, a larger work area can
+be seen through it.  
+~
+0 8 0
+D0
+~
+~
+0 0 6617
+S
+#6648
+Blacksmith~
+Entering the blacksmith's is like walking through a wall of heat.  The
+shop itself is divided into two areas.  The front half is a small sales
+area, with some weapons on display.  Most of the items on display are every
+day things, like iron grills, plough and other gardening equipment.  The
+second part of the shop, and by far the larger is separated by a small iron
+fence.  Behind the fence there are four furnaces, of which two are in use. 
+Two young men are working at the operating furnaces, one is hammering out
+some metal on an anvil, the other is merely heating up some metal.  
+~
+0 8 0
+D2
+~
+~
+0 0 6616
+S
+#6649
+Back Alley~
+The dim light of the alley makes vision a little difficult.  Judging by
+the damp smell of the alley, not much sunlight penetrated to the alley
+floor.  The smell of decay is strong in the alley, and things can be felt
+being quashed under foot.  The noice of the hawkers is still quite audible
+this short distance into the alley.  
+~
+0 0 1
+D1
+~
+~
+0 0 6613
+D3
+~
+~
+0 0 6650
+S
+#6650
+Back Alley~
+The noise from Hawker's street can barely be heard, in fact there is
+little noise in this part of the alley.  The sound of a small trickle of
+water can be heard, and the faint scrape of booted feet.  The decaying smell
+is even stronger again.  Piles of rubbish make navigating the alley a little
+difficult.  
+~
+0 0 1
+D1
+~
+~
+0 0 6649
+D3
+~
+~
+0 0 6651
+S
+#6651
+Dead End~
+The alley stops abruptly here, ahead there is nothing but a wall.  No
+direct sunlight is hitting the alley here, it is all in shadow and rather
+cooler than the streets in the sun.  Only trickling water can be heard, the
+noise from the competing hawkers has disappeared.  Rodents scratching in the
+rubbish can be heard.  
+~
+0 0 1
+D1
+~
+~
+0 0 6650
+D5
+~
+secret~
+1 0 6652
+S
+#6652
+Smuggler's Square~
+Descending the ladder, the floor of the room comes up sooner than normal.
+The room itself is pitch black, without bringing a light into it, nothing
+can be seen.  Feeling around the corridor, anyone over five foot would have
+to crouch.  The walls are wet and covered in slime, feeling along the walls
+and creeping the length of the corridor seems alomst freaky.  Heavy
+breathing can be heard coming from somewhere around here.  
+~
+0 138412041 0
+D0
+~
+~
+0 0 6658
+D1
+~
+~
+0 0 6656
+D2
+~
+~
+0 0 6653
+D3
+~
+~
+0 0 6657
+D4
+~
+secret~
+1 0 6651
+S
+#6653
+Smuggler's Square~
+Whispering voices float through this room, it is difficult to tell
+whether they are coming from either of the rooms other entrances.  Unlike
+many of the other areas within the smuggler's square, this area is lit with
+lanterns.  This allows for a much more certain light and clearer.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 6652
+D1
+~
+~
+0 0 6655
+D3
+~
+~
+0 0 6654
+S
+#6654
+Smuggler's Square~
+Pushing past the partially moved piece of wall, a small niche opens up. 
+There is little here of any consequence, just a small round table at the far
+side of the room.  A couple of chairs are drawn up around it, some of which
+appear to be moving of their own accord.  The scrape of leather on stone can
+be heard occassionally.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 6656
+D1
+~
+~
+0 0 6653
+S
+#6655
+Smuggler's Square~
+This appears to be a dead end, the flickering of torch light casts weird
+shadows over the walls.  This makes hard to see anything that looks like a
+hidden door, if of course there is any.  Whispering voices can be heard
+coming from somewhere.  Scanning around the origination of the voices cannot
+be found, this place is like some dark maze.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 6657
+D3
+~
+~
+1 0 6512
+S
+#6656
+Smuggler's Square~
+One hallway ends here, and another starts, both are lit by flickering
+torch light.  A faint breezr can be felt coming from the south, where a
+breeze would originate underground is difficult to fathom.  A soft scraping
+sound can be heard drifting from the west and north, there are certainly
+people or creatures down here.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 6659
+D2
+~
+~
+0 0 6654
+D3
+~
+~
+0 0 6652
+S
+#6657
+Smuggler's Square~
+Pushing aside the thick curtain and stepping out of the dank corridor,
+sudden light assaults the eyes.  The light is coming from many torches, the
+smell from the burning torches permeates everything in the room.  Quiet
+voices can be heard coming from niches in the walls of the room.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 6660
+D1
+~
+~
+0 0 6652
+D2
+~
+~
+0 0 6655
+S
+#6658
+Smuggler's Square~
+Standing in the middle of an intermeditary room, whispers are floating in
+from every direction.  A table in the centre has a lantern placed on it, it
+adds to the glow of the torches mounted on the wall.  It almost looks as
+thought the lantern and torches are being moved from their original places
+to others.  Something very strange is occurring within these underground
+chambers.  
+~
+0 138412040 0
+D1
+~
+~
+0 0 6659
+D2
+~
+~
+0 0 6652
+D3
+~
+~
+0 0 6660
+S
+#6659
+Smuggler's Square~
+This is another small alcove in the smuggler's lair lit by torches.  The
+room is fairly empty, a fire pit is in the centre of the room, the fire is
+not far from going out.  The embers left in the pit are glowing and flare a
+little when a slight breeze passes over them.  Where the breeze comes from
+is rather hard to detect.  
+~
+0 138412040 0
+D2
+~
+~
+0 0 6656
+D3
+~
+~
+0 0 6658
+S
+#6660
+Smuggler's Square~
+This appears to be the north western corner of the smuggler's square, it
+is hard to tell because of the maze like quality of the place.  There are
+two small cots sitting in the far corner and nothing else to be seen in the
+room.  Only one torch is in the room, and its light just barely means
+anything at all can be made out.  
+~
+0 138412040 0
+D1
+~
+~
+0 0 6658
+D2
+~
+~
+0 0 6657
+S
+#6661
+Stone-Paved Path~
+You are on a stone-paved path.  Westward is a large stone-paved square
+where a few of the merchants cry their wares.  Most of the entrances to the
+towns inns are also over there.  To the east is the Eastern Gate which leads
+to the Caemlyn Road.  
+~
+0 0 1
+D1
+~
+~
+0 0 6662
+D3
+~
+~
+0 0 6522
+S
+#6662
+Stone-Paved Path~
+You are now on a stone-paved path.  Westward the path leads to a large
+stone-paved square where a lot of merchants are set up yelling their wares. 
+Southward leads to the local healer.  They call her Mother Alnora here and
+she will shelter any sick person who is in need.  To the east is the eastern
+gate of the city and the Caemlyn Road.  
+~
+0 0 1
+D1
+~
+~
+0 0 6663
+D2
+~
+~
+0 0 6669
+D3
+~
+~
+0 0 6661
+S
+#6663
+Inside the Eastern Gate~
+You are inside the eastern gate of Whitebridge.  The gatekeepers are
+really close by now and are eyeballing each person that walks through the
+gates and marking tallies for each person that walks through.  To the east
+is a road called Caemlyn that will lead to Four Kings and Caemlyn.  
+~
+0 0 1
+D1
+~
+gate~
+1 0 6664
+D3
+~
+~
+0 0 6662
+S
+#6664
+Outside the Eastern Gate~
+You are outside the eastern gate of Whitebridge.  Two arched iron gates
+are blocking your path to the west.  The gatekeepers are inside the city
+watching the steady flow of merchants come through the gates.  To the east
+is a road that continues eastward to Caemlyn called Caemlyn Road.  
+~
+0 0 1
+D1
+~
+~
+0 0 6665
+D3
+~
+gate~
+1 0 6663
+S
+#6665
+Dusty Gravel Road~
+You are on a hard-packed dirt road called Caemlyn road which runs through
+the city to the west.  The arched iron gates and the two gatekeepers lie to
+the west and a steady stream of merchants flow in and out of the gates.  If
+you were to go to the east it could possibly be days before you see
+civilization.  
+~
+0 0 8
+D1
+~
+~
+0 0 6666
+D3
+~
+~
+0 0 6664
+S
+#6666
+Dusty Gravel Road~
+You continue on the hard-packed dirt road.  Far to the east lies Four
+Kings and Caemlyn but it will take a long time to reach those places.  The
+White Bridge is much closer and you wonder if the bridge will break as the
+people pass on it.  The eastern gate to Whitebridge to the west is much
+closer up now and you can see the stream of merchants leaving the city.  
+~
+0 0 8
+D1
+~
+~
+0 0 6667
+D3
+~
+~
+0 0 6665
+S
+#6667
+Dusty Gravel Road~
+You continue on the hard-packed dirt road.  You can see the White Bridge
+to the west much clearer now.  The gate is a little to the west and you can
+make out the gatekeepers.  Far to the east is Four Kings and Caemlyn but it
+will take days or even weeks to reach there.  
+~
+0 0 8
+D1
+~
+~
+0 0 6668
+D3
+~
+~
+0 0 6666
+S
+#6668
+Dusty Gravel Road~
+A hard-packed dirt road leads eastward toward Caemlyn and westward toward
+Whitebridge.  From here you can see the White Bridge to the west.  A large
+gleaming white structure that looks to be made of glass, ready to break at a
+touch.  The eastern gate of the city to the west is not to far away.  
+~
+0 0 8
+D3
+~
+~
+0 0 6667
+S
+#6669
+Stone Paved-Path~
+You are on a stone-paved path.  Northward the path continues but to the
+south is the local healer, Mother Alnora and her assistant, an expert on
+herbs.  To the south they will shelter any sick person and help them get
+better for a price.  
+~
+0 0 1
+D0
+~
+~
+0 0 6662
+D2
+~
+~
+0 0 6670
+S
+#6670
+Entrance of Mother Alnora's Home~
+You are now in Mother Alnora's house.  Northward will take you to a
+stone-paved path and to the west is a door that leads out to Cedan Street
+and some inns.  Upward you notice stairs leading into the ceiling but there
+is a latch on the wall.  Its probably another room.  
+~
+0 1049600 0
+D0
+~
+~
+0 0 6669
+D3
+~
+~
+1 0 6641
+D4
+~
+trapdoor~
+4 6504 6671
+S
+#6671
+Bedrooms of Mother Alnora's Home~
+You are now in the room where Mother Alnora shelters her sick patients. 
+You notice a woman in the far back behind a desk.  Behind her is a cupboard
+and a bunch of shelves.  The shelves are filled with rows of jars that have
+orange, pink, blue, green, and all sorts of colored liquid concoctions.  She
+must be the herb specialist that works with Mother Alnora.  You notice price
+tags next to those jars.  Looks like she's selling some healing herbs and
+potions.  
+~
+0 2106368 0
+D5
+~
+trapdoor~
+4 0 6670
+S
+#6672
+Common Room of The River Bend~
+You are in the common room of the inn, the River Bend.  The common room
+is fairly large.  To the west and east are where most people are gambling. 
+South of here are a few people eating quietly while watching the gleeman
+perform.  This is a very quiet inn.  
+~
+0 0 0
+D0
+~
+~
+0 0 6754
+D1
+~
+~
+0 0 6676
+D2
+~
+~
+0 0 6762
+D3
+~
+~
+0 0 6750
+S
+#6673
+Common Room of The Drunken Chorus~
+As you enter the common room you can see circular tables with old wooden
+chairs nearby.  There are about ten mugs lying around and a drunks singing
+loudly.  A man lies on the floor and another is being pulled by the arms
+outside the inn.  This old and dirty inn is probably not the best place to
+stay.  
+~
+0 0 0
+D0
+~
+~
+0 0 6763
+D1
+~
+~
+0 0 6764
+D2
+~
+~
+0 0 6775
+D3
+~
+~
+0 0 6678
+S
+#6674
+Common Room of The Drunken Chorus~
+There are circular wooden tables with old and moly chairs nearby.  There
+are a few mugs here, but not one is left full.  Four drunks sit around the
+table trying to sing along with the gleeman that is to the west.  They are
+not doing a very good job.  
+~
+0 0 0
+D0
+~
+~
+0 0 6764
+D2
+~
+~
+0 0 6765
+D3
+~
+~
+0 0 6775
+S
+#6675
+Common Room of The River Bend~
+This is a part of the common room of the River Bend.  The inn is very
+clean and quiet.  This is the far back of the inn.  A few people sit quietly
+at a wooden table whispering secretively amongst themselves.  To the west is
+the stage where the gleeman is performing.  
+~
+0 0 0
+D0
+~
+~
+0 0 6751
+D1
+~
+~
+0 0 6753
+S
+#6676
+Common Room of The River Bend~
+This is part of the common room of the River Bend.  The inn is very clean
+and quiet.  A few people are here throwing dice and gambling quietly as they
+drink from their mugs of ale.  To the south of here is a long bench where
+people are eating their food quietly and watching the gleeman perform.  
+~
+0 0 0
+D2
+~
+~
+0 0 6677
+D3
+~
+~
+0 0 6672
+S
+#6677
+Common Room of The River Bend~
+This is a part of the common room of the River Bend.  The inn is very
+clean and quiet.  There is a long bench that continues westward with a few
+people eating their food and watching the gleeman.  Most of the people in
+this inn seem very rich.  
+~
+0 0 0
+D0
+~
+~
+0 0 6676
+D2
+~
+~
+0 0 6752
+D3
+~
+~
+0 0 6762
+D4
+~
+~
+0 0 6680
+S
+#6678
+Common Room of The Drunken Chorus~
+There are circular wooden tables with old and moldy chairs nearby.  There
+are a few mugs here, but not one is left full.  A man is vomiting in the
+corner and reeks of urine.  Towards the front of the common room is a stage
+what looks to be like a gleeman.  
+~
+0 0 0
+D1
+~
+~
+0 0 6673
+D2
+~
+~
+0 0 6679
+S
+#6679
+Common Room of The Drunken Chorus~
+There are circular wooden tables with old and moly chairs nearby.  There
+are a few mugs here, but not one is left full.  Four drunks sit around the
+table trying to sing along with the gleeman that is to the west.  They are
+not doing a very good job.  There is a staircase leading to the bedrooms
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 6678
+D1
+~
+~
+0 0 6775
+D2
+~
+~
+0 0 6767
+D4
+~
+~
+0 0 6684
+S
+#6680
+Hallway to Bedrooms~
+At the top of the stairs a hall leads to the rooms, there are six doors
+in the hall leading to the inn's rooms.  A sign on the wall states the
+prices of the rooms, on the whole they seem to be well priced.  The noise
+from the common room filters up the stairs, laughter is the most common
+sound coming from there.  
+~
+0 8 0
+D3
+~
+~
+0 0 6681
+D5
+~
+~
+0 0 6677
+S
+#6681
+Hallway~
+A little way along the hall and there are two doors set into the hall's
+walls, they must lead to two of the inn's rooms.  A pair of small tapestries
+hang on wither side of the doors.  Some muffled scraping can be heard coming
+from behind the northern door, other than that there is little noise to be
+heard.  
+~
+0 8 0
+D0
+~
+~
+0 0 6682
+D1
+~
+~
+0 0 6680
+D2
+~
+~
+0 0 6683
+D3
+~
+~
+0 0 6756
+S
+#6682
+Small Bedroom~
+This room is on the small side, it is set out the same as the room on the
+south side of the hall.  The only thing that is different is a small man who
+is trying to move the bed.  Since there is know room to move it this seems a
+little strange.  The man is moving a little unsteadily, perhaps he is drunk.
+~
+0 0 0
+D2
+~
+~
+0 0 6681
+S
+#6683
+Small Bedroom~
+This room is very small, it has a small bed that is big enough for one
+person only.  A dresser is up against one wall, with a wash basin standing
+on top of it.  A mirror is mounted on the wall above the dresser.  A samll
+closet is standing on the other side of the bed.  With these three pieces of
+furniture there is little room available.  
+~
+0 8 0
+D0
+~
+~
+0 0 6681
+S
+#6684
+Hallway to Bedrooms~
+This is a hallway with dirty wooden wall on either side and some awkward
+paintings on display.  One is of cloud people that are floating around doing
+every day stuff.  Farther ahead are the bedrooms where travelers stay. 
+There is also a staircase that leads to the common room of this inn.  
+~
+0 0 0
+D1
+~
+~
+0 0 6685
+D5
+~
+~
+0 0 6679
+S
+#6685
+Hallway~
+This is a hallway with dirty wooden walls on either side and some awkward
+things on display.  There is a sculpture of a fluffy cloud creatures
+floating around on an island that looks much like this one.  To the north
+and south of here are bedrooms for travellers.  
+~
+0 0 0
+D0
+~
+~
+0 0 6686
+D1
+~
+~
+0 0 6769
+D2
+~
+~
+0 0 6687
+D3
+~
+~
+0 0 6684
+S
+#6686
+Small Bedroom~
+This bedroom is very small with one tiny bed that has sheets with yellow
+stains and a moldy wooden frame.  Nothing else is in this small room.  The
+whole room is disgusting.  From here you can go into the hallway which leads
+to more bedrooms.  
+~
+0 0 0
+D2
+~
+~
+0 0 6685
+S
+#6687
+Small Bedroom~
+This bedroom is very small with one tiny bed that has sheets with yellow
+stains and a moldy wooden frame.  Nothing else is in this small room.  The
+whole room is disgusting.  From here you can go into the hallway which leads
+to more bedrooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 6685
+S
+#6688
+Entrance to the Mull's Home~
+Mull's home is rather understated in is decorating, there are three
+paintings on the wall.  They are well done, but no where exquisite.  The rug
+on the floor is well made and not extravagant, it apears as though Mull is
+of middle class.  The smell of food is wafting through the house, and it
+smells very good.  
+~
+0 8 0
+D0
+~
+~
+0 0 6638
+D2
+~
+~
+0 0 6700
+D3
+~
+~
+0 0 6691
+S
+#6689
+Entrance to the Neres' Home~
+The home of Nere's is beautifully decorated, the rugs on the floor are
+richly woven and thick.  The low table, coat rack and display cabinet here
+are highly polished and inlaid with gold and silver.  The display in the
+cabinet is a mixture of figurines of differing sizes, some are made of
+polished wood, others precious metals.  Some are made from marble and it
+looks like some may be of heart stone.  
+~
+0 8 0
+D0
+~
+~
+0 0 6639
+D1
+~
+~
+0 0 6690
+D2
+~
+~
+0 0 6692
+S
+#6690
+Kitchen of the Neres' Home~
+There is a large work table in the middle of the room, on the far side of
+it is a large oven and nearby is a firplace.  A fire is laid in the
+fireplace and several pots of differing sizes hang from hooks over it. 
+Hooks along the wall over the stove are filled with pots and pans, even some
+skillets are there.  A container on the table holds large spoons, ladles and
+other kitchen utensils.  On on side of the table there is a block with
+knives in it.  Next to that is a large chopping block with a cleaver sitting
+on it.  
+~
+0 8 0
+D2
+~
+~
+0 0 6693
+D3
+~
+~
+0 0 6689
+S
+#6691
+Mull's Dining Room~
+The large table and chairs dominating this room are all well made from a
+dark timber, and polished so they shine.  There are no embellishments
+though, they are simple in their design.  A maid is placing some plates and
+cutlery on the table.  Another maid is bringing out some fresh baked rolls,
+along with a platter of cheese and fruits.  
+~
+0 8 0
+D1
+~
+~
+0 0 6688
+D2
+~
+~
+0 0 6698
+S
+#6692
+Neres' Dining Room~
+The owner of this house must have money and likes to display their
+wealth.  The dining table is made of polished wood that looks to be from one
+of the great trees.  The cutlery and china laid out is all inlaid with gold
+or silver.  A wine decanter in the middle of the table is made of crystal
+chased with gold as are all the chalices on the table.  
+~
+0 8 0
+D0
+~
+~
+0 0 6689
+D1
+~
+~
+0 0 6693
+S
+#6693
+Neres' Stairway to Bedrooms~
+The rails of the stairway to the second floor are richly carved, it looks
+like the rails are vines climbing up the stairs.  A large cabinet is against
+the side of the stairs filled with tomes, and a divan is set next to it. 
+The divan is covered in plush cushions and would be an ideal place to curl
+up and read a book.  
+~
+0 8 0
+D0
+~
+~
+0 0 6690
+D3
+~
+~
+0 0 6692
+D4
+~
+~
+0 0 6694
+S
+#6694
+End of Stairway~
+At the top of the stairs a short hallway leads to the bedrooms of the
+house hold.  Paintings adorn the walls, most are of market places but one is
+a family portrait.  A man is standing behind a beautiful women, who is
+sitting in a chair.  Gathered on one side of the chair are two young boys
+and one young girl.  Standing on the other side of the chair is a young
+woman.  
+~
+0 8 0
+D3
+~
+~
+0 0 6695
+D5
+~
+~
+0 0 6693
+S
+#6695
+Neres' Hallway to Bedrooms~
+The doors that lead to the bedrooms are closed, the carving on and around
+them is very detailed.  One of the doors is carved with a man in armour, the
+other is of a women clothed only in long curling hair.  A window set in the
+wall is made of stained glass, it depicts a scene of people sitting down to
+a feast.  
+~
+0 8 0
+D0
+~
+~
+0 0 6696
+D1
+~
+~
+0 0 6694
+D2
+~
+~
+0 0 6697
+S
+#6696
+Neres' Master Bedroom~
+This room is even more luxurious than the rest of the house, the curtains
+are made of silk.  The bed clothes are either of silk or satin.  The bed is
+massive and carved with animals as is the accompanying dresser.  The rugs on
+the floor are very thick and soft, and the desk is so inlaid with gold the
+wood can be barely be seen.  A firplace is in one wall, and a low fire
+crackles and pops.  
+~
+0 8 0
+D2
+~
+~
+0 0 6695
+S
+#6697
+Neres' Bedroom~
+This bedroom is as luxurious as the rest of the house.  The wardrobe is
+inlaid with gold and made from dark wood.  The bed is on the larger size and
+its frame is carved with flowers and vines.  The stand mirror is gilded in
+gold and the stand for it is made to look like a small tree.  
+~
+0 8 0
+D0
+~
+~
+0 0 6695
+S
+#6698
+Mull's Stairway to Bedrooms~
+This room contains a large desk and several bookcases.  The bookcases are
+full of ledgers and books, whilst the desk has several piles of paper on it.
+A large staircase at the rear of the room leads up to the second floor. 
+Beside the staircase is a cabinet displaying gold encrusted plates and some
+silver and gold plated cutlery.  
+~
+0 8 0
+D0
+~
+~
+0 0 6691
+D1
+~
+~
+0 0 6700
+D4
+~
+~
+0 0 6699
+S
+#6699
+End of the Stairway~
+The stairway ends here on the second floor, it combines with a hall to
+the bedrooms of the house.  There are only two doors leading of the hall,
+and the walls have numerous paintings and tapestries hung on them.  They
+depict images of battle to a scene of a family having a picnic by a river. 
+The rug on the floor is a colourful mosaic in the Tairen style, and it is
+quite thick.  
+~
+0 8 0
+D1
+~
+~
+0 0 6701
+D5
+~
+~
+0 0 6698
+S
+#6700
+Mull's Kitchen~
+The wonderful smell of food was coming from here, the kitchen.  An
+elderly lady is pottering around the tables, fire and stove of the room
+preparing a meal.  A stew of some sort is bubbling away in a pot over the
+fire.  Bread can be smelt baking in the stove, and vegetables of various
+kinds are cooking in pans on the oven top.  
+~
+0 8 0
+D0
+~
+~
+0 0 6688
+D3
+~
+~
+0 0 6698
+S
+#6701
+Mull's Hallway to Bedrooms~
+The hallway ends here, it is only a short hall.  The doors to two rooms
+are open and the beds of both bedrooms can be seen from here.  A painting of
+a man carrying a bulging sack and using a walking stick is hung on the wall.
+He is of middle age and has bells tied in his long hair.  
+~
+0 8 0
+D0
+~
+~
+0 0 6702
+D2
+~
+~
+0 0 6703
+D3
+~
+~
+0 0 6699
+S
+#6702
+Mull's Master Bedroom~
+A large four poster bed takes pride of place in this room, light gauzy
+curtains are pulled back so the bed is accessible.  A large closet is placed
+in one corner, with a dresser and mirror beside it.  Several shelves line
+the wall to the east, and these are occupied by a number of books, and even
+some scrolls.  
+~
+0 8 0
+D2
+~
+~
+0 0 6701
+S
+#6703
+Mull's Bedroom~
+This bedroom is a little smaller in size than the one to the north, the
+bed is still quite large, though it is not a four poster.  A small dresser
+is beside the door and a wardrobe is on the other side.  A window above the
+bed is open and a gentle breeze is blowing the curtains.  The walls are
+unadorned and painted in soft pastel shades.  
+~
+0 8 0
+D0
+~
+~
+0 0 6701
+S
+#6704
+Entrance to the Dearn's Home~
+The entry hall to this house shows a house that looks like a normal
+everyday home.  There is little in the way of embellishment on the
+furnishings, the rug is looking a little threadbare.  Most of it looks
+extremely well made, just old and well used.  The books that are on shelves
+on the wall are all worn and the scrolls are all well creased.  
+~
+0 8 0
+D0
+~
+~
+0 0 6632
+D2
+~
+~
+0 0 6706
+D3
+~
+~
+0 0 6705
+S
+#6705
+Dearn's Dining Room~
+The table and chairs of the dining area are delicately carved with roses,
+but as with everything else in the house they are old and worn.  In some
+areas the roses can be barely seen.  A bowl in the shape of a rose sits in
+the middle of the table, it is filled with water and has candles floating in
+it.  A samll glass fronted cabinet is in the corner, it is full of glassware
+of various types and sizes.  
+~
+0 8 0
+D1
+~
+~
+0 0 6704
+D2
+~
+~
+0 0 6707
+S
+#6706
+Dearn's Kitchen~
+The polish of the food preparation table has gone and the pots and pans
+all have dents, some even have holes in them.  The handles of the knives and
+the other utensils are also worn, some of them nearly all the way through. 
+The smell emantating from a large cauldron over an open fire is however
+singularly delicious.  Having old equipment does not stop the cook from
+preparing great food.  
+~
+0 8 0
+D0
+~
+~
+0 0 6704
+D3
+~
+~
+0 0 6707
+S
+#6707
+Dearn's Stairway to Bedrooms~
+Other than a curved stairway leading to the second floor of the house,
+there is nothing else in this room, except a large rug.  The rug is woven
+into a scene of a fishing boat in the middle of the ocean.  The sailors on
+board are hauling a net onto the boat.  A old man is making his way down the
+stairway, one hand on the hand railing the other holding a cane.  
+~
+0 8 0
+D0
+~
+~
+0 0 6705
+D1
+~
+~
+0 0 6706
+D4
+~
+~
+0 0 6708
+S
+#6708
+End of Stairway~
+An old man is slowly making his way down the stairs, one hand using the
+hand rail to steady himslef, the other using a cane.  Two old and engraved
+chests sit at the top of the stairs, the engraving has been detailed with
+gold and silver.  A tapestry is hanging above the chests, it is of a young
+man standing by a war horse his hand is at his waist resting on the hilt of
+his sword.  Another two hilts are poking over his shoulder and a bow is
+hanging from the saddle horn.  
+~
+0 8 0
+E
+tapestry~
+The colours in the tapestry are exquisite, the cloth used to make it seems to hold the colour well. The stitching is also of excellent quality, this piece of art is a real master piece.
+The depicted man is very handsome and looks confident, there is even a sense of arrogance in his stance. The corners of his mouth are tweaked slightly, as if he is amused by something.
+~
+D1
+~
+~
+0 0 6709
+D5
+~
+~
+0 0 6707
+S
+#6709
+Dearn's Hallway to Bedrooms~
+The hall ends here, to the north and south are two closed doors.  An open
+window is set into the wall, it overlooks the city to the east.  The doors
+themselves are plain, with large key holes and enlarged door knobs.  Other
+than the one window there is nothing else on the walls, in fact the whole
+hall is bare.  Excpet of course for the window and the one tapestry.  
+~
+0 8 0
+D0
+~
+~
+0 0 6710
+D2
+~
+~
+0 0 6711
+D3
+~
+~
+0 0 6708
+S
+#6710
+Dearn's Master Bedroom~
+This bedroom is surprisingly sparsely furnished, most especially for one
+that is supposed to be a master bedroom.  A large and well made bed is
+slightly off centre against the northern wall.  A small wardrobe is pushed
+into the north west corner, two small tables are placed either side of the
+bed.  Finally there is a small desk and chair just behind the door.  
+~
+0 8 0
+D2
+~
+~
+0 0 6709
+S
+#6711
+Dearn's Bedroom~
+This room is simply but tastefully furnished, the one bed is meant for
+one person.  Two large closets are up against the wall, near the door and a
+dresser is placed near the bed.  A small writing table and chair are against
+the eastern wall, a small stack of papers is on the desk.  A pair of
+armchairs and an accompanying table are paced just of centre of the room.  
+~
+0 8 0
+D0
+~
+~
+0 0 6709
+S
+#6712
+Entrance to the Toren's Home~
+This home is rather comfortable in appearance.  This entrance foyer has
+several display cabinets and a bookcase placed along the walls.  A long and
+thick rug runs down the middle of the room.  The bookcase is filled with
+varying books, they are of differing sizes and topics.  'The Adventure's of
+Jain Fairstrider' is only one of the books here.  One of the cabinets is
+full of porcelain dolls, the other has daggers displayed in it.  
+~
+0 8 0
+D0
+~
+~
+0 0 6629
+D1
+~
+~
+0 0 6713
+D2
+~
+~
+0 0 6714
+S
+#6713
+Toren's Dining Room~
+A well made and sparsely carved table and padded chairs are the centre
+pieces of this dining room.  A small side table is placed against one wall,
+well away from the main table, another slightly larger table holding a
+decanter and glassware is on the opposite of the main table.  A crystal bowl
+sits in the centre of the main table filled with fruits.  
+~
+0 8 0
+D2
+~
+~
+0 0 6715
+D3
+~
+~
+0 0 6712
+S
+#6714
+Toren's Stairway to Bedroom~
+A stairway leads up to the second floor, the stairs are unadorned and the
+bannister has only light carving on it.  The bannister posts are carved into
+indistinct humanoid firgures.  A fairly large couch sits with its back up
+against the stairway, and a bookcase is against the far wall.  A small table
+is set in front of the couch, a bowl of fruit sits on the table, as does a
+half rolled up scroll.  
+~
+0 8 0
+D0
+~
+~
+0 0 6712
+D1
+~
+~
+0 0 6715
+D4
+~
+~
+0 0 6716
+S
+#6715
+Toren's Kitchen~
+A young woman is at standing at the main work table of the kitchen
+kneading some bread.  A kettle is just starting to boil on the stove, and a
+pot over the open fire place has something bubbling away in it.  What ever
+it is it smells delicious.  The untensils, pots and pans not in use are all
+neatly put away, wether it is hanging from hooks or in containers.  
+~
+0 8 0
+D0
+~
+~
+0 0 6713
+D3
+~
+~
+0 0 6714
+S
+#6716
+End of Stairway~
+A short hall extends to the east, leading to the residence's bedrooms. 
+The two doors leading to the bedrooms can be seen, and both are closed.  A
+mural covers the wall at the end of the hall way, it is of a forest pool
+scene.  The wall at the end of the staiway has another forest scene painted
+on it, this one has some fantastical looking creatures included in the
+mural.  
+~
+0 8 0
+D1
+~
+~
+0 0 6717
+D5
+~
+~
+0 0 6714
+S
+#6717
+Toren's Hallway to Bedrooms~
+This is the end of the hallway, on either side there is a closed door. 
+The mural on the wall is extremely well done, it almost looks like a real
+forest pool is here.  The doors to the bedrooms are plain and unadorned as
+are the lintels.  A scratching noise of quill on paper can barely be heard
+coming from the northern room.  No noise can be detected coming from the
+other room.  
+~
+0 8 0
+D0
+~
+~
+0 0 6718
+D2
+~
+~
+0 0 6719
+D3
+~
+~
+0 0 6716
+S
+#6718
+Toren's Master Bedroom~
+This must be the master bedroom of the household.  A large bed with six
+posts supporting a gauzy frame and light curtains stands against the northen
+wall under a window.  A large desk and well padded chair are the other major
+feature of the room.  A middle aged man is sitting at the desk working at
+parchment, he is so engrossed in his work, he does not even look up when the
+door opens.  
+~
+0 4194312 0
+D2
+~
+~
+0 0 6717
+S
+#6719
+Toren's Bedroom~
+This bedroom is only a little smaller than the master bedroom.  A normal
+sized bed and a large ebony closet are the main features of this room.  A
+smaller dresser with a mounted mirror is also here, it matches the closet in
+style and make.  The windows of the room are open and a slight breeze,
+gentle blows the curtains around.  
+~
+0 8 0
+D0
+~
+~
+0 0 6717
+S
+#6720
+Port Side Bow~
+The crowd of sailors is lessened, even this little bit further along the
+port side.  Looking back they mostly seem more concentrated on the cargo. 
+One or two can be seen moving down the ramp to the docks, to help with that
+end of the unloading process.  Every now and then a shudder can be felt
+passing through the ship as it hits the dock.  
+~
+0 0 0
+D0
+~
+~
+0 0 6722
+D1
+~
+~
+0 0 6568
+D3
+~
+~
+0 0 6726
+S
+#6721
+Bow~
+Standing here in the middle of the lower deck, sailors are rushing past. 
+They are well drilled and efficient crew.  Other sailor can be seen sitting
+in areas of out the way mending the various sails used by this ship.  Still
+others are going about and cleaning the ship.  
+~
+0 0 0
+D0
+~
+~
+0 0 6723
+D1
+~
+~
+1 0 6739
+D2
+~
+~
+0 0 6568
+D3
+~
+~
+0 0 6722
+S
+#6722
+Bow~
+The mid-bow area of the ship is just on the edge of the hustle of the
+unloading area.  Sailors brush past in the performance of their appointed
+tasks.  Yelled orders can be heard over the confusion of voices.  The
+creaking of windlasses moving the cargo nets mixes in with the babble of
+voices and the cries of the birds overhead.  Curses can be heard
+interspersed with the yelled orders and the general welter of noise.  
+~
+0 0 0
+D0
+~
+~
+0 0 6724
+D1
+~
+~
+0 0 6721
+D2
+~
+~
+0 0 6720
+D3
+~
+~
+0 0 6726
+S
+#6723
+Ladder to Amidships~
+Moving to the center of the lower deck a ladder can be seen leading up to
+amidships.  Several people can be both heard and seen above directing all
+movement at this level.  Sailors are scurrying around performing their
+duties.  These vary from swabbing the deck and general cleaning to moving
+the cargo.  
+~
+0 0 0
+D2
+~
+~
+0 0 6721
+D3
+~
+~
+0 0 6724
+D4
+~
+~
+0 0 6728
+S
+#6724
+Starboard Side Bow~
+This is the starboard side of the bow, there is a little less movement of
+sailors on this side.  Most of the work is being done on the port side,
+where the moving of cargo is being completed The bow covers an area fairly
+large area to the south and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 6723
+D2
+~
+~
+0 0 6722
+D3
+~
+~
+0 0 6725
+S
+#6725
+Starboard Side Bow~
+There is no need to dodge quickly moving sailors here, the majority of
+them are to be found on the port side of the ship.  Those that are working
+in this area are performing tasks that require patience and not speed or
+strength.  Simple tasks such as repairing sail cloth, others can be seen
+checking for damage to the hull and railings in this area.  
+~
+0 0 0
+D1
+~
+~
+0 0 6724
+D2
+~
+~
+0 0 6726
+D3
+~
+~
+0 0 6727
+S
+#6726
+Port Side Bow~
+The final point of the ship is just ahead, and this far back to the bow
+there are virtually no sailors present.  One man can be seen leaning on the
+bulkhead looking out of the windows over the Arinelle.  A couple of sailors
+can be seen just to the north repairing some damaged sail cloth, other than
+them there is no one else here.  
+~
+0 0 0
+D0
+~
+~
+0 0 6725
+D1
+~
+~
+0 0 6720
+D3
+~
+~
+0 0 6727
+S
+#6727
+Bow~
+The ship goes no further, this is the bow.  Stretching back to the east
+and south, the port and starboard sides are a contrast in movement.  The
+starboard is all quiet, with little movement, whilst the port side is full
+of hurrying sailors, completing the loading and unloading of cargo.  From
+this vantage point several people can be seen walking around the two upper
+levels of the ship.  
+~
+0 0 0
+D1
+~
+~
+0 0 6726
+S
+#6728
+Amidships~
+After climbing the ladder to amidships, there is little hustle to be
+found.  Several people can be seen leaning on the railings observing the
+unloading.  One often yells out instructions and orders.  Other than that it
+is fairly slow up here, when compared to the chaos in the bow.  
+~
+0 0 0
+D1
+~
+~
+0 0 6731
+D2
+~
+~
+0 0 6729
+D5
+~
+~
+0 0 6723
+S
+#6729
+Amidships~
+There are two people leaning against the rail here, observing the chaos
+below in the bow.  They are talking quietly to each other.  Every so often,
+one shakes his head and yells down at the sailors working in the bow.  The
+take no notice of any one else moving around this part of the ship.  
+~
+0 0 0
+D0
+~
+~
+0 0 6728
+D1
+~
+~
+0 0 6732
+D2
+~
+~
+0 0 6730
+S
+#6730
+Amidships~
+From this position of amidships, the unloading of the ship is seen
+completely.  Those sailors moving the cargo from the hold are easily seen,
+as are the men working the docks.  The chatter and curses of both groups of
+workers is easily heard from here.  A man can be seen standing on the docks
+with quill and paper, it looks like he is making notes and marking lines on
+the paper.  
+~
+0 0 0
+D0
+~
+~
+0 0 6729
+D1
+~
+~
+0 0 6733
+S
+#6731
+Ladder to Stern~
+There is another ladder here, this one leads to the stern of the ship. 
+There can be little movement heard or seen on the ship's stern.  The noises
+from the bow of the ship can be faintly heard in this part of amidships. 
+Creaking can be heard coming from the stern, there must be at least on
+person moving around up there.  
+~
+0 0 0
+D2
+~
+~
+0 0 6732
+D3
+~
+~
+0 0 6728
+D4
+~
+~
+0 0 6734
+S
+#6732
+Amidships~
+Standing amidships here, and the stern is laid out above.  No one can be
+seen moving around there, most probably because they are in the bow
+unloading the ship , and reloading it.  The stern looks to be some what
+sorter than the ships bow.  
+~
+0 0 0
+D0
+~
+~
+0 0 6731
+D2
+~
+~
+0 0 6733
+D3
+~
+~
+0 0 6729
+S
+#6733
+Amidships~
+Even thought this is the port side and therefore closest to the unloading
+of the ship, there is little to be seen from this vantage point.  This is
+mostly because of a large bulkhead that runs across the deck.  Those windows
+that are present all open to the stern.  
+~
+0 0 0
+D0
+~
+~
+0 0 6732
+D3
+~
+~
+0 0 6730
+S
+#6734
+Stern~
+The stern of the ship is quite a bit smaller than the bow, and just a
+little smaller than amidships.  Only one person can be seen within the
+stern, he can be seen pacing the port side of the stern.  The only noises
+that can be heard are those drifting up from the docks, and the water
+lapping at the hull of the ship.  
+~
+0 0 0
+D1
+~
+~
+0 0 6737
+D2
+~
+~
+0 0 6735
+D5
+~
+~
+0 0 6731
+S
+#6735
+Stern~
+Just to the south of the mid-stern a man can be seen pacing the ship's
+deck.  The noise of the people on the docks can be heard drifting up on the
+breeze.  Occasionally a shudder runs through the ship as hit gentle bumps
+the dock.  These shudders do not affect the pacing man.  
+~
+0 0 0
+D0
+~
+~
+0 0 6734
+D1
+~
+~
+0 0 6738
+D2
+~
+~
+0 0 6736
+S
+#6736
+Stern~
+This is the port side of the stern, an middle aged man is pacing the deck
+here.  Every so often he stops and looks out to the docks and mutters to
+himself.  As he walks he often shakes his head and mumbles to himself.  He
+is the only other person on the stern.  
+~
+0 0 0
+D0
+~
+~
+0 0 6735
+D1
+~
+~
+0 0 6738
+S
+#6737
+Stern~
+Here on the starboard side of the stern, it is rather peaceful.  There is
+little noise of the noise of the docks and the bow area reaching here. 
+Mostly it is the quiet slap of water on the ship's hull, the odd creaking
+board of the deck and the call of the gathered birds.  The Arinelle
+stretches to the horizon in the north, on either side of it green fields can
+be seen.  There is the odd copse of trees breaking up the fields.  
+~
+0 0 0
+D2
+~
+~
+0 0 6738
+D3
+~
+~
+0 0 6734
+S
+#6738
+Stern~
+From this vantage point at the end of the ship and the port side, the
+docks are easily seen.  The city can also be seen, over a slight rise in the
+ground.  Some people can be seen moving down a path, towards the docks.  The
+docks also are alive with activity, people are running backwards and
+forwards on various errands and jobs.  
+~
+0 0 0
+D0
+~
+~
+0 0 6737
+D3
+~
+~
+0 0 6736
+S
+#6739
+Stairs to Lower Deck~
+~
+0 0 0
+D3
+~
+~
+1 0 6721
+D5
+~
+~
+0 0 6740
+S
+#6740
+End of Stairs~
+~
+0 0 0
+D1
+~
+~
+0 0 6741
+D4
+~
+~
+0 0 6739
+S
+#6741
+Lower Deck Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6743
+D1
+~
+~
+0 0 6742
+D2
+~
+~
+0 0 6749
+D3
+~
+~
+0 0 6740
+S
+#6742
+Lower Deck Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6744
+D1
+~
+~
+0 0 6746
+D2
+~
+~
+0 0 6745
+D3
+~
+~
+0 0 6741
+S
+#6743
+Galleys~
+~
+0 0 0
+D2
+~
+~
+0 0 6741
+S
+#6744
+Captains Cabin~
+~
+0 0 0
+D2
+~
+~
+0 0 6742
+S
+#6745
+Crews Cabin~
+~
+0 0 0
+D0
+~
+~
+0 0 6742
+S
+#6746
+Lower Deck Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 6747
+D2
+~
+~
+0 0 6748
+D3
+~
+~
+0 0 6742
+S
+#6747
+Passenger's Cabin~
+~
+0 0 0
+D2
+~
+~
+0 0 6746
+S
+#6748
+Passenger's Cabin~
+~
+0 0 0
+D0
+~
+~
+0 0 6746
+S
+#6749
+Storage Room~
+~
+0 0 0
+D0
+~
+~
+0 0 6741
+S
+#6750
+Common Room of The River Bend~
+This is part of the common room of the River Bend.  The inn is very clean
+and quiet.  A few people are here throwing dice and gambling quietly as they
+drink from their mugs of ale.  To the south of here is a long bench where
+people are eating their food quietly and watching the gleeman perform.  
+~
+0 0 0
+D1
+~
+~
+0 0 6672
+D2
+~
+~
+0 0 6751
+S
+#6751
+Common Room of The River Bend~
+This is a part of the common room of the River Bend.  The inn is very
+clean and quiet.  There is a long bench that continues eastward with a few
+people eating their food and watching the gleeman.  Most of the people in
+this inn seem very rich.  
+~
+0 0 0
+D0
+~
+~
+0 0 6750
+D1
+~
+~
+0 0 6762
+D2
+~
+~
+0 0 6675
+S
+#6752
+Common Room of The River Bend~
+This is a part of the common room of the River Bend.  The inn is very
+clean and quiet.  This is the far back of the inn.  A few people sit quietly
+at a wooden table whispering secretively amongst themselves.  To the west is
+the stage where the gleemon is performing.  
+~
+0 0 0
+D0
+~
+~
+0 0 6677
+D3
+~
+~
+0 0 6753
+S
+#6753
+Stage of The River Bend~
+This is the stage of the River Bend where performers entertain the
+audience.  The entire room can be seen from here, except for the bar south
+of here.  Many performers have come to entertain here, but the performer has
+always been a gleeman.  
+~
+0 0 0
+D0
+~
+~
+0 0 6762
+D1
+~
+~
+0 0 6752
+D2
+~
+~
+0 0 6755
+D3
+~
+~
+0 0 6675
+S
+#6754
+Entrance to The River Bend~
+You have entered an inn called the River Bend.  To the south is the
+common room.  The entire inn seems immaculate from here.  There are a few
+people in the common room gambling, listening to performer, and eating their
+suppers.  This inn is meant for travellers with quite a bit of money.  
+~
+0 0 0
+D0
+~
+~
+0 0 6536
+D2
+~
+~
+0 0 6672
+S
+#6755
+Bar of The River Bend~
+This is the bar of the River Bend.  The only way to access this place is
+through the backstage which is slightly inconvenient.  The bartender is
+making numerous drinks at once and a few maidservants crowding the room.  
+The smell of great food is coming from the south.
+~
+0 0 0
+D0
+~
+~
+0 0 6753
+D2
+~
+~
+0 0 6510
+S
+#6756
+Hallway~
+This is roughly the middle of the hall, the hall extends back to the
+stairs and at the other end a window is set into the wall.  The two doors
+located here are flanked by a pair of medium sized tapestries.  The
+tapestries depict various scenes of a full inn, perhaps it is this inn
+pictured.  
+~
+0 8 0
+D0
+~
+~
+0 0 6758
+D1
+~
+~
+0 0 6681
+D2
+~
+~
+0 0 6759
+D3
+~
+~
+0 0 6757
+S
+#6757
+Hallway~
+The end of the hall, a window is set into the wall here it looks out over
+what looks like a park, there are many trees growing there any way.  The
+window and the two doors here have large tapestries flanking them.  A
+picture is hung above the window, all of these depict scenes of battle. 
+Human against human and human against monsters.  Judging by the distance to
+the last two door ways, the rooms on either side here are large.  
+~
+0 8 0
+D0
+~
+~
+0 0 6760
+D1
+~
+~
+0 0 6756
+D2
+~
+~
+0 0 6761
+S
+#6758
+Medium-Sized Bedroom~
+A slightly larger room than those next door to the east, this is easily
+seen by the size of the bed and the amount of room around it.  The bed can
+comfortably fit two adults, and there is enough room for a number of pieces
+of furniture.  A large dresser is against one wall, a writing desk is
+against the wall on the opposite side of the bed.  Finally there is a large
+wardrobe standing beside the door.  
+~
+0 0 0
+D2
+~
+~
+0 0 6756
+S
+#6759
+Medium-Sized Bedroom~
+A slightly larger room than those next door to the east, this is easily
+seen by the size of the bed and the amount of room around it.  The bed can
+comfortably fit two adults, and there is enough room for a number of pieces
+of furniture.  A large dresser is against one wall, a wardrobe stands beside
+the door and there is a writing desk against the wall on the opposite side
+to the dresser.  
+~
+0 8 0
+D0
+~
+~
+0 0 6756
+S
+#6760
+Inkeeper's Bedroom~
+This is the room of the innkeeper, a large desk is beside the door.  It
+is covered with stacks of paper, beside it is a bookcase filled with
+ledgers.  A bed big enough for two adults is against the northern wall,
+under an open window.  There is a window in the western wall that takes up
+nearly half the wall, giving a view of the square to the north and the
+buildings to the west.  The other side of the bed has a dresser with a
+medium sized wardrobe next to it.  
+~
+0 8 0
+D2
+~
+~
+0 0 6757
+S
+#6761
+Large Bedroom~
+This room is huge, there is a bed standing against the southern wall
+under a window.  By the its sheer size it must have been made for Ogier. 
+Two wardrobes stand side by side against one wall and a dresser is against
+another wall.  There is a desk by the door and the accompanying chair is
+much too big for a human.  
+ 
+This really must be an Ogier room.
+~
+0 2097160 0
+D0
+~
+~
+0 0 6757
+S
+#6762
+Common Room of The River Bend~
+This is a part of the common room of the River Bend.  The inn is very
+clean and quiet.  There is a long bench that continues eastward and westward
+with a few people eating their food and watching the gleeman.  Most of the
+people in this inn seem very rich.  
+~
+0 0 0
+D0
+~
+~
+0 0 6672
+D1
+~
+~
+0 0 6677
+D2
+~
+~
+0 0 6753
+D3
+~
+~
+0 0 6751
+S
+#6763
+Entrance to The Drunken Chorus~
+You have entered an inn called The Drunken Chorus.  To the south is the
+common room.  The walls look pretty old and a little dirty.  When you glance
+into the common room you can see a bunch of drunken men singing rauciously
+and raising their mugs together.  I guess this inn's description fits the
+name.  
+~
+0 0 0
+D0
+~
+~
+0 0 6538
+D2
+~
+~
+0 0 6673
+S
+#6764
+Common Room of The Drunken Chorus~
+There are circular wooden tables with old and moldy chairs nearby.  There
+are a few mugs here, but not one is left full.  A man lies on the floor and
+looks as if he has been beaten over the head with a bottle of ale.  Towards
+the front of the common room is a stage and what looks to be like a gleeman.
+~
+0 0 0
+D2
+~
+~
+0 0 6674
+D3
+~
+~
+0 0 6673
+S
+#6765
+Common Room of The Drunken Chorus~
+This area is generally where the people who are looking for privacy or
+are trying to get away from the loud audience stay to drink quietly.  To the
+east there is a bar where you can grab a mug of ale or order something from
+the kitchen.  
+~
+0 0 0
+D0
+~
+~
+0 0 6674
+D3
+~
+~
+0 0 6766
+S
+#6766
+Bar of The Drunken Chorus~
+Here you can ask the bartender to get you a mug of ale.  A few people sit
+here waiting for their drinks or food to be prepared.  A sign is left behind
+the bar that says, "Be Back in 5 Minutes."  The bartender and cook must be
+out right now.  To the south of here is the kitchen where the food is
+prepared.  
+~
+0 0 0
+D0
+~
+~
+0 0 6775
+D1
+~
+~
+0 0 6765
+D2
+~
+~
+0 0 6768
+D3
+~
+~
+0 0 6767
+S
+#6767
+Common Room of The Drunken Chorus~
+This area is generally where the people who are looking for privacy or
+are trying to get away from the loud audience stay to drink quietly.  To the
+east there is a bar where you can grab a mug of ale or order something from
+the kitchen.  
+~
+0 0 0
+D0
+~
+~
+0 0 6679
+D1
+~
+~
+0 0 6766
+S
+#6768
+Kitchen of The Drunken Chorus~
+Here in the kitchen supper is being prepared.  It seems that not many
+people order food since there is nobody cooking anything back here.  The
+room seems empty excpet for some scraps of food lying around.  Some of it
+actually looks tasty.  
+~
+0 0 0
+D0
+~
+~
+0 0 6766
+S
+#6769
+Hallway~
+This is a hallway with dirty wooden walls on either side of some awkward
+things on display.  A painting of a huge saddled bird with a human riding it
+is here.  To the north and south of here are bedrooms for travellers with
+some money.  
+~
+0 0 0
+D0
+~
+~
+0 0 6770
+D1
+~
+~
+0 0 6772
+D2
+~
+~
+0 0 6771
+D3
+~
+~
+0 0 6685
+S
+#6770
+Medium-Sized Bedroom~
+This bedroom is medium size.  It has a full size bed with flanel sheets
+and a wooden frame.  The wood is old and moldy, but it is very sturdy.  A
+fire is burning in the fireplace warming up the entire room.  Over all the
+room is not bad, and it has a very cozy feeling to it.  
+~
+0 0 0
+D2
+~
+~
+0 0 6769
+S
+#6771
+Medium-Sized Bedroom~
+This bedroom is medium size.  It has a full size bed with flanel sheets
+and a wooden frame.  The wood is old and moldy, but it is very sturdy.  A
+fire is burning in the fireplace warming up the entire room.  Over all the
+room is not bad, and it has a very cozy feeling to it.  
+~
+0 0 0
+D0
+~
+~
+0 0 6769
+S
+#6772
+Hallway~
+This is a hallway with dirty and rotting wooden walls on either side with
+an exaggerated portrait of the innkeeper.  Here he is with a muscular body
+and handsome face, but in real life he is very robust.  To the north is a
+bedroom for very well to do travelers, lords, and ladies.  To the south is
+the innkeepers bedroom.  
+~
+0 0 0
+D0
+~
+~
+0 0 6773
+D2
+~
+~
+0 0 6774
+D3
+~
+~
+0 0 6769
+S
+#6773
+Large Bedroom~
+This bedroom is very large and extravent.  Expensive works of art are
+displayed on each of the four walls.  The wooden walls have been painted
+over and the bed is made of sturdy oak.  The down covers and the large
+fireplace make this place very comfortable.  
+~
+0 0 0
+D2
+~
+~
+0 0 6772
+S
+#6774
+Innkeeper's Bedroom~
+This room is plain, yet large.  There is a portrait of an old woman, most
+likely the innkeeper's mother.  There is a queen size bed with a sturdy oak
+frame and a large fireplace.  All of these things make for a simple yet cozy
+room.  
+~
+0 0 0
+D0
+~
+~
+0 0 6772
+S
+#6775
+Stage of The Drunken Chorus~
+The stage is a small semicircle that looks out onto the rest of the
+common room.  The entire room is seen from this one spot.  A gleeman is
+supposed to be here performing for this mass gathering of drunks.  There is
+a bar close by to here.  
+~
+0 0 0
+D0
+~
+~
+0 0 6673
+D1
+~
+~
+0 0 6674
+D2
+~
+~
+0 0 6766
+D3
+~
+~
+0 0 6679
+S
+#0
+
+
+
+#SPECIALS
+M 6505 spec_cast_mage
+M 6509 spec_breath_any
+M 6510 spec_cast_cleric
+M 6526 spec_guard
+M 6527 spec_cast_mage
+M 6529 spec_cast_mage
+M 6541 spec_breath_fire
+S
+
+
+
+#RESETS
+D 0 6512 1 2
+D 0 6517 3 1
+D 0 6581 1 1
+D 0 6582 3 1
+D 0 6586 1 1
+D 0 6641 1 1
+D 0 6651 5 1
+D 0 6652 4 1
+D 0 6655 3 2
+D 0 6663 1 1
+D 0 6664 3 1
+D 0 6670 3 1
+D 0 6670 4 2
+D 0 6671 5 2
+D 0 6721 1 1
+D 0 6739 3 1
+O 0 6505 0 6511 0 100 A large foldable plastic chair is here. loaded to Hornsby's bush hut
+M 0 6529 1 6560 1 100 Load An ancient fisherman
+M 0 6500 1 6670 1 100 Load Mother Alnora
+O 0 6500 0 6671 0 100 A comfortable bed in mother alnora's home loaded to Bedrooms of Mother Alnora's Home
+O 0 6501 0 6671 0 100 A cupboard loaded to Bedrooms of Mother Alnora's Home
+M 0 6501 1 6671 1 100 Load Aleis Carand
+G 0 6502 0 0 0 100 `7cupboard key is given to Aleis Carand
+S
+
+
+
+#SHOPS
+6501 31 26 10 18 0 100 100 0 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

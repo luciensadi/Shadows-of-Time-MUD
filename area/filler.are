@@ -1,0 +1,319 @@
+#AREADATA
+Name Filler~
+Builders None~
+VNUMs 21951 22950
+Credits `4[`7 None `4]`7 Ishamael  Filler~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#22900
+Gateway to The Great Blight~
+The room is blacker than the stairway walls, set up in the back of the room is what appears
+to be a black circular frame containing a black portal which occasionally flashes the
+picture of the great blight, above the black portal is a plaque which reads "To the 
+Great Blight".  The room itselfis littered in black bones and rusted pieces of armor.
+~
+0 0 0
+D1
+~
+~
+0 0 9393
+D3
+~
+~
+0 0 12200
+S
+#22901
+Gateway to The Eye of the World~
+The room is blacker than the stairway walls, set up in the back of the room is what appears
+to be a black circular frame containing a black portal which occasionally flashes the
+picture of fire, above the black portal is a plaque which reads "To The Eye of the
+World".  The room itself is littered in black bones and rusted pieces of armor.
+~
+0 0 0
+D1
+~
+~
+0 0 9800
+D3
+~
+~
+0 0 9393
+S
+#22902
+Gateway to Shadowspawn Palace~
+The room is blacker than the stairway walls, set up in the back of the room is what appears
+to be a black circular frame containing a black portal which occasionally flashes the
+picture of fire, above the black portal is a plaque which reads "To The Shadowspawn
+Palace".  The room itself is littered in black bones and rusted pieces of armor.
+~
+0 138412033 0
+D1
+~
+~
+0 0 9394
+D3
+~
+~
+0 0 17000
+S
+#22903
+Gateway to Jehnnah~
+The room is blacker than the stairway walls, set up in the back of the room is what appears
+to be a black circular frame containing a black portal which occasionally flashes the
+picture of fire, above the black portal is a plaque which reads "To Jehnnah".
+The room itself is littered in black bones and rusted pieces of armor.
+~
+0 138412033 0
+D1
+~
+~
+0 0 3869
+D3
+~
+~
+0 0 9394
+S
+#22904
+Gateway to The Ways~
+The room is blacker than the stairway walls, set up in the back of the room is what appears
+to be a black circular frame containing a black portal which occasionally flashes the
+picture of fire, above the black portal is a plaque which reads "To the Ways".
+The room itself is littered in black bones and rusted pieces of armor.
+~
+0 138412033 0
+D1
+~
+~
+0 0 9395
+D3
+~
+~
+0 0 8138
+S
+#22905
+Gateway to Shayol Ghul~
+The room is blacker than the stairway walls, set up in the back of the room is what appears
+to be a black circular frame containing a black portal which occasionally flashes the
+picture of fire, above the black portal is a plaque which reads "To Shayol Ghul".
+The room itself is littered in black bones and rusted pieces of armor.
+~
+0 138412033 0
+D1
+~
+~
+0 0 2400
+D3
+~
+~
+0 0 9395
+S
+#22906
+Gateway to The Underdark~
+The room is blacker than the stairway walls, set up in the back of the room is what appears
+to be a black circular frame containing a black portal which occasionally flashes the
+picture of fire, above the black portal is a plaque which reads "To The Underdark".
+The room itself is littered in black bones and rusted pieces of armor.
+~
+0 4194305 0
+D1
+~
+~
+0 0 9396
+D3
+~
+~
+0 0 11000
+S
+#22907
+Gateway to Shadar Logoth~
+The room is blacker than the stairway walls, set up in the back of the room is what appears
+to be a black circular frame, yet there is no black portal, instead there is a large pillar
+that had fallen through the frame.  above the black portal is a plaque which reads "To Shadar
+Logoth".  The room itself is littered in black bones and rusted pieces of armor.
+~
+0 138412033 0
+D3
+~
+~
+0 0 9396
+S
+#22908
+Gateway to Arcane Sanctuary~
+The room is blacker than the stairway walls, set up in the back of the room is what appears
+to be a black circular frame containing a black portal which occasionally flashes the
+picture of fire, above the black portal is a plaque which reads "To The Arcane
+Sanctuary".  The room itself is littered in black bones and rusted pieces of armor.
+~
+0 138477569 0
+D1
+~
+~
+0 0 9397
+D3
+~
+~
+0 0 20100
+S
+#22909
+Gateway to The Bore~
+The room is blacker than the stairway walls, set up in the back of the room is what appears
+to be a black circular frame containing a black portal which occasionally flashes the
+picture of fire, above the black portal is a plaque which reads "To The Bore".
+The room itself is littered in black bones and rusted pieces of armor.
+~
+0 138412033 0
+D1
+~
+~
+0 0 5578
+D3
+~
+~
+0 0 9397
+S
+#22910
+Gateway to The Mill~
+The room is blacker than the stairway walls, set up in the back of the room is what appears
+to be a black circular frame containing a black portal which occasionally flashes the
+picture of fire, above the black portal is a plaque which reads "To The Mill".  The room
+itself is littered in black bones and rusted pieces of armor.
+~
+0 138412033 0
+D0
+~
+~
+0 0 3600
+D2
+~
+~
+0 0 9397
+S
+#21951
+In a Dark Tunnel~
+The dark tunnel opens up into the thriving Braem Woods above, and ends to
+the east.  To both directions, the surrounding woods are filled with vibrant
+green trees and assorted plant life.  In this tunnel, water rushes through a
+hole in the roof, and drains out the cliff to the east.  The sound of
+rushing water is defeaning in this tunnel as the sound echoes.  
+~
+0 0 0
+D1
+~
+~
+0 0 21952
+D4
+~
+~
+0 0 381
+S
+#21952
+Before a Tunnel through the Cliffs~
+The tall cliffs that loom overhead have a small tunnel that appears to
+have been carved by the passage of water over the years.  A small stream of
+water pours out of the tunnel to the west, and cascades down onto the forest
+floor.  Tall trees grow all around here, lush and green.  
+~
+0 0 0
+D1
+~
+~
+0 0 21954
+D2
+~
+~
+0 0 21953
+D3
+~
+~
+0 0 21951
+S
+#21953
+Before the Massive Cliffs~
+Tall cliffs loom overhead, and trees stretch up towards the cliff face. 
+The tall trees that grow here are shrouded by vines and a thick green moss
+that grows on their trunks.  Creepers and roots cover the wet forest floor,
+and large brown mushrooms sprout up.  
+~
+0 0 0
+D0
+~
+~
+0 0 21952
+S
+#21954
+Braem Wood~
+The thick canopy of the trees blots the sky from view for the most part,
+and cast this part of the Braem Wood in gloomy shadow.  The trees here grow
+thick and close together leaving twisting corridors between themselves
+hardly wide enough for a horse to ride through.  
+~
+0 0 0
+D1
+~
+~
+0 0 21955
+D3
+~
+~
+0 0 21952
+S
+#21955
+Deep in the Braem Wood~
+You are in the north-western corner of the deepest part of the Braem
+Wood, where the canopy is so thick that not a single shaft of sunlight can
+enter and sounds go unheard.  There is a large creeper hanging through the
+trees here, at least as wide as a trolloc's gut.  The deep Braem Wood
+continues east and south from here, and upwards is a path to the higher
+Braem Wood.  
+~
+0 0 0
+D3
+~
+~
+0 0 21954
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

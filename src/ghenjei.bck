@@ -1,0 +1,552 @@
+#AREADATA
+Name Tower of Ghenjei~
+Builders None~
+VNUMs 20401 20600
+Credits `4[`7 Hard `4]`7 Jasin     Tower of Ghenjei~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#20401
+tall pale man snake snake-like~
+a snake-like man~
+A tall, pale man wrapped in yellow cloth is here, awaiting you.
+~
+Tall, barefoot, and wound in yellow cloth, this creature isn't human. 
+Too thin for it's height, with a narrow elongated face, its skin resembles a
+snake's scales.  Its eyes are just black pupils inside vertical slits, and
+its hair is straight and black.  He smiles at you oddly.  
+~
+unique~
+0 0
+ABK 49488 2128 0 0 -1  0 0
+300 300 39000d1+1000 29000d1+1000 1d1+350 claw
+-100 -100 -100 -100
+ACHU 0 CDHIJK Q
+stand stand none 0
+0 0 medium unknown
+M ACT 20401 has arrived through a twisted red doorway.~
+M ACT 20402 now follows you.~
+#20402
+aelfinn council member~
+an Aelfinn Council Member~
+An Aelfinn Council Member sits cross-legged atop a pedestal here.
+~
+Wrapped in red cloth, this figure has a definate feminine look to it.  
+~
+unique~
+0 0
+ABT 1360 64 128 40960 -1  0 0
+140 170 14000d1+1000 9000d1+1000 10d1+220 none
+-80 -80 -80 -90
+ADER A HIJK LQ
+stand stand female 0
+0 0 medium unknown
+M DEATH 20431 100~
+#20403
+aelfinn council member~
+an Aelfinn Council Member~
+An Aelfinn Council Member sits cross-legged atop a pedestal here.
+~
+The Aelfinn Council Member stares back at you.  
+~
+unique~
+0 0
+ABT 336 64 128 40960 -1  0 0
+140 170 14000d1+1000 9000d1+1000 10d1+220 none
+-80 -80 -80 -90
+AER 0 HIJK LQ
+stand stand male  0
+0 0 medium unknown
+M DEATH 20432 100~
+#20404
+aelfinn council member~
+an Aelfinn Council Member~
+An Aelfinn Council Member sits cross-legged atop a pedestal here.
+~
+Wrapped in red cloth, this figure has a definate feminine look to it.  
+~
+unique~
+0 0
+ABT 336 64 128 40960 -1  0 0
+140 170 14000d1+1000 9000d1+1000 10d1+220 none
+-80 -80 -80 -90
+ADER 0 HIJK LQ
+stand stand female 0
+0 0 medium unknown
+M DEATH 20433 100~
+#20405
+eelfinn council member~
+an Eelfinn Council Member~
+An Eelfinn Council Member stands atop a pedestal here.
+~
+~
+unique~
+0 0
+ABe 336 2128 0 0 -1  0 0
+140 170 29000d1+1000 9000d1+1000 10d1+220 wrath
+-80 -80 -80 -80
+ADEU AD HIJK LQ
+stand stand female 0
+0 0 medium unknown
+#20406
+eelfinn council member~
+an Eelfinn Council Member~
+An Eelfinn Council Member stands atop a pedestal here.
+~
+~
+unique~
+0 0
+ABe 336 2128 0 0 -1  0 0
+140 170 29000d1+1000 9000d1+1000 10d1+220 wrath
+-80 -80 -80 -80
+ADEU AD HIJK LQ
+stand stand female 0
+0 0 medium unknown
+#20407
+fox-faced man fox faced~
+a fox-faced man~
+A fox-faced man is here, waiting for you.
+~
+This man is tall and sinewy, with shoulders too wide for his waste, and
+skin as white as paper.  His eyes are big and almost colorless, set deep in
+a narrow jawed face.  
+~
+unique~
+0 0
+ABK 49488 2128 0 0 -1  0 0
+300 300 39000d1+1000 29000d1+1000 1d1+350 claw
+-100 -100 -100 -100
+ACHU Z CDHIJK Q
+stand stand none 0
+0 0 medium unknown
+M ACT 20417 has arrived through a twisted red doorway.~
+M ACT 20418 now follows you.~
+#20408
+trapped aes sedai~
+an insane Aes Sedai~
+An Aes Sedai stands here, insane from being trapped for so long.
+~
+The ageless face mark this woman as Aes Sedai, yet her eyes are filled
+with insanity.  
+~
+kandor~
+0 0
+ABFTe 49408 2128 0 0 -1  0 0
+140 140 25000d1+1000 2000d1+500 1d1+250 magic
+-100 -100 -100 -100
+AFHKNO 0 CHIJK Q
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20409
+captured gholam~
+a captured Gholam~
+A Gholam is here, enraged at being held captive.
+~
+Looks like a normal man.
+~
+unique~
+0 0
+ABFTe 49408 34896 0 0 -1  0 0
+140 120 28000d1+1000 19000d1+1000 1d1+220 wrath
+-80 -80 -80 -80
+ACFHKO D CHIJK Q
+stand stand male  0
+0 0 huge unknown
+#20410
+captured myrddraal~
+a captured Myrddraal~
+A fierce Myrddraal is here, enraged at being held captive.
+~
+~
+unique~
+0 0
+ABFTe 336 34896 0 0 -1  0 0
+140 140 25000d1+1000 2000d1+500 0d0+0 none
+-100 -100 -100 -100
+CFGHK 0 CHIJK LQ
+stand stand male  0
+0 0 medium unknown
+#20600
+Crazed Asha'man~
+`*Crazed Asha'man~
+A male channeler is here, mad from the taint.
+~
+~
+unique~
+0 0
+ABZe 336 2128 0 32768 -1  0 0
+200 170 29000d1+1000 9000d1+1000 5d100+50 wrath
+-120 -120 -120 -120
+AEFHK AB DHIJK 0
+stand stand female 1
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#20401
+redstone twisted doorway~
+a twisted red doorway~
+A redstone doorway is here, twisted in a way that is hard for the eye to follow.~
+redstone~
+portal O 0
+0
+0 0 0 BEFHIJKLO 0
+0 0 0 P
+ T 0 none~
+#20402
+redstone twisted doorway~
+a twisted red doorway~
+A redstone doorway is here, twisted in a way that is hard for the eye to follow.~
+unknown~
+portal O 0
+0
+0 0 0 AEFHIJKLO 0
+0 0 0 P
+ T 0 none~
+#20403
+stone of divine knowledge~
+the Stone of Divine Knowledge~
+A small smooth stone lies here, holding infinite secrets.~
+unknown~
+armor A AO
+0
+ABF ABF ABF ABF 0
+110 50 10000 P
+A
+20 -5
+A
+13 35
+A
+19 8
+A
+18 8
+ T 0 none~
+#20404
+council robe~
+a Council Robe~
+A robe of divine wisdom lies here.~
+unknown~
+armor AB AK
+0
+ABF ABF ABF ABF 0
+110 0 10000 P
+A
+18 7
+A
+19 7
+A
+13 45
+A
+20 -5
+ T 0 none~
+#20405
+gloves of divinity~
+`7Gloves of Divinity~
+A pair of gloves lie here, looking ancient.~
+unknown~
+armor A AH
+0
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+13 50
+A
+18 7
+A
+19 7
+A
+20 -4
+ T 0 none~
+#20406
+twisted red doorway~
+a twisted red doorway~
+A redstone doorway is here, twisted in a way that is hard for the eye to follow.~
+redstone~
+portal OYa 0
+0
+0 0 0 ABFGHIJKLO 0
+0 0 0 P
+ T 0 none~
+#20407
+twisted red doorway~
+a twisted red doorway~
+A redstone doorway is here, twisted in a way that is hard for the eye to follow.~
+unknown~
+portal O 0
+0
+0 0 0 BFGHIJKLO 0
+0 0 0 P
+ T 0 none~
+#20408
+divine wisdom~
+`7Divine Wisdom~
+An aura of divine wisdom is here, giving off an eerie light.~
+unknown~
+light A A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 20 1000 P
+A
+13 85
+A
+18 3
+A
+19 3
+A
+20 -5
+ T 0 none~
+#20409
+foxhead medallion~
+a Foxhead Medallion~
+A silver medallion of a fox's head lies here.~
+unknown~
+armor AB AC
+0
+ABF ABF ABF ABF 0
+110 50 100000 P
+A
+17 -25
+A
+18 6
+A
+19 6
+A
+20 -5
+A
+13 20
+ T 0 none~
+#20410
+belt pale leather~
+a pale leather belt~
+A belt made of some sort of pale leather lies here.~
+unknown~
+armor AB AL
+0
+ABF ABF ABF ABF 0
+110 0 1000 P
+A
+13 75
+A
+18 3
+A
+19 3
+A
+12 35
+ T 0 none~
+#20411
+bronze blade~
+a bronze blade~
+A bronze blade lies here, looking dangerous.~
+bronze~
+weapon ABa AN
+0
+dagger 75 1 wrath CDE
+110 150 0 P
+A
+13 50
+A
+18 6
+A
+19 6
+ T 0 none~
+#20412
+large golden chest~
+a large `#golden `7chest~
+A large golden chest lies here, shining brilliantly.~
+unknown~
+container T A
+0
+1 A 0 200 200
+1 0 0 P
+ T 0 none~
+#20413
+ancient ashandarei~
+an ancient ashandarei~
+A black metal staff with a spear at the tip lies here.~
+unknown~
+weapon ABTYa AN
+0
+spear 75 1 slice EGH
+110 150 10000 P
+A
+20 -5
+A
+13 70
+ T 0 none~
+#20414
+pile gold coins~
+2000 gold coins~
+A pile of gold coins lie here.~
+gold~
+money Ya A
+0
+BDEFGH 0 0 0 0
+0 0 1000000 P
+ T 0 none~
+#20415
+ancient sword~
+an Ancient Sword~
+A sword from the Age of Legends lies here.~
+unknown~
+weapon ABYa AN
+0
+sword 75 1 slash CDG
+110 300 10000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+17 -10
+ T 0 none~
+#20416
+long silver chest~
+a large `&silver `7chest~
+A large silver chest lies here, holding secrets from the Age of Legends.~
+unknown~
+container 0 A
+0
+1 ACD 0 200 200
+1 400 0 P
+ T 0 none~
+#20417
+ancient jewel~
+an ancient jewel~
+A jewel from the Age of Legends lies here.~
+unknown~
+treasure Ya A
+0
+0 0 0 0 0
+75 20 10000 P
+ T 0 none~
+#20418
+pool one power~
+a Pool of the One Power~
+A pool of the One Power lies here.~
+unknown~
+armor AYa AQ
+0
+ABF ABF ABF ABF 0
+110 0 1000 P
+A
+12 80
+A
+20 -6
+A
+13 20
+ T 0 none~
+#20419
+golden arrow~
+a golden arrow~
+A golden arrow lies here, shining brightly.~
+unknown~
+arrow 0 AOP
+0
+0 15 9 0 AEGH
+110 10 3000 P
+A
+18 10
+A
+19 10
+ T 0 none~
+#20420
+legendary bow~
+a Legendary Bow~
+A legendary bow lies here.~
+unknown~
+weapon ABYa AN
+0
+bow 75 1 thwack ACE
+110 300 3000 P
+A
+13 35
+A
+20 -5
+A
+18 5
+A
+19 5
+ T 0 none~
+#20421
+aura invulnerability~
+an Aura of Invulnerability~
+The power of being invulnerable lies here.~
+unknown~
+armor AY AQ
+0
+ABF ABF ABF ABF 0
+110 0 1000 P
+A
+17 -25
+A
+20 -5
+A
+13 80
+ T 0 none~
+#20422
+bomb bag~
+a bomb bag~
+I bag~
+unknown~
+armor e AL
+0
+0 0 0 0 0
+75 20 0 P
+ T 0 none~
+#20423
+tainted shawl~
+a Tainted Shawl~
+A once fine shawl of an Aes Sedai lies here, now tainted with evil.~
+unknown~
+weapon AB AK
+0
+exotic 0 0 none 0
+110 0 1000 P
+A
+13 70
+A
+17 -30
+A
+20 -5
+ T 0 none~
+#20424
+death black fade's cloak~
+a Death Black Fade's Cloak~
+A cloak as black as death lies here.~
+unknown~
+armor Y AD
+0
+ABF ABF ABF ABF 0
+110 20 100 P
+A
+19 6
+A
+18 6
+A
+20 -8
+A
+13 40
+ T 0 none~
+#20433
+amulet of knowlage~
+`*The Amulet of Knowlage~
+An amulet tied to a small gold chain rest's here. On the bottom is a socket of some sort.~
+unknown~
+armor CGJKL AC
+0
+ABF ABF ABF ABF 0
+75 20 200 P
+S 'detect evil'   0  75  -1  25   0          3
+S 'detect good'   0  75  -1  25   0          7
+S 'detect invis'   0  75  -1  25   0          4
+S 'detect hidden'   0  75  -1  25   0          6
+S 

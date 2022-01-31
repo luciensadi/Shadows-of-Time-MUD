@@ -1,0 +1,1454 @@
+#AREADATA
+Name hornsby~
+Builders Hornsby~
+VNUMs 10951 10976
+Credits Hornsby's first try~
+Security 10
+Flags CEF
+Version 4
+End
+
+
+
+#MOBILES
+#10951
+songbird~
+a bright song bird~
+A brightly coloured song bird, is here
+~
+A small and brightly coloured song bird is flitting amongst the blooms of the forest.
+~
+song bird~
+0 0
+ABFZ 80 64 0 0 -1  -200 0
+75 75 10d169+700 50d10+50 5d10+15 peck
+-45 -45 -45 -40
+FH FJb AGT EQ
+stand stand male  1
+AGW ACDEFHKP small unknown
+#10952
+A salt water crocodile~
+A saltwater crocodile~
+A saltwater crocodile is slowly walking along the road. Perhaps it comes from the water that can be heard in the distance.
+~
+~
+dragon~
+0 0
+ABDGZ 256 2048 0 0 -1  -500 0
+80 75 10d169+920 30d10+50 7d13+30 bite
+-55 -55 -55 -60
+IKM EQ BEH FI
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+#10953
+A small deer like creature~
+A deer-like creature.~
+A small, dog sized, deer like creature is here. It has a tail and tusks, very unusual for a deer.
+~
+There is a small deer like creature here. Unusually for a deer it has tusks and a tail the length of its body.
+~
+unique~
+0 0
+AGHIWZ 4 3 0 0 -1  100 0
+30 40 5d30+241 20d10+30 4d5+15 scratch
+-10 -10 -10 -10
+FGHM EQ J Z
+stand stand female 0
+GHV ACDEFJKQY small unknown
+#10954
+A possum~
+A brushtail possum~
+A brushtail possum sits in a tree here eating fruit. Its eyes seem to glow in the dark
+~
+~
+unique~
+0 0
+ABGQZ 320 64 0 4 -1  -700 0
+130 122 14d250+2000 120d10+100 10d15+50 sting
+-65 -65 -65 -65
+EFHIMU HKM BIQY L
+stand stand female 1
+ACGHV ACDEFKQU small unknown
+#10955
+A furry mammal~
+A furry mammal~
+A pony sized, furry mammal
+~
+A pony sized mammal. It can be heard scrambling around in the bushes.
+~
+unique~
+0 0
+ACGHZ 0 3 0 0 -1  -350 0
+75 70 9d160+850 75d5+40 4d10+30 claw
+-52 -52 -52 -52
+EHO IJ EILQ CH
+stand stand female 1
+AGV ACDEFJKU medium unknown
+#10956
+Grizzled old wagoneer.~
+A wagoneer~
+A grizzled old wagoneer, you cannot tell his age.
+~
+A grizzled old wagoneer sits on the side of the road, by his broken wagon.
+~
+seanchan~
+0 0
+AGWZ 0 0 0 0 -1  -500 0
+99 92 10d169+920 90d10+80 5d10+25 pound
+-40 -40 -40 -15
+CDHI ILQ BFX RT
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#10957
+A farmer going to market.~
+A farmer~
+A farmer going to market is here.
+~
+A farmer who looks as though he is old before his years, is slowly walking along the road to market.
+~
+seanchan~
+0 0
+ACGZ 0 64 0 8192 -1  -100 0
+95 75 8d169+970 95d10+100 6d10+30 punch
+-60 -60 -60 -55
+EHJK HIPX LM K
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#10958
+The Croc Hunter~
+The Croc Hunter.~
+A well built blonde man is here, yelling and screaming about snakes and crocodiles. He looks to be slightly insane.
+~
+~
+andor~
+0 0
+AFGTWZ 8256 8192 0 0 -1  500 0
+50 45 10d169+920 50d10+100 5d14+30 shock
+-40 -35 -35 -40
+EFHJK BJ I KL
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#10959
+A taipan~
+An evil looking snake.~
+A very evil looking taipan is here, it is over 10 feet long. Its tail is whipping rapidly against the low bushes.
+~
+~
+snake~
+0 0
+AFHIRWZ 1600 2113 0 8192 -1  -300 0
+35 30 10d99+500 35d10+100 5d8+20 sting
+-8 -8 -8 -10
+FGHM 0 L GI
+stand stand male  1
+AGXYc ADEFKLQVX medium unknown
+#10960
+Grolm~
+a strange beast~
+A beast that look like a bear covered in frogskin.
+~
+Long A beast that look like a bear covered in frogskin.
+~
+unique~
+0 0
+ABDFGZ 80 2112 0 0 -1  -50 0
+80 75 10d169+800 80d10+50 5d10+30 claw
+-70 -70 -70 -70
+CFU EGK HJ b
+stand stand male  1
+AG ACDFKUX medium unknown
+#10961
+The lady of the house~
+Lady of the house.~
+An aloof Seanchan lady.
+~
+The lady of the house seems to be a very aloof woman. She carries herself as though everyone is beneath her. There is a look of distain on her face.
+~
+seanchan~
+0 0
+ABGRZ 0 0 0 2 -1  -399 0
+100 92 11d170+900 100d10+100 8d8+20 chill
+-55 -55 -55 -50
+EJ HIK EFY L
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#10962
+A seanchan patrol man~
+A patrol man~
+There is a patrol man here. He is moving about in a set routine looking for trouble makers.
+~
+A patrol moves around alert to any trouble makers, who he will escort quickly to the guard barracks for punishment.
+~
+seanchan~
+0 0
+AGTZ 136 64 0 0 -1  -133 0
+20 15 8d45+300 20d8+80 4d5+10 slash
+-1 -1 -1 -1
+CKTU 0 H Q
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#10963
+Barman~
+A barman~
+A large barman stands here serving customers
+~
+A large barman stnads behind the counter serving drinks, he also seems to be keeping an eye out for any disturbances.
+~
+seanchan~
+0 0
+ABGZ 336 2112 0 0 -1  -700 0
+80 92 12d169+950 50d10+100 6d10+20 pound
+-50 -50 -50 -50
+CEHIO BCRT ILQ H
+stand stand male  2
+AHMV ABCDEFGHIJK medium unknown
+#10964
+The owner of the house.~
+The man of the house~
+A well built Seanchan man stands in the middle of the house.
+~
+This well built man is the owner of this dwelling. He looks very proud of what he owns and will defend it to the death.
+~
+seanchan~
+0 0
+ABFGZ 64 2048 0 0 -1  -400 0
+90 82 10d169+900 80d10+100 5d10+30 punch
+-51 -51 -51 -46
+CEIJ EGH CIQ Za
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#10965
+A house cat~
+A small house cat~
+A small house cat is here, lounging around in the window sill of a nearby house.
+~
+~
+cat~
+0 0
+AGIZ 0 0 0 0 -1  -70 0
+21 19 5d40+235 20d10+80 4d5+10 scratch
+-1 -1 -1 0
+FHM ILQ H Y
+stand stand female 1
+AGV ACDEFHJKQUV small unknown
+#10966
+The inn's secretary.~
+A secretary~
+The inn's secretary, is sitting here.
+~
+This middle aged woman is the inn's secretary. She sits patiently waiting for people to rent a room for the night.
+~
+seanchan~
+0 0
+ABCGZ 256 0 0 0 -1  -500 0
+100 90 11d150+700 100d10+100 6d9+20 scratch
+-50 -50 -50 -45
+EFIN HN CKP B
+sit sit female 1
+AHMV ABCDEFGHIJK medium unknown
+#10967
+The inn's bouncer.~
+An inn's bouncer~
+A large man who's job is to keep the unruly patrons out.
+~
+A large man who continually glances around the room looking for trouble makers. His job is to stop trouble before it starts.
+~
+seanchan~
+0 0
+AGZ 272 2112 0 0 -1  -750 0
+100 92 15d169+800 100d10+100 7d10+25 pound
+-55 -55 -55 -55
+CEIJKNU EHK IQT b
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#10968
+A Seanchan merchant~
+A Seanchan merchant~
+A seanchan merchant is here, looking to make his fortune.
+~
+A Seanchan merchant is patrolling the market square, he has greed in his eyes. He is looking for his fortune.
+~
+seanchan~
+0 0
+ACGRZ 64 0 0 0 -1  -100 0
+50 42 10d100+750 50d40+100 5d8+20 stab
+-30 -30 -30 -45
+EFJN BIN HPQ F
+stand stand male  2
+AHMV ABCDEFGHIJK medium unknown
+#10969
+The local blacksmith~
+A blacksmith~
+The local blacksmith is here.
+~
+The blacksmith for this village is a woman, it seems most unusual to see a woman in such a job. Looking at her wares, she does fine work.
+~
+seanchan~
+0 0
+AGTZ 32 0 0 4 -1  -400 0
+90 89 10d169+850 90d10+100 6d10+30 pound
+-56 -56 -56 -50
+CEFIK HKZ EQ I
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#10970
+A stray dog~
+A stray dog.~
+There is a mangy stray dog wandering the streets look for food.
+~
+~
+dog~
+0 0
+ACGZ 0 1 0 0 -1  100 0
+36 29 9d50+310 36d10+40 4d6+10 bite
+-5 -5 -5 -5
+HM Q EI O
+stand stand male  1
+AGV ACDEFHJKUV medium unknown
+#10971
+A woman going to buy supplies at market.~
+A seanchan woman.~
+A local Seanchan woman on her way to market to buy supplies, is here.
+~
+~
+seanchan~
+0 0
+AGHZ 49152 1088 0 0 -1  150 0
+46 41 10d92+520 46d10+100 5d8+20 pound
+-25 -25 -25 -25
+CEIK HIN T B
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#10972
+A small Seanchan child~
+A small Seanchan child~
+A small female Seanchan child is playing with friends here.
+~
+There is a small and dirty Seanchan child here, playing strange games with her friends.
+~
+seanchan~
+0 0
+ACGHZ 0 66 0 0 -1  50 0
+20 19 8d10+100 20d10+60 4d5+15 slap
+-1 -1 -1 -1
+FHIJ HL I Q
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#10973
+Upstairs maid~
+Upstairs maid~
+The upstairs maid is here, dressed rather scantily.
+~
+The upstairs maid is seductively swaying, as she walks down the street. Her attire does not leave much to the imagination.
+~
+arad_domon~
+0 0
+ACFGZ 16 2112 0 8 -1  -969 0
+96 98 15d150+900 96d10+90 8d10+30 beating
+-60 -60 -50 -55
+EIN BIJ GHP M
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#10974
+gardener~
+A lords gardener~
+A gardener for the local Seanchan lord.
+~
+This is the gardener for the local lord. He is dressed in overalls and carry a pair of large scissors.
+~
+seanchan~
+0 0
+AGZ 0 0 0 0 -1  -600 0
+110 92 11d169+900 110d10+100 6d10+20 sting
+-30 -30 -25 -35
+FIK L J HO
+stand stand male  1
+AHMV ABCDEFGHIJK medium unknown
+#10975
+A seanchan Warehouse worker~
+A warehouse worker.~
+A young Seanchan man who works in a warehouse
+~
+A young man who works in a nearby warehouse. He seems nervous, almost as if he is supposed to be working and is afraid of being caught slacking off.
+l
+~
+seanchan~
+0 0
+ACGZ 0 64 0 0 -1  -550 0
+80 75 9d170+900 80d10+50 5d6+25 pierce
+-50 -50 -50 -45
+CEJKN ENT HKQY I
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+#10976
+A local villager on her way to church.~
+A local attending church~
+A local villager on her way to church
+~
+This woman is a local who is on her way to church. She has a very stressful look on her face, and she is hurrying to get to church.
+She seems no different from anyone else, even though she is Seanchan.
+~
+seanchan~
+0 0
+AGRZ 136 64 0 0 -1  -500 0
+90 85 10d169+900 90d10+100 6d11+25 whip
+-50 -50 -50 -50
+EGHN BKQ TX H
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#10951
+A songbirds beak~
+a songbird's beak~
+The beak of a brightly coloured songbird, is here. It looks like it could be worn~
+unknown~
+armor A AE
+0
+ADE ADE ADE ADE 0
+75 50 1500 P
+A
+13 10
+A
+12 40
+A
+18 3
+A
+19 5
+A
+14 10
+A
+14 20
+ T 0 none~
+#10952
+Crocodile skin boots~
+crocodile boots~
+A pair of thigh high boots made from crocodile skin, are laying here.~
+unknown~
+armor A AG
+0
+BCDE BCDE BCDE F 0
+96 100 1566 P
+A
+13 30
+A
+18 5
+A
+19 5
+A
+12 40
+A
+14 6
+ T 0 none~
+#10953
+a deer's tail~
+a deer's tail~
+A supple belt made out of a deer's tail is here.~
+unknown~
+armor 0 AL
+0
+BC BC BC BC 0
+26 10 100 P
+A
+19 4
+A
+13 9
+A
+12 9
+A
+14 15
+A
+18 2
+ T 0 none~
+#10954
+Possum eyes~
+brushtail possum eyes~
+The glow in the dark eyes of a brushtail possum are here.~
+unknown~
+light ABI A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 100 1550 P
+A
+18 8
+A
+19 8
+A
+13 35
+A
+12 25
+ T 0 none~
+#10955
+Mammal fur vest~
+a vest of mammal fur~
+A vest made from the fur of a mammal~
+animal fur~
+armor I AD
+ABD
+BCDE BCDE BCDE CE 0
+89 70 800 P
+A
+13 10
+A
+19 5
+A
+18 4
+A
+12 25
+A
+14 20
+A
+20 -5
+ T 0 none~
+#10956
+wagoneers club~
+a wagoneers club~
+A wagoneers long wooden club, bound in steel.~
+unknown~
+weapon H AN
+CDH
+exotic 7 10 smash B
+89 100 950 P
+A
+14 25
+A
+18 6
+A
+19 6
+A
+13 15
+A
+12 20
+A
+20 -2
+ T 0 none~
+#10957
+a dark hole in the air~
+there is a hole in the air~
+A hole in the air can be seen suspended from a tree branch here. It reflects no light.~
+unknown~
+window MO 0
+0
+ADEFHIJL 0 A 0 0
+0 0 0 P
+ T 0 none~
+#10958
+A croc hunter~
+croc hunter arm guards~
+A set of arm guards made from crocodile skin are here.~
+unknown~
+armor K AI
+0
+BCDE BCDE BCDE F 0
+96 50 2000 P
+A
+18 5
+A
+19 3
+A
+20 -10
+A
+17 -10
+A
+12 20
+A
+13 5
+ T 0 none~
+#10959
+A taipan's fangs~
+a set of fangs~
+A set of taipan fangs are here, they can be fitted into someones mouth wuite easily.~
+unknown~
+armor 0 AR
+0
+ABCD ABCD ABCD ABCD 0
+33 30 150 P
+A
+20 -10
+A
+12 12
+ T 0 none~
+#10960
+Statue of the Seanchan Empress~
+a statue of the Empress~
+A statue of the Seanchan Empress stands by the gates.~
+unknown~
+trash MO 0
+0
+0 0 0 0 0
+0 2000 0 P
+ T 0 none~
+#10961
+A lady's slippers~
+a lady's soft slippers.~
+A pair of soft slippers, belonging to a lady are here.~
+unknown~
+armor ABF AG
+0
+BCDE CDE BCDE F 0
+96 60 1111 P
+A
+18 5
+A
+19 5
+A
+17 -15
+A
+13 20
+A
+12 15
+A
+14 32
+ T 0 none~
+#10962
+A patrol mans shield~
+a patrol mans shield is here~
+The shield of a Seanchan patrol man is laying here.~
+unknown~
+armor 0 AJ
+AD
+AD AD AD AD 0
+26 30 80 P
+A
+12 10
+A
+17 -5
+A
+20 -5
+A
+14 10
+A
+13 10
+ T 0 none~
+#10963
+An iron shod staff~
+an iron shod staff.~
+A staff made from some sort of wood. The ends are wrapped in iron.~
+unknown~
+weapon A AN
+ABDH
+staff 40 2 smash 0
+96 100 1000 P
+A
+12 20
+A
+18 4
+A
+19 4
+A
+17 -10
+A
+20 -5
+A
+13 25
+ T 0 none~
+#10964
+a long divan~
+a long divan~
+A long divan made of leather is up against the wall.~
+unknown~
+furniture MO 0
+0
+AC FIJ FK CFG CFG
+10 5000 1000 P
+ T 0 none~
+#10965
+a bell on a collar~
+a bell on a collar~
+A bell on a collar, that is used on a cat is here.~
+unknown~
+armor 0 AC
+0
+ABCD ABCD ABCD ABCD 0
+26 20 150 P
+A
+20 -10
+A
+12 6
+ T 0 none~
+#10966
+Fish net stockings~
+a pair of stockings~
+A pair of black fish net stockings.~
+unknown~
+armor Aa AF
+0
+ADE BCDE BCDE BCDE 0
+96 100 750 P
+A
+12 10
+A
+13 25
+A
+17 -10
+A
+14 20
+A
+24 -5
+A
+19 3
+A
+18 3
+ T 0 none~
+#10967
+A keg of brandy~
+a keg of brandy~
+A small keg of brandy is pushed up against the wall.~
+unknown~
+container O 0
+0
+10 C 0 15 5
+70 500 100 P
+ T 0 none~
+#10968
+A long dagger.~
+a long dagger~
+A long but lethal looking dagger, is here.~
+unknown~
+weapon 0 AN
+0
+dagger 5 9 stab 0
+54 30 150 P
+A
+18 2
+A
+19 2
+A
+12 40
+A
+20 -3
+A
+13 7
+ T 0 none~
+#10969
+Forge hammer~
+a forge hammer~
+A long handles forge hammer is here.~
+unknown~
+weapon 0 AN
+BD
+mace 5 11 pound G
+89 200 850 P
+A
+19 6
+A
+18 4
+A
+13 30
+A
+17 -10
+A
+12 20
+A
+14 2
+ T 0 none~
+#10970
+A knitted over the shoulder bag~
+a knitted shoulder bag~
+A knitted bag for carrying supplies, is here.~
+unknown~
+container 0 AO
+0
+1 A 0 20 2
+36 10 500 P
+A
+12 30
+A
+20 -5
+A
+14 20
+ T 0 none~
+#10971
+A feather duster~
+a feather duster~
+An implement made for dusting, it is made from a variety of feathers.~
+unknown~
+weapon A AN
+AF
+exotic 5 10 beating G
+96 100 969 P
+A
+12 20
+A
+18 5
+A
+19 4
+A
+17 -5
+A
+20 -5
+A
+13 28
+ T 0 none~
+#10972
+A crystal fountain~
+a fountain of crystal.~
+A beautiful fountain made of crystal stands in the middle of the road, throwing the light out in rainbows in every direction.~
+unknown~
+fountain MOS 0
+0
+10000 10000 'blood' 0 0
+0 18928 20000 P
+ T 0 none~
+#10973
+A set of overalls~
+a gardeners overalls.~
+A pair of short sleeved gardening overalls~
+unknown~
+armor 0 AD
+0
+F ACDE BCDE BCDE 0
+96 50 1100 P
+A
+13 30
+A
+12 10
+A
+18 5
+A
+19 5
+A
+17 -15
+A
+20 -3
+ T 0 none~
+#10974
+gardening shears~
+a pair of garden shears.~
+A large pair of gardening shears~
+unknown~
+weapon B AN
+0
+exotic 6 10 pierce D
+90 70 1000 P
+A
+13 34
+A
+12 15
+A
+19 4
+A
+18 4
+A
+17 -10
+A
+14 20
+ T 0 none~
+#10975
+Packing knife~
+a packaging knife~
+A small knife with a retractable blade, it is used to open up packages.~
+unknown~
+weapon BY AN
+0
+dagger 8 10 stab B
+70 50 500 P
+A
+13 20
+A
+19 3
+A
+20 -5
+A
+12 35
+A
+14 6
+ T 0 none~
+#10976
+A holy whip~
+a holy whip~
+A whip used by one of the local church attendees is here.~
+unknown~
+weapon 0 AN
+0
+whip 6 10 none B
+96 60 2456 P
+A
+19 6
+A
+18 6
+A
+17 -20
+A
+13 30
+A
+14 4
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#10951
+forest road~
+Trees spread out either side of the dirt road.  Birds can be heard
+singing in the distance.  The road itself is dusty and full of ruts from
+wagons.  Some of the ruts run so deep the wagon beds would be touching the
+ground 
+~
+0 0 8
+D1
+~
+~
+0 0 10952
+S
+#10952
+A small path~
+The road continues to the east.  A small path intersects the road from
+the north.  Except for the singing of forest birds, and the rustle of small
+animals in the undergrowth it is quiet.  There are faint sounds of city life
+in the far distance.  
+~
+0 0 8
+D0
+~
+~
+0 0 10953
+D1
+~
+~
+0 0 10956
+D3
+~
+~
+0 0 10951
+S
+#10953
+Small path~
+A small rarely used path, meanders north through the forest.  The
+under-story of the forest limits vision to only a few yards distance. 
+Animals can be heard scratching around in the undergrowth.  The whole forest
+seems to be alive.  
+~
+0 0 3
+D0
+~
+~
+0 0 10954
+D2
+~
+~
+0 0 10952
+S
+#10954
+A small path leading to a clearing.~
+The vegetation along the path seems to be becoming less dense.  Ahead
+there seems to be a a small clearing, with some kind of structure set of to
+the side.  There is not much light filtering through, and the sounds of
+small animals running through the bushes sounds extremely close.  
+~
+0 67117057 3
+D0
+~
+~
+0 0 10955
+D2
+~
+~
+0 0 10953
+S
+#10955
+An abandoned shack~
+This shack is falling apart, it seems as thought it has not seen any use
+in years.  Patched together from rough pieces of timber, rock and metal,
+with little effort it could be made quite comfortable.  
+~
+0 8200 0
+D2
+~
+~
+0 0 10954
+S
+#10956
+Wagon rest stop~
+The road widens here, to the side there is a large area of hard packed
+dirt.  Looking around, numbers of wheel ruts can be seen.  Looking closely
+at the nearby bushes, a large number of broken spokes can be seen, and even
+some damaged wheels.  Some of the wheels look to be easily repaired, whilst
+others are a lost cause.  There can also be rubbish seen that has been left
+by wagoneers.  
+~
+0 0 8
+D1
+~
+~
+0 0 10957
+D3
+~
+~
+0 0 10952
+S
+#10957
+Faint voices on the wind~
+The road still runs east, it seems as though it has no end.  Or at least
+not in sight.  The birds are still chirping merrily in the background. 
+Rustling can be heard in the bushes, hopefully it is only some small furry
+animal.  There is nothing to relieve the monotonous screen of trees and the
+straight dusty road.  Wait, is that a faint echo of voices that can be heard
+on the wind.  
+~
+0 138420224 8
+D1
+~
+~
+0 0 10958
+D3
+~
+~
+0 0 10956
+S
+#10958
+A short walk to village~
+In the distance, smoke can be seen rising above what seems to be a small
+settlement of some kind.  The murmur of civilization can be heard, even from
+this distance.  The smell of civilization can also be smelt if the wind is
+blowing in the right direction.  
+~
+0 0 8
+D1
+~
+~
+0 0 10959
+D3
+~
+~
+0 0 10957
+S
+#10959
+The entrance to a small unnamed village~
+The gates of a small village stand open.  The wall surrounding the
+village is made of wood and seems extremely fragile.  From within the
+vilage, the raised voices of the local inhabitants can be heard.  
+~
+0 0 8
+D1
+~
+~
+0 0 10960
+D3
+~
+~
+0 0 10958
+S
+#10960
+Entering the small village~
+Walking through the village gates the quiet noise of a small village
+going abouts its business can be heard.  People are moving around, on
+errands.  Others are standing still and talking to their neighbours. 
+Although this obviously is not a large village, it seems to be unusually
+full of activity.  The locals can be seen casting sly looks at any newcomers
+wandering into their village.  
+There is a building to the north here, the door is closed
+~
+0 67108864 1
+D0
+~
+~
+1 0 10961
+D1
+~
+~
+0 0 10962
+D3
+~
+~
+0 0 10959
+S
+#10961
+A quaint country home~
+Everything within this room is neat, and each item seems to have its
+place.  There is a bed in the far corner, underneath a window.  In the
+centre of the room is a small table, with four chairs pushed under it.  A
+fireplace is built into a wall.  Over a small fire a large pot hangs from a
+hook.  A closet is pushed into against the wall behind the door.  
+~
+0 8200 0
+D2
+~
+~
+1 0 10960
+S
+#10962
+Near the middle of a smalll village~
+Further into the small village, buildings can be seen to either side of
+the street.  They may be shops or dwellings of the locals.  Exactly what
+they are will remain a mystery unless they are searched.  The inhabitants
+can be seen moving along the street, some are leaving or entering some of
+the buildings.  A number of dogs can be seen moving in and around the
+street, a cat can even be seen curled up on the window sill of one building.
+~
+0 0 1
+D0
+~
+~
+0 0 10963
+D1
+~
+~
+0 0 10965
+D2
+~
+~
+1 0 10964
+D3
+~
+~
+0 0 10960
+S
+#10963
+The village inn~
+Noise assaults the patrons on entering this establishment.  A small but
+well frequented inn, their around twenty people in here.  It is almost like
+a revolving door, as one or two people leave, several others move in to take
+their place at the bar.  The patrons are all in jovial moods, no angst can
+be seen.  Perhaps this is because of the barman and his aides.  They appear
+to be very large men, who would brook no fights or arguments in the inn.  On
+glancing around, people can be seen in groups talking over drinks or a meal.
+On the whole it seems an excellent place to rest, and have a meal.  
+~
+0 8 0
+D2
+~
+~
+0 0 10962
+D4
+~
+~
+0 0 10966
+D5
+~
+~
+0 0 10967
+S
+#10964
+A local's home~
+This appears to be another home of one of the locals.  It is neat, with a
+large table in the centre of the room, and a fireplace built into one wall. 
+Several doors can be seen, leading to other rooms.  Most likely they are
+sleeping quarters for the owner, and maybe a kitchen.  Soft whistling can be
+heard coming from one of the other rooms.  Look like the owner may be in the
+house, and working on something some where else.  
+~
+0 71303176 0
+D0
+~
+~
+1 0 10962
+S
+#10965
+To the market place.~
+There are no buildings on the side of the road here.  Looking ahead a
+large open area can be seen.  Perhaps this area is used as the village
+market place.  A few stalls can be seen, with people milling around the
+area.  Some livestock can be seen staked out in the middle of the open
+section, perhaps it is a market place, and a bargain can be found here.  
+~
+0 0 1
+D1
+~
+~
+0 0 10968
+D3
+~
+~
+0 0 10962
+S
+#10966
+Upstairs room~
+There is little to be found in this room.  Doorways lead off in all
+directions.  There is a small desk in the corner, a middle aged woman sits
+behind it.  Looking closely at her, it can be seen that she is a little
+older than first impressions make out.  She has a book in front of her with
+a quill resting beside it in an ink well.  The book has a number of names
+scribbled onto it, next to room numbers.  
+~
+0 8 0
+D5
+~
+~
+0 0 10963
+S
+#10967
+cellar~
+This is the cellar of the inn.  There are number of keg and casks of
+varying sizes stacked around the room.  Writing can be seen on the sides,
+describing what the contents of the kegs and casks are.  Also there are
+non-perishable goods placed in the shelving of the room, and hanging from
+hooks.  Cured hams, salted beef, pickled and dried fruits can be easily
+identified.  There are also some items that defy description that can be
+found on the shelves.  
+~
+0 8 0
+D4
+~
+~
+0 0 10963
+S
+#10968
+A merging of roads, making a market place.~
+From the south a paved road can be seen, merging with the east-west road.
+To the north east another road can be seen, going north.  The area around
+here is large and open.  There are know buildings in the direct vicinity,
+however a number of temporary stores can be seen.  In the middle of the open
+area some livestock can be seen staked out.  There is not much in the way of
+activity here at the moment, but the place is probably a bustling frenzy on
+market days.  
+~
+0 0 1
+D0
+~
+~
+0 0 10969
+D1
+~
+~
+0 0 10972
+D2
+~
+~
+0 0 10976
+D3
+~
+~
+0 0 10965
+S
+#10969
+North west corner~
+The north west corner of the market place, is devoted the sale of farming
+implements.  A couple of stores can be seen selling armor and weapons, a
+most unusual thing to be sold in a small village.  The bleating of sheep,
+and mournful mooing of a couple of scrawny cows drifts from the center of
+the market place.  
+~
+0 0 1
+D1
+~
+~
+0 0 10970
+D2
+~
+~
+0 0 10968
+S
+#10970
+North-west corner of the market place.~
+This is the north western corner of the village's market place.  In the
+center of the market place, and area can be seen that holds live stock that
+are for sale.  This area is apparently made up of stalls that are selling
+vegetables and other perishable goods.  All the stall holders, and those
+people bargaining speak with a slow drawl, that is difficult to understand. 
+Some armed and armored guards can be seen roaming through the crowds,
+sorting out any trouble that they see.  
+~
+0 0 1
+D0
+~
+~
+0 0 10971
+D2
+~
+~
+0 0 10972
+D3
+~
+~
+0 0 10969
+S
+#10971
+Crown road~
+Crown road leads north from the market place of the village.  It leads
+deeper into the village, perhaps towards the residential areas.  There are a
+number of buildings that can be seen set just off the road.  Some have well
+kept gardens in the front yard, others just have bare dirt showing.  
+~
+0 0 1
+D0
+~
+~
+0 0 10973
+D2
+~
+~
+0 0 10970
+S
+#10972
+South eastern corner of market place~
+This is the south eastern corner of the market place.  The stalls here
+can be seen to hold every day household items.  One stall has sign giving
+the types, and prices of cookware.  Another has a sign with a list of
+glassware.  It looks as though most of the people moving around here are
+woman, looking for bargains for their home.  
+~
+0 0 1
+D0
+~
+~
+0 0 10970
+D3
+~
+~
+0 0 10968
+S
+#10973
+a bend in the road.~
+There is a bend in Crown road here.  Crown road no longer is moving
+north, the bend makes the road move back to the west.  Directly ahead, set
+well back off the road, a building that is much larger than any of the
+others, can be seen.  It seems to be a very well kept house.  Gardeners can
+be seen moving around the lawns of the house, going about the day to day
+work of the household.  
+~
+0 0 1
+D2
+~
+~
+0 0 10971
+D3
+~
+~
+0 0 10974
+S
+#10974
+Heading west on Crown road.~
+Crown road continues to the west.  The mansion is still to the north,
+occupying two blocks.  To the south there is a smaller building, possibly a
+home of one of the locals.  One of the gardeners can be seen hurrying west
+along the road, he has an intent look on his face.  Perhaps he is on some
+unknown errand for the master of the house.  A woman in a homespun wool
+dress can be seen exiting the building to the south.  She waves at the
+gardener, as he passes.  
+~
+0 0 1
+D1
+~
+~
+0 0 10973
+S
+#10975
+Hawthorn street near the southern entrance~
+Hawthorn street is a little closer to the southern entrance here.  There
+is a large warehouse on the west of the street.  Further down the street,
+perhaps some one hunderd yards or so, a gate can be seen splitting the
+earthen and timber walls of the village.  
+~
+0 0 1
+D0
+~
+~
+0 0 10976
+S
+#10976
+Hawthorn street~
+A narrow street leading to the southern entrance of the village.  From a
+building on the right comes the laughter and yelling of children.  On the
+opposite side of the street there is a church of some description.  People
+can be seen entering the church, with intense looks on their faces.  Those
+people leaving the church have contented looks on their faces and seem
+blissfully unawares of what is occurring around them.  
+~
+0 0 1
+D0
+~
+~
+0 0 10968
+D2
+~
+~
+0 0 10975
+S
+#0
+
+
+
+#SPECIALS
+M 10954 spec_cast_cleric
+M 10959 spec_poison
+M 10961 spec_breath_frost
+M 10962 spec_patrolman
+M 10966 spec_breath_gas
+M 10968 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 10960 0 1
+D 0 10961 2 1
+D 0 10962 2 1
+D 0 10964 0 1
+M 0 10951 2 10951 1 100 Load a bright song bird
+E 0 10951 0 6 0 100 A songbird's beak is loaded over the head of a bright song bird
+M 0 10952 1 10952 1 100 Load A saltwater crocodile
+E 0 10952 0 8 0 100 Crocodile boots is loaded on the feet of A saltwater crocodile
+M 0 10953 1 10953 1 100 Load A deer-like creature.
+E 0 10953 0 13 0 100 A deer's tail is loaded around the waist of A deer-like creature.
+M 0 10954 1 10954 1 100 Load A brushtail possum
+E 0 10954 0 0 0 100 Brushtail possum eyes is loaded as a light of A brushtail possum
+M 0 10955 2 10955 1 100 Load A furry mammal
+E 0 10955 0 5 0 100 A vest of mammal fur is loaded on the body of A furry mammal
+M 0 10956 1 10956 1 100 Load A wagoneer
+E 0 10956 0 17 0 100 A wagoneers club is loaded wielded of A wagoneer
+M 0 10957 2 10957 1 100 Load A farmer
+O 0 10957 0 10957 0 100 There is a hole in the air loaded to Faint voices on the wind
+M 0 10958 1 10958 1 100 Load The Croc Hunter.
+E 0 10958 0 10 0 100 Croc hunter arm guards is loaded on the arms of The Croc Hunter.
+M 0 10959 2 10959 1 100 Load An evil looking snake.
+E 0 10959 0 21 0 100 A set of fangs is loaded on the face of An evil looking snake.
+M 0 10960 1 10960 1 100 Load a strange beast
+O 0 10960 0 10960 0 100 A statue of the empress loaded to Entering the small village
+M 0 10961 1 10961 1 100 Load Lady of the house.
+E 0 10961 0 8 0 100 A lady's soft slippers. is loaded on the feet of Lady of the house.
+M 0 10962 2 10962 1 100 Load A patrol man
+E 0 10962 0 11 0 100 A patrol mans shield is here is loaded as a shield of A patrol man
+M 0 10962 1 10962 1 100 Load A patrol man
+M 0 10963 1 10963 1 100 Load A barman
+E 0 10963 0 17 0 100 An iron shod staff. is loaded wielded of A barman
+M 0 10967 2 10963 1 100 Load An inn's bouncer
+M 0 10964 1 10964 1 100 Load The man of the house
+O 0 10964 0 10964 0 100 A long divan loaded to A local's home
+M 0 10965 1 10965 1 100 Load A small house cat
+E 0 10965 0 3 0 100 A bell on a collar is loaded around the neck (1) of A small house cat
+M 0 10966 1 10966 1 100 Load A secretary
+E 0 10966 0 7 0 100 A pair of stockings is loaded on the legs of A secretary
+O 0 10967 0 10967 0 100 A keg of brandy loaded to cellar
+M 0 10968 2 10968 1 100 Load A Seanchan merchant
+E 0 10968 0 17 0 100 A long dagger is loaded wielded of A Seanchan merchant
+M 0 10969 1 10969 1 100 Load A blacksmith
+E 0 10969 0 17 0 100 A forge hammer is loaded wielded of A blacksmith
+M 0 10957 1 10970 1 100 Load A farmer
+M 0 10970 2 10970 1 100 Load A stray dog.
+M 0 10971 2 10971 1 100 Load A seanchan woman.
+E 0 10970 0 19 0 100 A knitted shoulder bag is loaded held in the hands of A seanchan woman.
+M 0 10972 1 10972 1 100 Load A small Seanchan child
+O 0 10972 0 10972 0 100 A fountain of crystal. loaded to South eastern corner of market place
+M 0 10973 2 10973 1 100 Load Upstairs maid
+E 0 10971 0 17 0 100 A feather duster is loaded wielded of Upstairs maid
+M 0 10974 3 10974 1 100 Load A lords gardener
+E 0 10974 0 17 0 100 A pair of garden shears. is loaded wielded of A lords gardener
+E 0 10973 0 5 0 100 A gardeners overalls. is loaded on the body of A lords gardener
+M 0 10975 3 10975 1 100 Load A warehouse worker.
+E 0 10975 0 17 0 100 A packaging knife is loaded wielded of A warehouse worker.
+M 0 10976 2 10976 1 100 Load A local attending church
+E 0 10976 0 17 0 100 A holy whip is loaded wielded of A local attending church
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

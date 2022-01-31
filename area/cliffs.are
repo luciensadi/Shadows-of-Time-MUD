@@ -1,0 +1,3789 @@
+#AREADATA
+Name Mountains of Dhoom~
+Builders None~
+VNUMs 11800 11999
+Credits `4[`7 High `4]`7 Mikki     Mountains of Dhoom~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#11800
+dangerous snarling wolf~
+a snarling wolf~
+A dangerous looking wolf is here, snarling at you.
+~
+This wolf looks pretty dangerous, better not mess with him.  
+~
+wolf~
+0 0
+AFTW 0 16384 0 0 -1  -1000 0
+121 80 100d100+1000 120d100+1000 40d3+100 scratch
+-75 -75 -75 -100
+ADFHLMOU AB CD H
+stand stand none 1250
+AGV ACDEFJKQUV medium unknown
+M GRALL 11800 90~
+#11801
+grizzly bearded man~
+a grizzly man~
+A grizzly looking bearded man is here, eating raw meat from some.. thing.
+~
+This guy looks like he's lived away from people for quite some time.
+~
+unique~
+0 0
+AGRT 82 27136 0 0 -1  -500 0
+150 85 180d100+2000 180d100+0 10d8+50 none
+-55 -75 -55 -50
+U ABLOQ AL H
+stand stand male  1500
+E D medium unknown
+#11802
+deadly slithering snake~
+a deadly snake~
+A snake is slithering here, slithering there, slithering just about everywhere.
+~
+A snake is exposing it's fangs to you.
+~
+unique~
+0 0
+AGRT 80 26688 0 0 -1  -500 0
+150 90 200d100+1000 200d100+0 40d4+75 acbite
+-35 -40 -35 -35
+0 ABDOQ L 0
+stand stand female 200
+E Q tiny unknown
+#11803
+average man hunter~
+a hunter~
+An average looking man is hunting something here.
+~
+You see a man holding a bow with a quiver slung over his shoulder.  He
+looks like he's hunting.  
+~
+andor~
+0 0
+AGT 80 26688 0 0 -1  -500 0
+120 75 100d150+1000 100d150+1000 20d6+20 none
+-35 -35 -35 -35
+0 ABLOQ AL HJ
+stand stand male  1500
+AV ABCDEFGHIJK medium unknown
+F for HM
+#11804
+wandering man old~
+a wandering old man~
+An old man is here, wandering about the mountains.
+~
+This man is old. Ragged clothing. White hair. The works.
+~
+unique~
+0 0
+AGRT 80 25088 0 0 -1  -500 0
+50 85 8000d1+2000 100d12+2000 10d1+50 none
+-21 -21 -21 -5
+0 ALOQ AL HJ
+stand stand male  1500
+E D tiny unknown
+#11805
+mountain lion~
+a mountain lion~
+A mountain lion is here, roaming about.
+~
+It looks hungry.
+~
+unique~
+0 0
+AFGT 0 16384 0 0 -1  -1000 0
+131 100 200d50+2000 1500d10+0 30d3+75 scratch
+-50 -59 -50 -75
+ABCDELMOU 0 ABLQ 0
+stand stand none 1250
+G ACDFQU medium unknown
+#11806
+large black spider~
+a large black spider~
+A large black spider is here, looking to entangle you in its web.
+~
+You see a HUGE black spider inching toward you. 
+~
+unique~
+0 0
+AFT 0 16384 0 0 -1  -1000 0
+100 90 150d8+1000 100d50+2000 30d4+75 scratch
+-30 -29 -30 -45
+AMOU 0 ABILQ I
+stand stand none 900
+GP ACDFQU medium unknown
+#11807
+burly mountain woman trader seller~
+a burly woman~
+A burly woman is here, trying to sell things to you.
+~
+This woman seems crazy.  She has a table set up in the mountains, for one
+thing.  Deadly animals roaming about, and she's trying to sell you stuff. 
+Oh well, at least she has food.  
+~
+unique~
+0 0
+ABGT 336 27200 0 0 -1  -500 0
+200 100 100d22+100 30d300+0 15d5+75 none
+-35 -75 -35 -50
+U ABEJLOQ AGL 0
+stand stand female 1500
+E D tiny unknown
+#11808
+large black bear~
+a large black bear~
+A large black bear is here, looking angry.
+~
+A large black bear is here, growling at you.
+~
+unique~
+0 0
+AFT 0 16384 0 0 -1  -1000 0
+135 100 100d15+500 150d5+0 35d5+20 scratch
+-50 -59 -50 -75
+ABCDELMOU 0 ABILQ 0
+stand stand none 1250
+GV ACDFQU medium unknown
+#11809
+wolverine leader~
+a snarling wolf~
+A wolvervine that seems to lead others 
+~
+You see an animal similar to a dog only larger with fangs that look too
+big for its mouth looks around for the others in the pack 
+~
+unique~
+0 0
+AFTW 80 17408 0 512 -1  -1000 0
+121 90 1000d15+1000 100d100+0 30d5+20 scratch
+-75 -75 -75 -100
+ABCDEHLMOU 0 ABILQ 0
+stand stand none 1250
+G ACDFQU medium unknown
+#11810
+deadly flapping bird large~
+a large deadly bird~
+A large deadly bird is here, circling above your head.
+~
+That's a deadly looking bird, and he looks hungry.
+~
+unique~
+0 0
+AGT 0 16384 0 0 -1  -1000 0
+100 70 150d8+1000 100d50+2000 30d4+75 scratch
+-30 -29 -30 -45
+ABCDELMOU 0 ABILQ 0
+stand stand none 900
+GW ACDFQU medium unknown
+#11811
+large cloud mist~
+a large cloud of mist~
+A large cloud seems to envelope you. 
+~
+You are walking into a cloud of fine misty air. 
+~
+unique~
+0 0
+AFG 0 16384 0 0 -1  -1000 0
+100 100 150d8+1000 100d50+2000 40d4+75 scratch
+-50 -70 -75 -75
+ABCDELMOU 0 ABILQ 0
+stand stand none 900
+GK ACDFQU medium unknown
+#11812
+cougar cat~
+a cougar~
+A cougar is here, waiting for you to cross him.
+~
+The cougar is waiting for you to make a move.
+~
+unique~
+0 0
+AFGT 0 16384 0 0 -1  -1000 0
+131 100 200d50+2000 1500d10+0 20d3+75 scratch
+-50 -59 -50 -75
+ABCDELMOU 0 ABILQ 0
+stand stand none 1250
+G ACDFQU medium unknown
+#11813
+toad green slimy poisonous~
+a poisonous toad~
+A green toad is here, leaping at you.
+~
+A slimy green toad is croaking here. 
+~
+unique~
+0 0
+ACFHT 0 16384 0 0 -1  -1000 0
+50 70 20d1+500 100d50+2000 10d1+50 scratch
+-21 -21 -21 -5
+ABCDELMOU 0 ABILQ 0
+stand stand none 900
+BGa ACDFQU medium unknown
+#11814
+fly biteme bite me bug tiny~
+a tiny fly~
+A tiny fly buzzes near you.
+~
+This fly is very annoying.
+~
+unique~
+0 0
+AFGT 0 16384 0 0 -1  -1000 0
+50 60 20d1+500 100d50+2000 10d1+50 scratch
+-21 -21 -21 -5
+ABMU 0 AILQ 0
+stand stand none 900
+GO 0 small unknown
+#11815
+myrddraal fade~
+a Myrddraal~
+A Fade is here, his gaze freezing you.
+~
+You see an incredibly tall, eyeless figure unsheathing its black sword.
+~
+unique~
+0 0
+AFGRT 35072 25683 0 0 -1  -1000 0
+131 100 500d50+2000 1500d10+0 35d5+75 scratch
+-50 -59 -50 -75
+ABCDELMORU 0 ABILQ 0
+stand stand male  1250
+G ACDFQU medium unknown
+#11816
+trolloc~
+a Trolloc~
+A Trolloc is standing here, awaiting orders from a Myrddraal.
+~
+A Trolloc awaiting orders is here. He's very ugly.
+~
+unique~
+0 0
+AFGT 35586 26195 0 0 -1  -1000 0
+100 100 200d50+1000 1500d10+0 25d5+55 scratch
+-50 -59 -50 -75
+ABCDELMORU 0 ABILQ 0
+stand stand none 1250
+G ACDFQU medium unknown
+#11817
+strange creature~
+a strange creature~
+A strange looking creature is here, running at you screaming.
+~
+A strange creature is here, his name matching his description.
+~
+unique~
+0 0
+AFGT 0 16384 0 0 -1  -1000 0
+100 60 150d8+1000 100d50+2000 8d4+50 scratch
+-30 -29 -30 -45
+ABCDELMORU K ABILQ 0
+stand stand none 900
+G ACDFQU medium unknown
+#11818
+furry sloth~
+a sloth~
+A furry sloth is here, doing absolutely nothing.
+~
+A furry creature is lounging around here, sleeping.
+~
+unique~
+0 0
+AGH 0 16384 0 0 -1  -1000 0
+50 80 50d10+100 100d50+2000 10d1+50 chomp
+-30 -29 -30 -45
+LMORU 0 ABILQ 0
+stand stand none 900
+G ACDFQU medium unknown
+#11819
+mole rat~
+a mole rat~
+A mole rat is here, digging holes and whatnot.
+~
+A mole rat is digging a hole here, minding his own business.
+~
+unique~
+0 0
+AFGHT 0 16384 0 0 -1  -1000 0
+100 75 10000d1+1000 100d50+2000 20d4+50 scratch
+-50 -50 -30 -45
+ALMORU 0 ABILQ 0
+stand stand none 900
+G ACDFQU medium unknown
+#11820
+small pink pig oink~
+a small pink pig~
+A small pink pig is here oinking at you.
+~
+OINK OINK!
+~
+unique~
+0 0
+AGHT 0 16384 0 0 -1  -1000 0
+100 60 150d8+1000 100d50+2000 14d4+50 scratch
+-30 -29 -30 -45
+AELMORU 0 ABILQ 0
+stand stand none 900
+G ACDFQU medium unknown
+#11821
+crazy old woman enriquetta~
+a crazy old woman~
+A crazy old woman is running towards you.
+~
+Better run, this woman is chasing you.
+~
+unique~
+0 0
+ABGY 0 8192 0 0 -1  0 0
+1 100 3000d100+0 0d0+0 100d1+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 tiny unknown
+#11822
+Wicerrabaen~
+`*Wicerrabaen~
+An odd looking creature stands here peering at you.
+~
+~
+kobold~
+0 0
+AGHOSTWZc 49488 11344 1153 4096 -1  0 0
+350 400 500d500+0 0d0+0 2d200+275 peck
+-200 -200 -200 -200
+DEFGHK ABEb CDL 0
+stand stand male  100
+ABHMV ABCDEFGHIJKQ medium unknown
+F vul C
+M GRALL 11822 100~
+M SPEECH 11823 no~
+M SPEECH 11824 yes~
+M GIVE 11825 4117~
+M GIVE 11826 20433~
+M DEATH 11827 100~
+#0
+
+
+
+#OBJECTS
+#11800
+fry bread~
+A large piece of fried bread~
+A large piece of fried bread~
+~
+food NWY A
+0
+0 D 0 0 0
+1 1 26 G
+ T 0 none~
+#11801
+bellfruit~
+A small bellfruit~
+A small bellfruit~
+~
+food NWY A
+0
+0 AC 0 0 0
+5 2 20 G
+ T 0 none~
+#11802
+cabbage~
+A small leafy head of cabbage~
+A small leafy head of cabbage~
+~
+food NWY A
+0
+0 AC 0 0 0
+1 2 19 P
+ T 0 none~
+#11803
+berries~
+A small jar of berries~
+A small pottery jar is filled with berries~
+~
+food NW A
+0
+0 AB 0 0 0
+0 1 10 G
+ T 0 none~
+#11804
+corpse moss~
+a small smelly green substance~
+A bit of corpse moss from the near by caves.~
+~
+food WY A
+0
+0 AC 0 0 0
+5 2 55 G
+A
+13 20
+ T 0 none~
+#11805
+deathshed mushrooms~
+A small bubble mushroom~
+A small mushroom lays here.~
+~
+food WY A
+0
+0 AC 0 0 0
+6 1 20 G
+ T 0 none~
+#11806
+a large jar of water~
+A large jar of water~
+A pottery jar full of water~
+~
+drink NW A
+0
+125 -2 'water' 0 0
+4 5 35 G
+ T 0 none~
+#11807
+an earthen cup of brown liquid~
+an earthen cup of a brown liquid~
+A small earthen cup full of some liquid~
+~
+drink NW A
+0
+10 10 'whisky' 0 0
+0 0 0 G
+ T 0 none~
+#11808
+stick~
+A stick with a glowing Ember~
+A stick with a glowing ember is here.~
+~
+light ABW AO
+0
+0 0 0 0 0
+85 10 1500 G
+A
+13 35
+A
+12 35
+A
+17 -35
+A
+14 -12
+ T 0 none~
+#11809
+blackthron bush~
+A potion of blackthron bush~
+A small vial of blacktrhorn bush extract~
+~
+potion ABN A
+0
+40 'detect hidden' '' 'detect invis' ''
+75 2 2400 G
+ T 0 none~
+#11810
+bluepine~
+A small vial of bluepine~
+A small vial of bluepine extract~
+~
+potion NW A
+0
+10 'sanctuary' '' '' ''
+75 1 3200 G
+ T 0 none~
+#11811
+bluewart~
+A potion of bluewart~
+A small vial of bluewart is here.~
+~
+potion NW A
+0
+40 'haste' '' '' ''
+75 2 3600 G
+ T 0 none~
+#11812
+red calma~
+A vial of red calma~
+A vial of red calma~
+~
+potion NW A
+0
+40 'protection evil' '' '' ''
+75 1 1800 G
+ T 0 none~
+#11813
+metal breast~
+A pounded metal breast plate~
+A pounded metal breast plate is here.~
+~
+armor ABNW AD
+0
+ABF ABF ABF DF 0
+85 14 3800 G
+A
+1 5
+ T 0 none~
+#11814
+metal leg~
+A pounded metal leg plates~
+A pounded metal leg plate is here.~
+~
+armor ABNW AF
+0
+ABF ABF ABF ABF 0
+85 14 3800 G
+ T 0 none~
+#11815
+metal arm ~
+A pounded metal arm plates~
+A pounded metal arm plate is here.~
+~
+armor ABNW AI
+0
+ABF ABF ABF BF 0
+85 14 3800 G
+ T 0 none~
+#11816
+metal shoes~
+A pair of pounded metal shoes~
+A pair of pounded metal shoes are here.~
+~
+armor ABNW AG
+0
+ABF ABF ABF DF 0
+85 14 3800 G
+A
+14 100
+ T 0 none~
+#11817
+bag woven~
+A large woven bag~
+A large woven bag has been left here.~
+~
+container ABHNW AO
+0
+15 A 0 350 0
+95 15 5000 G
+ T 0 none~
+#11818
+spring~
+A small spring~
+A small spring is here.~
+~
+fountain O 0
+0
+5000 -5 'water' 0 0
+0 0 0 G
+ T 0 none~
+#11819
+fly wings~
+A tiny set of bite me wings~
+A pile of silky thread lays here.~
+~
+armor AB AD
+0
+F F F ABCDE 0
+97 6 5000 P
+A
+14 -7
+A
+17 -7
+A
+12 7
+A
+13 7
+A
+20 -7
+A
+19 7
+A
+18 7
+ T 0 none~
+#11820
+cloak mist~
+`7A Cloak of Mist~
+A cloak light as air floats here.~
+~
+armor ABGHY AK
+0
+F F F ABCDE 0
+97 5 5000 P
+A
+18 7
+A
+19 7
+A
+13 47
+ T 0 none~
+#11821
+gem~
+`7A Sparkling Gem~
+A small blue gem is laying here.~
+~
+treasure 0 A
+0
+0 0 0 0 0
+60 1 5000 G
+ T 0 none~
+#11822
+claws bear~
+A small set of bear claws~
+A bear lost it's claws here.~
+~
+armor AB AG
+0
+F F F ABCDE 0
+97 15 5000 P
+A
+13 -2
+A
+17 -6
+A
+20 -6
+A
+19 9
+A
+18 9
+ T 0 none~
+#11823
+aye eye~
+`7A set of eyes~
+A pair of glass eyes are laying here.~
+~
+armor AB AQ
+0
+F F F ABCDE 0
+97 0 5000 P
+A
+19 -1
+A
+18 -1
+A
+14 25
+A
+12 50
+A
+13 75
+ T 0 none~
+#11824
+knap sack~
+`7A Black Knap sac~
+A bag has been left here.~
+~
+container ABHY AI
+0
+15 A 0 400 25
+97 10 5000 P
+A
+13 22
+A
+1 3
+A
+19 9
+A
+18 9
+ T 0 none~
+#11825
+quest token worth 100 qps~
+token worth 100 qps~
+`&GET THIS QUICK!~
+paper~
+token a A
+0
+100 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#11800
+A Pebbled Path~
+You find yourself walking up a narrow pebbled path.  Jagged black
+mountains are all that can be seen facing forward from here.  
+~
+0 0 5
+D1
+~
+~
+0 0 11801
+D3
+~
+~
+0 0 35791
+S
+#11801
+A Pebble Path~
+You are on a pebbled path in the foothills of the Mountains of Dhoom. 
+The path is narrow, but the footing is sure.  
+~
+0 0 5
+D1
+~
+~
+0 0 11802
+D3
+~
+~
+0 0 11800
+S
+#11802
+Following the Path~
+Further along the path, you begin to notice signs of life.  Small animals
+run about, doing whatever it is animals love to do.  
+~
+0 0 5
+D0
+~
+~
+0 0 11803
+D3
+~
+~
+0 0 11801
+S
+#11803
+A Winding Path~
+Here the path begins to curve a bit, and the animals begin to get bigger,
+less cute, and don't seem to be enjoying your company.  
+~
+0 0 5
+D2
+~
+~
+0 0 11802
+D3
+~
+~
+0 0 11804
+S
+#11804
+The Path Continues~
+As the path continues to wind, it leads further and further up,
+approaching the mountains.  
+~
+0 0 5
+D1
+~
+~
+0 0 11803
+D3
+~
+~
+0 0 11805
+S
+#11805
+Around the Path~
+You continue to climb the winding path approaching the mountains.  
+~
+0 0 5
+D0
+~
+~
+0 0 11806
+D1
+~
+~
+0 0 11804
+S
+#11806
+The Path Continues~
+As you travel further still up the path, you begin to wonder if it will
+ever end.  
+~
+0 0 5
+D1
+~
+~
+0 0 11807
+D2
+~
+~
+0 0 11805
+S
+#11807
+Top of the Knoll~
+You have reached the top of the knoll. From here if you look to the east
+you see the Moutains of Dhoom spread out before you. 
+~
+0 0 5
+D0
+~
+~
+0 0 11808
+D3
+~
+~
+0 0 11806
+S
+#11808
+Up the Next Hill~
+You are in the middle of the foothills. There is a small knoll to the
+south of here and a larger one if you go north. 
+~
+0 0 5
+D0
+~
+~
+0 0 11809
+D2
+~
+~
+0 0 11807
+S
+#11809
+West Side of the Mountains~
+You are on a large knoll comprising the foothills of the Mountains of
+Dhoom. You are on the west side and from here you can go east or south. 
+~
+0 0 5
+D1
+~
+~
+0 0 11810
+D2
+~
+~
+0 0 11808
+S
+#11810
+Climbing the Knoll~
+You can continue north up the large knoll or south to the base of this
+knoll and on to a smaller knoll that leads out of the foothills. 
+~
+0 0 5
+D0
+~
+~
+0 0 11811
+D2
+~
+~
+0 0 11932
+D3
+~
+~
+0 0 11809
+S
+#11811
+West Side of the Knoll~
+You are on the west side of a large knoll. You can go west continuing
+along the path or north top the top of the knoll. 
+~
+0 0 5
+D0
+~
+~
+0 0 11812
+D2
+~
+~
+0 0 11810
+S
+#11812
+Top of the Knoll~
+You have reached the top of the larger of the knolls in the foothills.
+From here if you look toward the east you see the Mountains of Dhoom looming
+far out toward the east. 
+~
+0 0 5
+D1
+~
+~
+0 0 11813
+D2
+~
+~
+0 0 11811
+S
+#11813
+The Stone Chair~
+You are on the top of a knoll and before you is a small chair made of the
+stones found in the area. You can see it has been well used from the
+smoothness of the rock. 
+~
+0 0 5
+D2
+~
+~
+0 0 11814
+D3
+~
+~
+0 0 11812
+S
+#11814
+Down the East~
+You are on the east side of the large knoll found in the foothills of the
+Mountains of Dhoom. You can continue north or go east from here. 
+~
+0 0 5
+D0
+~
+~
+0 0 11813
+D1
+~
+~
+0 0 11815
+S
+#11815
+Wandering the Foothills~
+You are simply wandering around the east side of the foothills. You can
+look out over the mountains or gaze at the top of the knoll. 
+~
+0 0 5
+D2
+~
+~
+0 0 11816
+D3
+~
+~
+0 0 11814
+S
+#11816
+The Lower Rim of the Mountains~
+You are on the lower rim of the mountains as they spread out to the east
+of you. The cliffs above you are jagged and hang percariously over you. 
+~
+0 0 5
+D0
+~
+~
+0 0 11815
+D2
+~
+~
+0 0 11817
+S
+#11817
+In the Mountains of Dhoom~
+You inside the mountains of Dhoom. As you look around you see the
+mountains in all directions. You can hear strange sounds coming from all
+sides. This doesn't seem like a good place to rest. 
+~
+0 0 5
+D0
+~
+~
+0 0 11816
+D3
+~
+~
+0 0 11818
+S
+#11818
+Looking at the Mountains~
+As you gaze around you can see mountains of all types. There are
+mountains with patches of grass and others with rocks and boulders buried
+deep into the ground. There are even a couple with sparse patches of trees. 
+~
+0 0 5
+D1
+~
+~
+0 0 11817
+D2
+~
+~
+0 0 11819
+S
+#11819
+Inside the Mountains~
+You travse the harsh mountain terrain. The path has become more and more
+trecherous. The pebble have become small stones and you're footing is not a
+sure as it once was. 
+~
+0 0 5
+D0
+~
+~
+0 0 11818
+D1
+~
+~
+0 0 11820
+S
+#11820
+The Moutains~
+You strain to see the other side of the moutains but are unable to see
+anything but more mountains. There are several kinds of mountains to look
+at, some promise the thought of possible food, others are barren and rocky. 
+~
+0 0 5
+D2
+~
+~
+0 0 11821
+D3
+~
+~
+0 0 11819
+S
+#11821
+A Mountain Pass~
+You are traveling along a mountain pass, the stones beneath your boots
+make your footing unsure and dangerous. There are mountains on every side of
+you. 
+~
+0 0 5
+D0
+~
+~
+0 0 11820
+D2
+~
+~
+0 0 11822
+S
+#11822
+Looking Around~
+Looking around you see nothing but jagged cliffs and worn stones. The
+weather must have been harsh in this part of the mountians as the stones are
+worn and polished from the winds and sand as it whirls in the wind. 
+~
+0 0 5
+D0
+~
+~
+0 0 11821
+D1
+~
+~
+0 0 11823
+S
+#11823
+The Mountains~
+You are wandering the Mountains of Dhoom. Do you have any idea where you
+are or which direction to go from here. All you can see in any direction is
+the mountains. 
+~
+0 0 5
+D0
+~
+~
+0 0 11824
+D3
+~
+~
+0 0 11822
+S
+#11824
+On the Trail~
+You are following the trail though the Mountains and tho they seem
+trecherous the sounds you are hearing are even more scary. You must continue
+on there is no way you are safe staying here. 
+~
+0 0 5
+D1
+~
+~
+0 0 11825
+D2
+~
+~
+0 0 11823
+S
+#11825
+As You Round the Corner~
+As you turn this corner you got to think about what might be laying ahead
+of you. So far the dangers haven't been that bad, but that is not to say it
+won't get worse. 
+~
+0 0 5
+D0
+~
+~
+0 0 11826
+D3
+~
+~
+0 0 11824
+S
+#11826
+A Small Lean To~
+You have happened on another small lean-to. Someone must be trying to
+live in these mountains. It is hard to see how anyone could survive on the
+food and berries you have been able to find so far. 
+~
+0 0 5
+D2
+~
+~
+0 0 11825
+D3
+~
+~
+0 0 11827
+S
+#11827
+Through the Mountains~
+You walking spritely thro the mountains, dodging a few falling rocks as
+you pass under some of the jagged cliffs. The path seems narrow here and
+there is always a danger of falling down the side of the mountain. 
+~
+0 0 5
+D0
+~
+~
+0 0 11828
+D1
+~
+~
+0 0 11826
+S
+#11828
+A Small Stream~
+You walk beside a small stream, its clear cool water is inviting and you
+figure it might be safe to drink from it but in these mountains is there
+anything that is sure? 
+~
+0 0 5
+D1
+~
+~
+0 0 11829
+D2
+~
+~
+0 0 11827
+S
+#11829
+A Small Stream~
+You walk beside a small stream, its clear cool water is inviting and you
+figure it might be safe to drink from it but in these mountains is there
+anything that is sure? 
+~
+0 0 5
+D0
+~
+~
+0 0 11830
+D3
+~
+~
+0 0 11828
+S
+#11830
+A Small Stream~
+You walk beside a small stream, its clear cool water is inviting and you
+figure it might be safe to drink from it but in these mountains is there
+anything that is sure? 
+~
+0 0 5
+D2
+~
+~
+0 0 11829
+D3
+~
+~
+0 0 11831
+S
+#11831
+Following the Stream ~
+As you follow the stream for a ways you watch the waters as they swirl
+about, showing there is some kind of tide under that refreshing water. 
+~
+0 0 5
+D0
+~
+~
+0 0 11832
+D1
+~
+~
+0 0 11830
+S
+#11832
+Following the Stream ~
+As you follow the stream for a ways you watch the waters as they swirl
+about, showing there is some kind of tide under that refreshing water. 
+~
+0 0 5
+D0
+~
+~
+0 0 11833
+D2
+~
+~
+0 0 11831
+S
+#11833
+Following the Stream ~
+As you follow the stream for a ways you watch the waters as they swirl
+about, showing there is some kind of tide under that refreshing water. 
+~
+0 0 5
+D1
+~
+~
+0 0 11834
+D2
+~
+~
+0 0 11832
+S
+#11834
+Following the Stream ~
+As you follow the stream for a ways you watch the waters as they swirl
+about, showing there is some kind of tide under that refreshing water. 
+~
+0 0 5
+D2
+~
+~
+0 0 11835
+D3
+~
+~
+0 0 11833
+S
+#11835
+The Moutains~
+You strain to see the other side of the moutains but are unable to see
+anything but more mountains. There are several kinds of mountains to look
+at, some promise the thought of possible food, others are barren and rocky. 
+~
+0 0 5
+D0
+~
+~
+0 0 11834
+D1
+~
+~
+0 0 11836
+S
+#11836
+The Rocky Trail~
+You are on a rocky trail that seems to wind around the mountains as a
+single path from east side of the mountains to the west side. 
+~
+0 0 5
+D1
+~
+~
+0 0 11837
+D3
+~
+~
+0 0 11835
+S
+#11837
+Loose Rocks~
+You continue along the rocky trail hoping to see the end of your journey
+soon, tho that apparently is not the case. You need to becareful of your
+footing the rocks are loose and move under your feet. 
+~
+0 0 5
+D2
+~
+~
+0 0 11838
+D3
+~
+~
+0 0 11836
+S
+#11838
+Looking at the Mountains~
+As you gaze around you can see mountains of all types. There are
+mountains with patches of grass and others with rocks and boulders buried
+deep into the ground. There are even a couple with sparse patches of trees. 
+~
+0 0 5
+D0
+~
+~
+0 0 11837
+D3
+~
+~
+0 0 11839
+S
+#11839
+Something Watches~
+As you walk along the trail you feel as tho someone were watching you. No
+matter what direction you go there seems to be eyes following your every
+move. 
+~
+0 0 5
+D1
+~
+~
+0 0 11838
+D2
+~
+~
+0 0 11840
+S
+#11840
+The Cliffs Over Head~
+You seem to be walking under some jagged rocks which are hanging over the
+path from the cliffs above. There is nothing that makes you think it is
+unsafe but you still feel about queezy. 
+~
+0 0 5
+D0
+~
+~
+0 0 11839
+D2
+~
+~
+0 0 11841
+S
+#11841
+A Mountain Pass~
+You are traveling along a mountain pass, the stones beneath your boots
+make your footing unsure and dangerous. There are mountains on every side of
+you. 
+~
+0 0 5
+D0
+~
+~
+0 0 11840
+D2
+~
+~
+0 0 11842
+S
+#11842
+A Cold Breeze~
+You continue thro the mountains, there is no shortcut that you can find,
+at least not yet. The wind begins to pick up and you realize just how cold
+the mountains can become. 
+~
+0 0 5
+D0
+~
+~
+0 0 11841
+D2
+~
+~
+0 0 11843
+S
+#11843
+A Mountain Pass~
+You are traveling along a mountain pass, the stones beneath your boots
+make your footing unsure and dangerous. There are mountains on every side of
+you. 
+~
+0 0 5
+D0
+~
+~
+0 0 11842
+D1
+~
+~
+0 0 11844
+S
+#11844
+Loose Rocks~
+You continue along the rocky trail hoping to see the end of your journey
+soon, tho that apparently is not the case. You need to becareful of your
+footing the rocks are loose and move under your feet. 
+~
+0 0 5
+D0
+~
+~
+0 0 11845
+D1
+~
+~
+0 0 11934
+D3
+~
+~
+0 0 11843
+S
+#11845
+Inside the Mountains~
+You travse the harsh mountain terrain. The path has become more and more
+trecherous. The pebble have become small stones and you're footing is not a
+sure as it once was. 
+~
+0 0 5
+D0
+~
+~
+0 0 11846
+D2
+~
+~
+0 0 11844
+S
+#11846
+Inside the Mountains~
+You travse the harsh mountain terrain. The path has become more and more
+trecherous. The pebble have become small stones and you're footing is not a
+sure as it once was. 
+~
+0 0 5
+D0
+~
+~
+0 0 11847
+D2
+~
+~
+0 0 11845
+S
+#11847
+Looking Around~
+Looking around you see nothing but jagged cliffs and worn stones. The
+weather must have been harsh in this part of the mountians as the stones are
+worn and polished from the winds and sand as it whirls in the wind. 
+~
+0 0 5
+D1
+~
+~
+0 0 11848
+D2
+~
+~
+0 0 11846
+S
+#11848
+A Mountain Pass~
+You are traveling along a mountain pass, the stones beneath your boots
+make your footing unsure and dangerous. There are mountains on every side of
+you. 
+~
+0 0 5
+D2
+~
+~
+0 0 11849
+D3
+~
+~
+0 0 11847
+S
+#11849
+The Mountains~
+You are wandering the Mountains of Dhoom. Do you have any idea where you
+are or which direction to go from here. All you can see in any direction is
+the mountains. 
+~
+0 0 5
+D0
+~
+~
+0 0 11848
+D2
+~
+~
+0 0 11850
+S
+#11850
+Looking at the Mountains~
+As you gaze around you can see mountains of all types. There are
+mountains with patches of grass and others with rocks and boulders buried
+deep into the ground. There are even a couple with sparse patches of trees. 
+~
+0 0 5
+D0
+~
+~
+0 0 11849
+D1
+~
+~
+0 0 11851
+S
+#11851
+Through the Mountains~
+You walking spritely thro the mountains, dodging a few falling rocks as
+you pass under some of the jagged cliffs. The path seems narrow here and
+there is always a danger of falling down the side of the mountain. 
+~
+0 0 5
+D0
+~
+~
+0 0 11852
+D3
+~
+~
+0 0 11850
+S
+#11852
+The Moutains~
+You strain to see the other side of the moutains but are unable to see
+anything but more mountains. There are several kinds of mountains to look
+at, some promise the thought of possible food, others are barren and rocky. 
+~
+0 0 5
+D0
+~
+~
+0 0 11853
+D2
+~
+~
+0 0 11851
+S
+#11853
+Inside the Mountains~
+You travse the harsh mountain terrain. The path has become more and more
+trecherous. The pebble have become small stones and you're footing is not a
+sure as it once was. 
+~
+0 0 5
+D0
+~
+~
+0 0 11854
+D2
+~
+~
+0 0 11852
+S
+#11854
+The Moutains~
+You strain to see the other side of the moutains but are unable to see
+anything but more mountains. There are several kinds of mountains to look
+at, some promise the thought of possible food, others are barren and rocky. 
+~
+0 0 5
+D2
+~
+~
+0 0 11853
+D3
+~
+~
+0 0 11855
+S
+#11855
+The Rocky Trail~
+You are on a rocky trail that seems to wind around the mountains as a
+single path from east side of the mountains to the west side. 
+~
+0 0 5
+D0
+~
+~
+0 0 11856
+D1
+~
+~
+0 0 11854
+S
+#11856
+A Mountain Pass~
+You are traveling along a mountain pass, the stones beneath your boots
+make your footing unsure and dangerous. There are mountains on every side of
+you. 
+~
+0 0 5
+D0
+~
+~
+0 0 11857
+D2
+~
+~
+0 0 11855
+S
+#11857
+As You Round the Corner~
+As you turn this corner you got to think about what might be laying ahead
+of you. So far the dangers haven't been that bad, but that is not to say it
+won't get worse. 
+~
+0 0 5
+D1
+~
+~
+0 0 11858
+D2
+~
+~
+0 0 11856
+S
+#11858
+Loose Rocks~
+You continue along the rocky trail hoping to see the end of your journey
+soon, tho that apparently is not the case. You need to becareful of your
+footing the rocks are loose and move under your feet. 
+~
+0 0 5
+D1
+~
+~
+0 0 11859
+D3
+~
+~
+0 0 11857
+S
+#11859
+Inside the Mountains~
+You travse the harsh mountain terrain. The path has become more and more
+trecherous. The pebble have become small stones and you're footing is not a
+sure as it once was. 
+~
+0 0 5
+D1
+~
+~
+0 0 11860
+D3
+~
+~
+0 0 11858
+S
+#11860
+A Mountain Pass~
+You are traveling along a mountain pass, the stones beneath your boots
+make your footing unsure and dangerous. There are mountains on every side of
+you. 
+~
+0 0 5
+D2
+~
+~
+0 0 11861
+D3
+~
+~
+0 0 11859
+S
+#11861
+Inside the Mountains~
+You travse the harsh mountain terrain. The path has become more and more
+trecherous. The pebble have become small stones and you're footing is not a
+sure as it once was. 
+~
+0 0 5
+D0
+~
+~
+0 0 11860
+D2
+~
+~
+0 0 11862
+S
+#11862
+As You Round the Corner~
+As you turn this corner you got to think about what might be laying ahead
+of you. So far the dangers haven't been that bad, but that is not to say it
+won't get worse. 
+~
+0 0 5
+D0
+~
+~
+0 0 11861
+D1
+~
+~
+0 0 11863
+S
+#11863
+Looking at the Mountains~
+As you gaze around you can see mountains of all types. There are
+mountains with patches of grass and others with rocks and boulders buried
+deep into the ground. There are even a couple with sparse patches of trees. 
+~
+0 0 5
+D1
+~
+~
+0 0 11864
+D3
+~
+~
+0 0 11862
+S
+#11864
+The Mountains~
+You are wandering the Mountains of Dhoom. Do you have any idea where you
+are or which direction to go from here. All you can see in any direction is
+the mountains. 
+~
+0 0 5
+D1
+~
+~
+0 0 11865
+D3
+~
+~
+0 0 11863
+S
+#11865
+The Moutains~
+You strain to see the other side of the moutains but are unable to see
+anything but more mountains. There are several kinds of mountains to look
+at, some promise the thought of possible food, others are barren and rocky. 
+~
+0 0 5
+D2
+~
+~
+0 0 11866
+D3
+~
+~
+0 0 11864
+S
+#11866
+On the Trail~
+You are following the trail though the Mountains and tho they seem
+trecherous the sounds you are hearing are even more scary. You must continue
+on there is no way you are safe staying here. 
+~
+0 0 5
+D0
+~
+~
+0 0 11865
+D3
+~
+~
+0 0 11867
+S
+#11867
+Through the Mountains~
+You walking spritely thro the mountains, dodging a few falling rocks as
+you pass under some of the jagged cliffs. The path seems narrow here and
+there is always a danger of falling down the side of the mountain. 
+~
+0 0 5
+D1
+~
+~
+0 0 11866
+D3
+~
+~
+0 0 11868
+S
+#11868
+Looking Around~
+Looking around you see nothing but jagged cliffs and worn stones. The
+weather must have been harsh in this part of the mountians as the stones are
+worn and polished from the winds and sand as it whirls in the wind. 
+~
+0 0 5
+D1
+~
+~
+0 0 11867
+D3
+~
+~
+0 0 11869
+S
+#11869
+The Rocky Trail~
+You are on a rocky trail that seems to wind around the mountains as a
+single path from east side of the mountains to the west side. 
+~
+0 0 5
+D1
+~
+~
+0 0 11868
+D3
+~
+~
+0 0 11870
+S
+#11870
+A Mountain Pass~
+You are traveling along a mountain pass, the stones beneath your boots
+make your footing unsure and dangerous. There are mountains on every side of
+you. 
+~
+0 0 5
+D1
+~
+~
+0 0 11869
+D2
+~
+~
+0 0 11871
+S
+#11871
+The Mountains~
+You are wandering the Mountains of Dhoom. Do you have any idea where you
+are or which direction to go from here. All you can see in any direction is
+the mountains. 
+~
+0 0 5
+D0
+~
+~
+0 0 11870
+D1
+~
+~
+0 0 11872
+S
+#11872
+Looking at the Mountains~
+As you gaze around you can see mountains of all types. There are
+mountains with patches of grass and others with rocks and boulders buried
+deep into the ground. There are even a couple with sparse patches of trees. 
+~
+0 0 5
+D1
+~
+~
+0 0 11873
+D3
+~
+~
+0 0 11871
+S
+#11873
+Inside the Mountains~
+You travse the harsh mountain terrain. The path has become more and more
+trecherous. The pebble have become small stones and you're footing is not a
+sure as it once was. 
+~
+0 0 5
+D1
+~
+~
+0 0 11874
+D3
+~
+~
+0 0 11872
+S
+#11874
+The Moutains~
+You strain to see the other side of the moutains but are unable to see
+anything but more mountains. There are several kinds of mountains to look
+at, some promise the thought of possible food, others are barren and rocky. 
+~
+0 0 5
+D1
+~
+~
+0 0 11875
+D3
+~
+~
+0 0 11873
+S
+#11875
+Inside the Mountains~
+You travse the harsh mountain terrain. The path has become more and more
+trecherous. The pebble have become small stones and you're footing is not a
+sure as it once was. 
+~
+0 0 5
+D1
+~
+~
+0 0 11876
+D3
+~
+~
+0 0 11874
+S
+#11876
+Loose Rocks~
+You continue along the rocky trail hoping to see the end of your journey
+soon, tho that apparently is not the case. You need to becareful of your
+footing the rocks are loose and move under your feet. 
+~
+0 0 5
+D2
+~
+~
+0 0 11877
+D3
+~
+~
+0 0 11875
+D4
+~
+~
+0 0 11942
+S
+#11877
+Something Watches~
+As you walk along the trail you feel as tho someone were watching you. No
+matter what direction you go there seems to be eyes following your every
+move. 
+~
+0 0 5
+D0
+~
+~
+0 0 11876
+D3
+~
+~
+0 0 11878
+S
+#11878
+A Mountain Pass~
+You are traveling along a mountain pass, the stones beneath your boots
+make your footing unsure and dangerous. There are mountains on every side of
+you. 
+~
+0 0 5
+D1
+~
+~
+0 0 11877
+D3
+~
+~
+0 0 11879
+S
+#11879
+As You Round the Corner~
+As you turn this corner you got to think about what might be laying ahead
+of you. So far the dangers haven't been that bad, but that is not to say it
+won't get worse. 
+~
+0 0 5
+D1
+~
+~
+0 0 11878
+D2
+~
+~
+0 0 11880
+S
+#11880
+The Moutains~
+You strain to see the other side of the moutains but are unable to see
+anything but more mountains. There are several kinds of mountains to look
+at, some promise the thought of possible food, others are barren and rocky. 
+~
+0 0 5
+D0
+~
+~
+0 0 11879
+D1
+~
+~
+0 0 11881
+S
+#11881
+On the Trail~
+You are following the trail though the Mountains and tho they seem
+trecherous the sounds you are hearing are even more scary. You must continue
+on there is no way you are safe staying here. 
+~
+0 0 5
+D1
+~
+~
+0 0 11882
+D3
+~
+~
+0 0 11880
+S
+#11882
+The Mountains~
+You are wandering the Mountains of Dhoom. Do you have any idea where you
+are or which direction to go from here. All you can see in any direction is
+the mountains. 
+~
+0 0 5
+D1
+~
+~
+0 0 11883
+D3
+~
+~
+0 0 11881
+S
+#11883
+Looking Around~
+Looking around you see nothing but jagged cliffs and worn stones. The
+weather must have been harsh in this part of the mountians as the stones are
+worn and polished from the winds and sand as it whirls in the wind. 
+~
+0 0 5
+D0
+~
+~
+0 0 11884
+D3
+~
+~
+0 0 11882
+S
+#11884
+The Moutains~
+You strain to see the other side of the moutains but are unable to see
+anything but more mountains. There are several kinds of mountains to look
+at, some promise the thought of possible food, others are barren and rocky. 
+~
+0 0 5
+D0
+~
+~
+0 0 11885
+D2
+~
+~
+0 0 11883
+S
+#11885
+Inside the Mountains~
+As you travel the harsh mountain terrain, the path has become more and more
+treacherous. The pebbles have become small stones, and your footing is not as
+sure as it once was.
+~
+0 0 5
+D0
+~
+~
+0 0 11886
+D2
+~
+~
+0 0 11884
+S
+#11886
+The Mountains~
+You are wandering the Mountains of Dhoom. Do you have any idea where you
+are or which direction to go from here. All you can see in any direction is
+the mountains. 
+~
+0 0 5
+D0
+~
+~
+0 0 11887
+D2
+~
+~
+0 0 11885
+S
+#11887
+A Mountain Pass~
+You are traveling along a mountain pass, the stones beneath your boots
+make your footing unsure and dangerous. There are mountains on every side of
+you. 
+~
+0 0 5
+D0
+~
+~
+0 0 11888
+D2
+~
+~
+0 0 11886
+S
+#11888
+Through the Mountains~
+You walking spritely thro the mountains, dodging a few falling rocks as
+you pass under some of the jagged cliffs. The path seems narrow here and
+there is always a danger of falling down the side of the mountain. 
+~
+0 0 5
+D0
+~
+~
+0 0 11889
+D2
+~
+~
+0 0 11887
+S
+#11889
+On the Trail~
+You are following the trail though the Mountains and tho they seem
+trecherous the sounds you are hearing are even more scary. You must continue
+on there is no way you are safe staying here. 
+~
+0 0 5
+D1
+~
+~
+0 0 11890
+D2
+~
+~
+0 0 11888
+S
+#11890
+As You Round the Corner~
+As you turn this corner you got to think about what might be laying ahead
+of you. So far the dangers haven't been that bad, but that is not to say it
+won't get worse. 
+~
+0 0 5
+D2
+~
+~
+0 0 11891
+D3
+~
+~
+0 0 11889
+S
+#11891
+The Moutains~
+You strain to see the other side of the moutains but are unable to see
+anything but more mountains. There are several kinds of mountains to look
+at, some promise the thought of possible food, others are barren and rocky. 
+~
+0 0 5
+D0
+~
+~
+0 0 11890
+D2
+~
+~
+0 0 11892
+S
+#11892
+The Mountains~
+You are wandering the Mountains of Dhoom. Do you have any idea where you
+are or which direction to go from here. All you can see in any direction is
+the mountains. 
+~
+0 0 5
+D0
+~
+~
+0 0 11891
+D2
+~
+~
+0 0 11893
+S
+#11893
+Through the Mountains~
+You walking spritely thro the mountains, dodging a few falling rocks as
+you pass under some of the jagged cliffs. The path seems narrow here and
+there is always a danger of falling down the side of the mountain. 
+~
+0 0 5
+D0
+~
+~
+0 0 11892
+D2
+~
+~
+0 0 11894
+S
+#11894
+On the Trail~
+You are following the trail though the Mountains and tho they seem
+trecherous the sounds you are hearing are even more scary. You must continue
+on there is no way you are safe staying here. 
+~
+0 0 5
+D0
+~
+~
+0 0 11893
+D2
+~
+~
+0 0 11895
+S
+#11895
+The Rocky Trail~
+You are on a rocky trail that seems to wind around the mountains as a
+single path from east side of the mountains to the west side. 
+~
+0 0 5
+D0
+~
+~
+0 0 11894
+D2
+~
+~
+0 0 11896
+S
+#11896
+Inside the Mountains~
+You travse the harsh mountain terrain. The path has become more and more
+trecherous. The pebble have become small stones and you're footing is not a
+sure as it once was. 
+~
+0 0 5
+D0
+~
+~
+0 0 11895
+D1
+~
+~
+0 0 11897
+S
+#11897
+As You Round the Corner~
+As you turn this corner you got to think about what might be laying ahead
+of you. So far the dangers haven't been that bad, but that is not to say it
+won't get worse. 
+~
+0 0 5
+D0
+~
+~
+0 0 11898
+D3
+~
+~
+0 0 11896
+S
+#11898
+Looking Around~
+Looking around you see nothing but jagged cliffs and worn stones. The
+weather must have been harsh in this part of the mountians as the stones are
+worn and polished from the winds and sand as it whirls in the wind. 
+~
+0 0 5
+D1
+~
+~
+0 0 11899
+D2
+~
+~
+0 0 11897
+S
+#11899
+The Mountains~
+You are wandering the Mountains of Dhoom. Do you have any idea where you
+are or which direction to go from here. All you can see in any direction is
+the mountains. 
+~
+0 0 5
+D1
+~
+~
+0 0 11900
+D3
+~
+~
+0 0 11898
+S
+#11900
+Through the Mountains~
+You walking spritely thro the mountains, dodging a few falling rocks as
+you pass under some of the jagged cliffs. The path seems narrow here and
+there is always a danger of falling down the side of the mountain. 
+~
+0 0 5
+D0
+~
+~
+0 0 11901
+D3
+~
+~
+0 0 11899
+S
+#11901
+A Mountain Pass~
+You are traveling along a mountain pass, the stones beneath your boots
+make your footing unsure and dangerous. There are mountains on every side of
+you. 
+~
+0 0 5
+D0
+~
+~
+0 0 11902
+D2
+~
+~
+0 0 11900
+S
+#11902
+Through the Mountains~
+You walking spritely thro the mountains, dodging a few falling rocks as
+you pass under some of the jagged cliffs. The path seems narrow here and
+there is always a danger of falling down the side of the mountain. 
+~
+0 0 5
+D0
+~
+~
+0 0 11903
+D2
+~
+~
+0 0 11901
+S
+#11903
+On the Trail~
+You are following the trail though the Mountains and tho they seem
+trecherous the sounds you are hearing are even more scary. You must continue
+on there is no way you are safe staying here. 
+~
+0 0 5
+D2
+~
+~
+0 0 11902
+D3
+~
+~
+0 0 11904
+S
+#11904
+The Moutains~
+You strain to see the other side of the moutains but are unable to see
+anything but more mountains. There are several kinds of mountains to look
+at, some promise the thought of possible food, others are barren and rocky. 
+~
+0 0 5
+D1
+~
+~
+0 0 11903
+D3
+~
+~
+0 0 11905
+S
+#11905
+The Cliffs Over Head~
+You seem to be walking under some jagged rocks which are hanging over the
+path from the cliffs above. There is nothing that makes you think it is
+unsafe but you still feel about queezy. 
+~
+0 0 5
+D0
+~
+~
+0 0 11906
+D1
+~
+~
+0 0 11904
+S
+#11906
+As You Round the Corner~
+As you turn this corner you got to think about what might be laying ahead
+of you. So far the dangers haven't been that bad, but that is not to say it
+won't get worse. 
+~
+0 0 5
+D1
+~
+~
+0 0 11907
+D2
+~
+~
+0 0 11905
+S
+#11907
+On the Trail~
+You are following the trail though the Mountains and tho they seem
+trecherous the sounds you are hearing are even more scary. You must continue
+on there is no way you are safe staying here. 
+~
+0 0 5
+D1
+~
+~
+0 0 11908
+D3
+~
+~
+0 0 11906
+S
+#11908
+The Mountains~
+You are wandering the Mountains of Dhoom. Do you have any idea where you
+are or which direction to go from here. All you can see in any direction is
+the mountains. 
+~
+0 0 5
+D0
+~
+~
+0 0 11909
+D3
+~
+~
+0 0 11907
+S
+#11909
+As You Round the Corner~
+As you turn this corner you got to think about what might be laying ahead
+of you. So far the dangers haven't been that bad, but that is not to say it
+won't get worse. 
+~
+0 0 5
+D1
+~
+~
+0 0 11910
+D2
+~
+~
+0 0 11908
+S
+#11910
+A Mountain Pass~
+You are traveling along a mountain pass, the stones beneath your boots
+make your footing unsure and dangerous. There are mountains on every side of
+you. 
+~
+0 0 5
+D2
+~
+~
+0 0 11911
+D3
+~
+~
+0 0 11909
+S
+#11911
+Loose Rocks~
+You continue along the rocky trail hoping to see the end of your journey
+soon, tho that apparently is not the case. You need to becareful of your
+footing the rocks are loose and move under your feet. 
+~
+0 0 5
+D0
+~
+~
+0 0 11910
+D2
+~
+~
+0 0 11912
+S
+#11912
+The Rocky Trail~
+You are on a rocky trail that seems to wind around the mountains as a
+single path from east side of the mountains to the west side. 
+~
+0 0 5
+D0
+~
+~
+0 0 11911
+D2
+~
+~
+0 0 11913
+S
+#11913
+Through the Mountains~
+You walking spritely thro the mountains, dodging a few falling rocks as
+you pass under some of the jagged cliffs. The path seems narrow here and
+there is always a danger of falling down the side of the mountain. 
+~
+0 0 5
+D0
+~
+~
+0 0 11912
+D2
+~
+~
+0 0 11914
+S
+#11914
+Something Watches~
+As you walk along the trail you feel as tho someone were watching you. No
+matter what direction you go there seems to be eyes following your every
+move. 
+~
+0 0 5
+D0
+~
+~
+0 0 11913
+D2
+~
+~
+0 0 11915
+S
+#11915
+On the Trail~
+You are following the trail though the Mountains and tho they seem
+trecherous the sounds you are hearing are even more scary. You must continue
+on there is no way you are safe staying here. 
+~
+0 0 5
+D0
+~
+~
+0 0 11914
+D2
+~
+~
+0 0 11916
+S
+#11916
+A Small Stream~
+You walk beside a small stream, its clear cool water is inviting and you
+figure it might be safe to drink from it but in these mountains is there
+anything that is sure? 
+~
+0 0 5
+D0
+~
+~
+0 0 11915
+D1
+~
+~
+0 0 11917
+S
+#11917
+A Small Stream~
+You walk beside a small stream, its clear cool water is inviting and you
+figure it might be safe to drink from it but in these mountains is there
+anything that is sure? 
+~
+0 0 5
+D0
+~
+~
+0 0 11918
+D3
+~
+~
+0 0 11916
+S
+#11918
+A Small Stream~
+You walk beside a small stream, its clear cool water is inviting and you
+figure it might be safe to drink from it but in these mountains is there
+anything that is sure? 
+~
+0 0 5
+D1
+~
+~
+0 0 11919
+D2
+~
+~
+0 0 11917
+S
+#11919
+A Small Stream~
+You walk beside a small stream, its clear cool water is inviting and you
+figure it might be safe to drink from it but in these mountains is there
+anything that is sure? 
+~
+0 0 5
+D0
+~
+~
+0 0 11920
+D3
+~
+~
+0 0 11918
+S
+#11920
+A Small Stream~
+You walk beside a small stream, its clear cool water is inviting and you
+figure it might be safe to drink from it but in these mountains is there
+anything that is sure? 
+~
+0 0 5
+D2
+~
+~
+0 0 11919
+D3
+~
+~
+0 0 11921
+S
+#11921
+A Small Stream~
+You walk beside a small stream, its clear cool water is inviting and you
+figure it might be safe to drink from it but in these mountains is there
+anything that is sure? 
+~
+0 0 5
+D0
+~
+~
+0 0 11922
+D1
+~
+~
+0 0 11920
+S
+#11922
+A Small Stream~
+You walk beside a small stream, its clear cool water is inviting and you
+figure it might be safe to drink from it but in these mountains is there
+anything that is sure? 
+~
+0 0 5
+D1
+~
+~
+0 0 11923
+D2
+~
+~
+0 0 11921
+S
+#11923
+A Small Stream~
+You walk beside a small stream, its clear cool water is inviting and you
+figure it might be safe to drink from it but in these mountains is there
+anything that is sure? 
+~
+0 0 5
+D0
+~
+~
+0 0 11924
+D3
+~
+~
+0 0 11922
+S
+#11924
+Something Watches~
+As you walk along the trail you feel as tho someone were watching you. No
+matter what direction you go there seems to be eyes following your every
+move. 
+~
+0 0 5
+D0
+~
+~
+0 0 11925
+D2
+~
+~
+0 0 11923
+S
+#11925
+Around the Knoll~
+You continue to wind around the knoll. The path is narrow but offers no
+danger you can go south or north from here. 
+~
+0 0 5
+D0
+~
+~
+0 0 11926
+D2
+~
+~
+0 0 11924
+S
+#11926
+Around the Knoll~
+You continue to wind around the knoll. The path is narrow but offers no
+danger you can go east or south from here. 
+~
+0 0 5
+D1
+~
+~
+0 0 11927
+D2
+~
+~
+0 0 11925
+S
+#11927
+Winding path~
+The path is narrow and small pebbles have been worn into the path, making
+it very simple to traverse. You can go west or south from here. 
+~
+0 0 5
+D2
+~
+~
+0 0 11928
+D3
+~
+~
+0 0 11926
+S
+#11928
+Winding path~
+The path is narrow and small pebbles have been worn into the path, making
+it very simple to traverse. You can go northor south from here. 
+~
+0 0 5
+D0
+~
+~
+0 0 11927
+D2
+~
+~
+0 0 11929
+S
+#11929
+Following the Path~
+You are following a narrow pebble path that goes north and west from
+here. The path is narrow but you are not having a problem with the footing. 
+~
+0 0 5
+D0
+~
+~
+0 0 11928
+D2
+~
+~
+0 0 11930
+S
+#11930
+A Pebble Path~
+You are on a pebble path in the foothills of the Mountains of Dhoom. The
+path is narrow but the footing is sure. You can go northor south from here. 
+~
+0 0 5
+D0
+~
+~
+0 0 11929
+D2
+~
+~
+0 0 11931
+S
+#11931
+Pebble Path~
+You are a narrow pebble path. This is the east side of the Moutains of
+Dhoom and you are in the foothills. 
+~
+0 0 5
+D0
+~
+~
+0 0 11930
+S
+#11932
+A Crevice~
+You have fallen into a crevice in the side of the knoll it is very dark
+and you can hear sounds of scratching all around you, don't you wish you had
+a light? 
+~
+0 8201 0
+D0
+~
+~
+0 0 11810
+D2
+~
+~
+0 0 11933
+S
+#11933
+Inside the Crevice~
+You have fallen into a crevice in the side of the knoll it is very dark
+and you can hear sounds of scratching all around you, don't you wish you had
+a light? 
+~
+0 9 0
+D0
+~
+~
+0 0 11932
+S
+#11934
+A Hidden Path~
+You brush back the tree limbs to discover a small dirt path leading to
+the east. 
+~
+0 0 3
+D1
+~
+~
+0 0 11935
+D3
+~
+~
+0 0 11844
+S
+#11935
+Along the Path~
+You follow the path through the trees, be mindful you don't know where
+this path leads. 
+~
+0 0 3
+D1
+~
+~
+0 0 11936
+D3
+~
+~
+0 0 11934
+S
+#11936
+Sounds~
+You hear the sound of a barking dog, or is that a dog and a the bay of a
+wolf, you think its a wolf. Is this something you really think you want to
+find? 
+~
+0 0 3
+D1
+~
+~
+0 0 11937
+D3
+~
+~
+0 0 11935
+S
+#11937
+Louder~
+The sounds get louder and louder as you get closer and closer to
+something. The path is rocky and the rocks slide around under your feet
+alerting anyone nearby of your presence here. 
+~
+0 0 3
+D1
+~
+~
+0 0 11938
+D3
+~
+~
+0 0 11936
+S
+#11938
+Curve in the Road~
+There is a small curve in the road here and you see a small hut, with
+smoke coming from the fire circle. There is a huge cook pot hanging over the
+fire and you see something laying very close to the fire. From here it is
+too hard to tell what that is. 
+~
+0 0 3
+D0
+~
+~
+0 0 11939
+D3
+~
+~
+0 0 11937
+S
+#11939
+The Fire~
+You look at the pot and from the smells emitting from it I doubt you
+would want to eat any of it. The "thing" laying next to the fire as risen to
+its haunches and is.... Well you aren't sure what it is but it is big and
+what's worse its snarling at you. 
+~
+0 0 3
+D2
+~
+~
+0 0 11938
+D3
+~
+~
+0 0 11940
+S
+#11940
+The Hut~
+You are at the entrance to the hut, there is no door and you can see it
+is a huge one room hut. It has a make shift bed on the floor and afew planks
+of wood put together to form a table. A large round stump must be what the
+person sits on to eat. 
+~
+0 0 0
+D1
+~
+~
+0 0 11939
+D3
+~
+~
+0 0 11941
+S
+#11941
+Inside the Hut~
+You look around alittle more closely, once your eyes adjust to the
+darkness. In the corner you see something moving, but from your disadvantage
+you can't make out what it is. 
+~
+0 0 0
+D1
+~
+~
+0 0 11940
+S
+#11942
+Inside a Passage~
+As you move the rocks you see a small crevice barely big enough to
+squeeze your body thro. 
+~
+0 0 5
+D0
+~
+~
+0 0 11943
+D2
+~
+~
+0 0 2400
+D5
+~
+~
+0 0 11876
+S
+#11943
+A Secret Passage~
+It seems you have found a secret passage to the top of one of the highest
+peeks in the Mountains of Dhoom. The path is so narror you could not put
+your feet side by side and stand in one spot. 
+~
+0 0 5
+D0
+~
+~
+0 0 11944
+D2
+~
+~
+0 0 11942
+S
+#11944
+Following the Path~
+You are following the path, even tho you have no idea where this path is
+leading you, other than to the top peak of the mountain. 
+~
+0 0 5
+D2
+~
+~
+0 0 11943
+D4
+~
+~
+0 0 11945
+S
+#11945
+Higher in the Mountains~
+You have to climb up another harsh slope trying to gain entrance to the
+top of the peek. 
+~
+0 0 0
+D0
+~
+~
+0 0 11946
+D5
+~
+~
+0 0 11944
+S
+#11946
+On Top of the Peek~
+You have reached the top of the peek. As you look around you see many
+tents made of hides of some animal. There is a large fire in the middle of
+the circle of tents. You can see a few people mulling around the tents,
+chating and laughing. You also see some looking fierce and standing guard to
+the center of the circle as though there might be something or someone
+important that isn't visilbe to you yet. 
+~
+0 4 0
+D0
+~
+~
+0 0 11947
+D2
+~
+~
+0 0 11945
+S
+#11947
+The Southeast corner of the Circle~
+~
+0 4 0
+D0
+~
+~
+0 0 11948
+D2
+~
+~
+0 0 11946
+S
+#11948
+The East Side of the Circle~
+You are on the east side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D0
+~
+~
+0 0 11949
+D2
+~
+~
+0 0 11947
+S
+#11949
+The East Side of the Circle~
+You are on the east side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D0
+~
+~
+0 0 11950
+D2
+~
+~
+0 0 11948
+S
+#11950
+The East Side of the Circle~
+You are on the east side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D0
+~
+~
+0 0 11951
+D2
+~
+~
+0 0 11949
+S
+#11951
+The East Side of the Circle~
+You are on the east side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D2
+~
+~
+0 0 11950
+D3
+~
+~
+0 0 11952
+S
+#11952
+The North Side of the Circle~
+You are on the North side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D1
+~
+~
+0 0 11951
+D2
+~
+~
+0 0 11974
+D3
+~
+~
+0 0 11953
+S
+#11953
+The North Side of the Circle~
+You are on the North side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D1
+~
+~
+0 0 11952
+D3
+~
+~
+0 0 11954
+S
+#11954
+The North Side of the Circle~
+You are on the North side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D1
+~
+~
+0 0 11953
+D3
+~
+~
+0 0 11955
+S
+#11955
+The North Side of the Circle~
+You are on the North side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D1
+~
+~
+0 0 11954
+D3
+~
+~
+0 0 11956
+S
+#11956
+The North Side of the Circle~
+You are on the North side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D1
+~
+~
+0 0 11955
+D2
+~
+~
+0 0 11970
+D3
+~
+~
+0 0 11957
+S
+#11957
+The North Side of the Circle~
+You are on the North side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D1
+~
+~
+0 0 11956
+D2
+~
+~
+0 0 11958
+S
+#11958
+The West Side of the Circle~
+You are on the West side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D0
+~
+~
+0 0 11957
+D2
+~
+~
+0 0 11959
+S
+#11959
+The West Side of the Circle~
+You are on the West side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D0
+~
+~
+0 0 11958
+D2
+~
+~
+0 0 11960
+D3
+~
+~
+0 0 11976
+S
+#11960
+The West Side of the Circle~
+You are on the West side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D0
+~
+~
+0 0 11959
+D1
+~
+~
+0 0 11961
+S
+#11961
+The South Side of the Circle~
+You are on the South side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D0
+~
+~
+0 0 11969
+D1
+~
+~
+0 0 11962
+D3
+~
+~
+0 0 11960
+S
+#11962
+The South Side of the Circle~
+You are on the South side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D1
+~
+~
+0 0 11963
+D3
+~
+~
+0 0 11961
+S
+#11963
+The South Side of the Circle~
+You are on the South side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D0
+~
+~
+0 0 11966
+D1
+~
+~
+0 0 11964
+D3
+~
+~
+0 0 11962
+S
+#11964
+The South Side of the Circle~
+You are on the South side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D0
+~
+~
+0 0 11968
+D1
+~
+~
+0 0 11965
+D3
+~
+~
+0 0 11963
+S
+#11965
+The South Side of the Circle~
+You are on the South side of the circle and if you are lucky no one will
+notice you sneaking around the tents. You have to wonder what these tents
+hold. 
+~
+0 0 3
+D0
+~
+~
+0 0 11975
+D1
+~
+~
+0 0 11948
+D3
+~
+~
+0 0 11964
+S
+#11966
+A Small Springs~
+There is small underground spring here. 
+~
+0 4 0
+D2
+~
+~
+0 0 11963
+S
+#11968
+A Tent~
+You are in tent. You see lots of crates laying around. 
+~
+0 0 0
+D2
+~
+~
+0 0 11964
+S
+#11969
+A Tent~
+You are in tent. You see lots of crates laying around. 
+~
+0 0 0
+D2
+~
+~
+0 0 11961
+S
+#11970
+A Tent~
+You are in tent. You see lots of crates laying around. 
+~
+0 0 0
+D0
+~
+~
+0 0 11956
+S
+#11974
+A Tent~
+You are in tent. You see lots of crates laying around. 
+~
+0 0 0
+D0
+~
+~
+0 0 11952
+S
+#11975
+A Tent~
+You are in tent. You see lots of crates laying around. 
+~
+0 1028 0
+D2
+~
+~
+0 0 11965
+S
+#11976
+A Small Path~
+You have found a small path leading west from the tents. 
+~
+0 0 4
+D1
+~
+~
+0 0 11959
+D3
+~
+~
+0 0 11977
+S
+#11977
+A Small Path~
+You have found a small path leading west from the tents. 
+~
+0 0 4
+D1
+~
+~
+0 0 11976
+D3
+~
+~
+0 0 11978
+S
+#11978
+A Small Path~
+You have found a small path leading west from the tents. 
+~
+0 0 4
+D1
+~
+~
+0 0 11977
+D2
+~
+~
+0 0 11979
+S
+#11979
+A Small Path~
+You have found a small path leading west from the tents. 
+~
+0 0 4
+D0
+~
+~
+0 0 11978
+D2
+~
+~
+0 0 11980
+S
+#11980
+A Small Path~
+You have found a small path leading west from the tents. 
+~
+0 0 4
+D0
+~
+~
+0 0 11979
+D2
+~
+~
+0 0 11981
+S
+#11981
+A Small Path~
+You have found a small path leading west from the tents. 
+~
+0 0 4
+D0
+~
+~
+0 0 11980
+D1
+~
+~
+0 0 11982
+S
+#11982
+A Small Path~
+You have found a small path leading west from the tents. 
+~
+0 0 4
+D1
+~
+~
+0 0 11983
+D3
+~
+~
+0 0 11981
+S
+#11983
+A Small Path~
+You have found a small path leading west from the tents. 
+~
+0 0 4
+D0
+~
+~
+0 0 11984
+D3
+~
+~
+0 0 11982
+S
+#11984
+A Small Path~
+You have found a small path leading west from the tents. 
+~
+0 0 4
+D0
+~
+~
+0 0 11985
+D2
+~
+~
+0 0 11983
+S
+#11985
+Before the Tent~
+You are standing just outside a large tent, larger than any tent in the
+village. The hides on it seem softer and there is more of an abundance
+covering the wooden poles making room for those inside to stand upright. 
+~
+0 0 4
+D2
+~
+~
+0 0 11984
+D3
+~
+~
+0 0 11986
+S
+#11986
+The Largest Tent~
+You are in the largest tent of the village. There are a few pieces of
+pottery strew about and a couple of large wooden trunks sitting toward the
+back of the tent 
+~
+0 0 4
+D1
+~
+~
+0 0 11985
+D2
+~
+~
+0 0 11987
+S
+#11987
+A Back Room~
+This is a small room back of the main room of the tent. The floor is
+strewn with bones and rotting material. There are also a few crates and
+earthen jugs here. 
+~
+0 0 4
+D0
+~
+~
+0 0 11986
+S
+#11999
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11808 12 11803 1 100 Load a large black bear
+M 0 11813 100 11808 1 100 Load a poisonous toad
+M 0 11817 100 11809 1 100 Load a strange creature
+G 0 11823 0 0 0 100 `7a set of eyes is given to a strange creature
+M 0 11817 100 11809 1 100 Load a strange creature
+M 0 11808 100 11812 1 100 Load a large black bear
+G 0 11822 0 0 0 100 A small set of bear claws is given to a large black bear
+M 0 11808 100 11812 1 100 Load a large black bear
+M 0 11801 100 11814 1 100 Load a grizzly man
+M 0 11806 100 11817 1 100 Load a large black spider
+M 0 11818 100 11819 1 100 Load a sloth
+M 0 11802 100 11822 1 100 Load a deadly snake
+M 0 11819 100 11826 1 100 Load a mole rat
+M 0 11813 100 11826 1 100 Load a poisonous toad
+M 0 11805 100 11830 1 100 Load a mountain lion
+M 0 11810 100 11835 1 100 Load a large deadly bird
+G 0 11821 0 0 0 100 `7a sparkling gem is given to a large deadly bird
+M 0 11810 100 11835 1 100 Load a large deadly bird
+M 0 11815 100 11837 1 100 Load a Myrddraal
+M 0 11816 100 11838 1 100 Load a Trolloc
+M 0 11819 100 11839 1 100 Load a mole rat
+M 0 11816 100 11841 1 100 Load a Trolloc
+M 0 11812 100 11842 1 100 Load a cougar
+M 0 11811 100 11847 1 100 Load a large cloud of mist
+M 0 11816 100 11848 1 100 Load a Trolloc
+M 0 11814 100 11849 1 100 Load a tiny fly
+M 0 11814 100 11849 1 100 Load a tiny fly
+M 0 11814 100 11849 1 100 Load a tiny fly
+M 0 11800 100 11852 1 100 Load a snarling wolf
+M 0 11809 100 11852 1 100 Load a snarling wolf
+M 0 11816 100 11855 1 100 Load a Trolloc
+G 0 11824 0 0 0 100 `7a black knap sac is given to a Trolloc
+M 0 11816 100 11855 1 100 Load a Trolloc
+M 0 11818 100 11856 1 100 Load a sloth
+M 0 11811 100 11858 1 100 Load a large cloud of mist
+G 0 11820 0 0 0 100 `7a cloak of mist is given to a large cloud of mist
+M 0 11811 100 11858 1 100 Load a large cloud of mist
+M 0 11806 100 11859 1 100 Load a large black spider
+M 0 11816 100 11861 1 100 Load a Trolloc
+M 0 11813 100 11862 1 100 Load a poisonous toad
+M 0 11803 100 11867 1 100 Load a hunter
+M 0 11802 100 11867 1 100 Load a deadly snake
+M 0 11803 100 11867 1 100 Load a hunter
+M 0 11819 100 11871 1 100 Load a mole rat
+M 0 11806 100 11872 1 100 Load a large black spider
+M 0 11816 100 11873 1 100 Load a Trolloc
+M 0 11816 100 11874 1 100 Load a Trolloc
+M 0 11811 100 11875 1 100 Load a large cloud of mist
+M 0 11811 100 11877 1 100 Load a large cloud of mist
+M 0 11816 100 11878 1 100 Load a Trolloc
+E 0 11824 0 10 0 100 `7a black knap sac is loaded on the arms of a Trolloc
+M 0 11812 100 11881 1 100 Load a cougar
+M 0 11810 100 11885 1 100 Load a large deadly bird
+G 0 11821 0 0 0 100 `7a sparkling gem is given to a large deadly bird
+M 0 11810 100 11885 1 100 Load a large deadly bird
+M 0 11817 100 11890 1 100 Load a strange creature
+M 0 11806 100 11892 1 100 Load a large black spider
+M 0 11816 100 11893 1 100 Load a Trolloc
+M 0 11804 100 11894 1 100 Load a wandering old man
+M 0 11822 1 11895 1 100 Load `*Wicerrabaen
+M 0 11813 100 11899 1 100 Load a poisonous toad
+M 0 11806 100 11903 1 100 Load a large black spider
+M 0 11808 100 11905 1 100 Load a large black bear
+M 0 11820 100 11908 1 100 Load a small pink pig
+M 0 11809 100 11912 1 100 Load a snarling wolf
+M 0 11820 100 11916 1 100 Load a small pink pig
+M 0 11817 100 11921 1 100 Load a strange creature
+G 0 11823 0 0 0 100 `7a set of eyes is given to a strange creature
+M 0 11817 100 11921 1 100 Load a strange creature
+M 0 11800 100 11925 1 100 Load a snarling wolf
+M 0 11800 100 11925 1 100 Load a snarling wolf
+M 0 11809 100 11925 1 100 Load a snarling wolf
+M 0 11811 100 11929 1 100 Load a large cloud of mist
+M 0 11814 100 11933 1 100 Load a tiny fly
+E 0 11819 0 5 0 100 A tiny set of bite me wings is loaded on the body of a tiny fly
+M 0 11813 100 11934 1 100 Load a poisonous toad
+M 0 11804 100 11941 1 100 Load a wandering old man
+O 0 11818 0 11966 0 100 A small spring loaded to A Small Springs
+M 0 11807 10 11968 1 100 Load a burly woman
+G 0 11809 0 0 0 100 A potion of blackthron bush is given to a burly woman
+G 0 11811 0 0 0 100 A potion of bluewart is given to a burly woman
+G 0 11812 0 0 0 100 A vial of red calma is given to a burly woman
+G 0 11810 0 0 0 100 A small vial of bluepine is given to a burly woman
+M 0 11807 10 11968 1 100 Load a burly woman
+M 0 11807 10 11969 1 100 Load a burly woman
+G 0 11816 0 0 0 100 A pair of pounded metal shoes is given to a burly woman
+G 0 11813 0 0 0 100 A pounded metal breast plate is given to a burly woman
+G 0 11815 0 0 0 100 A pounded metal arm plates is given to a burly woman
+G 0 11814 0 0 0 100 A pounded metal leg plates is given to a burly woman
+M 0 11807 10 11969 1 100 Load a burly woman
+M 0 11807 10 11970 1 100 Load a burly woman
+G 0 11817 0 0 0 100 A large woven bag is given to a burly woman
+G 0 11808 0 0 0 100 A stick with a glowing ember is given to a burly woman
+M 0 11807 10 11970 1 100 Load a burly woman
+M 0 11807 10 11974 1 100 Load a burly woman
+G 0 11806 0 0 0 100 A large jar of water is given to a burly woman
+G 0 11800 0 0 0 100 A large piece of fried bread is given to a burly woman
+G 0 11801 0 0 0 100 A small bellfruit is given to a burly woman
+G 0 11805 0 0 0 100 A small bubble mushroom is given to a burly woman
+G 0 11803 0 0 0 100 A small jar of berries is given to a burly woman
+G 0 11804 0 0 0 100 A small smelly green substance is given to a burly woman
+G 0 11807 0 0 0 100 An earthen cup of a brown liquid is given to a burly woman
+M 0 11807 1 11974 1 100 Load a burly woman
+M 0 11821 10 11975 1 100 Load a crazy old woman
+S
+
+
+
+#SHOPS
+11807 9 1 17 5 19 85 115 0 23
+0
+
+
+
+#MOBPROGS
+#11800
+~
+#11822
+if !hasquest 11
+emote looks at you and grins a bit
+mob delay 1
+say Brave Adventurer, I have a minor task which needs taken care of, if you feel up to it.
+else
+look $n
+endif
+~
+#11823
+say very well than, be on your way.
+~
+#11824
+if !hasquest $n 11
+mob addquest $n 11
+say Exelant news..
+grin
+mob delay 1
+say Search out a wizard troll within the mines of moria. Kill him and bring me his staff.
+mob delay 1 
+say Now go!
+mob delay 2
+emote chuckles quietly to himself.
+else
+emote looks at you funney
+endif
+~
+#11825
+emote grins at you
+say Exelant work..
+emote looks over the staff
+mob delay 1
+say Now, for the second part of your task..
+mob delay 1
+say Seek out a councile of three. Kill them and bring back to me the amulet.
+say A man with an odd face shall be your guide to them through a vast maze.
+mob delay 1
+say No, go.
+mob updatequeststatus $n 11 1 completed
+~
+#11826
+if hasquest $n 11
+say Astounding!  You have retreived the amulet!
+emote grins
+mob delay 2
+emote combines the amulet and the staff to form a battle staff and he then weilds it.
+mob delay 2
+say Exelant work my friend. And now for your reward..
+mob delay 1
+mob junk 4117
+mob junk 20433
+kill $n
+~
+#11827
+if hasquest $n 11
+mob oload 11825
+emote Screams as he falls to the ground dead.
+mob updatequeststatus $n 11 completed
+else
+emote screams as he falls to the ground dead.
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

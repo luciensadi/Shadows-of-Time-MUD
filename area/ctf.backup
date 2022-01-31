@@ -1,0 +1,356 @@
+#AREADATA
+Name Capture the Flag~
+Builders None~
+VNUMs 2201 2299
+Credits (null)~
+Security 1
+Flags C
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2201
+Blue Team Castle (downstairs)~
+~
+0 0 0
+D0
+~
+~
+0 0 2202
+D3
+~
+~
+0 0 2206
+D4
+~
+~
+0 0 2219
+S
+#2202
+Blue Team Castle (downstairs)~
+~
+0 0 0
+D0
+~
+~
+0 0 2205
+D2
+~
+~
+0 0 2201
+D3
+~
+~
+0 0 2205
+D4
+~
+~
+0 0 2217
+S
+#2203
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2202
+S
+#2204
+Blue Team Castle (downstairs)~
+~
+0 0 0
+D1
+~
+~
+0 0 2205
+D2
+~
+~
+0 0 2205
+D3
+~
+~
+0 0 2209
+D4
+~
+~
+0 0 2215
+S
+#2205
+Blue Team Castle (downstairs)~
+~
+0 0 0
+D0
+~
+~
+0 0 2204
+D1
+~
+~
+0 0 2202
+D2
+~
+~
+0 0 2202
+D3
+~
+~
+0 0 2204
+D4
+~
+~
+0 0 2214
+S
+#2206
+Blue Team Castle (downstairs)~
+~
+0 0 0
+D1
+~
+~
+0 0 2201
+D3
+~
+~
+0 0 2207
+D4
+~
+~
+0 0 2213
+S
+#2207
+Blue Team Castle (downstairs)~
+~
+0 0 0
+D0
+~
+~
+0 0 2208
+D1
+~
+~
+0 0 2206
+D4
+~
+~
+0 0 2212
+S
+#2208
+Blue Team Castle (downstairs)~
+~
+0 0 0
+D0
+~
+~
+0 0 2209
+D2
+~
+~
+0 0 2207
+D4
+~
+~
+0 0 2211
+S
+#2209
+Blue Team Castle (downstairs)~
+~
+0 0 0
+D1
+~
+~
+0 0 2204
+D2
+~
+~
+0 0 2208
+D4
+~
+~
+0 0 2210
+S
+#2210
+Blue Team Castle (upstairs)~
+~
+0 0 0
+D1
+~
+~
+0 0 2214
+D2
+~
+~
+0 0 2211
+D5
+~
+~
+0 0 2209
+S
+#2211
+Blue Team Castle (upstairs)~
+~
+0 0 0
+D0
+~
+~
+0 0 2210
+D2
+~
+~
+0 0 2212
+D5
+~
+~
+0 0 2208
+S
+#2212
+Blue Team Castle (upstairs)~
+~
+0 0 0
+D0
+~
+~
+0 0 2211
+D1
+~
+~
+0 0 2213
+D5
+~
+~
+0 0 2207
+S
+#2213
+Blue Team Castle (upstairs)~
+~
+0 0 0
+D0
+~
+~
+0 0 2214
+D1
+~
+~
+0 0 2219
+D3
+~
+~
+0 0 2212
+D5
+~
+~
+0 0 2206
+S
+#2214
+Blue Team Castle (upstairs)~
+~
+0 0 0
+D0
+~
+~
+0 0 2215
+D1
+~
+~
+0 0 2217
+D2
+~
+~
+0 0 2213
+D3
+~
+~
+0 0 2210
+D5
+~
+~
+0 0 2205
+S
+#2215
+Blue Team Castle (upstairs)~
+~
+0 0 0
+D2
+~
+~
+0 0 2214
+D5
+~
+~
+0 0 2204
+S
+#2217
+Blue Team Castle (upstairs)~
+~
+0 0 0
+D2
+~
+~
+0 0 2219
+D3
+~
+~
+0 0 2214
+D5
+~
+~
+0 0 2202
+S
+#2219
+Blue Team Castle (upstairs)~
+~
+0 0 0
+D0
+~
+~
+0 0 2217
+D3
+~
+~
+0 0 2213
+D5
+~
+~
+0 0 2201
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

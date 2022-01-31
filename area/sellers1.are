@@ -1,0 +1,672 @@
+#AREADATA
+Name Sellers~
+Builders Sellers~
+VNUMs 15317 15342
+Credits {Sellers Messed Up Area}~
+Security 10
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#15317
+Crystal~
+Crystal, one pissed off lady~
+Crystal, a big-breasted, tight-assed, pissed-off Resident Manager
+~
+~
+doll~
+0 0
+ABCFQ 32848 2049 0 2 -1  -400 0
+125 50 30000d1+0 1000d5+2000 150d1+120 scratch
+-100 -100 -100 -100
+BDI AIMNPR BES KOQX
+stand stand female 10000
+EJMc ABCGHK small unknown
+F imm LQ
+F vul GHJ
+#15318
+Professor Smith~
+Proffesor Smith looks confused~
+Professor Smith appears to be confused and baffled about the Law of Contracts
+~
+~
+goblin~
+0 0
+ABHT 256 64 0 0 -1  0 0
+120 75 50d1+25 500d2+100 25d2+10 none
+-100 -110 -100 -130
+CO A BQb CP
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#15319
+Nufo~
+Nufo~
+This is Nufo, Sellers' school buddy. Be careful or he'll rip your head off.
+~
+~
+giant~
+0 0
+ABT 336 10320 0 0 -1  -1000 0
+150 100 200d2+50 0d0+0 50d1+30 beating
+-60 -50 -60 -10
+CDFLO BE HIJ KP
+stand stand male  100000
+AHMV ABCDEFGHIJKW huge unknown
+F vul J
+#15320
+Professor Pepper~
+Professor Pepper, one evil bastard~
+An old man is standing here reading Prosser on Torts. It looks like he's searching for something to confuse you. Don't let him get away with it.
+~
+~
+fox~
+0 0
+ABFRS 0 0 0 0 -1  0 0
+130 100 100d2+30 10000d1+200 50d2+40 acbite
+-100 -140 -130 -120
+CDEFHJN ABMb E K
+stand stand male  1000000
+AGV ACDEFHJKQV medium unknown
+M GRALL 15317 100~
+#15321
+Professor Gehring~
+Professor Gehring is teaching~
+Professor Gehring is explaining the difference between active and passive voice
+~
+~
+bat~
+0 0
+ABQY 256 0 0 0 -1  400 0
+130 300 130d2+40 200d1+400 30d3+37 peck
+-120 -99 -140 -100
+FHK ABP M Sb
+stand stand male  0
+AGV ACDEFHJKP medium unknown
+#15322
+Professor Hyatt~
+Professor Hyatt looks rather short~
+Professor Hyatt is trying to reach the light switch
+~
+~
+cat~
+0 0
+ABS 256 0 0 2 -1  -200 0
+130 600 200d3+30 800d5+200 400d1+50 claw
+-110 -95 -140 -150
+BEFHK ABP b G
+stand stand female 32984
+AGV ACDEFHJKQUV tiny unknown
+#15323
+Professor Kamin~
+Professor Kamin is thinking~
+Professor Kamin is well dressed and appears to be very sucessful
+~
+~
+centipede~
+0 0
+ABT 256 64 8 0 -1  750 0
+127 224 335d3+20 300d2+100 420d2+38 cleave
+-132 -110 -142 -121
+N ABJ FI Eb
+stand stand male  23400
+ABGO ACK medium unknown
+#15324
+A Mapelli's bartender~
+the bartender~
+The bartender is standing around looking rather daft. Someday she'll bring you a drink.
+~
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+10 100 100d1+1 100d1+1 100d1+1 bite
+-10 -10 -10 -10
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+#15325
+pet elephant~
+Lynn's elephant~
+Lynn's elephant is here
+~
+~
+unique~
+0 0
+AH 256 0 0 0 -1  0 0
+400 9999 1000d1000+1000 0d0+0 1000d1000+1000 none
+-1000 -1000 -1000 -1000
+0 0 0 0
+stand stand none 0
+Z 0 medium unknown
+#15326
+JW Student~
+A Johnson & Whales culinary student~
+A Johnson & Whales culinary student seems lost
+~
+~
+tarabon~
+0 0
+AH 256 0 0 0 -1  0 0
+50 75 30d4+10 100d1+20 20d1+5 stab
+-30 -30 -30 -30
+I AB 0 MP
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#15317
+Ring~
+a ring~
+A cool ring.~
+unknown~
+armor ABU AB
+0
+ABD ABD ABD ABD 0
+20 10 0 P
+A
+17 -20
+A
+19 2
+A
+18 2
+ T 0 none~
+#15318
+television~
+a 32" H.D. ready flatscreen T.V.~
+Sellers' 32" Sony Wega H.D. ready flatscreen T.V., hooked into his 5.1 Surround Sound system and his Xbox.~
+Top of the line electronics.~
+furniture 0 0
+0
+C DFGHIJ D ADE ADE
+0 0 0 P
+E
+television~
+Damn, this thing has too many channels
+~
+ T 0 none~
+#15319
+Killian's Beer~
+a can of Killian's beer~
+A can of Killian's beer~
+unknown~
+drink AB AO
+0
+100 100 'ale' 0 0
+0 10 100 P
+ T 0 none~
+#15320
+Sellers' Bong~
+a 3-foot bong~
+A 3-foot, blue and white glass bong sits here, waiting to be loaded. ~
+unknown~
+container ABM 0
+0
+1000 0 0 10000 0
+0 0 0 P
+ T 0 none~
+#15321
+Kind Bud~
+good stuff~
+This shit kills you~
+Northern Lights~
+trash 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#15322
+Futon~
+a futon with a thin mattress~
+A futon with a thin mattress~
+unknown~
+furniture 0 0
+0
+B EGHIJK BEHKR 0 0
+0 30000 0 P
+ T 0 none~
+#15323
+Glannon~
+glannon's Civil Procedure~
+Glannon's Civil Procedure appears well used~
+unknown~
+armor AB AO
+ABCF
+BDF BDF BDF BDF 0
+110 100 10000 P
+A
+14 20
+A
+12 40
+A
+13 40
+A
+20 -10
+ T 0 none~
+#15324
+Bra~
+a tight red bra~
+A tight red bra looks about to snap~
+unknown~
+armor AB AD
+BC
+BDF BDF BDF BDF 0
+110 100 10000 P
+A
+12 40
+A
+13 50
+A
+20 -10
+ T 0 none~
+#15325
+bat~
+a T-Ball baseball bat~
+A well used T-Ball baseball bat~
+unknown~
+weapon AB AN
+CD
+exotic 75 1 smash B
+110 80 0 P
+A
+12 28
+A
+13 50
+A
+20 -7
+A
+12 10
+A
+17 -10
+ T 0 none~
+#15326
+helmet~
+a retard helmet~
+A retard helmet has a few dings~
+unknown~
+armor AB AE
+0
+BDF BDF BDF BDF 0
+110 100 10000 P
+A
+12 21
+A
+13 58
+A
+17 -14
+A
+20 -8
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#15317
+Sellers' Dorm Room~
+You are standing inside Sellers' dorm room.  To the front of you stands a
+desk covered in papers, empty Mountain Dew bottles, and a laptop.  Sitting
+against one wall is a full-sized double bed.  Against another wall is a
+bookshelf filled with boring titles such as Glannon's Civil Procedure and
+Farnsworth's Contracts.  Against the final wall sits Sellers' Entertainment
+Center.  As you turn to look, you are shocked and amazed at how a law
+student could have time for these diversions.  
+~
+0 1032 0
+D5
+~
+~
+1 0 15318
+S
+#15318
+Curtis Hall Lobby~
+Immediately in front of you is a billboard explaining the hazards of
+unprotected sex.  There is also a flyer offering Bible study (for the
+heathen law students) one day a week.  The walls seem to be a sickly yellow
+color, the floors are unvaccumed, and someone left a grocery cart sitting in
+the hall.  
+~
+0 8 0
+D0
+~
+~
+1 0 15321
+D1
+~
+~
+0 0 15319
+D4
+~
+~
+1 0 15317
+D5
+~
+~
+1 0 15320
+S
+#15319
+The Front Office~
+In the center of the room is a desk cluttered with papers.  To the right
+you see a box filled with canned food donations for the holidays.  On the
+floor are a couple of packages, each for a different resident.  
+~
+0 8 0
+D3
+~
+~
+0 0 15318
+S
+#15320
+Nufo's Room~
+Along one wall is a futon.  The futon's mattress looks worn to the bone. 
+Off to one side sits a bookshelf covered in legal texts.  On the far wall is
+a computer desk.  There is a laptop from 1998 on the desk.  A bald, goateed
+guy is sitting at the laptop and it looks like he's mudding.  What's odd is
+it looks like he could kill you in real life, but he seems to be getting
+killed by a fifteen year old.  
+~
+0 138413064 0
+D4
+~
+~
+1 0 15318
+S
+#15321
+Along the Path~
+The ground is covered with freshly fallen snow.  Off to the side, a
+squirrel is fighting another squirrel over the last acorn of the season. 
+There is also a path, clogged with students rushing off to the building off
+towards the northeast.  To the west, there is a pine tree covered in
+Christmas lights which some dumbass decided to put up.  
+~
+0 0 2
+D1
+~
+~
+0 0 15322
+D2
+~
+~
+1 0 15318
+S
+#15322
+Before The Classrooms~
+Here, there are even more students, rushing off to classes.  Some of them
+are dragging along rolly-carts, like those used at the airports.  Near the
+entrance, a bald-headed guy with a goatee stands smoking a cigarette.  It
+looks like he is mocking the students with rolly-carts.  
+~
+0 0 2
+D0
+~
+~
+1 0 15323
+D3
+~
+~
+0 0 15321
+S
+#15323
+A Hallway~
+Walking through this hallway are many numb looking students.  Some of
+them have bags under their eyes.  With a closer look, none of them appear to
+be healthy.  Off to the side, one student is kicking a soda machine, trying
+to get a Mountain Dew.  
+~
+0 8 0
+D0
+~
+~
+0 0 15327
+D1
+~
+~
+0 0 15326
+D2
+~
+~
+1 0 15322
+D3
+~
+~
+0 0 15325
+D4
+~
+~
+0 0 15324
+S
+#15324
+Another Hallway~
+There is a fold-out coffee table sitting against the wall.  The table is
+covered with bagels, donuts, coffee, and sodas.  However, a law student is
+being scolded for trying to help himself to a five cent cup of coffee.  The
+lady is yelling, "This is for Grad Tax students only."  
+~
+0 8 0
+D1
+~
+~
+1 0 15330
+D3
+~
+~
+1 0 15331
+D5
+~
+~
+0 0 15323
+S
+#15325
+Professor Smith's Classroom~
+There doesn't seem to be many people in this room.  Perhaps they are
+skipping this class.  During the ten minutes you have been here, one lady
+has asked at least ten questions.  Every time she asks a question, students
+cringe in their seats.  Apparently, today she has brought her children. 
+Look, one of them is asking a question and Professor Smith seems to be
+calling on him.  
+~
+0 8 0
+D1
+~
+~
+0 0 15323
+S
+#15326
+Professor Pepper's Classroom~
+Throughout the room, students are chewing their teeth, hoping Professor
+Pepper doesn't call on them.  One student is crying because he just confused
+them about the definition of res ipsa loquitor.  On the chalkboard, Pepper
+is writing Learned Hand's Negligence Formula.  (P)X(L) >< B.  
+~
+0 8 0
+D3
+~
+~
+0 0 15323
+S
+#15327
+A Hallway~
+Over to the side, several students are yelling at each other, trying to
+decide who is in charge of the dreaded group project.  One of the students
+appears to be pulling a T-ball bat out of his trenchcoat.  Maybe he's fixing
+to take charge of the group in a very interesting way.  Maybe it's time to
+leave, though, because he might have a gun in that coat as well.  
+~
+0 8 0
+D1
+~
+~
+0 0 15329
+D2
+~
+~
+0 0 15323
+D3
+~
+~
+0 0 15328
+S
+#15328
+Professor Hyatt's Classroom~
+The room is teeming with activity.  Several students appear engaged in
+little side discussions.  They fail to hear Professor Hyatt say, "Personal
+jurisdiction will not be on the exam."  In the back, one student (who looks
+like he escaped from prison), writes her statement down and smiles.  It's
+doubtful he will inform his fellow students.  
+~
+0 8 0
+D1
+~
+~
+0 0 15327
+S
+#15329
+An Atrium~
+Students are sitting on the various couches, desperately reading their
+assignments for classes that start any time now.  Off to the side, someone
+sits there laughing at their petty attempts.  He seems to be smiling,
+pointing at them, and laughing.  
+~
+0 8 0
+D1
+~
+~
+0 0 15332
+D3
+~
+~
+0 0 15327
+S
+#15330
+Professor Gehring's Classroom~
+There are about fifteen students in the room.  They all look tired and
+confused, but legal writing at eight in the morning would probably do that
+to Superman.  Mountain Dew cans and coffee mugs seem stationed at every
+seat.  The teacher seems to be doing the best he can to hold their
+attention, even though the subject is very dry.  
+~
+0 8 0
+D3
+~
+~
+1 0 15324
+S
+#15331
+Professor Kamin's Classroom~
+Professor Kamin is avidly lecturing his students about the many
+advantages of conspiracy law for the prosecution.  He keeps repeating, "The
+burden of proof in a conspiracy charge is much less for the prosecution
+because the jury hears testimony for weeks or even months and the jury can't
+keep track."  
+~
+0 8 0
+D1
+~
+~
+1 0 15324
+S
+#15332
+A Covered Walkway~
+Scattered groups of students are huddled around the exits, smoking and
+bitching about classes.  Off to the east is Mapelli's Pub.  Sitting at one
+of the tables is a group of students drinking a pitcher of beer, in clear
+violation of the posted rules.  One of them has a shaved head and a goatee,
+another looks like the Hulk (not Hogan, jackass), a third seems to have an
+empty look in her eyes, a fourth doesn't seem to shut up, and the final
+member of the group is just sitting there looking bored.  
+~
+0 0 8
+D1
+~
+~
+0 0 15333
+D3
+~
+~
+0 0 15329
+S
+#15333
+Mapelli's Pub~
+Mapelli's is teaming with customers because a class just let out.  All
+the tables are filled with people either bitching about how foul their
+classes were or talking about what they are doing this weekend.  The line to
+buy food and beer is really long and it doesn't seem to be moving. 
+Apparently the bartenders are getting paid based on customer service.  
+~
+0 8 0
+D3
+~
+~
+0 0 15332
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 15317 5 1
+D 0 15318 0 1
+D 0 15318 4 1
+D 0 15318 5 1
+D 0 15320 4 1
+D 0 15321 2 1
+D 0 15322 0 1
+D 0 15323 2 1
+D 0 15324 1 1
+D 0 15324 3 1
+D 0 15330 3 1
+D 0 15331 1 1
+M 0 15319 1 15317 1 100 Load Nufo
+E 0 15323 0 19 0 100 Glannon's civil procedure is loaded held in the hands of Nufo
+O 0 15318 0 15317 0 100 A 32" h.d. ready flatscreen t.v. loaded to Sellers' Dorm Room
+M 0 15317 1 15319 1 100 Load Crystal, one pissed off lady
+E 0 15324 0 5 0 100 A tight red bra is loaded on the body of Crystal, one pissed off lady
+O 0 15322 0 15320 0 100 A futon with a thin mattress loaded to Nufo's Room
+O 0 15320 0 15320 0 100 A 3-foot bong loaded to Nufo's Room
+P 0 15321 1 15320 1 100 Good stuff put inside good stuff
+M 0 15318 1 15325 1 100 Load Proffesor Smith looks confused
+E 0 15326 0 6 0 100 A retard helmet is loaded over the head of Proffesor Smith looks confused
+M 0 15320 1 15326 1 100 Load Professor Pepper, one evil bastard
+E 0 15325 0 17 0 100 A t-ball baseball bat is loaded wielded of Professor Pepper, one evil bastard
+M 0 15322 1 15328 1 100 Load Professor Hyatt looks rather short
+M 0 15321 1 15330 1 100 Load Professor Gehring is teaching
+M 0 15323 1 15331 1 100 Load Professor Kamin is thinking
+M 0 15324 1 15333 1 100 Load the bartender
+G 0 15319 0 0 0 100 A can of killian's beer is given to the bartender
+M 0 15326 3 15333 1 100 Load A Johnson & Whales culinary student
+S
+
+
+
+#SHOPS
+15324 17 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#15317
+say What is negligence?
+say You don't know, do you?
+say Dumbass!!
+say Negligence is a breech in the standard of care that is both the but-for and proximate cause of damages.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

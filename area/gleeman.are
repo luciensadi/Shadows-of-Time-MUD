@@ -1,0 +1,1546 @@
+#AREADATA
+Name Gleeman Guild Area~
+Builders None~
+VNUMs 13151 13199
+Credits `4[`7Lowbie`4]`7 Thom      Gleeman Safe~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#13151
+Machael Master Gleeman~
+`2Gleeman`7 Machael~
+A Master `2Gleeman`7 stands here reciting ballads, to ease the fatigue.
+~
+This Gleeman holds such stature that he stands out from all the others in
+the room.  He holds the key to gaining new skills `!(help gain)`*, helpful 
+healing spells `!(heal)`*, banking assistance `!(help bank)`*, and aid in 
+your ongoing training/practicing for your chosen profession  `!(help train`*
+`!help practice)`*
+
+~
+unique~
+0 0
+ABGJKQRYab 336 1024 0 0 -1  0 0
+100 40 1000d1+0 100d10+1000 10d50+25 thrust
+-10 -10 -10 -10
+0 ACD 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#13152
+rat~
+A rat~
+You see a rat here, searching for food. 
+~
+Black, furry, nasty. 
+~
+unique~
+0 0
+ACGU 0 1026 0 0 -1  0 0
+20 3 2d25+75 15d10+100 3d3+11 bite
+1 1 1 4
+F 0 0 G
+stand stand either 0
+GHV ACDEFHJKQU small unknown
+#13153
+mouse~
+a mouse~
+A mouse scuttles across the floor, looking for safety. 
+~
+This is one of the smallest animals you've seen lately. It looks totally
+harmless but you never know. 
+~
+unique~
+0 0
+ACGU 0 1024 0 0 -1  -1000 0
+20 2 10d3+75 10d10+100 2d3+10 bite
+1 1 1 4
+K 0 C F
+stand stand none 3
+GHV ACDEFHKQU tiny unknown
+#13154
+villager~
+A villager~
+A villager stands here, looking for something. 
+~
+This villager is wearing clothes made of some thick cloth. It is looking
+around for a family member. 
+~
+unique~
+0 0
+AGQ 1104 1024 0 0 -1  -1000 0
+31 35 10d25+400 25d10+100 6d10+5 punch
+0 0 0 2
+E 0 0 E
+stand stand either 15
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 13154 10~
+#13155
+maid~
+A tavern maid~
+A maid runs around, cleaning up messes.
+~
+Her deep blue eyes stare deeply at you and scream, 'help me. ' You want
+to take her away and show her what a real life is.... But you don't know one
+either so you quickly look away. 
+~
+unique~
+0 0
+AGQY 80 1040 0 0 -1  -1000 0
+45 13 10d15+400 25d10+100 4d4+15 scratch
+0 0 0 2
+J H IK C
+stand stand female 20
+AHMV ABCDEFGHIJK tiny unknown
+#13156
+Inn guard~
+An Inn guard~
+A guard stands here, watching every move you make. 
+~
+This guard is HUGE! Step the wrong way, and your history. Step the right
+way, and you still might be history. 
+~
+unique~
+0 0
+ABGTW 33792 3152 0 0 -1  0 0
+35 5 20d10+600 50d5+300 2d6+15 crush
+0 0 0 2
+EFKL Q BE J
+stand stand male  100
+AHMV ABCDEFGHIJK huge unknown
+#13157
+Gleeman Laramie~
+Laramie~
+A gleeman is reciting a tale in high chant. 
+~
+This Gleeman is just like every other gleeman you've ever seen. He is
+dressed in the traditional trademark patchwork cloak. 
+~
+unique~
+0 0
+ABGQRSY 16640 2128 0 0 -1  1000 0
+55 30 50d15+2250 55d10+1000 5d5+60 stab
+-40 -40 -40 -20
+CDEFJKN 0 BIJ HLZ
+stand stand male  300
+AHMV ABCDEFGHIJK large unknown
+M GRALL 13157 10~
+#13158
+assassin~
+An assassin~
+An assassin stands here looking around for his next victim.
+~
+His clothes consist of all black and long sleeves and pants. The quiver
+on his back holds at least 25 steel-tipped arrows. He peers down off the
+roof and doesn't appear to see you. 
+~
+unique~
+0 0
+ABGS 0 2096 0 0 -1  -1000 0
+50 30 10d25+600 40d10+100 2d5+18 stab
+0 0 0 2
+EIKN AHMV ABEKLQ EIJR
+stand stand either 100
+AHMV ABCDEFGHIJK small unknown
+#13159
+Marik~
+Marik~
+Marik, the local legend, stands here criticizing your every move.
+~
+A giant man towers over you, watching you and everyone else at the same
+time. His shirt strains over his muscled hulk and his armor shines with
+brilliance. 
+~
+unique~
+0 0
+ABGRST 49408 11344 0 0 -1  0 0
+50 15 10d50+2500 50d15+500 5d10+30 slash
+-40 -40 -40 -20
+CDEFJKN AB E 0
+stand stand male  0
+AHMV ABCDEFGHIJK giant unknown
+M DEATH 16404 100~
+#13160
+Master Thief~
+A Master Thief~
+A thief stands here, looking through the mistress' belongings.
+~
+You've caught him fair and square. He's in the Mistress' sleeping
+quarters, attempting to steal her belongings. 
+~
+unique~
+0 0
+ABGRT 340 8275 0 0 -1  -1000 0
+60 20 10d50+2700 60d10+500 50d60+10 grep
+-40 -40 -40 -25
+DFKN AB L 0
+stand stand either 500
+AHMV ABCDEFGHIJK large unknown
+#13161
+old beggar~
+An old beggar~
+An old beggar walks around, looking for dead mice to eat.
+~
+This woman is dressed in rags from top to bottom.  She is barely wearing enough to keep her
+warm at night.  It gets cold down in this cellar.  She has a knapsack full of dead rats and
+mice strapped to her belt.  She waits anxiously for you to kill these vermin so she can get
+them for herself.
+~
+unique~
+0 0
+ABCGR 1280 80 0 0 -1  0 0
+50 20 10d20+2000 50d10+1000 5d10+25 blast
+-30 -30 -30 -20
+EFK AB L 0
+stand stand male  0
+AHMV ABCDEFGHJK large unknown
+M SPEECH 13162 yes~
+M SPEECH 13160 no~
+M GRALL 13161 100~
+M GIVE 13163 corpse~
+#13162
+Lamail~
+Lamail~
+Lamail is here greeting all people who pass by the Inn.
+~
+She's VERY pretty.
+~
+unique~
+0 0
+ABGRU 256 0 0 0 -1  0 0
+5 5 1d1+99 1d1+99 1d1+4 slap
+0 0 0 0
+F 0 0 0
+stand stand female 0
+AHMV ABCDEFHIJK medium unknown
+#13163
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#13199
+Imm cleric~
+A pimp-ass cleric~
+A cleric is here, healing anyone who has gold.
+~
+~
+unique~
+0 0
+ABGKRab 336 0 0 0 -1  0 0
+100 400 100d50+15000 1d1+10000 100d10+500 flame
+-900 -900 -900 -900
+0 ABCDEFGHIJKLMNOPQRTYZ 0 0
+stand stand male  0
+0 0 giant unknown
+#0
+
+
+
+#OBJECTS
+#13151
+fox sword running~
+A Sword Engraved with Running Foxes~
+You see a beautifully shaped blade engraved with running foxes.~
+metal~
+weapon ABH AN
+0
+sword 41 1 slash 0
+41 100 1000 P
+A
+18 4
+A
+19 4
+A
+13 20
+ T 0 none~
+#13152
+Master Key~
+A Master Key~
+There is a key here, in the shape of a skeleton.~
+metal~
+room_key U AO
+0
+0 0 0 0 0
+30 1 0 P
+A
+3 3
+A
+4 3
+ T 0 none~
+#13153
+A Patchwork Cloak~
+a Patchwork Cloak~
+There seems to be a cloak made from different color patches here.~
+unknown~
+armor ABI AK
+0
+CE CE CE AC 0
+65 5 300 P
+A
+12 20
+A
+13 20
+A
+18 4
+A
+19 4
+A
+20 -3
+ T 0 none~
+#13154
+a wooden key~
+a wooden key~
+A wooden key lays here, looking old and used.~
+wood~
+key 0 AC
+0
+0 0 0 0 0
+0 1 1 P
+ T 0 none~
+#13155
+leather strap~
+a leather strap~
+A long woven strap of leather seems to be impossibly interlocked.~
+leather~
+armor AB AL
+0
+CE CE CE BD 0
+65 5 100 P
+A
+18 3
+A
+19 3
+A
+12 35
+A
+13 30
+ T 0 none~
+#13156
+water barrel~
+`2a`$ water`2 barrel`7~
+There is `2a `$water`2 barrel`7 here, filled to the brim with liquid.~
+marble~
+fountain 0 P
+0
+0 0 'water' 0 0
+0 0 0 P
+ T 0 none~
+#13157
+none~
+`7~
+`7~
+none~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#13158
+brown scroll~
+a brown scroll~
+A brown scroll with strange writings on are here.~
+paper~
+scroll G AQ
+0
+90 'curse object' '' '' ''
+60 10 0 P
+ T 0 none~
+#13159
+pearly gates port~
+the pearly gates.~
+The pearly gates.~
+unknown~
+portal A 0
+0
+0 0 0 BCDFGHIJL 0
+0 0 0 P
+ T 0 none~
+#13160
+wide-brimmed tassled patchwork hat~
+wide-Brimmed Tassled Patchwork Hat~
+A very colorful poofy hat takes up almost a full span on the ground beneath you.~
+cloth~
+armor AB AE
+0
+CE CE CE AC 0
+66 50 5000 P
+A
+13 20
+A
+12 20
+A
+18 4
+A
+19 4
+A
+20 -3
+ T 0 none~
+#13161
+This coupon worth 1 gold~
+`*A coupon worth 1 gold.~
+A coupon worth 1 gold is left here.~
+paper~
+trash Ya A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#13162
+This coupon worth 2 gold~
+a coupon worth 2 gold. Give to an imm for imbursement.~
+A coupon worth 2 gold is here.~
+gold~
+trash Ya A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#13199
+helmet true sight~
+a `$Helmet`7 of `&Tr`$u`&e S`$i`&ght`7~
+You see a round piece of glass, with a hole in the bottom and two holes big enough for eyes.~
+Glass~
+armor ABGIYd AE
+0
+EHI EHI EHI EHI 0
+0 2 1000 P
+A
+18 300
+A
+19 300
+A
+20 -150
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#13151
+A Storage Room~
+There are barrels lined up against the walls here. They permiate of old
+ale and wine. The walls and shelves are coated with a thick, gray dust or
+dirt. The room is very large and there seems to be cots and beds all around.
+A gleeman is standing in the center offering ballads. 
+`!YOU ARE STUCK, TYPE ENTER GATE TO GO BACK TO HEALER BITCHES`7
+~
+0 5243916 0
+M 150 H 150
+S
+#13152
+Secret Hideout~
+It's very dark in here. There is no sign of footprints or scratches to
+show that anyone has been here in a very long time. Despite the small size
+of the room, ventilation is exceptional. 
+~
+0 532488 0
+D4
+~
+~
+0 0 8199
+D5
+~
+~
+0 0 13183
+S
+#13153
+A Narrow Passage~
+The walls here have cracks up and down and seem to be falling apart. A
+mouse scuttles by your feet, squeaking frantically. The ceiling is extremely
+high, making the walls seemingly fall inwards. 
+~
+0 0 0
+D0
+~
+~
+0 0 8199
+D2
+~
+~
+0 0 13154
+S
+#13154
+A Narrow Passage~
+This hallway is branched off from the Inn's common room. It's dark as far
+down as can be seen. Every now and then, the squeaks of mice can be heard
+but nothing else. 
+~
+0 8 0
+D0
+~
+~
+0 0 13153
+D2
+This door hasn't been used in a while. 
+~
+door~
+1 0 13155
+S
+#13155
+North Wall of the Common Room~
+Men's laughter fill the room as stories are being told and dancers fill
+the stage. Almost every one of the men, some soldiers, some locals, have a
+pipe in their mouth. Each smoking a different tabac. One smells very
+familiar. 
+~
+0 8 0
+D0
+This door hasn't been used in a while. 
+~
+door~
+1 0 13154
+D2
+~
+~
+0 0 13156
+D4
+~
+~
+0 0 13160
+S
+#13156
+Center of the Common Room~
+Men from all parts of the world are laughing here. There are many
+soldiers drinking and swearing violently. They speak with an Andoran tongue
+but dress with a Shienaran style. 
+~
+0 8 0
+D0
+~
+~
+0 0 13155
+D1
+~
+~
+0 0 13158
+D2
+~
+~
+0 0 13159
+D3
+~
+~
+0 0 13157
+S
+#13157
+West Wall of the Common Room~
+Not many are standing here, only the occasional begger and lonesome. A
+couple lifts thier heads long enough to expose thier grungy faces and beady
+eyes. No doubt many have been throught a lot. 
+~
+0 8 0
+D1
+~
+~
+0 0 13156
+D3
+This door is made of strong wood. 
+~
+door~
+1 0 13189
+S
+#13158
+The Stage~
+The men throughout the common room are shouting endlessy, but mostly
+names. From the crowd, you can hear names like 'Marla' and 'Gleeman Machael'
+and many more you can't distiguish. A couple look straight at you and start
+clapping... Maybe they ask for a performance. Nothing but curtains behind
+you. 
+~
+0 8 0
+D1
+You see purple, satin curtains which seem to part down the middle. 
+~
+curtain~
+1 0 13168
+D3
+~
+~
+0 0 13156
+R GRALL 13158 20~
+S
+#13159
+Inside the `2Gleeman's`$ Passage`7~
+Smoke fills the room and men are everywhere. Over half of them are up
+against the walls because there is no more room. There are many maids and
+dancers trying to squeeze their way through the crowd. 
+~
+0 8 0
+D0
+~
+~
+0 0 13156
+D2
+~
+~
+0 0 13167
+D3
+~
+~
+0 0 13197
+S
+#13160
+Stairway to the Rooms~
+This stairway was made very simple but constructed with a strong
+material. Anyone could walk up and down these stairs without making a noise.
+~
+0 8 0
+D4
+~
+~
+0 0 13161
+D5
+~
+~
+0 0 13155
+S
+#13161
+Atop the stairs~
+Atop the stairs, darkness rolls in. The torches are few and far between,
+leaving many shadows unexplored. There are a couple rooms to the east and
+west and a couple more north. 
+~
+0 8 0
+D0
+~
+~
+0 0 13164
+D1
+~
+~
+0 0 13162
+D3
+~
+~
+0 0 13163
+D5
+~
+~
+0 0 13160
+S
+#13162
+A Room~
+This room is small and cluttered to the point of no walking space. The
+bed is well made and and there is a trunk at the foot of the bed. The window
+overlooks the forest. 
+~
+0 8 0
+D3
+~
+~
+0 0 13161
+S
+#13163
+A Room~
+This room is small and cluttered to the point of no walking space. The
+bed is well made and and there is a trunk at the foot of the bed. The window
+overlooks the forest. 
+~
+0 8 0
+D1
+~
+~
+0 0 13161
+S
+#13164
+A Dark Hallway~
+The darkness is so thick, its hard to tell if there are rooms to the east
+and west of you. There are occasional sounds that seem to fade with the
+light. A door to the north has a promising look to it. 
+~
+0 8 0
+D0
+~
+~
+0 0 13169
+D1
+~
+~
+0 0 13165
+D2
+~
+~
+0 0 13161
+D3
+~
+~
+0 0 13166
+S
+#13165
+A Large Room~
+This room is large enough for two or three people to sleep in
+comfortably. The bed is well made and there is a trunk at the foot of the
+bed. The window overlooks the forest. 
+~
+0 0 0
+D3
+~
+~
+0 0 13164
+S
+#13166
+A Large Room~
+This room is exceptionally large in size, and very cozy. A fireplace is
+against the north wall, cold from disuse. Like the others, a trunk is at the
+foot of the bed and the window overlooks the forest. The floorboards seem to
+creak beneath your feet. 
+~
+0 8 0
+D1
+~
+~
+0 0 13164
+D5
+The floor under your feet creaks with unusual easiness. Must be a secret. 
+~
+secret~
+3 13152 13152
+S
+#13167
+Before the `2Gleeman's`$ Passage`7~
+Infront of you is the Gleeman's Passage. Its a nice building for being
+such a small town. The windows on the second story are shut which means all
+the rooms are full. Maybe there is a storage room that is open for rent. 
+~
+0 0 1
+D0
+~
+~
+0 0 13159
+D1
+~
+~
+0 0 13172
+D3
+~
+~
+0 0 13171
+S
+#13168
+Behind the Stage~
+You have somehow made it behind the stage without anyone knowing. The
+sound is muffled back here making it an ideal spot to gather your thoughts.
+The smoke is no longer clinging to your body and the performance can be seen
+perfectly throught the curtains. 
+~
+0 8 0
+D3
+You see purple, satin curtains which seem to part down the middle. 
+~
+curtain~
+0 0 13158
+S
+#13169
+A Balcony~
+The light out here settles upon your skin, chasing away the coldness of
+the dark inside. The serenity soothes and drowns the laughter from
+downstairs. You notice a ladder beside you leading up to the roof. 
+~
+0 262144 0
+D1
+~
+~
+0 0 13196
+D2
+~
+~
+0 0 13164
+D3
+~
+~
+0 0 13195
+D4
+~
+~
+0 0 13170
+S
+#13170
+The Roof~
+The roof gives an even better view of the forest surrounding you than the
+balcony. The breeze disturbs your cloak, shutting out everything else that
+has no importance. 
+~
+0 262144 1
+D3
+~
+~
+0 0 13199
+D4
+~
+~
+0 0 13182
+D5
+~
+~
+0 0 13169
+S
+#13171
+Fantasy Road~
+This road is the only road throughout the whole town. Shops and
+businesses line this road to the north and south. Not far off to the east is
+the Gleeman's Passage. Something in the air smells extraordinary. 
+~
+0 0 1
+D1
+~
+~
+0 0 13167
+D3
+~
+~
+0 0 13187
+S
+#13172
+Before the Stables~
+The smell of hay and manure is prominent here, probably because the
+stables lie to the north of you. The sound of horses being settled seems to
+almost outweight the rustle from within the Gleeman's Passage itself. 
+~
+0 0 1
+D0
+~
+~
+0 0 13173
+D1
+~
+~
+0 0 13179
+D3
+~
+~
+0 0 13167
+S
+#13173
+The Stable~
+As you enter, the smell of hay surrounds you almost instantly. Horses are
+being groomed and fed here. The stable is very large yet its almost full in
+capacity. You also notice a couple of stables taken by men, not horses. 
+~
+0 8 0
+D0
+~
+~
+0 0 13176
+D1
+~
+~
+0 0 13175
+D2
+~
+~
+0 0 13172
+D3
+~
+~
+0 0 13174
+S
+#13174
+A Stall~
+You are standing in a stall, careful not to step in anything unpleasant.
+Saddles lay on the ground and blankets are draped across the sides of the
+stalls. 
+~
+0 8 0
+D1
+~
+~
+0 0 13173
+S
+#13175
+A Stall~
+You are standing in a stall, careful not to step in anything unpleasant.
+Saddles lay on the ground and blankets are draped across the sides of the
+stalls. 
+~
+0 8 0
+D3
+~
+~
+0 0 13173
+S
+#13176
+The Stable~
+The smell of hay surrounds you almost instantly. Horses are being groomed
+and fed here. The stable is very large yet its almost full in capacity. You
+also notice a couple of stables taken by men, not horses. 
+~
+0 8 0
+D1
+~
+~
+0 0 13177
+D2
+~
+~
+0 0 13173
+D3
+~
+~
+0 0 13178
+D4
+~
+~
+0 0 13198
+S
+#13177
+A Stall~
+You are standing in a stall, careful not to step in anything unpleasant.
+Saddles lay on the ground and blankets are draped across the sides of the
+stalls. 
+~
+0 8 0
+D3
+~
+~
+0 0 13176
+S
+#13178
+A Stall~
+You are standing in a stall, careful not to step in anything unpleasant.
+Saddles lay on the ground and blankets are draped across the sides of the
+stalls. 
+~
+0 8 0
+D1
+~
+~
+0 0 13176
+S
+#13179
+Fantasy Road~
+The sound of music and dancing is all around. Your boots seem to make no
+noise as you walk along this paved road. The wind picks up and brings a
+smell of ale and bread with it. 
+~
+0 0 1
+D1
+~
+~
+0 0 13180
+D3
+~
+~
+0 0 13172
+S
+#13180
+Fantasy Road~
+The sound of music and dancing is all around. Your boots seem to make no
+noise as you walk along this paved road. The wind picks up and brings a
+smell of ale and bread with it. 
+~
+0 0 1
+D1
+~
+~
+0 0 13181
+D3
+~
+~
+0 0 13179
+S
+#13181
+Beginning to Fantasy Road~
+You faintly hear the sound of music and laughter. To the west you see a
+single building, most likely and Inn. Yet outside, nothing moves except
+leaves blown by the wind. The field turns to pavement, stones of all
+different colors, much like a gleeman's patchwork cloak. 
+~
+0 0 1
+D0
+~
+~
+0 0 9851
+D2
+~
+~
+0 0 9783
+D3
+~
+~
+0 0 13180
+S
+#13182
+In the Air~
+You are flying! Up here you can see everything. There's a pond, there's a
+grove, and there's things flying up here. You better watch out because
+falling 50 feet isn't a good idea. 
+~
+0 0 9
+D5
+~
+~
+0 0 13170
+S
+#13183
+The Cellar~
+It's been ages since anyone has stepped foot in this cellar. Old wine
+bottles are still on the racks, most are broken. It's so musty down here,
+breathing is becoming increasingly difficult. Eyes glow in almost every
+corner of the room. 
+~
+0 532488 0
+D2
+~
+~
+0 0 13186
+D3
+~
+~
+0 0 13184
+D4
+~
+~
+0 0 13152
+S
+#13184
+The Cellar~
+Every step you take, the room becomes darker and darker. Not only has
+this cellar been abandoned, it's been taken by vermins. They are everywhere,
+rats, mice, termites, and ants. 
+~
+0 532488 0
+D1
+~
+~
+0 0 13183
+D2
+~
+~
+0 0 13185
+S
+#13185
+The Cellar~
+Every step you take, the room becomes darker and darker. Not only has
+this cellar been abandoned, it's been taken by vermins. They are everywhere,
+rats, mice, termites, and ants. 
+~
+0 532488 0
+D0
+~
+~
+0 0 13184
+D1
+~
+~
+0 0 13186
+S
+#13186
+The Cellar~
+Every step you take, the room becomes darker and darker. Not only has
+this cellar been abandoned, it's been taken by vermins. They are everywhere,
+rats, mice, termites, and ants. 
+~
+0 532480 0
+D0
+~
+~
+0 0 13183
+D3
+~
+~
+0 0 13185
+D5
+~
+~
+1 0 8101
+S
+#13187
+Fantasy Road~
+This road consists of many different colors of rocks and pebbles. They
+seem to heal your tired feet and help you on your journey. To the east is
+the Gleeman's Passage. Seldom spoken of, the Inn is rarely found when
+searched for. 
+~
+0 0 1
+D1
+~
+~
+0 0 13171
+D3
+~
+~
+0 0 24300
+S
+#13188
+Gleeman Immortal Chamber~
+This room is very tidy, and very small.  It is lined with books of all
+kinds, half of them open or with bookmarks in them.  Not more than five are
+actually on the shelves.  There is an exit to the north and south, leading
+out of the room.  
+~
+0 558084 0
+D0
+~
+~
+0 0 6400
+D2
+~
+~
+0 0 3054
+S
+#13189
+A Hallway~
+This hallway leads to many different rooms that visitors can't rent out.
+These must be the sleeping quarters for the guards and maids. The hallway is
+small and the rooms are very close together. 
+~
+0 8 0
+D1
+This door is made of very strong wood. 
+~
+door~
+1 0 13157
+D3
+~
+~
+0 0 13190
+S
+#13190
+A Turn in the Hallway~
+There are doors all around now. To the south is the guards sleeping
+quarters and to the west is the maids sleeping quarters. As you stare north,
+you notice the hallway continues in that direction. 
+~
+0 8 0
+D0
+~
+~
+0 0 13191
+D1
+~
+~
+0 0 13189
+D2
+~
+~
+0 0 13193
+D3
+~
+~
+0 0 13194
+S
+#13191
+Before the Great Door~
+In front of you is a giant wooden door. It appears so thick that it is
+unbreakable. The door is carved with tiny pictures of flutes and harps in
+it, also inlaid with gold. The doorknob is in the shape of a man's head, it
+is scribed and reads, 'In memory of Jomel, may he Ballad with the Creator
+Forever. ' 
+~
+0 8 0
+D0
+This door is unbreakable. 
+~
+door~
+1 13152 13192
+D2
+~
+~
+0 0 13190
+S
+#13192
+Room of the Mistress~
+Decorations line the walls in infinate amount. You see pictures of men on
+horses, you see lace hanging from the bed and you see the most lovely carved
+tables in the whole Inn. You immediately step onto a plush, soft carpet.
+This is luxury, you could die a happy person here. 
+~
+0 262144 0
+D2
+This door is unbreakable. 
+~
+door~
+1 13152 13191
+S
+#13193
+The Guard's Room~
+As you enter this room, you see weapons of all sorts lined up against the
+wall. Bows and Arrows, flails, spears, maces, clubs, daggers, and swords.
+This is most definitely the guard's rooms. Amongst all these weapons you see
+two beds caddy-corner from each other, each well made. 
+~
+0 8 0
+D0
+~
+~
+0 0 13190
+S
+#13194
+The Maid's Room~
+Ironically, this room is one of the messiest you've ever seen. The maids
+are too caught up in cleaning after others, they forget to clean after
+themselves. Beds are unmade, clothes all over the place... What a mess. 
+~
+0 8 0
+D1
+~
+~
+0 0 13190
+S
+#13195
+The Balcony~
+The light out here settles upon your skin, chasing away the coldness of
+the dark inside. The serenity soothes and drowns the laughter from
+downstairs. The view from up here is excellent. If you squint hard enough,
+you might be able to see the Waste. 
+~
+0 0 0
+D1
+~
+~
+0 0 13169
+S
+#13196
+The Balcony~
+The light out here settles upon your skin, chasing away the coldness of
+the dark inside. The serenity soothes and drowns the laughter from
+downstairs. The view from up here is excellent. If you squint hard enough,
+you might be able to see the Waste. 
+~
+0 0 0
+D3
+~
+~
+0 0 13169
+S
+#13197
+The Lobby~
+The room is empty, except for a desk in the back corner. Chairs lay on
+the ground from visitor's quick exit into the common room. You see some
+blood spots, obviously where the guards have taken care of some business.
+Its probably best to wander back east before your blood gets added to the
+spots. 
+~
+0 8 0
+D1
+~
+~
+0 0 13159
+S
+#13198
+Atop the Stables~
+This place seems to be all filled up. Up here is empty though, nothing to
+bother you. A slight breeze makes this place that much more relaxing. The
+Inn looks so quiet from outside that it's no wonder it wasn't made with the
+One Power. 
+~
+0 0 1
+D5
+~
+~
+0 0 13176
+S
+#13199
+The Roof~
+The roof gives an even better view of the forest surrounding you than the
+balcony. The breeze disturbs your cloak, shutting out everything else that
+has no importance. 
+~
+0 262144 1
+D1
+~
+~
+0 0 13170
+S
+#0
+
+
+
+#SPECIALS
+M 13157 spec_cast_mage
+M 13159 spec_cast_mage
+M 13160 spec_cast_mage
+M 13161 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 13154 2 1
+D 0 13155 0 1
+D 0 13157 3 1
+D 0 13158 1 1
+D 0 13166 5 2
+D 0 13186 5 1
+D 0 13189 1 1
+D 0 13191 0 2
+D 0 13192 2 2
+O 0 13159 0 13151 0 100 The pearly gates. loaded to A Storage Room
+M 0 13152 30 13153 3 100 Load A rat
+O 0 13156 0 13153 0 100 `2a`$ water`2 barrel`7 loaded to A Narrow Passage
+M 0 16402 1 13153 1 100 Load A curious boy
+M 0 13153 30 13154 2 100 Load a mouse
+M 0 13159 1 13156 1 100 Load Marik
+E 0 13151 0 17 0 100 A sword engraved with running foxes is loaded wielded of Marik
+M 0 13154 20 13156 1 100 Load A villager
+E 0 16402 0 19 0 100 A metal folding chair rests here. is loaded held in the hands of A villager
+M 0 13157 1 13158 1 100 Load Laramie
+E 0 13153 0 12 0 100 A patchwork cloak is loaded about the shoulders of Laramie
+M 0 13156 10 13159 1 100 Load An Inn guard
+M 0 13156 10 13159 1 100 Load An Inn guard
+M 0 13155 20 13162 1 100 Load A tavern maid
+M 0 13154 20 13163 2 100 Load A villager
+M 0 13154 20 13163 1 100 Load A villager
+M 0 13152 30 13164 1 100 Load A rat
+M 0 13154 20 13165 2 100 Load A villager
+M 0 13154 20 13165 1 100 Load A villager
+M 0 13155 20 13166 1 100 Load A tavern maid
+M 0 13156 10 13167 1 100 Load An Inn guard
+M 0 13156 10 13167 1 100 Load An Inn guard
+M 0 13162 1 13167 1 100 Load Lamail
+E 0 13160 0 6 0 100 Wide-brimmed tassled patchwork hat is loaded over the head of Lamail
+M 0 13154 20 13168 2 100 Load A villager
+M 0 13158 20 13170 4 100 Load An assassin
+M 0 13158 20 13170 3 100 Load An assassin
+M 0 13158 20 13170 3 100 Load An assassin
+M 0 13156 10 13172 2 100 Load An Inn guard
+M 0 13154 20 13172 1 100 Load A villager
+M 0 13153 30 13177 2 100 Load a mouse
+M 0 13152 30 13178 3 100 Load A rat
+M 0 13154 20 13179 2 100 Load A villager
+M 0 13153 30 13183 5 100 Load a mouse
+M 0 13152 30 13183 6 100 Load A rat
+M 0 13153 30 13184 3 100 Load a mouse
+M 0 13152 30 13184 4 100 Load A rat
+M 0 13161 1 13186 1 100 Load An old beggar
+E 0 13155 0 13 0 100 A leather strap is loaded around the waist of An old beggar
+M 0 13154 20 13187 1 100 Load A villager
+M 0 13154 20 13187 2 100 Load A villager
+M 0 13152 30 13189 1 100 Load A rat
+M 0 13155 20 13190 1 100 Load A tavern maid
+M 0 13153 30 13191 2 100 Load a mouse
+M 0 13160 1 13192 1 100 Load A Master Thief
+E 0 13154 0 3 0 100 A wooden key is loaded around the neck (1) of A Master Thief
+E 0 13158 0 19 0 100 A brown scroll is loaded held in the hands of A Master Thief
+M 0 13156 1 13193 1 100 Load An Inn guard
+M 0 13156 1 13193 1 100 Load An Inn guard
+M 0 13156 1 13193 1 100 Load An Inn guard
+M 0 13155 20 13194 2 100 Load A tavern maid
+M 0 13155 20 13194 1 100 Load A tavern maid
+M 0 13155 20 13194 1 100 Load A tavern maid
+M 0 13153 30 13197 2 100 Load a mouse
+M 0 13156 10 13197 1 100 Load An Inn guard
+O 0 13152 0 13197 0 100 A master key loaded to The Lobby
+M 0 13153 30 13198 3 100 Load a mouse
+M 0 13158 20 13198 5 100 Load An assassin
+M 0 13158 20 13198 5 100 Load An assassin
+M 0 13158 20 13198 2 100 Load An assassin
+M 0 13158 20 13199 2 100 Load An assassin
+M 0 13158 20 13199 2 100 Load An assassin
+M 0 13158 20 13199 2 100 Load An assassin
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#13151
+if clan $n 'shadow'
+stop
+else
+if level $n >= 16
+emote plays a quiet tune.
+else
+if !hasquest $n 8
+mob addquest $n 8
+tell $n Greetings $n.
+mob delay 1
+tell $n My name is Michael.  Low level players come here to level quite often.
+mob delay 1
+tell $n As you have guessed, you are not the first to come along here.
+mob delay 1
+emote reaches in his vest and pulls out his pipe and some Two Rivers Tabacco.
+mob delay 1
+emote opens the bag and packs litely some tabacco in his pipe, then lights it.
+mob delay 1
+tell $n Let me tell you a few things about my self.
+tell $n I am a healer as well as a banker.  Here also, I can teach you new skills and spells,
+tell $n as well as help you encrease your hit points and mana power.
+mob delay 1
+emote takes a puff from his pipe and slowly lets out the smoke, savoring every bit.
+mob delay 1
+tell $n First off, to heal, just type heal heal for healing hitpoints and heal mana for healing your mana points.
+tell $n To practice some skill or spell, just simpley type practice and the skill name or spell name.  Like this:
+tell $n practice dodge   or   practice 'acid blast'.
+tell $n You get the idea.
+mob delay 1
+emote takes another puff from his pipe and continues;
+tell $n To get a list of skills that you can gain, simply type gain for information on how to do this.
+tell $n I also can convert practice points to train points and train points to practice points.  Again,
+tell $n to see how to do this, simply type gain.
+mob delay 1
+tell $n That is all I have. If you wish to see this again, simply say the word "Intro" and I will gladly repete
+tell $n what I have told you.
+mob delay 1
+tell $n May I susjest you start killing mice and beetles, then maids and villagers.  If you have any questions, simply
+tell $n ask a Guide or ask on the novice channel by typeing 'novice <question>'.
+mob delay 1
+tell $n Good luck, and have fun $n!
+mob delay 2
+emote starts playing a soft tune.
+mob updatequeststatus $n 8 completed
+endif
+endif
+endif
+~
+#13152
+emote reaches in his vest and pulls out his pipe and some Two Rivers Tabacco.
+mob delay 1
+tell $n I am a healer as well as a banker.  Here also, I can teach you new skills and spells,
+tell $n as well as help you encrease your hit points and mana power.
+mob delay 1
+emote takes a puff from his pipe and slowly lets out the smoke, savoring every bit.
+mob delay 1
+tell $n First off, to heal, just type heal heal for healing hitpoints and heal mana for healing your mana points.
+tell $n To practice some skill or spell, just simpley type practice and the skill name or spell name.  Like this:
+tell $n practice dodge   or   practice 'acid blast'.
+tell $n You get the idea.
+mob delay 1
+emote takes another puff from his pipe and continues;
+tell $n To get a list of skills that you can gain, simply type gain for information on how to do this.
+tell $n I also can convert practice points to train points and train points to practice points.  Again,
+tell $n to see how to do this, simply type gain.
+mob delay 1
+tell $n That is all I have. If you wish to see this again, simply say the word "Intro" and I will gladly repete
+tell $n what I have told you.
+mob delay 1
+tell $n May I susjest you start killing mice and beetles, then maids and villagers.  If you have any questions, simply
+tell $n ask a Guide or ask on the novice channel by typeing 'noveice <question>'.
+mob delay 1
+tell $n Good luck, and have fun $n!
+mob delay 2
+emote starts playing a soft tune.
+~
+#13154
+if ispc $n
+if rand 70
+emote walks by you quickly
+else
+if rand 40
+emote brushes you as he walks by.
+say Pardon me
+else
+if rand 30
+if sex $n == 1
+say Hello my good man.
+else
+if sex $n == 2
+say Good day my lady.
+endif
+endif
+~
+#13155
+if ispc $n
+if rand 70
+emote looks at you momentarly, then returns to work
+else
+if rand 40
+emote bumps into you while sweeping.
+say Oh excuse me.
+if rand 20
+say Hey! I just swept here and now you track in mud on my nice clean floor!
+emote mutters quietly while shakeing her head.
+endif
+endif
+~
+#13157
+if ispc $n
+if rand 80
+emote pauses for a moment to take a drink of ale from his mug.
+else
+if rand 60
+emote flashes his patchwork cloak
+else
+if rand 40
+emote raises his voice to wake up the crowd
+else
+if rand 20
+emote starts playing a tune with a make shift guitar while telling his stories.
+endif
+endif
+~
+#13160
+if hasquest $n 7
+tell $n Oh, I see. Well, be on your way then.  I can understand you are too busy to help an old woman.
+mob updatequeststatus $n 7 completed
+endif
+done
+~
+#13161
+if level $n >= 16
+tell $n I am sorry $n but you are too high a level for this quest.
+else
+if !hasquest $n 7
+mob addquest $n 7
+tell $n Hello, $n. I've herd of you a little from others that come to visit.
+mob delay 1
+tell $n They say you show much promise.  Will you help an old lady gather some food?
+mob delay 1
+tell $n See, I cant move around very well.
+end
+~
+#13162
+if hasquest $n 7
+tell $n Thank you $n. Go kill and bring back to me the corpse's of mice you kill. 
+mob delay 1
+tell $n I will in turn give you some gold for your troubles.
+else
+emote looks at you funney
+endif
+~
+#13163
+if hasquest $n 7
+if level $n >= 16
+mob updatequeststatus $n 7 completed
+tell $n Thank you for your kindness.  I feel that I am fine for now till the next person comes along.
+smile $n
+else
+if hasquest $n 7
+if level $n <= 15
+tell $n Ahh, thank you $n.
+tell $n Please, get me more ?
+mob oload 13162
+give coupon $n
+smile $n
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#13158
+if rand 70
+recho Someone yells `%Get some new stories! `*and laughter can be herd amongst those watching the show.
+end
+else
+if rand 40
+recho Someone falls asleep and starts to snoor.
+end
+else
+if rand 10
+recho You hear the sound of pukeing as someone passes out from drinking too much.
+endif
+~
+#0
+
+#$

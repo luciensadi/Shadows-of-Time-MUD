@@ -1,0 +1,260 @@
+#
+Keyword Restring~
+ShowName `$R`4estring `!C`1oupon`*~
+Level 0
+Vnum 6400
+Cost 10
+Special 0
+#
+Keyword Prize~
+ShowName `@P`2rize `!C`1oupon`*~
+Level 0
+Vnum 6401
+Cost 1000
+Special 0
+#
+Keyword Enchant~
+ShowName `#E`3nchant `!C`1oupon`*~
+Level 0
+Vnum 6402
+Cost 2000
+Special 0
+#
+Keyword Gold~
+ShowName 1000 Gold~
+Level 0
+Vnum 0
+Cost 100
+Special 1
+#
+Keyword Practices~
+ShowName 10 Practices~
+Level 0
+Vnum 0
+Cost 2500
+Special 1
+#
+Keyword Corpse~
+ShowName a Corpse Retrieval Coupon~
+Level 0
+Vnum 6413
+Cost 25
+Special 0
+#
+Keyword Nobreak~
+ShowName `3N`8o `3B`8reak `3C`8oupon`*~
+Level 0
+Vnum 6411
+Cost 1750
+Special 0
+#
+Keyword Gauntlets~
+ShowName `8Dark `1Gauntlets `&Of `#Po`7w`&er`7~
+Level 75
+Vnum 17045
+Cost 4000
+Special 0
+#
+Keyword Rename~
+ShowName `7R`8ename `!C`1oupon`7~
+Level 0
+Vnum 6459
+Cost 500
+Special 0
+#
+Keyword Tattoo~
+ShowName `8drag`&o`8n tatt`&oo`7~
+Level 75
+Vnum 24422
+Cost 4000
+Special 0
+#
+Keyword Study~
+ShowName `#A C`&oupon `#of `#S`&tudy`*~
+Level 20
+Vnum 5546
+Cost 1000
+Special 0
+#
+Keyword Scrying~
+ShowName A Book of Scrying~
+Level 25
+Vnum 21508
+Cost 1000
+Special 0
+#
+Keyword Save~
+ShowName A Book of Save Life~
+Level 25
+Vnum 5545
+Cost 1000
+Special 0
+#
+Keyword Store~
+ShowName A Book of Storekeeping~
+Level 25
+Vnum 5547
+Cost 1500
+Special 0
+#
+Keyword Horseback~
+ShowName A Book of Horseback Riding~
+Level 40
+Vnum 718
+Cost 1000
+Special 0
+#
+Keyword Taming~
+ShowName A Book of Taming~
+Level 50
+Vnum 21566
+Cost 250
+Special 0
+#
+Keyword Unravel~
+ShowName A Book of Unravel~
+Level 50
+Vnum 719
+Cost 1000
+Special 0
+#
+Keyword Restore~
+ShowName `!R`1estore `!C`1oupon`7~
+Level 0
+Vnum 6460
+Cost 100
+Special 0
+#
+Keyword Lynn's Anti-Hummer~
+ShowName Lynn's Anti-Hummer Coupon!~
+Level 1
+Vnum 6434
+Cost 10
+Special 0
+#
+Keyword dagger~
+ShowName `1(`8Shimmering`1) `7a `!R`1uby`&-`7H`8ilted `1D`!a`1g`!g`1e`!r`7~
+Level 75
+Vnum 6470
+Cost 4000
+Special 0
+#
+Keyword bow~
+ShowName the `#G`3olden `8Bow `*of `!V`1alor`*~
+Level 75
+Vnum 30490
+Cost 4000
+Special 0
+#
+Keyword quiver~
+ShowName a `#F`3i`#ne `%L`5ea`%t`5h`%er `$Q`4u`$ive`4r`*~
+Level 75
+Vnum 30492
+Cost 15000
+Special 0
+#
+Keyword exploding~
+ShowName a box of exploding arrows~
+Level 75
+Vnum 30494
+Cost 500
+Special 0
+#
+Keyword Gloves~
+ShowName `!G`8l`!o`8v`!e`8s `&o`7f`! S`8t`!r`8e`!n`8g`!t`8h`*~
+Level 75
+Vnum 24424
+Cost 4000
+Special 0
+#
+Keyword Medallion~
+ShowName `&The `^M`8e`^d`8a`^l`8l`^i`8o`^n `&of `^V`8a`^l`8o`^u`8r`*~
+Level 75
+Vnum 24426
+Cost 4000
+Special 0
+#
+Keyword Bark~
+ShowName `#B`3ark `&o`8f `@A`2vendesora`*~
+Level 75
+Vnum 24441
+Cost 4000
+Special 0
+#
+Keyword Belt~
+ShowName `&The `^B`8e`^l`8t `&of `^V`8a`^l`8o`^u`8r`7~
+Level 75
+Vnum 24428
+Cost 4000
+Special 0
+#
+Keyword Restring~
+ShowName `$R`4estring `!C`1oupon`*~
+Level 0
+Vnum 6400
+Cost 10
+Special 0
+#
+Keyword Ring~
+ShowName `&R`*i`&n`*g `^o`6f `*t`8h`*e `!H`1u`!n`1d`!r`1e`!d`*~
+Level 75
+Vnum 24478
+Cost 4000
+Special 0
+#
+Keyword Collar~
+ShowName `&L`1eather `$S`8tudded `!C`4ollar`*~
+Level 75
+Vnum 24485
+Cost 4000
+Special 0
+#
+Keyword Sceptre~
+ShowName `$(`&Good`$)`7 the `&Sceptre `7of `#L`3i`#g`3h`#t`7~
+Level 75
+Vnum 24521
+Cost 4000
+Special 0
+#
+Keyword Circlet~
+ShowName a `8Circlet `7of `!E`&t`!e`1r`!n`&a`!l `8Darkness`7~
+Level 76
+Vnum 24534
+Cost 8000
+Special 0
+#
+Keyword Assassin~
+ShowName `3The `1Legendary `8Black `&Armor `*Of `8The `&Ass`*as`8sin`*~
+Level 76
+Vnum 24503
+Cost 8000
+Special 0
+#
+Keyword Corset~
+ShowName `!B`8lack `&S`8tudded `$C`8orset`*~
+Level 76
+Vnum 24484
+Cost 8000
+Special 0
+#
+Keyword Ashandarei~
+ShowName `8Black-Halfted, Raven-Marked Ashandarei`7~
+Level 76
+Vnum 24461
+Cost 8000
+Special 0
+#
+Keyword quest~
+ShowName `8Q`&uest `!E`1Q `$C`4oupon`*~
+Level 10
+Vnum 2426
+Cost 15000
+Special 0
+#
+Keyword lightforge~
+ShowName `#(`&L`#i`&ght`#) `&L`8i`&gh`8t`&f`8o`&rge `!B`1o`!o`1t`8s`*~
+Level 75
+Vnum 24421
+Cost 4000
+Special 0
+$

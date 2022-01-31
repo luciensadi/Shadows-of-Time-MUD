@@ -1,0 +1,326 @@
+#AREADATA
+Name Lute Test Run~
+Builders Gypht Lute~
+VNUMs 6877 6899
+Credits Lute - SoT~
+Security 10
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#6886
+floating penis~
+(no short description)~
+(no long description)
+~
+~
+illian~
+0 0
+ABT 0 0 0 0 -1  0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 L I
+stand stand none 0
+AGHMVXc ABCDEFGHIJKQV medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#6877
+lute place~
+~
+0 1025 0
+D0
+~
+~
+0 0 6883
+D1
+~
+~
+0 0 6881
+D2
+~
+~
+0 0 6879
+S
+#6878
+~
+~
+0 1 0
+D0
+~
+~
+0 0 6886
+D1
+~
+~
+0 0 6884
+D2
+~
+~
+0 0 6883
+S
+#6879
+~
+~
+0 1 0
+D0
+~
+~
+0 0 6877
+D1
+~
+~
+0 0 6880
+S
+#6880
+~
+~
+0 1 0
+D0
+~
+~
+0 0 6881
+D3
+~
+~
+0 0 6879
+S
+#6881
+~
+~
+0 1 0
+D0
+~
+~
+0 0 6882
+D2
+~
+~
+0 0 6880
+D3
+~
+~
+0 0 6877
+S
+#6882
+~
+~
+0 1 0
+D0
+~
+~
+0 0 6884
+D2
+~
+~
+0 0 6881
+D3
+~
+~
+0 0 6883
+S
+#6883
+~
+~
+0 1 0
+D0
+~
+~
+0 0 6878
+D1
+~
+~
+0 0 6882
+D2
+~
+~
+0 0 6877
+S
+#6884
+~
+~
+0 1 0
+D0
+~
+~
+0 0 6885
+D2
+~
+~
+0 0 6882
+D3
+~
+~
+0 0 6878
+S
+#6885
+~
+~
+0 1 0
+D0
+~
+~
+0 0 6888
+D2
+~
+~
+0 0 6884
+D3
+~
+~
+0 0 6886
+S
+#6886
+`^room where stuff is done`7~
+Heres a bunch of junk so gypht can show lute how to remove things one
+line at a time
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-
+lute just had dejavu!
+~
+0 1 0
+D0
+~
+~
+0 0 6887
+D1
+~
+~
+0 0 6885
+D2
+~
+~
+0 0 6878
+S
+#6887
+~
+~
+0 1 0
+D0
+~
+~
+0 0 6890
+D1
+~
+~
+0 0 6888
+D2
+~
+~
+0 0 6886
+S
+#6888
+~
+~
+0 1 0
+D0
+~
+~
+0 0 6889
+D2
+~
+~
+0 0 6885
+D3
+~
+~
+0 0 6887
+S
+#6889
+~
+~
+0 1 0
+D0
+~
+~
+0 0 6892
+D2
+~
+~
+0 0 6888
+D3
+~
+~
+0 0 6890
+S
+#6890
+~
+~
+0 1 0
+D0
+~
+~
+0 0 6891
+D1
+~
+~
+0 0 6889
+D2
+~
+~
+0 0 6887
+S
+#6891
+~
+~
+0 1 0
+D1
+~
+~
+0 0 6892
+D2
+~
+~
+0 0 6890
+S
+#6892
+~
+~
+0 1 0
+D2
+~
+~
+0 0 6889
+D3
+~
+~
+0 0 6891
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

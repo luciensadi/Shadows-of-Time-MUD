@@ -1,0 +1,2410 @@
+#HELPS
+
+-1 GREETING~
+.
+`4                         .eeeeeu..^"*$e.`7
+`4                       ur d$$$$$$$$$$$$$$Nu "*Nu`7
+`4                     d`&$$$`4 `4"`&$$$`4$$$$$$$$$$$$$$$e."$c`7
+`4                  u$$`&c   `&""   `&^"^**$`4$$$$$$$$$$$$b.^R:`7
+`4                z`&$$#"""             `&?`4$$$$$$$$$$$$$N.^`7
+`4              .$`&P                   `&-`4!`&R`4$$$$$$$$$$$$$b`7
+`4             x$`&F                 `&**$b. '"R`4).$$$$$$$$$$`7
+`4            J^`&"                           `&#$`4$$$$$$$$$$$.`7
+`4           z&`&e                      ..      `&"**$$`4$`&$$$`4$$$r`7
+`4          :`&$P           `&.        .$$`4$$`&$b.    ..  " . #`4$$$$`7
+`4          $`&$            `&L          ^`4*$$$$`&b   "      4`4$$$$L`7
+`4         4$`&$            `&^u.    .e$$`4$$e."`&*`4$`&$$N.       @`4$$$$$`7
+`4         $$`&E            `&d`4$$`&$$$$`4$$$$$$$$`&L "$$`4$$`&$  mu $`4$$$$$f`7
+`4         $$`&&            `&$`4$$$$$$$$$$$$$$$`&N   "`4#`&* * ?`&$`4$$$$$$N`7
+`4         $$`&F            `&'$`4$$$$$$$$$$$$$$$`&$bec...z`4$`!:,`4$$$$$$$r`7
+`4        '$$`&F              `&$$$`4$$$$$$$$`&$$$$`4$$$$$$$$$`!:':`4$$$$$$$`7
+`4         $`&$                  `&^""""""^     ^"*$$$*`!::::.`4$$$$$$$`7
+`4          `&k  u$                                  `&"$`4$`!.:":,`4Pr`7
+`4          4$$$$`&L                                   `&"`4$`!.::::;.,`7
+`4           $$$$$`&k                                   `&'`4$e`!.:.:::::",.`7   
+`4            3$$$$`&$b         `&Sh`7ad`8ows `&o`7f `&T`7im`8e`7           `&'$`4$$$`!:::::::."'`7
+`4              $$$$`&$  dc                                 `&R`4$`!:: ".:.':::::::;;..'`7
+`4               R$*`&* <`4$`&$                                 `&J`!"::."::','..:::::...`7
+`4                 #$`&$`4$$$`&$LJ$$$Nc.                            `!."'':::"   ':::::::,  ^`7
+`4                  ^$$$$$$$$$$$`&$$r                         `!.'      '',   "::, .`7
+`4                  c$$$$$$$$$$`&P                           `!:           :     :"`7
+
+`#  8`7                                                                         `#8`7
+`3  |`7            Owned by : `3Diem        `7Co-owned by : `3Asmodeus                `3|`7
+`3  |`7                    Additional Coding : `3Cammaedros                       `3|`7
+`#.=^=.`7                                                                     `#.=^=.`7
+`#" `&@ `#"`7                                                                     `#" `&@ `#"`7
+`&  @`7           Original DikuMUD by Hans Staerfeldt, Katja Nyboe,             `&@`7
+`&  @`7           Tom Madsen, Michael Seifert, and Sebastion Hammer             `&@`7
+`&  @`7           Based on MERC 2.1 code by Hatchet, Furey and Khan             `&@`7
+`&  @`7              ROM 2.4 copyright (c) 1993-1998 Russ Taylor                `&@`7
+`&  @`7                                                                         `&@`7
+`&  @`7                   http://www.shadowsoftime.com                          `&@`7
+`&  @`7                telnet://www.shadowsoftime.com:7575                      `&@`7
+`&  @`7                    shadows_of_time@hotmail.com                          `&@`7
+`&  @`7                                                                         `&@`7
+`&  *`7          Official text-based mud of the Wheel of Time Series            `&*`7
+
+~
+
+-1 MOTD~
+`^*`$ We are officially sponsored by Tom Doherty Associates, LLC, publishers of Tor,
+Forge, and Orb Books. `^www.tor.com`4 (`$Read "`&help officialsponsor`$" for details`4)`$.
+
+`^*`$ Read your "`&CHANGES`$" and "`&NEWS`$" for updates. Also, read "`&HELP RULES`$"
+periodically for new guidelines. We have a interactive message board set up at 
+`&http://pub61.ezboard.com/bshadowsoftime73079 `$for posting comments and discussions.
+ 
+`*You are entering a pkilling mud.  Players here may attack you if you are within
+level range, with the least provocation.  Keep yourself updated on rules and use 
+the [`#G`3U`#I`3D`#E`*] guild in the event of Out Of Level (OOL) killings.
+`7Ignorance is not an excuse.
+
+`!IMPORTANT NOTE:
+
+Although we here at SoT are strong advocates of the American right to Free Speech, 
+we also stand by each person's right to protection against harrassment based on
+race, creed, color, religion, or sexual orientation.  Thus, we the staff will
+be enforcing language restrictions to such words or addresses as might be 
+directly offensive to other players.  Words such as "gay", for example, in any
+way other than its dictionary definition, are customarily negative, and if used, 
+will result in Immortal intervention.
+
+`7Thank you, have fun playing!
+
+~
+-1 DIKU~
+.                    Original game idea, concept, and design:
+
+          Katja Nyboe               [Superwoman] (katz@freja.diku.dk)
+          Tom Madsen              [Stormbringer] (noop@freja.diku.dk)
+          Hans Henrik Staerfeldt           [God] (bombman@freja.diku.dk)
+          Michael Seifert                 [Papi] (seifert@freja.diku.dk)
+          Sebastian Hammer               [Quinn] (quinn@freja.diku.dk)   
+
+ 
+Developed at: DIKU -- The Department of Computer Science
+                      at the University of Copenhagen.
+
+Forked DNS Originally by Medor Ported to Smaug by Samson 
+   Ported to ROM by Asmodeus
+Auction code by Kimber
+~
+
+-1 CREDITS~
+Syntax: credits
+ 
+This command shows the list of the original Diku Mud implementors.
+~
+
+-1 ROM~
+ROM started in early February 1993, using Merc 1.0 code. In July of 1993,  
+ROM II was started, eventually replacing the original ROM.  ROM was up for
+a little over a year, after which the code (version 2.3) was released,
+and various other ROM muds were started, including Rivers of Mud under
+a new management (Zump's ROM), at rom.org 9000.
+
+Alander's current project is Athen, the sequel to the ROM code. It can
+be found on Rehobaom's Legacy, at hypercube.org 9000.
+
+The following people contributed to the ROM flavor of the merc base code:
+
+Socials --
+    Kelsey and Liralen
+
+New, Improved Valhalla --
+    Liralen
+
+Puff's new special proc and improved poofin/poofout code --
+    Seth
+    
+Maps and map shop --
+    Ezra, Regnan (Olympus)
+    
+Nirvana zone --
+    Forstall (mobiles rewritten by Alander)
+    
+Mob Factory --
+    Pinkfloyd (originally written for ROM, mobiles rewritten by Alander)
+    
+Geographically correct Midgaard (tm) --
+    Alander
+    
+Ideas and playtesting --
+    Thousands of dedicated mudders around the world
+    
+The New Thalos area was donated by Onivel of Jedi, who was also the originator
+of the ASCII flags used in the zone files
+
+Beta testing --
+    Ken Blosser, Doug Araya, and Sherene Neil all helped with bugs reports
+    and suggestions, saving a lot of headaches
+    
+Bug reports --
+    Thanks to Shad Muegge, Jerome Despret, Phoenix, Will Hongach,
+    Erwin S. Andreasen, Adam Debus and especially Gary Turkington
+    (author of the ROM FAQ) for help spotting bugs
+    
+ROM 2.4 was developed during my time with Moosehead mud, and the release
+shares many of the features I wrote while I was there.  Additional code 
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used.  Portions of Rusty's work on
+Moosehead also remain.
+
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle Taylor and Brian Moore, without whom this release wouldn't
+have happened.  In particular, the new privacy code, furniture, and 
+wiznet are the results of Gabrielle's ideas.
+
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of   
+hair-pulling. Hope you enjoy it.
+
+(my apologies if anyone was forgotten in this list)
+~
+ 
+-1 MERC~
+This mud is based on Merc 2.1, created by Furey, Hatchet, and Kahn.
+Merc 2.1 is available as Merc_21.tar.gz from ftp.tcp.com and
+ftp.math.okstate.edu.
+E-mail to 'majordomo@webnexus.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.   
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, and Mystic Realms for bug reports, ideas, new code,  
+      and hours of enjoyment.
+      
+Also see "help ROM" for information about the Rivers of Mud code base.
+~
+-1 SUMMARY~
+Please refer to `&www.shadowsoftime.com`7 for a complete list of help files.
+~
+-1 QUIT SAVE~
+Typing  "quit" will save your file and log you off the mud until you're ready
+to return to your adventures here.  There is no requirement to raise in level 
+before doing this.  If you should close your active window, without typing "quit" 
+first, however, your charactor will register as "LINK-DEAD" and is vulnerable
+to the whim of the mud, so be sure to save and quit out properly to protect
+yourself.
+~
+-1 RENT~
+There is no requirement to rent space on this mud for storage of your charactor.
+See "`^Help Store`*" for information on owning a business.
+~
+-1 DICE DOTS CROWNS~
+The games of dots and crowns are based on the games from the books themselves.
+The premise is easy: the one who rolls the combination ot dice with the highest
+total value is the winner of the roll.  Upon starting the game, you have 75
+seconds to roll the dice.  If the time passes without the player host rolling, 
+that person gets kicked from the dice game.  After the first roll, each player
+has 45 seconds to roll, once it is their turn.  The ante of each roll is 
+determined by the host player of the game, and each player throws in a matching
+amount of quest points before each roll.  If a player cannot cover the amount 
+required, that player is kicked from the dice game.  Winning cast gets the pot.
+In the event of a tie, each player that rolled the tying high roll splits the 
+loot.
+
+`$COMMANDS`4:`*
+`&dice start <type><bet> `*- Starts the game.  Type can be either crowns or dots
+`&dice list              `*- Lists all current games and hosting players
+`&dice join <name>       `*- Join a game started by <name>
+`&dice leave             `*- Leave a game
+`&dice status            `*- Information on the game you are in
+`&dice roll              `*- Rolls the dice on your turn
+
+`@KEY THROWS`2:`*
+-In Dots, rolling all ones is called the Dark One's Eyes and you lose.
+-In Crowns, rolling all crowns is a Crown, and you win.
+
+`&Crowns pieces are (besides not being pretty):`*
+
+`! Castle     Rose      Crown     Time      Torch    Shield`*
+`!|`***  **`!|   |`* *** `!|   |`** * *`!|   |`* *** `!|   |`* _*_ `!|   |`** * *`!|`*
+`!|`***++**`!|   |`* +*+ `!|   |`******`!|   |`*  *  `!|   |`* \+/ `!|   |`**+++*`!|`*
+`!|`***++**`!|   |`*  *  `!|   |`******`!|   |`* *** `!|   |`* |+| `!|   |`* *** `!|`*
+
+`&Dots pieces are the more familiar:`*
+
+`!|`*     `!|    |`*  *  `!|    |`*  *  `!|    |`**   *`!|    |`**   *`!|    |`**   *`!|`*
+`!|`*  *  `!|    |`*     `!|    |`*  *  `!|    |`*     `!|    |`*  *  `!|    |`**   *`!|`*
+`!|`*     `!|    |`*  *  `!|    |`*  *  `!|    |`**   *`!|    |`**   *`!|    |`**   *`!|`*
+
+
+`1On a side note: 1-800-Gambler.
+~
+-1 SCRIPTING~
+Scripting on Shadows of Time is legal and there are guild training mobs that can be
+used for this purpose. A warning to all: `!If you are scripting out of safe and DIE,
+the Immortal and Guide staff will not reimberse any lost items or corpses. DO SO AT
+YOUR OWN RISK.`*
+~
+-1 FLAGS THIEF MURDER~
+A flag is a marker of sorts, attached to a players name in the "who" list.  There
+are a variety of different flags, each denoting a different thing, from guild
+flags, to tourney flags.  Flags are colored and in obvious positions to clearly
+display the fact that they are not player-created, but rather a function of the 
+mud itself.
+
+To find out what each flag means, simply type "`^help <flag>`*"
+
+Of special note are the THIEF and MURDER flags.  These flags, if seen, give notice
+to the mud players, that the wearer of the flag has been branded by guide authority
+as either a murderer, or a thief.  The most common way of gaining either flag is
+by stealing or killing another player out of your level range, see "help pk".
+
+~
+-1 TOURNAMENT TOURNEY~
+Tournaments are designed with both newbies and experienced player killers in mind. 
+It is geared towards newbies allowing them an environment free of the worry of 
+losing equipment, and rankings where the more advanced players have little reason
+to stalk weaker players. More experienced players are rewarded with quest points
+as they advance in ranks, and are forced to play against similar ability opponents. 
+The tournament is based off of reputation and not just kills and deaths. You advance
+ranks based on your reputation. The reputation is broken down as follows:
+
+`@Killing`2:
+You gain 1 rep for every rank of the player, and an additional 1 rep if they were
+higher rank than you.
+
+`@Dying`2:
+`2-1`7 rep if they are same rank or higher.
+`2-2`7 rep if they are `21`7 rank below you.
+`2-3`7 rep if they are `22`7 ranks below you.
+`2-4`7 rep if they are `23`7 ranks below you.
+`2-5`7 rep if they are `24`7 or more ranks below you.
+
+`$REQUIREMENTS`4:`7
+You must be at least level 75 to participate.
+A minimum of 3 players must join to start the tournament and to maintain it.
+
+`$SYNTAX`4:`7
+`&tournament start`7         - Opens a tournament if one is not already in progress. 
+`&tournament start <rank>`7  - Starts tournament with a cap on the highest rank allowed.
+`&tournament start noguild`7 - Starts tournaments excluding all guild skills.
+`&tournament join`7          - Allows you to join a tournament already started
+`&tournament leave`7         - Drops you out of the tournament (You can't leavein PKTIMER)
+`&tournament ranks`7         - Lists all ranks, their reputation requirements, and rewards
+`&tournament who`7           - Gives the stats of every available player currently online
+`&tournament spectate`7      - Allows anyone to view the channels and see the carnage
+`&who tourney`7              - Shows all players who are currently in an active tournament
+`&ttalk`7                    - Global channel for all Tourney players to conversate
+~
+-1 LEGEND GUILDLEADER~
+Legends are the highest attainable level by a mortal, but not by normal 
+means. Through hard work and constant attention to your character you
+can grow strong enough to attain this. Also available to Guild Leaders
+is the GUILDLEADER rank for those who are also Legend. LEGENDs are level
+76 and GUILDLEADERs are level 77.
+
+`$SYNTAX`4:`7
+`&roleprize legend `7- at healer in Midgaard
+~
+
+-1 COUPON PRIZECOUPON PRIZE_COUPON PRETITLE NO_BREAK 'NO BREAK' NOBREAK 'CORPSE RETRIEVE' CORPSERETRIEVE CORPSE_RETRIEVE NAMECHANGE NAME_CHANGE 'NAME CHANGE STUDY RESTORE RENAME~
+There are several types of coupons in the game. They are used to enhance
+both your characters abilities as well as roleplaying premise. There are
+several types of coupons:
+
+`#A C`&oupon `#of S`&tudy`7 - Used to gain extra skills through books sold
+at QuestMaster. For a list of available books type "`&help books`7"
+
+`!R`1estore `!C`oupon       - Completely restores your stats, and removes
+unwanted weaves, but not during PK ticks.
+
+`3N`8o `3B`8reak `3C`8oupon`7   - Prevents an item from breaking.  May be
+redeemed at a Questmaster by typing: `&quest turnin nobreak <item>`*.
+    `!NOTE: Before performing a nobreak on an item using a questmaster:
+            1. Make sure the item is in your inventory, and not in a 
+               container.
+            2. Make sure there is nothing else in your inventory at the 
+               same time, that has a similar name as the item you are 
+               nobreaking.`*
+
+A Pretitle Coupon - Puts something before your title such as "Lord Diem"
+and can only be redeemed by an Immortal.
+
+A `@P`2rize `!C`1oupon`7    - Random luck of the draw from a grab bag
+that can turn up nothing or very valuable prizes. "`&quest turnin prize`7"
+
+A `$R`4estring `!C`1oupon`7 - Ability to change equipment descriptions
+to whatever you want using the "`&restring`7" command.
+
+`7R`8ename `!C`1oupon`7     - Changes your identity completely. Redeemable
+only by IMP.
+
+An `#E`3nchant `!C`1oupon`7 - Enhanced equipment stats as per below:
+
+Each Item will be limited to a `^MAX`7 of 5 Coupons and enchantments
+cost up to 3 enchants for a single attribute.
+
+`^1 `$Coupons`7
+  Hitroll by 1 and Damroll by 1
+  Armor Class by -10
+  Hit Points by 10
+  Mana by 10
+  Movement by 15
+  Strength by 2
+  Dexterity by 2
+  Saves by -3
+  Add a weapon flag (flaming/shocking/acid)
+  Remove a flag
+  Change item weight by up to 4
+`^2 `$Coupons`7
+  Hit Points by 25
+  Mana by 25
+  Movement by 50
+  Add a weapon flag (sharp)  
+  Remove rot_death flag
+`^3 `$Coupons`7
+  Add a weapon flag (vampiric/vorpal)
+  Add permanent skill (sneak/hide) 
+  Add permanent spell (haste/armor/shield/detect invis/detect hidden)
+  Set stable damage on a weapon
+~
+-1 STOREKEEPING SEDIT~
+Player/Guild run stores may be bought by any player/GL who has the store 
+keeping skill.  The skill is acquired via a Book of Storekeeping. To set
+up a store you must first find an empty shop to purchase. The cost for
+buying a shop is 1000 quest points for an individual or 2000 quest points
+for a guild.  Once you have a store and you can add items to it's shelves
+which will be described shortly. In order for customers to purchase either
+the person who bought the store must be present or a shopkeeper must be
+hired. All commands are done through the "sedit" command.  All advertising
+for your store must be done on the "store" board.  See "help snote".
+
+`$SYNTAX`4:`7
+
+`@Purchasing a store`2:`7
+`&sedit purchase`7       - Buys an Individual store
+`&sedit purchase guild`7 - Buys a Guild store
+
+`@General commands`2:`7
+`&desc`7 - Go into text editor and make a description for your store.
+       (If you're not familiar with the string editor type .h once
+       in to get help and @ on a blank line to exit)
+`&hire`7 - Hire a shopkeeper for 10000 silver a day, payable whenever you
+       enter sedit again.
+`&fire`7 - Fire the shopkeeper.
+`&done`7 - Exit the store editor.
+
+`@Item Oriented Commands`2:`7
+`&add <item> <cost>`7      - Add an item to the store. If you do not specify
+                         a cost, it will be set to 0.
+`&update <item #> <cost>`7 - Updates the old price with the new rate.
+                         (In a guild store this can only be done by GLs)
+`&sold`7                   - See a list of the last 20 items sold.
+~
+-1 'SHOP' 'DIRECTORY' 'STORE_LOCATIONS'~
+The following is a list of Stores owned and operated by Guilds and Players:
+
+Ownership		Location (Port and Directions)
+==================================================================
+AES SEDAI		Yellow Ajah, west, north
+AIEL			 Wise One
+ASHA'MAN		 Flinn, north
+GLEEMAN		  Otho, north, 2east, north
+RED HAND		 Shayla
+SEANCHAN		 Leashed, south
+SHADOW		   None
+SHAIDO		   None
+TINKER		   Kinswoman, 4west, north
+WARDER		   Otho, 2north
+WHITECLOAK	   Azgar
+WOLFBROTHER	  Errand
+==================================================================
+Treil			Otho, north, east, south
+Algol			Kinswoman, 9south, west
+Maarcus		  Otho, 2north, down	     
+Suladric		 Otho, 2east, south
+Synne			Otho, up
+Tiaa			 Otho, down
+Rhialle		  Otho, 2north, up
+Dianji		   Otho, north, 3east, 2south, east
+Caddar		   Otho, north, 4east, south
+Slade			Otho, north, 3east, south, east
+Graendal	 	Black Ajah
+Norlea		   Otho, north, east, north
+Sulwen		   Otho, north, 3east, north
+Trayal		   Otho, north, 4east, north
+Tagar			Otho, north, west, north
+Katsumi		  Otho, north, west, south
+Abernaithi       Otho, north, east, south, up
+Kivia            Otho, north, east, north, up
+
+~
+-1 'CHARACTER TRADING' 'CHAR_TRADING' 'CHAR TRADING' 'CHAR SHARING' 'SHARING' 'CHAR_SHARING' 'CHARACTOR SHARING'~
+Starting 4/16/2001 Character trading of any kind is now illegal.
+You cannot sell, give away, or come up with any other way of trading
+characters. If you do get caught trading a character, both parties 
+the trader and the buyer will be deleted.  Please don't make us have   
+to enforce this rule.
+
+Included under this new rule is the concept of character sharing.  If
+the player behind a charactor is not able to play his or her char,
+he or she will not be entitled to make use of the benefits of having
+their character played by anyone else in the interim.  This includes
+such things as paying someone in qps to level a char you have created
+or to log your char in order to buy something off the quest list in
+your absence.  Such practices take away from other players what they
+deserve for actually being logged on at the time.
+
+~
+
+-1 CHANNELS OOC PAGE TELL GOSSIP MUSIC TRIVIA QUOTE GRATS BITCH QUIET TTALK QTALK QUIET PUBLIC WHISPER DEAF~
+
+`$SYNTAX`4:`7           
+`&channels`7 - Displays status of all the channels
+
+`#OOC`7     : Out of Character.  Use this channel to say things heard by all.
+`2Tell`7    : An out of charactor method to speak to one person at a distance.
+`2Whisper`7 : An IN CHARACTOR method of speaking softly to one person in the 
+              same room.  Syntax: whisper <char><message>
+`4GDT`7     : Standing for "Go into Deep Thought", this channel is for guilded
+              players to speak amongst themselves.
+`@Gt`7      : This is an OOC channel for speaking to other players you are 
+              grouped with at the time.
+`8Auction`7 : Items can be auctioned here by typing auction <item> <amount>
+`6Music`7   : This channel is used for people to sing on.
+`!Trivia`7  : You can ask questions of any sort here.
+`#Quote`7   : In character or out of character quotes can be said here.
+Grats   : Congratulate others by using this channel.
+`3Bitch`7   : Come here to whine, moan, cuss, complain, and basically bitch.
+`&ttalk`7   : Talk to other players while in Tournament
+`&qtalk`7   : Used to conversate during quests to cut down on chatter.
+`&dtalk`7   : Used for conversation during active dice games
+
+Any channel may be turned off or on by simply typing the name of the
+channel. Undesired tells from a single person can be turned off by typing
+"Ignore <player>".  It is also possible to turn off all tells by typing "deaf".
+You may also turn off all public channels by using "`&quiet`7". Some
+channels cannot be toggled, but are restricted to use only during certain
+circumstances such as qtalk, dtalk, and ttalk.
+~
+-1 COLOR COLOUR ANSI~ 
+SoT uses an Ansi color patch so that our users can talk in
+color. To talk in color, you must first use the `` symbol. 
+It is located just left of the 1. You can use a total of 
+15 different colors available for those who's clients 
+support this feature.
+ 
+`$SYNTAX`4: `&color`7
+
+    ``1  `1Red`*  ``!  `!Light Red`*
+    ``2  `2Green`*       ``@  `@Light Green`*
+    ``3  `3Brown`*       ``#  `#Yellow`*
+    ``4  `4Dark Blue`*   ``$  `$Blue`*  
+    ``5  `5Magenta`*     ``%  `%Purple`*
+    ``6  `6Turquoise`*   ``^  `^Light Blue`*
+    ``7  `7Grey/Normal`* ``&  `&White`*
+    ``8  `8Black`*       ``*  Grey/Normal`*
+    ``?  `?R`?a`?n`?d`?o`?m`*
+ 
+Original ColoUr is written by Lope (ant@solace.mh.se)
+~
+-1 PROMPT~
+Prompts are used to quickly be able to tell the status of your character.
+It will display vital stats or location, and his highly customizable.
+
+`$SYNTAX`4:`7
+`&prompt      `7- Toggles your prompt on and off.
+`&prompt all  `7- Sets it to the standard <hp/mana/move> prompt.
+`&prompt <%*> `7- Customizable as following values
+
+        `^%h`7 :  Display your current hits
+        `^%H`7 :  Display your maximum hits
+        `^%m`7 :  Display your current mana
+        `^%M`7 :  Display your maximum mana
+        `^%v`7 :  Display your current moves
+        `^%V`7 :  Display your maximum moves
+        `^%x`7 :  Display your current experience
+        `^%X`7 :  Display experience to level
+        `^%P`7 :  Display your current RPexp
+        `^%Q`7 :  Display your current quest points
+        `^%q`7 :  Display your quest timer
+        `^%g`7 :  Display your gold held
+        `^%s`7 :  Display silver carried
+        `^%a`7 :  Display your alignment
+        `^%r`7 :  Display the room name you are in
+        `^%e`7 :  Display the exits from the room in NESWDU style
+        `^%c`7 :  Display a carriage return (useful for multi-line prompts)
+        `^%d`7 :  Display damage inflicted in a combat round.
+        `^%D`7 :  Display damage received in a combat round.
+        `^%t`7 :  Display a countdown to a pardon, should you have a punative 
+                  flag, such as Murder or Thief
+        `^%T`7 :  Display your wait/pk/safe timer
+
+
+        `^%R`7 :  Display the vnum you are in (IMMORTAL ONLY)
+        `^%z`7 :  Display the area name you are in (IMMORTAL ONLY)
+
+`$EXAMPLE`4:`7  
+`&prompt <%hhp %mm %vmv>`7 - Will set your prompt to "<10hp 100m 100mv>"
+~
+-1 NOTE NOTE CHANGES NEWS IMMNOTE IDEA UNREAD RPNOTE GNOTE STORE SNOTE CATCHUP~      
+The note boards are a way to communicate with everyone whether they
+are online or not. It has been seperated into several sections so
+that they can be listed by category.
+
+`$SYNTAX`4:`7
+
+`@Reading Notes`2:`7
+`&note list    `7- Show all notes (unread notes are marked with an N)    
+`&note read    `7- Either by number, or read next to read unread notes   
+`&note remove  `7- Removes a note that you wrote or are the target of   
+`&note catchup `7- Markes all notes as read   
+
+`@Writing Notes`2:`7
+`&note to      `7- sets the to line (player, guild, immortal, or all)   
+`&note subject `7- sets the subject for a new note   
+`&note +       `7- adds a line to a new note (IE: note + hi guys!)   
+`&note -       `7- remove a line from a note in progress   
+`&note clear   `7- erase a note in progress   
+`&note show    `7- shows the note you are working on   
+`&note post    `7- posts a new note. This MUST be done to post a note.   
+`&note format  `7- formats a note to be more readable and have even line length   
+
+`@Other Commands`2:`7
+`&note list | <word> `7- Does a grep list only displays notes that contain <word>
+                     in their from or subject fields.
+`&note forward #     `7- Forwards the note to another party so you don't have to
+                     rewrite it.
+`&unread             `7- Displays a list of boards and how many you have unread.
+`&unread catchup     `7- Updates all boards and catches you up.
+
+The notes are divided up into the types of: 
+   `^NEWS`7    - Immortal board used to convey general messages to players.
+   `^CHANGES`7 - List of changes that have been made in policy or code.
+   `^NOTES`7   - General board used for OOC conversations.
+   `^IDEAS`7   - Ideas you would like to see implemented or changed.
+   `^IMMNOTE`7 - Board for Immortals to discuss things.
+   `^RPNOTE`7  - IC board used for conversation between characters.
+   `^GNOTE`7   - A board reserved exclusively for guildleaders.
+   `^SNOTE`7   - Advertising for player-run stores.
+                   `!Note: `*Only advertise your store on the SNOTE board.
+                           Do not advertise on any board, eq not held in a
+                           store.  Player to player transactions spam up
+                           the boards, and will be deleted.
+~
+-1 MULTIPLAYING~
+On Shadows of Time, it is illegal to have two or more connections
+to the mud. You may not in any way log two players at the same
+time. Have two difference characters is fine, just do not have 
+them on simultaneously whether they are linkdead or both active.
+     
+You cannot use a higher level/stronger character to weaken mobs for a
+lower character to kill. To may transfer equipment from one character
+to another, but you may not sign on both characters and give the eq
+from one to the other. You must either drop the equipment, sign off,
+sign back on as the other character, and pick it up. You could also
+give it to a willing friend to hold untill you sign on the other 
+character. You also cannot have someone else log your character 
+and then level or interact with that character with an alt.  Any
+form of interaction with one of your alts, is illegal.
+
+Ignorance is no excuse. You will most likely be punished in some way
+for multiplaying.
+~
+-1 PKILLING PLAYERKILLING MULTIKILL LOOTING SAFEROOM PKTICKS SUICIDE DUELLING GROUPING~
+This is a playerkilling orientated mud. What does pk mean? It means that you
+can kill other players. However, there are restrictions on this mud which all
+players must follow.
+
+`!* `&PKRANGE`7 - You may only kill players within your certain level ranges.
+'help pkrange' will give you a list of acceptable level ranges for your level.
+Also there is no pkilling from 0-35 unless you turn PK on (by typing 'pk' twice).
+Tinkers ('HELP TINKER') cannot be killed at any level. Only newbies are allowed
+to pursue joining this guild.
+
+`!* `&OOL`7 - Killing players out of normal ranges is permitted, but has some
+serious considerations to account for. For instance, if you kill someone out
+of range you can obtain a Criminal and Murder flag. These flags prevent you
+from being safe for around 300 ticks, as well as giving your IMMEDIATE loss of
+stats such as hp/mana/move. If you die with this flag the resulting loss of
+stats is even more drastic than simply acquiring the flag. You must have a 
+valid roleplaying reason as always. So, be wary.
+	
+`!* `&ROLEPLAYING`7/`&ROLEKILLING`7 - You must establish a `!LOGABLE`7
+roleplaying reason to attack.  By logable, we mean conversations on any of the 
+logged channels, such as the say channel, whisper, or rpnotes.  Only real
+legitimate reasons apply. This is not "I felt like it", "My character is insane",
+or "They had EQ I wanted". Make sure you 'help roleplaying' and 'help rolekilling'
+for guidelines and examples to follow. Each of your characters is treated as
+seperate and needs a seperate reason. Knowledge cannot be passed between alts.
+`!Each time you kill someone, you must have a new and seperate reason for the new
+attack.`7 Statute of limitations applies.  If you have a reason to kill someone,
+do it within a two week real time period, else the memory of your charactor's 
+reason fades, and you must RP it fresh.
+
+`!* `&MULTIKILL`7 - After killing a player there is a 24 hour period (from the
+time of the first kill) that you may take no aggressive/undesired action. This
+includes attacking without the intent to kill, killing, mobstealing, etc. You
+may have rights again if they attack you within that time period, but only if
+they attack you yourself or a member you are grouped with (at intial attack). 
+This rule is intended to prevent `!harrassment`* of players, and in that same
+spirit, if you are seen as deliberately provoking a player you have already
+killed once, then you can expect action from the staff, or guide.
+
+`!* `&COMMON_SENSE`7 - If it seems wrong, then it probably is wrong. "Well it
+seemed right to me?!" That's not quite enough. It follows the guidelines by which
+the staff considers, and if you have not yet come to understand what we consider
+common knowledge then ask. Above all, breaking any rule is not bound by your 
+ignorance. If you didn't know, then you should have asked.
+
+`!* `&LOOTING`7 - When you kill someone you may choose one item from the corpse
+they leave. Any item that is retrieved from another players corpse
+is flagged with a "pkill" flag cannot be touched by Tinkers ('HELP TINKER'). 
+Item reimbursement from Guide judgements are the sole disgression of Guide.
+
+`!* `&SAFEROOM`7 - Certain rooms like Healer in Midgaard are safe rooms, and you
+cannot initiate attack in those rooms. However, if you initiate attack out of safe
+then you can be attacked in safe rooms.
+
+`!* `&PKTICKS`7 - When attacked you suffer 120 seconds of being able to be attacked
+no matter where you are. Each time combat is re-initiated this counter resets. After
+the counter has expired you may return to a safe room without fear of attack. Also
+you can put %T in your prompt ('HELP PROMPT') to see how long it has left.
+
+`!* `&SUICIDE`7 - If you kill yourself to avoid dying to a player, you will be
+severely punished. In most cases the person who you were in combat with will get
+double loot (4 items). This will not be tolerated, and repeat offenses will be
+handled even more severely. Accidental death will only result in single loot (2
+items). Both will be determined by [`#G`3U`#I`3D`#E`7].
+
+`!* `&DUELLING`7 - Sparring is protected to a degree. If both parties agree prior
+to the attack then they must both follow the guidelines they set. For instance, if
+it is to the death no loot, then neither may loot. This however does not prevent
+others from coming to attack provided this was not organized by one of the party.
+For example, if Player 1 spars with Player 2 and Player 3 jumps in that is legal, 
+but not if Player 3 had planned this with Player 1 or Player 2 before the attack.
+
+`!* `&GROUPING`7 - In instances where you are grouped with players of a different level
+range, particularly when pleveling, rules are slightly different. While grouped you
+may autoassist without regard for level. You must be priorly grouped and in the same
+room as the original attack. This only applies if you are attacked. You may not
+participate in any way if your group member is the one who initiates. This only applies
+to roleplay justification for defending a group member. You can still be retaliate if
+you weren't in the room as the initial attack, if you have previous roleplay reason.
+
+`!* `&DECLARE_WAR`7 - GLs must have more of a RK reason to issue orders to a guild.
+When they issue orders to kill then they also carry the burden of fault if the reason
+was not sufficent. Also, GLs cannot order an entire guild to be killed without first 
+declaring war. War must be accepted by the GLs of both guilds, and posted in RPNOTE. 
+The war is over once there is no opposition like when all the GLs of opposing sides  
+have sent a surrender RPNOTE.
+
+`!*** `&NOTE`7: These rules apply to all characters whether guilded, unguilded, or in
+[`@OUTCAST`7]. All issues will be resolved by [`#G`3U`#I`3D`#E`7]. Complaints taken  
+up in public channels can only hurt resolution of an issue.
+~
+
+-1 'GUILD AREAS'~
+Protection of your guild and an organized base of operations is essential for everyone.
+Most importantly is the security of that base, and you are within your rights to use
+whatever means to protect that. This applies ONLY to the section of your area which is
+barred entrance by a key. Furthermore if someone has a key to your area, and you are
+able to verify this (not just because you suspect), then it is justifiable to try to
+re-obtain the key. Attempting to kill mobiles outside the area, including ones that have
+keys are not justification, because they are not inside the area.
+
+`$RULES OF THE AREA`4:`7
+`^* `7You may have an increased rate peice of furniture up to 50% spread out however
+you like (IE: 125% heal 125% mana, 100% heal 150% mana, but neither may go below 100%).
+It must also not be a safe room.
+`^* `7There may be no increased rate healing inside the guild area.
+`^* `7Anyone regardless of guild must have access to obtaining the key (though it may
+be made extremely difficult to get, but not impossible). This also means it must be
+held outside the barred section of the area.
+`^* `7Equipment may not be placed inside restricted areas, excluding keys to deeper
+sections of the guild area.
+~
+-1 PKRANGE MURDER CRIMINAL OOL~
+A range has been set up for legal killing without reprocussion. You must
+still have a valid roleplaying reason for attack, but this range is to
+avoid a Criminal or Murder flag. While you have one of these flags you
+are not safe at any time.
+
+`&1-10       `^No PK`7
+`&11-15      `^  2  `7
+`&16-25      `^  3  `7
+`&26-35      `^  4  `7
+`&36-45      `^  5  `7
+`&46-55      `^  6  `7
+`&56-65      `^  7  `7
+`&66+        `^  8  `7
+
+`$*`7 : No PK        - Cannot be attacked by anyone
+`#*`7 : Out of Range - Attackable, just not legally by you
+`!*`7 : In Range     - Able to be attacked, just follow other guidelines
+~
+-1 COMMON SENSE COMMON_SENSE~
+First we will start with a little definition.
+
+`&common sense`7 - practical judgment based on exerience or native
+intelligence, and not on education or training.
+
+So relative to the mud what does that mean?  It means using your
+real life experiences to dictate how you act.  For example if  
+in real life Johnny doesn't like you and starts pounding on you
+then his friend Jack comes up and says hey Johnny don't hit him
+with your hand you might break a nail, here take this crowbar.
+When you go to the cops, or go find your gun are you going to   
+be going after Johnny because he's the only one that helped you,
+no you're gonna go after both.  That's just one example meaning
+if you help someone in pk then you are now a target for whoever
+they were in a fight with.
+  
+There are many more examples than that which I could make for
+other situations, but I know the average attention span and you're
+already not reading this so I won't bother.  However just use
+common sense and realize that not using/having common sense   
+will not keep you safe, it's based on general common sense not
+yours.
+~
+-1 RULES~
+Guidelines are set for smooth play and consideration for all players. This
+is to ensure a balanced and even playing field. Please type "help <topic>"
+on any of the following sections for subcategories. All of these files are
+required reading, and you are responsible for following them regardless if
+you read it or not:
+
+`&COMMON SENSE`7      : The Golden Rule. If it seems wrong, then it is wrong.
+`7                    Above all is, if you aren't sure then ask.
+`&PKILLING`7          : Read this thoroughly, and follow it completely. Severe
+`7                    penalties are enforced if these are broken.
+`&ROLEKILLING`7       : RP enhances the mud and is required for PKILLING. Use
+`7                    this in conjunction with "help ROLEPLAYING"
+`&CHARACTER TRADING`7 : Follow this policy, because you worked for the
+`7                    character, and not someone else. Leveling is easy on
+`7                    this mud, and should not be a bargaining tool.
+`&MULTIPLAYING`7      : More than one character is not allowed to be connected
+`7                    at one time. This includes one of them being linkdead.
+`&GUILD AREAS`7       : Guidelines and rules for guild areas.
+
+New additions may be added at any point. Check this file religiously.
+~
+-1 RKING ROLEKILLING~
+
+You `!HAVE`7 to rp whether you are in a guild or not. Typically guilding
+only adds to the roleplay and you still have your character's individual 
+persona which includes their nationality.
+
+A basic rule of thumb is: You must establish a `!LOGABLE`7 reason for 
+the kill. This must be a valid reason and not simply, "I felt like it",
+"My character is insane", or "They had EQ I wanted".  By logable, we mean
+conversations on the rp channels such as say, whisper and emote.
+
+What do you do if you feel you are PK'd without valid RP reason?
+`^Send a note to Guide regarding the situation, time frame, parties
+involved, looted items, etc.`7
+
+`@NOTE`2: `7Who list, titles, equipment are not roleplay so they cannot
+be used in justification of a pkill (IE: if they are wearing a cadin'sor
+that doesn't mean that they are an Aiel and you can kill them). It is also
+not roleplay justification to kill someone because they are veiled, have a
+damane, wolf, etc, you must speak to them, or about them on logged channels.
+
+Make sure you read "`&help roleplaying`7" and "`&help pkilling`7". 
+~
+-1 RPING ROLEPLAYING~   
+Below, you will find an indepth look at roleplaying on this mud, provided by our
+friend Deviant.  While we cherish the file, and his views are accurate, we would
+like to preface with a few shorter bullets:
+
+ -We the staff, expect you to play your charactor in as much of a roleplaying 
+  manner as you do a player-killing manner.  The two elements of this mud are
+  entertwined.
+
+ -If you intend to kill your fellow players, then you must play out the kill 
+  through your own charactor's actions and emotions.  Just as in real life, 
+  the killing of another human being is a serious matter, and we expect you to
+  treat it that way.
+
+Now on to a closer look:
+
+Roleplaying is, simply put, the 'assuming of a persona'; the 'playing' of a 'role', as
+assuredly as you might find in a broadway production, movie, TV show, or other work of
+entertainment.  A true roleplayer immerses him/herself into the part that they have chosen
+to play, and sees 'life' through the eyes of the character that they imagine themselves
+to be.  What does this mean here on Shadows of Time?  Well, first of all, to be a good
+roleplayer here it might help if those seeking to fulfill a part have read 'The Wheel of
+Time' series of books written by Robert Jordan.  That is what this MUD is based upon.
+This does not mean that one of the characters from the book has to be chosen for the basis
+of the characters made, though.  In fact many roleplayers find it much more enjoyable to
+create their OWN being, and make them heroic (or villanous) in their own rights - and in
+the end, much more satisfying.  Others find their joys in assuming a character already
+defined within the books; perhaps because they identify strongly with that character, or
+perhaps because they want to explore something not brought out in the stories that have
+been already told.  Whatever the case may be, understanding the 'world' that a character
+exists in and forming its image in the ways you want to play it, is a first and critical
+step.
+
+Choose a name!  This step can be a difficult one.  A character should be given a name
+that fits with the flavor of this particular world.  Do not make names that would ruin
+the overall atmosphere, like "Bubba" or "Retard".  Neither of these names is either heroic
+nor particularly fear-inspiring.  They only serve to throw someone who is really trying
+to roleplay out of their stride.
+
+Now what?  Here is the tricky part.  The best piece of advice that can be given when
+asked about roleplaying is:  LIMIT YOUR KNOWLEDGE!  What does this mean?  It means that
+while as "Ceranos the weaponsmith extrodinaire" might know all there is to know about
+making a master sword from two coconuts, a dead plant, and some cotton, "Banoth the
+village idiot" would not have the first clue about how to do such things and would probably
+look at you quite dumbfoundedly or cut you down to keep your form of madness about the
+world.  That is an obvious example.  Something less obvious would be like having more
+than one character on the MUD.  But those characters have to ask themselves: "How would
+'Organath of Tear', who happens to see an Aes Sedai battling a Seanchan, be able to
+telepathically transmit that knowledge to 'Hoboh the Warder' who is 'waiting somewhere
+out there in limbo' (tranlation: logged off because you are both characters.)?  In fact,
+would he even care?  Better yet, how would 'Hoboh the Warder', who sees another warder
+mention where an item is in the game lying around on the ground, communicate that to  
+'Gothorp the Seanchan', who is logged off?  Actually he would probably just as soon cut   
+cut Gothorp's throat as to tell him something like that.  The moral of these stories being:
+LIMIT your character's knowledge to what the CHARACTER should reasonbly know, not to what
+the PLAYER knows.
+
+There is another part to that:  character interaction.  When you roleplay with another
+player on the MUD, whether that is talking to them or trying to stick them with a sword,
+try to react as the CHARACTER would react.  Does the character have a magic crystal ball
+that tells him/her who a person is, what their loyalties and guild ties are, and how  
+strong they are just by looking at them?  Hell no.  Keep your limitations in mind as well.
+Roleplay them!  If a character is too low to fight someone, do not go challenging them 
+as if you want to fight them - play out an injury, an absence, or some other reason IN  
+character to explain the inability to fight.
+
+This brings up the final point regarding roleplaying:  Pkilling.  Any member of a guild
+who wants to kill someone needs to have arrived at the decision to kill them through the
+process of roleplaying.  You should not be out there saying "Oh, I want to kill Jozal,
+what reason can I think up to kill him/her?".  Instead, if you decide to kill someone,
+it should have come about as a consequence of you acting as you feel your character would
+do in that situation.  Generally speaking, the administration of the MUD will have little
+or nothing to do with this process; they will NOT be in the habit of investigating pkills
+for 'roleplay' reasons.  This will largely be left up to the players and mortal guild
+leaders to handle.  If the administration staff feels a guild is sliding into a mediocrity
+as far as roleplay is concerned, the guild leader will have to answer for it (up to and
+including the loss of his/her position).  Keep in mind that if someone kills you, they
+may very well have a roleplay reason for it, and they are certainly NOT required to
+announce this or justify it to you.  Eventually, any person who is just a rampant pkiller
+will be spotted and dealt with accordingly.  Now, if a person is NOT in any guild, then
+there are really no roleplay restrictions on who they kill or why.  They may just simply
+be roleplaying 'Zapert the skitsofrantic psychotic kill guy'.  That is fine.  These people
+will have few friends, no benefits of guild skills or guild members, and eventually too
+many enemies to do much more than log on a few minutes at a time.
+
+Please read "`&help rolekilling`7" and "`&help pkilling`7" for how roleplaying is
+integrated into this mud with a unique twist.
+~
+-1 NEWBIE~
+        Welcome to `&Sh`7ad`8ows `&o`7f `&T`7im`8e`7! Please read this
+entire file, and feel free to reference any other sections referred to.
+This is to help learn specifics to this mud, and mudding in general. 
+Also, typing "help" by itself will display a directory of help topics. 
+Any command is in quotation marks to show you what you can type. For 
+example, "who" would mean you type w-h-o.
+
+`@NOTE`2:`7 This file is very lengthy and will take several minutes to read.
+It's recommended that if you find this too lengthy and want a better
+format, that you log onto `&www.shadowsoftime.com`7 and download the
+text version of this help file. Also this isn't meant to be read once and
+disregarded. You will use this several times in order to become familiar
+with the mud, and how it works.
+
+What do you need to know as a beginner?
+
+`&COMMUNICATION`7     - How to conversation on the mud, write notes, etc.
+`&NAVIGATION`7        - Moving around in the game is an important part of
+                    the game. This section also gives tips for hunting
+                    mobs, etc.
+`&EQUIPMENT/OBJECTS`7 - Where do I put this? How do I wear it? This will
+                    familiarize you with generally how to handle items
+                    and what you can do with them.
+`&FIGHTING`7          - Kill, kill, kill. This is just a general outline
+                    of the commands you'll need to know to get around.
+`&MUDSCHOOL`7         - The first steps are the most difficult, and the
+                    section on leveling will take you step by step of
+                    what to do. 
+`&LEVELING`7          - After graduating from Mud School this will give
+                    you and idea of what to do and where you should head.
+
+Once you have learned the basic elements, what's next?
+
+`&INTRODUCTION`7      - To enhance roleplay you don't initially know the
+                    name of a person when you see them and see just their
+                    age, nationality, and sex. This is how you remember them.
+`&CHANNELING`7        - Brief description of how to use spells.
+`&QUESTING`7          - Another important element to the mud besides just
+                    levelling.
+`&CLASS`7             - Brief description of what you need to know to play
+                    a specific class.
+`&CUSTOMIZE`7         - List of commands you can use to help tailor your
+                    mud environment to fit your style of play.
+
+Mastered the game and looking for a challenge? There's still more.
+
+`&BOOKS`7             - Advanced skills and spell that can be gained by
+                    studying a multitude of books.
+`&TOURNAMENT`7        - Once you hit 75 you can enter into the world of
+                    guiltless carnage, where you can win/lose but never
+                    find yourself with lost equipment.
+
+Still having trouble? More questions? Just type "`^novice <message>`7" and
+ask for a hand. If you get no response then give "`^ooc <message>`7" a try.
+
+Find anything missing? Something unclear? "`^help note`7" and write one to
+"imm" with your suggestions. Any input is helpful and always considered.
+~
+-1 COMMUNICATION NOVICE OTELL TELL ITELL REPLY IREPLY OREPLY OOC SAY OSAY~
+`$COMMUNICATION`7 (`4How to ask for help`7) - The first step is letting
+people know you are new to the mud and need help. This help system will
+be of benefit, but interaction with players will really give you a good
+idea of how things work. Experiment with the commands and ask them
+questions about anything that is unclear. 
+
+   `!*`7 "`&NOVICE <message>`7" - The first command you should type once
+   you read this is something like, "`^novice help me I'm new`7". From 
+   there others will be able to help you, and guide you through each step
+   of the development of your character.
+
+   `!*`7 "`&WHO`7" - Shows a list of all visible players on the mud
+
+   `!*`7 "`&TELL <name> <message>`7" - Sends a private message to the target  
+   person that only they can see. IE: "otell diem hi" would tell the player
+   Diem 'hi'. NOTE: This only works on people who are visible to you. This is
+   also out of character. For in character use "itell diem hi".
+
+   `!*`7 "`&REPLY <message>`7" - Sends a private message to the last person 
+   who sent you a tell, regardless of whether or not they are visible to you.
+   Useful if a 'Someone' sends you a tell. This is also out of character, and
+   to send in character you would use "ireply".
+ 
+   `!*`7 "`&OOC <message>`7" - OOC means Out Of Character. It is used for
+   idle conversation not related to your character. It's also a  
+   global channel so everyone on the mud will see these messages.
+   When you need help, this is the first place to try.
+
+   `!*`7 "`&SAY <message>`7" - Displays a message to everyone in the same 
+   room as you (people you see when you type "`^look`7"). This is used
+   for IC (In Character) discussions related to your character.
+   If you do not use this for roleplaying then you can be punished
+   by losing rpexp (roleplaying experience), since you gain rpexp by
+   using says and emotes ("`^help emote`7").
+ 
+   `!*`7 "`&OSAY <message>`7" - Used for OOC messages to everyone in the  
+   same room. NOTE: We recommend that if you have a habit of using
+   "`^say`7" that you type "`^alias say osay`7" and "`^alias ic say`7". This
+   changes it so when you type "`^say <message>`7" it will say "`^osay
+   <message>`7" instead, and when you want to use IC messages you
+   would type "`^ic <message>`7" which would show "`^say <message>`7"
+   instead.
+
+   `!*`7 "`&WHISPER <name> <message>`7" - Sends a private message IC (In
+   Character) to a specific person. They must be in the same room as you
+   however.
+
+   `@***`2 For more information you can also type help on: `@CHANNELS`2,
+   `@EMOTE`2, `@NOTE`2, `@DEAF`7
+~
+-1 NAVIGATION MOVEMENT~
+`$NAVIGATION/MOVEMENT `7(`4How to get about in this mud world`7) - Sitting in
+one room can only accomplish so much good. This section will help you
+learn to move about in the world. Learning your surroundings is an
+important part of the mud, and it would be useful to take notes on what   
+is where. Remember to utilize other players experience in this area
+especially. They know where to go, and what is or is not safe.
+
+   `!*`7 "`&N`7" or "`&NORTH`7" - Used to go north. All movements are based off 
+   of this.
+      
+   `!*`7 "`&S`7" or "`&SOUTH`7" - Used to go south.
+      
+   `!*`7 "`&E`7" or "`&EAST`7" - Used ot go east.
+       
+   `!*`7 "`&W`7" or "`&WEST`7" - Used to go west.
+
+   `!*`7 "`&U`7" or "`&UP`7" - Used to go up
+        
+   `!*`7 "`&D`7" or "`&DOWN`7" - Used to go down
+        
+   `!*`7 "`&LOOK`7" - Shows you everything in the room including room name, 
+   room description, items, players and mobiles (non-player mud
+   characters). This also allows you to look into containers and
+   items and players, which you can get details on by type "`^help  
+   look`7".
+        
+   `!*`7 "`&SCAN`7" - Shows all players and mobiles nearby. Based on how
+   close the message says it will tell you how far they are away.
+   IE: "Diem is close by to the north." means that Diem is 1 north
+   from your current location while "Diem is rather far off to the
+   north." means that Diem is 4 north from your current location.
+   `@NOTE`2:`7 Scan does not show you anything that is in the same room.
+        
+   `!*`7 "`&WHERE`7" - Gives the name of the player and the room name they
+   are in of the area you are in. IE: If you are in Midgaard and
+   type "`^where`7" you will notice that most players show up as being
+   at 'The Temple Altar' which is a safe room (a room where players
+   and mobiles cannot attack you). By paying attention to room names 
+   you can learn the mud a lot quicker, and will help a great deal
+   in the long run.
+ 
+   `@*** `2For more information you can also type help on: `@GATE`2, `@PORTAL`2,
+   `@NEXUS`2, `@RECALL`2, `@WORD OF RECALL`7
+~
+-1 EQUIPMENT OBJECT~
+`$EQUIPMENT/OBJECT`7 (`4What you are wearing, your equipment`7) - When using
+equipment you have to keep in mind where the eq is. Is it lying on the
+ground, in your inventory, are you wearing it, is it contained in
+something, or does someone else have it?  
+
+   `!*`7 "`&EQ`7" or "`&EQUIPMENT`7" - Shows what eq you are currently wearing
+   and what body position it is worn on. You get the benefits of any
+   stats that are on the armor including +hit points, mana, armor,
+   permanent spells, etc.
+        
+   `!*`7 "`&INV`7" or "`&INVENTORY`7" - Lists everything you are carrying, but
+   not wearing. This means you don't get any of the benefits of the
+   equipment that it may have on it.
+        
+   `!*`7 "`&GET <item>`7" - Picks up items that are on the ground. Typing
+   "look" will show you a listing of the items and you can guess the
+   name of the item based on its description. Also you can type "`^get
+   1.`7" or "`^get 2.`7" to pick it up by the number that it is on the  
+   ground. This command can also be taken a step further and you can
+   pick up multiple items of a similar name, like "`^get all.sword`7"
+   would pick up every item that had the keyword of 'sword'. You can
+   also use just "`^get all`7" to get everything that is on the ground
+   regardless of keyword. Sometimes you have to get items from
+   within containers, which you can get more information about by
+   typing "`^help look`7" and "`^help get`7".
+        
+   `!*`7 "`&DROP <item>`7" - Drops an item that is located in your inventory 
+   onto the ground.
+        
+   `!*`7 "`&GIVE <item> <name>`7" - Allows you move an item from your
+   inventory to the inventory of someone else, player or mobile. IE:
+   "`^give sword Diem`7" would put the first item with the keyword of
+   sword in your inventory into Diem's inventory.
+
+   `!*`7 "`&WEAR <item>`7" - Takes an item that is in your inventory and
+   lets you wear it in your equipment listing according to the   
+   position that it is designed for. For instance, if you have a
+   weapon it will be wielded, and rings will be worn on your finger.
+   If you already have an item that you are wearing then it will
+   remove that item and put it in your inventory when you wear the
+   other item.
+        
+   `!*`7 "`&REMOVE <item>`7 " - Moves an item that you are wearing in your
+   equipment listing to your inventory. This is useful if you don't
+   want to wear equipment, or you have body positions where you can
+   wear 2 items. A good example of this is if you are wearing 2
+   rings on your fingers and have 2 new rings that you want to
+   replace it with. You can type "`^rem ring`7" then "`^rem ring`7" again to
+   remove the old ones, and then "`^wear <item>`7" and "`^wear <item>`7" to
+   wear the new ones.
+        
+   `!*`7 "`&DONATE <item>`7" - There is a room where all donated equipment
+   collects, which is 1 down from healers. You can donate any item  
+   that is lying on the ground with this command. This room is a 
+   good place to look for spare equipment for your character.
+        
+   `!*`7 "`&SAC <item>`7" - Destroys the item and removes it from play.
+   Depending on the value  of the item you can be awarded gold and
+   silver.
+        
+   `!*`7 "`&EAT <item>`7" - When you're hungry you heal slower, so it's good 
+   to keep up your strength. You will eat items from your inventory,
+   and you can buy new items from shops ("`^help buy`7").
+        
+   `!*`7 "`&DRINK <item>`7" - Also you heal slower when you are thirsty. You
+   will drink items from your inventory. There are also special  
+   drinks too that contain blood. Bloody drinks will satisfy both
+   thirst and hunger.
+        
+   `@*** `2For more information you can also type help on: `@PUT`2, `@RECITE`2,
+   `@QUAFF`2, `@ZAP`2, `@BRANDISH`2, `@CLOSE`2, `@OPEN`2, `@FILL`2, `@LIST`2, `@BUY`2, `@SELL`2, `@VALUE`7
+~
+-1 FIGHTING~        
+`$FIGHTING`7 (`4How to kill something`7) - Before we tell you where to go and
+explain more involved things like leveling you need a basic understanding
+of combat. In later sections you can also learn about more commands and
+tactics, but for now we'll stick to simplicity.
+        
+   `!*`7 "`&CONSIDER <name>`7" - Fighting blindly will get you into trouble.
+   You can ask other players, 'Should I attack Hassan?' but a better
+   way is to find out for yourself. You can accomplish this with
+   consider. It will rate based on level how well you might fair
+   versus this opponent. If you get a message like, "You can kill   
+   Diem naked and weaponless." then you can probably take him, but 
+   if you get something like, "Death will thank you for your gift."
+   then you should reconsider your actions.
+        
+   `!*`7 "`&KILL <name>`7" - Puts you into combat with the character. This  
+   is the most basic way to enter combat, and you can substitute 
+   this command for "`^hit`7". They all do the same thing.
+       
+   `!*`7 "`&FLEE`7" - When you get in trouble (and you definately will at
+   some point) you'll need to get away. Typing flee will remove you
+   from combat and send you into a room 1  away. If you have no
+   rooms near you, then you won't be able to flee and will need to
+   find other means of escape like recall.
+        
+   `!*`7 "`&RECALL`7" - From level 1-10 you can use this ability to get away
+   and bring you back to 'The Temple of Mota'. It is 1 south from
+   healers, and is a good way to escape danger from mobiles. On this
+   mud we have mob chasing which means that the mobiles do run after
+   you if you run away. Keep this in mind when you get into trouble.
+        
+   `@*** `2For more information you can also type help on: `@CONDITION`7
+~
+-1 MUDSCHOOL~
+`$MUDSCHOOL `7(`4Where to go and what to kill`4) - This gives you a general
+idea of where to start at and what your character needs to do. "`^help
+leveling`7" will pull up a list of areas and mobs you can kill from 1-10,
+and general idea of direction to head in. This is not a complete list, 
+but a general guideline. Other players will know best how to advance your
+characters. Also, it will contain skills and spells you should practice,
+which is also a guideline. Again utilize players as a resource for 
+information.
+
+1) You come in at Mud School Entrance, so I will give directions from
+there. If you get lost just type "`^recall`7" and then "`^u`7". Go 1
+north and then 1 west. You will see "The Adept of Diem". This will 
+put you at a place where you can train.
+
+   `!*`7 `&TRAIN`7 - Trains are used to up your stats like hit  
+   points (life energy or HP), and mana (used for casting spells).
+   It can also be used to buy skills/spell groups you didn't buy
+   when you created your character. "`^help gain`7" for more details.
+
+2) After training you'll need to practice. In order to do this you
+must find a place. In Mud School you go 1 north and then 1 east to
+"The priest of Asmodeus" where you can practice. If you are at where
+you trained, then it would be 2 east.   
+
+   `!*`7 `&PRACTICE`7 - Practices are used for your skills/spells
+   and your profiency at using them. Typing "`^practice`7" by itself
+   will give you a list of all your skills and spells. You'll probably
+   want to practice whatever weapon you chose initially. You'll see 
+   something like "dagger              40%". 75% is maximum you can
+   attain through practicing. So you will want to get it as close to
+   that as possible. To do this you would type "`^practice dagger`7". If
+   you want to practice other things you can, but it would be advised
+   to ask for help on what is good to focus on initially.
+
+`@NOTE`2:`7 Typing "`^score`7" will show you stats, and you'll notice
+you started off with 3 trains and 5 practices.
+
+3) From here you will want to collect equipment. You should be
+familiar with reading about manipulating equiment and how to fight,
+but now is where we put it to the test. 
+ 
+   `!*`7 From Mud School Entrance you will want to go 1 north, and you
+   will notice a backpack on the floor. So "`^get backpack`7" to grab 
+   it, "`^open backpack`7" since it's closed, and "`^look in backpack`7"
+   to see what's inside. Sometimes you'll see some iron rations so you
+   can "`^get ration backpack`7", "`^get all.ration backpack`7", or just
+   "`^get all backpack`7". From here you'll need to go 1 north to get 
+   the canteen on the floor. To verify you have all this type "`^inv`7".
+   In order to eat you would just type "`^eat ration`7" and to drink type
+   "`^drink canteen`7".
+
+   `!*`7 Now we move onto getting stuff you can wear. From Mud School
+   Entrance you would go 2 north, 1 west, 2 north, 1 west, and 1 down.
+   If you type "`^scan`7" you will notice monsters in almost every
+   direction. You can pick any direction, and go there. Some of them
+   will be aggressive and attack you automatically, but if they don't
+   just type "`^kill monster`7". If you notice you get low on hps then
+   type "`^flee`7" and you'll be back at "The Adept of Dreyus" who will
+   heal your wounds. Once you defeat one of these monsters you'll need
+   to get their equipment from them by typing "`^get all corpse`7". Now
+   that you have this, you want to put it on. An easy way is just to
+   type "`^wear all`", but you can also wear each peice individually. If
+   you get stuck just refer to the "`^help movement`7" section of the
+   Newbie help file. Now that you've done this, repeat this to each of
+   the drections from Dreyus, north, east, south, west.
+
+   `@NOTE`2: If you die you will be put in the "Morgue". To get out of 
+   there just type, "`^stand`7". From there you will go 1 up, 1 south,
+   and 1 up to get back to Mud School Entrance.
+
+   `!*`7 You should be wearng a decent amount of equipment at this point,
+   and if you type "`^score`7" you will notice you have more hps as well.
+   A good idea at this point is to sit at "The Adept of Dreyus" and just
+   wait for him to heal you back up to full hps. Once there then go 1 down,
+   1 east, and 1 north. You will probably notice a small and big creature.
+   These are much more difficult than the other monsters you were fighting
+   before, so you might have to take advantage of the option to "`^flee`7".
+   At this time you will need to keep in mind that some mobs hunt you. This
+   means that after you flee they will come after you. So if this happens 
+   then run back to "The Adept of Dreyus" which is a safe room, where you 
+   cannot be attacked.
+
+   `!*`7 After both creatures are dead you'll notice you have a key in your
+   inventory. If you go back 1 south to where you see just a North and West
+   exit and type "`^scan`7". You should see "A closed door right here to the
+   east." To open this door you can either unlock the direction by typing
+   "`^unlock east`7" or the door's name by typing "`^unlock door`7". Now you
+   can open it by typing "`^open east`7" or "`^open door`7". Now you'll want
+   to go back and heal at Dreyus, but if you feel confident go back 1 east.
+   Here you will see a hideous diploma beast which you can defeat for a mud
+   school diploma. 
+
+Congradulations!! You have passed Mud School and now you are fully equiped 
+and ready to rumble. Watch out Shadows of Time!!
+~
+-1 LEVELING~
+`$LEVELING `7(`4What do you do now?`7) - After going through Mud School you
+are ready to start the process of leveling. Everytime you advance a level
+you will want to go back to Mud School to practice and train. Directions
+from this point on will be given in reference to "Within the Healing Chamber"
+(also called healer) which is 1 north from recall or "The Entrance to the
+Healing Chamber". This is a safe room you can go to heal up without worries
+of being attacked by mobs or players. We will also refer to the creatures you 
+fight as "mobs" which is short for "mobiles".
+
+`@NOTE`2:`7 Make sure you see how hard a mob is before you fight it and type
+"`^consider <target>`7" to see how difficult a mob is.
+
+1) Now you have to decide which area to go to. There are two major places
+for you to level until you hit level 6. You can go 1 south 1 up and south
+from healer and kill any of the mobs in the area. But be careful, because
+if there is more than 1 mob of the same type (like two lizards) then they
+might help each other out and quickly kill you. To counteract this you can
+push them out of the room by "`^push <target> <direction>`7" (like "`^push
+lizard east`7").
+
+2) Another area you can go to is Darkfriend's Lair which is 3 south, 3 west,
+3 south, and east from healer. This area is probably the easier of the two
+but runs out of mobs to fight fairly quickly.
+
+3) After reaching level 6 you will notice you don't get very much experience
+from these mobs and need to find a new source of destruction. A good place 
+to start is Gleeman area or Ratahl. From Pella the healer, you can go to 
+Gleeman area by heading 3 south (A Beautiful and Magnificent Square in 
+Whitebridge), 28 east along Caemlyn Road, 1 north (Caemlyn Road just past
+Four Kings), 13 east (Center Market Square in New Thalos), 11 north 
+(Beginning of Fantasy Road), 4 west (Before the Gleeman's Passage), 6 north 
+(A Storage Room).
+
+Machael, the Master Gleeman is another safe room/healer. You can also 
+practice and train here. Typically from 6-10 you want to kill mouse and
+rats you find (rats will be hidden so you would need to ask for a potion of
+detection to see them). Also you can go to Ratahl which is 6 south from
+Master Gleeman and west. Wandering around there you can fight the black
+beetles. As you go up levels you can fight the maids, and other mobs.
+Generally you can stay in this area until you hit level 20-25.
+
+4) Whenever you hit level 11 you'll want to try to get a new set of equipment.
+To do this you can ask for help or try yourself. Wandering around Whitebridge
+(the city you started in) you can look for town watchman. They carry equipment
+which is a step up for your initial issue equipment. Be very careful because
+these mobs are deadly as well.
+
+Good luck!! This should get you going and in the right direction. Make sure to
+use the novice or ooc channels to ask for help. Remember it's a giant learning
+process so don't expect to get it right the first time.
+~     
+-1 INTRODUCTION REMEMBER FORGET~
+You walk down the street, and you don't know everyone you see, right? That's
+the way it is here as well. You can recognize someone only by their age, 
+nationality, and gender. Through roleplaying they can reveal their identity
+to you so you know who they are.
+
+`$SYNTAX`4:`7
+`&remember <descriptors> <name>`7 - With this command you can associate anyone
+you see by their descriptors. For instance if you see "a middle-aged illian man"
+you could type "remember illian Diem" or "remember man Diem". Or using a ' you
+can us multiple words like "remember 'a middle-aged illian man' Diem". You can
+also reassociate a name like "remember Diem SuperDiem".
+`&forget <name>`7 - If you mess up on a name and don't want to reassociate you
+can just start over by typing this in.
+~
+-1 AFK~
+Typing AFK puts your character in a tell-saving mode as follows: any tell
+to you is stored in a special buffer, and can be seen later by typing   
+replay.  This is useful when you need to leave the mud for 5 or 10 minutes,
+but don't want to miss tells.  AFK shows up in your prompt until it is
+turned off.
+ 
+Tells to link-dead players are stored in a similar fashion, and can also be
+seen by typing replay (unless, of course, the character logs off before
+reading them).
+
+Ignorance is no excuse from now on.  If you feel the need to harrass players
+while they are afk, then the IMMs will feel the need to punish you just as
+quickly. Once again, DO NOT MESS WITH AFK PLAYERS.
+~
+-1 CASTING WEAVE WEAVING CHANNELING SPELLS SPELLCASTING~
+The One Power is a strong power that enables you to take advantage of your half
+of the True Source; saidin or saidar. Saidin is the male half, and saidar the
+female. It is also seperated into five powers: Fire, Earth, Air, Water, and
+Spirit. Different patterns you weave take advantage of different powers on
+varying amounts of strength.
+    
+`$SYNTAX`4:`7
+`&weave <spell> <target>`7 OR `&channel <spell> <target>`7
+`&spell <none/level/all`7 - List of spells, their level, and mana costs.
+`&power # # # # #`7 - Modify your five powers "help powers".
+`@NOTE`2:`7 If casting a spell that requires multiple words like detect invis,
+then use 'detect invis'. IE: "cast 'detect invis' monster.
+
+Before you weave a spell you must practice it. Also, the <target> is optional.
+Many spells which need targets will use an appropriate default target, especially 
+during combat. You can also type "spell" for a list of known weaves, or "spell      
+all" for a list of all available spells. This also includes the mana costs for      
+each spell. 
+~
+-1 DROP GET GIVE PUT TAKE HOLD REMOVE WEAR WIELD ISTAT LSTAT~
+Objects can be manipulated in several different ways dependant on where
+they are, what they are, and what you want to do with them.
+
+`$SYNTAX`4:`7
+`&drop <object>`7               - Drop an item from your inventory.
+`&drop <amount> gold/silver`7   - Drop gold or silver onto the ground.
+`&get <object>`7                - Get an object from the ground.
+`&get <object> <container>`7    - Get an object from a container in
+your inventory, worn, or on the ground.
+`&give <object> <character>`7   - Give an item in your inventory to
+someone else.
+`&give <amount> gold <target>`7 - Give gold or silver to another person.
+`&put <object> <container>`7    - Put an object into a container in
+your inventory, worn, or on the ground.
+`&remove <object>`7             - Remove an item you are currently wearing.
+`&wear <object>`7               - Wear an item that's in your inventory.
+`&istat <level>`7               - Based on the level of the item it will
+tell you what level you need to be to wear.
+`&lstat <level>`7               - Tells you up to what level equipment you
+can wear based on your level.
+
+Objects can also use "all" as a modifier or "all.<object>" to wear all objects
+that meet that name criteria (IE: "wear all.initial" would wear everything in
+your inventory that has "intial" as a keyword).
+~
+-1 INFO~
+        
+        Welcome to `&Sh`7ad`8ows `&o`7f `&T`7im`8e`7! If you are a new to
+this mud, please type "`&HELP NEWBIE`7". It will provide a good starting
+spot. Also, be sure to check out "`&HELP`7" for a directory of help topics
+to learn from. Players and Immortals are here to help. Ask them any
+questions or let them know if you need assistance.
+
+~
+-1 NAME~
+`7Although Shadows of Time doesn't require name authorization, we do require
+names that fit into the roleplaying theme of the game.  They do not have to 
+be strictly Wheel of Time book names, but should at least sound medieval fantasy
+based. Please keep this in mind with picking a name, and if you need help take 
+advantage of our random name generator by typing either "`&male`7" or "`&female`7" at the
+prompt otherwise to create a new name, just type it at the prompt.
+
+`$New Name`4: `7~
+
+-1 CUSTOMIZE WIMPY SHOW BRIEF COMPACT ALIAS TITLE~
+There are several diffrent commands available that let you configure what 
+you see and your actions in the mud. Each of these will give you a unique
+feel on the mud.
+
+`&WIMPY`7    : Sets a level of hit points at which you will attempt to
+             flee. Also, sets the level for 'mana shield' spell to wear
+             off. "wimpy #" to set the amount.
+`&AUTOLIST`7 : Configures a variety of automatic changes like displaying exits,
+             looting equipment from corpses, sacrificing corpses, etc. Just
+             type "autolist" by itself and then run whichever command you want.
+`&SHOW`7     : Displays spells affects in who by typing "show".
+`&PROMPT`7   : Alter this to display whatever you want. Type "help prompt" for
+             a list of modifiers.
+`&BRIEF`7    : Toggles short and long room descriptions when moving.
+`&ALIAS`7    : Create shortcut keys with this. Just type "alias <keyword>
+              <string>". (IE: "alias di weave 'detect invis'" would set it
+             so di would cast detect invis.
+`&TITLE`7    : Change your "the Newcomer" to whatever you want in the who by
+             typing "title <string>"
+`&DESC`7     : Affects what people see when they look at you. Tell them what
+`7           you look like and modify it by typing "help desc".
+`&SCROLL`7   : Allows you to set how long your display will be before putting
+             a character that requires a return. Default is 25, but you can 
+             set it higher by typing "scroll on" for infinite or "scroll #"
+             for a particular number of lines.
+~
+-1 RESTRING~
+Restring is a command to restring an item of your choice with the
+description that you like. This is to allow more customization of
+your character, and enhance roleplaying in the game. You must have
+a `$R`4estring `!C`1oupon`7 in your inventory and the item you wish
+to restring.
+
+`$SYNTAX`4:`7
+`&restring <item name>  `7- Puts you in restring mode, confiscating both
+your coupon as well as the item.
+`&restring show         `7- Shows you the current status of your item
+`&restring done         `7- Exit restring mode and get your object back.
+`&restring short <desc> `7- Restring the short of the object to <desc>  
+`&restring long <desc>  `7- Restring the long of the object to <long>    
+`&restring <enter>      `7- Show syntax
+
+`@NOTE`2: Keywords for the item are set the same as the short
+description, but without color.
+~
+-1 OFFICIALSPONSOR~
+Here's a copy of the letter that was sent to us upon request for permission
+to use the Wheel of Time theme in our MUD. For a scanned copy you can find
+it on our website `&www.shadowsoftime.com`7.
+
+(Diem's Address. Sorry, not gonna give that out)
+
+Dear Jordan
+
+We thank you very much for inquiring about this topic. You are the first
+third party game that has come forth and has claimed the fact that they
+are infringing copyrights. Consequently we would greatly accept your offer
+to become the official text based mud of the Wheel of Time series. We
+understand that there are around 34 of these games, and we greatly
+appreciate your approach to the situation.
+
+TOR and FORGE have given you permission to use any or all Wheel of Time
+trademarks in the improvement and construction of your free game, as long
+as it remains free to all fans and players.
+
+Respectfully,
+
+(Tom Doherty's signature)
+
+Tom Doherty
+c/o Tor Books,
+175 Fifth Avenue,
+New York NY
+10010
+~
+-1 BOOKS STUDY~
+There's always more to learn, and things you don't understand. Once you
+reach max level and even before, there is much more than just leveling.
+One added bonus is Books where you can learn new and unusual skills and
+spells.
+
+`$SYNTAX`4:`7
+`&quest turnin study`7 - Requires `#A C`&oupon `#of S`&tudy`7  with which you
+obtain the study skill so that you can read books.  Without the study skill, 
+books will be only so much extra useless baggage.
+
+`&study <book>`7 - Allows you to gain knowledge of the skill contained in the 
+pages that you study.
+
+`$TYPES`3:`7
+`&A Book of Save Life        `7- help save_life
+`&A Book of Scrying          `7- help scry
+`&A Book of Taming           `7- help tame
+`&A Book of Storekeeping     `7- help storekeeping
+`&A Book of Coupling         `7- help couple
+`&A Book of Horseback Riding `7- help horseback
+`&A Book of Unravel          `7- help unravel
+~
+-1 SAVE_LIFE 'SAVE LIFE'~
+A Book of Save Life grants the ability to syphon half of your current
+hit points to any desired target. While severly weakening you it can
+mean the difference between life and death for the target.  
+
+`#SYNTAX`4: `&weave/channel 'save_life' <target>`7
+~
+-1 SCRYING~
+Tracking by normal means is slow and sluggish, and somewhat of a guessing
+game. Scrying is an ability that gives you clairvoyance to see the room
+that the target is in from any distance. An ability like this would 
+allow you to see what they were doing, who they were doing it with, and 
+more importantly where they are.
+
+`$SYNTAX`4: `&scry <target>`7
+~
+-1 TAME TAMING~
+A steed can be expensive, so why not just find one in the wild? Well
+without this skill you would not be able to accomplish this. It does
+of course require the skill to actually ride horses.
+
+`$SYNTAX`4: `&tame <target>`7
+~
+-1 COUPLE COUPLING~
+One of the most coveted secrets of the One Power is the ability to use
+multiple weaves at once. Those who master this skill have around a 33%
+chance of a spell going off in addition to the normal one they cast.
+Any spell can be coupled to another provided it is not a direct damage
+spell (like combat group, dracs, energy drain, etc). This leaves lots
+of room for creativity.
+
+`$SYNTAX`4:`7
+`&couple # spell spell`7 - You can coupon # 0-4 where the first spell 
+is the trigger spell and the second spell is the coupled spell. (IE:
+"couple 0 'dispel magic' 'fear'" would have a chance to cast fera each
+and every time you used dispel magic.) 
+`&couple show`7          - Shows a list of current spells coupled.
+~
+-1 HORSEBACK RIDING REIN SPUR MOUNT DISMOUNT GALLOP~
+As fast you are on foot, a horse provides you greater speed. Another
+advantage of riding a horse is potential for more damage as well as
+better defense. However, once your horse dies you must spend a little
+bit of time getting back up, and suffering the remainder of damage
+which was inflicted on the horse. Horses can be either bought at a 
+Pet Store, or found in the wild and tamed through the Book of Taming.
+
+`$SYNTAX`4:`7
+`&mount <target>`7 - Once you have a horse following you, all you have
+to do is to mount it.
+`&dismount`7       - When you are through riding your horse then just
+jump off and discharge it if you need to.
+`&spur`7           - One of the greatest benefits of a horse is the
+ability of it to gallop. While spurred a horse moves 2 rooms at a 
+time instead of the normal 1 (like you do. You cannot gallop if 
+there is only 1 room to a wall, so you need the full 2 spaces.
+`&rein`7           - Reining a horse will stop it's gallop and
+restore normal pace of 1 room per move used.
+~
+-1 UNRAVEL~
+What can be done, can also be undone. The One Power can be used in this
+instance to unravel the weaves of another spell. It can only be used on
+portals/gates and personal spells, but not on spells cast on others.
+
+`$SYNTAX`4:`7
+`&weave unravel <spell>`7 - Unweaves a spell cast on you personally.
+`&weave unravel portal`7  - Unweaves a target portal.
+~
+-1 QUESTMASTER QUESTING QP QUESTPOINTS 'QUEST POINTS' QUEST_POINTS TURNIN TOKEN~
+There are two basic types of quests in the game; questmaster or immortal
+run quests. Questmaster quests are automated and require no intereaction
+from the immortals. Immortal run quests are special events taking place
+at the whim of the staff, and offer greater rewards than normally
+avialable to players. Immortal quests are typically announced through
+the note boards, but can be sporatic as well. Below we will be discussing
+the QuestMaster and the nuances involved with using him.
+
+`$SYNTAX`4:`7
+`&quest                 `7- Shows a list of most of the possible commands.
+`&quest points          `7- Displays your total quest points earned.
+`&quest info            `7- If you have forgetten the details of the quest you
+are in this will fill you in.
+`&quest time            `7- Indicates how long you have remaining on a quest
+if you are on one, or the time remaining until you can quest again.
+`&quest request         `7- Requests a quest.
+`&quest complete        `7- Completes a quest if you have obtained the 
+proper requirements for finishing.
+`&quest list            `7- A list of available items the QuestMaster sell
+and their related prices.
+`&quest buy <item>      `7- Buy an item on the quest list.
+`&quest buy token #     `7- Withdraw an amount of quest points with a 10%
+fee deducted at creation of token.
+`&quest turnin <type>   `7- Redeem prize coupon, a token, rename, or restore.
+`&quest abort           `7- Quit a quest you can't complete.
+`&quest answer <answer> `7- Complete a riddle quest with the answer.
+
+`@Quest Types`2:`7
+`&Hack 'n slash `7- Find the mob, kill it, and that's it.
+`&Retrieval     `7- Based on the hints avialable, try to track down
+the items location, and give it back to QM.
+`&Rescue        `7- A mob's in trouble, and you have to kill the
+attacker before they killt he mob.
+`&Riddle        `7- The most difficult of quests, perhaps because you
+have to actually think about this one. It also gives the best of
+all rewards.
+~
+-1 CLASS ARCHER ASSASSIN CLERIC FORM_MASTER 'FORM MASTER' ILLUMINATOR MAGE ROGUE WARRIOR~
+This is a brief description of each class and particular commands which
+could be helpful in learning them.
+
+`&ARCHER      `7- While not strong at close combat, they have a particular
+ability to fire arrows up to 8 rooms. As far as classes go they are one
+of the more difficult. 
+`&ASSASSIN    `7- Stealthy and deadly are two words synonmous with this 
+class. Their deadly art allows them to make up for less combat abilities
+than warriors by dealing massive amounts of damage quickly, and
+outlasting their opponents.
+`&CLERIC      `7- Curative powers are never to be underestimated. With healing
+ability comes deadly powers as well. They defeat their enemies by remaining
+ever vigilant and healing themselves.
+`&FORM MASTER `7- Almost completely not orientated with the True Source, they
+have made it up with an arsenal of deadly attacks.
+`&ILLUMINATOR `7- Closely guarded is the deadly art of making bombs, and an
+Illuminator remains alive not by their ability to do damage. Instead they
+rely on their bombs and personal powers at avoiding damage. There are many
+bomb types that allow them to vary their styles.
+`&MAGE        `7- Extremely weak when it comes to physical combat, there is a
+tremedous storm that rages within. It burns with the One Power, and permits
+them awesome use of this ability.
+`&ROGUE       `7- Thievery is an artform. While prefering to stay out of combat,
+they still manage to come out with a hefty profit.
+`&WARRIOR     `7- Straight weapon damage is what they rely on. No fancy tricks,
+or weaving of spells. They just do damage.
+~
+-1 VOTE VOTING~
+Even though this is not a democracy we still want to know how you feel
+about issues that concern you. Keep in mind that just because an item is
+being voted on it doesn't mean it will happen. So if the topic is "Should
+we PWIPE?", don't freak out. Just take it in stride, vote how you feel,
+and realize we are educated and concern with how the players feel.
+
+`$SYNTAX`4:`7
+`&vote show`7             - Displays the current vote and it's %s.
+`&vote for <reason>`7     - Vote for a topic. If you leave off your reason
+then you still vote for it. The reason is to tell us why you agree.
+`&vote against <reason>`7 - Vote against a topic. Same as for, the reason
+just allows us to know why you disagree with it.
+
+`@NOTE`2: You can also tell us what other possibilities we should be
+considering. Maybe a variation of the current topic would be better.
+~
+-1 BONUS_TIME 'BONUS TIME' MINUS_TIME 'MINUS TIME' BONUS2X BONUS3X~
+Bonus time is the greatest thing in the world; this world at least. It can
+come in several shapes and varieties, but it's an experience multiplier. What
+this means is that during bonus time you will get more experience than normal.
+For instance, if it was 2x bonus time then that means if you would have gotten
+1000XP for a kill you would get 2000XP instead. Great?! Bonus time can be
+achieved by buying it through "roleprize", "gameinfo", or generally given by
+an immortal. Be wary though, asking for bonus time can sometimes get you 
+minus time, which is an experience reducer! Bonus time comes in the 2x, 3x,
+4x, and the seldom seen but always desired 5x types.
+~
+-1 GAMEINFO GAME_INFO 'GAME INFO'~
+Who says we never give you anything for free? This is a rotating counter
+that functions off of mobile deaths. Everytime a mob dies it counts down
+1 on the counter. When one of the counters reaches 0, the effect goes off,
+and it's reset again.
+
+`$SYNTAX`4: `&gameinfo`7
+
+`@Gameinfo Types`2:`7
+Armor Bonus!     - Weaves the spell armor on you as a level 80.
+Shield Bonus!    - Weaves the spell shield on you as a level 80.
+Bless Bonus!     - Weaves the spell bless on you as a level 80.
+Sanctuary Bonus! - Weaves the spell sanctuary on you as a level 80.
+Restore Bonus!   - Restores you to maximum hps/mana/move, and removes
+any unwanted spells.
+Bonus Time!      - 2x experience multiplier. "help bonus"
+Quest Reset!     - Resets the list of items at Questmaster "help quest".
+~
+-1 ROLEPRIZE RPPOINTS~
+Roleprize can be done through the healer in Midgaard. It serves two
+purposes; rppoints and legends. You can use your rppoints to purchase
+any number of things, or you can use it to go legend (or for most of
+us see how far you are away).
+
+`$SYNTAX`4:`7
+`&roleprize legend     - Become a level 76 legend if you meet the standards.
+`&roleprize list       - Get a list of what you can buy and for how much.
+`&roleprize buy <item> - Actually purchase something on the list.
+~
+-1 RESTORE~
+Whether granted by an immortal, automatic from a level, or part of 
+gameinfo this can change the dynamic of everything. Lets just hope 
+it happens at the right times for you. This will completely restore
+your hit points, mana, and movement to maximum capacity. As well as
+remove any unwanted spells such as plague, poison, blindness, or any
+other ailments.
+~
+-1 STRENGTH INTELLIGENCE WISDOM DEXTERITY CONSTITUTION ATTRIBUTES~
+Attributes are the defining characteristics of your players abilities.
+They distinguish your abilities. Each character will have their own 
+strengths and weaknesses.
+
+`@Attribute Types`2:`7
+`&Strength`7     - This affects how hard you hit, how much you can hold,
+and any number of strength related skills. Also it affects the maximum
+weight of the weapon you can wield.
+`&Intelligence`7 - How smart are you? Each level you gain, the mana you
+are awarded is partially determined by your level of intelligence. This
+also affects how quickly you learn new skills and spells.
+`&Wisdom`7       - How many licks does it take to get to the center of a
+tootsie(TM) roll pop? The Wise Owl knew, and he just ate it. This clever
+attribute affects how many practice sessions you get each level.
+`&Dexterity`7    - Stick and move. Move like a butterfly, sting like a
+bee. Well the sting is strength, but the moving is pure dex. Dexterity
+is your aptitude for movement. It affects your ability to dodge, parry,
+evade, or any number of defensive abilities. It also affects your armor
+class, and how much movement you get per level.
+`&Constitution`7 - Kick me in the jimmy! This entirely affects how many
+hit points you get per level. Each statistic is vital, as is this one.
+~
+-1 'RP LEVEL' RPEXP 'RP EXP' RPLEVEL RPEXPERIENCE RPPOINTS~
+Roleplaying is a tremedous part of the mud, and we like to reward you for
+the rping you do do. In this, "says" and "emotes" give you rpexp. When you
+accumulate enough rpexp you advance an rplevel. Each rplevel gives you a
+few hps, mana, movement, a practice, and a rppoint. These rppoints can be
+redeemed at the healer in Midgaard using the "roleprize" command. Keep in 
+mind that says and emotes are logged, and there is anti-abuse code in
+place. So please use it respectfully. You can view your current rplevel,
+rpexp, and rppoints through "score".
+
+`@NOTE`2:`7 RPpoints can also be awarded by imms for extremely well done
+roleplay.
+~
+-1 PRACTICE SKILLS~
+The aptitude you have with a skill or spell is determined by the percentage
+you have with it. The higher the proficency the more successfully you can use
+it, and with some skills once you reach 100% you get added bonuses. With
+practice sessions you acquire through various means you can practice it up
+to 75%. However, you don't always want to practice it exactly to 75%. If you
+practiced it and were at 72% then it would be a waste to use another practice
+to raise it only 3%, so take it as an educated decision.
+
+`$PRACTICE`4:`7
+`&practice               `7- A full list of your skills and spells with %.
+`&practice <skill/spell> `7- Practice an individual skill/spell.
+`&skills                 `7- List of skills, their %, and level you obtain it.
+
+`@NOTE`2: `7If you are practicing a skill or spell with multiple words you can
+use a ' to use more than one word. A good example would be if you have detect
+invis and detect hidden, and when you type "practice detect hidden" it would
+practice detect invis. "practice 'detect hidden'" would be the proper way.
+~
+-1 TRAIN~
+Besides being able to practice your skills and spells, there is another
+somewhat more powerful ability to increase your own body. It can be done
+by either increasing your vitality (hit points) or the power which you
+can hold of the One Power before exhaustion (mana). New skills and groups
+of spells can also be obtained through the "`^gain`7" command.
+
+`$SYNTAX`4:`7
+`&train hp`7   - Adds 10 hps to your total vitality.
+`&train mana`7 - Adds 10 mana to your total One Power held.
+~
+-1 COINS EXCHANGE OTHO GOLD SILVER BANK DEPOSIT BALANCE WITHDRAW~
+Money is the driving force in life. With it you can afford just about anything.
+In this world, along with quest points, gold and silver is the monetary system
+of choice.
+
+`@Conversion`2:`7
+`&silver`7 - 1 silver = 1/100 gold
+`&gold`7   - 1 gold   = 100 silver
+
+`@Exchanging`2:`7
+`&give <amount> <type> <exchanger>`7 - When you find a gold exchanger, then you
+give them the amount of gold and they give you back the other type minus a small
+fee. Otho is a good example of one, who is located in Midgaard. He can be reached
+3 south, 3 west, 2 north, 2 east, and 1 south from healer. (IE: "`^give 1000 silver
+otho`7", he would return 9 gold and some silver.
+
+`@Banking`2:`7
+`&balance`7                  - Current total despoited gold and silver.
+`&deposit <amount> <type>`7  - Add more to your total balance.
+`&withdraw <amount> <type>`7 - Remove some gold or silver from your balance.
+~
+-1 DONATE DONATION SACRIFICE~
+What do you do when you no longer with to keep a peice of equipment? Well you have
+two choices; donation or sacrifice. Sacrificing an item will basically melt it down
+to it's most basic elements and give you a partial amount of the value in gold and
+silver. The other option is to donate the equipment to the donation room in Midgaard,
+which is located 1 down from healer.
+
+`$SYNTAX`4:`7
+`&donate <item>`7    - Donates a peice of equipment to Donation Room.
+`&sacrifice <item>`7 - Remove the equipment from the game and get a little gold.
+~
+-1 'FIVE POWERS' POWERS FIRE EARTH AIR WATER SPIRIT 'TRUE SOURCE' TRUESOURCE TRUE_SOURCE ONEPOWER 'ONE POWER' ONE_POWER SAIDIN SAIDAR~
+The True Source is the driving force behind "magic" in the Wheel of Time. It is divided
+into two halves; saidin and saidar. Saidin is the male half, and saidar is the female.
+It is further broken down into five powers; fire, earth, air, water, and spirit. Any
+channeling you do is done through use of a single power or a complex weave of several
+powers. So by altering your strengths in powers you will find some of your abilities
+will be stronger than others. The higher the power the higher the level at which you
+have the ability to use at.
+
+`$SYNTAX`4:`7
+`&power <fire> <earth> <air> <water> <spirit>`7 - You can affect each power by a range
+of 1-3, but with a total of 10 points to divide among all of them. So you could choose
+the default which is "`^power 2 2 2 2 2`7" or vary it any way you wish like "`^power 1
+2 3 1 2".
+~
+-1 DELETE~
+No, don't do it!! What a world, what a world. Everybody else is staying, why don't you?
+Don't be weak! You wuss, sure take the easy way out.
+
+`$SYNTAX`4:`7
+`&delete`7 - Type it once you're ok, but type it twice and you're not so .. ok .. or
+anything else for that matter. Hey wait, you're not matter either!
+~
+-1 ISPELL~
+This skill helps you with the hardest part of playing this game; proper spelling. It
+contains a dictionary of words that can be used to obtain proper spelling of most
+words.
+
+`$SYNTAX`4: `&ispell <word>`7
+~
+-1 COPYOVER~
+This is like a warmboot. It reloads the mud without inconveniencing the players.
+The process is done as opposed to shutting down the mud, and then booting it back
+up again. Cold boots like that severe your connection and force you to reconnect.
+~
+-1 TAG~
+Tag is a flag that is passed around by everyone who joins. This can only be started
+by an immortal, and the flag is passed when you die to the person who kills you.
+~
+-1 CRIMINAL MURDER~
+In place of a simple Out-of-Level punishment system, we have adopted a more complex
+Criminal/Murder system. This can be awarded by Guide or added under very specific
+conditions, such as stealing from someone out of range or killing them.
+
+The criminal flag is a 300 tick flag that prevents you from being safe, and when
+you die you don't lose anything. If you advance to a murder flag then you have
+to endure the same 300 tick counter, but if you are killed you lose 10% off of
+all of your skills and spells.
+~
+-1 TICK~
+Many of the game actions are based upon interval timers, including combat,
+most autonomous monster actions, hp/mana/move regeneration, spell duration,
+weather, and area resetting.
+
+Of these timers, the hp/mana/move regeneration timer is popularly called the
+'tick'.  Ticks on this mud average 30 seconds of real time, but the actual  
+amount varies randomly from 15 seconds to 45 seconds.
+
+Area resetting happens roughly every 3 minutes if no one is in the area; less
+often (15 minutes) if some one is.  Also note that objects lying on the ground
+will not be regenerated if anyone is in the area when it resets.
+~
+-1 ORDER GROUP GTELL FOLLOW DISCHARGE~
+You can form alliances with someone and become a group rather just have to
+be individuals. Once grouped you share experience earned from killing, and
+using some of the auto flags such as autoassist and autosplit you can take
+advantage of grouping. If you joins someone's group then you will follow
+them, but you cannot follow if they have "nofollow" turned on.
+
+`$SYNTAX`4:`7
+beckon <name>        - Social to indicate to someone who wish them to follow.
+follow <name>        - Follow someone's movements (Required for grouping).
+group <name>         - Toggle joining/removing someone from your group.
+group                - Display statistics on all group members.
+gtell <message>      - Send a message to everyone who is in your group.
+nofollow             - Toggle ability of others to follow you. If others are
+following you and you turn following off, then they will be ungrouped.
+order <who> <action> - Order a mob to take an action (IE: "`^order all flee`7")
+discharge <name>     - Ungroup a mob and remove it from the game.
+~
+-1 REST SLEEP STAND SIT WAKE~
+There are varied positions which affect your ability to perceive the world
+you are in, movement, and rate at which you recover health and power. 
+
+`$POSITIONS`4:`7
+`&stand`7 - Position of moving, slowest heal rate.
+`&rest`7  - Resting position increases health rate but still allows you to
+see all activity within the room you are in.
+`&sit`7   - Similar to resting you can see activity in the room you are in.
+`&sleep`7 - Fastest healing rate, you are more vulnerable to attacks and 
+cannot see anything in the room you are in.
+`&wake`7  - Wake from sleeping position, stand also works.
+~
+-1 WHO WHOIS~
+Who and whois show who is currently in the game, which are visible to be
+seen. Some may not be able to be seen either by weaves such as invisibility,
+hide skill, shroud gskill, or wizi/incog (Immortals Only). 
+
+`$SYNTAX`4:`7
+`&who`7               - Complete list of everyone who is online.
+`&who <level-range>`7 - List of players within a certain level range.
+`&who <class>`7       - Search who for a specific class.
+`&who <guild>`7       - Everyone in a certain guild which is online.
+`&whois <name>`7      - Display everyone meeting name criteria.
+
+`@NOTE`2: `7Each modifier within "who" can be used in conjunction with others.
+
+`$EXAMPLES`4:`7
+`&who 10`7           - All players level 10 or above.
+`&who 15 20`7        - Players within the range of level 15 to 20.
+`&who warrior`7      - Warriors who are currently online.
+`&who immortal`7     - List all immortals which are visible.
+`&who warrior 1 5`7  - Warriors within level 1 to 5.
+`&who aiel`7         - All players on in the [`4AIEL`4] guild.
+`&who aiel warrior`7 - Warriors which are also in the [`4AIEL`4] guild.
+~
+-1 WHERE~
+Shows you the location of players or monster in the same area that you 
+are currently in.
+
+`$SYNTAX`4:`7
+`&where`7          - Shows all players in the area, but not mobiles.
+`&where <target>`7 - Search for a specific player or mobile.
+~
+-1 HELP~
+Type "`^help <topic>`7" for help on a subject. For a directory of help 
+topics please visit `&www.shadowsoftime.com`7. 
+
+`$SYNTAX`4: `&help <topic>`7
+~
+-1 DESCRIPTION~
+Descriptions are used for added roleplay and are considered in character.
+This is what you see when you look at another player.
+
+`$SYNTAX`4:`7
+`&desc <string>`7   - Sets the first line of your description.
+`&desc + <string>`7 - Adds a line to your description for multiple lines.
+`&desc -`7          - Removes the last line added.
+~
+-1 PASSWORD~
+It is important that you keep your password safe and private from other
+players on the mud. Any complaints of character stealing will be dealt
+with on an individual basis. Consequently if you use a password that
+is that easy to gain access to, you will not be given any reimbursements
+or likewise. Bad passwords include: Your Guildname, Your First/Last/Middle
+names, Your telephone number, your pets name, your girl/boyfriends first/last
+middle names, etc. We suggest at least a 10 character alphanumeric password 
+(numbers and letters).
+
+`$SYNTAX`4: `&password <old> <new>`7
+~
+-1 OPEN CLOSE LOCK UNLOCK~
+This includes manipulation of containers and doors. Not all containers can
+be opened/closed, and not all doors are lockable. Pick lock skill is used
+when you wish to unlock a door which you don't have the key.
+
+`$SYNTAX`4:`7
+`&open <object/direction>`7   - Open an object by name or if a door by its
+direction. 
+`&close <object/direction>`7  - Same as open, but now you are closing it.
+`&lock <object/direction>`7   - Lock a door which is closed.
+`&unlock <object/direction>`7 - Unlock a door if you have the key.
+`&pick <object/direction>`7   - Unlock a door without the key, as long as
+you have the pick lock skill.
+~
+-1 DRINK EAT FILL POUR~
+Eating and drinking are necessity to survive. When hungry and thirsty it 
+affects the rate at which you recover hit points or mana. Using a container
+filled with a liquid you can quench your thirst, and eating food will sate
+your hunger.
+
+`$SYNTAX`4:`7
+drink <item>`7            - Drink when you are thirsty.
+eat <item>`7              - Eat when you are hungry.
+fill <item>`7             - Fill an item with liquid at a fountain.
+pour <item> out`7         - Pour liquid inside container out.
+pour <item> <item>`7      - Pour liquid from one item to another.
+pour <item> <character>`7 - Pour liquid into container of another person.
+
+`@NOTE`2:`7 The liquid type "blood" quenches both hunger and thirst.
+~
+-1 STOREKEEPER BUY LIST SELL VALUE~
+There are two major types of stores; player and mobile. Player run stores
+function off of quest points and mobile run ones function off of gold. Within
+the mobile types there are several subtypes which include ones that sell armor,
+weapons, magical items, jewelry, maps, etc. When selling equipment you must
+make sure you sell it to the proper type of store. If they aren't interested in
+it, then that is a good indication you are in the wrong store type.
+
+`$SYNTAX`4:`7
+`&buy <item>`7       - Buy an item from a store.
+`&list <item>`7      - List all items available to buy.
+`&list stat <item>`7 - Get the statistics on an item.
+`&sell <item>`7      - Sell an item from your inventory to shopkeeper.
+`&value <item>`7     - Price how much an item is worth to sell.
+
+`@NOTE`2:`7 You can purchase multiple items in one command by using the #*
+command. (IE: "`^buy 10*bread`7").
+~
+-1 CONSIDER~
+Before you attack, it's valuable to know how you would stand against the enemy.
+If it tells "Death will thank you for your gift.", then it might be wise to ask
+around if it's a wise idea for you to attack.
+
+`$SYNTAX`4: `&consider <target>`7
+~
+-1 VISIBLE~
+In the instances which you are sneaking, invisible, hidden, shrouded, stealthy,
+or using cloak this will remove it. It will make everyone able to see you.
+
+`$SYNTAX`4: `&visible`7
+~
+-1 AUCTION~
+The Auctioneer is willing to auction off items for you that you wish
+auctioned. He operates in gold and silver only, and it is a global
+channel which all may bid on.
+
+`$SYNTAX`4:`7
+`&auction`7                  - Toggle auction channel On/Off
+`&auction info`7             - View info about current item 
+`&auction bid <amount>`7     - Place bid for the current item (minimum 10% over 
+current bid. IE: If current bid is 1000 silver, you would need to bid 1100).
+`&auction identify`7         - Identifies the item currently up for auction for
+a nominal fee of 500 silver.
+`&auction cancel`7           - Cancels the current auction for a 50 silver 
+processing fee, but can only be used within the first couple minutes.
+`&auction <item> <min bid>`7 -  Auctions an item with a seller-set minimum bid.
+~
+-1 'GROUP HEADER'~
+`$Available Skills `^(`4Type "`&list`4" to see again`^)`7
+~
+
+-1 'GROUP HELP'~
+In creation you will need to add groups and skills to your character to
+better enhance their abilities and number of available skills or groups.
+
+`$SYNTAX`4:`7
+`&list`7        - Display all groups and skills not yet added
+`&learned`7     - Show all groups and skills already purchased
+`&premise`7     - Brief explanation of creation points and skill groups
+`&add <name>`7  - Buy a skill or group
+`&drop <name>`7 - Remove a skill or group
+`&info <name>`7 - List the skills or spells contained within a group
+`&help <name>`7 - Help on skills and groups, or other help topics
+`&done`7        - Exit the character generation process when completed.
+~
+-1 PREMISE CP 'CREATION POINTS' CREATIONPOINTS CREATION_POINTS EXPERIENCE~
+Each skill/group has an associated value to it. As you accumulate more CP
+(creation points) the experience per level required increases. On average
+an easy character is anywhere below 10,000XP per level. Medium characters
+range up to 20,000XP, and above that is reserved for more advanced players.
+When you die you lose a % of your XP to level, so if you have less per each
+level then you loose less when you die.
+
+Skills are non-channeling orientated abilities, usually having to do with
+physical actions like combat. Groups are weaves (spells) that are related
+to each other by a general theme.
+
+The default for the class is a good solid base character which has all the
+necessities, but none of the frills. So, typing "`^add <class> default`7"
+like assassin would add everything in the group. This can also assist in
+speedier character creation.
+~
+-1 'MENU CHOICE'~
+`$Select `4(`&add`7,`&drop`7,`&list`7,`&help`4) `7- ~
+-1 ALIAS UNALIAS~
+The alias command allows limited shortening of command names.  At this time,
+aliases cannot call other aliases, and cannot generate more than one command.
+
+`$SYNTAX`4:`7
+`&alias                      `7- List all aliases.
+`&alias <word>               `7- Display aliases that fit the string.
+`&alias <word> <subtitution> `7- Substitute a word for another command.
+`&unalias <word>             `7- Remove an alias.
+
+`$EXAMPLE`4:`7
+`&alias gc get all corpse  - Typing "gc" will equal typing "get all corpse".  
+`&alias po weave 'portal'  - "po mob" will equal "weave 'portal' mob".
+`&alias say osay           - "say <message>" would do "osay <message>".
+`&alias ic say             - "ic <message>" would do "say <message>". Since
+ic aliased to say and say is aliased to osay then ic would not osay. They do
+not continual on to be relational to each other.
+~
+-1 SOCIALS~
+These are the emotions that you can display to further add enjoyment to 
+your life. Please use some with disgression.
+
+accuse       adjust      air          apologize     applaud     babble
+bark         bcatch      beckon       beer          bearhug     beg   
+bird         bkiss       bleed        blink         blush       boast 
+boggle       bonk        bounce       bow           brb         burp  
+cackle       caress      charge       cheer         chuckle     clap  
+claw         collapse    comfort      comb          cough       cover 
+cower        cringe      criticize    cry           cuddle      curse 
+curtsey      dance       daydream     drool         duck        embrace
+explode      eyebrow     faint        fart          flare       flash  
+flex         flinch      flip         flirt         flutter     fondle 
+french       frown       fume         gasp          giggle      glare
+goose        grimace     grin         groan         grope       grovel
+growl        grumble     hand         head          hiccup      highfive   
+hop          howl        hug          hush          ignore      innocent  
+insane       judge       kiss         knee          laugh       lick
+love         lust        massage      meditate      moan        moon
+mosh         mutter      nibble       nod           nudge       nuzzle
+pant         passout     pat          peck          pie         pinch
+pissed       plead       point        poke          ponder      pout
+pray         propose     puke         punch         purr        ramble
+raspberry    rofl        roll         rub           ruffle      run
+scratch      scream      serenade     shake         shiver      shrug
+sigh         sing        slap         slobber       smile       smirk
+snap         snarl       sneeze       snicker       sniff       snore  
+snort        snowball    snuggle      sob           spam        spank
+spit         squeal      squeeze      squirm        stare       stretch
+strip        stroke      strut        sulk          swoon       tackle   
+tease        thank       threaten     tickle        tip         tongue   
+twiddle      type        undress      view          wave        whine
+whistle      wiggle      wince        wink          wonder      worry
+worship      yawn        yeehaw       yodel         rose        laces
+tank         starve      aargh        homework      puff        differ
+yae          lightbulb   voodoo       ogg           confused    beam
+bite         discodance  scuff        whap          lag         chortle
+zerbert      twitch      feafe        dropkick      piledrive
+~
+-1 MAPS MAPMAKER~
+Maps are used to give specifics about areas including how to get there, level
+ranges, and other details. You can purchase them from a mapmaker, or are
+spread out about the world.
+~
+-1 HEALER~
+Healer is here for those times when a friendly Cleric is not, but for a
+price. Unguilded players receive cheaper fees. Also, levels 1-10 receive
+random beneficial spells free of charge.
+
+`$SYNTAX`4:`7
+`&heal`7 - Complete list of available heal spells.
+~
+-1 GAIN~
+Just because you didn't get something at the creation of your character
+doesn't mean you can't have it. By saving up training sessions you can
+add skills or groups to your available arsenal. Legends can buy new
+abilities at half the normal cost.
+
+`$SYNTAX`4:`7
+`&gain list`7    - List all groups and skills that can be learned.
+`&gain points`7  - Lower your creation points by 1 (costs two sessions).
+This will lower your experience required per level.
+`&gain <name>`7  - Add a skill or skill group, at the listed cost.
+`&gain convert`7 - Turn 10 practices into 1 training session.  
+`&gain study`7   - Turns 1 train into 10 practices. 
+~
+-1 OUTFIT~
+Are you naked? Put some clothes on!! This will equip you with a initial
+use vest, helmet, shield, weapon, and war banner.
+
+`$SYNTAX`4: `&outfit`7
+~
+ -1 AUTO AUTOLIST AUTOLOOT AUTOGOLD AUTOSAC AUTOEXIT AUTOASSIST AUTOSPLIT AUTOALL~
+The less you have to tye the better. These are customizable to allow you
+more ease, and less headaches. Each one automates a certain action
+
+`$SYNTAX`4:`7
+`&autolist`7  - List all automatic actions and their current status.
+`&autoloot`7  - Take all equipment from the corpse of a defeated mobile.
+`&autogold`7  - Get all the gold and silver from a dead mobile.
+`&autosac`7   - Sacrifices corpses immediately (If autoloot is on, only
+empty corpses).
+`&autoexit`7  - Display room exits upon entering a room.
+`&autosplit`7 - Split up spoils from combat among your group members.
+`&autoassit`7 - Assist group members by initiating combat.
+`&autoall`7   - Toggle all automatic functions on/off at once.
+~
+-1 AFFECTS~
+Displays a list of all spells you are currently affected by. It also will
+show the modifiers and duration remaining. Using "`^show`7" command appends
+this list to your "`^score`7".
+
+`$SYNTAX`4: `&affects`7
+~
+-1 DRAGON~
+This is the name given to Lews Therin Telamon during the War of the Shadow,
+some three thousand or more years ago. In the time of madness that overtook
+all male Aes Sedai, Lews Therin killed everyone of his blood, as well as
+everyone he loved, thus earning the name Kinslayer. There are also 
+Prophecies of the Dragon. They are recorded in the Karaethon Cycle, and   
+foretell of the Dark One being freed from Shayol Ghul and the Lews Therin  
+Telamon, the Dragon, will be Reborn to fight in Tarmon Gaidon or the Last  
+Battle against the Shadow.
+~
+-1 NATIONALITY ORIGIN CULTURE HOMELAND~
+Different nationalities have risen and fallen since the time of the Breaking,
+when the Ten Nations crumbled during the Time of Madness. These are a list of
+the available nationalities from which you choose for your homeland. They are
+the ones with the greatest lasting presense in the current world.
+
+Arafel     - Warrior people on the Blight Border strong and smart with some
+of the finest horsemen in the known contients.
+Shienar    - Another of the Blight Border coutries, know for its heavy cavalry,
+both smart and cunning. Denoted by their signature top-knot of the warriors.
+Cairhein   - Polotical people, experts at "The Game of Houses", not great 
+attackers, but good defenses in the heat of battle.
+Arad Doman - Strong and willing, even the women are not afraid of a fight.
+Tear       - The most balanced of all the nations, its people are average 
+balance of all the nations on the continent.
+Saldaea    - Also along the Blight Border, experts on horseback, strong 
+attackers, and well thought out.
+Murandy    - Independent and very smart, they are capable of anything they
+put their mind too, and sometimes whatever they think up.
+Tarabon    - Smart and cunning, they have the potential to be good fighters.
+Kandor     - Known mostly for their channelers abilities for they are not 
+strong but very intellectual, and have great vitality for life.
+Amadicia   - Home of the Children of the Light, its people are capable and 
+lways ready for a fight. Home of the Thistle and Star.
+Ghealdean  - The country the Prophet now ravages, the warriors can be among
+the finest in the land. 
+Altara     - A people constantly at war with someone or another, knowing and
+capable they make fine warriors.
+Andor      - Intelligent and full of knowledge, they have the potential to
+outwit most opponents.
+Illian     - Known for the Hunters of the Horn, the people are fairly decent
+except their lack of knowledge and inherit wisdom.
+Aiel       - Nomadic people from the Aiel Waste, the best warriors in the
+land except maybe the Border Nations.
+Seanchan   - Descendants from the High King Artur Hawkwing, known for their 
+agical Damane and fierce Death Watch guards.
+~
+-1 ARAFEL~
+"The dancing is sweeter on the edge of a sword." -Arafel saying
+
+Arafel is a nation as any other nation of the borderlands; strong in military
+tradition. The nation is located west of Shienar and is made up of more rugged
+country than Shienar. The Roses, a red rose and a white rose is their sigil,
+and their flag is 3 red roses on the lest and 3 white rises on the right, on a
+field of red and white quarters.
+
+The men are easily recognized by their distinctive hairstyle. Wearing their
+hair in two long braids, they adorn the ends of each usually with silver bells.
+On their backs they wear two swords, one over each shoulder. Most natives are
+marked by their large eyes and pale skin.
+
+The current ruler is King Paitar Nachiman, who's sister is Kiruna Sedai of the
+Green Ajah.
+~
+-1 SHIENAR~
+Coming soon! "`^help nationalitiy`7" for a vague overview. 
+~
+-1 CAIRHIEN~
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 'ARAD DOMON' ARAD_DOMON ARADDOMON~
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 TEAR~
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 SALDAEA~
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 MURANDY~
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 TARABON~
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 KANDOR~
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 AMADICIA~
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 GHEALDEAN~
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 ALTARA~ 
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 ANDOR~
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 ILLIAN~
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 AIEL~
+Coming soon! "`^help nationalitiy`7" for a vague overview.
+~
+-1 SEANCHAN~
+Though the land is nearly three thousand leagues across the Aryth Ocean, the
+people of the Seanchan must, in the light of recent events, be taken seriously.
+Before Artur Hawkwing sent his son Luthair and his armies across the ocean, the
+Seanchan as a constantly shifting quilt of nations of various sizes, ruled by
+Aes Sedai. Everyone was for themselves, all scheming and plotting for their own
+advancement. Indeed assasination was the most common cause of death among even
+the Aes Sedai. Luthair's hatred for Aes Sedai eventually lead them to be sought
+for enslavement.
+
+The lowest class in Seanchan is the da'covale, or "those who are property," or
+simply covale, "property." Merchants and commoners rank just above lowly slaves,
+but many upper-class slaves, such as the so'jhin, the heriditary upper servants
+of the Blood, outrank free men and women.
+
+Appearances and etiquette are supremely importantly to the Seanchan, and physical
+manifestation of rank are essential. Members of the Blood shave their head,
+leaving a crest of hair on top that often flows down the back. A Voice of the
+Blood will wear the left side of the head shaved and the right side braided. A
+voice of the Throne will shave the right side and leave the left side braided.
+Members of the Imperial Family shave their head completely. Commoners shave
+their head completely. 
+
+Both the Tower of Ravens and the Court of the Nine Moons are located in Seandar,
+the Imperial capital, located in the northeast of the Seanchan continent. Seandar
+is the largest city in the Empire. The other major cities in descending order of
+size are: Kirendad, Noren M'Shar, Asinbayar, Qirat, Imfaral, Sohima, T'zura,
+Anangore, Shon Kifar, and Rampore.
+
+They are lead by the Council of the Nine Moons, from the Crystal Throne. The
+imperial sigil is a gloden hawk in flight, clutching three lightning bolts in
+its claws. The banner is a wide border of royal blue around a white box inside
+which a golden hawk in flight clutches three lightning bolts in its claws.
+~
+-1 LOTTERY TICKETS~
+Ask Thom about this, and make him add it to helpfiles!
+~
+-1 GAMETICKETS~
+Ask Diem about this, and make him add it to helpfiles!
+~
+-1 DEAF~
+When you are getting undesirable tells, or just wish not to be accessible to that
+form of conversation; just turn it off. It toggles On/Off
+
+`$SYNTAX`4: `&deaf`7
+~
+
+-1 ENHANCED_CHAR FORSAKEN DRAGON RAND~
+An enhanced character such as Rand or the Forsaken is both a great
+privilege and a responsibility.  As an enhanced character you are
+expected to be an example not in only roleplay, but in all facets
+of playing.  Meaning that you are expected to follow all rules and
+be respective of other mudders.  This is not to say that you can't
+rp the dark ways of a Forsaken, but there is also a line between
+rping a forsaken and badgering someone till the game is no longer
+fun for them.  Basically just remember that as an enhanced character
+people look to you somewhat like they do the immortal staff as a
+representative of what the mud is, so you're working to make the
+mud look good.
+
+Guidelines:
+1)  Must not have a GL character (Both an Enhanced char and a GL char
+	require that to be your primary character and you obviously
+	can't have two primary characters)
+2)  Must have at least one level 75 character currently
+3)  Enhanced characters cannot participate in tournaments
+4)  Enhanced characters should limit OOC conversation you should be
+        focused on rping at all times.
+5)  Must have good RP for every PK.  This is a rule for all, but 
+	especially important for an enhanced character.
+
+If you wish to apply for one of these spots and they have recently
+been announced as having an open spot please see:
+help "enhanced_app"
+~
+
+-1 ENHANCED_APP DRAGON_APP FORSAKEN_APP~
+With all the points mentioned in "help enhanced_char" in order to apply
+you must write a note to the implementors (i.e. note to IMP) that 
+describes you and what you would like to do with the character.  There 
+is no length requirement,  but the more compelling of a note you write 
+the more likely you are to get what you achieve.  The note should basically 
+be a description of the character you wish to play and a brief description 
+of the RP path you'd like to take with them.  Also some ideas you had on 
+improving the guild that you are aligned with both for RP and for fun.  
+These should be things you can do on your own, not code or policy changes 
+that you'd like us to make on your behalf.  All followed by your mudders 
+resume.  Who you are, some of your alts that we would know, how long you've 
+mudded so on.
+
+The following things must be included in your resume:
+1) A short list of recognizable alts
+2) Any GL spots you've held at SoT
+3) How long you've mudded
+4) How many hours you think you can put in on a character per week 
+	(Be accurate if you lie it will soon be apparent)
+~
+
+-1 WORK~
+`^Thom is currently working on`&:`7                      `&Status`7
+`$----------------------------------------------------------------`7
+`7 `&Baerlon`7                                              Unfinished`7
+~
+
+-1 AREA~
+This is a list of areas and the difficulty of the area. This does not mean
+the entire area is the same range, but a reflection of the majority of the
+area.
+
+Newbie - Predomindately a newbie area for levels 1-25.
+Middle - These areas are for mid-ranged players around 25-55.
+High   - These areas are mostly for 75's and the brave ones below that.
+Hard   - Very difficult areas.
+Legend - Reserved strictly for Legend (76) and Guilderleaders (77).
+None   - Not applicable for whatever reason.
+
+`$SYNTAX`4: `&area`7
+~
+-1 $~
+ 
+#$

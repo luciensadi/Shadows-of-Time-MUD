@@ -1,0 +1,1794 @@
+#AREADATA
+Name Ratahl~
+Builders None~
+VNUMs 24300 24400
+Credits `4[`7Lowbie`4]`7 Thom      Ratahl~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#24300
+black beetle~
+A black beetle~
+A small, black beetle scuttles along, looking for shelter.
+~
+This is one of the smallest animals you've seen lately. It looks totally
+harmless but you never know. 
+~
+unique~
+0 0
+ACGZ 0 1024 0 0 -1  -1000 0
+23 6 3d10+200 10d10+100 2d3+10 bite
+1 1 1 4
+0 0 C F
+stand stand none 3
+GHV ACDEFHKQU tiny unknown
+#24301
+furry squirrel~
+A furry squirrel~
+A furry squirrel jumps around, looking for a tree to scale.
+~
+~
+unique~
+0 0
+AGR 80 1040 0 0 -1  -1000 0
+27 15 10d15+400 25d10+100 4d4+15 scratch
+0 0 0 2
+FI H IK C
+stand stand female 20
+AHMV ABCDEFGHIJK tiny unknown
+#24302
+poisonous snake~
+A snake~
+A poisonous snake is coiled up here, watching with his beady eyes.
+~
+~
+unique~
+0 0
+AGR 1104 1024 0 0 -1  -1000 0
+31 35 10d25+400 25d10+100 6d10+5 punch
+0 0 0 2
+FI 0 0 E
+stand stand either 15
+AHMV ABCDEFGHIJK medium unknown
+#24303
+dark forest guard~
+A dark forest guard~
+A dark forest guard stands here, sharpening the blade of his sword.
+~
+~
+unique~
+0 0
+ABGT 0 2096 0 0 -1  -1000 0
+55 30 10d25+600 40d10+100 2d5+18 stab
+0 0 0 2
+EFIKN AHMV ABEKLQ EIJR
+stand stand either 100
+AHMV ABCDEFGHIJK small unknown
+#24304
+ratahl ghost~
+The Ghost of Ratahl~
+The Ghost of Ratahl floats here, moaning and groaning inaudible words.
+~
+~
+andor~
+0 0
+ABGT 49424 16 0 0 -1  -1000 0
+60 50 5d19+1000 0d0+0 5d3+50 digestion
+-10 -10 -10 -10
+ACFIK ABD 0 0
+rest stand male  0
+AHMV ABCDEFGHIJK large unknown
+#24305
+Ratahl Wisdom~
+The Ratahl Wisdom~
+The Ratahl Wisdom is here, mixing some herbs to heal her odd disease.
+~
+~
+unique~
+0 0
+ABGJKabd 336 272 0 0 -1  0 0
+100 1 1d1+1000 0d0+0 0d0+0 slap
+-500 -500 -500 -500
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#24300
+Ratahl's quiver~
+`7Ratahl's Quiver~
+A strange quiver made of rock lays about.~
+unknown~
+quiver AB AS
+0
+80 100 0 24301 0
+60 0 0 P
+A
+19 4
+A
+18 4
+A
+13 50
+ T 0 none~
+#24301
+a stone arrow~
+a stone arrow~
+A small, slender arrow lays on the ground.~
+unknown~
+arrow 0 AO
+0
+0 10 9 0 E
+60 0 0 P
+A
+19 4
+A
+18 4
+A
+20 -5
+A
+13 25
+ T 0 none~
+#24302
+Ratahl's Bow~
+the Bow of Ratahl~
+A slender bow lays around, seemingly made of stone.~
+unknown~
+weapon AB AN
+0
+bow 10 9 thwack E
+60 150 0 P
+A
+18 4
+A
+13 60
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#24300
+End of Fantasy Road~
+As you stand here, you can tell where Fantasy Road ends and a path into
+the forest begins.  The pavement simply turns to dirt as if there were never
+any intent to continue the road west.  Small trees become giants the farther
+west the road heads.  
+~
+0 0 1
+D1
+~
+~
+0 0 13187
+D3
+~
+~
+0 0 24301
+S
+#24301
+Into the Ratahl Forest~
+A small sign sits at the side of this path that reads 'Welcome to the
+Ratahl Forest.'  Not much is known about this forest because no one ever
+speaks of it and the sign gives no more information about it's history.  The
+path however, is very worn as if it is travelled frequently and small stains
+of blood lay around.  
+~
+0 0 3
+D1
+~
+~
+0 0 24300
+D3
+~
+~
+0 0 24302
+S
+#24302
+A Dirt Trail~
+The trail here is made of soft, grainy dirt that contains not one
+footprint but many many stains of blood.  Small woodland animals and insects
+scuddle about, quickly looking for somewhere to take shelter from your
+presence here.  
+~
+0 0 3
+D1
+~
+~
+0 0 24301
+D3
+~
+~
+0 0 24303
+S
+#24303
+A Dirt Trail~
+Giant logs lay across the path, barring any small animal from crossing
+east or west of Ratahl.  The wind is almost non existant here as the
+closeness of the trees keep anything from entering the forest easily.  The
+path continues west into the forest or east on to Fantasy Road.  
+~
+0 0 0
+D1
+~
+~
+0 0 24302
+D3
+~
+~
+0 0 24304
+S
+#24304
+A Dirt Trail~
+Sticks of all shapes and sizes fall from the trees, making you and the
+animals run to take cover.  Staying here under the treetops could mean your
+life if a big enough one falls.  The path keeps heading west and east but
+seems to meet an intersection far to the west.  
+~
+0 0 3
+D1
+~
+~
+0 0 24303
+D3
+~
+~
+0 0 24305
+S
+#24305
+A Dirt Trail~
+Strange plants line this path from both sides very thickly, and trees of
+all sorts tower above you.  The sun barely reaches the path that you walk on
+seeing as the treetops seem to keep everything out.  If you keep walking
+west, you will enter the dark part of the forest, where nothing can grows on
+the forest floor.  
+~
+0 0 3
+D1
+~
+~
+0 0 24304
+D3
+~
+~
+0 0 24306
+S
+#24306
+A Dirt Trail~
+The trail here goes from smooth to ragged as if something pushed to trail
+together and bent it sideways.  It no longer heads east and west but rather
+cuts off to the south rapidly.  However, farther south you can see that it
+seems to bend again, making your path ahead unknown.  
+~
+0 0 3
+D1
+~
+~
+0 0 24305
+D2
+~
+~
+0 0 24307
+S
+#24307
+A Dirt Trail~
+Small bushes of thorns grow along side the path, deciding your path for
+you, straight ahead.  Nothing can be seen north or south but both directions
+lead to a path that turns into another one.  Insects and animals of all
+sorts run around looking for shelter or something to eat.  
+~
+0 0 3
+D0
+~
+~
+0 0 24306
+D2
+~
+~
+0 0 24308
+S
+#24308
+A Dirt Trail~
+The amount of bushes and thorns that grown in this dark forest are
+amazing considering not more than a couple rays of light are allowed to
+enter through the canopy.  And beyond that, this path seems to have been
+travelled more than once today, yet not a soul can be heard.  The path
+continues to run it's path, without a sign of any civilization.  
+~
+0 0 3
+D0
+~
+~
+0 0 24307
+D3
+~
+~
+0 0 24309
+S
+#24309
+A Dirt Trail~
+The amount of bushes and thorns that grown in this dark forest are
+amazing considering not more than a couple rays of light are allowed to
+enter through the canopy.  And beyond that, this path seems to have been
+travelled more than once today, yet not a soul can be heard.  The path
+continues to run it's path, without a sign of any civilization.  
+~
+0 0 3
+D1
+~
+~
+0 0 24308
+D3
+~
+~
+0 0 24310
+S
+#24310
+A Dirt Trail~
+The amount of bushes and thorns that grown in this dark forest are
+amazing considering not more than a couple rays of light are allowed to
+enter through the canopy.  And beyond that, this path seems to have been
+travelled more than once today, yet not a soul can be heard.  The path
+continues to run it's path, without a sign of any civilization.  
+~
+0 0 3
+D1
+~
+~
+0 0 24309
+D3
+~
+~
+0 0 24311
+S
+#24311
+A Dirt Trail~
+The amount of bushes and thorns that grown in this dark forest are
+amazing considering not more than a couple rays of light are allowed to
+enter through the canopy.  And beyond that, this path seems to have been
+travelled more than once today, yet not a soul can be heard.  The path
+continues to run it's path, without a sign of any civilization.  
+~
+0 0 3
+D1
+~
+~
+0 0 24310
+D3
+~
+~
+0 0 24312
+S
+#24312
+A Split in the Trail~
+The trail ends here and splits off to the south and north.  Both trails
+lead into darker forest but each has distinctions that set them apart.  To
+the north, more trees seem to crowd the path which differs from the bushes
+and overgrowth to the south.  
+~
+0 0 3
+D0
+~
+~
+0 0 24335
+D1
+~
+~
+0 0 24311
+D2
+~
+~
+0 0 24313
+S
+#24313
+A Narrow Path~
+This path has small tree stumps sticking out of the ground but is almost
+unnoticable if you hadn't of looked closer.  To the east lies an
+impenetrable wall of shrubs and bushes while to the west is a small opening
+or field of some sorts.  
+~
+0 0 3
+D0
+~
+~
+0 0 24312
+D2
+~
+~
+0 0 24314
+D3
+~
+~
+0 0 24318
+S
+#24314
+A Narrow Path~
+This path has small tree stumps sticking out of the ground but is almost
+unnoticable if you hadn't of looked closer.  To the east lies an
+impenetrable wall of shrubs and bushes while to the west is a small opening
+or field of some sorts.  
+~
+0 0 3
+D0
+~
+~
+0 0 24313
+D2
+~
+~
+0 0 24315
+D3
+~
+~
+0 0 24317
+S
+#24315
+A Turn in the Path~
+The path turns here, but seems to go around the small opening in the
+brush to the northwest.  Small woodland animals run around making a chatter
+over the large amount of seeds and nuts that lay on the ground and in the
+trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 24314
+D3
+~
+~
+0 0 24316
+S
+#24316
+Along the Path~
+The path has small tree stumps sticking out of the ground but is almost
+unnoticable if you hadn't of looked closer.  To the south lies an
+impenetrable wall of shrubs and bushes while to the north is a small opening
+or field of some sorts.  
+~
+0 0 0
+D0
+~
+~
+0 0 24317
+D1
+~
+~
+0 0 24315
+D3
+~
+~
+0 0 24321
+S
+#24317
+In an Opening~
+Standing in this opening, you are upon strong ground of soil and long
+blades of green grass.  Small trees seem to crowd above you making this an
+ideal place to sleep or rest.  Rocks stand in each corner of the opening
+marking this as some sacred ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 24318
+D1
+~
+~
+0 0 24314
+D2
+~
+~
+0 0 24316
+D3
+~
+~
+0 0 24320
+S
+#24318
+In an Opening~
+Standing in this opening, you are upon strong ground of soil and long
+blades of green grass.  Small trees seem to crowd above you making this an
+ideal place to sleep or rest.  Rocks stand in each corner of the opening
+marking this as some sacred ground.  
+~
+0 0 0
+D1
+~
+~
+0 0 24313
+D2
+~
+~
+0 0 24317
+D3
+~
+~
+0 0 24319
+S
+#24319
+In an Opening~
+Standing in this opening, you are upon strong ground of soil and long
+blades of green grass.  Small trees seem to crowd above you making this an
+ideal place to sleep or rest.  Rocks stand in each corner of the opening
+marking this as some sacred ground.  
+~
+0 0 0
+D1
+~
+~
+0 0 24318
+D2
+~
+~
+0 0 24320
+S
+#24320
+In an Opening~
+Standing in this opening, you are upon strong ground of soil and long
+blades of green grass.  Small trees seem to crowd above you making this an
+ideal place to sleep or rest.  Rocks stand in each corner of the opening
+marking this as some sacred ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 24319
+D1
+~
+~
+0 0 24317
+D2
+~
+~
+0 0 24321
+S
+#24321
+Along the Path~
+The path has small tree stumps sticking out of the ground but is almost
+unnoticable if you hadn't of looked closer.  To the south lies an
+impenetrable wall of shrubs and bushes while to the north is a small opening
+or field of some sorts.  
+~
+0 0 0
+D0
+~
+~
+0 0 24320
+D1
+~
+~
+0 0 24316
+D3
+~
+~
+0 0 24322
+S
+#24322
+Along the Path~
+The path has small tree stumps sticking out of the ground but seems to
+become less noticable the more west you travel.  To the south lies an
+impenetrable wall of thorns and stones while the north is only partly
+covered by tall grass and trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 24321
+D3
+~
+~
+0 0 24323
+S
+#24323
+Along the Path~
+The path has small tree stumps sticking out of the ground but seems to
+become less noticable the more west you travel.  To the south lies an
+impenetrable wall of thorns and stones while the north is only partly
+covered by tall grass and trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 24322
+D3
+~
+~
+0 0 24324
+S
+#24324
+A Sharp Corner~
+The path suddenly breaks here as it makes a ninety degree angle.  The way
+the trees and bushes are arranged, it's almost like you're walking through a
+narrow hallway.  Far to the north, it looks like a giant tree or something
+stands in your way, blocking any sort of path around or through.  
+~
+0 0 3
+D0
+~
+~
+0 0 24325
+D1
+~
+~
+0 0 24323
+S
+#24325
+A Grassy Trail~
+The road quickly turns to a grassy trail and the walking seems a lot
+smoother here.  Ant piles and little insects crunch under your feet as you
+walk along.  The amount of flies and bees are imbearable because the heat
+has soaked through the treetop and beats down upon you.  
+~
+0 0 3
+D0
+~
+~
+0 0 24326
+D2
+~
+~
+0 0 24324
+S
+#24326
+A Grassy Trail~
+The road quickly turns to a grassy trail and the walking seems a lot
+smoother here.  Ant piles and little insects crunch under your feet as you
+walk along.  The amount of flies and bees are imbearable because the heat
+has soaked through the treetop and beats down upon you.  
+~
+0 0 3
+D0
+~
+~
+0 0 24327
+D2
+~
+~
+0 0 24325
+S
+#24327
+A Grassy Trail~
+The road quickly turns to a grassy trail and the walking seems a lot
+smoother here.  Ant piles and little insects crunch under your feet as you
+walk along.  The amount of flies and bees are imbearable because the heat
+has soaked through the treetop and beats down upon you.  
+~
+0 0 3
+D0
+~
+~
+0 0 24328
+D2
+~
+~
+0 0 24326
+S
+#24328
+A Grassy Trail~
+The road quickly turns to a grassy trail and the walking seems a lot
+smoother here.  Ant piles and little insects crunch under your feet as you
+walk along.  The amount of flies and bees are imbearable because the heat
+has soaked through the treetop and beats down upon you.  
+~
+0 0 3
+D0
+~
+~
+0 0 24329
+D2
+~
+~
+0 0 24327
+S
+#24329
+A Grassy Trail~
+Flies and bees of all sorts fly around, bombarding you as if they haven't
+seen a sign of life in years.  Mosquitos occasionally land upon your arm,
+drinking your sweet blood as you search for a way out of here.  The path
+here quickly shoots east but continues through the grassy trail both north
+and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 24336
+D1
+~
+~
+0 0 24330
+D2
+~
+~
+0 0 24328
+S
+#24330
+Along the Trail~
+The trees to the north and south grow so close together, it makes it hard
+to head anywhere but straight ahead.  At least the trail here is still
+visable unlike any trails that begin into the woods and quickly vanish into
+thick trees or stagnant water puddles.  
+~
+0 0 3
+D1
+~
+~
+0 0 24331
+D3
+~
+~
+0 0 24329
+S
+#24331
+Along the Trail~
+The trees to the north and south grow so close together, it makes it hard
+to head anywhere but straight ahead.  At least the trail here is still
+visable unlike any trails that begin into the woods and quickly vanish into
+thick trees or stagnant water puddles.  
+~
+0 0 3
+D1
+~
+~
+0 0 24332
+D3
+~
+~
+0 0 24330
+S
+#24332
+Along the Trail~
+The trees to the north and south grow so close together, it makes it hard
+to head anywhere but straight ahead.  At least the trail here is still
+visable unlike any trails that begin into the woods and quickly vanish into
+thick trees or stagnant water puddles.  
+~
+0 0 3
+D1
+~
+~
+0 0 24333
+D3
+~
+~
+0 0 24331
+S
+#24333
+Along the Trail~
+The trees to the north and south grow so close together, it makes it hard
+to head anywhere but straight ahead.  At least the trail here is still
+visable unlike any trails that begin into the woods and quickly vanish into
+thick trees or stagnant water puddles.  
+~
+0 0 3
+D1
+~
+~
+0 0 24334
+D3
+~
+~
+0 0 24332
+S
+#24334
+A Turn in the Path~
+A drop of water drips on top of your head but you can't really tell if
+it's raining or not.  No matter the weather, nothing can be felt to any
+extent down here on the forest floor.  The path steers around into an angle
+here, deciding your path for you.  You can either head back the way you came
+or head around the corner.  
+~
+0 0 0
+D2
+~
+~
+0 0 24335
+D3
+~
+~
+0 0 24333
+S
+#24335
+A Narrow Path~
+One ray of sunlight shoots through the canopy to land right in front of
+you, where a small animal is sunbathing, or maybe asleep.  He doesn't notice
+you approaching so perhaps your best bet is to steer clear incase he gets
+hostile.  
+~
+0 0 3
+D0
+~
+~
+0 0 24334
+D2
+~
+~
+0 0 24312
+S
+#24336
+A Grassy Trail~
+The road quickly turns to a grassy trail and the walking seems a lot
+smoother here.  Ant piles and little insects crunch under your feet as you
+walk along.  The amount of flies and bees are imbearable because the heat
+has soaked through the treetop and beats down upon you.  
+~
+0 0 3
+D0
+~
+~
+0 0 24337
+D2
+~
+~
+0 0 24329
+S
+#24337
+Approaching a Temple~
+As you walk along, you notice the supposed wall of trees and overgrowth
+has suddenly appeared as a stone temple covered with vines.  Over the years,
+branches and moss has fallen and grown into the stone but the temple still
+appears to hold some sacred value.  
+~
+0 0 3
+D0
+~
+~
+0 0 24338
+D2
+~
+~
+0 0 24336
+S
+#24338
+Before the Temple~
+You stand below the Great Temple of Ratahl, and it seems the doors are
+already open that lead into the temple.  Step ahead, to see what lies in the
+temple, but first you must climp the giant rock steps that lead you up to
+the massive granite doors.  
+~
+0 0 3
+D2
+~
+~
+0 0 24337
+D4
+~
+~
+0 0 24339
+S
+#24339
+On the Steps~
+You stand upon the massive steps that lead into the Great Temple of
+Ratahl.  The steps took a while to scale and another steps lies ahead of
+you.  However, the step being so big allows you to walk around freely and
+not having the fear of falling off.  
+~
+0 0 0
+D1
+~
+~
+0 0 24341
+D3
+~
+~
+0 0 24340
+D4
+~
+~
+0 0 24362
+D5
+~
+~
+0 0 24338
+S
+#24340
+On the Steps~
+You stand upon the massive steps that lead into the Great Temple of
+Ratahl.  The steps took a while to scale and another steps lies ahead of
+you.  However, the step being so big allows you to walk around freely and
+not having the fear of falling off.  
+~
+0 0 0
+D1
+~
+~
+0 0 24339
+S
+#24341
+On the Steps~
+You stand upon the massive steps that lead into the Great Temple of
+Ratahl.  The steps took a while to scale and another steps lies ahead of
+you.  However, the step being so big allows you to walk around freely and
+not having the fear of falling off.  
+~
+0 0 0
+D3
+~
+~
+0 0 24339
+S
+#24342
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D0
+~
+~
+0 0 24347
+D1
+~
+~
+0 0 24343
+D3
+~
+~
+0 0 24362
+S
+#24343
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D0
+~
+~
+0 0 24346
+D1
+~
+~
+0 0 24344
+D3
+~
+~
+0 0 24342
+S
+#24344
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D0
+~
+~
+0 0 24345
+D3
+~
+~
+0 0 24343
+S
+#24345
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D0
+~
+~
+0 0 24361
+D2
+~
+~
+0 0 24344
+D3
+~
+~
+0 0 24346
+S
+#24346
+Inside the Temple~
+You have a weird sense that someone is watching you as you walk through
+the center of this temple room.  Every step you take creates a cloud of dust
+that has collected on the temple floor.  The sun shines through some of the
+windows giving the visability in this temple a sort of, red tint.  
+~
+0 0 0
+D0
+~
+~
+0 0 24360
+D1
+~
+~
+0 0 24345
+D2
+~
+~
+0 0 24343
+D3
+~
+~
+0 0 24347
+S
+#24347
+Inside the Temple~
+You have a weird sense that someone is watching you as you walk through
+the center of this temple room.  Every step you take creates a cloud of dust
+that has collected on the temple floor.  The sun shines through some of the
+windows giving the visability in this temple a sort of, red tint.  
+~
+0 0 0
+D0
+~
+~
+0 0 24359
+D1
+~
+~
+0 0 24346
+D2
+~
+~
+0 0 24342
+D3
+~
+~
+0 0 24348
+S
+#24348
+Inside the Temple~
+You have a weird sense that someone is watching you as you walk through
+the center of this temple room.  Every step you take creates a cloud of dust
+that has collected on the temple floor.  The sun shines through some of the
+windows giving the visability in this temple a sort of, red tint.  
+~
+0 0 0
+D0
+~
+~
+0 0 24358
+D1
+~
+~
+0 0 24347
+D2
+~
+~
+0 0 24362
+D3
+~
+~
+0 0 24349
+S
+#24349
+Inside the Temple~
+You have a weird sense that someone is watching you as you walk through
+the center of this temple room.  Every step you take creates a cloud of dust
+that has collected on the temple floor.  The sun shines through some of the
+windows giving the visability in this temple a sort of, red tint.  
+~
+0 0 0
+D0
+~
+~
+0 0 24357
+D1
+~
+~
+0 0 24348
+D2
+~
+~
+0 0 24354
+D3
+~
+~
+0 0 24350
+S
+#24350
+Inside the Temple~
+You have a weird sense that someone is watching you as you walk through
+the center of this temple room.  Every step you take creates a cloud of dust
+that has collected on the temple floor.  The sun shines through some of the
+windows giving the visability in this temple a sort of, red tint.  
+~
+0 0 0
+D0
+~
+~
+0 0 24356
+D1
+~
+~
+0 0 24349
+D2
+~
+~
+0 0 24353
+D3
+~
+~
+0 0 24351
+S
+#24351
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D0
+~
+~
+0 0 24355
+D1
+~
+~
+0 0 24350
+D2
+~
+~
+0 0 24352
+S
+#24352
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D0
+~
+~
+0 0 24351
+D1
+~
+~
+0 0 24353
+S
+#24353
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D0
+~
+~
+0 0 24350
+D1
+~
+~
+0 0 24354
+D3
+~
+~
+0 0 24352
+S
+#24354
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D0
+~
+~
+0 0 24349
+D1
+~
+~
+0 0 24362
+D3
+~
+~
+0 0 24353
+S
+#24355
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D1
+~
+~
+0 0 24356
+D2
+~
+~
+0 0 24351
+S
+#24356
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D1
+~
+~
+0 0 24357
+D2
+~
+~
+0 0 24350
+D3
+~
+~
+0 0 24355
+S
+#24357
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D1
+~
+~
+0 0 24358
+D2
+~
+~
+0 0 24349
+D3
+~
+~
+0 0 24356
+S
+#24358
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  A small hallways leads to the north, where
+darkness sears any light which dares to enter.  
+~
+0 0 0
+D0
+~
+~
+0 0 24363
+D1
+~
+~
+0 0 24359
+D2
+~
+~
+0 0 24348
+D3
+~
+~
+0 0 24357
+S
+#24359
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D1
+~
+~
+0 0 24360
+D2
+~
+~
+0 0 24347
+D3
+~
+~
+0 0 24358
+S
+#24360
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D1
+~
+~
+0 0 24361
+D2
+~
+~
+0 0 24346
+D3
+~
+~
+0 0 24359
+S
+#24361
+Behind the Pillars~
+You are walking behind the giant stone pillars which seem to hold the
+entire ceiling of this room up.  The pillar you stand behind seems to loom
+your size and easily makes you hidden from any person willing to chase you
+down.  Beams of light shoot through the sun windows but do not seem to reach
+the areas behind the pillars.  
+~
+0 0 0
+D2
+~
+~
+0 0 24345
+D3
+~
+~
+0 0 24360
+S
+#24362
+Inside the Temple Doors~
+You stand just inside the temple doors which seem to have been tied open
+by large vines.  As you look around, you see a tall ceiling with small stone
+ornaments hanging around, and small sun windows that have been carved into
+it.  The pillars are very numerous but leave a small path that leads you all
+the way around the first temple room, but contains enough darkness to keep
+you away.  Ahead is the middle of the temple room, and farther ahead of that
+is a stone hallway that leads into darkness.  
+~
+0 4 0
+D0
+~
+~
+0 0 24348
+D1
+~
+~
+0 0 24342
+D3
+~
+~
+0 0 24354
+D5
+~
+~
+0 0 24339
+S
+#24363
+A Stone Hallway~
+This hallway leads north into a circular room or south back into the
+temple room.  The ceiling of this hallway is very low making the ability of
+light to enter crutched.  The only way to know that you can still walk ahead
+is by holding one hand out in front of you and the other to the side,
+feeling for the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 24364
+D2
+~
+~
+0 0 24358
+S
+#24364
+A Stone Hallway~
+This hallway leads north into a circular room or south back into the
+temple room.  The ceiling of this hallway is very low making the ability of
+light to enter crutched.  The only way to know that you can still walk ahead
+is by holding one hand out in front of you and the other to the side,
+feeling for the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 24365
+D2
+~
+~
+0 0 24363
+S
+#24365
+An Intersection of Halls~
+As you step into this intersection, you can tell the room is formed in a
+circular pattern becuase both walls curve around out of sight.  Also, the
+ceiling is in the shape of a circle with a small hole to allow one ray of
+light to enter and shoot down into the center of the room, which cannot be
+seen because of the giant wall in front of you.  
+~
+0 0 0
+D1
+~
+~
+0 0 24370
+D2
+~
+~
+0 0 24364
+D3
+~
+~
+0 0 24366
+S
+#24366
+The Marble Loop~
+The further you walk into this room, the more it seems to curve around in
+the shape of a loop.  The amount of light makes it lit enought to see that
+the walls are made of pure marble.  Not one sound is made as you walk along,
+echoing your own sound of footsteps inside your head.  
+~
+0 0 0
+D0
+~
+~
+0 0 24367
+D1
+~
+~
+0 0 24365
+S
+#24367
+The Marble Loop~
+The further you walk into this room, the more it seems to curve around in
+the shape of a loop.  The amount of light makes it lit enought to see that
+the walls are made of pure marble.  Not one sound is made as you walk along,
+echoing your own sound of footsteps inside your head.  
+~
+0 0 0
+D0
+~
+~
+0 0 24368
+D2
+~
+~
+0 0 24366
+S
+#24368
+The Marble Loop~
+The further you walk into this room, the more it seems to curve around in
+the shape of a loop.  The amount of light makes it lit enought to see that
+the walls are made of pure marble.  Not one sound is made as you walk along,
+echoing your own sound of footsteps inside your head.  
+~
+0 0 0
+D0
+~
+~
+0 0 24369
+D2
+~
+~
+0 0 24367
+S
+#24369
+The Marble Loop~
+The further you walk into this room, the more it seems to curve around in
+the shape of a loop.  The amount of light makes it lit enought to see that
+the walls are made of pure marble.  Not one sound is made as you walk along,
+echoing your own sound of footsteps inside your head.  
+~
+0 0 0
+D1
+~
+~
+0 0 24374
+D2
+~
+~
+0 0 24368
+S
+#24370
+The Marble Loop~
+The further you walk into this room, the more it seems to curve around in
+the shape of a loop.  The amount of light makes it lit enought to see that
+the walls are made of pure marble.  Not one sound is made as you walk along,
+echoing your own sound of footsteps inside your head.  
+~
+0 0 0
+D0
+~
+~
+0 0 24371
+D3
+~
+~
+0 0 24365
+S
+#24371
+The Marble Loop~
+The further you walk into this room, the more it seems to curve around in
+the shape of a loop.  The amount of light makes it lit enought to see that
+the walls are made of pure marble.  Not one sound is made as you walk along,
+echoing your own sound of footsteps inside your head.  
+~
+0 0 0
+D0
+~
+~
+0 0 24372
+D2
+~
+~
+0 0 24370
+S
+#24372
+The Marble Loop~
+The further you walk into this room, the more it seems to curve around in
+the shape of a loop.  The amount of light makes it lit enought to see that
+the walls are made of pure marble.  Not one sound is made as you walk along,
+echoing your own sound of footsteps inside your head.  
+~
+0 0 0
+D0
+~
+~
+0 0 24373
+D2
+~
+~
+0 0 24371
+S
+#24373
+The Marble Loop~
+The further you walk into this room, the more it seems to curve around in
+the shape of a loop.  The amount of light makes it lit enought to see that
+the walls are made of pure marble.  Not one sound is made as you walk along,
+echoing your own sound of footsteps inside your head.  
+~
+0 0 0
+D2
+~
+~
+0 0 24372
+D3
+~
+~
+0 0 24374
+S
+#24374
+The Marble Loop~
+The room thats seems to turn by itself suddenly presents a hallway south
+of that leads to a giant set of oak doors.  Although the temple presents
+it's own containment of age, the doors seem to have been carved just
+recently.  The room continues both east and west as it loops around itself. 
+~
+0 0 0
+D0
+~
+~
+0 0 24377
+D1
+~
+~
+0 0 24373
+D2
+~
+~
+0 0 24375
+D3
+~
+~
+0 0 24369
+S
+#24375
+Before the Doors~
+You stand before a set of oak doors that have carvings of spirals,
+animals, and unfamiliar writing of some sort.  The writing on the door is so
+beautiful yet so strange you turn your eyes away from it.  A small hole in
+the ceiling shines a ray of sunlight onto the door, where a small hole
+contains a button which calls your name to push.  
+~
+0 0 0
+D0
+~
+~
+0 0 24374
+D2
+~
+~
+1 0 24376
+S
+#24376
+The Shrine of Ratahl~
+Gold chests and tables with gold settings sit all around you, making
+things gleam with the giant sunbeam that has shone into the room from above.
+Not one particle of dust floats into this room and rather, all dirt and dust
+seems to fly in from above and instantly flow out cracks in the wall and
+under the door.  Jewels of all colors lay in piles as they sparkle with
+beauty and magnificence.  
+~
+0 0 0
+D0
+~
+~
+1 0 24375
+S
+#24377
+A Stone Hallway~
+A musty hallway leads into a room to the north which seems to contain
+cots and chairs spaced out across the room.  To the south, a room seems to
+circle around itself and maybe go on forever because you've seen the same
+guard walk around that room a couple times.  
+~
+0 0 0
+D0
+~
+~
+0 0 24378
+D2
+~
+~
+0 0 24374
+S
+#24378
+A Wisdom's Room~
+A woman in a long woolen robe stands to the side, mixing herbs and the
+such in small wooden bowl.  She looks at you as you enter the room and
+invites you to sit or lay down so that she may check you for wounds of any
+sort.  The room looks rather simple in it's make.  The walls are made of
+stone but the decorations hanging around you are simply paintings and small
+pieces of painted wood made in a drab brown color.  The ceiling is not tall
+and it doesn't even contain holes like the rest of the temple, but rather it
+has little spikes sticking down to give the room a feeling of being a cave. 
+The wisdom must work for the temple because forest guards enter and leave
+this room as if there is nothing wrong with her being here.  
+~
+0 1049600 0
+D2
+~
+~
+0 0 24377
+M 150 H 150
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 24375 2 1
+D 0 24376 0 1
+M 0 24302 20 24300 1 100 Load A snake
+M 0 24300 20 24300 1 100 Load A black beetle
+M 0 24300 20 24300 1 100 Load A black beetle
+M 0 24300 20 24301 2 100 Load A black beetle
+M 0 24302 20 24303 1 100 Load A snake
+M 0 24300 20 24303 1 100 Load A black beetle
+M 0 24300 20 24306 1 100 Load A black beetle
+M 0 24302 20 24307 1 100 Load A snake
+M 0 24301 20 24308 1 100 Load A furry squirrel
+M 0 24301 20 24308 1 100 Load A furry squirrel
+M 0 24302 20 24309 1 100 Load A snake
+M 0 24301 20 24309 1 100 Load A furry squirrel
+M 0 24300 20 24310 1 100 Load A black beetle
+M 0 24302 20 24312 1 100 Load A snake
+M 0 24300 20 24312 1 100 Load A black beetle
+M 0 24302 20 24313 1 100 Load A snake
+M 0 24301 20 24313 1 100 Load A furry squirrel
+M 0 24300 20 24313 1 100 Load A black beetle
+M 0 24300 20 24314 1 100 Load A black beetle
+M 0 24302 20 24315 1 100 Load A snake
+M 0 24300 20 24315 1 100 Load A black beetle
+M 0 24301 20 24316 1 100 Load A furry squirrel
+M 0 24302 20 24317 1 100 Load A snake
+M 0 24300 20 24317 1 100 Load A black beetle
+M 0 24300 20 24317 1 100 Load A black beetle
+M 0 24300 20 24318 1 100 Load A black beetle
+M 0 24300 20 24318 1 100 Load A black beetle
+M 0 24301 20 24321 1 100 Load A furry squirrel
+M 0 24300 20 24321 1 100 Load A black beetle
+M 0 24302 20 24322 1 100 Load A snake
+M 0 24301 20 24322 1 100 Load A furry squirrel
+M 0 24301 20 24323 1 100 Load A furry squirrel
+M 0 24300 20 24324 1 100 Load A black beetle
+M 0 24302 20 24325 1 100 Load A snake
+M 0 24302 20 24327 1 100 Load A snake
+M 0 24300 20 24328 1 100 Load A black beetle
+M 0 24301 20 24330 1 100 Load A furry squirrel
+M 0 24301 20 24330 1 100 Load A furry squirrel
+M 0 24302 20 24331 1 100 Load A snake
+M 0 24300 20 24331 2 100 Load A black beetle
+M 0 24302 20 24332 1 100 Load A snake
+M 0 24300 20 24333 1 100 Load A black beetle
+M 0 24300 20 24334 2 100 Load A black beetle
+M 0 24302 20 24335 1 100 Load A snake
+M 0 24300 20 24335 1 100 Load A black beetle
+M 0 24301 20 24336 2 100 Load A furry squirrel
+M 0 24302 20 24337 1 100 Load A snake
+M 0 24300 20 24337 1 100 Load A black beetle
+M 0 24301 20 24339 2 100 Load A furry squirrel
+M 0 24300 20 24339 1 100 Load A black beetle
+M 0 24300 20 24340 1 100 Load A black beetle
+M 0 24302 20 24341 1 100 Load A snake
+M 0 24302 20 24341 1 100 Load A snake
+M 0 24303 20 24342 1 100 Load A dark forest guard
+M 0 24303 20 24343 1 100 Load A dark forest guard
+M 0 24303 20 24344 1 100 Load A dark forest guard
+M 0 24303 20 24350 1 100 Load A dark forest guard
+M 0 24303 20 24352 1 100 Load A dark forest guard
+M 0 24302 20 24352 1 100 Load A snake
+M 0 24300 20 24353 1 100 Load A black beetle
+M 0 24300 20 24353 1 100 Load A black beetle
+M 0 24300 20 24355 1 100 Load A black beetle
+M 0 24302 20 24357 1 100 Load A snake
+M 0 24303 20 24358 1 100 Load A dark forest guard
+M 0 24303 20 24361 1 100 Load A dark forest guard
+M 0 24303 20 24364 1 100 Load A dark forest guard
+M 0 24303 20 24365 1 100 Load A dark forest guard
+M 0 24303 20 24365 1 100 Load A dark forest guard
+M 0 24303 20 24366 1 100 Load A dark forest guard
+M 0 24303 20 24368 1 100 Load A dark forest guard
+M 0 24303 20 24369 1 100 Load A dark forest guard
+M 0 24303 20 24370 1 100 Load A dark forest guard
+M 0 24303 20 24373 1 100 Load A dark forest guard
+M 0 24303 20 24374 1 100 Load A dark forest guard
+M 0 24303 20 24375 1 100 Load A dark forest guard
+M 0 24303 20 24375 1 100 Load A dark forest guard
+M 0 24304 1 24376 1 100 Load The Ghost of Ratahl
+E 0 24302 0 16 0 100 The bow of ratahl is loaded on the right wrist of The Ghost of Ratahl
+E 0 24300 0 21 0 100 `7ratahl's quiver is loaded on the face of The Ghost of Ratahl
+M 0 24303 20 24376 5 100 Load A dark forest guard
+M 0 24303 20 24376 1 100 Load A dark forest guard
+M 0 24303 20 24376 1 100 Load A dark forest guard
+M 0 24305 1 24378 1 100 Load The Ratahl Wisdom
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

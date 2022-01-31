@@ -1,0 +1,2274 @@
+#AREADATA
+Name Falme~
+Builders None~
+VNUMs 15101 15250
+Credits `4[`7Middle`4]`7 Tuathon   Falme~
+Security 10
+Flags F
+Version 4
+End
+
+
+
+#MOBILES
+#15101
+whitecloak soldier~
+a whitecloak soldier is here~
+A strong man with a gleaming gold breastplate and a brilliant white cloak
+stands here 
+~
+This man has not seen many battles or even been in many, he has few scars
+on his face and barely ever needs to shave. However he is assuring himself
+that he can handle this battle 
+~
+unique~
+0 0
+AT 0 0 0 0 -1  1000 0
+10 10 30d2+150 1d1+1 10d3+0 none
+1 1 1 1
+EKN 0 0 0
+stand stand male  1000
+AHMV ABCDEFGHIJK small unknown
+#15102
+whitecloak officer~
+a whitecloak officer is here~
+A whitecloak officer watches over the troops from here. 
+~
+This man has been through many battles and appears to be ready to add
+another to his list. He only hopes to make it through another alive. 
+~
+unique~
+0 0
+AT 0 0 0 0 -1  -500 0
+45 55 50d2+750 1d1+1 30d8+0 none
+-2 -2 -2 -2
+CFJKN 0 0 0
+stand stand male  5000
+AHMV ABCDEFGHIJK medium unknown
+#15103
+damane~
+a battered woman stands here.~
+A battered woman with a suldam next to her is here. 
+~
+This woman has the look of an aes sedai however she is wearing a leash
+around her neck, this is very odd. 
+~
+unique~
+0 0
+A 0 0 0 0 -1  -1000 0
+15 15 10d10+200 10d5+300 6d6+0 none
+1 1 1 1
+Q 0 C D
+stand stand female 0
+AHMV ABCDEFGHIJK tiny unknown
+#15104
+suldam~
+A woman with a silvery bracelet~
+A woman who is wearing a silver bracelet is watching a damane intently 
+~
+This woman is watching her damane and directing her channeling abilities
+so she may become better. 
+~
+unique~
+0 0
+A 0 0 0 0 -1  -1000 0
+75 65 50d3+1500 40d2+400 15d15+0 none
+-6 -6 -6 -6
+CEFN 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK small unknown
+#15105
+to'raken~
+a man is here looking for his raken~
+This man is very lean but appears to be mean watch yourself 
+~
+This man flies the skies in the name of the empire, for he is a to'raken.
+He scouts for battles and does whatever the empress may bid him. 
+~
+unique~
+0 0
+A 0 0 0 0 -1  -200 0
+35 40 40d2+700 1d1+0 10d9+0 none
+0 0 0 0
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK tiny unknown
+#15107
+town person~
+a person from the town of falme stands here,~
+A man from falme is here looking for work. 
+~
+This man looks to have been out of work for a long time. He is hoping to
+find new work as soon as he can because his family is back at home starving.
+~
+unique~
+0 0
+A 0 0 0 0 -1  1000 0
+15 15 20d2+600 1d1+0 5d9+0 none
+2 2 2 1
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK tiny unknown
+#15108
+town person woman~
+a woman from falme is standing here~
+This woman is looking for her children since they are scattered about
+everywhere 
+~
+This woman is hoping that her husband will find a new job so that this
+family can eat otherwise they will have to emigrate to a new town, maybe the
+Two Rivers would be good. 
+~
+unique~
+0 0
+A 0 0 0 0 -1  1000 0
+10 6 10d2+150 1d1+0 3d4+0 none
+3 3 3 3
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK tiny unknown
+#15109
+dog~
+a mange ridden dog runs about here.~
+This dog is absolutely disgusting dont touch him you might get some sort
+of disease 
+~
+This dog has obviously not been cared for in a long time for he is
+absolutely disgusting. Maybe you can take care of him? 
+~
+wolf~
+0 0
+A 0 0 0 0 -1  0 0
+25 39 20d2+650 1d1+0 7d9+0 chomp
+0 0 0 0
+FH AGV ACDEFJKQV 0
+stand stand either 0
+AGV ACDEFJKQV tiny unknown
+#0
+
+
+
+#OBJECTS
+#15101
+black sword~
+A  black sword with ravens covering the blade is here.~
+A black sword with ravens that is humming of evil is laying here.~
+steel~
+weapon ABP ANP
+0
+exotic 14 3 slice 0
+15 14 10 P
+A
+13 10
+A
+18 4
+A
+20 -3
+ T 0 none~
+#15102
+dragon blade~
+A brilliantly glowing blade is here.~
+A blade that has been enhanced by the dragon himself lays here.~
+~
+weapon ABFGHIK AN
+0
+exotic 8 10 slice 0
+41 10 10 P
+A
+13 35
+A
+12 25
+ T 0 none~
+#15103
+breast plate gold~
+a brilliant gold breast plate~
+A brilliantly shining breastplate lays here.~
+~
+armor ABI AD
+0
+CE CE CE CE 0
+41 10 7 P
+A
+13 30
+ T 0 none~
+#15104
+adam bracelet~
+An a'dam whispers softly to you.~
+A silvery bracelet that looks to glow with its own evil~
+~
+armor ABE AM
+0
+D D D D 0
+41 5 0 P
+A
+13 25
+A
+20 5
+A
+20 -5
+ T 0 none~
+#15105
+cloak white~
+A White Cloak with a Golden Sun~
+A brilliant white cloak has been discarded onto the ground.~
+~
+armor AB AK
+0
+BC BC BC AB 0
+20 5 10000 P
+A
+12 25
+A
+13 5
+A
+0 0
+ T 0 none~
+#15106
+ring wedding~
+A nice wedding ring~
+Somebody's once nice ring is here it isnt very nice anymore.~
+~
+armor AB AB
+0
+AC AC AC AC 0
+1 3 6 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#15101
+The forest outside of Falme~
+The forest abruptly ends right in front of Falme. Nearby you see large
+gates. 
+~
+0 0 0
+D1
+~
+~
+0 0 15102
+D3
+~
+~
+0 0 15227
+S
+#15102
+The City gates of falme~
+Tall guilded gates stand here protecting the city from harm, however the
+docks appear to be rather open so their use is a wonder to you. 
+~
+0 0 0
+D1
+~
+~
+0 0 15103
+D2
+~
+~
+0 0 15108
+D3
+~
+~
+0 0 15101
+S
+#15103
+A Falme Street~
+Houses that are of different variety stand here. Some tall, some short,
+some long, some wide. Which should you go into? 
+~
+0 0 0
+D0
+~
+~
+0 0 15147
+D1
+~
+~
+0 0 15104
+D2
+~
+~
+0 0 15145
+D3
+~
+~
+0 0 15102
+S
+#15104
+A Falme Street~
+This part of the street only has one house by it, that house is not big
+but supports many town people. 
+~
+0 0 0
+D1
+~
+~
+0 0 15105
+D2
+~
+~
+0 0 15146
+D3
+~
+~
+0 0 15103
+S
+#15105
+A Falem street~
+To your north there is the docks to your east and west there is more of
+the housing district that has made Falme so popular for small families.
+Because they are very very cheap. 
+~
+0 0 0
+D0
+~
+~
+0 0 15126
+D1
+~
+~
+0 0 15106
+D3
+~
+~
+0 0 15104
+S
+#15106
+A Falme Street~
+This is the very bad part of the Falme neighborhood, which is remarkable
+because it all looked bad to you. 
+~
+0 0 0
+D0
+~
+~
+0 0 15149
+D1
+~
+~
+0 0 15107
+D2
+~
+~
+0 0 15148
+D3
+~
+~
+0 0 15105
+S
+#15107
+A Falme Street~
+End of the street this place is very rundown kinda like the projects,
+this place would be perfect for thieves, hmmmmm better be leaving now. 
+~
+0 0 0
+D0
+~
+~
+0 0 15151
+D2
+~
+~
+0 0 15150
+D3
+~
+~
+0 0 15106
+S
+#15108
+Back streets~
+This street is a nice place for smugglers and thieves because it looks
+like no one has been here in at least a year. 
+~
+0 0 0
+D0
+~
+~
+0 0 15102
+D2
+~
+~
+0 0 15109
+S
+#15109
+Back street~
+This back street at least leads you to some of Falme's finest ,snicker,
+streets and buildings 
+~
+0 0 0
+D0
+~
+~
+0 0 15108
+D2
+~
+~
+0 0 15110
+S
+#15110
+A back alley~
+This alley is very dangerous you can see people already eyeing you purse,
+dang that didnt take long better hurry out of here. 
+~
+0 0 0
+D0
+~
+~
+0 0 15109
+D1
+~
+~
+0 0 15119
+D2
+~
+~
+0 0 15111
+S
+#15111
+Back street~
+This is the last part of the street because it empties out into some
+alley, hope it is safer there than it is here. 
+~
+0 0 0
+D0
+~
+~
+0 0 15110
+D2
+~
+~
+0 0 15112
+S
+#15112
+A back alley~
+A rough back alley leads to merchants row this could be a potentially bad
+situation better hurry into the light 
+~
+0 0 0
+D0
+~
+~
+0 0 15111
+D1
+~
+~
+0 0 15113
+S
+#15113
+Merchants Row of Falme~
+This is the best part of merchants row or better said least destroyed.
+This is the place you feel safest in this area of town.... Which still isnt
+very safe 
+~
+0 0 0
+D0
+~
+~
+0 0 15152
+D1
+~
+~
+0 0 15114
+D2
+~
+~
+0 0 15153
+D3
+~
+~
+0 0 15112
+S
+#15114
+Merchant's Row in Falme~
+This is a part of town where businesses use to be selling goods, but due
+to the whitecloaks most of them are out of business.... Or was it the
+whitecloaks. 
+~
+0 0 0
+D0
+~
+~
+0 0 15154
+D1
+~
+~
+0 0 15115
+D2
+~
+~
+0 0 15159
+D3
+~
+~
+0 0 15113
+S
+#15115
+Merchant's Row in Falme~
+This is a place where people bought buildings and rented them out with no
+special trade of their own. 
+~
+0 0 0
+D0
+~
+~
+0 0 15155
+D1
+~
+~
+0 0 15116
+D2
+~
+~
+0 0 15160
+D3
+~
+~
+0 0 15114
+S
+#15116
+Merchant's Row in Falme~
+This is the part of town where people used to stear.. Erm buy their food. 
+~
+0 0 0
+D0
+~
+~
+0 0 15156
+D1
+~
+~
+0 0 15117
+D2
+~
+~
+0 0 15161
+D3
+~
+~
+0 0 15115
+S
+#15117
+Merchant's Row in Falme~
+This is where people would buy wares to keep their homes safe and their
+weapons sharp oh my, this is my kinda place. 
+~
+0 0 0
+D0
+~
+~
+0 0 15157
+D1
+~
+~
+0 0 15118
+D2
+~
+~
+0 0 15162
+D3
+~
+~
+0 0 15116
+S
+#15118
+Merchant's Row in Falme~
+This is the storage part of merchants row better not take anything or the
+merchants might get mad if they were still here. 
+~
+0 0 0
+D0
+~
+~
+0 0 15158
+D2
+~
+~
+0 0 15163
+D3
+~
+~
+0 0 15117
+S
+#15119
+Falme's main street~
+This is where the people of Falme meet to talk and sell their wares but
+since they have no wares this is the central meeting place of the city. 
+~
+0 0 0
+D1
+~
+~
+0 0 15120
+D3
+~
+~
+0 0 15110
+S
+#15120
+Falme's main street~
+This part of the street is now starting to have less people and as you
+look down the street the further down you look the less people there are. 
+~
+0 0 0
+D1
+~
+~
+0 0 15121
+D3
+~
+~
+0 0 15119
+S
+#15121
+Falme's main street~
+This is where the heart of the crowd is watching two dogs fighting each
+other or what they call fighting. 
+~
+0 0 0
+D1
+~
+~
+0 0 15122
+D3
+~
+~
+0 0 15120
+S
+#15122
+Falme's main street~
+The crowds are definitely getting thinner because now there are only
+three people here the dumb, the goofy, and you. 
+~
+0 0 0
+D1
+~
+~
+0 0 15123
+D3
+~
+~
+0 0 15121
+S
+#15123
+Falme's main street~
+The people here are the few the proud the retards, because anyone who
+will be that close to a battle is just plain out stupid. 
+~
+0 0 0
+D1
+~
+~
+0 0 15124
+D3
+~
+~
+0 0 15122
+S
+#15124
+End of the main street~
+Here the main street ends and the gates start to loom up over the
+horizon, this is the otherside of town. You can hear sounds of battle going
+on outside the gate. 
+~
+0 0 0
+D1
+~
+~
+0 0 15125
+D3
+~
+~
+0 0 15123
+S
+#15125
+City gates of Falme~
+Large gilded gates are here. Hope you can open them without using force,
+would be a pity to damage such beautiful work. 
+~
+0 0 0
+D1
+~
+~
+0 0 15135
+D3
+~
+~
+0 0 15124
+S
+#15126
+Pathway to the docks~
+The area before you is where the ships bring in goods and take out goods
+to trade and bring money into this community of down trodden fisherman and
+traders. 
+~
+0 0 0
+D0
+~
+~
+0 0 15127
+D2
+~
+~
+0 0 15105
+S
+#15127
+The docks~
+The docks are now getting closer to the water you can smell the salt in
+the air and feel the cool sea breeze on your face. 
+~
+0 0 0
+D0
+~
+~
+0 0 15128
+D2
+~
+~
+0 0 15126
+S
+#15128
+Intersection of the docks~
+This is where the docks meet, empty to the east and busy to the west,
+which way to go packed or empty, personal tastes prevail here. 
+~
+0 0 0
+D1
+~
+~
+0 0 15129
+D2
+~
+~
+0 0 15127
+D3
+~
+~
+0 0 15132
+S
+#15129
+The docks of Falme~
+There are two ships here. Both appear to be in rather poor shape and the
+owners apparently dont care if they are destroyed. 
+~
+0 0 0
+D1
+~
+~
+0 0 15130
+D3
+~
+~
+0 0 15128
+S
+#15130
+The docks of Falme~
+There are no boats over here they have all been destroyed or moved to the
+other side away from the battle... Battle? Look up silly. 
+~
+0 0 0
+D1
+~
+~
+0 0 15131
+D3
+~
+~
+0 0 15129
+D4
+~
+~
+0 0 15229
+S
+#15131
+The docks of Falme~
+There is shattered wood everywhere here. Apparently one of Rand's blasts
+missed the dark figure and hit here because there is virtually nothing left
+of the ships that were here. 
+~
+0 0 0
+D3
+~
+~
+0 0 15130
+S
+#15132
+The docks of Falme~
+A ship seems to ready to flee at any minute, you wonder what is about to
+happen... The women are looking around nervously. 
+~
+0 0 0
+D1
+~
+~
+0 0 15128
+D3
+~
+~
+0 0 15133
+S
+#15133
+The docks of Falme~
+Large ships of all kinds are here, why arent they leaving and in the
+distance you see some sort of naval blockade. 
+~
+0 0 0
+D1
+~
+~
+0 0 15132
+D3
+~
+~
+0 0 15134
+S
+#15134
+The docks of Falme~
+A large Seanchan ship is docked here. It is absolutely humongous,
+meanwhile they are hearding young women onto it what is going on here? 
+~
+0 0 0
+D1
+~
+~
+0 0 15133
+S
+#15135
+A field outside Falme~
+In this field it is quiet and calm however on the horizon all you can see
+is dark clouds and all you can hear are the screams of pain and agony of
+dying men and women. 
+~
+0 0 0
+D1
+~
+~
+0 0 15136
+D3
+~
+~
+0 0 15125
+S
+#15136
+The battle field~
+~
+0 0 0
+D0
+~
+~
+0 0 15139
+D1
+~
+~
+0 0 15137
+D3
+~
+~
+0 0 15135
+S
+#15137
+The battle field~
+This part of the battlefield is calm, however you see what might be a
+hospital over to your east. 
+~
+0 0 0
+D1
+~
+~
+0 0 15138
+D3
+~
+~
+0 0 15136
+S
+#15138
+The battle field~
+The wounded are here staying out of the way of the battle, if they were
+to go back they would surely be slaughtered. 
+~
+0 0 0
+D3
+~
+~
+0 0 15137
+S
+#15139
+The battle field~
+The battle is now unfolding in front of you many men against a few women
+but the women are not even scratched yet. 
+~
+0 0 0
+D0
+~
+~
+0 0 15140
+D2
+~
+~
+0 0 15136
+S
+#15140
+The battle field~
+There is barely a sole here, everyone who was here originally is dead or
+wounded. Possibly some fakers trying to live through this horrible battle. 
+~
+0 0 0
+D1
+~
+~
+0 0 15141
+D2
+~
+~
+0 0 15139
+S
+#15141
+The battle field~
+This is where the thick of the battle is. With Raken riding men and
+channeling women, battling whitecloaks what more could you ask for. 
+~
+0 0 0
+D1
+~
+~
+0 0 15142
+D3
+~
+~
+0 0 15140
+S
+#15142
+The battle field~
+The legends are here fighting anyone they can find and Mat is standing by
+watching and wondering what will this turn out to be. 
+~
+0 0 0
+D2
+~
+~
+0 0 15143
+D3
+~
+~
+0 0 15141
+S
+#15143
+The battle field~
+This part of the field is splattered with blood, and from the heat rising
+off the ground it is still fresh. 
+~
+0 0 0
+D0
+~
+~
+0 0 15142
+D3
+~
+~
+0 0 15144
+S
+#15144
+The Falme battlefield~
+The Seanchan appear to still be battling the Dragon sworn, and the
+Whitecloaks are charging up the hill. How will it all end. 
+~
+0 0 0
+D1
+~
+~
+0 0 15143
+S
+#15145
+A Falme house~
+This is the house of an alcoholic salesman how can you tell because he
+has a basement full of spiritis... WOO! 
+~
+0 0 0
+D0
+~
+~
+0 0 15103
+D4
+~
+~
+0 0 15165
+D5
+~
+~
+0 0 15164
+S
+#15146
+Falme house~
+The size of this house is quite deceiving go upstairs to find out why. 
+~
+0 0 0
+D0
+~
+~
+0 0 15104
+D4
+~
+~
+0 0 15167
+S
+#15147
+Falme house~
+An absolutely beautiful house is here, it has everything one could dream
+of except that only women seem to live here. Some of the women are even on
+leashes. There are only a few men who watch you very intently as you wander
+about. 
+~
+0 0 0
+D2
+~
+~
+0 0 15103
+D5
+~
+~
+0 0 15166
+S
+#15148
+Falme house~
+This is house is very decieving it appears small from the outside but the
+families that live here know it is no small building. 
+~
+0 0 0
+D0
+~
+~
+0 0 15106
+D5
+~
+~
+0 0 15168
+S
+#15149
+Falme house~
+Many families live inside this small house. They all share the rent
+because singularly they could not even dream to be able to afford this
+house. 
+~
+0 0 0
+D2
+~
+~
+0 0 15106
+D4
+~
+~
+0 0 15172
+S
+#15150
+Falme house~
+This building is just another of many that the seanchan have occupied and
+called their own, upstairs is the general's offices and bedrooms. 
+~
+0 0 0
+D0
+~
+~
+0 0 15107
+D4
+~
+~
+0 0 15169
+S
+#15151
+Thieves HQ~
+The thieves of falme have had to band together because the pickings are
+very slim so together they bring in enough to live quite comfortably. 
+~
+0 0 0
+D2
+~
+~
+0 0 15107
+D4
+~
+~
+0 0 15170
+D5
+~
+~
+0 0 15171
+S
+#15152
+Butcher's shop~
+This shop was raided by people looking for food, for everything is torn
+from its hinges. Is it safe to be here? 
+~
+0 0 0
+D2
+~
+~
+0 0 15113
+S
+#15153
+A leather shop~
+What used to be a thriving leather business now lays in waste after
+Whitecloak's destroyed the building. The door has a Dragon's Tooth scrawled
+onto it. But into your mind comes a question was it really the whitecloaks
+or was it someone or something else? 
+~
+0 0 0
+D0
+~
+~
+0 0 15113
+S
+#15154
+Candle shop~
+This candle shop is still in business miraculously. The poor merchant has
+no wax to make candles and probably never will, donate a penny to the poor? 
+~
+0 0 0
+D2
+~
+~
+0 0 15114
+D5
+~
+~
+0 0 15225
+S
+#15155
+Meeting room~
+This room used to be rented out for meetings but not anymore it is in
+horrible shape after being ransacked by locals in hopes of finding food. 
+~
+0 0 0
+D2
+~
+~
+0 0 15115
+S
+#15156
+General Store~
+This store held everything that was needed for furnishing a house that is
+probably all in the thieve's headquarters now but oh well not like the owner
+was there to see it. 
+~
+0 0 0
+D2
+~
+~
+0 0 15116
+S
+#15157
+A weapon shop~
+Here is an abandoned weapon shop there are still some lying about on the
+floor. I am sure no one will miss them. 
+~
+0 0 0
+D2
+~
+~
+0 0 15117
+D4
+~
+~
+0 0 15224
+S
+#15158
+Abandoned warehouse~
+This was a warehouse for the smaller business. It simply doesnt have as
+much space as the one across the street. 
+~
+0 0 0
+D2
+~
+~
+0 0 15118
+S
+#15159
+The Illuminator's guild~
+Even the Illuminators have left this God forsaken town, everything from
+this building is gone. They left nothing for anyone to take and analyze. 
+~
+0 0 0
+D0
+~
+~
+0 0 15114
+D4
+~
+~
+0 0 15223
+S
+#15160
+Meeting room~
+A still well kept building you wonder if someone is living here. There is
+a bed and assorted personal belongings. The one across the street is now a
+meeting room, so dont get your hopes up 
+~
+0 0 0
+D0
+~
+~
+0 0 15115
+S
+#15161
+The general store~
+This is the general store where people used to buy food before it got
+stolen... This store used to occupy two buildings this one and the one
+across the street. 
+~
+0 0 0
+D0
+~
+~
+0 0 15116
+S
+#15162
+Weapon shop~
+This weapon shop doesnt sell actual weapons but they sell items to keep
+your weapons sharp or they used too. Maybe they still have some stuff laying
+around. 
+~
+0 0 0
+D0
+~
+~
+0 0 15117
+S
+#15163
+Abandoned warehouse~
+This warehouse still has some goodies in it, look around and see if you
+can find some of them. 
+~
+0 0 0
+D0
+~
+~
+0 0 15118
+D5
+~
+~
+0 0 15226
+S
+#15164
+Basement stairs~
+This is where the stairwell upstairs leads too. A basement full of
+alcoholic beverages, better watch yourself or you might get drunk. 
+~
+0 0 0
+D3
+~
+~
+0 0 15206
+D4
+~
+~
+0 0 15145
+S
+#15165
+The stairwell~
+There is a stairwell here that leads to the downstairs area, however up
+here it opens up to show you the bedrooms in front of you. 
+~
+0 0 0
+D2
+~
+~
+0 0 15173
+D5
+~
+~
+0 0 15145
+S
+#15166
+Stairwell~
+This stairwell leads to a horribly lit passage way. 
+~
+0 0 0
+D0
+~
+~
+0 0 15201
+D4
+~
+~
+0 0 15147
+S
+#15167
+Stairwell~
+This is where the stairs empty out and my lord this house is now huge. 
+~
+0 0 0
+D2
+~
+~
+0 0 15178
+D5
+~
+~
+0 0 15146
+S
+#15168
+~
+~
+0 0 0
+D1
+~
+~
+0 0 15213
+D4
+~
+~
+0 0 15148
+S
+#15169
+Stairwell~
+This floor as well as house has been given to the generals and higher
+ranking people of the seanchan, all about you, you see bedrooms and studies
+that is it. 
+~
+0 0 0
+D2
+~
+~
+0 0 15181
+D5
+~
+~
+0 0 15150
+S
+#15170
+Stairwell~
+The stairs end and as you crest the last one you realize just how well
+these thieves are doing. This is one of the biggest houses in Falme. 
+~
+0 0 0
+D0
+~
+~
+0 0 15187
+D5
+~
+~
+0 0 15151
+S
+#15171
+Stairwell ~
+This leads to a horribly lit passageway as do most stairwells in this
+city only this one might hold some goodies. 
+~
+0 0 0
+D1
+~
+~
+0 0 15218
+D4
+~
+~
+0 0 15151
+S
+#15172
+Dining room.~
+This room is very simple a large candle with a wax collector surrounding
+it sitting on a very long table that looks big enough to seat at least 25
+people. And that is it. 
+~
+0 0 0
+D3
+~
+~
+0 0 15194
+D5
+~
+~
+0 0 15149
+S
+#15173
+Opening of a hallway~
+This hall way just opens up before you with the room before you showing
+many men studying plans of a battlefield and where they can fly.. . Fly?
+They are mo'raken riders better watch out. 
+~
+0 0 0
+D0
+~
+~
+0 0 15165
+D3
+~
+~
+0 0 15174
+S
+#15174
+Mo'raken rider planning room~
+Here the riders make plans on how they can make the battle sway to their
+side and change the course of the pattern. 
+~
+0 0 0
+D0
+~
+~
+0 0 15175
+D1
+~
+~
+0 0 15173
+S
+#15175
+Women's room's doors~
+Large gilded doors separate the women's room from the rest of the house,
+women do need their privacy you know. 
+~
+0 0 0
+D0
+~
+~
+0 0 15176
+D2
+~
+~
+0 0 15174
+S
+#15176
+Suldam sleeping chamber~
+This is where the suldam of this group sleep, so that they can watch
+their damane there is no door separating the two rooms. 
+~
+0 0 0
+D1
+~
+~
+0 0 15177
+D2
+~
+~
+0 0 15175
+S
+#15177
+Damane sleeping chamber~
+You see damanes huddled about this room hoping their suldams don't become
+angered. 
+~
+0 0 0
+D3
+~
+~
+0 0 15176
+S
+#15178
+A bedroom~
+This is where servants brought over by the seanchan are sleeping. They
+have their assorted tools here: trays, rags, and of course blue laquer. 
+~
+0 0 0
+D0
+~
+~
+0 0 15167
+D1
+~
+~
+0 0 15179
+S
+#15179
+More servants sleeping quarters~
+This is a room for the servants that have been added since the seanchan
+have arrived. Most are the ones who refused to swear the oaths. 
+~
+0 0 0
+D3
+~
+~
+0 0 15178
+D4
+~
+~
+0 0 15180
+S
+#15180
+The vault~
+This floor has been dedicated entirely for the money that the seanchan
+have collected from their travels it would do no good for you because it is
+all in minerals.... 
+~
+0 0 0
+D0
+~
+~
+0 0 15197
+D1
+~
+~
+0 0 15199
+D2
+~
+~
+0 0 15198
+D3
+~
+~
+0 0 15200
+D5
+~
+~
+0 0 15179
+S
+#15181
+General's study~
+This study is much the same it has a desk with papers shuffled about
+everywhere like this man was looking for something, hope it wasnt important.
+~
+0 0 0
+D0
+~
+~
+0 0 15169
+D2
+~
+~
+0 0 15182
+S
+#15182
+General's bedroom~
+This room is furnished very well comparatively to the others, it has many
+nice objects such as disks with the old sign of the aes sedai. 
+~
+0 0 0
+D0
+~
+~
+0 0 15181
+D2
+~
+~
+0 0 15183
+S
+#15183
+General's bedroom~
+This bedroom has a bed and sheets, this man must have offended the blood
+in some way. For on the floor you see jet black hair. 
+~
+0 0 0
+D0
+~
+~
+0 0 15182
+D1
+~
+~
+0 0 15184
+S
+#15184
+General's study~
+This study has been torn apart and on the floor are shards of wood and
+the handles for drawers. As was noticed earlier this man did something wrong
+~
+0 0 0
+D1
+~
+~
+0 0 15185
+D3
+~
+~
+0 0 15183
+S
+#15185
+General's Bedroom~
+The General when he is not working must get his rest therefore he has a
+bedroom next to his office. That way if he needs to do any spur of the
+moment work he is right there. 
+~
+0 0 0
+D0
+~
+~
+0 0 15186
+D3
+~
+~
+0 0 15184
+S
+#15186
+General's office~
+The General keeps all his scouting information here as well as the number
+of troops sent from over the sea. To bad you cant read any of it or you
+might take it. 
+~
+0 0 0
+D2
+~
+~
+0 0 15185
+S
+#15187
+A hallway~
+This hallway leads you down around the house towards the thieve's enter
+headquarters. 
+~
+0 0 0
+D0
+~
+~
+0 0 15188
+D2
+~
+~
+0 0 15170
+S
+#15188
+A bend in the Hallway~
+The hallway now bends sending you another direction this is probably a
+defense method because all around you, you have seen small doors. 
+~
+0 0 0
+D1
+~
+~
+0 0 15189
+D2
+~
+~
+0 0 15187
+S
+#15189
+The final door~
+This is the last door and then you will be into previously uncharted
+terriortory because everyone else who has gotten this far has been killed. 
+~
+0 0 0
+D1
+~
+~
+0 0 15190
+D3
+~
+~
+0 0 15188
+S
+#15190
+Thieve's bedroom~
+This is the first bedroom, it has many beds and nothing much else. Due to
+the extreme amounts of thieves that are coming in they added another bedroom
+~
+0 0 0
+D2
+~
+~
+0 0 15191
+D3
+~
+~
+0 0 15189
+S
+#15191
+Thieve's bedroom~
+This room is almost an exact duplicate of the one that you were just in.
+Crammed full of people with very few furnishings. 
+~
+0 0 0
+D0
+~
+~
+0 0 15190
+D3
+~
+~
+0 0 15192
+S
+#15192
+Thieve's break room~
+When they arent stealing they are lounging about drinking whatever they
+can get, Thieves dont have any work schedule so they spend most of their
+time trying to make a living but sometimes they kick back and relax. 
+~
+0 0 0
+D1
+~
+~
+0 0 15191
+D2
+~
+~
+0 0 15193
+S
+#15193
+Thieve's planning room~
+Thieves in this town have to have very good plans for stealing or else
+the seanchan will punish them dearly so here they come up with complex plans
+to make themselves richer. 
+~
+0 0 0
+D0
+~
+~
+0 0 15192
+S
+#15194
+Bedroom~
+In this house there are at least 8 to a room this one houses 10 all of
+one family perhaps the poorest one living here at the time. 
+~
+0 0 0
+D0
+~
+~
+0 0 15195
+D1
+~
+~
+0 0 15172
+S
+#15195
+Bedroom~
+This is the richest of the poor in Falme, they only have 8 people in
+their family but can actually make the rent payments on time... Quite
+amazing isnt it. 
+~
+0 0 0
+D1
+~
+~
+0 0 15196
+D2
+~
+~
+0 0 15194
+S
+#15196
+Bedroom~
+This family just needs a roof over their head till the business comes
+back since their weapon shop went under when the seanchan raided it looking
+to take all possible chances of a threat away. 
+~
+0 0 0
+D3
+~
+~
+0 0 15195
+S
+#15197
+Iron room~
+This room is full of iron. It has helms, swords, shields, anything you
+could dream of too bad it is all smashed to pieces by the seanchan horde. 
+~
+0 0 0
+D2
+~
+~
+0 0 15180
+S
+#15198
+Gold room~
+The Seanchan have either been very unlucky or already sent the gold back
+across the Aryth Ocean because there isnt crap in here. 
+~
+0 0 0
+D0
+~
+~
+0 0 15180
+S
+#15199
+Bronze room~
+This bronze is in much the same shape as the iron, it was once all
+beautifully crafted war materials till the seanchan met the people whom it
+used to belong to. 
+~
+0 0 0
+D3
+~
+~
+0 0 15180
+S
+#15200
+Steel room~
+This room is full of smelted steel how funny what good could this do you. 
+~
+0 0 0
+D1
+~
+~
+0 0 15180
+S
+#15201
+Barricaded door~
+There are some barricaded doors here hope you can get through because
+there must be something valuabe back there. 
+~
+0 0 0
+D0
+~
+~
+0 0 15202
+D2
+~
+~
+0 0 15166
+S
+#15202
+Bigger doors~
+The doors here are thicker maybe they arent locked. That would be a dream
+come true what is that pulling you towards the back rooms? 
+~
+0 0 0
+D1
+~
+~
+0 0 15203
+D2
+~
+~
+2 0 15201
+S
+#15203
+Ter'angreal room~
+This room contains assorted ter'angreals that the seanchan horde has
+collected from the aes sedai that they have conquered. 
+~
+0 0 0
+D2
+~
+~
+0 0 15204
+D3
+~
+~
+0 0 15202
+S
+#15204
+Angreal room~
+The shelves are almost full of small figurines of animals and sometimes
+people in robes. You can feel the power seeping off them, it is like a
+slight buzzing in your bones. 
+~
+0 0 0
+D0
+~
+~
+0 0 15203
+D2
+~
+~
+0 0 15205
+S
+#15205
+Sa'angreal room~
+This room only has one item in it a small little man. It is amazing that
+there is so much space for so little.... Maybe they thought they would find
+more things of value here. You feel a strong pulling towards one of the
+walls, maybe you should check it out. 
+~
+0 0 0
+D0
+~
+~
+0 0 15204
+S
+#15206
+Open space before the alcohol~
+This is an open space which allows you see the areas where the alcohol is
+kept all the aisles seem to be blocked but one that which contains the beer,
+sure is a pity. 
+~
+0 0 0
+D1
+~
+~
+0 0 15164
+D3
+~
+~
+0 0 15207
+S
+#15207
+Beer room~
+The beer is stored here because it is easiest to reach and the most often
+thing that is requested in this fine home. 
+~
+0 0 0
+D1
+~
+~
+0 0 15206
+D2
+~
+~
+0 0 15208
+S
+#15208
+Spirit room~
+This is the room where the family's favorite spirits are easily to access
+for adults but not so easy that little children will get into them.... Hehe.
+~
+0 0 0
+D0
+~
+~
+0 0 15207
+D2
+~
+~
+0 0 15209
+S
+#15209
+Shelves~
+There was something here but it is all gone, probably something like
+grape juice for the small ones of the family, oh well the world will never
+know. 
+~
+0 0 0
+D0
+~
+~
+0 0 15208
+D1
+~
+~
+0 0 15210
+S
+#15210
+Water storage~
+This area contains jugs upon jugs of water that are filled to the brim
+not the water the others drink but that which has been cleaned. 
+~
+0 0 0
+D1
+~
+~
+0 0 15211
+D3
+~
+~
+0 0 15209
+S
+#15211
+Wine shelves~
+Here stand shelves and shelves of wine, they are just about saudered into
+their holding compartments with age, dont even think about taking those. 
+~
+0 0 0
+D0
+~
+~
+0 0 15212
+D3
+~
+~
+0 0 15210
+S
+#15212
+Alcohol cellar~
+Back in the back, the very back is the strongest and most potent alcohol.
+This stuff is so strong just opening the lid will give an alcoholic a buzz.
+Some of this stuff is probably left over from the age of legends. 
+~
+0 0 0
+D2
+~
+~
+0 0 15211
+S
+#15213
+Bedroom~
+This is by far the best bedroom it has a real bed and a real bedside
+table making it a super luxoriously set room. 
+~
+0 0 0
+D1
+~
+~
+0 0 15214
+D3
+~
+~
+0 0 15168
+S
+#15214
+Bedroom~
+This bedroom has nothing in it except for a few mats and blankets for the
+family to sleep on. I bet it gets cold in here during the winter. 
+~
+0 0 0
+D1
+~
+~
+0 0 15215
+D3
+~
+~
+0 0 15213
+S
+#15215
+Bedroom~
+This room has an actual bed probably taken from these peoples first home
+but now it is all they have till they can get together some money. 
+~
+0 0 0
+D2
+~
+~
+0 0 15216
+D3
+~
+~
+0 0 15214
+S
+#15216
+Bedroom~
+With as many families staying here as there are they need all the space
+they can get so there is no furniture in this room. 
+~
+0 0 0
+D0
+~
+~
+0 0 15215
+D2
+~
+~
+0 0 15217
+S
+#15217
+Stairwell~
+Ummm these stairs dont look very safe but if you insist on exploring go
+for it. 
+~
+0 0 0
+D0
+~
+~
+0 0 15216
+D5
+~
+~
+0 0 15220
+S
+#15218
+Storage room~
+Well the thieves arent doing as well as they led you to believe because
+they have nothing in their storage rooms... So far. 
+~
+0 0 0
+D1
+~
+~
+0 0 15219
+D3
+~
+~
+0 0 15171
+S
+#15219
+Storage room~
+SCORE, you just found a prize coupon... Not really but it wouldve been
+nice this place is empty as all get out. 
+~
+0 0 0
+D3
+~
+~
+0 0 15218
+S
+#15220
+Stairwell~
+This stairwell is messed up it has a total of three steps for about 10
+feet of drop, that is not safe good thing you didnt trip. 
+~
+0 0 0
+D1
+~
+~
+0 0 15221
+D4
+~
+~
+0 0 15217
+S
+#15221
+Family's storage~
+Due to the fact that these families are poor there is absolutely nothing
+in their storage space maybe some dirt that they call their own. 
+~
+0 0 0
+D1
+~
+~
+0 0 15222
+D3
+~
+~
+0 0 15220
+S
+#15222
+Family's storage~
+This room is much of the same maybe someday when the wealth has returned
+to Falme these rooms will fill to the brink with the riches of their owner. 
+~
+0 0 0
+D3
+~
+~
+0 0 15221
+S
+#15223
+Illuminator's bedroom~
+This room is empty, there is nothing here. Not even a scent this place
+was wiped clean. 
+~
+0 0 0
+D5
+~
+~
+0 0 15159
+S
+#15224
+Second floor~
+This was obviously the man's living space for it is cramped and quite
+messy. 
+~
+0 0 0
+D5
+~
+~
+0 0 15157
+S
+#15225
+Candle maker's Basement~
+This man is apparently living out of his business, you see a bed and a
+small candle, there is not much here. 
+~
+0 0 0
+D4
+~
+~
+0 0 15154
+S
+#15226
+Basement~
+This warehouse is a dual level one it even has down-stairs storage to
+keep that wine aging, the owner was obviously wealthy. 
+~
+0 0 0
+D4
+~
+~
+0 0 15163
+S
+#15227
+Falme forest~
+The sun shines through the trees here as the trees lighten and you can
+now feel the heat. You wonder if Falme is safe or if it is a dangerous
+place. 
+~
+0 0 0
+D1
+~
+~
+0 0 15101
+D3
+~
+~
+0 0 15228
+S
+#15228
+Falme Forest~
+Here you see a man holding a horn with many strong warriors gathered
+around him, this is quite the sight but deep down you feel fear for all
+these people look to be dead. 
+~
+0 0 0
+D1
+~
+~
+0 0 15227
+S
+#15229
+50 feet in the air~
+Here you see two figures fighting it out one you recognize as Rand the
+Dragon reborn the other has fire pouring out his eyes and every other hole
+in his body. 
+~
+0 0 0
+D5
+~
+~
+0 0 15130
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 15107 1 15103 1 100 Load a person from the town of falme stands here,
+M 0 15108 1 15103 1 100 Load a woman from falme is standing here
+M 0 15108 3 15104 1 100 Load a woman from falme is standing here
+M 0 15107 2 15105 1 100 Load a person from the town of falme stands here,
+M 0 15109 3 15105 1 100 Load a mange ridden dog runs about here.
+M 0 15108 1 15105 1 100 Load a woman from falme is standing here
+M 0 15108 3 15106 1 100 Load a woman from falme is standing here
+M 0 15107 2 15106 1 100 Load a person from the town of falme stands here,
+M 0 15109 1 15107 1 100 Load a mange ridden dog runs about here.
+M 0 15107 1 15107 1 100 Load a person from the town of falme stands here,
+M 0 15109 2 15108 1 100 Load a mange ridden dog runs about here.
+M 0 15109 3 15109 1 100 Load a mange ridden dog runs about here.
+M 0 15109 5 15111 1 100 Load a mange ridden dog runs about here.
+M 0 15109 2 15113 1 100 Load a mange ridden dog runs about here.
+M 0 15107 3 15115 1 100 Load a person from the town of falme stands here,
+M 0 15109 4 15116 1 100 Load a mange ridden dog runs about here.
+M 0 15108 3 15119 1 100 Load a woman from falme is standing here
+M 0 15107 5 15119 1 100 Load a person from the town of falme stands here,
+M 0 15107 5 15120 1 100 Load a person from the town of falme stands here,
+M 0 15108 3 15120 1 100 Load a woman from falme is standing here
+M 0 15109 2 15120 1 100 Load a mange ridden dog runs about here.
+M 0 15109 3 15121 1 100 Load a mange ridden dog runs about here.
+M 0 15107 2 15122 1 100 Load a person from the town of falme stands here,
+M 0 15101 7 15139 1 100 Load a whitecloak soldier is here
+M 0 15103 1 15139 1 100 Load a battered woman stands here.
+M 0 15104 1 15139 1 100 Load A woman with a silvery bracelet
+E 0 15104 0 14 0 100 An a'dam whispers softly to you. is loaded on belt of A woman with a silvery bracelet
+M 0 15101 1 15140 1 100 Load a whitecloak soldier is here
+E 0 15105 0 12 0 100 A white cloak with a golden sun is loaded about the shoulders of a whitecloak soldier is here
+M 0 15102 3 15141 1 100 Load a whitecloak officer is here
+E 0 15103 0 5 0 100 A brilliant gold breast plate is loaded on the body of a whitecloak officer is here
+M 0 15101 12 15141 1 100 Load a whitecloak soldier is here
+M 0 15105 5 15141 1 100 Load a man is here looking for his raken
+M 0 15103 7 15141 1 100 Load a battered woman stands here.
+M 0 15104 7 15141 1 100 Load A woman with a silvery bracelet
+M 0 15101 5 15142 1 100 Load a whitecloak soldier is here
+M 0 15104 2 15142 1 100 Load A woman with a silvery bracelet
+M 0 15103 2 15142 1 100 Load a battered woman stands here.
+M 0 15105 4 15143 1 100 Load a man is here looking for his raken
+M 0 15102 2 15143 1 100 Load a whitecloak officer is here
+M 0 15101 7 15143 1 100 Load a whitecloak soldier is here
+M 0 15103 3 15143 1 100 Load a battered woman stands here.
+M 0 15104 3 15143 1 100 Load A woman with a silvery bracelet
+E 0 15104 0 14 0 100 An a'dam whispers softly to you. is loaded on belt of A woman with a silvery bracelet
+M 0 15103 2 15144 1 100 Load a battered woman stands here.
+M 0 15104 2 15144 1 100 Load A woman with a silvery bracelet
+E 0 15104 0 14 0 100 An a'dam whispers softly to you. is loaded on belt of A woman with a silvery bracelet
+M 0 15101 5 15144 1 100 Load a whitecloak soldier is here
+M 0 15102 2 15144 1 100 Load a whitecloak officer is here
+M 0 15109 3 15158 1 100 Load a mange ridden dog runs about here.
+S
+
+
+
+#SHOPS
+15108 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

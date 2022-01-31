@@ -1,0 +1,3372 @@
+#AREADATA
+Name Collam Daan~
+Builders None~
+VNUMs 21200 21499
+Credits `4[`3Legend`4]`7 Jasin     Collam Daan~
+Security 10
+Flags E
+Version 4
+End
+
+
+
+#MOBILES
+#21200
+statue~
+the statue of Severian~
+The statue of Severian is here, staring into the depths of your soul.
+~
+~
+aiel~
+0 0
+ABTe 0 64 128 36864 -1  0 0
+200 200 39000d1+1000 19000d1+1000 10d1+210 divine
+-120 -120 -120 -120
+AH ABb CDKQ 0
+stand stand male  0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#21201
+statue~
+the statue of Luthair~
+The statue of Luthair is here, veiled and wielding a deadly spear.
+~
+A tall statue with gleaming eyes of black stone seems to glare at you.
+He is taller than anyone you have ever seen, but Aiel are taller than
+most normal people anyway. He is lean but still looks dangerous with
+his scythed-spear poised for attack, some say he got it from venturing 
+into Thakan'dar itself, nearly the heart of the shadowspawn stronghold.
+His shirt sleeves end just past his elbows, where you see two Golden
+Serpentine figures etched in his skin. From the stories you have heard,
+you recall that he led the Shaido clan across the Dragonwall to defeat
+the other clans, and the Asha'man along with them, and some say that
+the Shaido even defeated the Dragon Reborn himself during that time...
+~
+kandor~
+0 0
+ABTe 80 64 128 36864 -1  0 0
+200 200 39000d1+1000 1d1+1 10d1+210 slash
+-120 -120 -120 -120
+ADEFGHK ABb CDKQ 0
+stand stand male  0
+AHMV 0 medium unknown
+F par ABCDEFGHIJK
+#21202
+statue~
+the statue of Hammar~
+The statue of Hammar is here.
+~
+~
+aiel~
+0 0
+ABTe 0 64 128 36864 -1  0 0
+200 200 39000d1+1000 19000d1+1000 10d1+210 divine
+-120 -120 -120 -120
+AFGHK ABb CDKQ 0
+stand stand male  0
+HMV 0 large unknown
+F for A
+F par ABCDEFGHIJK
+#21203
+statue~
+the statue of Matthias~
+The statue of Matthias is here.
+~
+~
+aiel~
+0 0
+ABTe 0 64 128 36864 -1  0 0
+200 200 39000d1+1000 19000d1+1000 10d1+210 divine
+-120 -120 -120 -120
+AH 0 CHIJKQ 0
+stand stand male  0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#21204
+statue~
+the statue of Sol~
+The statue of Sol is here, looking deadly.
+~
+~
+aiel~
+0 0
+ABTe 0 64 128 36864 -1  0 0
+200 200 39000d1+1000 19000d1+1000 10d1+210 divine
+-120 -120 -120 -120
+AH 0 CHIJKQ 0
+stand stand male  0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#21205
+statue~
+the statue of Melfina~
+The statue of Melfina is here, looking regal.
+~
+~
+aiel~
+0 0
+ABTe 0 64 128 36864 -1  0 0
+200 200 39000d1+1000 19000d1+1000 10d1+210 divine
+-120 -120 -120 -120
+AH 0 CHIJKQ 0
+stand stand male  0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#21206
+statue~
+the statue of Liaa~
+The statue of Liaa is here, searching.
+~
+~
+aiel~
+0 0
+ABTe 0 64 128 36864 -1  0 0
+200 200 39000d1+1000 19000d1+1000 10d1+210 divine
+-120 -120 -120 -120
+ADFGHK ABb CDQ 0
+stand stand female 0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#21207
+statue~
+the statue of Tomas~
+The statue of Tomas is here.
+~
+~
+aiel~
+0 0
+ABTe 0 64 128 36864 -1  0 0
+200 200 39000d1+1000 19000d1+1000 10d1+210 divine
+-120 -120 -120 -120
+AH 0 CHIJKQ 0
+stand stand male  0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#21208
+statue~
+the statue of Rianna~
+The statue of Rianna is here.
+~
+This tall statue, perched on its pedestal of engraved marble, depicts a tall aiel woman.  
+Dressed simply, the skillfully carved stone still exudes a quiet authority.  Each carven 
+ridge carefully painted with brilliant hues, the statue's bright blue eyes seem to gleam 
+with intelligence.  Wrinkled crows feet at the corners speak of experience with both 
+laughter and pain.  Her dark red hair is close-cropped, with a liberal sprinkling of grey,
+and a streak of silver along one temple.  The extreme detail of the carving displays the
+woman as if she stands lookout, waiting for something, perhaps looking for it.  Not 
+unattractive, she's slender, perhaps too much so, as if still recovering from some past 
+illness that took the weight from her bones.  Every line speaks of grace, and the statue's 
+keen eyes seem to miss little and trust less.  Overall, the skillful rendering depicts the 
+epitomy of the wary hunter.
+
+~
+aiel~
+0 0
+ABTe 0 64 128 36864 -1  0 0
+200 200 39000d1+1000 19000d1+1000 10d1+210 divine
+-120 -120 -120 -120
+AH 0 CHIJKQ 0
+stand stand male  0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#21209
+statue~
+the statue of Alviarin~
+The statue of Alviarin is here.
+~
+~
+aiel~
+0 0
+ABTe 0 64 128 36864 -1  0 0
+200 200 39000d1+1000 19000d1+1000 10d1+210 divine
+-120 -120 -120 -120
+AH 0 CHIJKQ 0
+stand stand female 0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#21210
+statue~
+the statue of Khadin~
+The statue of Khadin is here, veiled and looking to dance the spears.
+~
+~
+aiel~
+0 0
+ABTe 0 64 128 36864 -1  0 0
+200 200 39000d1+1000 19000d1+1000 10d1+210 divine
+-120 -120 -120 -120
+AH 0 CHIJKQ 0
+stand stand male  0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#21211
+statue~
+the statue of Plaid~
+The statue of Plaid is here, holding infinite wisdom.
+~
+~
+aiel~
+0 0
+ABTe 0 64 128 36864 -1  0 0
+200 200 39000d1+1000 19000d1+1000 10d1+210 divine
+-120 -120 -120 -120
+AFHK 0 CHIJKQ 0
+stand stand male  0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#21212
+scientist age legends~
+a scientist~
+A scientist from the Age of Legends is here, conducting various experiments.
+~
+~
+unique~
+0 0
+ABT 256 64 0 0 -1  0 0
+120 100 9000d1+1000 0d0+0 10d1+100 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand male  0
+0 0 medium unknown
+#21213
+statue~
+the statue of Suten~
+The statue of Suten is here.
+~
+~
+aiel~
+0 0
+ABTe 0 64 128 36864 -1  0 0
+200 200 39000d1+1000 19000d1+1000 10d1+210 divine
+-120 -120 -120 -120
+AH 0 CHIJKQ 0
+stand stand male  0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#21313
+mori~
+Statue of Morin~
+The Statue of Morin is here, taking shape in the darkness.
+~
+You look around this seemingly empty room, but there's...  Something... 
+That isn't quite right about it.  On the surface, everything looks fine, and
+yet you find yourself scanning the room franctically, faster and faster as
+fear starts to creep in and paralyze your body.  The lighting in the room
+suddenly darkens and you feel a pulsing coming from..  The room itself.  The
+wall in front of you starts to eminate hatred, scorn, suffering, and
+sorrow...  But most of all..  Power.  Your eyes remain riveted in awe to one
+spot in the wall that begins to become darker than the rest..  The spot
+grows larger, morphing and changing with the pulse that grows louder..  A
+sound begins to ring in your ears, screams of agonizing pain and sorrow.. 
+Innocent screams.  The dark spot molds itself into the vague shape of a man,
+more stable but still shifting violently enough that you can't seem to make
+out any specific details of the man.  The man doesn't appear to be very
+tall, but at the same moment he fills the room..  The darkness that shrouds
+him captivates you and paralyzes your feet, though the screams ringing in
+your ears tell you that you should be running.  You think a grin seems to be
+slowly spreading across the face that you cannot see, and you are struck
+with pain that is so unbearable you cannot manage to even scream as he
+introduces you to the destructive force you can only describe as True Power.
+~
+illian~
+0 0
+ABTZe 80 1104 1153 512 -1  0 0
+500 500 175d100+100 30000d1+0 3d300+100 crush
+-200 -200 -200 -200
+AFHK Aab CD 0
+stand stand male  1
+AHMV ABCDEFGHIJK huge unknown
+#21314
+Statue of Walker~
+Statue of Walker~
+The Statue of the Honnorable Warder Walker is here, showed as holding the head of Cyndane after battle.
+~
+~
+andor~
+0 0
+ABTZe 80 1088 129 33280 -1  0 0
+200 500 39000d1+0 30000d1+0 2d300+0 crush
+-200 -200 -200 -200
+FHK ABb CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK large unknown
+#21320
+The Statue of Arianna~
+Statue of Arianna~
+The Statue of Arianna is here showen as her dancing.
+~
+This lovely Tinker girl dances around you enticing you with her beauty
+and movements.  Clad in a bright red skirt and green blouse her eyes never
+leave yours.  You find yourself in a trance staring at her swaying hips.  
+~
+kandor~
+0 0
+ABRWZe 80 1088 129 37376 -1  0 0
+500 500 39000d1+0 30000d1+0 2d250+0 slap
+-200 -200 -200 -200
+FHK ABb CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#21331
+Statue of Murellin~
+Statue of Murellin~
+The statue of Murellin is here, watching your every move.
+~
+The statue of Murellin seems to be made of black, polished marble.  He is
+Built with rather large sculpted muscles, still looking lean and very agile.
+As you walk around the room, the black marble Murellin shimmers in the
+shadows and gleams in the light.  It is no wonder that the statue seems to
+be just as fearsome and mysterious as the man himself.  
+~
+arafel~
+0 0
+ABTZe 80 64 129 33280 -1  0 0
+200 500 39000d1+0 30000d1+0 3d200+50 divine
+-200 -200 -200 -200
+FHK ABb CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#21332
+Statue of Paige~
+Statue of Paige~
+The Statue of Paige stands here her channeling powers overwhelm you.
+~
+Paige is standing here tall and upright.  A shawl with yellow fringe
+draped loosely around her shoulders.  As you look at her you notice that the
+ageing process has completely stopped..  She is ageless yet somehow seems
+much older than she looks.  On the third finger of her left hand she wears a
+Great Serpent ring.  Aes Sedai?  You ask yourself..  In all probality yes.  
+ 
+~
+andor~
+0 0
+ABRZe 80 64 129 33280 -1  0 0
+200 500 39000d1+0 30000d1+0 2d250+0 slap
+-200 -200 -200 -200
+FHK ABb CDa 0
+stand stand female 0
+AHMV ABCDEFGHIJK large unknown
+#21333
+statue ~
+Statue of Roneth~
+The statue of Roneth stands tall and proud.
+~
+~
+seanchan~
+0 0
+ABTZe 0 80 129 32768 -1  0 0
+200 500 39000d1+0 30000d1+0 3d250+0 grep
+-200 -200 -200 -200
+FHK ABb CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#21334
+statue of judith~
+Statue of Judith~
+A Statue of Judith stands here muttering things to itself about mothers.
+~
+~
+kandor~
+0 0
+ABRWZe 80 80 129 33280 -1  0 0
+200 500 39000d1+0 30000d1+0 3d250+0 slap
+-200 -200 -200 -200
+FHK ABb CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK large unknown
+#21335
+statue of pren~
+statue of pren~
+The statue of Pren is here.
+~
+~
+seanchan~
+0 0
+ABRWZe 0 80 129 33280 -1  0 0
+200 500 39000d1+0 30000d1+0 2d250+0 crush
+-200 -200 -200 -200
+FHK ABb CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#21336
+statue of Algol~
+Statue of Algol~
+The statue of Algol is here, a performance frozen in time.
+~
+Here stands a statue of a Gleeman, wearing his patchwork cloak and with
+his flute case strapped to the backpack he wears.  At first it almost looks
+real standing ther casually rolling a blade back and forth across the back
+of his hand.  
+~
+ghealdan~
+0 0
+ABTWZe 80 64 1 32768 -1  0 0
+200 500 39000d1+0 30000d1+0 2d250+0 divine
+-200 -200 -200 -200
+FHK ABb CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#21337
+statue of Sarek~
+Statue of Sarek~
+The statue of Sarek is here, waiting.
+~
+~
+aiel~
+0 0
+ABTWZe 80 80 129 33280 -1  0 0
+200 500 39000d1+0 30000d1+0 3d250+0 thwack
+-200 -200 -200 -200
+FHK ABb CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#21338
+statue of gedland~
+statue of gedland~
+A warrior of legend stands here with a large broadsword and a spear on his waist.
+~
+~
+cairhien~
+0 0
+ABTWZe 80 64 129 33280 -1  0 0
+200 500 39000d1+0 10000d1+0 2d250+1 crush
+-160 -160 -160 -100
+FHK ABb CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#21339
+statue of koren~
+statue of koren~
+The statue of Koren is here.
+~
+A tall man stands here with dark brown hair.  His brown eyes glare at you
+morbidly.  His Morbid armor catches your eye as it gleams darkness towards
+you.  As you walk in the room he stands up and draws his sword.  
+~
+ghealdan~
+0 0
+ABTZe 80 64 128 32768 -1  0 0
+200 500 39000d1+0 30000d1+0 2d250+0 divine
+-200 -200 -200 -200
+FHK ABb CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#21340
+statue of kendal~
+`*Statue of Kendal~
+The Statue of Kendal is here
+~
+~
+andor~
+0 0
+ABRWZe 80 64 129 33280 -1  0 0
+200 500 39000d1+0 30000d1+0 3d250+0 divine
+-200 -200 -200 -200
+FHK ABb CD 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#21341
+statue of nagash~
+`*The Statue of Nagash~
+The Statue of Nagash is here, waiting.
+~
+~
+kandor~
+0 0
+ABRWZe 80 64 129 33280 -1  0 0
+200 500 39000d1+0 30000d1+0 3d250+0 cleave
+-200 -200 -200 -200
+FHK ABb CD 0
+stand stand male  1
+AHMV ABCDEFGHIJK large unknown
+#21344
+Statue Jubei~
+Statue of Jubei~
+The statue of Jubei stands here with his bow drawn and ready to strike.
+~
+~
+illian~
+0 0
+ABGTZce 336 64 0 0 -1  0 0
+500 900 30000d1+0 50d50+50 3d250+0 divine
+-200 -200 -200 -200
+AFN ABJMOPb HI 0
+stand stand male  5000
+AHMV ABCDEFGHIJK medium unknown
+#21345
+Statue of Kimberly~
+`*Statue of Kimberly~
+The statue of the `^T`6inker `*Kimberly is here, knitting something.
+~
+~
+andor~
+0 0
+ABQZe 336 2128 1152 8 -1  0 0
+500 500 39000d1+0 30000d1+0 5d350+100 divine
+-200 -200 -200 -200
+CDEFGHK ABb CD 0
+stand stand female 100
+AHMV ABCDEFGHIJK large unknown
+#21347
+Statue of Loch~
+`*Statue of Loch~
+The statue of Loch is here observing.
+~
+~
+andor~
+0 0
+ABTZe 336 1088 1153 32768 -1  0 0
+200 500 39000d1+0 10000d1+0 5d300+0 crush
+-200 -200 -200 -200
+DEFGHK ABb CD 0
+stand stand male  100
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#21200
+black veil~
+a Sinister Black Veil~
+A black veil from the Age of Legends lies here.~
+unknown~
+armor Y AR
+0
+ACDF ACDF ACDF ACDF 0
+150 0 300000 P
+A
+20 -5
+A
+19 7
+A
+18 7
+A
+13 85
+ T 0 none~
+#21201
+golden dragon markings~
+`7Golden Dragon Tattoo~
+A golden dragon marking lies here, from the Age of Legends.~
+unknown~
+armor AY AI
+0
+ACDF ACDF ACDF ACDF 0
+150 0 300000 P
+A
+20 -5
+A
+19 8
+A
+18 8
+A
+13 75
+ T 0 none~
+#21202
+scythed-spear thakan'dar spear scythed~
+a Scythed-Spear~
+A scythed-spear from Thakan'dar lies here, looking deadly in its stillness.~
+unknown~
+weapon AB AN
+0
+spear 75 1 slash CEH
+150 100 300000 P
+A
+13 30
+A
+20 -5
+A
+19 10
+A
+18 10
+ T 0 none~
+#21203
+color-shift cloak color shift~
+`7a Color-Shifting Cloak~
+A color-shifting cloak from the Age of Legends lies here.~
+unknown~
+armor AY AK
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+17 -10
+A
+13 70
+A
+18 8
+A
+19 8
+A
+20 -4
+ T 0 none~
+#21204
+warder issued boots~
+`7Warder Issued Boots~
+A pair of boots issued to Warders lie here.~
+unknown~
+armor ABY AG
+0
+ACDF ACDF ACDF ACDF 0
+150 0 0 P
+A
+17 -20
+A
+18 10
+A
+19 10
+A
+13 50
+ T 0 none~
+#21205
+gauntlets power~
+`7Gauntlets of Power~
+A pair of powerful looking gauntlets from the Age of Legends lie here.~
+unknown~
+armor AY AH
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+18 8
+A
+19 8
+A
+20 -5
+A
+13 75
+ T 0 none~
+#21206
+rod of dominion~
+a Rod of Dominion~
+A Rod of Dominion from the Age of Legends lies here.~
+unknown~
+armor AY AO
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+13 90
+A
+18 6
+A
+19 6
+A
+20 -6
+ T 0 none~
+#21207
+brown leather leggings~
+`7Brown Leather Leggings~
+A pair of plain brown leather pants from the Age of Legends lie here.~
+unknown~
+armor ABY AF
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+13 90
+A
+18 5
+A
+19 5
+A
+20 -8
+ T 0 none~
+#21208
+cadin'sor~
+`7Cadin'sor~
+Cadin'sor from the Age of Legends lies here.~
+unknown~
+armor AY AD
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+19 6
+A
+18 6
+A
+13 95
+A
+12 25
+ T 0 none~
+#21209
+hide buckler~
+a Hide Buckler~
+A hide buckler is here, looking sturdy.~
+unknown~
+armor ABYa AJ
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+18 9
+A
+19 9
+A
+20 -9
+A
+13 35
+ T 0 none~
+#21210
+aura courage~
+an Aura of Courage~
+The aura of courage lies here.~
+unknown~
+armor A AQ
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+13 40
+A
+20 -10
+A
+19 9
+A
+18 9
+ T 0 none~
+#21211
+blood stained helm war~
+a Blood-Stained War Helm~
+A helm stained with blood lies here.~
+unknown~
+armor ABYa AE
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+13 65
+A
+20 -5
+A
+19 8
+A
+18 8
+ T 0 none~
+#21212
+spiked steel gauntlets~
+`7Spiked-Steel Gauntlets~
+A pair of spiked-steel gauntlets lie here.~
+unknown~
+armor ABYa AH
+0
+ACDF ACDF ACDF ACDF 0
+150 0 0 P
+A
+12 25
+A
+20 -5
+A
+19 3
+A
+18 3
+A
+13 90
+ T 0 none~
+#21213
+high-collared black coat collar~
+a High-Collared Black Coat~
+A high-collared black coat lies here.~
+unknown~
+armor A AD
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+13 30
+A
+20 -10
+A
+19 10
+A
+18 10
+ T 0 none~
+#21214
+red and gold dragon pin~
+a Red and Gold Dragon Pin~
+A red and gold enameled dragon pin lies here.~
+unknown~
+armor ABYa AC
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+20 -5
+A
+12 70
+A
+13 80
+ T 0 none~
+#21215
+silver sword pin~
+a Silver Sword Pin~
+A silver sword pin lies here.~
+unknown~
+armor ABYa AC
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+20 -5
+A
+12 70
+A
+13 80
+ T 0 none~
+#21216
+glow of saidin~
+the Glow of Saidin~
+The glow of Saidin lies here, in all it's taintedness.~
+unknown~
+light B A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+150 0 30000 P
+A
+13 55
+A
+20 -5
+A
+18 10
+A
+19 10
+ T 0 none~
+#21217
+keeper's stole contact imm reimburse~
+please contact an immortal for reimbursement~
+Feafe Contact Imm~
+unknown~
+armor ABY AS
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+ T 0 none~
+#21218
+protective shield of saidar~
+the Protective Shield of Saidar~
+The protective shield of Saidar lies here.~
+unknown~
+armor JKY AJ
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 40
+ T 0 none~
+#21219
+aura of serenity~
+an Aura of Serenity~
+An aura of serenity lies here.~
+unknown~
+armor AY AQ
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+13 75
+A
+20 -7
+A
+12 40
+A
+18 3
+A
+19 3
+ T 0 none~
+#21220
+amyrlin's stole contact imm reimburse~
+please contact an immortal for reimbursement~
+Feafe Contact Imm~
+unknown~
+armor A AS
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+ T 0 none~
+#21221
+flame tar valon~
+the Flame of Tar Valon~
+The Flame of Tar Valon lies here.~
+unknown~
+light A A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+150 0 30000 P
+A
+20 -6
+A
+12 50
+A
+13 100
+ T 0 none~
+#21222
+bracelet power~
+a Bracelet of Power~
+A bracelet of the One Power is here.~
+unknown~
+armor A AM
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+19 3
+A
+18 3
+A
+20 -5
+A
+12 50
+A
+13 75
+ T 0 none~
+#21223
+blood-stained spear blood stained~
+a blood-stained spear~
+An Aiel spear is here, staind with blood.~
+unknown~
+weapon ABa AN
+0
+exotic 75 1 slice EGH
+150 100 0 P
+A
+13 5
+A
+19 10
+A
+18 10
+A
+20 -10
+ T 0 none~
+#21224
+pair soft knee high laced boots~
+(Silent) a pair of laced knee-high boots~
+A pair of knee-high boots are here. And yes, they are silent.~
+unknown~
+armor A AG
+0
+ACDF ACDF ACDF ACDF 0
+150 50 30000 P
+A
+20 -10
+A
+13 80
+A
+12 50
+ T 0 none~
+#21225
+shoufa~
+a Shoufa~
+A shoufa lies here, looking to provide protection from the sun.~
+unknown~
+armor AB AE
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+13 100
+A
+20 -5
+A
+12 60
+ T 0 none~
+#21226
+staff searching~
+the Staff of Searching~
+A staff of many ages lies here.~
+unknown~
+armor A AO
+0
+ACDF ACDF ACDF ACDF 0
+150 50 30000 P
+A
+18 10
+A
+19 10
+A
+20 -5
+A
+13 55
+ T 0 none~
+#21227
+aura nostalgia~
+an Aura of Nostalgia~
+The feeling of nostalgia is here, longing.~
+unknown~
+armor A AQ
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+13 90
+A
+12 50
+A
+18 4
+A
+19 4
+ T 0 none~
+#21228
+ring of the ages~
+a Ring of the Ages~
+A ring from the Age of Legends lies here.~
+unknown~
+armor AB AB
+0
+ACDF ACDF ACDF ACDF 0
+150 20 30000 P
+A
+13 100
+A
+12 50
+A
+18 3
+A
+19 3
+ T 0 none~
+#21229
+fixed tool~
+(Fixed) a Tool for Fixing~
+A tool is here, ready to fix some stizuff.~
+unknown~
+armor AB AO
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+13 100
+A
+12 60
+A
+20 -5
+ T 0 none~
+#21230
+brightly colored shirt~
+(Fruity) a Brightly Colored Shirt~
+A brightly colored shirt, probably belonging to a Tinker lies here.~
+unknown~
+armor AB AD
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+13 100
+A
+20 -5
+A
+12 55
+ T 0 none~
+#21231
+cowskin cloak~
+(Mad) a Cowskin Cloak~
+A white and black cloak is here, probably made from a MAD C7OW.~
+unknown~
+armor AB AK
+0
+ACDF ACDF ACDF ACDF 0
+150 0 30000 P
+A
+13 90
+A
+12 50
+A
+18 4
+A
+19 4
+ T 0 none~
+#21232
+rip fabric time~
+a rip in the fabric of time~
+A noticeable rip in the fabric of time can be felt here.~
+unknown~
+portal O 0
+0
+0 0 0 EGHJMO 0
+150 0 0 P
+ T 0 Null~
+#21233
+elixir eternity~
+an elixir of eternity~
+An elixir of eternity is here.~
+unknown~
+potion a A
+0
+150 'heal' 'reserved' 'reserved' 'reserved'
+76 0 0 P
+ T 0 none~
+#21234
+plain breeches~
+a Pair of Plain Breeches~
+A pair of plain breeches lie here.~
+unknown~
+armor AB AF
+0
+ACDF ACDF ACDF ACDF 0
+150 0 0 P
+A
+17 -30
+A
+18 10
+A
+19 10
+A
+20 -8
+ T 0 none~
+#21235
+plain leather bracer~
+a Plain Leather Bracer~
+A leather bracer is lying here, looking rather plain.~
+unknown~
+armor AB AM
+0
+ACDF ACDF ACDF ACDF 0
+150 0 0 P
+A
+13 70
+A
+17 -20
+A
+18 8
+A
+19 8
+ T 0 none~
+#21336
+Patchwork Cloak Legend~
+`*A multi-color patchwork cloak~
+Something that looks like a quilt lays here in the dust.~
+cotton~
+armor GJKa AK
+0
+ACDF ACDF ACDF ACDF 0
+150 50 100 P
+A
+17 -20
+A
+20 -10
+A
+13 100
+ T 0 none~
+#21338
+Lantern of Truth~
+`*The Lantern of Truth~
+A Lantern made of crystal clear stone is here, gleemeing.~
+crystal~
+light AGJKSTYa A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+150 10 0 P
+A
+18 10
+A
+19 10
+S 'detect invis'   0  80  -1  25   0          4
+S 'detect hidden'   0  80  -1  25   0          6
+A
+17 -10
+ T 0 none~
+#21341
+Fine Wool Cloak~
+`*A Fine Wool Cloak~
+A bundle of dark wool has been left here.~
+cloth~
+armor GJK AK
+0
+ACDF ACDF ACDF ACDF 0
+150 50 1 P
+A
+13 100
+A
+20 -10
+A
+12 40
+ T 0 none~
+#21342
+Whisper of the Song~
+`*A Whisper of the Song~
+A faint sound emanates from this lightly glowing orb~
+unknown~
+armor GJK AQ
+0
+ACDF ACDF ACDF ACDF 0
+150 0 0 P
+A
+13 105
+A
+19 6
+A
+18 6
+A
+14 -50
+A
+20 -10
+ T 0 none~
+#21343
+Archer's Chest and Shoulder Plates~
+the Archer's Chest and Shoulder Plates~
+A set of chest and shoulder plates lie here~
+unknown~
+armor KY AD
+0
+ACDF ACDF ACDF ACDF 0
+150 100 0 P
+A
+18 10
+A
+19 10
+A
+20 -10
+A
+13 35
+ T 0 none~
+#21344
+Face Plate Jubei Archer~
+(Scratched) Jubei's Face Plate of Accuracy~
+Jubei's Face Plate of Accuracy is lying here shining in the sun~
+unknown~
+armor IKY AR
+0
+ACDF ACDF ACDF ACDF 0
+150 40 0 P
+A
+18 10
+A
+19 10
+A
+20 -8
+A
+13 45
+ T 0 none~
+#21347
+warders battle staff~
+`*Warders Battle Staff of might~
+A log wooden staff lays here humming slightly~
+wood~
+weapon GHJK AN
+0
+staff 3 50 blast BFG
+150 40 1 P
+A
+19 10
+A
+18 10
+A
+20 -10
+A
+17 -10
+A
+14 80
+ T 0 none~
+#21400
+a silver arrow~
+a silver arrow~
+A silver arrow lies here.~
+unknown~
+arrow d AO
+0
+0 15 9 0 AEGHJ
+110 0 0 P
+A
+18 10
+A
+19 10
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#21200
+Stairway to the University of Collam Daan~
+~
+0 589832 0
+D4
+~
+~
+0 0 21201
+S
+#21201
+Stairway to Collam Daan~
+~
+0 589832 0
+D4
+~
+~
+0 0 21202
+D5
+~
+~
+0 0 21200
+S
+#21202
+Stairway to Collam Daan~
+~
+0 589832 0
+D4
+~
+~
+0 0 21203
+D5
+~
+~
+0 0 21201
+S
+#21203
+At the Entrance to Collam Daan~
+~
+0 589832 0
+D0
+~
+~
+0 0 21204
+D5
+~
+~
+0 0 21202
+S
+#21204
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21205
+D2
+~
+~
+0 0 21203
+S
+#21205
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21206
+D1
+~
+~
+0 0 21216
+D2
+~
+~
+0 0 21204
+D3
+~
+~
+0 0 21211
+S
+#21206
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21207
+D2
+~
+~
+0 0 21205
+S
+#21207
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21208
+D2
+~
+~
+0 0 21206
+S
+#21208
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21209
+D1
+~
+~
+0 0 21227
+D2
+~
+~
+0 0 21207
+D3
+~
+~
+0 0 21232
+S
+#21209
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21210
+D2
+~
+~
+0 0 21208
+S
+#21210
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21237
+D2
+~
+~
+0 0 21209
+S
+#21211
+The First Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21205
+D2
+~
+~
+0 0 21223
+D3
+~
+~
+0 0 21212
+S
+#21212
+The First Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21211
+D3
+~
+~
+0 0 21213
+S
+#21213
+The First Research Wing~
+~
+0 589832 0
+D0
+~
+~
+0 0 21222
+D1
+~
+~
+0 0 21212
+D3
+~
+~
+0 0 21214
+S
+#21214
+The First Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21213
+D3
+~
+~
+0 0 21215
+S
+#21215
+The First Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21214
+D2
+~
+~
+0 0 21221
+S
+#21216
+The First Research Wing~
+~
+0 589832 0
+D0
+~
+~
+0 0 21224
+D1
+~
+~
+0 0 21217
+D3
+~
+~
+0 0 21205
+S
+#21217
+The First Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21218
+D3
+~
+~
+0 0 21216
+S
+#21218
+The First Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21219
+D2
+~
+~
+0 0 21225
+D3
+~
+~
+0 0 21217
+S
+#21219
+The First Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21220
+D3
+~
+~
+0 0 21218
+S
+#21220
+The First Research Wing~
+~
+0 589832 0
+D0
+~
+~
+0 0 21226
+D3
+~
+~
+0 0 21219
+S
+#21221
+A Research Room~
+~
+0 589832 0
+D0
+~
+~
+0 0 21215
+S
+#21222
+A Research Room~
+~
+0 589832 0
+D2
+~
+~
+0 0 21213
+S
+#21223
+A Research Room~
+~
+0 589832 0
+D0
+~
+~
+0 0 21211
+S
+#21224
+A Research Room~
+~
+0 589832 0
+D2
+~
+~
+0 0 21216
+S
+#21225
+A Research Room~
+~
+0 589832 0
+D0
+~
+~
+0 0 21218
+S
+#21226
+A Research Room~
+~
+0 589832 0
+D2
+~
+~
+0 0 21220
+S
+#21227
+The Second Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21228
+D2
+~
+~
+0 0 21266
+D3
+~
+~
+0 0 21208
+S
+#21228
+The Second Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21229
+D3
+~
+~
+0 0 21227
+S
+#21229
+The Second Research Wing~
+~
+0 589832 0
+D0
+~
+~
+0 0 21267
+D1
+~
+~
+0 0 21230
+D3
+~
+~
+0 0 21228
+S
+#21230
+The Second Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21231
+D3
+~
+~
+0 0 21229
+S
+#21231
+The Second Research Wing~
+~
+0 589832 0
+D2
+~
+~
+0 0 21268
+D3
+~
+~
+0 0 21230
+S
+#21232
+The Second Research Wing~
+~
+0 589832 0
+D0
+~
+~
+0 0 21269
+D1
+~
+~
+0 0 21208
+D3
+~
+~
+0 0 21233
+S
+#21233
+The Second Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21232
+D3
+~
+~
+0 0 21234
+S
+#21234
+The Second Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21233
+D2
+~
+~
+0 0 21270
+D3
+~
+~
+0 0 21235
+S
+#21235
+The Second Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21234
+D3
+~
+~
+0 0 21236
+S
+#21236
+The Second Research Wing~
+~
+0 589832 0
+D0
+~
+~
+0 0 21271
+D1
+~
+~
+0 0 21235
+S
+#21237
+A Vast Chamber~
+~
+0 589832 0
+D0
+~
+~
+0 0 21238
+D2
+~
+~
+0 0 21210
+D4
+~
+~
+0 0 21281
+S
+#21238
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21239
+D2
+~
+~
+0 0 21237
+S
+#21239
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21240
+D2
+~
+~
+0 0 21238
+S
+#21240
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21241
+D1
+~
+~
+0 0 21245
+D2
+~
+~
+0 0 21239
+D3
+~
+~
+0 0 21250
+S
+#21241
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21242
+D2
+~
+~
+0 0 21240
+S
+#21242
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21243
+D2
+~
+~
+0 0 21241
+S
+#21243
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21244
+D1
+~
+~
+0 0 21255
+D2
+~
+~
+0 0 21242
+D3
+~
+~
+0 0 21260
+S
+#21244
+The Main Hall~
+~
+0 589832 0
+D0
+~
+~
+0 0 21265
+D2
+~
+~
+0 0 21243
+S
+#21245
+The Third Research Wing~
+~
+0 589832 0
+D0
+~
+~
+0 0 21272
+D1
+~
+~
+0 0 21246
+D3
+~
+~
+0 0 21240
+S
+#21246
+The Third Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21247
+D3
+~
+~
+0 0 21245
+S
+#21247
+The Third Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21248
+D2
+~
+~
+0 0 21273
+D3
+~
+~
+0 0 21246
+S
+#21248
+The Third Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21249
+D3
+~
+~
+0 0 21247
+S
+#21249
+The Third Research Wing~
+~
+0 589832 0
+D0
+~
+~
+0 0 21274
+D3
+~
+~
+0 0 21248
+S
+#21250
+The Third Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21240
+D3
+~
+~
+0 0 21251
+S
+#21251
+The Third Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21250
+D3
+~
+~
+0 0 21252
+S
+#21252
+The Third Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21251
+D3
+~
+~
+0 0 21253
+S
+#21253
+The Third Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21252
+D3
+~
+~
+0 0 21254
+S
+#21254
+The Third Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21253
+S
+#21255
+The Fourth Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21256
+D2
+~
+~
+0 0 21275
+D3
+~
+~
+0 0 21243
+S
+#21256
+The Fourth Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21257
+D3
+~
+~
+0 0 21255
+S
+#21257
+The Fourth Research Wing~
+~
+0 589832 0
+D0
+~
+~
+0 0 21276
+D1
+~
+~
+0 0 21258
+D3
+~
+~
+0 0 21256
+S
+#21258
+The Fourth Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21259
+D3
+~
+~
+0 0 21257
+S
+#21259
+The Fourth Research Wing~
+~
+0 589832 0
+D2
+~
+~
+0 0 21277
+D3
+~
+~
+0 0 21258
+S
+#21260
+The Fourth Research Wing~
+~
+0 589832 0
+D0
+~
+~
+0 0 21278
+D1
+~
+~
+0 0 21243
+D3
+~
+~
+0 0 21261
+S
+#21261
+The Fourth Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21260
+D3
+~
+~
+0 0 21262
+S
+#21262
+The Fourth Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21261
+D2
+~
+~
+0 0 21279
+D3
+~
+~
+0 0 21263
+S
+#21263
+The Fourth Research Wing~
+~
+0 589832 0
+D1
+~
+~
+0 0 21262
+D3
+~
+~
+0 0 21264
+S
+#21264
+The Fourth Research Wing~
+~
+0 589832 0
+D0
+~
+~
+0 0 21280
+D1
+~
+~
+0 0 21263
+S
+#21265
+A Room of Artifacts~
+~
+0 589832 0
+D2
+~
+~
+0 0 21244
+S
+#21266
+A Research Room~
+~
+0 589832 0
+D0
+~
+~
+0 0 21227
+S
+#21267
+A Research Room~
+~
+0 589832 0
+D2
+~
+~
+0 0 21229
+S
+#21268
+A Research Room~
+~
+0 589832 0
+D0
+~
+~
+0 0 21231
+S
+#21269
+A Philosopher's Room~
+~
+0 589832 0
+D2
+~
+~
+0 0 21232
+S
+#21270
+A Professor's Room~
+~
+0 589832 0
+D0
+~
+~
+0 0 21234
+S
+#21271
+A Scientist's Room~
+~
+0 589832 0
+D2
+~
+~
+0 0 21236
+S
+#21272
+A Research Room~
+~
+0 589832 0
+D2
+~
+~
+0 0 21245
+S
+#21273
+A Research Room~
+~
+0 589832 0
+D0
+~
+~
+0 0 21247
+S
+#21274
+A Research Room~
+~
+0 589832 0
+D2
+~
+~
+0 0 21249
+S
+#21275
+Ecology Research Room~
+~
+0 589832 0
+D0
+~
+~
+0 0 21255
+S
+#21276
+Restorer Research Room~
+~
+0 589832 0
+D2
+~
+~
+0 0 21257
+S
+#21277
+True Power Research Room~
+~
+0 589832 0
+D0
+~
+~
+0 0 21259
+S
+#21278
+Animal Research Room~
+~
+0 589832 0
+D2
+~
+~
+0 0 21260
+S
+#21279
+Construct Research Room~
+~
+0 589832 0
+D0
+~
+~
+0 0 21262
+S
+#21280
+Travel Research Room~
+~
+0 589832 0
+D2
+~
+~
+0 0 21264
+S
+#21281
+Up a Spiral Staircase~
+~
+0 589832 0
+D4
+~
+~
+0 0 21282
+D5
+~
+~
+0 0 21237
+S
+#21282
+Up a Spiral Staircase~
+~
+0 589832 0
+D4
+~
+~
+0 0 21283
+D5
+~
+~
+0 0 21281
+S
+#21283
+The Great Library~
+~
+0 589832 0
+D1
+~
+~
+0 0 21284
+D3
+~
+~
+0 0 21288
+D4
+~
+~
+0 0 21292
+D5
+~
+~
+0 0 21282
+S
+#21284
+The Great Library~
+~
+0 589832 0
+D1
+~
+~
+0 0 21285
+D3
+~
+~
+0 0 21283
+S
+#21285
+The Great Library~
+~
+0 589832 0
+D1
+~
+~
+0 0 21286
+D3
+~
+~
+0 0 21284
+S
+#21286
+The Great Library~
+~
+0 589832 0
+D1
+~
+~
+0 0 21287
+D3
+~
+~
+0 0 21285
+S
+#21287
+The Great Library~
+~
+0 589832 0
+D3
+~
+~
+0 0 21286
+S
+#21288
+The Great Library~
+~
+0 589832 0
+D1
+~
+~
+0 0 21283
+D3
+~
+~
+0 0 21289
+S
+#21289
+The Great Library~
+~
+0 589832 0
+D1
+~
+~
+0 0 21288
+D3
+~
+~
+0 0 21290
+S
+#21290
+The Great Library~
+~
+0 589832 0
+D1
+~
+~
+0 0 21289
+D3
+~
+~
+0 0 21291
+S
+#21291
+The Great Library~
+~
+0 589832 0
+D1
+~
+~
+0 0 21290
+S
+#21292
+Up a Spiral Staircase~
+~
+0 589832 0
+D4
+~
+~
+0 0 21293
+D5
+~
+~
+0 0 21283
+S
+#21293
+Up a Spiral Staircase~
+~
+0 589832 0
+D4
+~
+~
+0 0 21294
+D5
+~
+~
+0 0 21292
+S
+#21294
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21307
+D1
+~
+~
+0 0 21301
+D2
+~
+~
+0 0 21324
+D3
+~
+~
+0 0 21295
+D4
+~
+~
+0 0 21321
+D5
+~
+~
+0 0 21293
+S
+#21295
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21296
+D1
+~
+~
+0 0 21294
+D2
+~
+~
+0 0 21297
+D3
+~
+~
+0 0 21298
+S
+#21296
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21295
+S
+#21297
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21295
+S
+#21298
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21299
+D1
+~
+~
+0 0 21295
+D2
+~
+~
+0 0 21300
+S
+#21299
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21298
+S
+#21300
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21298
+S
+#21301
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21302
+D1
+~
+~
+0 0 21304
+D2
+~
+~
+0 0 21303
+D3
+~
+~
+0 0 21294
+S
+#21302
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21301
+S
+#21303
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21301
+S
+#21304
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21306
+D2
+~
+~
+0 0 21305
+D3
+~
+~
+0 0 21301
+S
+#21305
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21304
+S
+#21306
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21304
+S
+#21307
+The Halls of Glory~
+~
+0 589832 0
+D0
+~
+~
+0 0 21308
+D2
+~
+~
+0 0 21294
+S
+#21308
+The Halls of Glory~
+~
+0 589836 0
+D1
+~
+~
+0 0 21309
+D2
+~
+~
+0 0 21307
+D3
+~
+~
+0 0 21315
+S
+#21309
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21310
+D1
+~
+~
+0 0 21312
+D2
+~
+~
+0 0 21311
+D3
+~
+~
+0 0 21308
+S
+#21310
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21309
+S
+#21311
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21309
+S
+#21312
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21313
+D2
+~
+~
+0 0 21314
+D3
+~
+~
+0 0 21309
+S
+#21313
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21312
+S
+#21314
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21312
+S
+#21315
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21316
+D1
+~
+~
+0 0 21308
+D2
+~
+~
+0 0 21317
+D3
+~
+~
+0 0 21318
+S
+#21316
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21315
+S
+#21317
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21315
+S
+#21318
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21319
+D1
+~
+~
+0 0 21315
+D2
+~
+~
+0 0 21320
+S
+#21319
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21318
+S
+#21320
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21318
+S
+#21321
+Up a Spiral Staircase~
+~
+0 589832 0
+D4
+~
+~
+0 0 21322
+D5
+~
+~
+0 0 21294
+S
+#21322
+Up a Spiral Staircase~
+~
+0 589832 0
+D4
+~
+~
+0 0 21323
+D5
+~
+~
+0 0 21321
+S
+#21323
+An Observation Tower~
+~
+0 589832 0
+D5
+~
+~
+0 0 21322
+S
+#21324
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21294
+D1
+~
+~
+0 0 21325
+D3
+~
+~
+0 0 21328
+S
+#21325
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21337
+D1
+~
+~
+0 0 21326
+D2
+~
+~
+0 0 21338
+D3
+~
+~
+0 0 21324
+S
+#21326
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21336
+D1
+~
+~
+0 0 21327
+D2
+~
+~
+0 0 21340
+D3
+~
+~
+0 0 21325
+S
+#21327
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21341
+D1
+~
+~
+0 0 21343
+D2
+~
+~
+0 0 21342
+D3
+~
+~
+0 0 21326
+S
+#21328
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21335
+D1
+~
+~
+0 0 21324
+D2
+~
+~
+0 0 21339
+D3
+~
+~
+0 0 21329
+S
+#21329
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21333
+D1
+~
+~
+0 0 21328
+D2
+~
+~
+0 0 21334
+D3
+~
+~
+0 0 21330
+S
+#21330
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21331
+D1
+~
+~
+0 0 21329
+D2
+~
+~
+0 0 21332
+S
+#21331
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21330
+S
+#21332
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21330
+S
+#21333
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21329
+S
+#21334
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21329
+S
+#21335
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21328
+S
+#21336
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21326
+S
+#21337
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21325
+S
+#21338
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21325
+S
+#21339
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21328
+S
+#21340
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21326
+S
+#21341
+The Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21327
+S
+#21342
+The Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21327
+S
+#21343
+Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21345
+D1
+~
+~
+0 0 21346
+D2
+~
+~
+0 0 21344
+D3
+~
+~
+0 0 21327
+S
+#21344
+Halls of Glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21343
+S
+#21345
+Halls of Glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21343
+S
+#21346
+The halls of glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21347
+D2
+~
+~
+0 0 21348
+D3
+~
+~
+0 0 21343
+S
+#21347
+The halls of glory~
+~
+0 589836 0
+D2
+~
+~
+0 0 21346
+S
+#21348
+The halls of glory~
+~
+0 589836 0
+D0
+~
+~
+0 0 21346
+S
+#0
+
+
+
+#SPECIALS
+M 21200 spec_breath_any_but_acid
+M 21201 spec_breath_any_but_acid
+M 21202 spec_breath_any_but_acid
+M 21203 spec_breath_any_but_acid
+M 21204 spec_breath_any_but_acid
+M 21205 spec_breath_any_but_acid
+M 21206 spec_breath_any_but_acid
+M 21207 spec_breath_any_but_acid
+M 21208 spec_breath_any_but_acid
+M 21209 spec_breath_any_but_acid
+M 21210 spec_breath_any_but_acid
+M 21211 spec_breath_any_but_acid
+M 21213 spec_breath_any_but_acid
+M 21341 spec_breath_gas
+M 21344 spec_breath_lightning
+S
+
+
+
+#RESETS
+M 0 21212 1 21221 1 100 Load a scientist
+G 0 21233 0 0 0 100 An elixir of eternity is given to a scientist
+M 0 21212 1 21222 1 100 Load a scientist
+G 0 21233 0 0 0 100 An elixir of eternity is given to a scientist
+M 0 21212 1 21223 1 100 Load a scientist
+G 0 21233 0 0 0 100 An elixir of eternity is given to a scientist
+M 0 21212 1 21224 1 100 Load a scientist
+G 0 21233 0 0 0 100 An elixir of eternity is given to a scientist
+M 0 21212 1 21225 1 100 Load a scientist
+G 0 21233 0 0 0 100 An elixir of eternity is given to a scientist
+M 0 21212 1 21226 1 100 Load a scientist
+G 0 21233 0 0 0 100 An elixir of eternity is given to a scientist
+M 0 21200 1 21296 1 100 Load the statue of Severian
+E 0 7536 0 4 0 100 `7fuligin cord of heartstone is loaded around the neck (2) of the statue of Severian
+E 0 7536 0 3 0 100 `7fuligin cord of heartstone is loaded around the neck (1) of the statue of Severian
+M 0 21201 1 21297 1 100 Load the statue of Luthair
+E 0 21200 0 21 0 100 A sinister black veil is loaded on the face of the statue of Luthair
+E 0 21202 0 17 0 100 A scythed-spear is loaded wielded of the statue of Luthair
+M 0 21210 1 21299 1 100 Load the statue of Khadin
+E 0 21208 0 5 0 100 `7cadin'sor is loaded on the body of the statue of Khadin
+E 0 21211 0 6 0 100 A blood-stained war helm is loaded over the head of the statue of Khadin
+M 0 21202 1 21300 1 100 Load the statue of Hammar
+E 0 21210 0 20 0 100 An aura of courage is loaded floating nearby of the statue of Hammar
+E 0 21212 0 9 0 100 `7spiked-steel gauntlets is loaded on the hands of the statue of Hammar
+M 0 21204 1 21302 1 100 Load the statue of Sol
+E 0 8495 0 2 0 100 A chaos signet ring is loaded on the right finger of the statue of Sol
+E 0 8495 0 1 0 100 A chaos signet ring is loaded on the left finger of the statue of Sol
+M 0 21207 1 21303 1 100 Load the statue of Tomas
+E 0 21203 0 5 0 100 `7a color-shifting cloak is loaded on the body of the statue of Tomas
+E 0 21204 0 8 0 100 `7warder issued boots is loaded on the feet of the statue of Tomas
+M 0 21205 1 21305 1 100 Load the statue of Melfina
+E 0 21218 0 11 0 100 The protective shield of saidar is loaded as a shield of the statue of Melfina
+M 0 21203 1 21306 1 100 Load the statue of Matthias
+E 0 21214 0 3 0 100 A red and gold dragon pin is loaded around the neck (1) of the statue of Matthias
+E 0 21215 0 4 0 100 A silver sword pin is loaded around the neck (2) of the statue of Matthias
+M 0 21209 1 21310 1 100 Load the statue of Alviarin
+E 0 21221 0 0 0 100 The flame of tar valon is loaded as a light of the statue of Alviarin
+E 0 21222 0 15 0 100 A bracelet of power is loaded on the left wrist of the statue of Alviarin
+M 0 21211 1 21311 1 100 Load the statue of Plaid
+E 0 21229 0 19 0 100 (fixed) a tool for fixing is loaded held in the hands of the statue of Plaid
+E 0 21230 0 5 0 100 (fruity) a brightly colored shirt is loaded on the body of the statue of Plaid
+M 0 21313 1 21313 1 100 Load Statue of Morin
+E 0 3681 0 5 0 100 (shape-shifting) shroud of true darkness is loaded on the body of Statue of Morin
+E 0 21201 0 10 0 100 `7golden dragon tattoo is loaded on the arms of Statue of Morin
+M 0 21314 1 21314 1 100 Load Statue of Walker
+E 0 21207 0 7 0 100 `7brown leather leggings is loaded on the legs of Statue of Walker
+E 0 21213 0 5 0 100 A high-collared black coat is loaded on the body of Statue of Walker
+M 0 21206 1 21316 1 100 Load the statue of Liaa
+E 0 21228 0 1 0 100 A ring of the ages is loaded on the left finger of the statue of Liaa
+E 0 21228 0 2 0 100 A ring of the ages is loaded on the right finger of the statue of Liaa
+M 0 21208 1 21317 1 100 Load the statue of Rianna
+E 0 21224 0 8 0 100 (silent) a pair of laced knee-high boots is loaded on the feet of the statue of Rianna
+E 0 21223 0 17 0 100 A blood-stained spear is loaded wielded of the statue of Rianna
+M 0 21213 1 21319 1 100 Load the statue of Suten
+E 0 21235 0 16 0 100 A plain leather bracer is loaded on the right wrist of the statue of Suten
+E 0 21235 0 15 0 100 A plain leather bracer is loaded on the left wrist of the statue of Suten
+M 0 21320 1 21320 1 100 Load Statue of Arianna
+E 0 21227 0 20 0 100 An aura of nostalgia is loaded floating nearby of Statue of Arianna
+E 0 21216 0 0 0 100 The glow of saidin is loaded as a light of Statue of Arianna
+M 0 21331 1 21331 1 100 Load Statue of Murellin
+E 0 3682 0 20 0 100 (blood-curdling) hanging screams of the innocent is loaded floating nearby of Statue of Murellin
+E 0 8411 0 17 0 100 The sword of chaos is loaded wielded of Statue of Murellin
+M 0 21332 1 21332 1 100 Load Statue of Paige
+E 0 7537 0 20 0 100 `7thin air is loaded floating nearby of Statue of Paige
+E 0 21226 0 19 0 100 The staff of searching is loaded held in the hands of Statue of Paige
+M 0 21333 1 21333 1 100 Load Statue of Roneth
+E 0 21209 0 11 0 100 A hide buckler is loaded as a shield of Statue of Roneth
+E 0 8412 0 5 0 100 A plate of ultimate chaos is loaded on the body of Statue of Roneth
+M 0 21334 1 21334 1 100 Load Statue of Judith
+E 0 21206 0 19 0 100 A rod of dominion is loaded held in the hands of Statue of Judith
+E 0 21205 0 9 0 100 `7gauntlets of power is loaded on the hands of Statue of Judith
+M 0 21335 1 21335 1 100 Load statue of pren
+E 0 7532 0 5 0 100 `7fuligin cloak of the executioner is loaded on the body of statue of pren
+E 0 21231 0 12 0 100 (mad) a cowskin cloak is loaded about the shoulders of statue of pren
+M 0 21336 1 21336 1 100 Load Statue of Algol
+E 0 3683 0 19 0 100 `*a steine of ale is loaded held in the hands of Statue of Algol
+E 0 21336 0 12 0 100 `*a multi-color patchwork cloak is loaded about the shoulders of Statue of Algol
+M 0 21337 1 21337 1 100 Load Statue of Sarek
+E 0 3662 0 17 0 100 (cracked) bow of lost souls is loaded wielded of Statue of Sarek
+E 0 3663 0 22 0 100 (cracked) a stiff leather quiver is loaded over the shoulder of Statue of Sarek
+M 0 21338 1 21338 1 100 Load statue of gedland
+E 0 21338 0 0 0 100 `*the lantern of truth is loaded as a light of statue of gedland
+E 0 19953 0 17 0 100 `*a stained ashandarei is loaded wielded of statue of gedland
+M 0 21339 1 21339 1 100 Load statue of koren
+E 0 21234 0 7 0 100 A pair of plain breeches is loaded on the legs of statue of koren
+E 0 3676 0 13 0 100 `*a belt made of bones. is loaded around the waist of statue of koren
+M 0 21340 1 21340 1 100 Load `*Statue of Kendal
+E 0 3661 0 10 0 100 (cracked) archer's bracer is loaded on the arms of `*Statue of Kendal
+E 0 3675 0 8 0 100 `*a pair of large leather boots. is loaded on the feet of `*Statue of Kendal
+M 0 21341 1 21341 1 100 Load `*The Statue of Nagash
+E 0 21341 0 12 0 100 `*a fine wool cloak is loaded about the shoulders of `*The Statue of Nagash
+E 0 19952 0 8 0 100 `*soft cowskin boots is loaded on the feet of `*The Statue of Nagash
+M 0 19998 1 21342 1 100 Load `*Statue of Archimedes
+E 0 21342 0 20 0 100 `*a whisper of the song is loaded floating nearby of `*Statue of Archimedes
+E 0 19951 0 7 0 100 `*stone legplates of honor is loaded on the legs of `*Statue of Archimedes
+M 0 21344 1 21344 1 100 Load Statue of Jubei
+E 0 21344 0 21 0 100 (scratched) jubei's face plate of accuracy is loaded on the face of Statue of Jubei
+E 0 21343 0 5 0 100 The archer's chest and shoulder plates is loaded on the body of Statue of Jubei
+M 0 21345 1 21345 1 100 Load `*Statue of Kimberly
+E 0 20600 0 17 0 100 `*aegis fang is loaded wielded of `*Statue of Kimberly
+M 0 21347 1 21347 1 100 Load `*Statue of Loch
+E 0 21347 0 17 0 100 `*warders battle staff of might is loaded wielded of `*Statue of Loch
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#21345
+mob oload 20600
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,57 @@
+#AREADATA
+Name rparea~
+Builders Demandred~
+VNUMs 25700 25801
+Credits `4[`* Hard `4]`* Demandred~
+Security 10
+Flags CEF
+Version 4
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#25700
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

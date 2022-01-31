@@ -1,0 +1,5647 @@
+#AREADATA
+Name Baerlon~
+Builders None~
+VNUMs 2446 2999
+Credits `4[`7 High `4]`7 Thom      Baerlon~
+Security 10
+Flags EF
+Version 4
+End
+
+
+
+#MOBILES
+#2446
+Baerlon gatekeeper~
+A Baerlon Gatekeeper~
+A gatekeeper stands here, admitting people into the city.
+~
+~
+andor~
+0 0
+ABGTZe 49488 0 0 0 -1  0 0
+100 150 20000d1+5000 10000d1+1 100d1+90 slice
+-50 -50 -50 -50
+0 ABQ 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK giant unknown
+M EXALL 2447 0~
+M BRIBE 2448 20000~
+M DELAY 2449 100~
+M GREET 2446 100~
+#2447
+wealthy merchant~
+a wealthy merchant~
+A wealthy merchant wanders about, looking for a place to sell his wares.
+~
+~
+unique~
+0 0
+AGTZ 0 0 0 0 -1  0 0
+90 40 5000d1+1000 0d0+0 40d1+20 slap
+-20 -20 -20 -20
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+M RANDOM 2452 50~
+#2448
+Jac Al'Seen~
+Jac Al'Seen~
+Jac Al'Seen stands here, waiting to hand out jobs.
+~
+Standing nearly six feet tall is a man of average build.  He has a head
+full of hair, yet it seems to be fading with age.  Piercing blue eyes watch
+everything that happens around his shop, from every person to a single ant. 
+He is garbed in typical smithy clothes, ranging from pants to a leather
+apron to protect from the heated ash.  
+~
+andor~
+0 0
+ABGTZde 16640 0 0 0 -1  0 0
+300 200 25000d1+300 0d0+0 1d1+199 slash
+-150 -150 -150 -150
+ACEFJK ABCDK 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK huge unknown
+#2449
+baerlon guard~
+A Baerlon Guard~
+A guard stands here, doing what he does best.
+~
+~
+andor~
+0 0
+ABGTZe 49488 0 0 0 -1  0 0
+100 150 20000d1+5000 10000d1+1 100d1+90 slice
+-50 -50 -50 -50
+0 ABQ 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK giant unknown
+M EXALL 2450 0~
+#2450
+baerlon storekeeper~
+A Storekeeper~
+A Storekeeper flashes a grin at you as you walk in the door.
+~
+~
+unique~
+0 0
+ABGXYZ 16 0 0 0 -1  800 0
+23 0 5d10+450 11d9+100 3d6+6 none
+-6 -6 -6 6
+EFNU ABCDK 0 0
+stand stand female 505
+AHMV ABCDEF tiny unknown
+#2451
+traveler~
+A tourist~
+A traveler walks around, enjoying the city.
+~
+~
+unique~
+0 0
+AGHZ 0 0 0 0 -1  0 0
+50 40 500d1+3000 0d0+0 1d1+40 slap
+-10 -10 -10 -10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#2452
+Sumari~
+Sumari~
+Sumari walks around, making sure her fruits are of the best quality.
+~
+~
+andor~
+0 0
+ABGZ 80 0 0 0 -1  1000 0
+100 100 1d1+999 0d0+0 1d1+99 slap
+-40 -40 -40 -40
+0 ABCDKZ 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#2453
+old man~
+an old man~
+An old man stands up from his desk quickly, and looks at you expectingly.
+~
+~
+andor~
+0 0
+ABGZ 80 0 0 0 -1  0 0
+100 100 1d1+999 0d0+0 1d1+99 slap
+-40 -40 -40 -40
+0 ABCD 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#2454
+Butch butcher~
+Butch, the butcher~
+A large man in a white apron stands here, holding a cleave in his hand.
+~
+~
+andor~
+0 0
+ABGZ 80 0 0 0 -1  1000 0
+100 100 1d1+24000 0d0+0 1d1+99 cleave
+-50 -50 -50 -50
+AC AB 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK large unknown
+#2455
+baker~
+`7The Baker~
+The baker stands here, checking his oven every so often.
+~
+~
+andor~
+0 0
+ABGZ 0 0 0 0 -1  0 0
+100 100 1d1+100 0d0+0 1d1+100 slap
+-10 -10 -10 -10
+0 AB 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#2456
+barber~
+a Barber~
+A man wearing a pinstripe suit is holding a pair of scissors, waving you in.
+~
+~
+andor~
+0 0
+ABGZd 0 0 0 0 -1  0 0
+120 100 1d1+5000 0d0+0 1d1+1 slice
+0 0 0 0
+0 0 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#2457
+young stable boy~
+a stable boy~
+A young stable boy lumbers about, mostly doing his job.
+~
+~
+andor~
+0 0
+AGT 0 0 0 0 -1  0 0
+90 40 1d1+2000 0d0+0 40d1+20 slap
+-20 -20 -20 -20
+0 AB 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#2458
+Royal Guard~
+The Baerlon Royal Guard~
+A Baerlon Royal Guard stands here, waiting to take your complaint.
+~
+~
+andor~
+0 0
+ABGTZ 256 64 128 0 -1  0 0
+150 200 35000d1+5000 0d0+0 250d1+1 slice
+-150 -150 -150 -150
+0 Kb 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 2596 100~
+#2465
+Heron Mark~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#2991
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#2997
+Machin Shin~
+Machin Shin~
+`7M`8achin `1S`8hin`7 moans loudly, screaming of countless names all at once.
+~
+~
+wolf~
+0 0
+ABGTe 336 81 16384 33792 -1  -1000 0
+500 800 1d1+25000 1d1+15000 1d1+800 bite
+-300 -300 -300 -300
+ACFHU AB C D
+stand stand none 0
+AGV ACDEFJKQV huge unknown
+#2998
+forsaken qmob~
+a `8F`7o`&r`8s`7a`&k`8e`7n`7~
+A `8F`7o`&r`8s`7a`&k`8e`7n`7 stands here, a small angreal in his hand.
+~
+~
+wolf~
+0 0
+ABGTe 336 81 16384 37892 -1  -1000 0
+500 500 1d1+75000 1d1+29000 1d1+500 bite
+-400 -400 -400 -400
+ACFHINU AB C D
+stand stand none 0
+AGV ACDEFJKQV large unknown
+#2999
+Dreadlord qmob~
+a `8Dreadlord`7~
+A `8Dreadlord`7 stands ready to attack, protecting you from Hammar.
+~
+~
+wolf~
+0 0
+ABGTe 336 65 16384 37888 -1  -1000 0
+500 500 1d1+70000 1d1+29999 1d1+500 bite
+-400 -400 -400 -400
+ACFHU AB C D
+stand stand none 0
+AGV ACDEFJKQV large unknown
+#0
+
+
+
+#OBJECTS
+#2446
+key~
+a gate key~
+This long wooden key opens the southern gates of Baerlon.~
+unknown~
+key 0 AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#2447
+andoran longsword~
+an Andoran longsword~
+A shiny longsword glimmers in the light.~
+metal~
+weapon 0 AN
+0
+sword 8 9 slice D
+40 150 7000 P
+A
+20 -4
+A
+19 5
+A
+18 4
+ T 0 none~
+#2448
+misty dagger~
+a misty dagger~
+A dagger with an engraved mountain on it's hilt glimmers brightly.~
+metal~
+weapon 0 AN
+0
+dagger 8 9 pierce D
+40 80 7000 P
+A
+17 -10
+A
+19 5
+A
+18 4
+ T 0 none~
+#2449
+mace eternal twilight~
+mace of eternal twilight~
+A mace lays on the ground, emitting a soft black light.~
+darkness~
+weapon 0 AN
+0
+mace 8 9 pound D
+40 200 7000 P
+A
+13 20
+A
+19 5
+A
+18 4
+ T 0 none~
+#2450
+bull hide whip~
+a bull-hide whip~
+A long piece of woven leather is sprawled out on the ground here.~
+leather~
+weapon 0 AN
+0
+whip 8 9 sting D
+40 100 7000 P
+A
+13 15
+A
+19 3
+A
+18 6
+ T 0 none~
+#2451
+pointed wood spear~
+a pointed, wooden spear~
+A long, thin branch is stuck into the ground.~
+wood~
+weapon 0 AN
+0
+spear 8 9 stab D
+40 150 7000 P
+A
+13 40
+A
+18 2
+A
+19 2
+ T 0 none~
+#2452
+sledge hammer~
+a sledge hammer~
+A large wooden head connected to a slender handle is resting on the ground.~
+wood~
+weapon 0 AN
+0
+exotic 8 9 crush D
+40 250 7000 P
+A
+19 6
+A
+18 6
+ T 0 none~
+#2453
+hunters glimmering axe~
+a hunter's glimmering axe~
+An axe with a crimson stain on the handle is resting on the ground here.~
+metal wood~
+weapon 0 AN
+0
+axe 8 9 slash D
+40 250 7000 P
+A
+20 -3
+A
+18 2
+A
+19 7
+ T 0 none~
+#2454
+baerlon longbow~
+a Baerlon longbow~
+A large bow is sprawled out on the ground, missing both arrow and quiver.~
+wood~
+weapon 0 AN
+0
+bow 8 9 thwack D
+40 80 7000 P
+A
+13 30
+A
+19 1
+A
+18 6
+ T 0 none~
+#2455
+red apple~
+a red apple~
+A shiny red apple looks so perfect, and invites you to pick it up.~
+fruit~
+food 0 A
+0
+BD DF 0 0 0
+0 10 300 P
+ T 0 none~
+#2456
+tangerine~
+a tangerine~
+An orange fruit rolls across the ground and stops in front of your feet.~
+unknown~
+food 0 A
+0
+BD DF 0 0 0
+0 0 300 P
+ T 0 none~
+#2457
+busted watermelon~
+a busted watermelon~
+A watermelon seems to have fallen and busted in half.~
+fruit~
+container 0 A
+0
+100 A 0 100 0
+0 10 600 P
+ T 0 none~
+#2458
+vial purple~
+a purple vial~
+A little vial holds a purple substance, glowing with the light.~
+unknown~
+potion 0 A
+0
+15 'shield' 'stone skin' 'giant strength' 'reserved'
+10 0 1000 P
+ T 0 none~
+#2459
+blue pudding bowl~
+a bowl of blue pudding~
+A bowl of blue pudding shines and reflects your image.~
+unknown~
+pill 0 A
+0
+15 'fly' 'armor' 'pass door' 'reserved'
+10 0 1300 P
+ T 0 none~
+#2460
+cream serenity~
+a cream of serenity~
+A small puddle of cream has splattered on the floor.~
+unknown~
+pill 0 A
+0
+30 'calm' 'reserved' 'reserved' 'reserved'
+30 10 5000 P
+ T 0 none~
+#2461
+sweet bread~
+a sweet bread slice~
+A slice of bread is laying here, still looking edible.~
+unknown~
+pill T A
+0
+75 'heal' 'reserved' 'reserved' 'reserved'
+75 0 400 P
+ T 0 none~
+#2462
+slice pork~
+a slice of pork~
+A small slice of meat lays flat on the ground, collecting dust.~
+unknown~
+food 0 A
+0
+A AC 0 0 0
+0 0 70 P
+ T 0 none~
+#2463
+a small ter'angreal~
+a small ter'angreal~
+A small twisted ter'angreal sits here, glowing quietly.~
+unknown~
+staff 0 AO
+0
+77 2 2 'sanctuary' 2
+77 0 0 P
+ T 1 A small ter'angreal flares brightly and crumbles into dust.~
+#2464
+stiff hat~
+a stiff hat~
+A stiff hat lays on the ground here, looking forgotten.~
+felt~
+armor 0 AE
+0
+CE CE CE CE 0
+45 0 0 P
+A
+18 5
+A
+19 5
+A
+13 25
+ T 0 none~
+#2465
+Heron Mark~
+`7A Heron-Mark Blade~
+A beautiful sword with the mark of a heron lies here.~
+tempered steel~
+weapon AB AN
+0
+sword 77 1 slice BCE
+110 200 1000 P
+A
+18 10
+A
+19 10
+A
+13 25
+ T 0 none~
+#2466
+Baerlon's Guard Helm~
+`7The Baerlon's Guard Helm~
+A helmet adored with golden wings lies here.~
+tempered steel~
+armor AB AE
+0
+DF DF DF DF 0
+110 20 300 P
+A
+18 10
+A
+19 10
+A
+13 40
+ T 0 none~
+#2470
+quest token~
+a token worth 1000 qps~
+A small token lies here.~
+paper~
+token a A
+0
+1000 0 0 0 0
+0 0 0 P
+ T 0 none~
+#2560
+thin sheet metal~
+a thin sheet of metal~
+A long, thin sheet of metal lays on the ground, discarded from disuse.~
+iron~
+key 0 AO
+0
+0 0 0 0 0
+30 10 5000 P
+ T 0 none~
+#2561
+trash barrel~
+a trash barrel~
+A barrel filled with trash is sitting here, attracting those who empty trash and those who seek fortune.~
+unknown~
+container 0 0
+0
+0 A 0 3094823 0
+0 0 0 P
+ T 0 none~
+#2985
+wavering gateway~
+a wavering gateway~
+A `!w`1avering `7g`8ateway`7 floats inches above the ground.~
+unknown~
+portal AB 0
+0
+0 0 0 ABCFHILMO 0
+100 0 0 P
+ T 0 none~
+#2986
+shard cuendillar~
+a shard of `1C`!u`1e`!n`1d`!i`1l`!l`1a`!r`7~
+A small piece of brown stone of some kind lays on the ground.~
+unknown~
+armor ABad AO
+0
+BDF BDF BDF BDF 0
+110 0 0 P
+ T 0 none~
+#2987
+cuendillar mask legend~
+a `1C`!u`1e`!n`1d`!i`1l`!l`1a`!r `7M`8ask `7of `&S`7a`&n`7c`&t`7u`&a`7r`&y`7~
+A mask of cuendillar sits alone, most likely discarded.~
+unknown~
+armor JKd AR
+0
+BCEF BCEF BCEF BCEF 0
+150 0 0 P
+A
+13 100
+A
+19 10
+A
+18 10
+A
+20 -5
+ T 0 none~
+#2988
+no name~
+a `2Thom `7Q`8uest `!T`1oken`7~
+(no description)~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+110 0 0 P
+ T 0 none~
+#2989
+belt cuendillar studded~
+a `1C`!u`1e`!n`1d`!i`1l`!l`1a`!r `$St`^u`&d`^d`$ed `7B`8elt`7~
+A beautifully woven belt studden with small round stones lays on the ground.~
+unknown~
+armor JKd AL
+0
+BCEF BCEF BCEF BCEF 0
+150 0 0 P
+A
+13 100
+A
+19 10
+A
+18 10
+A
+20 -5
+ T 0 none~
+#2990
+shimmering portal~
+a shimmering portal~
+A `&Shimmering Portal`7 glows here, never wavering.~
+unknown~
+portal 0 0
+0
+0 0 0 ADHIJL 0
+100 0 0 P
+ T 0 none~
+#2991
+half cuendillar disc~
+`$Po`^r`&t`^i`$on `7of a `1C`!u`1e`!n`1d`!i`1l`!l`1a`!r `&Disc`7~
+A small piece of brown stone of some kind lays on the ground.~
+unknown~
+armor ABad AO
+0
+BDF BDF BDF BDF 0
+110 0 0 P
+A
+13 100
+A
+20 -10
+A
+12 5
+ T 0 none~
+#2992
+half cuendillar disc~
+`$Po`^r`&t`^i`$on `7of a `1C`!u`1e`!n`1d`!i`1l`!l`1a`!r `8Disc`7~
+A small piece of brown stone of some kind lays on the ground.~
+unknown~
+armor ABad AO
+0
+BDF BDF BDF BDF 0
+110 0 0 P
+A
+13 5
+A
+20 -10
+A
+19 10
+A
+18 10
+ T 0 none~
+#2993
+flaming torch retribution~
+`&(`1F`!l`3a`#m`3i`!n`1g`7) `7T`8orch `&of `3R`#et`3ri`#bu`3ti`#on`7~
+A burning torch lays here, surpisingly burning nothing.~
+unknown~
+light Ad A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 0 0 P
+A
+20 -6
+A
+19 5
+A
+18 5
+A
+13 90
+ T 0 none~
+#2994
+silver amulet destiny~
+a `8Si`&lv`8er `2A`@m`&ul`@e`2t `&of `!De`8s`1t`8i`!ny`7~
+A brightly shined amulet glints in the current light.~
+unknown~
+armor ABd AC
+0
+BDF BDF BDF BDF 0
+110 0 0 P
+A
+20 -11
+A
+19 11
+A
+18 11
+ T 0 none~
+#2995
+silver amulet fate~
+a `8Si`&lv`8er `2A`@m`&ul`@e`2t `&of `!F`8at`1e`7~
+A brightly shined amulet glints in the current light.~
+unknown~
+armor ABd AC
+0
+BDF BDF BDF BDF 0
+110 0 0 P
+A
+13 110
+A
+20 -11
+ T 0 none~
+#2996
+aura of insanity~
+`&(`^Bright`&) `$A`6u`^r`$a `7of `6I`^n`$s`4a`$n`&i`^t`6y`7~
+A glowing ball of blue hovers in the air here.~
+unknown~
+armor Ad AQ
+0
+BDF BDF BDF BDF 0
+110 0 0 P
+A
+13 45
+A
+19 7
+A
+18 7
+A
+20 -10
+ T 0 none~
+#2997
+golden-fox signet ring~
+a `#Go`3ld`#en`&-`3F`#o`3x `7S`8ignet `!R`1ing`7~
+A beautifully crafted ring glows as lights hits and reflects from it.~
+unknown~
+armor ABd AB
+0
+BDF BDF BDF BDF 0
+110 0 0 P
+A
+20 -5
+A
+19 4
+A
+18 4
+A
+13 100
+ T 0 none~
+#2998
+silver spiziked arm guards pandemonium~
+`8Si`&lv`8er `8Sp`7i`&z`7i`&k`8ed `!A`1rm `!G`1uards `7of `7P`8andemonium`7~
+A pair of brightly shined silver arm guards lay deserted.~
+unknown~
+armor ABd AI
+0
+BDF BDF BDF BDF 0
+110 0 0 P
+A
+20 -3
+A
+13 50
+A
+19 10
+A
+18 10
+ T 0 none~
+#2999
+colorful patchwork cloak~
+`&a `2C`&o`2l`&o`2r`&f`2u`&l `2Patchwork `&Cloak`7~
+A colorful cloak lays on the ground here.~
+unknown~
+armor d AK
+0
+BDF BDF BDF BDF 0
+110 0 0 P
+A
+20 -8
+A
+13 50
+A
+19 8
+A
+18 8
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#2446
+Approaching Baerlon~
+The last leg up the North Road was rather quiet except for the occasional
+cart passing by here and there.  Up ahead of you, you can see the town of
+Baerlon.  A log wall, nearly twenty feet tall, surrounds the town, with
+wooden watchtowers scattered along it's length.  The gate ahead is guarded
+by a large man with a straight look on his face.  Maybe entrance into this
+city won't be as easy as first thought.  
+~
+0 0 2
+D0
+~
+~
+0 0 2447
+D2
+~
+~
+0 0 37406
+S
+#2447
+Before the Southern Gates of Baerlon~
+The giant log wall towers enormously over your head.  Looking through the
+gate you can see rooftops of slate and tile glinting with the sun, and
+feathers of smoke drifting upward from chimneys.  Hundereds of chimneys, and
+not a thatched roof to be seen.  Dozens of wagons wheel away from the city
+outwards to the farms that lay scattered about.  
+~
+0 4194304 2
+D0
+~
+gate~
+3 2446 2448
+D2
+~
+~
+0 0 2446
+S
+#2448
+Inside the Southern Gates~
+As you look southward to where the gatekeeper stands, you can see him
+polishing a coin and chuckling madly.  When he finally notices you are
+looking, he quickly scrambles to the wooden watchtower which sits upon the
+giant log wall.  The road to the north is barely wide enough for two wagons
+to travel on, and the deep ruts here and there aren't helping one bit. 
+Despite the horrible travelling conditions, people are about selling and
+buying wares.  The hustle of the city seems to pick up a bit as you walk
+farther inwards.  
+~
+0 0 1
+D0
+~
+~
+0 0 2449
+D1
+~
+~
+0 0 2589
+D2
+~
+gate~
+3 2446 2447
+D3
+~
+~
+0 0 2568
+S
+#2449
+Market Road~
+Upon the dirt road, the crowd seems to swarm from all around you. 
+Without a care in their step, they run and push through the crowd as if
+something were to be seen here.  As far as you can see, there is nothing but
+more people to the north, except around the high backed fences where things
+such as buckets of water and scraps of food are being thrown over.  There
+has not been one Inn north of the southern gates as of yet, and no more to
+the north of you.  
+~
+0 0 1
+D0
+~
+~
+0 0 2450
+D2
+~
+~
+0 0 2448
+S
+#2450
+Market Road~
+Ahh serenity, to an extent.  You are standing next to one of those high
+backed fences that people avoid.  At least here you aren't being shoved and
+pushed around.  The smell here is different than in the rest of city. 
+Something smells incredibly like...beef.  The aroma flows from behind this
+fence.  Which doesnt seem to have gate.  The narrow road follows north for a
+mile or two and south of you are the southern gates.  
+~
+0 0 1
+D0
+~
+~
+0 0 2451
+D1
+~
+fence~
+4 2560 2609
+D2
+~
+~
+0 0 2449
+S
+#2451
+Market Road~
+Dirt swirls around your feet leaving them almost unseen at your height. 
+The dirt street stretches as far as you can see, even while straining and
+squinting your eyes.  The wind blows softly across your face, leaving you
+with a cool feel as you walk along.  A small beetle scuttles along,
+oblivious to the hectic traffic.  
+~
+0 0 1
+D0
+~
+~
+0 0 2452
+D2
+~
+~
+0 0 2450
+S
+#2452
+Market Road~
+The crowd gets thicker and thicker as they force themselves against the
+grain of traffic.  There are countless warehouses along the road and the
+highbacked fences are becoming more frequent.  Not one passerby stops to
+look at your face or even acknowledge that you exist to them.  A door opens
+in the warehouse ahead of you and two men step out and begin fighting each
+other.  
+~
+0 0 1
+D0
+~
+~
+0 0 2453
+D2
+~
+~
+0 0 2451
+S
+#2453
+Market Road~
+To the north, the crowd seems to impossibly become more dense as they run
+and shove to get to their destinations.  The clouds overhead seem too thin
+to produce anything but ample shade for comfortability.  Heat permeates from
+the massive amount of people around you, making the cool breeze that much
+more welcome.  
+~
+0 0 1
+D0
+~
+~
+0 0 2454
+D2
+~
+~
+0 0 2452
+S
+#2454
+Market Road~
+Dust occasionally flies up in the air, making the area around you hard to
+see.  Peddlers and merchants push through the crowd with their wagons,
+yelling and screaming to sell their wares.  The road ahead seems to pan out
+into an intersection but, even now, it is hard to see that far.  A statue of
+some sort can be seen off into the distance, towering over anything else in
+this city.  
+~
+0 0 1
+D0
+~
+~
+0 0 2455
+D2
+~
+~
+0 0 2453
+S
+#2455
+Market Road~
+The cool breeze blows across the road, giving the air a sort of
+comfortable feel to it.  The warehouses that lined the road to the south
+seem to be thinning out as you travel farther inwards into Baerlon.  More
+shops and small stands appear and each differ from the one sitting next to
+it.  The owners of the shops are standing in the doorway inviting people in
+as they pass.  
+~
+0 0 1
+D0
+~
+~
+0 0 2456
+D2
+~
+~
+0 0 2454
+S
+#2456
+Market Road~
+A couple stands and talks to the side of you, not giving a care in the
+world about anyone else.  Their conversation and laughter seems to die in
+the noise generated by all the people around them.  The dirt beneath your
+feet seems to contain little rocks of some sort in it now.  Maybe gravel,
+maybe just peculiar rocks, but whatever the case, the farther north you go,
+the more of it you see.  
+~
+0 0 1
+D0
+~
+~
+0 0 2457
+D2
+~
+~
+0 0 2455
+S
+#2457
+Nearing the Governer's Square~
+North of you stands the giant statue which was spotted miles south of
+you.  But rather than it only being one statue, it is four that are so grand
+and so close together it looks like one.  The shapes of them are still
+incredibly hard to figure out from this distance but a short travel north
+and they could easily be seen.  
+~
+0 0 1
+D0
+~
+~
+0 0 2458
+D1
+~
+~
+0 0 6401
+D2
+~
+~
+0 0 2456
+S
+#2458
+Rim of the Governer's Square~
+You stand outside of the Governer's Circle, which is shaped so that
+wagons must go around the statues while people can walk right under them. 
+It seems to make up for all the pushing and shoving the wagons do out on the
+open road of Baerlon.  More pieces of small rocks appear in the dirt and
+seem to steadily increase in number as you head north.  
+~
+0 0 1
+D0
+~
+~
+0 0 2459
+D2
+~
+~
+0 0 2457
+S
+#2459
+The Governer's Square~
+Each statue seems to face inward making a dome of some sorts with their
+shapes.  No opening is big enough for wagons or carts to be pushed through
+but provides a spacious divide for individual people to walk under.  Traffic
+through the Governer's Square is never too horrible considering the
+intelligent and sleek frame of all four statues and their way of serving more
+than one purpose.  The road leads out in all four directions, leaving you
+with many different options.  
+~
+0 0 1
+D0
+~
+~
+0 0 2480
+D1
+~
+~
+0 0 2512
+D2
+~
+~
+0 0 2458
+D3
+~
+~
+0 0 2460
+S
+#2460
+Rim of the Governer's Square~
+The blanket of grass that circles from here to the east and back can only
+mean one thing, you are on the rim of the Governer's Square.  The four
+statues tower 50 above your head, making them visable for miles if not
+spans.  Merchants and Nobles walk the street, doing what they want because
+the Queen's rulings barely invole Whitecloak Warder as of now 
+~
+0 0 1
+D1
+~
+~
+0 0 2459
+D3
+~
+~
+0 0 2461
+S
+#2461
+Central Avenue~
+A poor beggar approaches you and asks your for any spare change.  Little
+did the beggar know that he had a coin purse hanging from under his coat,
+giving his identity away.  The merchants and store owners shoo away the
+beggars, thinking it's bad business to have such company around.  Small
+streets and narrow alleys grow off the Avenue, leading to unknown stores and
+stands most likely.  
+~
+0 0 1
+D1
+~
+~
+0 0 2460
+D3
+~
+~
+0 0 2462
+S
+#2462
+Central Avenue~
+Now would be a great time to stop and rest on a small patch of grass.  To
+the east, the crowd merges and becomes restless to a giant extent.  To the
+west, only desolate street lay, except for the shoopkeepers in which they
+are hired to stay in the room.  You reach down to finger your coin purse as
+you walk, making sure that everything was still here.  
+~
+0 0 1
+D1
+~
+~
+0 0 2461
+D3
+~
+~
+0 0 2463
+S
+#2463
+Central Avenue~
+The road beneath you has been built under a small sheet of pebbles and
+gravel to make travel easier when the rains come.  Thickness of the rock
+becomes thicker the farther west you travel, and dirt begins to seep through
+these rocks the farther east you go.  Staring at the road intently, you
+almost run smack dab into a giant cart being pulled from the west, which
+most likely contains ore from the Mountains of Mist.
+~
+0 0 1
+D1
+~
+~
+0 0 2462
+D3
+~
+~
+0 0 2464
+S
+#2464
+Central Avenue~
+You can hear birds chirping from the trees above your head, and
+butterflies seem to swirl around looking for something to land on.  The
+majority of the people seem estatic to be in Baerlon, and the rest just seem
+content.  Very rarely does a face look distraught or disturbed, and even
+those looks aren't to a severe degree.  The Governer's Square lies to the
+east, along with the Western Gates to the west of you.  
+~
+0 0 1
+D1
+~
+~
+0 0 2463
+D3
+~
+~
+0 0 2465
+S
+#2465
+Central Avenue~
+Being this close to the Governer's Square brings hints of fruits, meats,
+and body odor to the air.  A small ball of some sort rolls across your path,
+followed by four kids who seem to be very content on playing with it.  The
+owners of the stand and stores stand around, waving to random people as they
+walk by.  
+~
+0 0 1
+D1
+~
+~
+0 0 2464
+D3
+~
+~
+0 0 2466
+S
+#2466
+Central Avenue~
+As you walk further along the Avenue, you notice that the crowd of people
+is becoming increasinly thicker as the road heads inward.  The buildings
+along side the road are mostly made of wood, but several are made of stone
+with tile roofing.  It seems that Baerlon is slowly converting the buildings
+they have into tile roofs.  East lay the Governer's Square, where the crowd
+almost looks like one solid block.  
+~
+0 0 1
+D1
+~
+~
+0 0 2465
+D3
+~
+~
+0 0 2467
+S
+#2467
+Central Avenue~
+You now stand far from either gates and you notice little spurts of grass
+big enough for people to sit on.  The spots of grass lay directly under the
+trees making it the ideal spot to rest.  A dog runs by with half a chicken
+in his mouth, obviously enjoying what he has captured.  The Governer's
+Square lays a bit to the east, easily noticable by the trademark statues.  
+~
+0 0 1
+D1
+~
+~
+0 0 2466
+D3
+~
+~
+0 0 2468
+S
+#2468
+Central Avenue~
+The trees that grow sporatically provide enough shade for you to stand
+under and enjoy the cool wind.  People of all ages wander about, stopping
+here or there to check out what the nearest stand has for sale.  Birds fly
+in and out of eaves in the rooves, diving to grab a dropped seed or to
+snatch at fruit.  The city is thriving, making Baerlon that much more
+comfortable.  
+~
+0 0 1
+D1
+~
+~
+0 0 2467
+D3
+~
+~
+0 0 2469
+S
+#2469
+Central Avenue~
+The Central Avenue carries you all the way from the western gates to the
+eastern gates of Baerlon, and small alleys and roads stem off in every
+direction.  Small shops line the side of the road, half of them abandoned to
+the rats.  The cool breeze blows down Central Avenue bringing a familiar
+smell with it, but also brings the burden of dirt and dust to the area.  
+~
+0 0 1
+D1
+~
+~
+0 0 2468
+D3
+~
+~
+0 0 2494
+S
+#2470
+Inside the Northern Gates~
+The giant gates of northern Baerlon are made of metal and do not display
+one spot of rust or dirt.  They shine with the tiniest bit of light and seem
+to open without the slightest creak.  Beyond the northern gates show fields,
+coves, and even bits of the Mountains of Mist.  About a day or two of
+traveling will take you to the River Arinelle.  A road lines the northern
+wall and heads east and west but a large crowd is gathering to the south,
+pushing to travel into the heart of Baerlon.  
+~
+0 0 1
+D1
+~
+~
+0 0 2526
+D2
+~
+~
+0 0 2471
+D3
+~
+~
+0 0 2525
+S
+#2471
+Market Road~
+Upon the dirt road, the crowd seems to swarm from all around you. 
+Without a care in their step, they run and push through the crowd as if
+something were to be seen here.  As far as you can see, there is nothing but
+more people to the south, except around the high backed fences where things
+such as buckets of water and scraps of food are being thrown over.  There
+has not been one Inn south of the northern gates as of yet, and no more to
+the south of you.  
+~
+0 0 1
+D0
+~
+~
+0 0 2470
+D2
+~
+~
+0 0 2472
+S
+#2472
+Market Road~
+Ahh serenity, to an extent.  You are standing next to one of those high
+backed fences that people avoid.  At least here you aren't being shoved and
+pushed around.  The smell here is different than in the rest of city. 
+Something smells incredibly like...  Beef.  The aroma flows from behind this
+fence.  Which doesn't seem to have a gate.  The narrow road follows south
+for a mile or two and north of you are the northern gates.  
+~
+0 0 1
+D0
+~
+~
+0 0 2471
+D2
+~
+~
+0 0 2473
+S
+#2473
+Market Road~
+Dirt swirls around your feet leaving them almost unseen at your height. 
+The dirt street stretches as far as you can see, even while straining and
+squinting your eyes.  The wind blows softly across your face, leaving you
+with a cool feel as you walk along.  A small beetle scuttles along,
+oblivious to the hectic traffic.  
+~
+0 0 1
+D0
+~
+~
+0 0 2472
+D2
+~
+~
+0 0 2474
+D3
+~
+~
+0 0 2695
+S
+#2474
+Market Road~
+The crowd gets thicker and thicker as they force themselves against the
+grain of traffic.  There are countless warehouses along the road and the
+highbacked fences are becoming more frequent.  Not one passerby stops to
+look at your face or even acknowledge that you exist to them.  A door opens
+in the warehouse ahead of you and two men step out and begin fighting each
+other.  
+~
+0 0 1
+D0
+~
+~
+0 0 2473
+D2
+~
+~
+0 0 2475
+S
+#2475
+Market Road~
+To the south, the crowd seems to impossibly become more dense as they run
+and shove to get to their destinations.  The clouds overhead seem too thin
+to produce anything but ample shade for comfortability.  Heat permeates from
+the massive amount of people around you, making the cool breeze that much
+more welcome.  
+~
+0 0 1
+D0
+~
+~
+0 0 2474
+D2
+~
+~
+0 0 2476
+S
+#2476
+Market Road~
+Dust occasionally flies up in the air, making the area around you hard to
+see.  Peddlers and merchants push through the crowd with their wagons,
+yelling and screaming to sell their wares.  The road ahead seems to pan out
+into an intersection but, even now, it is hard to see that far.  A statue of
+some sort can be seen off into the distance, towering over anything else in
+this city.  
+~
+0 0 1
+D0
+~
+~
+0 0 2475
+D2
+~
+~
+0 0 2477
+S
+#2477
+Market Road~
+The cool breeze blows across the road, giving the air a sort of
+comfortable feel to it.  The warehouses that lined the road to the north
+seem to be thinning out as you travel farther inwards into Baerlon.  More
+shops and small stands appear and each differ from the one sitting next to
+it.  The owners of the shops are standing in the doorway inviting people in
+as they pass.  
+~
+0 0 1
+D0
+~
+~
+0 0 2476
+D2
+~
+~
+0 0 2478
+S
+#2478
+Market Road~
+A couple stands and talks to the side of you, not giving a care in the
+world about anyone else.  Their conversation and laughter seems to die in
+the noise generated by all the people around them.  The dirt beneath your
+feet seems to contain little rocks of some sort in it now.  Maybe gravel,
+maybe just peculiar rocks, but whatever the case, the farther south you go,
+the more of it you see.  
+~
+0 0 1
+D0
+~
+~
+0 0 2477
+D2
+~
+~
+0 0 2479
+S
+#2479
+Nearing the Governer's Square~
+South of you stands the giant statue which was spotted miles north of
+you.  But rather than it only being one statue, it is four that are so grand
+and so close together it looks like one.  The shapes of them are still
+incredibly hard to figure out from this distance but a short travel south
+and they could easily be seen.  
+~
+0 0 1
+D0
+~
+~
+0 0 2478
+D2
+~
+~
+0 0 2480
+S
+#2480
+Rim of the Governer's Square~
+You stand outside of the Governer's Circle, which is shaped so that
+wagons must go around the statues while people can walk right under them. 
+It seems to make up for all the pushing and shoving the wagons do out on the
+open road of Baerlon.  More pieces of small rocks appear in the dirt and
+seem to steadily increase in number as you head south.  
+~
+0 0 1
+D0
+~
+~
+0 0 2479
+D2
+~
+~
+0 0 2459
+S
+#2481
+Entrance to the First Church of Baerlon~
+The lobby of the church has a high ceiling with designs carved all along
+the support beams.  The windows as you enter are beautiful stainglass
+windows that seem to draw in the light and emit comforting, rainbow colors. 
+Music can be heard as you enter, but it's a very faint piano sound.  A choir
+can also be heard getting ready for a full ensemble to be sung to half of
+Baerlon.  
+~
+0 4 0
+D2
+~
+~
+0 0 2509
+S
+#2482
+The Governer's Square~
+~
+0 0 0
+D0
+~
+~
+0 0 2483
+S
+#2483
+A Dirt Road~
+~
+0 0 0
+D0
+~
+~
+0 0 2484
+D2
+~
+~
+0 0 2482
+S
+#2484
+A Dirt Road~
+~
+0 0 0
+D0
+~
+~
+0 0 2485
+D2
+~
+~
+0 0 2483
+S
+#2485
+A Dirt Road~
+~
+0 0 0
+D0
+~
+~
+0 0 2486
+D2
+~
+~
+0 0 2484
+S
+#2486
+A Dirt Road~
+~
+0 0 0
+D0
+~
+~
+0 0 2487
+D2
+~
+~
+0 0 2485
+S
+#2487
+A Dirt Road~
+~
+0 0 0
+D0
+~
+~
+0 0 2488
+D2
+~
+~
+0 0 2486
+S
+#2488
+A Dirt Road~
+~
+0 0 0
+D0
+~
+~
+0 0 2489
+D2
+~
+~
+0 0 2487
+S
+#2489
+A Dirt Road~
+~
+0 0 0
+D0
+~
+~
+0 0 2490
+D2
+~
+~
+0 0 2488
+S
+#2490
+A Dirt Road~
+~
+0 0 0
+D0
+~
+~
+0 0 2491
+D2
+~
+~
+0 0 2489
+S
+#2491
+A Dirt Road~
+~
+0 0 0
+D0
+~
+~
+0 0 2492
+D2
+~
+~
+0 0 2490
+S
+#2492
+A Dirt Road~
+~
+0 0 0
+D2
+~
+~
+0 0 2491
+S
+#2493
+Baerlon Quest Headquarters~
+The Baerlon Questmaster is sitting in the corner, handing out quests to
+only the most brave and confident people.  The air here is clean and rather
+comforting, except for the occasionaly pipe smoke which seems to stream from
+a couple pipes around the room.  Many find this place as a safe haven and
+others would just love to actually find this place.  
+~
+0 1036 0
+S
+#2494
+Inside the Western Gates~
+You stand inside the large western gates of Baerlon.  Beyond the huge
+gates you can see the Mountains of Mist towering in the distance, and carts
+are being pulled by Dhurran draft horses.  The carts hold all the ore which
+are mined out of the Mountains of Mist but many do not dare step foot in the
+Mountains due to theory and susupicion of things lurking in the mist.  
+~
+0 4 1
+D0
+~
+~
+0 0 2495
+D1
+~
+~
+0 0 2469
+D2
+~
+~
+0 0 2548
+S
+#2495
+Along the West Wall~
+You stand just north from the west gates that lead in and out of the
+city.  Large wagons lumber by with large loads and the drivers screaming for
+space.  Here, where the wagons do not dare travel for fear of lack of space,
+you can see small shiny specs which glimmer in the light available.  It
+seems small pieces of gold have found it's way here, but not enough to
+filter out and make any money.  
+~
+0 4 1
+D0
+~
+~
+0 0 2496
+D2
+~
+~
+0 0 2494
+S
+#2496
+Along the West Wall~
+As you walk along the western wall, you notice the beauty of all the
+things around you.  The trees are well groomed and the bushes have all been
+trimmed to the exact same length.  Flowers of every color bloom on the
+bushes and even the buildings have been painted to look like shubbery and
+trees.  The colors in this side of Baerlon are absolutely astonishing.  
+~
+0 0 1
+D0
+~
+~
+0 0 2497
+D2
+~
+~
+0 0 2495
+M 0 H 0
+S
+#2497
+Along the West Wall~
+Close by to the east lies a small shop in which soldiers and guards enter
+and leave.  Not many common folk dare enter for fear of being pushed and
+shoved around.  Smells of fruits and meat, and even bread can be detected by
+just standing outside.  It seems that the giant flourish in wealth and
+growth in Baerlon has helped spawn a new love for restaurants in various
+parts of the city.  
+~
+0 4 1
+D0
+~
+~
+0 0 2498
+D1
+~
+~
+0 0 2594
+D2
+~
+~
+0 0 2496
+S
+#2498
+Along the West Wall~
+Looking around, you notice a plant which hasn't been displayed anywhere
+else in the city except here.  It is closed off by a low cut, oaken fence
+that is ornately carved with small flowers and fruits.  As you look closer,
+the plant seems to raise straight up out of the ground and not flower until
+it's at least 6 feet in the air where it has countless flowers of every
+color.  The road continues north and south but it'd be nice to get a closer
+look at the plant.  
+~
+0 4 1
+E
+plant~
+H  H 0 H  H
+V  v 8 v  V
+ \ | | | /
+   -----
+     |
+     |
+     |
+     |
+     |
+     |
+     |
+     |
+     |
+     |
+     |
+_____|_____
+~
+D0
+~
+~
+0 0 2499
+D1
+~
+~
+0 0 2595
+D2
+~
+~
+0 0 2497
+S
+#2499
+Along the West Wall~
+As you walk along the western wall, you notice the beauty of all the
+things around you.  The trees are well groomed and the bushes have all been
+trimmed to the exact same length.  Flowers of every color bloom on the
+bushes and even the buildings have been painted to look like shubbery and
+trees.  The colors in this side of Baerlon are absolutely astonishing.  
+~
+0 0 1
+D0
+~
+~
+0 0 2500
+D2
+~
+~
+0 0 2498
+M 0 H 0
+S
+#2500
+Along the West Wall~
+Little baskets line the road here as people jump from tree to tree trying
+to pluck the fruit which hangs low enough to grab.  Some baskets are full
+and some are just empty.  Of course you also have little children, running
+around and snatching fruit from baskets here and there.  
+~
+0 4 1
+D0
+~
+~
+0 0 2501
+D2
+~
+~
+0 0 2499
+S
+#2501
+Along the West Wall~
+The building to the east is one of the only places that actually looks
+like a house.  In fact, it looks more like a manor than a house because of
+it's pure size.  Not one sign has been attached to the building and small
+drawings can be seen from the road, pasted on each on of the small windows
+that plaster the building.  The road leads north and south but both seem to
+entice you as much as the small path which leads east.  
+~
+0 4 1
+D0
+~
+~
+0 0 2502
+D2
+~
+~
+0 0 2500
+S
+#2502
+Along the West Wall~
+As you walk along the western wall, you notice the beauty of all the
+things around you.  The trees are well groomed and the bushes have all been
+trimmed to the exact same length.  Flowers of every color bloom on the
+bushes and even the buildings have been painted to look like shubbery and
+trees.  The colors in this side of Baerlon are absolutely astonishing.  
+~
+0 0 1
+D0
+~
+~
+0 0 2513
+D2
+~
+~
+0 0 2501
+M 0 H 0
+S
+#2503
+Central Avenue~
+A group of men crouch on the porch of a store, crowding over a game of
+dice.  They scream and shout but don't realize that a guard is patrolling
+the area and is about to walk this way.  Too bad you can't stay around and
+watch this, but there is a sense of danger in the air as you continue to
+walk.  Perhaps you will find a game of dice in an inn room if there were any
+inns on either Market Road or Central Avenue.  
+~
+0 0 1
+D1
+~
+~
+0 0 2547
+D3
+~
+~
+0 0 2504
+S
+#2504
+Central Avenue~
+A small child runs past you with a giant sucker in her hand, licking and
+giggling with delight.  In the other hand the holds onto a cloth doll very
+tightly, never wavering in her steps towards a group of adults to the east. 
+A cityguard walks past you, giving you a weary eye as he watches your every
+move.  You then notice he does this with every person that passes by, he's
+only doing his job.  
+~
+0 0 1
+D1
+~
+~
+0 0 2503
+D3
+~
+~
+0 0 2505
+S
+#2505
+Central Avenue~
+Children run around with buckets of water, throwing it at the random
+passerby.  You almost wish two or three of them would decide to douse you,
+the dirt and rocks making it very hard to keep cool in weather such as this.
+A stand to the south is selling kid's dolls and toys, but doesn't seem to
+attract as many as the candy stand to the north.  Little boys and girls
+crowd the stand, throwing am occasional copper up to the man before grabbing
+a sucker and running.  
+~
+0 0 1
+D1
+~
+~
+0 0 2504
+D3
+~
+~
+0 0 2506
+S
+#2506
+Central Avenue~
+Music of some sorts can be heard in the distance, perhaps singing and
+pianos all playing at once.  The wind has died down to a minimum and the sun
+begins to take it's affect on your energy level.  Others feel the same as
+they lay around and mope to where they are supposed to be.  It seems the
+shopkeepers do not feel the sun though, as they jump around looking for
+customers.  
+~
+0 0 1
+D1
+~
+~
+0 0 2505
+D3
+~
+~
+0 0 2507
+S
+#2507
+Central Avenue~
+Leaves blow across your feet as you stroll down Central Avenue.  A weary
+traveller peers at you, obviously wanting some of your goods.  The wind
+seems to send a lot of people indoors, away from the dust that swirls around
+the small plaza of food stands.  The eastern gates lay a ways to the east
+the stores are big enough for you and a couple others to fit into.  
+~
+0 0 1
+D1
+~
+~
+0 0 2506
+D3
+~
+~
+0 0 2508
+S
+#2508
+Central Avenue~
+An abandoned shop lies directly south of you and seems to be barren of
+anything except a chair.  The windows have been boarded up but the doorway
+lacks a door to keep anyone out.  People that walk in this area walk out of
+their way to avoid any sort of visual contact with this store.  The majority
+of people seem to be heading west to the Governer's Square but many travel
+east to the city gates.  
+~
+0 0 1
+D1
+~
+~
+0 0 2507
+D3
+~
+~
+0 0 2509
+S
+#2509
+Central Avenue~
+As you push your way out of a small group of children, you notice the
+increased sound of quietness around the tiny buildings lining each side of
+the road.  You look up to the signs hanging above and notice that one says
+'First Church of Baerlon'.  Of course, there must be some kind of service
+going on, but you don't have time for that.  Baerlon is huge and there is
+much more to be seen in a city like this.  
+~
+0 0 1
+D0
+~
+~
+0 0 2481
+D1
+~
+~
+0 0 2508
+D3
+~
+~
+0 0 2510
+S
+#2510
+Central Avenue~
+The tall wooden buildings here provide ample shade and protection from
+the wind and blazing sun.  Of course, that's why it attracts a lot of stands
+and peolple, making it almost as crowded as the Governer's Square.  A
+passing peddler shouts his advertising, and pushes a small cart westward
+toward the Governer's Sqaure.  The more you travel eastward, the closer to
+come to a pair of gates.  
+~
+0 0 1
+D1
+~
+~
+0 0 2509
+D3
+~
+~
+0 0 2511
+S
+#2511
+Central Avenue~
+The clouds slowly float across the sky, not too many to make a difference
+in this weather.  People rush eastward away from the bussle of the crown in
+the Governer's Square.  The wind causes the trees to blow side to side but
+dies down sporatically.  All around, people are talking making it almost
+impossible to hear yourself think.  The eastern gates lay far to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 2510
+D3
+~
+~
+0 0 2512
+S
+#2512
+Rim of the Governer's Square~
+The statue of a man standing atop a pedastool names this area of the
+Square the outer rim of the eastern side.  Countless travellers, children,
+peddlers, merchants, shopkeepers, and cityguards pass through here either
+leaving or entering the Governer's Square.  You can begin to see a road that
+intersects the Square running north and west towards warehouses and iron
+shops.  
+~
+0 0 1
+D1
+~
+~
+0 0 2511
+D3
+~
+~
+0 0 2459
+S
+#2513
+Along the West Wall~
+The trees here display every color that leaves could possibly turn.  Red,
+orange, yellow, and brown leaves move as the wind slowly blows now, bringing
+a cool breeze that eliminates any bead of sweat that formed on your body. 
+The rustle of the leaves cease as soon as they hit the western wall but
+continue to make noise as newly fallen leaves make their way to the ground
+in a whirlpool fashion.  
+~
+0 0 1
+D0
+~
+~
+0 0 2514
+D2
+~
+~
+0 0 2502
+S
+#2514
+Along the West Wall~
+As you stand just south of the northwestern guard tower, you notice how
+people scramble off the northern road and breathe assuringly as they step
+onto this road.  The whole vision of this road could be why people call the
+western wall of Baerlon the "Beauty of Baerlon".  South lay a stretching
+road which eventually leads to the western gates of Baerlon but your trip
+north will end shortly.  
+~
+0 0 1
+D0
+~
+~
+0 0 2515
+D2
+~
+~
+0 0 2513
+S
+#2515
+Under the Northwest Tower~
+This tower is different from all other towers in the area because it
+actually extends all the way from the ground up above the wall.  Through a
+dark doorway, you can see lamps carried by men which scale a ladder up
+inside the tower.  Somewhere near the top, the lamps are blown out and men
+are set to watching the land around the wall.  
+~
+0 0 1
+D1
+~
+~
+0 0 2516
+D2
+~
+~
+0 0 2514
+S
+#2516
+Along the North Wall~
+A couple carts and wagons lay unhitched here, with countless heaps on
+trash in them.  The heaps seem to emit a smell barely tolerable by anything
+including the bees and flies which seem to breed and live off the such. 
+Farther east lay a long road which invites no man to journey due to it's
+trashy nature.  
+~
+0 0 1
+D1
+~
+~
+0 0 2517
+D3
+~
+~
+0 0 2515
+S
+#2517
+Along the North Wall~
+A small, cloth bag lays on the side of the road here, a giant G sewn on
+the side of the bag.  Upon approaching the bag, a smell which permeates the
+air drives you back from it's awfulness.  The dirt here is mixed with many
+different pieces of paper and random peices of trash which obviously need to
+be cleaned up.  
+~
+0 0 1
+D1
+~
+~
+0 0 2518
+D3
+~
+~
+0 0 2516
+S
+#2518
+Along the North Wall~
+A couple carts and wagons lay unhitched here, with countless heaps on
+trash in them.  The heaps seem to emit a smell barely tolerable by anything
+including the bees and flies which seem to breed and live off the such. 
+Farther east lay a long road which invites no man to journey due to it's
+trashy nature.  
+~
+0 0 1
+D1
+~
+~
+0 0 2519
+D3
+~
+~
+0 0 2517
+S
+#2519
+Along the North Wall~
+To the south, a sign hangs from a stone building that has a picture of a
+star overlapping a sword.  That must be the cityguards headquarters, where
+most guards sit around or possibly train in the back.  The stables lie to
+the east a bit, where their horses are kept and groomed.  
+~
+0 0 1
+D1
+~
+~
+0 0 2520
+D2
+~
+~
+0 0 2596
+D3
+~
+~
+0 0 2518
+S
+#2520
+Along the North Wall~
+A couple carts and wagons lay unhitched here, with countless heaps on
+trash in them.  The heaps seem to emit a smell barely tolerable by anything
+including the bees and flies which seem to breed and live off the such. 
+Farther east lay a long road which invites no man to journey due to it's
+trashy nature.  
+~
+0 0 1
+D1
+~
+~
+0 0 2521
+D3
+~
+~
+0 0 2519
+S
+#2521
+Along the North Wall~
+To the south lay the Cityguard stables where the horses are stalled and
+groomed.  Men walk around the stables, obviously having to assign guards to
+protect their own stables.  The occasional boy will walk into the stables,
+carrying brushes or water to help the others do the chores of taking care of
+the horses.  
+~
+0 0 1
+D1
+~
+~
+0 0 2522
+D2
+~
+~
+0 0 2597
+D3
+~
+~
+0 0 2520
+S
+#2522
+Along the North Wall~
+A large horse trots by without a care in the world about he he runs over.
+He pulls a large cart filled to the brim with trash, which will be taken
+back west towards the dump.  The wheels on the cart wobble with
+unsturdinesss as they move along, but seeming strong enough to last until
+they reach their destination.  
+~
+0 0 1
+D1
+~
+~
+0 0 2523
+D3
+~
+~
+0 0 2521
+S
+#2523
+Along the North Wall~
+The buildings here have been moved far away from the wall in order to
+allow carts and wagons to manage a path down this road.  The scarce trees
+along this road blow nudely in the wind, almost bare of all flowers and
+leaves.  The ground isn't of top quality here as most of it has been
+littered on or infected.  
+~
+0 0 1
+D1
+~
+~
+0 0 2524
+D3
+~
+~
+0 0 2522
+S
+#2524
+Along the North Wall~
+A bare bush is doing all but thriving on the side of the road.  Small
+pieces of trash have blown into the bush making it seem more like a giant
+pile of trash or even a tumbleweed.  However, janitors walk around and pick
+up the trash they can, trying to keep the city clean.  It seems that any
+trash present in the city somehow gets blown along the northern wall, which
+is why many try to avoid this area.  
+~
+0 0 1
+D1
+~
+~
+0 0 2525
+D3
+~
+~
+0 0 2523
+S
+#2525
+Along the North Wall~
+You stand a couple feet west of the northern gates which lead in and out
+of the grand city of Baerlon.  You can see travelers, merchants, peddlars,
+farmers and guards stop at the gate and try to decide which way to travel
+next.  Of course, due to the trashy nature of this section, many choose to
+go south where the business thrives and the crowds becomes larger.  
+~
+0 0 1
+D1
+~
+~
+0 0 2470
+D3
+~
+~
+0 0 2524
+S
+#2526
+Along the North Wall~
+Along the northern wall of Baerlon is where many of the towns shops and
+services are.  Apparently, the cityguard's headquarters are located around
+here because countless guards can be seen walking this road and splitting
+off down many different roads.  A couple, however, only patrol this road,
+and stay on their horses many of the times.  The sounds of gambling can be
+heard to the south, and many men continue to enter the places doors.  
+~
+0 0 1
+D1
+~
+~
+0 0 2527
+D2
+~
+~
+0 0 2590
+D3
+~
+~
+0 0 2470
+S
+#2527
+Along the North Wall~
+Men with armor ride horses up and down this road, leaving giant
+footprints and even little surprises for the weary traveler.  Careful not to
+step in these surprises, it may leave a lasting mark upon your boot.  Flies
+and bees fly around near this part of the city, mainly hanging out at the
+trash barrels which stake themselves in between the shops that stand to the
+south.  
+~
+0 0 1
+D1
+~
+~
+0 0 2528
+D3
+~
+~
+0 0 2526
+S
+#2528
+Along the North Wall~
+The sounds of people within the city walls is tremendously loud, making
+it hard to think of where to turn next.  The road along the north wall
+obviously heads east and west but it seems a road intersects with it just
+west of here.  You can also see a guard standing inside a set of gates which
+seems to be letting a couple people in here and there.  
+~
+0 0 1
+D1
+~
+~
+0 0 2529
+D3
+~
+~
+0 0 2527
+S
+#2529
+Along the North Wall~
+Footprints line this path heading both directions showing that many can
+only walk this path which isn't wide enough to accomodate a cart or wagon. 
+Not all of the footprints are human however, many displaying the shaped
+characteristic of a horse or even smaller animals like cats or dogs.  But
+despite the gusts of wind, the footprints still retain the shape they were
+given.  
+~
+0 0 1
+D1
+~
+~
+0 0 2530
+D3
+~
+~
+0 0 2528
+S
+#2530
+Along the North Wall~
+The wind blows down the north wall like a wind tunnel making dust and
+trash of all sorts fly by your face at a rapid rate.  With the wind comes an
+awful smell of rancid material and trash.  The dump must be somewhere off to
+the west, which would explain why barrels line the street, filled with
+trash.  
+~
+0 0 1
+D1
+~
+~
+0 0 2531
+D3
+~
+~
+0 0 2529
+S
+#2531
+Along the North Wall~
+The huge wall that towers many feet above your head and never once
+wobbles against the push of the wind.  It is made of logs stood upright with
+the tops sharpened into points.  The small shops to your south each display
+it's own wares anywhere from small glass figurines to giant swords to do
+battle with.  The wind blows softly across your face making the small beads
+of sweat disappear.  
+~
+0 0 1
+D1
+~
+~
+0 0 2532
+D3
+~
+~
+0 0 2530
+S
+#2532
+Along the North Wall~
+The shops that line this road are filled with people that run inside and
+out of the stores, moving on to the next as soon as a new shop is found. 
+Small items fill some windows and others are rather empty, keeping their
+inventory away from the thieves and up upon the wall.  Some windows have
+bars and yet others are barely protected at all.  Each dwelling or store
+displays a banner with it's own symbol indicating what kind of store it is. 
+~
+0 0 1
+D1
+~
+~
+0 0 2533
+D3
+~
+~
+0 0 2531
+S
+#2533
+Along the North Wall~
+Here along the north wall, people struggle to get past the others making
+their way the opposite direction.  Smells of burned trash of some sort fills
+the air here as you walk along, little clouds of smoke travelling along here
+and there.  The road shows a weariness to it much like those who travel it. 
+It's been worn down to a hard dirt substance that kicks into the air at
+every step.  
+~
+0 0 1
+D1
+~
+~
+0 0 2534
+D3
+~
+~
+0 0 2532
+M 0 H 0
+S
+#2534
+Along the North Wall~
+A giant barrel is here, filled to the brim with empty glasses that seem
+to have the stain of old beer in them.  At a closer glance, the barrel has
+pipes of all sorts and even small broken sets of dice.  It seems a bar just
+cleaned out it's storage room, and left the city to take care of what isn't
+wanted.  
+~
+0 0 1
+D1
+~
+~
+0 0 2535
+D3
+~
+~
+0 0 2533
+M 0 H 0
+S
+#2535
+Along the North Wall~
+Here along the north wall, small pubs and bars are scattered to
+accomodate those drunkards who stay in inns not far from here.  Men and
+women of all races stagger along, trying to avoid the cityguards who even
+seem to have had a little to drink.  An occasional sober guard walks along
+dispersing small crowds and breaking up pointless fights.  
+~
+0 0 1
+D1
+~
+~
+0 0 2536
+D3
+~
+~
+0 0 2534
+M 0 H 0
+S
+#2536
+Under the Northeast Tower~
+You stand at a sharp turn in the path along the wall.  To the west,
+cityguards of all types hang about, waiting for something to do.  To the
+south, small shops line the path and the shopkeepers seem to be busy either
+working on the shops or convincing people to buy things.  In front of you is
+a ladder that leads up the log wall into a small guard house.  
+~
+0 0 1
+D2
+~
+~
+0 0 2537
+D3
+~
+~
+0 0 2535
+D4
+~
+~
+0 0 2716
+M 0 H 0
+S
+#2537
+Along the East Wall~
+Trees line this path to the west, but the massive wall to your east is
+made of giant logs, bound together with countless objects such as robe,
+wire, and mud.  Small flowers litter the ground here as they slowly fall
+from the newly budded trees.  The eastern gates still lie far to the south. 
+~
+0 0 1
+D0
+~
+~
+0 0 2536
+D2
+~
+~
+0 0 2538
+M 0 H 0
+S
+#2538
+Along the East Wall~
+The sounds of hammering and clanking fill the air as you walk past the
+blacksmith's shop which has been built to the west.  The roof on the shop is
+made of tile, which means it was recently established.  You can see a man
+standing inside the shop with bulging muscles and dripping sweat, inviting
+you to come in and check things out.  
+~
+0 0 1
+D0
+~
+~
+0 0 2537
+D2
+~
+~
+0 0 2539
+D3
+~
+~
+0 0 2710
+M 0 H 0
+S
+#2539
+Along the East Wall~
+Leaves of all colors have been blown up against the log wall of Baerlon,
+providing a nice bed for those too poor to own a farm or house around town. 
+A man slowly emerges from the leaves, and staggers south towards the liquor
+shop.  You notice a hat laying on the ground, obviously it was dropped by
+someone of great wealth because it's material is that of richness.  A tower
+lies in the northern direction, propped on top of the wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 2538
+D2
+~
+~
+0 0 2540
+M 0 H 0
+S
+#2540
+Along the East Wall~
+The sound of water can be heard from here, roaring as if it was falling
+from a waterfall.  Behind the shop you are standing in front of, you can see
+fountains of every sort, spraying and spurting water all over the place. 
+Cityguards are patrolling this area heavily, and in groups of three as to
+avoid the gangs which hang around the outer area's of Baerlon.  
+~
+0 0 1
+D0
+~
+~
+0 0 2539
+D2
+~
+~
+0 0 2541
+D3
+~
+~
+0 0 2713
+M 0 H 0
+S
+#2541
+Along the East Wall~
+A quaint little man sits outside this dwelling, with a knife and stick in
+his hands.  He seems to be widdling a figure of a little man but his carving
+seems to early in the stages to tell what it's supposed to be.  A tall tree
+grows beside the shop, which is almost bumped up against the next shop just
+north of it, making the alleyway impossible to enter.  Or is it?  
+~
+0 0 1
+D0
+~
+~
+0 0 2540
+D2
+~
+~
+0 0 2542
+D3
+~
+~
+0 0 2712
+M 0 H 0
+S
+#2542
+Along the East Wall~
+The dirt here quickly turn into mud as a woman stands with water buckets,
+cleaning the outside of her shop.  The windows gleam as she puts a towel to
+them and begins to scrub in circles, not giving a care in the world as to
+who is watching.  The log wall seems to provide great protection against the
+wind as nothing here moves except the slow, lethargic scrub from the woman. 
+~
+0 0 1
+D0
+~
+~
+0 0 2541
+D2
+~
+~
+0 0 2543
+M 0 H 0
+S
+#2543
+Along the East Wall~
+The sounds of hammering and clanking fill the air as you walk past the
+blacksmith's shop which has been built to the west.  The roof on the shop is
+made of tile, which means it was recently established.  You can see a man
+standing inside the shop with bulging muscles and dripping sweat, inviting
+you to come in and check things out.  
+~
+0 0 1
+D0
+~
+~
+0 0 2542
+D2
+~
+~
+0 0 2544
+D3
+~
+~
+0 0 2710
+M 0 H 0
+S
+#2544
+Along the East Wall~
+Leaves of all colors have been blown up against the log wall of Baerlon,
+providing a nice bed for those too poor to own a farm or house around town. 
+A man slowly emerges from the leaves, and staggers south towards the liquor
+shop.  You notice a hat laying on the ground, obviously it was dropped by
+someone of great wealth because it's material is that of richness.  A tower
+lies in the northern direction, propped on top of the wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 2543
+D2
+~
+~
+0 0 2545
+M 0 H 0
+S
+#2545
+Along the East Wall~
+Trees line this path to the west, but the massive wall to your east is
+made of giant logs, bound together with countless objects such as robe,
+wire, and mud.  Small flowers litter the ground here as they slowly fall
+from the newly budded trees.  The eastern gates still lie close to the south
+but the road continues to follow the large, log wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 2544
+D2
+~
+~
+0 0 2546
+M 0 H 0
+S
+#2546
+Along the East Wall~
+Following the east wall could possibly take you in many directions.  The
+amount of people here is considerably low compared to the sizable amount out
+on the main roads of Baerlon.  A pothole lays directly ahead of you, filled
+full of dirty water which seems to have been there for ages.  
+~
+0 0 1
+D0
+~
+~
+0 0 2545
+D2
+~
+~
+0 0 2547
+M 0 H 0
+S
+#2547
+Inside the Eastern Gates~
+As you look outside the eastern gates of Baerlon, you can see countless
+fields of grass and grain.  Small coves of trees add ample room for
+protection and farming.  The gatekeeper looks at you and says that the road
+east of here leads to Caralain Grass and Braem Wood but there is a place to
+join up with the Great Caemlyn Road, which of course leads to Caemlyn.  Back
+west would lead to the Market Road and Central Avenue, which intersect with
+the Governer's Square.  
+~
+0 0 1
+D0
+~
+~
+0 0 2546
+D2
+~
+~
+0 0 2569
+D3
+~
+~
+0 0 2503
+M 0 H 0
+S
+#2548
+Along the West Wall~
+As you walk along the western wall, you notice the beauty of all the
+things around you.  The trees are well groomed and the bushes have all been
+trimmed to the exact same length.  Flowers of every color bloom on the
+bushes and even the buildings have been painted to look like shubbery and
+trees.  The colors in this side of Baerlon are absolutely astonishing.  
+~
+0 0 1
+D0
+~
+~
+0 0 2494
+D2
+~
+~
+0 0 2549
+M 0 H 0
+S
+#2549
+Along the West Wall~
+A building stands to the east that has a spoon and a little flask on the
+sign.  The sign swings slowly in the wind, almost looking like a tree with
+the awesome painting that's been done on it.  Small vials of every kind line
+the barred windows of that shop, and a hefty woman guards the door with a
+menacing look.  
+~
+0 0 1
+D0
+~
+~
+0 0 2548
+D1
+~
+~
+0 0 2593
+D2
+~
+~
+0 0 2550
+M 0 H 0
+S
+#2550
+Along the West Wall~
+As you walk along the western wall, you notice the beauty of all the
+things around you.  The trees are well groomed and the bushes have all been
+trimmed to the exact same length.  Flowers of every color bloom on the
+bushes and even the buildings have been painted to look like shubbery and
+trees.  The colors in this side of Baerlon are absolutely astonishing.  
+~
+0 0 1
+D0
+~
+~
+0 0 2549
+D2
+~
+~
+0 0 2551
+M 0 H 0
+S
+#2551
+Along the West Wall~
+The sound of wagons and carts can be heard from all around as you walk
+along the western wall.  People trudge through the muddy spots of the road
+where liquid material has been dumped and then traveled over many times. 
+The road continues both north and south, people walking and talking in both
+directions.  
+~
+0 0 1
+D0
+~
+~
+0 0 2550
+D2
+~
+~
+0 0 2552
+M 0 H 0
+S
+#2552
+Along the West Wall~
+A large fence has been erected recently to the east where someone has
+taken the time to paint small flowers and fruits upon the wood.  On a
+portion of the fence you see an outlined square, which seems to have been
+freshly painted.  Take a look at the fence for yourself.  
+~
+0 0 1
+E
+fence~
+|=====================| 
+|++xx             ++xx|
+|                     |
+|   Laval's Orchid    |
+|                     |
+|++xx             ++xx|
+|=====================|
+~
+D0
+~
+~
+0 0 2551
+D2
+~
+~
+0 0 2553
+M 0 H 0
+S
+#2553
+Along the West Wall (Orchid East)~
+Bushes seem to line the road here and get thicker the farther north you
+look.  The bushes are set in a pattern of alternating flower colors with red
+and white being almost always prominent.  An orchid lays to the east where
+many couples stroll through to soak in the beauty of nature.  
+~
+0 0 1
+D0
+~
+~
+0 0 2552
+D2
+~
+~
+0 0 2554
+M 0 H 0
+S
+#2554
+Along the West Wall~
+The sound of wagons and carts can be heard from all around as you walk
+along the western wall.  People trudge through the muddy spots of the road
+where liquid material has been dumped and then traveled over many times. 
+The road continues both north and south, people walking and talking in both
+directions.  
+~
+0 0 1
+D0
+~
+~
+0 0 2553
+D2
+~
+~
+0 0 2555
+M 0 H 0
+S
+#2555
+Along the West Wall~
+Fairly far north of the southewestern tower, you can hear a hustle of
+people off in the distance.  Leaves of all colors blow at your feet,
+tumbling along as they fall slowly from all the trees.  The trees, of
+course, are losing a great many of leaves to the occasional gusts of winds
+that pass through.  
+~
+0 0 1
+D0
+~
+~
+0 0 2554
+D2
+~
+~
+0 0 2556
+M 0 H 0
+S
+#2556
+Along the West Wall~
+The sound of wagons and carts can be heard from all around as you walk
+along the western wall.  People trudge through the muddy spots of the road
+where liquid material has been dumped and then traveled over many times. 
+The road continues both north and south, people walking and talking in both
+directions.  
+~
+0 0 1
+D0
+~
+~
+0 0 2555
+D2
+~
+~
+0 0 2557
+M 0 H 0
+S
+#2557
+Along the West Wall~
+Just north of the southwestern tower, you can hear a hustle of people off
+in the distance.  Leaves of all colors blow at your feet, tumbling along as
+they fall slowly from all the trees.  The trees, of course, are losing a
+great many of leaves to the occasional gusts of winds that pass through.  
+~
+0 0 1
+D0
+~
+~
+0 0 2556
+D2
+~
+~
+0 0 2558
+M 0 H 0
+S
+#2558
+Under the Southwest Tower~
+Here, under the southwestern tower, you can see both the southern and
+western walls extending into the far distance.  A ladder is propped at your
+feet, which raises up into a cylindrical tower with a pointy top on it. 
+Small slits reveal that it's an archers dream, a protected tower with arrow
+slits in them.  
+~
+0 0 1
+D0
+~
+~
+0 0 2557
+D1
+~
+~
+0 0 2559
+M 0 H 0
+S
+#2559
+Along the South Wall~
+A small stream of water crosses your path here, turning the dirt road
+into a small line of mud that follows from a field all the way to the log
+wall of Baerlon.  There must be an underground spring that has found it's
+way to the surface.  
+~
+0 0 1
+D1
+~
+~
+0 0 2560
+D3
+~
+~
+0 0 2558
+M 0 H 0
+S
+#2560
+Along the South Wall~
+Chairs sit to the building north of you, but apparently are not in use at
+the moment.  The sound of the wind can be heard in the distance but can
+barely be felt here along the southern wall.  Various different types of
+people stroll along, not giving a care to anyone else who passes by or even
+bumps into them.  
+~
+0 0 1
+D0
+~
+~
+0 0 2608
+D1
+~
+~
+0 0 2561
+D3
+~
+~
+0 0 2559
+M 0 H 0
+S
+#2561
+Along the South Wall~
+As you walk along this serene, quiet road along the southern wall of
+Baerlon, you notice that little birds flutter around, looking for trees to
+nest in.  The stroll down this road could last forever if only the night
+life here wasn't so bad.  
+~
+0 0 1
+D0
+~
+~
+0 0 2607
+D1
+~
+~
+0 0 2562
+D3
+~
+~
+0 0 2560
+M 0 H 0
+S
+#2562
+Along the South Wall~
+Smells of beef and bread float in the air, attracting many villagers,
+peddlers, and even insects.  It seems there is a bakery and a butchery that
+have built thier establishments close together in order to improve business.
+The road here closely follows the log wall of Baerlon and continues to
+follow it until out of sight.  
+~
+0 0 1
+D0
+~
+~
+0 0 2606
+D1
+~
+~
+0 0 2563
+D3
+~
+~
+0 0 2561
+M 0 H 0
+S
+#2563
+Along the South Wall~
+Small animals can been seen running around the trees in this area that is
+fenced off.  They seem oblivious to the rest of the world as do the people
+walking up and down the southern road that follows the city walls.  Sounds
+of laughter and talking can be heard from all around, they city very much
+alive and active today.  
+~
+0 0 1
+D0
+~
+~
+0 0 2600
+D1
+~
+~
+0 0 2564
+D3
+~
+~
+0 0 2562
+M 0 H 0
+S
+#2564
+Along the South Wall~
+The wind blows softly down thee road as you walk along the southern wall
+of Baerlon.  The road is made of dirt which is cool to the touch, except for
+th random parts where the sun filters through the trees onto the ground. 
+The road follows the wall both east and west as far as you can see, with
+countless buildings lined up next to each other.  
+~
+0 0 1
+D1
+~
+~
+0 0 2565
+D3
+~
+~
+0 0 2563
+M 0 H 0
+S
+#2565
+Along the South Wall~
+Two birds fly around here, frolicking in the air as they soar to the
+nearest tree.  The trees here are all different colors because of the recent
+weather Baerlon has been experiencing.  A fountain lays off to the side of
+the road where small kids are grabbing hand-fulls of water and throwing it
+at each other.  
+~
+0 0 1
+D1
+~
+~
+0 0 2566
+D3
+~
+~
+0 0 2564
+M 0 H 0
+S
+#2566
+Along the South Wall~
+The trees extend far above your head as the light is filtered through the
+leaves and down upon you.  The heat from the rays provides enough to keep
+you warm, but not make you sweat.  This road continues to head both east and
+west, following the wall for as long as you can see.  
+~
+0 0 1
+D1
+~
+~
+0 0 2567
+D3
+~
+~
+0 0 2565
+M 0 H 0
+S
+#2567
+Along the South Wall~
+This area of town seems to be very clean as there are barrels that people
+seem to throwing trash into.  Every now and then, large armored men trot by
+on thier hairy horses, peering intently at those that have trash in thier
+hand and make no move towards the trash cans.  It seems that there is some
+kind of policy on littering that you are unaware of.  
+~
+0 0 1
+D1
+~
+~
+0 0 2568
+D3
+~
+~
+0 0 2566
+M 0 H 0
+S
+#2568
+Along the South Wall~
+The trees provide ample shade here, drawing many a person and animal to
+sit under all of them.  Small bags and purses lay at everyone's feet, making
+this a prime stealing ground for any thieves that may lurk around.  The
+southern gates are directly to your east, however this road continues to
+head far to the west leaving the smallest hint of a tower in the distance.  
+~
+0 0 1
+D1
+~
+~
+0 0 2448
+D3
+~
+~
+0 0 2567
+M 0 H 0
+S
+#2569
+Along the East Wall~
+The shop to the west has stumps sitting outside of the porch, along with
+chairs and tables upon display.  Obviously a woodworker, the man just inside
+the door is slaving away at carving some kind of small figurine, which is
+too small to see from this distance.  Children run up and down this street
+as if they were playing at their house, not giving a care about any of the
+large men or horses that step right beside them.  
+~
+0 0 1
+D0
+~
+~
+0 0 2547
+D2
+~
+~
+0 0 2570
+D3
+~
+~
+0 0 2709
+M 0 H 0
+S
+#2570
+Along the East Wall~
+Small bubbles float in the air which seem to also emit the smell of
+laundry soap and water.  The sound of laughter can be heard from the south
+and it continues to be heard with no pause in between laughs.  The road here
+is rather rough and containing many ruts which were made just recently
+judging by the muddy dents in the road.  
+~
+0 0 1
+D0
+~
+~
+0 0 2569
+D2
+~
+~
+0 0 2571
+M 0 H 0
+S
+#2571
+Along the East Wall~
+The wall to your east has small scrathes along the lower part of it,
+where kids have obviously tooled away at the wood.  Higher up, however, is
+where the older kids engrave thier names and of course the ones they love. 
+There, it says Charim loves Nikka, and farther down it says Lala and Dharin
+forever.  It seems that the cityguards pay no heed to this because of the
+massive amount of names along this portion of the wall.  It's no use trying
+to stop what you can't.  
+~
+0 0 1
+D0
+~
+~
+0 0 2570
+D2
+~
+~
+0 0 2572
+M 0 H 0
+S
+#2572
+Along the East Wall~
+The dwelling to your west has a slab of carpet laying on the porch, with
+the ends of that carpet all torn and very ragged.  Many walk across this
+piece of carpet and rub thier feet before entering through the door.  You
+hear a voice from inside the place that screams 'Wipe your feet on the rug'.
+Apparently, the woman inside the building is referring to the dirty piece of
+carpet as a rug.  
+~
+0 0 1
+D0
+~
+~
+0 0 2571
+D2
+~
+~
+0 0 2573
+D3
+~
+~
+0 0 2708
+M 0 H 0
+S
+#2573
+Along the East Wall~
+In the far distance to the south, a tower can be seen sitting atop the
+tower wall, overlooking the southern part of Baerlon and whatever lies
+outside the city walls.  The road here is purely dirt which makes it pretty
+easy to travel on, except the areas where carts or wagons decided to risk
+the chance of getting stuck.  They left ruts deep enought to break a leg,
+whether it be human or animal.  
+~
+0 0 1
+D0
+~
+~
+0 0 2572
+D2
+~
+~
+0 0 2574
+M 0 H 0
+S
+#2574
+Along the East Wall~
+A small piece of trash blows slowly down this road as the soft wind
+carries some things with it.  The walls may block the outside world but it
+allows a considerable amount of ventilation.  Trees lie to the west and grow
+up in between two shops but not daring to grow into the foundation.  It
+seems the layout of these buildings were well thought out as the tree
+provides shade but doesn't destroy the building.  
+~
+0 0 1
+D0
+~
+~
+0 0 2573
+D2
+~
+~
+0 0 2575
+M 0 H 0
+S
+#2575
+Along the East Wall~
+The dwelling to your west has a slab of carpet laying on the porch, with
+the ends of that carpet all torn and very ragged.  Many walk across this
+piece of carpet and rub thier feet before entering through the door.  You
+hear a voice from inside the place that screams 'Wipe your feet on the rug'.
+Apparently, the woman inside the building is referring to the dirty piece of
+carpet as a rug.  
+~
+0 0 1
+D0
+~
+~
+0 0 2574
+D2
+~
+~
+0 0 2576
+D3
+~
+~
+0 0 2706
+M 0 H 0
+S
+#2576
+Along the East Wall~
+The sound of metal clashing on metal can be heard around here.  It's as
+if men were fighting with swords, but with swords shaped like a hollow steel
+rod.  The wall here contains several small slits in them, obviously made to
+allow archers to shoot through in case of an attack upon the city.  The
+slits are barely wide enough to allow an arrow through, needless to say, a
+person.  
+~
+0 0 1
+D0
+~
+~
+0 0 2575
+D2
+~
+~
+0 0 2577
+M 0 H 0
+S
+#2577
+Along the East Wall~
+The building to your west has a high topped roof and a flag which stands
+high, waving a flag with 6 circles linked together on it.  The door is made
+of pure oak wood with a small circle in the middle, made of glass.  Other
+than that, the road in front of it is well groomed and most likely the only
+smooth part of this entire road.  
+~
+0 0 1
+D0
+~
+~
+0 0 2576
+D2
+~
+~
+0 0 2578
+D3
+~
+~
+0 0 2703
+M 0 H 0
+S
+#2578
+Along the East Wall~
+The tower extends about 10 feet above the wall with just a single pillar
+to hold it up.  From here, it is hard to tell if anyone is in the tower or
+not but chances are, there is.  A small grove of trees grow to the west
+here, which contain small benches for people to sit in the shade and enjoy
+the cool breeze.  
+~
+0 0 1
+D0
+~
+~
+0 0 2577
+D2
+~
+~
+0 0 2579
+M 0 H 0
+S
+#2579
+Under the Southeast Tower~
+A ladder lays against the wall here as it scales the log wall and enters
+the bottom of a small guard tower.  A guard stands at the bottom of the
+ladder, eyes gazing at every person who cares to stop and look at where the
+ladder leads.  The traffic begins to build up here becuase people slow down
+and peer at the guard, and end up bumping into others trying to turn the
+corner.  
+~
+0 0 1
+D0
+~
+~
+0 0 2578
+D3
+~
+~
+0 0 2580
+D4
+~
+~
+0 0 2701
+M 0 H 0
+S
+#2580
+Along the South Wall~
+The smell in the air is that of the large wooden wall that lies to the
+the south of you.  It seems work has recently been done to it because there
+are spots where clay has been put in between logs that have somehow grown a
+hole in them.  
+~
+0 0 1
+D1
+~
+~
+0 0 2579
+D3
+~
+~
+0 0 2581
+M 0 H 0
+S
+#2581
+Along the South Wall~
+Two birds fly around here, frolicking in the air as they soar to the
+nearest tree.  The trees here are all different colors because of the recent
+weather Baerlon has been experiencing.  A fountain lays off to the side of
+the road where small kids are grabbing hand-fulls of water and throwing it
+at each other.  
+~
+0 0 1
+D1
+~
+~
+0 0 2580
+D3
+~
+~
+0 0 2582
+M 0 H 0
+S
+#2582
+Along the South Wall~
+The trees extend far above your head as the light is filtered through the
+leaves and down upon you.  The heat from the rays provides enough to keep
+you warm, but not make you sweat.  This road continues to head both east and
+west, following the wall for as long as you can see.  To the north lies the
+Stag and the Lion, one of the most talked about Inns in the city.  Music can
+be heard from inside, lumbering out with laughter and yelling.  
+~
+0 0 1
+D0
+~
+~
+0 0 2646
+D1
+~
+~
+0 0 2581
+D3
+~
+~
+0 0 2583
+M 0 H 0
+S
+#2583
+Along the South Wall~
+Small leaves slowly float to the ground as the wind begins to snatch them
+from nearby trees.  The crunch beneath your boots is caused from the dirt
+mixing with rocks and leaves, making this path sort of lined.  Far to the
+east is a watchtower sitting upon the wooden wall, and west holds the grand
+gates of Baerlon.  
+~
+0 0 1
+D1
+~
+~
+0 0 2582
+D2
+~
+~
+0 0 2584
+D3
+~
+~
+0 0 2584
+M 0 H 0
+S
+#2584
+Along the South Wall~
+The shop to the north has a giant flag displaying a glowing shield on it,
+meaning this must be the building of a weapons dealer.  Through the windows,
+you can see swords of all kinds and even weapons which are shaped like the
+horn of a goat.  A travel north into the store could prove to be worth the
+time.  
+~
+0 0 1
+D0
+~
+~
+0 0 2583
+D1
+~
+~
+0 0 2583
+D3
+~
+~
+0 0 2585
+M 0 H 0
+S
+#2585
+Along the South Wall~
+The trees extend far above your head as the light is filtered through the
+leaves and down upon you.  The heat from the rays provides enough to keep
+you warm, but not make you sweat.  This road continues to head both east and
+west, following the wall for as long as you can see.  
+~
+0 0 1
+D1
+~
+~
+0 0 2584
+D3
+~
+~
+0 0 2586
+M 0 H 0
+S
+#2586
+Along the South Wall~
+The shop to the north has a giant flag displaying a basket which holds
+fruits of all kinds on the peak of it's roof.  Through the windows, you can
+can see racks upon racks of fruits and even a barrel on the porch holds free
+samples for all those willing to come inside the store.  
+~
+0 0 0
+D0
+~
+~
+0 0 2592
+D1
+~
+~
+0 0 2585
+D3
+~
+~
+0 0 2587
+M 0 H 0
+S
+#2587
+Along the South Wall~
+Small leaves slowly float to the ground as the wind begins to snatch them
+from nearby trees.  The crunch beneath your boots is caused from the dirt
+mixing with rocks and leaves, making this path sort of lined.  Far to the
+east is a watchtower sitting upon the wooden wall, and west holds the grand
+gates of Baerlon.  
+~
+0 0 1
+D1
+~
+~
+0 0 2586
+D3
+~
+~
+0 0 2588
+M 0 H 0
+S
+#2588
+Along the South Wall~
+The wind blows softly down the road as you walk along the southern wall
+of Baerlon.  The road is made of dirt which is cool to the touch, except for
+th random parts where the sun filters through the trees onto the ground. 
+The road follows the wall both east and west as far as you can see, with
+countless buildings lined up next to each other.  
+~
+0 0 1
+D1
+~
+~
+0 0 2587
+D3
+~
+~
+0 0 2589
+M 0 H 0
+S
+#2589
+Along the South Wall~
+The trees extend far above your head as the light is filtered through the
+leaves and down upon you.  The heat from the rays provides enough to keep
+you warm, but not make you sweat.  This road continues to head both east and
+west, following the wall for as long as you can see.  
+~
+0 0 1
+D1
+~
+~
+0 0 2588
+D3
+~
+~
+0 0 2448
+M 0 H 0
+S
+#2590
+Some Inn~
+~
+0 0 0
+D0
+~
+~
+0 0 2526
+S
+#2591
+A Weapons Shop~
+As you walk into the shop, you can see weapons of every kind hanging from
+the walls and others laying out on shelves and counters for display.  Not
+only does the storekeeper give you a wary eye, he fingers a small dagger
+tucked in the sash he is wearing around his waist.  Tread carefully, the
+storekeeper will most likely know how to use most of these weapons.  
+~
+0 4 0
+D0
+~
+~
+3 0 2598
+D2
+~
+~
+0 0 2584
+S
+#2592
+Sumari's Fruit Shop~
+The smell of this shop is absolutely invigorating because of the exotic
+and plentiful amount of fruits.  Sumari stands post in her store, which is
+open at every hour of the day, with only her to watch it.  A curtain of
+beads leads into a back room which is where the smell seems to originate.  
+~
+0 4 0
+D0
+~
+beads~
+0 0 2599
+D2
+~
+~
+0 0 2586
+S
+#2593
+Some potion/scroll/wand shop~
+~
+0 0 0
+D3
+~
+~
+0 0 2549
+S
+#2594
+Waiting area for some restaurant~
+~
+0 0 0
+D3
+~
+~
+0 0 2497
+S
+#2595
+Weird plant place~
+~
+0 0 0
+D3
+~
+~
+0 0 2498
+S
+#2596
+Baerlon's Royal Headquarters~
+A large desk sits almost directly in front of you as you enter the
+headquarters.  It seems as if there is always someone behind it to take any
+sort of crime or complaint from the common people.  Men dressed in royal
+attire can be seen scurrying from one room to the next, seemingly protecting
+and serving.  Papers are scattered all about the desk, yet they seem to have
+some sort of organization in their disarray.  
+~
+0 0 0
+D0
+~
+~
+0 0 2519
+S
+#2597
+The Stable Doors~
+~
+0 0 0
+D0
+~
+~
+0 0 2521
+S
+#2598
+Behind the Counter~
+You step behind the counter where the storekeeper keeps all his money and
+his misc materials.  A broom sits in the corner, looking to be rarely used
+by the level of dust that has collected on the floor and shelves.  The only
+visable exit is south back into the store.  
+~
+0 0 0
+D2
+~
+~
+3 0 2591
+S
+#2599
+Behind the Beads~
+Shelves of all sorts invite you to walk closer and take a look at what
+they have to offer.  Small vials and flasks of all kinds lay upon the
+shelves, each containing it's own color and texture.  Sumari can't come back
+here and watch her shop also so a small man is sitting at a desk, peering
+intently at you.  
+~
+0 0 0
+D2
+~
+bead~
+0 0 2592
+S
+#2600
+A Park~
+Trees surround you from every angle, making homes for small woodland
+creatures who decide to live inside the walls of Baerlon.  The grass has a
+thickness to it that welcomes anyone or anything to lay down upon it, or
+even for it to be felt.  The sun filters through the treetops where small
+rays hit the ground and slowly dance as the leaves move.  
+~
+0 0 2
+D0
+~
+~
+0 0 2601
+D1
+~
+~
+0 0 2605
+D2
+~
+~
+0 0 2563
+S
+#2601
+A Park~
+Trees surround you from every angle, making homes for small woodland
+creatures who decide to live inside the walls of Baerlon.  The grass has a
+thickness to it that welcomes anyone or anything to lay down upon it, or
+even for it to be felt.  The sun filters through the treetops where small
+rays hit the ground and slowly dance as the leaves move.  
+~
+0 0 2
+D0
+~
+~
+0 0 2602
+D1
+~
+~
+0 0 2604
+D2
+~
+~
+0 0 2600
+S
+#2602
+A Park~
+Trees surround you from every angle, making homes for small woodland
+creatures who decide to live inside the walls of Baerlon.  The grass has a
+thickness to it that welcomes anyone or anything to lay down upon it, or
+even for it to be felt.  The sun filters through the treetops where small
+rays hit the ground and slowly dance as the leaves move.  
+~
+0 0 2
+D1
+~
+~
+0 0 2603
+D2
+~
+~
+0 0 2601
+S
+#2603
+A Park~
+Trees surround you from every angle, making homes for small woodland
+creatures who decide to live inside the walls of Baerlon.  The grass has a
+thickness to it that welcomes anyone or anything to lay down upon it, or
+even for it to be felt.  The sun filters through the treetops where small
+rays hit the ground and slowly dance as the leaves move.  
+~
+0 0 2
+D2
+~
+~
+0 0 2604
+D3
+~
+~
+0 0 2602
+S
+#2604
+A Park~
+Trees surround you from every angle, making homes for small woodland
+creatures who decide to live inside the walls of Baerlon.  The grass has a
+thickness to it that welcomes anyone or anything to lay down upon it, or
+even for it to be felt.  The sun filters through the treetops where small
+rays hit the ground and slowly dance as the leaves move.  
+~
+0 0 2
+D0
+~
+~
+0 0 2603
+D2
+~
+~
+0 0 2605
+D3
+~
+~
+0 0 2601
+S
+#2605
+A Park~
+Trees surround you from every angle, making homes for small woodland
+creatures who decide to live inside the walls of Baerlon.  The grass has a
+thickness to it that welcomes anyone or anything to lay down upon it, or
+even for it to be felt.  The sun filters through the treetops where small
+rays hit the ground and slowly dance as the leaves move.  
+~
+0 0 2
+D0
+~
+~
+0 0 2604
+D3
+~
+~
+0 0 2600
+S
+#2606
+Inside the Butcher's Store~
+The first step inside this door reveals a smell unlike any other, a smell
+of raw meat permeating from inside the hallway which stands just behind the
+counter.  Cleaves and small knives lay around like worthless items, however
+they seem to all be in reach of the butcher who stands right before you.  
+~
+0 4 0
+D2
+~
+~
+0 0 2562
+D3
+~
+~
+1 0 2607
+S
+#2607
+The Bakery~
+A small stove sits to the side of you, emitting small streams of steam
+which seem to disappear as quickly as they were formed.  The smell of sweet
+bread and muffins seems to fill your head as you stand in the middle of the
+room, soaking it all in.  
+~
+0 0 0
+D1
+~
+~
+1 0 2606
+D2
+~
+~
+0 0 2561
+S
+#2608
+The Barber's Shop~
+As you enter the room, you can see men, women, and kids of all types
+standing or sitting around, waiting on the man with the scissors.  He seems
+to be working quite lethargicly despite all the people waiting to be next in
+the chair.  
+~
+0 0 0
+D2
+~
+~
+0 0 2560
+S
+#2609
+Stableyard~
+You stand in the stableyard of the Stag and the Lion.  The fence behind
+you slowly swings shut as you stare at the surrounding environment.  The inn
+lies not to far east from here, standing just beside the stable itself. 
+Lights can be seen from inside the inn where music and laughter spill out
+like water in a bottomless bucket.  
+~
+0 0 2
+D0
+~
+~
+0 0 2613
+D1
+~
+~
+0 0 2610
+D2
+~
+~
+0 0 2611
+D3
+~
+fence~
+4 2560 2450
+R ACT 2609 unlocks the fence~
+S
+#2610
+Stableyard~
+You stand directly west of a stone walkway leading up to a door in the
+Inn.  Considering the smells that float from the door, it must be the
+kitchen.  Beyond that, laughter can be heard from dozens upon dozens of
+people.  They must be having a good time in the Common Room.  
+~
+0 0 2
+D0
+~
+~
+0 0 2614
+D1
+~
+~
+0 0 2634
+D2
+~
+~
+0 0 2612
+D3
+~
+~
+0 0 2609
+S
+#2611
+Stableyard~
+Here in the corner of the stableyard, you can see everything around you. 
+A fence surrounds your back and side and the Inn lays not far off to the
+east.  It towers well above the fence, actually extending about 4 stories
+up.  Lights illuminate random windows of the Inn as well as the windows
+inside of the stable.  
+~
+0 0 2
+D0
+~
+~
+0 0 2609
+D1
+~
+~
+0 0 2612
+S
+#2612
+Stableyard~
+The ground here is very soft and taken care of.  The green grass softens
+each step you take as you tumble along the stableyard of the Stag and the
+Lion.  A tall-backed fence still lies just behind you, restricting
+anymovement southward.  
+~
+0 0 2
+D0
+~
+~
+0 0 2610
+D3
+~
+~
+0 0 2611
+S
+#2613
+Stableyard~
+You stand in the northwest corner of the stableyard.  Small patches of
+grass are allowed to grow taller to allow the horses to roam a bit when the
+owners wish to take them out.  The ground here is a bit higher than the
+ground to the south, allowing you to see over the wooden fence surrounding
+the stableyard.  However, just beyond the initial fence lies the log wall of
+Baerlon, blocking everything to be seen outside of it.  
+~
+0 0 2
+D1
+~
+~
+0 0 2614
+D2
+~
+~
+0 0 2609
+S
+#2614
+Stableyard~
+The ground here looks soft enough to sleep on if it came to that.  If not
+for the smell of horse, it might be nice to sleep under stars rather than in
+the crowded Inn.  Fence can be seen all around the stable yard except the
+southeast where a walkway leads to a back door.  
+~
+0 0 2
+D0
+~
+~
+0 0 2615
+D2
+~
+~
+0 0 2610
+D3
+~
+~
+0 0 2613
+S
+#2615
+Before the Stables~
+~
+0 0 2
+D0
+~
+~
+1 0 2616
+D2
+~
+~
+0 0 2614
+S
+#2616
+The Stable~
+~
+0 0 0
+D0
+~
+~
+0 0 2617
+D1
+~
+~
+0 0 2619
+D2
+~
+~
+1 0 2615
+D3
+~
+~
+0 0 2620
+S
+#2617
+The Stable~
+~
+0 0 0
+D0
+~
+~
+0 0 2618
+D1
+~
+~
+0 0 2622
+D2
+~
+~
+0 0 2616
+D3
+~
+~
+0 0 2621
+S
+#2618
+The Stable~
+~
+0 0 0
+D1
+~
+~
+0 0 2623
+D2
+~
+~
+0 0 2617
+D3
+~
+~
+0 0 2624
+S
+#2619
+A Stall~
+~
+0 0 0
+D3
+~
+~
+0 0 2616
+S
+#2620
+A Stall~
+~
+0 0 0
+D1
+~
+~
+0 0 2616
+S
+#2621
+A Stall~
+~
+0 0 0
+D1
+~
+~
+0 0 2617
+S
+#2622
+A Stall~
+~
+0 0 0
+D3
+~
+~
+0 0 2617
+S
+#2623
+A Stall~
+~
+0 0 0
+D3
+~
+~
+0 0 2618
+D4
+~
+~
+0 0 2625
+S
+#2624
+A Stall~
+~
+0 0 0
+D1
+~
+~
+0 0 2618
+D4
+~
+~
+0 0 2633
+S
+#2625
+On the Ladder~
+~
+0 0 0
+D4
+~
+~
+0 0 2626
+D5
+~
+~
+0 0 2623
+S
+#2626
+The Hayloft~
+~
+0 0 0
+D2
+~
+~
+0 0 2627
+D5
+~
+~
+0 0 2625
+S
+#2627
+The Hayloft~
+~
+0 0 0
+D0
+~
+~
+0 0 2626
+D2
+~
+~
+0 0 2628
+S
+#2628
+The Hayloft~
+~
+0 0 0
+D0
+~
+~
+0 0 2627
+D3
+~
+~
+0 0 2629
+S
+#2629
+The Hayloft~
+~
+0 0 0
+D1
+~
+~
+0 0 2628
+D3
+~
+~
+0 0 2630
+S
+#2630
+The Hayloft~
+~
+0 0 0
+D0
+~
+~
+0 0 2631
+D1
+~
+~
+0 0 2629
+S
+#2631
+The Hayloft~
+~
+0 0 0
+D0
+~
+~
+0 0 2632
+D2
+~
+~
+0 0 2630
+S
+#2632
+The Hayloft~
+~
+0 0 0
+D2
+~
+~
+0 0 2631
+D5
+~
+~
+0 0 2633
+S
+#2633
+On the Ladder~
+~
+0 0 0
+D4
+~
+~
+0 0 2632
+D5
+~
+~
+0 0 2624
+S
+#2634
+A Stone Walkway~
+~
+0 0 1
+D1
+~
+~
+0 0 2635
+D3
+~
+~
+0 0 2610
+S
+#2635
+The Back Door~
+~
+0 0 1
+D1
+~
+~
+1 0 2636
+D3
+~
+~
+0 0 2634
+S
+#2636
+The Kitchen~
+~
+0 0 0
+D1
+~
+~
+0 0 2637
+D2
+~
+~
+1 0 2638
+D3
+~
+~
+1 0 2635
+S
+#2637
+The Kitchen~
+~
+0 0 0
+D1
+~
+~
+0 0 2639
+D3
+~
+~
+0 0 2636
+S
+#2638
+The Stockroom~
+~
+0 0 0
+D0
+~
+~
+1 0 2636
+S
+#2639
+The Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 2651
+D2
+~
+~
+0 0 2640
+D3
+~
+~
+0 0 2637
+S
+#2640
+The Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 2639
+D2
+~
+~
+0 0 2641
+S
+#2641
+The Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 2640
+S
+#2642
+The Common Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2643
+D1
+~
+~
+0 0 2645
+D2
+~
+~
+0 0 2647
+D3
+~
+~
+1 0 2651
+S
+#2643
+The Common Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2644
+D2
+~
+~
+0 0 2642
+S
+#2644
+The Common Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2650
+D2
+~
+~
+0 0 2645
+D3
+~
+~
+0 0 2643
+S
+#2645
+The Common Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2644
+D1
+~
+~
+0 0 2649
+D2
+~
+~
+0 0 2646
+D3
+~
+~
+0 0 2642
+S
+#2646
+Inside The Stag and the Lion~
+~
+0 0 0
+D0
+~
+~
+0 0 2645
+D1
+~
+~
+0 0 2648
+D2
+~
+~
+0 0 2582
+D3
+~
+~
+0 0 2647
+S
+#2647
+The Common Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2642
+D1
+~
+~
+0 0 2646
+S
+#2648
+The Common Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2649
+D3
+~
+~
+0 0 2646
+S
+#2649
+The Common Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2650
+D2
+~
+~
+0 0 2648
+D3
+~
+~
+0 0 2645
+S
+#2650
+The Common Room~
+~
+0 0 0
+D2
+~
+~
+0 0 2649
+D3
+~
+~
+0 0 2644
+S
+#2651
+At the Base of a Staircase~
+~
+0 0 0
+D1
+~
+~
+1 0 2642
+D2
+~
+~
+0 0 2639
+D3
+~
+~
+1 0 2688
+D4
+~
+~
+0 0 2652
+S
+#2652
+Stairway on the Second Floor~
+~
+0 0 0
+D1
+~
+~
+0 0 2655
+D4
+~
+~
+0 0 2653
+D5
+~
+~
+0 0 2651
+S
+#2653
+Stairway on the Third Floor~
+~
+0 0 0
+D1
+~
+~
+0 0 2664
+D4
+~
+~
+0 0 2654
+D5
+~
+~
+0 0 2652
+S
+#2654
+Stairway on the Fourth Floor~
+~
+0 0 0
+D1
+~
+~
+0 0 2673
+D4
+~
+~
+1 0 2685
+D5
+~
+~
+0 0 2653
+S
+#2655
+A Dim Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 2662
+D1
+~
+~
+0 0 2656
+D2
+~
+~
+0 0 2663
+D3
+~
+~
+0 0 2652
+S
+#2656
+A Dim Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 2660
+D1
+~
+~
+0 0 2657
+D2
+~
+~
+0 0 2661
+D3
+~
+~
+0 0 2655
+S
+#2657
+A Dim Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 2659
+D1
+~
+~
+0 0 2682
+D2
+~
+~
+0 0 2658
+D3
+~
+~
+0 0 2656
+S
+#2658
+An Extravagant Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2657
+S
+#2659
+A Simple Room~
+~
+0 0 0
+D2
+~
+~
+0 0 2657
+S
+#2660
+A Dining Room~
+~
+0 0 0
+D2
+~
+~
+0 0 2656
+S
+#2661
+A Meeting Chamber~
+~
+0 0 0
+D0
+~
+~
+0 0 2656
+S
+#2662
+A Meeting Chamber~
+~
+0 0 0
+D2
+~
+~
+0 0 2655
+S
+#2663
+An Eating Chamber~
+~
+0 0 0
+D0
+~
+~
+0 0 2655
+S
+#2664
+A Dark Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 2671
+D1
+~
+~
+0 0 2665
+D2
+~
+~
+0 0 2672
+D3
+~
+~
+0 0 2653
+S
+#2665
+A Dark Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 2669
+D1
+~
+~
+0 0 2666
+D2
+~
+~
+0 0 2670
+D3
+~
+~
+0 0 2664
+S
+#2666
+A Dark Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 2668
+D1
+~
+~
+0 0 2683
+D2
+~
+~
+0 0 2667
+D3
+~
+~
+0 0 2665
+S
+#2667
+A Dark Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2666
+S
+#2668
+A Brightly-Lit Room~
+~
+0 0 0
+D2
+~
+~
+0 0 2666
+S
+#2669
+A Dim Room~
+~
+0 0 0
+D2
+~
+~
+0 0 2665
+S
+#2670
+A Small Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2665
+S
+#2671
+A Dirty Room~
+~
+0 0 0
+D2
+~
+~
+0 0 2664
+S
+#2672
+An Empty Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2664
+S
+#2673
+A Shadowy Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 2681
+D1
+~
+~
+0 0 2674
+D2
+~
+~
+0 0 2680
+D3
+~
+~
+0 0 2654
+S
+#2674
+A Shadowy Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 2679
+D1
+~
+~
+0 0 2675
+D2
+~
+~
+0 0 2678
+D3
+~
+~
+0 0 2673
+S
+#2675
+A Shadowy Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 2677
+D1
+~
+~
+0 0 2684
+D2
+~
+~
+0 0 2676
+D3
+~
+~
+0 0 2674
+S
+#2676
+A Small Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2675
+S
+#2677
+A Small Room~
+~
+0 0 0
+D2
+~
+~
+0 0 2675
+S
+#2678
+A Small Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2674
+S
+#2679
+A Small Room~
+~
+0 0 0
+D2
+~
+~
+0 0 2674
+S
+#2680
+A Small Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2673
+S
+#2681
+A Small Room~
+~
+0 0 0
+D2
+~
+~
+0 0 2673
+S
+#2682
+The Bathing Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2657
+S
+#2683
+The Bathing Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2666
+S
+#2684
+The Bathing Room~
+~
+0 0 0
+D3
+~
+~
+0 0 2675
+S
+#2685
+On the Roof of the Stag and the Lion~
+~
+0 0 0
+D1
+~
+~
+0 0 2686
+D5
+~
+~
+1 0 2654
+S
+#2686
+On the Roof of the Stag and the Lion~
+~
+0 0 0
+D1
+~
+~
+0 0 2687
+D3
+~
+~
+0 0 2685
+S
+#2687
+On the Roof of the Stag and the Lion~
+~
+0 0 0
+D3
+~
+~
+0 0 2686
+S
+#2688
+In the Closet~
+~
+0 0 0
+D1
+~
+~
+1 0 2651
+D5
+~
+~
+1 0 2689
+S
+#2689
+In the Basement~
+~
+0 0 0
+D0
+~
+~
+0 0 2692
+D1
+~
+~
+0 0 2690
+D2
+~
+~
+0 0 2694
+D4
+~
+~
+1 0 2688
+S
+#2690
+In the Basement~
+~
+0 0 0
+D0
+~
+~
+0 0 2691
+D2
+~
+~
+0 0 2693
+D3
+~
+~
+0 0 2689
+S
+#2691
+In the Basement~
+~
+0 0 0
+D2
+~
+~
+0 0 2690
+D3
+~
+~
+0 0 2692
+S
+#2692
+In the Basement~
+~
+0 0 0
+D1
+~
+~
+0 0 2691
+D2
+~
+~
+0 0 2689
+S
+#2693
+In the Basement~
+~
+0 0 0
+D0
+~
+~
+0 0 2690
+D3
+~
+~
+0 0 2694
+S
+#2694
+In the Basement~
+~
+0 0 0
+D0
+~
+~
+0 0 2689
+D1
+~
+~
+0 0 2693
+S
+#2695
+Governer's Lane~
+~
+0 0 0
+D1
+~
+~
+0 0 2473
+D3
+~
+~
+0 0 2696
+S
+#2696
+Governer's Lane~
+~
+0 0 0
+D1
+~
+~
+0 0 2695
+D3
+~
+~
+0 0 2697
+S
+#2697
+Governer's Lane~
+~
+0 0 0
+D1
+~
+~
+0 0 2696
+D3
+~
+~
+0 0 2698
+S
+#2698
+Before the Governer's Estate~
+~
+0 0 0
+D1
+~
+~
+0 0 2697
+D3
+~
+~
+0 0 2699
+S
+#2699
+Inside the Governer's House~
+~
+0 0 0
+D0
+~
+~
+0 0 2700
+D1
+~
+~
+0 0 2698
+S
+#2700
+A Marble Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 2699
+S
+#2701
+On a Ladder~
+You stand halfway up the ladder leading to the southeast tower of
+Baerlon.  From here, you can see over half the city but the slight wind
+makes standing here a bit unstable.  You can barely see out over the massive
+log wall of Baerlon, which reveals nothing but barron forest land
+surrounding Baerlon from all sides.  
+~
+0 0 0
+D4
+~
+~
+0 0 2702
+D5
+~
+~
+0 0 2579
+S
+#2702
+In the Tower~
+The air here blows so softly, slowly causing all loose forms of clothing to flap in the breeze.
+~
+0 0 0
+D5
+~
+~
+0 0 2701
+S
+#2703
+House of Gilla~
+~
+0 0 0
+D1
+~
+~
+0 0 2577
+D3
+~
+~
+0 0 2704
+S
+#2704
+In the Main Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2703
+D4
+~
+~
+1 0 2705
+S
+#2705
+On the Rooftop~
+~
+0 0 0
+D5
+~
+~
+1 0 2704
+S
+#2706
+The Entrance to the Weaponsmaker Shop~
+~
+0 0 0
+D1
+~
+~
+0 0 2575
+D3
+~
+~
+0 0 2707
+S
+#2707
+The Weaponsmaker Shop~
+~
+0 0 0
+D1
+~
+~
+0 0 2706
+S
+#2708
+The East Gathering~
+~
+0 0 0
+D1
+~
+~
+0 0 2572
+S
+#2709
+The Baerlon Wood Shop~
+~
+0 0 0
+D1
+~
+~
+0 0 2569
+S
+#2710
+The Entrance to the Blacksmith's Shop~
+~
+0 0 0
+D1
+~
+~
+0 0 2543
+D3
+~
+~
+0 0 2711
+S
+#2711
+The Blacksmith's Shop~
+~
+0 0 0
+D1
+~
+~
+0 0 2710
+S
+#2712
+A Small Knife Shop~
+~
+0 0 0
+D1
+~
+~
+0 0 2541
+S
+#2713
+The Sitting Room~
+~
+0 0 0
+D1
+~
+~
+0 0 2540
+D3
+~
+~
+0 0 2714
+S
+#2714
+The Fountain Yard~
+~
+0 0 0
+D1
+~
+~
+0 0 2713
+D3
+~
+~
+0 0 2715
+S
+#2715
+The Fountain Yard~
+~
+0 0 0
+D1
+~
+~
+0 0 2714
+S
+#2716
+On the Ladder~
+~
+0 0 0
+D4
+~
+~
+0 0 2717
+D5
+~
+~
+0 0 2536
+S
+#2717
+In the Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 2716
+S
+#2798
+EQ Gambling Room~
+~
+0 140518404 0
+S
+#2799
+Baerlon Mob Room~
+~
+0 140518404 0
+S
+#2999
+Upon the North Road~
+Trees line the road here on either side, creating a sort of wall between
+you and the outside world.  The wind creeps through the trees creating a
+small whirlwind that snatches leaves from their homes and brings the to rest
+upon the dirt road which leads to Baerlon.  Small ruts in the road show that
+many have traveled, but none are to be seen.  Small woodland creatures
+scuttle around, mostly up into the large trees that tower many feet above
+you before spreading out into an array of branches.  
+~
+0 140517380 8
+S
+#0
+
+
+
+#SPECIALS
+M 2448 spec_questmaster
+M 2997 spec_breath_any_but_acid
+M 2998 spec_breath_gas
+M 2999 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 2447 0 2
+D 0 2448 2 2
+D 0 2450 1 2
+D 0 2591 0 2
+D 0 2598 2 2
+D 0 2606 3 1
+D 0 2607 1 1
+D 0 2609 3 2
+D 0 2615 0 1
+D 0 2616 2 1
+D 0 2635 1 1
+D 0 2636 2 1
+D 0 2636 3 1
+D 0 2638 0 1
+D 0 2642 3 1
+D 0 2651 1 1
+D 0 2651 3 1
+D 0 2654 4 2
+D 0 2685 5 2
+D 0 2688 1 1
+D 0 2688 5 2
+D 0 2689 4 2
+D 0 2704 4 1
+D 0 2705 5 1
+M 0 2446 4 2447 1 100 Load A Baerlon Gatekeeper
+E 0 2446 0 9 0 100 A gate key is loaded on the hands of A Baerlon Gatekeeper
+O 0 2561 0 2534 0 100 A trash barrel loaded to Along the North Wall
+O 0 2464 0 2544 0 100 A stiff hat loaded to Along the East Wall
+M 0 2450 1 2591 1 100 Load A Storekeeper
+G 0 2447 0 0 0 100 An andoran longsword is given to A Storekeeper
+G 0 2448 0 0 0 100 A misty dagger is given to A Storekeeper
+G 0 2449 0 0 0 100 Mace of eternal twilight is given to A Storekeeper
+G 0 2450 0 0 0 100 A bull-hide whip is given to A Storekeeper
+G 0 2451 0 0 0 100 A pointed, wooden spear is given to A Storekeeper
+G 0 2452 0 0 0 100 A sledge hammer is given to A Storekeeper
+G 0 2453 0 0 0 100 A hunter's glimmering axe is given to A Storekeeper
+G 0 2454 0 0 0 100 A baerlon longbow is given to A Storekeeper
+M 0 2452 1 2592 1 100 Load Sumari
+G 0 2455 0 0 0 100 A red apple is given to Sumari
+G 0 2456 0 0 0 100 A tangerine is given to Sumari
+G 0 2457 0 0 0 100 A busted watermelon is given to Sumari
+M 0 2458 1 2596 1 100 Load The Baerlon Royal Guard
+E 0 2465 0 17 0 100 `7a heron-mark blade is loaded wielded of The Baerlon Royal Guard
+E 0 2466 0 6 0 100 `7the baerlon's guard helm is loaded over the head of The Baerlon Royal Guard
+M 0 2453 1 2599 1 100 Load an old man
+G 0 2458 0 0 0 100 A purple vial is given to an old man
+G 0 2459 0 0 0 100 A bowl of blue pudding is given to an old man
+G 0 2460 0 0 0 100 A cream of serenity is given to an old man
+M 0 2454 1 2606 1 100 Load Butch, the butcher
+G 0 2462 0 0 0 100 A slice of pork is given to Butch, the butcher
+M 0 2455 1 2607 1 100 Load `7The Baker
+G 0 2461 0 0 0 100 A sweet bread slice is given to `7The Baker
+M 0 2456 1 2608 1 100 Load a Barber
+M 0 2457 5 2616 1 100 Load a stable boy
+M 0 2457 5 2618 1 100 Load a stable boy
+M 0 2457 5 2620 1 100 Load a stable boy
+M 0 2457 5 2628 1 100 Load a stable boy
+M 0 2449 1 2799 1 100 Load A Baerlon Guard
+S
+
+
+
+#SHOPS
+2450 0 0 0 0 0 100 50 0 23
+2452 0 0 0 0 0 100 50 0 23
+2453 0 0 0 0 0 100 50 0 23
+2454 0 0 0 0 0 150 50 0 23
+2455 0 0 0 0 0 100 100 0 14
+0
+
+
+
+#MOBPROGS
+#2446
+if race $n andor
+emote knuckles his forehead.
+say Greetings fellow Andoran.  Walk in the Light.
+break
+else
+say Greetings foreigner.  Walk in the Light.
+break
+endif
+~
+#2447
+say All people must be cleared.
+if race $n andor
+say However, I like Andorans.  Welcome to Baerlon.
+emote smiles and guides you through the gates of Baerlon.
+mob transfer $n 2448
+else
+say Just one moment, excuse me.
+emote disappears through a small door, leaving it open.
+mob echo A guard appears through a door, and stands at the gate.
+mob remember $n
+mob go 2799
+mob transfer guard 2447
+mob delay 10
+mob call 2449
+break
+~
+#2448
+emote looks around to see if anyone is looking.
+if players > 1
+say I do not accept bribes!  I will confiscate this money!
+break
+else
+if sex $n == 2
+say Thank you Mistress $n, enjoy Baerlon.
+mob transfer $n 2448
+break
+else
+say Thank you Master $n, I will not forget this.
+mob transfer $n 2448
+break
+endif
+~
+#2449
+mob go 2447
+mob transfer guar 2799
+emote opens the door and excuses the guard.
+if hastarget $i
+say Ahh there you are $q.
+if rand 75
+say You were cleared..thank you.
+mob transfer $q 2448
+break
+else
+if rand 50
+say You were not cleared, now shoo!
+push $q south
+break
+else
+if rand 20
+say Well I couldn't find the governer, but I feel nice today.
+say Welcome to Baerlon.
+mob transfer $q 2448
+else
+if rand 1
+say He said no more for the day, go away.
+push $q south
+endif
+else
+mob forget
+endif
+~
+#2450
+say You may not enter until cleared, $n.
+~
+#2451
+Yell They city of Baerlon is now open!
+unlock gate
+open gate
+mob echo The gate swings open with a loud creak.
+~
+#2452
+if rand 80
+emote digs around in his bags looking for something.
+else
+if rand 74
+say Ahh such beautiful weather!
+else
+if rand 79
+emote begins to mutter to himself, '`%Where are the bloody customers?!?`7'
+else
+if rand 84
+say Come one come all!  I have much to sell.
+else
+if rand 82
+say The Light take me if I'm not cheap!
+else
+if rand 76
+emote mutters, '`%Damn Whitecloaks scaring people away.`7'
+break
+endif
+ 
+~
+#2498
+if clan $n shadow
+mob echoat $n A Soldier of the Light sneaks up behind you and `!<> `1STABS `!<>`7 you. [`!200`7]
+MOB DAMAGE $n 150 250 lethal
+kill $n
+else
+emote bows deeply.
+endif
+break
+~
+#2499
+if clan $n shadow
+mob echoat $n A Darkhound wimpers as you enter the room.
+else
+mob echoat $n A Darkhound sneaks up behind you and `!<> `1BITES `!<>`7. [`!200`7]
+MOB DAMAGE $n 150 250 lethal
+kill $n
+endif
+break
+~
+#2596
+if race $n andor
+emote knuckles his forehead.
+say Greetings fellow Andoran, what is it that I can help you with?
+break
+else
+say G'day, I will have to get someone to come and help you with whatever you need.
+emote looks you up and down then smirks.
+break
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#2609
+echo $n grins as the fence slowly creaks open.
+open fence
+~
+#0
+
+#$

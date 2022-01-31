@@ -1,0 +1,548 @@
+#AREADATA
+Name booga~
+Builders None~
+VNUMs 30000 40000
+Credits (null)~
+Security 1
+Flags C
+Version 4
+End
+
+
+
+#MOBILES
+#30001
+A White Tower Servant~
+A White Tower Servant~
+A white tower servant is here doing her job, keeping the tower clean. 
+~
+~
+unique~
+0 0
+A 256 8256 0 0 -1  0 0
+100 80 8000d1+1000 100d100+100 5d5+55 wrath
+-40 -40 -40 -40
+EIJU AJ FHIKMPSTXYZ 0
+stand stand male  1500
+AHMV ABCDEFGHIJK medium unknown
+#30002
+white tower maid~
+A tower maid~
+A white tower maid is here doing her job, keeping the tower clean. 
+~
+~
+unique~
+0 0
+A 256 8256 0 0 -1  0 0
+95 70 100d70+100 100d1000+100 5d5+60 wrath
+-35 -35 -35 -35
+U AJ FHIKMPSTXYZ 0
+stand stand female 1500
+AHMV ABCDEFGHIJK medium unknown
+#30003
+laundry maid~
+A laundry maid~
+A white tower laundry maid has her arms full of linens. 
+~
+~
+unique~
+0 0
+AG 256 8256 0 0 -1  0 0
+105 90 100d100+100 100d100+100 5d5+80 smash
+-42 -42 -42 -42
+U A AFHIKMPSTXYZ 0
+stand stand female 1600
+AHMV ABCDEFGHIJK medium unknown
+#30004
+tower servant sweeping maid~
+A tower servant~
+A servant of the white tower is sweeping here. 
+~
+~
+unique~
+0 0
+AG 256 8256 0 0 -1  0 0
+110 100 100d100+500 100d100+100 5d5+85 smash
+-45 -45 -45 -45
+U AJ AFHIKMPSTXYZ 0
+stand stand female 1800
+AHMV ABCDEFGHIJK medium unknown
+#30005
+dusting maid servant~
+A maid~
+A servant of the white tower is dustng here. 
+~
+~
+unique~
+0 0
+AG 256 8256 0 0 -1  0 0
+115 105 100d100+750 100d100+100 5d10+80 smash
+-50 -50 -50 -50
+U A AFHIKMPSTXYZ 0
+stand stand female 1700
+AHMV ABCDEFGHIJK medium unknown
+#30006
+serving maid~
+A serving maid~
+A serving maid is running food from the kitchen to the dining rooms. 
+~
+~
+unique~
+0 0
+AG 256 8256 0 0 -1  0 0
+115 100 100d100+300 100d100+100 5d5+90 thwack
+-35 -35 -35 -35
+U AJ AFHIKMPSTXYZ 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+#30007
+ageless yellow ajah sedai aes~
+An Aes Sedai~
+A ageless woman wearing a `#yellow shawl`7 is weaving flows to heal.
+~
+~
+unique~
+0 0
+ABa 0 4096 0 0 -1  1000 0
+200 300 1000d1+1000 10000d0+0 300d0+0 none
+-50 -50 -50 -50
+R ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK tiny unknown
+#30008
+white tower guard~
+A tower guard~
+A white tower guard is here 
+~
+~
+unique~
+0 0
+AGT 256 10306 0 0 -1  0 0
+130 105 100d100+750 100d100+100 5d5+100 slash
+-50 -50 -50 -50
+U A AFHIKMPSTXYZ 0
+stand stand male  2500
+AHMV ABCDEFGHIJK huge unknown
+#30009
+grey man~
+A grey man~
+A grey man is here 
+~
+~
+unique~
+0 0
+AFGT 340 10306 0 0 -1  -1000 0
+130 120 100d100+5000 100d100+100 5d5+125 slash
+-60 -60 -60 -60
+U AJ AFHIKMPSTXYZ 0
+stand stand male  2500
+AHMV ABCDEFGHIJK huge unknown
+#30010
+mistress of the kitchens~
+mistress of the kitchens~
+Mistress of the kitchens 
+~
+~
+unique~
+0 0
+AB 0 0 0 0 -1  1000 0
+150 300 10000d0+0 10000d0+0 300d0+0 none
+-50 -50 -50 -50
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK tiny unknown
+#30011
+guard~
+A guard~
+A guard is on patrol. 
+~
+~
+unique~
+0 0
+AGT 256 10306 0 0 -1  0 0
+130 105 100d100+750 100d100+100 5d5+100 slash
+-60 -60 -60 -60
+U A AFHIKMPSTXYZ 0
+stand stand male  2500
+AHMV ABCDEFGHIJK huge unknown
+#30012
+Dimitri~
+`8D`&i`8m`&i`8t`&r`8i`7~
+`8D`&i`8m`&i`8t`&r`8i`7, the Keepers baby kitty is here lying on her desk wondering what he can do to cause some trouble.
+~
+~
+unique~
+0 0
+ABG 1360 1024 0 0 -1  0 0
+500 100 100d100+1000 10d10+1000 50d50+1000 bite
+-60 -60 -60 -60
+0 0 0 0
+stand stand male  0
+0 Q tiny unknown
+M ACT 2004 chortle~
+#30013
+Mandi~
+Mandi~
+Mandi is here, looking furry.
+~
+~
+unique~
+0 0
+AB 0 0 0 0 -1  0 0
+500 100 100d100+1000 100d100+1000 100d100+1000 bite
+-60 -60 -60 -60
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+#30014
+Brown Kitty~
+a small brown kitten~
+A small brown kitten is here, playing.
+~
+~
+cat~
+0 0
+ABG 0 0 0 0 -1  1000 0
+500 400 100d100+100 0d0+0 400d1+100 none
+-100 -100 -100 -100
+FH AGV ACDEFHJKQUV 0
+stand stand female 0
+AGV ACDEFHJKQUV medium unknown
+#30015
+quest mob~
+Razor Ramon~
+Razor Ramon is here throwing toothpicks and calling people chekos
+~
+Demandred's Quest Bitches DON'T TOUCH!
+~
+unique~
+0 0
+ABFRTce 50512 1089 0 0 -1  0 0
+200 900 32000d1+0 32000d1+0 120d1+95 thwack
+-90 -90 -90 -120
+ACFK ABLOPQ HI C
+stand stand male  30000
+AHMV ABCDEFGHIJK giant unknown
+#30016
+old decrepit man~
+an old, decrepit man~
+A decrepit man sits at the bottom of the well, talking to himself.
+~
+~
+cairhien~
+0 0
+ABGTZe 49232 16 0 5128 -1  -1000 0
+500 600 1d1+50000 0d0+0 1d1+699 slap
+-120 -120 -120 -120
+ACFHN AB CHIJK L
+stand stand male  0
+AHMV ABCDEFGHIJK huge unknown
+#30017
+Janice Sedai~
+Janice~
+Janice Sedai is here, pondering world events.
+~
+~
+kandor~
+0 0
+ABQYZe 336 1024 0 1 -1  1000 0
+300 202 5000d10+10000 3000d5+5000 75d50+1 grep
+-90 -90 -90 -90
+BCFH AGIKOV EJQV H
+stand stand female 0
+AGHMV ABCDEFGHIJKQV large unknown
+M ACT 30478 curtseys~
+#30018
+prison guard~
+Prison guard~
+The Prison Guard is here.
+~
+~
+ghealdan~
+0 0
+ABQYZe 336 1024 0 1 -1  1000 0
+300 202 5000d10+10000 3000d5+5000 50d10+10 grep
+-90 -90 -90 -90
+CDF AGIKOV DEFJQV H
+stand stand male  1
+AGHMV ABCDEFGHIJKQV large unknown
+M ACT 2005 bows~
+#30019
+rachel's apprentice~
+Rachel's apprentice~
+The apprentice to Rachel stands by the door.
+~
+~
+kandor~
+0 0
+ABQYZe 336 1024 0 1 -1  1000 0
+300 202 2000d10+5 3000d5+5000 75d50+1 grep
+-90 -90 -90 -90
+BCFH AGIKOV EJQV H
+stand stand female 0
+AGHMV ABCDEFGHIJKQV large unknown
+M ACT 2008 take~
+#30020
+rachel guard~
+Rachel~
+Rachel is here guarding the door.
+~
+~
+giant~
+0 0
+ABQZe 1360 1024 16512 1 -1  1000 0
+120 202 5000d10+10000 3000d5+5000 200d2+1 grep
+-110 -110 -110 -110
+BCFHO AFGIKOV EHIJQVb HJP
+stand stand female 0
+AGHMV ABCDEFGHIJKQV large unknown
+M ACT 30478 curtseys~
+#0
+
+
+
+#OBJECTS
+#30001
+large turkey dinner~
+large turkey dinner~
+large turkey dinner~
+~
+food NW A
+0
+BCDE BCDE 0 0 0
+0 0 5 P
+ T 0 none~
+#30002
+large pot roast~
+large pot roast~
+large pot roast~
+~
+food NW A
+0
+ADE DE 0 0 0
+0 0 5 P
+ T 0 none~
+#30003
+glass of sparkling water~
+glass of sparkling water~
+glass of sparkling water~
+~
+drink NW A
+0
+30 -1 'water' 0 0
+0 0 0 P
+ T 0 none~
+#30004
+fix~
+fix~
+fix~
+~
+key 0 0
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#30005
+Turkey Lurkey Feathers~
+`!T`3u`#r`1k`!e`3y `#L`1u`!r`3k`#e`1y `!F`3e`#a`1t`!h`3e`#r`1s`7~
+A Turkey Lurkey Feather is here~
+unknown~
+armor d AK
+0
+BCDE BCDE BCDE BCDE 0
+62 10 2000 P
+A
+12 25
+A
+13 25
+A
+18 6
+A
+19 6
+ T 0 none~
+#30006
+mikki's belt~
+mikki's belt~
+Mikki's belt~
+unknown~
+armor d AL
+0
+CE CE CE CE 0
+62 10 5000 P
+A
+19 6
+A
+18 6
+A
+12 25
+A
+13 25
+ T 0 none~
+#30007
+training hall key~
+key to the Training Hall~
+The key to the training hall glows golden in the sunlight.~
+gold~
+key 0 AO
+0
+0 0 0 0 0
+70 0 0 P
+A
+12 100
+ T 0 none~
+#30008
+prison cell key~
+aes sedai prison key~
+A set of keys glows brightly.~
+bone~
+key 0 AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#30100
+none~
+there is nothing here~
+This is a big pile of nothing~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#30490
+bow golden valor~
+the `#G`3olden `8Bow `7of `!V`1alor`7~
+A golden bow lies here forgotten.~
+unknown~
+weapon ABad AN
+E
+bow 75 1 beating ACE
+110 20 0 P
+A
+18 10
+A
+19 10
+A
+20 -8
+ T 0 none~
+#30491
+`7~
+a `&S`8ilver`7 arrow of `8Death`7~
+(no description)~
+unknown~
+trash ABd A
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#30492
+diem quiver~
+a `#F`3i`#ne `%L`5ea`%t`5h`%er `$Q`4u`$ive`4r`*~
+A fine leather quiver lies here abandoned.~
+unknown~
+quiver ABad AS
+E
+0 800 0 0 0
+110 80 0 P
+A
+19 10
+A
+18 10
+A
+20 -10
+A
+17 -5
+ T 0 none~
+#30493
+vicious exploding arrow~
+an exploding arrow~
+An Exloding arrow lies here.~
+unknown~
+arrow 0 AO
+0
+0 75 1 0 J
+110 0 0 P
+ T 0 none~
+#30494
+box exploding arrow~
+a box of exploding arrows~
+A box lies here with straw poking out of its edges.~
+unknown~
+quiver 0 A
+0
+50 50 0 30493 0
+0 0 0 P
+ T 0 none~
+#30500
+chair at table~
+a small table~
+Several chairs gathered around small tables lit with glowing oil lamps.~
+wooden~
+furniture 0 0
+0
+CE DHIJM ADGJMNQ 0 0
+1 0 0 P
+ T 0 none~
+#30501
+book tome dusty~
+a dusty tome~
+An ancient book lies here, dusty and worn from repeated study.~
+unknown~
+container 0 A
+0
+10 ACE 0 10 0
+1 0 0 P
+ T 0 none~
+#30502
+knowledge~
+priceless knowledge~
+Long sought after and in short supply, this knowledge is priceless.~
+gossamer~
+treasure 0 A
+0
+0 0 0 0 0
+1 100 200 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#30478
+if clan $n 'whitetower'
+Here is the training area.
+mob transfer $n 2007
+else
+say You are not welcome in the Training Area, $n.  Go no further, or suffer the consequence.
+break
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

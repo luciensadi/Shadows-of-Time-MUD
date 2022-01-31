@@ -1,0 +1,832 @@
+#HELPS
+
+-1 ATTACK~
+While not the most powerful of groups, attack provides the user with an indirect
+method of harming their opponent. Some of the spells have multiple affects, while
+others can severely damage the players in ways they don't expect.
+
+`$SPELLS`4:`7
+`&demonfire    `7- Evil spell used to inflict a damaging curse upon holy targets.
+`&dispel evil  `7- Torments evil opponents by dissipating their taint.
+`&dispel good  `7- Torments good opponents by dissipating their holiness.
+`&earthquake   `7- Causes the ground to shake, damaging all opponents.
+`&flamestrike  `7- Column of flame dealing fire damage to opponent.
+`&heat metal   `7- Searing heat is run through equipment causing metal to drop.
+`&ray of truth `7- Good spell used to inflict a blinding light upon evil targets.
+
+`$AVAILABLE`4:`7
+Cleric      - `^5`7  CP
+Form Master - `^8`7  CP
+~
+-1 BARRIERS~
+The ability to manipulate your surroundings and prevent others from entering is a
+powerful thing. This group changes the perspective of fighting by blocking attacks,
+dirt, and transfering damage to your mana pool rather than your health.
+
+`$SPELLS`4:`7
+`&air barrier `7- Protective weave of air blocking some physical attacks.
+`&mana shield `7- Transfers damage to mana pool instead of health.
+
+`$AVAILABLE`4:`7
+Mage        - `^7`7  CP
+~
+-1 BENEDICTIONS~
+These weaves bestow divine favor upon you and your allies. It is normally
+restricted to those of the same moral character. Whether it be a good or evil
+nature that resides within.
+
+`$SPELLS`4:`7
+`&bless        `7- Increases resistance to spells while strengthening ability to
+               hit and the strength of the attack.
+`&calm         `7- Stops all fighting within a room.
+`&frenzy       `7- Enrages the recipient so that they may do more damage, hit more 
+                with lack of their own regard.
+`&holy word    `7- Calls a divine wrath upon opponents, while not damaging allies.
+`&remove curse `7- Removes Malevolent weaves from items and players.
+
+`$AVAILABLE`4:`7
+Cleric      - `^5`7  CP
+Warrior     - `^8`7  CP
+~
+-1 BEGUILING~
+Compulsion is a powerful but malovelent method of controlling the minds of your
+opponent. While an insideous invasion of attack, it does provide a great deal of
+power in combat.
+
+`$SPELLS`4:`7
+`&calm         `7- Stops all fighting within a room.
+`&charm person `7- Changes target to friend and groups them with you.
+`&sleep        `7- Causes target to fall alseep and be unable to wake.
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP
+Assassin    - `^6`7  CP
+Illuminator - `^4`7  CP
+Mage        - `^5`7  CP
+Rogue       - `^8`7  CP
+~
+-1 COMBAT~
+This is a collection of weaves that direct damage in different ways. It utlizes
+one of the Five Powers in different strengths and combinations. Definately an 
+essential group to gain if available.
+
+`$SPELLS`4:`7
+`&magic missile   `7- Bursts forth multiple projectiles of spirit.
+`&chill touch     `7- Using water and air it chills your hands for inflicting damage.
+`&burning hands   `7- Using fire it warms your hand to inflict fire damage.
+`&shocking grasp  `7- Utilizes the power of the One Power to do electrical damage.
+`&lightning bolt  `7- Calls forth a ribbon of electricity to strike on your opponent.
+`&colour spray    `7- A blend of all 5 powers, this attack may blind them as well.
+`&fireball        `7- Shoots a large ball of fire toward your opponent.
+`&acid blast      `7- Eradicates your opponent with a corosive weave of the Source.
+`&chain lightning `7- Strikes forth a bolt of lighting which forks to everyone.
+
+`$AVAILABLE`4:`7
+Archer      - `^5`7  CP
+Assassin    - `^10`7 CP
+Illuminator - `^10`7 CP
+Mage        - `^8`7  CP
+Rogue       - `^10`7 CP
+Warrior     - `^10`7 CP
+~
+-1 CREATION~
+Weaves can be formed into permanent items that provide sustance or follow function
+like a ter'angreal. Some temporary objects are created that do not need continous
+energy invested, but eventually will dissipate.
+
+`$SPELLS`4:`7
+`&continual light `7- Weaves into existance a form of light. A basic ability.
+`&create food     `7- Forms a Magical Mushroom which nourishes the body.
+`&create rose     `7- Item of fancy created most likely by lonely Aes Sedai.
+`&create spring   `7- Bursts forth a power-wrought spring from the earth.
+`&create water    `7- Fills container with liquid to quench your thirst.
+`&floating disc   `7- Eliminates the need to carry things, providing a airborn disc.
+
+`$AVAILABLE`4:`7
+Archer      - `^1`7  CP
+Assassin    - `^4`7  CP
+Cleric      - `^2`7  CP
+Form Master - `^6`7  CP
+Mage        - `^2`7  CP
+Rogue       - `^4`7  CP
+Warrior     - `^4`7  CP
+~
+-1 CURATIVE~
+One of the indirect methods of healing developed by the Yellow Ajah. Curative
+weaves heal that which does not deal damage directly to the body, or corrupts
+the body with it's afflictions.
+
+`$SPELLS`4:`7
+`&cure blindness `7- Restores sight if it has been lost due to the One Power.
+`&cure disease   `7- Plague and pestilence and spread rampant if not treated by this.
+`&cure poison    `7- Removes the harmful affects of poison from any source.
+
+`$AVAILABLE`4:`7
+Cleric      - `^5`7  CP
+Rogue       - `^12`7 CP
+Warrior     - `^8`7  CP
+~
+-1 DETECTION~
+This group is all about gathering information. Whether it be identifying a
+myseterious ter'angreal, revealing the moral disposition of an enemy, detecting
+poison on an item, or showing what lies just beyond the normal veil of sight.
+
+`$SPELLS`4:`7 
+`&detect evil    `7- Ability to see the taint corrupted someone soul.
+`&detect good    `7- Ability to see the purity of the Creator in another.
+`&detect hidden  `7- Reveals those who wish to remain concealed in shadows.
+`&detect invis   `7- Exposes inverted weaves of invisibility.
+`&detect magic   `7- Shows residues of the One Power on items.
+`&detect poison  `7- Poison glows under this weave.
+`&identify       `7- Unmaskes the hidden powers of ter'angreal and other items.
+`&know alignment `7- Detects the specific disposition of someone's demeanor
+`&locate object  `7- Search the world for ter'angreal and other items.
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP
+Assassin    - `^7`7  CP
+Cleric      - `^5`7  CP
+Form Master - `^4`7  CP
+Illuminator - `^7`7  CP
+Mage        - `^6`7  CP
+Rogue       - `^7`7  CP
+~
+-1 DRACONIAN~
+Weaves of this group are intensely based on the health of the channeler. The
+greater potential of damage is based of the amount of health. This is because
+it used each of the five powers individually in the purest form. It is capable
+of dealing greater damage than any other weaves, but weakens as the body becomes
+less able to handle the burdle of the Source ravaging through their body.
+
+`$SPELLS`4:` 7
+`&acid breath      `7- Bursts forth with a corrosive stream of acid.
+`&fire breath      `7- Searing weaves of fire envelop your opponent.
+`&frost breath     `7- This weave chills your opponent with a blast of ice.
+`&gas breath       `7- A poisonous cloud of gas affects everyone in the room.
+`&lightning breath `7- Electrical bolt of lightning sizzles your opponents.
+
+`$AVAILABLE`4:`7
+Mage        - `^12`7 CP
+~
+-1 ENCHANTMENT~
+The making of ter'angreal is a rediscovered art. While difficult and giving a 
+chance of ruining the item beyond repair, it provides a method of using the One
+Power to strengthen and improve an item.
+
+`$SPELLS`4:`7
+`&disenchant     `7- Removes enchantments places on an item, particularly iron grip.
+`&enchant weapon `7- Adds fortitude to any peice of armo.
+`&enchant armor  `7- Increases the damage you inflict and the chance of dealing it.
+`&iron grip      `7- Seals the weapon to your hand so it cannot be removed.
+`&fireproof      `7- This Ward protects you and your items from fire.
+`&recharge       `7- Ter'angreal sometimes become exhausted, this replenishes them.
+
+`$AVAILABLE`4:`7
+Mage        - `^9`7  CP
+~
+-1 ENHANCEMENT~
+The One Power can manipulate the body, as you can see on the ageless faces of the
+Aes Sedai, but this group deals with weaves that affect the body directly. Not a
+biproduct.
+
+`$SPELLS`4:`7
+`&giant strength `7- Soldifies your muscles allows you greater strength.
+`&haste          `7- Speeds your metabolizing granting increased rate of actions.
+`&infravision    `7- Ability to see people without a source of light.
+`&refresh        `7- Reserves the affects of fatigue on travelling.
+
+`$AVAILABLE`4:`7
+Archer      - `^4`7  CP
+Assassin    - `^9`7  CP
+Cleric      - `^9`7  CP
+Form Master - `^10`7 CP
+Mage        - `^6`7  CP
+Rogue       - `^9`7  CP
+Warrior     - `^9`7  CP
+~
+-1 HARMFUL~
+Some are more adept at healing than destructive spells, but the need to be able
+to defend yourself is universal. Developed by the Yellow Ajah, they have learned
+to reverse the healing effects and instead damage an opponent.
+
+`$SPELLS`4:`7
+`&cause light    `7- Inflicts a small amount of pain on opponent.
+`&cause serious  `7- Greatly damages opponents with a wave of pain.
+`&cause critical `7- A increasing sense of pain causing fits of anguish.
+`&harm           `7- Severe sense of pain, the most damaging possible.
+`&simulacrum     `7- Drains opponent of their health, restoring it to you.
+
+`$AVAILABLE`4:`7
+Cleric      - `^3`7  CP
+Form Master - `^8`7  CP
+Illuminator - `^7`7  CP
+~
+-1 HEALING~
+It's a harsh world out there, and a few have learned to master the ability to 
+reverse the direction. These weaves restore a portion of heal to the receipiant.
+
+`$SPELLS`4:`7
+`&cure light   `7- Restores a small amount of health to target.
+`&cure serious `7- Greatly heals target with a wave of health.
+`&heal         `7- Revitilizes target with the most possible health.
+`&mass healing `7- Heals everyone in the room at once.
+`&refresh      `7- Reserves the affects of fatigue on travelling.
+
+`$AVAILABLE`4:`7
+Cleric      - `^5`7  CP
+~
+-1 ILLUSION~
+Subterfuge is a useful tool when direct actions aren't desired. These weaves are
+used to overlay yourself or your opponent with false illusions. This deception can
+be very effective if used properly.
+
+`$SPELLS`4:`7
+`&fear           `7- Petrifies opponent with visions of horror preventing moving.
+`&frigthen       `7- Scares opponent so that they cannot flee from combat.
+`&invis          `7- Inverts your weaves so that you can make yourself invisible.
+`&mass invis     `7- Channels invisibility on everyone in the room.
+`&ventrioloquate `7- Manipulates anothers voice to make them speak.
+
+`$AVAILABLE`4:`7
+Assassin    - `^7`7  CP
+Illuminator - `^6`7  CP
+Mage        - `^5`7  CP
+Rogue       - `^7`7  CP
+~
+-1 MALADICTIONS~
+Death is sometimes not the best way to torment your opponent. These weaves range
+from inconvenient to crippling affects. Semirhage, Mistress of Pain, takes special
+consideration when using this. 
+
+`$SPELLS`4:`7
+`&blindness    `7- Renders the opponent blind with a malovelent weave.
+`&curse        `7- Prevents Travelling via word of recall.
+`&energy drain `7- Syphons experience, channeling ability, and movement.
+`&plague       `7- Disease that spreads to anyone who comes in contact.
+`&poison       `7- Poisons opponent, reducing strength and vitality.
+`&slow         `7- Reduces metabolism, making them easier to hit.
+`&weaken       `7- Saps the strength from opponent.
+
+`$AVAILABLE`4:`7
+Assassin    - `^10`7 CP
+Cleric      - `^6`7  CP
+Mage        - `^8`7  CP
+Rogue       - `^10`7 CP
+~
+-1 'OFFENSIVE SHIELDS' OFFENSIVE_SHIELDS~
+Offensive shields surround the user with a protective barrier using different
+powers of the True Source. Each shield gives the ability to reflect damage back
+to the opponent through Fire, Ice, or Shocking damage.
+
+`$SPELLS`4:`7
+`&fire shield  `7- Protective shield of fire, searing anyone who touches it.
+`&ice shield   `7- Shield of ice, freezing opponents who attempt to reach you.
+`&shock shield `7- Opponents are affected by electrical damage who penetrate this.
+
+`$AVAILABLE`4:`7
+Cleric      - `^12`7 CP
+~
+-1 PROTECTIVE~
+This group helps affect how you are affected by others damaging actions. Such as
+making you more difficult to hit, taking less damage, and ability to remove most
+undesired weaves from you, as well as sabotaging others.
+
+`$SPELLS`4:`7
+`&armor           `7- Small barrier providing moderate physical protection.
+`&cancellation    `7- Provides no protection versus removing tied weaves.
+`&dispel magic    `7- Resistable, but has chance to remove tied weaves.
+`&fireproof       `7- This Ward protects you and your items from fire.
+`&protection evil `7- Reduces damage taken from tainted opponents.
+`&protection good `7- Reduces damage taken from holy opponents.
+`&sanctuary       `7- Halves all damage taken by anyone.
+`&shield          `7- Another moderate physical barrier, but with long duration.
+`&stone skin      `7- Strengthens skin to the hardness of stone.
+
+`$AVAILABLE`4:`7
+Archer      - `^5`7  CP
+Assassin    - `^7`7  CP
+Cleric      - `^5`7  CP
+Form Master - `^4`7  CP
+Illuminator - `^6`7  CP
+Mage        - `^5`7  CP
+Rogue       - `^7`7  CP
+Warrior     - `^10`7 CP
+~
+-1 TRANSPORTATION~
+The long lost ability of Travelling has been rediscovered. This allows you alter
+the way you move about in space as well as how you are affected by outside affects.
+
+`$SPELLS`4:`7
+`&fly            `7- A supportive weave that lifts you above the ground.
+`&nexus          `7- Connects two points in a passable gateway.
+`&pass door      `7- Weave of spirit allowing you to pass through doors.
+`&portal         `7- Opens a one-way gateway to another place.
+`&summon         `7- Powerful grabs target from anywhere in the world.
+`&teleport       `7- Randomly places you somewhere in the world.
+`&word of recall `7- Returns you to the most familiar spot known.
+
+`$AVAILABLE`4:`7
+Archer      - `^5`7  CP
+Assassin    - `^8`7  CP
+Cleric      - `^6`7  CP
+Form Master - `^10`7 CP
+Illuminator - `^6`7  CP
+Mage        - `^5`7  CP
+Rogue       - `^8`7  CP
+Warrior     - `^10`7 CP
+~
+-1 WEATHER~
+On a small scale this is very difficult, but true control over the elements is
+for those who are strongest in the One Power. This gives you the ability to call
+upon the awesome power of the weather, and form it in any way you desire.
+
+`$SPELLS`4:`7
+`&call lightning  `7- Summons a huge bolt from the sky to strike opponents.
+`&control weather `7- Changes weather to whatever channeler desires.
+`&faerie fire     `7- Surrounds target in glowing area, making easier to hit.
+`&faerie fog      `7- Reveals all hidden people in the room with you.
+`&lightning bolt  `7- Sends a bolt of electricity to opponent.
+
+`$AVAILABLE`4:`7
+Archer      - `^2`7  CP
+Assassin    - `^8`7  CP
+Cleric      - `^4`7  CP
+Illuminator - `^6`7  CP
+Mage        - `^5`7  CP
+Rogue       - `^8`7  CP
+Warrior     - `^8`7  CP
+~
+-1 DEMONFIRE~
+Coming Soon! Please check "`^help attack`7" for a short description.
+~
+-1 'DISPEL EVIL' DISPEL_EVIL DISPELEVIL~
+Coming Soon! Please check "`^help attack`7" for a short description.
+~
+-1 'DISPEL GOOD' DISPEL_GOOD DISPELGOOD~
+Coming Soon! Please check "`^help attack`7" for a short description.
+~
+-1 EARTHQUAKE~
+Coming Soon! Please check "`^help attack`7" for a short description.
+~
+-1 FLAMESTRIKE~
+Coming Soon! Please check "`^help attack`7" for a short description.
+~
+-1 'HEAT METAL' HEAT_METAL HEATMETAL~
+Coming Soon! Please check "`^help attack`7" for a short description.
+~
+-1 'RAY OF TRUTH' RAY_OF_TRUTH RAYOFTRUTH~
+Coming Soon! Please check "`^help attack`7" for a short description.
+~
+-1 'AIR BARRIER' AIR_BARRIER AIRBARRIER~
+Coming Soon! Please check "`^help barriers`7" for a short description.
+~
+-1 'MANA SHIELD' MANA_SHIELD MANASHIELD~
+Coming Soon! Please check "`^help barriers`7" for a short description.
+~
+-1 BLESS~
+Coming Soon! Please check "`^help benedictions`7" for a short description.
+~
+-1 CALM~
+Coming Soon! Please check "`^help benedictions`7" or "`^help beguiling`7"
+for a short description.
+~
+-1 FRENZY~   
+Coming Soon! Please check "`^help benedictions`7" for a short description.
+~
+-1 'HOLY WORD' HOLY_WORD HOLYWORD~
+Coming Soon! Please check "`^help benedictions`7" for a short description.
+~
+-1 'REMOVE CURSE' REMOVE_CURSE REMOVECURSE~
+Coming Soon! Please check "`^help benedictions`7" for a short description.
+~
+-1 'CHARM PERSON' CHARM_PERSON CHARMPERSON~
+Coming Soon! Please check "`^help beguiling`7" for a short description.
+~
+-1 SLEEP~
+`&WEAVES`*: `$Air`*, `^Water`*, `%Spirit`*
+
+`$SYNTAX`4: `&weave/channel sleep <target>`*
+
+Some of the remnants of the Age of Legends contain references to the healers of
+the time using the One Power to  put their patients to sleep in order to accelerate
+their healing.  Although the restorative weave was lost, this maladictive variation
+has been rediscovered.  It is a complex weave, however, difficult to cast on a 
+target without initiating an angry attack.
+~
+-1 'MAGIC MISSILE' MAGIC_MISSILE MAGICMISSILE~
+`&WEAVES`*: `$Air`*, `%Spirit`*
+
+`$SYNTAX`4: `&weave/channel 'magic missile' <target>`*
+
+This simple, but effective, weave sends small missiles of air at your target, 
+damaging both the mind and body.  Although it begins as a relatively weak
+weave, channelers of greater power are able to increase its effectiveness, and
+even the number of missiles created, as they progress in experience.
+
+~
+-1 'BURNING HANDS' BURNING_HANDS BURNINGHANDS~
+`&WEAVES`*: `!Fire`*, `2Earth`*
+
+`$SYNTAX`4: `&weave/channel 'burning hands' <target>`*
+
+A weave rediscovered from time lost, burning hands sends waves of heat flowing from
+the hands of the channeler to their target, searing the flesh.
+~
+-1 'SHOCKING GRASP' SHOCKING_GRASP SHOCKINGGRASP~
+`&WEAVES`*: `!Fire`*, `2Earth`*, `$Air`*
+
+`$SYNTAX`4: `&weave/channel 'shocking grasp' <target>`*
+
+Shocking grasp is the ability of the channeler to weave the flows into bursts of
+electric energy.  Upon touching their target with this energy, a jolt is released
+causing pain and minor burns.
+~
+-1 'LIGHTNING BOLT' LIGHTNING_BOLT LIGHTNINGBOLT~
+Coming Soon! Please check "`^help combat`7" or "`^help weather`7"
+for a short description.
+~
+-1 'COLOUR SPRAY' COLOUR_SPRAY COLOURSPRAY~
+Coming Soon! Please check "`^help combat`7" for a short description.
+~
+-1 FIREBALL~ 
+Coming Soon! Please check "`^help combat`7" for a short description.
+~
+-1 'ACID BLAST' ACID_BLAST ACIDBLAST~
+Coming Soon! Please check "`^help combat`7" for a short description.
+~
+-1 'CHAIN LIGHTNING' CHAIN_LIGHTNING CHAINLIGHTNING~
+Coming Soon! Please check "`^help combat`7" for a short description.
+~
+-1 'CHILL TOUCH'~
+`&WEAVES`*: `$Air`*, `^Water`*
+
+`$SYNTAX`4: `&weave/channel 'chill touch' <target>`*
+
+In this weave, air and water are used in combination to deliver an icy chill to 
+the target.  Such low temperatures are known to inhibit the strength and speed
+of those affected.
+~
+-1 'CONTINUAL LIGHT' CONTINUAL_LIGHT CONTINUALLIGHT~
+Coming Soon! Please check "`^help creation`7" for a short description. 
+~
+-1 'CREATE FOOD' CREATE_FOOD CREATEFOOD~
+Coming Soon! Please check "`^help creation`7" for a short description.
+~
+-1 'CREATE ROSE' CREATE_ROSE CREATEROSE~
+Coming Soon! Please check "`^help creation`7" for a short description.
+~
+-1 'CREATE SPRING' CREATE_SPRING CREATESPRING~
+Coming Soon! Please check "`^help creation`7" for a short description.
+~
+-1 'FLOATING DISC' FLOATING_DISC FLOATINGDISC~
+Coming Soon! Please check "`^help creation`7" for a short description.
+~
+-1 'CURE BLINDNESS' CURE_BLINDNESS CUREBLINDNESS~
+Coming Soon! Please check "`^help curative`7" for a short description.
+~
+-1 'CURE DISEASE' CURE_DISEASE CUREDISEASE~
+Coming Soon! Please check "`^help curative`7" for a short description.
+~
+-1 'CURE POISON' CURE_POISON CUREPOISON~
+Coming Soon! Please check "`^help curative`7" for a short description.
+~
+-1 'DETECT EVIL' DETECT_EVIL DETECTEVIL~
+Coming Soon! Please check "`^help detection`7" for a short description.
+~
+-1 'DETECT GOOD' DETECT_GOOD DETECTGOOD~
+Coming Soon! Please check "`^help detection`7" for a short description.
+~
+-1 'DETECT HIDDEN' DETECT_HIDDEN DETECTHIDDEN~
+Coming Soon! Please check "`^help detection`7" for a short description.
+~
+-1 'DETECT INVIS' DETECT_INVIS DETECTINVIS~
+`&WEAVES`*: `!Fire`*, `2Earth`*, `$Air`*, `^Water`*, `%Spirit`*
+
+`$SYNTAX`4:`& weave/channel 'detect invis'`*
+
+With the use of invisibility so rampant, alternative weaves have been developed to
+help locate those who make use of the weaves.  Detect invis allows the channeler
+to see through the bent light patterns of invisibility.
+~
+-1 'DETECT MAGIC' DETECT_MAGIC DETECTMAGIC~
+`&WEAVES`*: `!Fire`*, `2Earth`*, `$Air`*, `^Water`*, `%Spirit`*
+
+`$SYNTAX`4: `&weave/channel 'detect magic'`*
+
+This simple talent allows the channeler to see the residue of the One Power used
+on items and people.  It is useful for seeing weaves which have been tied off, or 
+to locate items and angreal of any sort.
+
+~
+
+-1 'DETECT POISON' DETECT_POISON DETECTPOISON~
+Coming Soon! Please check "`^help detection`7" for a short description.
+~
+-1 IDENTIFY~
+Coming Soon! Please check "`^help detection`7" for a short description.
+~
+-1 INVIS INVISIBLE INVISIBILITY~
+`&WEAVES`*: `!Fire`*, `$Air`*, `^Water`*
+
+`$SYNTAX`4: `&weave/channel invisibility`*
+
+Although many may deny the existence or use of it, a disturbingly large number of
+channelers are capable of creating a weave which reflects light around themselves, 
+hiding them from the untrained eye.  However the technique is imprecise, allowing
+the movements of the invisible person to sometimes be seen hazily as they move from
+room to room.
+~
+-1 'KNOW ALIGNMENT' KNOW_ALIGNMENT KNOWALIGNMENT~
+Coming Soon! Please check "`^help detection`7" for a short description.
+~
+-1 'LOCATE OBJECT' LOCATE_OBJECT LOCATEOBJECT~
+`&WEAVES`*: `!Fire`*, `2Earth`*, `$Air`*, `%Spirit`*
+
+`$SYNTAX`4:`& weave/channel 'locate object' <object>`*
+
+This legendary power allows a channeler to locate objects with which they are 
+familiar, as well as revealing to them who holds the object currently.  The weave
+does not allow omniscience, however, and if an item is too powerful, it will 
+continue to elude the inexperienced channeler.
+~
+-1 'ACID BREATH' ACID_BREATH ACIDBREATH~
+Coming Soon! Please check "`^help draconian`7" for a short description.
+~
+-1 'FIRE BREATH' FIRE_BREATH FIREBREATH~
+Coming Soon! Please check "`^help draconian`7" for a short description.
+~
+-1 'FROST BREATH' FROST_BREATH FROSTBREATH~
+Coming Soon! Please check "`^help draconian`7" for a short description.
+~
+-1 'GAS BREATH' GAS_BREATH GASBREATH~
+Coming Soon! Please check "`^help draconian`7" for a short description.
+~
+-1 'LIGHTNING BREATH' LIGHTNING_BREATH LIGHTNINGBREATH~
+Coming Soon! Please check "`^help draconian`7" for a short description.
+~
+-1 DISENCHANT~
+Coming Soon! Please check "`^help enchantment`7" for a short description.
+~
+-1 'ENCHANT WEAPON' ENCHANT_WEAPON ENCHANTWEAPON~
+Coming Soon! Please check "`^help enchantment`7" for a short description.
+~
+-1 'ENCHANT ARMOR' ENCHANT_ARMOR ENCHANTARMOR~
+Coming Soon! Please check "`^help enchantment`7" for a short description.
+~
+-1 'IRON GRIP' IRON_GRIP IRONGRIP~
+Coming Soon! Please check "`^help enchantment`7" for a short description.
+~
+-1 FIREPROOF~
+Coming Soon! Please check "`^help enchantment`7" for a short description.
+~
+-1 RECHARGE~
+Coming Soon! Please check "`^help enchantment`7" for a short description.
+~
+-1 'GIANT STRENGTH' GIANT_STRENGTH GIANTSTRENGTH~
+`&WEAVES`*: `!Fire`*, `2Earth`*
+
+`$SYNTAX`4: `&weave/channel 'giant strength' <target>`*
+
+Most likely discovered by a novice of the Tower as a shortcut through her chores, 
+Giant Strength fills the channeler with an unnatural strength provided by the flows 
+of power.  Once the weave is tied off, a person can carry more and deal a little
+more damage in combat.
+~
+-1 HASTE~
+Coming Soon! Please check "`^help enhancement`7" for a short description.
+~
+-1 INFRAVISION~
+`&WEAVES`*: `!Fire`*, `$Air`*, `^Water`*
+
+`$SYNTAX`4: `&weave/channel infravision`*
+
+This simple weave effects the eyes of the channeler, allowing them to see the heat
+patterns of living being around them.  Even in the pitch darkness, people and 
+animals around you will be seen clearly.
+
+~
+-1 REFRESH~
+`&WEAVES`*: `2Earth`*, `$Air`*, `^Water`*
+
+`$SYNTAX`4:`& weave/channel refresh <target>`*
+
+A well known talent of healers is the ability to instill the body with a renewed
+sense of vigor.  This weave removes weariness from the target, although it is no
+substitute for a good long sleep.
+~
+-1 'CAUSE LIGHT' CAUSE_LIGHT CAUSELIGHT~
+Coming Soon! Please check "`^help harmful`7" for a short description.  
+~
+-1 'CAUSE SERIOUS' CAUSE_SERIOUS CAUSESERIOUS~
+Coming Soon! Please check "`^help harmful`7" for a short description.
+~
+-1 'CAUSE CRITICAL' CAUSE_CRITICAL CAUSECRITICAL~
+Coming Soon! Please check "`^help harmful`7" for a short description.
+~
+-1 HARM~
+Coming Soon! Please check "`^help harmful`7" for a short description.
+~
+-1 SIMULACRUM~
+Coming Soon! Please check "`^help harmful`7" for a short description.
+~
+-1 'CURE LIGHT' CURE_LIGHT CURELIGHT~
+Coming Soon! Please check "`^help healing`7" for a short description.
+~
+-1 'CURE SERIOUS' CURE_SERIOUS CURESERIOUS~
+Coming Soon! Please check "`^help healing`7" for a short description.
+~
+-1 HEAL~
+Coming Soon! Please check "`^help healing`7" for a short description.
+~
+-1 'MASS HEALING' MASS_HEALING MASSHEALING~
+Coming Soon! Please check "`^help healing`7" for a short description.
+~
+-1 FEAR~
+`&WEAVES: `!Fire, `$Air, `%Spirit`*
+
+`$SYNTAX: `&weave/channel fear <target>
+`*
+By twisting weaves into illusions spawned by the victim's own imagination, the 
+caster instills a mortal fear into their foe, forcing them to fight simply to 
+keep control over their emotions.  Once the illusions have taken hold of their
+prey, any and all sense of hope fades away.  Escaping from any real danger becomes
+impossible, because the victim is too focused on the horrors of their imagination
+to even consider anything else.  Even when not in true danger, the illusions
+serve to paralyze the target in pure terror, holding them fast where they stand.   
+~
+-1 FRIGHTEN~
+`&WEAVES: `!Fire, `$Air, `%Spirit`*
+
+`$SYNTAX: `&weave/channel 'frighten' <target>`*
+
+By summoning the illusion of great horror, this weave attempts to shock the target
+into momentary submission, paralyzing them momentarily with such a fright that
+they cannot manage even an attempt a proper retreat from any danger they find them-
+selves in.  Should they manage to find themselves free of threat, however, they
+may return to their wits enough to take to their heels and move as they need.  Any 
+encounter with the caster of the illusionary terror, while still affected by their 
+weave, will serve to renew the paralyzing fear, and halt them again in their tracks.
+~
+-1 'MASS INVIS' MASS_INVIS MASSINVIS~
+Coming Soon! Please check "`^help illusion`7" for a short description.
+~
+-1 VENTRIOLOQUATE VENTRILOQUATE~
+`&WEAVES`*: `$Air`* (Though no weaves are shown upon weaving)
+
+`$SYNTAX`4: `&weave/channel ventriloquate <target> <text>`*
+
+This weave is used to manipulate the air in order to throw, or even alter, one's 
+voice to sound like the target.  It allows the channeler to make it seem as if
+the target said something which they did not.  Beware, however.  If it is not 
+woven effectively, the sound will be noticeably false to those around.  Typically, 
+this weave is inverted so that no others notice the possible channeling so nearby.
+~
+-1 BLINDNESS BLIND~
+`&WEAVES`*: `!Fire`*, `^Water`*, `%Spirit`*
+
+`$SYNTAX`4: `&weave/channel blindness <target>`*
+
+This intricate weave can be used to completely blind an opponent.  The flows must
+be woven precisely, however, and is often difficult to master on the first attempt, 
+even for a master channeler.
+~
+-1 CURSE~
+Coming Soon! Please check "`^help maladictions`7" for a short description.
+~
+-1 'ENERGY DRAIN' ENERGY_DRAIN ENERGYDRAIN~
+Coming Soon! Please check "`^help maladictions`7" for a short description.
+~
+-1 PLAGUE~
+Coming Soon! Please check "`^help maladictions`7" for a short description.
+~
+-1 POISON~
+Coming Soon! Please check "`^help maladictions`7" for a short description.
+~
+-1 SLOW~
+Coming Soon! Please check "`^help maladictions`7" for a short description.
+~
+-1 WEAKEN~
+`&WEAVES`*: `!Fire`*, `2Earth`*, `$Air`*
+
+`$SYNTAX`4: `&weave/channel weaken <target>`*
+
+These maladictive weaves sap the strength from the target.  The flows can be used
+in combat to make an opponent's armor and weapons heavier to him, and his blows
+land with less force.
+~
+-1 'FIRE SHIELD' FIRE_SHIELD FIRESHIELD~
+Coming Soon! Please check "`^help offensive`7" for a short description.
+~
+-1 'ICE SHIELD' ICE_SHIELD ICE_SHIELD~
+Coming Soon! Please check "`^help offensive`7" for a short description.
+~
+-1 'SHOCK SHIELD' SHOCK_SHIELD SHOCKSHIELD~
+Coming Soon! Please check "`^help offensive`7" for a short description.
+~
+-1 ARMOR~
+`&WEAVES`*: `!Fire`*, `2Earth`*
+
+`$SYNTAX`4:`& weave/channel armor <target>`*
+
+Armor makes use of fire and earth to tie off a ward around the affected person.  This
+increases the effectiveness of their armor, while not directly halting incoming
+attacks.
+~
+-1 CANCELLATION~
+`&WEAVES: `!Fire, `@Earth, `$Air, `^Water, `%Spirit`*
+
+`$SYNTAX: `&weave/channel 'cancellation' <target>
+
+`*Spinning weaves within the body, then expanding them outward like a butterfly
+shedding its cocoon, one can cleanse themselves of woven threads of the Powers, 
+which might linger after previous channeling.  This form of purification works
+only for changes to the body brought on by use of channeling, not against the 
+target's innate protection.  It should be noted, however, that if the target is 
+not the caster, the weaves will only be effective outside the heat of battle.
+~
+-1 'DISPEL MAGIC' DISPEL_MAGIC DISPELMAGIC~
+`&WEAVES: `!Fire, `@Earth, `$Air, , `^Water, `%Spirit
+
+`$SYNTAX: `&weave/channel 'dispel magic' <target>`*
+
+There will be times in the field when victory over your opponent is determined
+by the power, or lack thereof, of their protective weaves.  In the heat of battle,
+you can attempt to disperse the strands of power affecting your opponent, lessening
+their protection and leaving them open to more damaging spells of attack.  This
+being the case, this particular spell acts against their inner protections,
+resulting in a natural attempt to limit your interference with their protective
+enchantments.
+~
+-1 FIREPROOF~
+Coming Soon! Please check "`^help protective`7" for a short description.
+~
+-1 'PROTECTION EVIL' PROTECTION_EVIL PROTECTIONEVIL~
+Coming Soon! Please check "`^help protective`7" for a short description.
+~
+-1 'PROTECTION GOOD' PROTECTION_GOOD PROTECTIONGOOD~
+Coming Soon! Please check "`^help protective`7" for a short description.
+~
+-1 SANCTUARY~
+Coming Soon! Please check "`^help protective`7" for a short description.
+~
+-1 SHIELD~
+Coming Soon! Please check "`^help protective`7" for a short description.
+~
+-1 'STONE SKIN' STONE_SKIN STONESKIN~
+Coming Soon! Please check "`^help protective`7" for a short description.
+~
+-1 FLY~
+`&WEAVES`*: `$Air`*
+
+`$SYNTAX`4: `&weave/channel fly <target>`*
+
+This simple but effective weave allows the channeler to raise the target into the 
+air.  The affected is then free to fly as they wish, able to overcome such obstacles
+as bodies of water.  This weave also gives an advantage over an attacking enemy's
+attempts to trip up the drifting target in a scuffle.  Beware, however.  Should
+the flying target get caught in the air when the weaves release after time, the
+results could be dangerous.
+~
+-1 NEXUS~
+Coming Soon! Please check "`^help trasportation`7" for a short description.
+~
+-1 'PASS DOOR' PASS_DOOR PASSDOOR~
+Coming Soon! Please check "`^help trasportation`7" for a short description.
+~
+-1 PORTAL~
+`&WEAVES`*: `!Fire`*, `2Earth`*, `$Air`*, `^Water`*, `%Spirit`*
+
+`$SYNTAX`4: `&weave/channel portal <target>`*
+
+The talent of Traveling, lost for so many years, has become much more commonplace
+in recent months.  This complex weave allows the channeler to open a gateway to 
+their target.  Gates opened with this particular weave are one way only, however.
+The channeler must be familiar with the person or living thing they intend to open
+the gateway to, else they will assuredly fail.  These Gates vanish after a short
+time if not tended to.
+ ~
+-1 SUMMON~
+Coming Soon! Please check "`^help trasportation`7" for a short description.
+~
+-1 TELEPORT~
+Coming Soon! Please check "`^help trasportation`7" for a short description.
+~
+-1 'WORD OF RECALL' WORD_OF_RECALL WORDOFRECALL~
+Coming Soon! Please check "`^help trasportation`7" for a short description.
+~
+-1 'CALL LIGHTNING' CALL_LIGHTNING CALLLIGHTNING~
+Coming Soon! Please check "`^help weather`7" for a short description.
+~
+-1 'CONTROL WEATHER' CONTROL_WEATHER CONTROLWEATHER~
+Coming Soon! Please check "`^help weather`7" for a short description.
+~
+-1 'FAERIE FIRE' FAERIE_FIRE FAERIEFIRE~
+Coming Soon! Please check "`^help weather`7" for a short description.
+~
+-1 'FAERIE FOG' FAERIE_FOG FAERIEFOG~
+Coming Soon! Please check "`^help weather`7" for a short description.
+~
+
+-1 $~
+ 
+#$

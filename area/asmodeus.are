@@ -1,0 +1,463 @@
+#AREADATA
+Name Asmos Vnums~
+Builders Asmodeus~
+VNUMs 700 799
+Credits `4[`7 None `4] `7Asmodeus  Crazy Set of Vnums`7~
+Security 10
+Flags 0
+Version 4
+End
+
+
+
+#MOBILES
+#700
+Old Man vanity~
+An Old Man~
+An old man sits in the corner.
+~
+An old man with sits at the table in a corner of the room.  As you approach
+him he looks up at you and you notice his skin is covered in burn scars.
+~
+unique~
+0 0
+AB 49408 64 0 0 -1  1000 0
+120 100 1d1+18000 0d0+0 10d10+40 cleanse
+-100 -100 -100 -10
+HK 0 0 0
+stand stand male  2000
+V 0 medium unknown
+#701
+horse~
+A Horse~
+A Horse stands here.
+~
+Looks like a horse.
+~
+unique~
+0 0
+ABDe 1104 1024 0 0 -1  -600 0
+30 15 10d10+1000 0d0+0 5d5+30 slash
+-30 -30 -30 -30
+C 0 0 0
+stand stand none 0
+0 0 medium unknown
+M RANDOM 16417 50~
+M RANDOM 16416 50~
+#702
+Alice~
+Alice~
+Alice stands here.
+~
+Alice stands here.
+~
+unique~
+0 0
+ABFe 16640 64 0 0 -1  2000 0
+500 0 1d1+1 0d0+0 10d10+70 cleanse
+-40 -40 -40 -40
+0 0 0 0
+stand stand none 1000
+0 0 medium unknown
+#703
+raaand~
+Rand~
+A Dragkhar swoops down to give you the kiss of death.
+~
+A large scaled bird, with a human's head and red glowing eyes swoops down 
+from the heavens and comes toward you.  You are totally entranced by it's
+gaze as it comes close and closer to you.  Just before it's too late you rip
+your eyes away and regather your senses.
+ 
+~
+unique~
+0 0
+A 0 0 0 0 -1  -700 0
+70 0 1000d1000+10000 0d0+0 1d1+1 chomp
+0 0 0 0
+E 0 0 0
+stand stand none 0
+0 0 medium unknown
+#705
+Lumber Jack~
+Lumber Jack~
+A forlorn Lumber Jack stands here, sadly trying to pawn off his load of coal.
+~
+As you near the man you hear him whistling a jaunty tune.  He
+looks rough and is covered with muscle from many years climbing
+trees, but when he sees you he gives you a big smile and winks
+his eye.
+~
+unique~
+0 0
+AB 80 0 0 0 -1  0 0
+0 0 20d20+500 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 1000
+0 0 medium unknown
+M DELAY 701 100~
+M GRALL 702 50~
+#708
+no name~
+(no short description)~
+(no long description)
+~
+~
+bat~
+0 0
+A 1024 0 0 2048 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 J HS
+stand stand none 0
+AGHMV ABCDEFGHIJKP medium unknown
+#710
+no name~
+(no short description)~
+(no long description)
+~
+~
+bat~
+0 0
+A 0 0 0 0 -1  0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 S
+stand stand none 0
+AGV ACDEFHJKP medium unknown
+#0
+
+
+
+#OBJECTS
+#700
+cloak shadow~
+`8A C`*l`8o`*a`8k `*of `8Sh`*a`8d`*ow`8s`*~
+A cloak black as the darkest night has been left here.~
+unknown~
+armor CE AK
+0
+CE CE CE ABC 0
+26 5 20000 P
+S 'detect hidden'   0  26   6  25   0          6
+S 'detect invis'   0  26   5  25   0          4
+A
+14 14
+A
+13 20
+A
+19 4
+A
+18 4
+ T 0 none~
+#701
+Trivia Point~
+`?T`?r`?i`?v`?i`?a `?P`?o`?i`?n`?t`*~
+A Trivia point for a job well done.~
+unknown~
+furniture 0 A
+E
+0 0 D 0 0
+1 1 1 P
+O SPEECH 701 yes~
+ T 0 none~
+#702
+bomb~
+a Bomb~
+A Bomb lies here.~
+unknown~
+bomb 0 A
+0
+B 'bomb_sleeper' A 20 0
+50 0 0 P
+ T 0 none~
+#703
+sulfur~
+a bag of sulfur.~
+A small bag of yellow powder lies here.~
+unknown~
+ingredient 0 A
+0
+A 0 0 0 0
+10 20 400 P
+ T 0 none~
+#704
+charcol~
+a bag of charcol~
+A bag of black dust lies here.~
+unknown~
+ingredient 0 A
+0
+B 0 0 0 0
+15 20 1200 P
+ T 0 none~
+#705
+salt peter~
+a bag of Salt Peter~
+A bag of white powder lies here.~
+unknown~
+ingredient 0 A
+0
+C 0 0 0 0
+10 30 1500 P
+ T 0 none~
+#706
+manure~
+a bag of smelly manure~
+A bag full of a brown smelly substance lies here.~
+unknown~
+ingredient 0 A
+0
+E 0 0 0 0
+1 50 2500 P
+ T 0 none~
+#707
+ammonia~
+a glass bottle of ammonia.~
+A small glass of ammonia lies here.~
+unknown~
+ingredient 0 A
+0
+F 0 0 0 0
+20 10 4200 P
+ T 0 none~
+#708
+wood~
+wood~
+A Piece of wood~
+unknown~
+fuel 0 A
+0
+20 3 0 0 0
+10 100 2000 P
+ T 0 none~
+#709
+flint~
+a piece of flint and steel~
+A Piece of flint and steel lie here on the ground.~
+unknown~
+igniter 0 A
+0
+20 0 0 0 0
+20 10 5000 P
+ T 0 none~
+#710
+can jetfuel~
+a Can Of Jet Fuel~
+A Can of Jet Fuel has been mysteriously left here~
+unknown~
+fuel 0 A
+0
+100 1 0 0 0
+0 0 0 P
+ T 0 none~
+#711
+secret water~
+a bottle of special water~
+L~
+unknown~
+ingredient 0 A
+0
+H 0 0 0 0
+15 50 3500 P
+ T 0 none~
+#712
+blubber~
+a Jar of Blubber~
+A large jar of a gooey white substance lies here.~
+unknown~
+ingredient 0 A
+0
+I 0 0 0 0
+30 50 2200 P
+ T 0 none~
+#713
+sleeping powder~
+a bag of sleeping powder.~
+A Small bag of green powder lies here.~
+unknown~
+ingredient 0 A
+0
+J 0 0 0 0
+35 20 4500 P
+ T 0 none~
+#714
+oil~
+a Jar of Oil~
+A jar of oil sits on the ground here.~
+unknown~
+ingredient 0 A
+0
+K 0 0 0 0
+0 50 1300 P
+ T 0 none~
+#715
+Coal~
+a Lump of Coal~
+A black lump of coal lies on the ground here.~
+unknown~
+fuel 0 A
+0
+55 1 0 0 0
+0 0 3500 P
+ T 0 none~
+#716
+Poison Powder~
+a small bag of poisonous powder.~
+A small bag of green powder lies here.~
+unknown~
+ingredient 0 A
+0
+L 0 0 0 0
+30 10 750 P
+ T 0 none~
+#717
+sugar~
+a small bag of sugar~
+A small bag of sugar lies over here.~
+unknown~
+ingredient 0 A
+0
+M 0 0 0 0
+1 20 200 P
+ T 0 none~
+#718
+book riding horse~
+`*A Book of Horseback Riding~
+Here lies a book on the art of riding a horse.~
+unknown~
+book 0 A
+0
+40 'horseback' 0 0 0
+40 10 5000 P
+ T 0 none~
+#719
+book unravel~
+a Book of Unravel~
+A Book entitled "Unravel" lies here.~
+unknown~
+book 0 A
+0
+50 'unravel' 0 0 0
+50 200 0 P
+ T 0 none~
+#720
+keyring~
+a Keyring~
+(no description)~
+unknown~
+keyring 0 AU
+0
+1 0 0 0 0
+0 0 0 P
+ T 0 none~
+#721
+pepper dr~
+`*An Ice cold Can of Dr. Pepper~
+A purple can lies here on the ground.~
+unknown~
+drink 0 A
+0
+36 36 'coke' 0 0
+0 10 5000 P
+ T 0 none~
+#722
+test~
+test~
+Test~
+unknown~
+armor 0 AU
+0
+0 0 0 0 0
+0 0 0 P
+A
+13 50
+ T 0 none~
+#723
+table~
+table~
+A table of asmodeus~
+unknown~
+container 0 0
+0
+100 E 0 100 100
+0 0 0 P
+ T 0 none~
+#740
+Test sword~
+test sword~
+Test~
+unknown~
+weapon 0 AN
+A
+exotic 2 64 slash 0
+70 500 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#700
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 702 spec_alice
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+700 0 0 0 0 0 50 25 0 24
+705 0 0 0 0 0 100 100 0 24
+0
+
+
+
+#MOBPROGS
+#701
+if clan $n 'shadow'
+stop
+else
+say Need some coal?
+~
+#702
+if clan $n 'shadow'
+stop
+else
+say hello
+say Need some coal?
+end
+endif
+~
+#0
+
+#OBJPROGS
+#701
+obj echo Testing start delay
+obj delay 5
+obj echo Testing delay works
+obj delay 5
+obj echo testing delay works 2
+~
+#702
+obj echo `!Works!!!!!
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

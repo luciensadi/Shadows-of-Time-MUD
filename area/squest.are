@@ -1,0 +1,159 @@
+#AREADATA
+Name Small Quest~
+Builders Diem~
+VNUMs 2001 2020
+Credits Immortal Small Quest area~
+Security 10
+Flags CEF
+End
+
+
+
+#MOBILES
+#2001
+fat dragon tail~
+The Tail of the Fate Dragon~
+A long tail lays here, extending to the south.
+~
+~
+dragon~
+ABFTe 256 64 16384 6 -1  -1000 0
+999 900 500d1000+75000 0d0+0 5d300+50 crush
+-300 -300 -300 -300
+0 0 BEH F
+stand stand none 50000
+AHZ ACDEFGHIJKPQUVX giant unknown
+F vul I
+#2005
+fat dragon head~
+The Head of the `!D`1ragon`7~
+The head of the dragon is here.
+~
+~
+dragon~
+ABFRTe 256 32832 0 1024 -1  -1000 0
+1200 4000 8d50000+35000 1000d1000+1000 5d200+750 smash
+-900 -900 -900 -900
+BDHMO EJKLNO BEH F
+stand stand none 100000
+AHZ ACDEFGHIJKPQUVX huge unknown
+F vul I
+#0
+
+
+
+#OBJECTS
+#2001
+glowing portal~
+`^T`6he `^G`6lowing`^ P`6ortal`7~
+`^T`6he `^G`6lowing`^ P`6ortal`7~
+unknown~
+portal 0 0
+CFG 0 0 AEGHIJK 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#2001
+The Torso of the Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 2002
+D1
+~
+~
+0 0 2003
+D2
+~
+~
+0 0 2005
+D3
+~
+~
+0 0 2004
+S
+#2002
+the Tail of the Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 2006
+D2
+~
+~
+0 0 2001
+S
+#2003
+The Leg of the Dragon~
+~
+0 0 0
+D3
+~
+~
+0 0 2001
+S
+#2004
+The Arm of the Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 2001
+S
+#2005
+The Head of the Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 2001
+S
+#2006
+The Tail of the Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 2002
+S
+#0
+
+
+
+#SPECIALS
+M 2005 spec_breath_any_but_acid
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

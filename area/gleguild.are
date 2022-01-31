@@ -1,0 +1,337 @@
+#AREADATA
+Name Gleeman Guild Area~
+Builders None~
+VNUMs 9851 9861
+Credits `4[`2GUILD `4]`* Allen     Gleeman Guild Safe~
+Security 10
+Flags CEF
+Version 4
+End
+
+
+
+#MOBILES
+#9852
+man gleeman scar~
+A Gleeman~
+A man is here, sitting on the couch near the wall.
+~
+There is a large scar on his right cheek.  He seems some what weathered,
+brown hair and brown eyes.  Noticeing you looking at him, he fixes his eyes
+on you.  
+~
+ghealdan~
+0 0
+ABZe 80 1104 129 512 -1  0 0
+100 500 200d50+100 0d0+0 2d300+100 crush
+0 0 0 0
+0 ABb CD 0
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+M GIVE 9852 dark~
+#9858
+A low life Critic~
+`*Critic~
+A critic is here boasting about how much your acting sucks!
+~
+~
+murandy~
+0 0
+ABGTUZe 472 9792 0 32768 -1  0 0
+50 0 100000d2+0 0d0+0 10d5+0 slice
+-200 -200 -200 -200
+FHKU ABCDEFGHIJKLMNOPQTXYZab 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#9859
+Gunther~
+`*Gunther~
+A rather large man is here with his arms folded, guarding the door.
+~
+~
+illian~
+0 0
+ABTYZe 33104 3152 1 0 -1  0 0
+200 500 15000d1+0 0d0+0 3d300+250 crush
+-150 -150 -150 -180
+DFHK ABJK EGHI a
+stand stand male  100
+AHMV ABCDEFGHIJK medium unknown
+M ACT 9860 peer~
+M ACT 9859 bow~
+#9861
+Jeramy the Master Bard~
+`*Jeramy~
+Jeramy the Master Bard is here, drunk and happy.
+~
+~
+andor~
+0 0
+ABJKMQYZab 0 0 0 0 -1  0 0
+250 0 2000d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand male  0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#9859
+gleeman key~
+an old key~
+A rusted old key.~
+steal~
+key 0 AO
+0
+0 0 0 0 0
+0 0 0 P
+ T 0 none~
+#0
+
+
+
+#ROOMS
+#9851
+Entrance to the Theater.~
+Wall's lined with posters of up comming performances and performances of
+the past adorn here, dominated by two dark, heavey wooden door's.  
+~
+0 0 0
+D0
+~
+~
+3 0 9852
+D2
+~
+~
+0 0 13181
+S
+#9852
+The Main Lobby~
+The smell of popcorn and freshly baked good's fill's your sences as the
+room is alive with people from all over the lands to see tonight's
+performance.  
+~
+0 0 0
+D0
+~
+~
+0 0 9855
+D1
+~
+~
+0 0 9853
+D2
+~
+~
+3 0 9851
+D3
+~
+~
+0 0 9854
+S
+#9853
+Stairs to the balcony~
+~
+0 0 0
+D3
+~
+~
+0 0 9852
+D4
+~
+~
+0 0 9856
+S
+#9854
+Stairs to the Balcony~
+~
+0 0 0
+D1
+~
+~
+0 0 9852
+D4
+~
+~
+0 0 9857
+S
+#9855
+Theater Seating~
+Not to big, though, not small eather, you stand in the auditorium. 
+Looking around you dont see much.  Like any other auditorium, this one has a
+high ceiling and the balcony is about midway up from the top.  The seating
+is rows of crude wooden benches, but it works.  There are steps leading up
+to the stage here.  
+~
+0 0 0
+D0
+~
+~
+0 0 9859
+D2
+~
+~
+0 0 9852
+S
+#9856
+East Balcony~
+Ten rows deep and ten rows wide, this is a rather nice balcony with a
+decent view of the stage.  There are no seats however, standing room only.  
+~
+0 0 0
+D1
+~
+~
+3 9859 9858
+D5
+~
+~
+0 0 9853
+S
+#9857
+West Balcony~
+Ten rows deap and ten rows wide, this is a rather nice balcony with a
+decent view of the stage.  There are no seat's however, standing room only. 
+~
+0 0 0
+D5
+~
+~
+0 0 9854
+S
+#9858
+The Critic's Booth.~
+Here is where the critics make up their minds if they liked your
+performance or not.  Perhaps a bit of your unique persuasion would help them
+see that you infact are an excellent performer and that others would do well
+to see your act.  
+~
+0 138412032 0
+D3
+~
+~
+3 9859 9856
+S
+#9859
+Performance Stage.~
+Candles for stage lights and loose boards for a stage, this is where
+young and professional entertainers alike come to put a good show on for the
+awaiteing crowd.  
+~
+0 0 0
+D2
+~
+~
+0 0 9855
+D3
+~
+~
+3 9859 9860
+S
+#9860
+Back Stage~
+Holding true to Gleeman tradition, back stage you see stacked one atop
+the other keg's of ale, both dark and lite, and there is always a fresh tap
+as the ale doesnt stand long here.  East are some tables to rest at and
+Jeramy the Master Bard can be found there, drunk as only any true Gleeman
+should be, when not thinking up stories to tell to the masses.  
+~
+0 138412040 0
+D0
+~
+~
+0 0 9861
+D1
+~
+~
+3 9859 9859
+S
+#9861
+Back Stage~
+~
+0 138413064 0
+D2
+~
+~
+0 0 9860
+M 150 H 150
+S
+#0
+
+
+
+#SPECIALS
+M 9861 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 9851 0 1
+D 0 9852 2 1
+D 0 9856 1 2
+D 0 9858 3 2
+D 0 9859 3 2
+D 0 9860 1 2
+M 0 9852 1 9852 1 100 Load A Gleeman
+M 0 9858 6 9858 5 100 Load `*Critic
+M 0 9859 1 9859 1 100 Load `*Gunther
+E 0 9859 0 19 0 100 An old key is loaded held in the hands of `*Gunther
+M 0 9861 1 9861 1 100 Load `*Jeramy
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#9852
+tell $n hemm
+emote looks at the dark scroll you just given to him and starts to unroll it.
+emote looks back up at you and his expression tells you nothing about what he is thinking.
+tell $n So, Justin sent you? I see.  According to this, you are some what sympathdic to our group.
+emote studies you for a moment
+emote looks back at the scroll
+tell $n well, It says here that I should test your abilities.  So listen up, I will only say this once.
+tell $n Go to the Westren Woods, clear the evil there out and stop the advance of the Blight that grows there.
+tell $n Go with care.
+emote rolls up the scroll and walks away.
+mob completequeststep $n 6 1
+~
+#9859
+if clan $n gleeman
+mob transfer $n 9860
+else
+say No admitance beyond this point. Get off stage.
+done
+~
+#9860
+mob delay 2
+if clan $n 'gleeman'
+remove key
+give key $n
+mob oload 9859
+say Don't LOSE this key!
+else
+say Buzz off!
+endif
+wear key
+break
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#9852
+~
+#0
+
+#$
